@@ -1,0 +1,1676 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "An analyst is constructing an interest rate tree with monthly time steps; i.e., t = 1/12. The\ncurrent short-term rate is 4.0%. His term structure model assumes an annual basis point\nvolatility of 180bps. He employs Model 1 which assumes normally distributed rates and zero\ndrift. Here is his rate tree:\n  \nWhat is the un-displayed missing value?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/1u.png",
+        "options": {
+            "A": "A.4.20%",
+            "B": "B.4.83%",
+            "C": "C.5.04%",
+            "D": "D.6.59%"
+        },
+        "answer": "C",
+        "explanation": "In month 2: $r_0 + 2\\sigma\\sqrt{dt} = 4\\% + 2 \\times 0.018 \\times \\sqrt{1/12} = 5.04\\%$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest Rate Models, Short Rate Models, Volatility",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "The current short-term rate is 4.00%. Under a Ho-Lee Model with time-dependent drift, the\ntime step is monthly and the annualized drifts are as follows: +100bps in the first month and\n+80bps in the second month. The annual basis point volatility is 200bps.\nWhat is the value of the missing node?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/2u.png",
+        "options": {
+            "A": "A.2.447%",
+            "B": "B.2.677%",
+            "C": "C.2.995%",
+            "D": "D.3.256%"
+        },
+        "answer": "C",
+        "explanation": "$$\nr_0 + (\\lambda_1 + \\lambda_2)dt - 2\\sigma \\sqrt{dt} = 4\\% + \\frac{0.01 + 0.008}{12} - 2 \\times 0.02 \\times \\sqrt{\\frac{1}{12}} = 2.995\\%\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest Rate Models, Term Structure of Interest Rates, Risk-neutral Valuation",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "An analyst constructed an interest rate tree with monthly time steps, where t = 1/12. The\ncurrent short-term rate is 3.0%. His term structure model assumes an annual basis point\nvolatility of 200bps with an annual drift of 50bps. He employs Model 2 which assumes normally\ndistributed rates and incorporating drift. Here is his rate tree:\n \n \nWhat is the un-displayed missing value?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/3u.png",
+        "options": {
+            "A": "A.1.93%",
+            "B": "B.2.17%",
+            "C": "C.2.38%",
+            "D": "D.3.01%"
+        },
+        "answer": "A",
+        "explanation": "In month 2: $r_0 + 2\\lambda dt - 2\\sigma \\sqrt{dt} = 3\\% + 2 \\times 0.005 \\times \\frac{1}{12} - 2 \\times 0.02 \\times \\sqrt{\\frac{1}{12}} = 1.93\\%$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest Rate Models, Term Structure Models, Numerical Methods for Option Pricing",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Suppose an investor expects that the 1-year rate will remain at 6% for the first year for a\n2-year zero-coupon bond. The investor also projects a 50% probability that the 1-year spot rate\nwill be 8% in one year and a 50% probability that the 1-year spot rate will be 4% in one year.\nWhich of the following inequalities most accurately reflects the convexity effect for this 2-\nyear bond using Jensen’s inequality formula?",
+        "image": "",
+        "options": {
+            "A": "A.$0.89031 > $0.89000",
+            "B": "B.$0.89000 > $0.80000",
+            "C": "C.$0.94340 > $0.89031",
+            "D": "D.$0.94373 > $0.94340"
+        },
+        "answer": "A",
+        "explanation": "$$\nE \\left( \\frac{1}{1+r} \\right) > \\frac{1}{E(1+r)}\n$$\n\n$$\nE \\left( \\frac{1}{1+r} \\right) = 0.5 \\times \\frac{1}{1.08} + 0.5 \\times \\frac{1}{1.04} = 0.94373 \\implies \\frac{0.94373}{1.06} = 0.89031\n$$\n\n$$\n\\frac{1}{E(1+r)} = \\frac{1}{0.5 \\times 1.08 + 0.5 \\times 1.04} = 0.94340 \\implies \\frac{0.94340}{1.06} = 0.89000\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Term Structure of Interest Rates, Convexity, Jensen's Inequality",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "A risk-free zero-coupon bond with a face value of USD 1,000 and a maturity of one year is\nbeing traded at a price of USD 941. The current risk-free 6-month interest rate is 6%. An\nanalyst uses a simple two-period risk-neutral binomial pricing model that assumes the risk-free\n6-month interest rate in 6 months will be either 6.5% or 5.5%. The risk-neutral probability\nmodel suggests that:",
+        "image": "",
+        "options": {
+            "A": "A.The 6-month risk-free interest rate is equally likely to decrease to 5.5%",
+            "B": "B.The 6-month risk-free interest rate is more likely to decrease to 5.5% than to increases to\n6.5%.",
+            "C": "C.The 6-month risk-free interest rate is less likely to decrease to 5.5% than to increase to\n6.5%.",
+            "D": "D.There is insufficient information to determine the risk-neutral probabilities."
+        },
+        "answer": "C",
+        "explanation": "$$\n\\frac{1000}{\\left(1 + \\frac{6.5\\%}{2}\\right)} \\times p + \\frac{1000}{\\left(1 + \\frac{5.5\\%}{2}\\right)} \\times (1 - p) = 941 \\times \\left(1 + \\frac{6\\%}{2}\\right)\n$$\n\n$$\np = 85\\%\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Binomial pricing model, Risk-neutral valuation, Interest rate modeling.",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "An investor expects the current 1-year rate for a zero-coupon bond to remain at 6%, the 1-\nyear rate next year to be 8%, and the 1-year rate in two years to be 10%. What is the 3-year\nspot rate for a zero-coupon bond with a face value of $1, assuming all investors have the same\nexpectations of future 1-year rates for zero-coupon bonds?",
+        "image": "",
+        "options": {
+            "A": "A.7.888%",
+            "B": "B.7.988%",
+            "C": "C.8.000%",
+            "D": "D.8.088%"
+        },
+        "answer": "B",
+        "explanation": "$$ \n\\frac{\\$1}{1.06 \\times 1.08 \\times 1.10} = \\frac{\\$1}{(1 + r_3)^3} \n$$\n\n$$ \n\\Rightarrow r_3 = \\sqrt[3]{\\frac{1}{1.06 \\times 1.08 \\times 1.10}} - 1 = 7.988\\% \n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Term Structure of Interest Rates, Yield Curve, Spot Rates",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "Using Model 2, assume a current short-term rate of 8%, an annual drift of 50bps, and a short-\nterm rate standard deviation of 2%. In addition, assume the ex-post realization of the dw\nrandom variable is 0.3. After constructing a 2-period interest rate tree with annual periods,\nwhat is the interest rate in the middle node at the end of year 2?",
+        "image": "",
+        "options": {
+            "A": "A.8.0%.",
+            "B": "B.8.8%.",
+            "C": "C.9.0%.",
+            "D": "D.9.6%."
+        },
+        "answer": "C",
+        "explanation": "Using Model2 notation:current short-term rate,r0=8%drift,λ=0.5%standard deviation,\nα = 2%random variable, dw = 0.3change in time, dt = 1Since we are asked to find the interest\nrate at the second period middlenode using Model 2, we know that the tree will recombine to\nthefollowing rate:r0＋2λdt=8% ＋ 2× 0.5%×1 = 9%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest Rate Models, Interest Rate Trees, Financial Modeling",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "An analyst is employing the Cox-Ingersoll-Ross model for the short-term rate process. His\nassumptions include:\nⅠ. t = 1/12\nⅡ. r0 = 1.00%\nⅢ. σ=2.50%\nⅣ. central tendency = 8.00%\nⅤ. speed of mean reversion = 0.60\nⅥ. For the first month, dω=0.160\n \nWhat is the short-rate in the first month under this CIR process?",
+        "image": "",
+        "options": {
+            "A": "A.-0.250%",
+            "B": "B.0.444%",
+            "C": "C.1.390%",
+            "D": "D.2.172%"
+        },
+        "answer": "C",
+        "explanation": "$$\nr_0 + k(\\theta - r)dt + \\sigma\\sqrt{r}d\\omega = 1\\% + 0.6 \\times \\frac{8\\% - 1\\%}{12} + 2.5\\% \\times \\sqrt{1\\%} \\times 0.16 = 1.39\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest Rate Models, Stochastic Processes, Mean Reversion",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Which of the following statements is/are correct regarding the pricing of fixed-income\nsecurities?\nⅠ. The put price serves as the floor value for a puttable bond when interest rates rise.\nⅡ. The more frequent the time steps used for projected fixed-income security values, the more\naccurate the pricing.\nⅢ. The Black-Scholes-Merton model is preferred for the pricing of fixed income securities\nbecause of its continuous time assumption.",
+        "image": "",
+        "options": {
+            "A": "A.II only",
+            "B": "B.I and II only",
+            "C": "C.I and III only",
+            "D": "D.I, II, and III"
+        },
+        "answer": "B",
+        "explanation": "A putable bond allows the bond to be put back to the issuer at a set price when\ninterest rates rise, so statement I is correct. The more frequent the time intervals used for\nprojected fixed-income security values, the more accurate the pricing, so statement II is\ncorrect. However, the Black-Scholes-Merton model is not appropriate for the pricing of fixed-\nincome securities because: (1) it assumes that there is no upper limit to the security’s\nprice; (2) it assumes that interest rates are constant; and it assumes that price volatility is\nconstant. Thus, Statement III is incorrect.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Pricing of Fixed-Income Securities, Puttable Bonds, Continuous Time Models in Finance",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "Using Model1, assume the current short-term interest rate is 5%, annual volatility is 80bps,\nand dw, a normally distributed random variable with mean 0 and standard deviation, √dt, has an\nexpected value of zero. After one month, the realization of dw is -0.5. What is the change in\nthe spot rate and the new spot rate?",
+        "image": "",
+        "options": {
+            "A": "A.0.4%\\t\\t5.4%",
+            "B": "B.-0.4%\\t\\t4.6%",
+            "C": "C.0.8%\\t\\t5.8%",
+            "D": "D.-0.8%\\t\\t4.2%"
+        },
+        "answer": "B",
+        "explanation": "Modell has a no-drift assumption. Using this model, the change in the interest rate\nis predicted as: dr=σdw dr=0.8%×(?0.5)=?0.4%=?40 basis point Since the initial rate was 5%\nand dr = -0.40%, the new spot rate in one month is: 5% ? 0.40% = 4.60%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest rate modeling, Stochastic processes, Volatility",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "Suppose investors have interest rate expectations as illustrated in the decision tree below\nwhere the 1-year rate is expected to be 8%, 6%, or 4% in the second year and either 7% or 5% in\nthe first year for a zero-coupon bond.\n \nIf investors are risk-neutral, what is the price of a $1 face value 2-year zero-coupon bond\ntoday?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/11u.png",
+        "options": {
+            "A": "A.$0.88113.",
+            "B": "B.$0.88634.",
+            "C": "C.$0.89007.",
+            "D": "D.$0.89032"
+        },
+        "answer": "C",
+        "explanation": "$$\np = \\left( \\frac{1}{1.07} \\times 0.5 + \\frac{1}{1.05} \\times 0.5 \\right) / 1.06 = 0.89007\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest Rate Expectations, Zero-Coupon Bonds, Risk-Neutral Pricing",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "A risk manager is pricing a 10-year call option on 10-year Treasuries using a successfully\ntested pricing model. Current interest rate volatility is high and the risk manager is\nconcerned about the effect this may have on short-term rates when pricing the option. Which of\nthe following actions would best address the potential for negative short-term interest rates\nto arise in the model?",
+        "image": "",
+        "options": {
+            "A": "A.The risk manager uses a normal distribution of interest rates.",
+            "B": "B.When short-term rates are negative, the risk manager adjusts the risk-neutral probabilities.",
+            "C": "C.When short-term rates are negative, the risk manager increases the volatility.",
+            "D": "D.When short-term rates are negative, the risk manager sets the rate to zero."
+        },
+        "answer": "D",
+        "explanation": "Negative short-term interest rates can arise in models for which the terminal\ndistribution of interest rates follows a normal distribution. The existence of negative\ninterest rates does not make much economic sense since market participants would generally not\nlend cash at negative interest rates when they can hold cash and earn a zero return. One method\nthat can be used to address the potential for negative interest rates when constructing\ninterest rate trees is to set all negative interest rates to zero. This localizes the change in\nassumptions to points in the distribution corresponding to negative interest rates and\npreserves the original rate tree for all other observations. In comparison, adjusting the risk\nneutral probabilities would alter the dynamics across the entire range of interest rates and\ntherefore not be an optimal approach.When a model displays the potential for negative short-\nterm interest rates, it can still be a desirable model to use in certain situations, especially\nin cases where the valuation depends more on the average path of the interest rate, such as in\nvaluing coupon bonds. Therefore, the potential for negative rates does not automatically rule\nout the use of the model.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Models, Option Pricing, Risk Neutral Probabilities",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "What is the impact on the bond price-yield curve if, all other factors held constant, the\nmaturity of a zero-coupon bond increases? The pricing curve becomes:",
+        "image": "",
+        "options": {
+            "A": "A.less concave.",
+            "B": "B.more concave.",
+            "C": "C.less convex.",
+            "D": "D.more convex."
+        },
+        "answer": "D",
+        "explanation": "As the maturity of a bond increases, the price-yield relationship becomes more\nconvex.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Duration and convexity, Zero-coupon bonds, Bond pricing",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Using Model 1, assume the current short-term interest rate is 5%, annual volatility is\n80bps, and dω, a normally distribution random variable with mean 0 and standard deviation\n√dt, has an expected value of zero. After one month, the realization of dω is -0.5. What is\nthe change in the spot rate and the new spot rate?",
+        "image": "",
+        "options": {
+            "A": "A.0.40% （Change in Spot）； 5.40%（New Spot Rate）",
+            "B": "B.-0.40%（Change in Spot） ； 4.60%（New Spot Rate）",
+            "C": "C.0.80% （Change in Spot）； 5.80%（New Spot Rate）",
+            "D": "D.-0.80%（Change in Spot） ； 4.20%（New Spot Rate）"
+        },
+        "answer": "B",
+        "explanation": "$$\ndr = \\sigma dw = 0.8\\% \\times (-0.5) = -0.4\\%\n$$\n\n$$\nr_1 = r_0 + dr = 5\\% - 0.04\\% = 4.6\\%\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest Rate Models, Stochastic Processes, Volatility",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "The Bureau of Labor Statistics has just reported an unexpected short-term increase in high-\npriced luxury automobiles. What is the most likely anticipated impact on a mean-reverting model\nof interest rates?",
+        "image": "",
+        "options": {
+            "A": "A.The economic information is long-lived with a low mean reversion parameter.",
+            "B": "B.The economic information is short-lived with a low mean reversion parameter.",
+            "C": "C.The economic information is long-lived with a high mean reversion parameter.",
+            "D": "D.The economic information is short-lived with a high mean reversion parameter."
+        },
+        "answer": "D",
+        "explanation": "The economic news is most likely short-term in nature. Therefore, the mean\nreversion parameter is high so the mean reversion adjustment per period will be relatively\nlarge.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Mean reversion, Interest rate models, Economic news impact",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Using the Vasicek model, assume a current short-term rate of 6.2% and an annual volatility\nof the interest rate process of 2.5%. Also assume that the long-run mean-reverting level is\n13.2% with a speed of adjustment of 0.4. Within a binomial interest rate tree, what are the\nupper and lower node rates after the first month?",
+        "image": "",
+        "options": {
+            "A": "A.(Upper node)6.67%,(Lower node)5.71%",
+            "B": "B.(Upper node)6.67%,(Lower node)6.24%",
+            "C": "C.(Upper node)7.16%,(Lower node)6.24%",
+            "D": "D.(Upper node)7.16%\\t\\t,(Lower node)5.71%"
+        },
+        "answer": "D",
+        "explanation": "$$\n\\text{upper node} = 6.2\\% + \\frac{(0.4)(13.2\\% - 6.2\\%)}{12} + \\frac{2.5\\%}{\\sqrt{12}} = 7.16\\%\n$$\n\n$$\n\\text{lower node} = 6.2\\% + \\frac{(0.4)(13.2\\% - 6.2\\%)}{12} - \\frac{2.5\\%}{\\sqrt{12}} = 5.71\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest Rate Modeling, Binomial Interest Rate Trees, Vasicek Model",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Which of the following statements best characterizes the differences between the Ho-Lee\nmodel with drift and the lognormal model with drift?",
+        "image": "",
+        "options": {
+            "A": "A.In the Ho-Lee model and the lognormal model the drift terms are multiplicative.",
+            "B": "B.In the Ho-Lee model and the lognormal model the drift terms are additive.",
+            "C": "C.In the Ho-Lee model the drift terms are multiplicative, but in the lognormal model the drift\nterms are additive.",
+            "D": "D.In the Ho-Lee model the drift terms are additive, but in the lognormal model the drift terms"
+        },
+        "answer": "D",
+        "explanation": "The Ho-Lee model with drift is very flexible, allowing the drift terms each period\nto vary. Hence, the cumulative effect is additive. In contrast, the lognormal model with drift\nallows the drift terms to vary, but the cumulative effect is multiplicative.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Models, Quantitative Finance, Model Comparison",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Which of the following statements about callable bonds compared to non-callable bonds is\nfalse?",
+        "image": "",
+        "options": {
+            "A": "A.They have less price volatility.",
+            "B": "B.They have negative convexity.",
+            "C": "C.Capital gains are capped as yields rise.",
+            "D": "D.At low yields, reinvestment rate risk rises."
+        },
+        "answer": "C",
+        "explanation": "Callable bonds have the following characteristics:Less price volatility.Negative\nconvexity.Capital gains are capped as yields fall.Exhibit increased reinvestment rate risk when\nyields fall.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Callable Bonds Characteristics，Convexity，Reinvestment Rate Risk",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Regarding the pricing of fixed-income investments with binomial trees, a risk-neutral\napproach assumes that the value of the asset:",
+        "image": "",
+        "options": {
+            "A": "A.Does not change",
+            "B": "B.Changes in a random way",
+            "C": "C.Grows at the risk-free rate",
+            "D": "D.Grows at the rate of expected returns."
+        },
+        "answer": "C",
+        "explanation": "A risk-neutral approach is one in which the value of the underlying asset is\nassumed to grow at the risk-free rate.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Binomial tree pricing, Risk-neutral valuation, Fixed-income investments",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "Tuckman's Model 1 assumes zero drift and is also called a normal model. His Model 2 adds a\nterm for drift. Each of the following is true about these two models, according to Tuckman,\nEXCEPT for:",
+        "image": "",
+        "options": {
+            "A": "A.A weakness of Model 1 (normal model) is that the short-term rate can become negative",
+            "B": "B.Model 1 implies a term structure that is perfectly flat at the current rate for all\nmaturities, including the long-term rates",
+            "C": "C.Model 2 is more capable of producing an upward-sloping term structure, which is often\nobserved",
+            "D": "D.Model 2 is an equilibrium model, rather than an arbitrage-free model, because no attempt is"
+        },
+        "answer": "B",
+        "explanation": "Model 1 implies a structure, but only in the near term: convexity effects produce a\ndownward-sloping term structure in the overall",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Tuckman's models, Term structure of interest rates, Interest rate modeling",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "The Black-Scholes-Merton option pricing model is not appropriate for valuing options on\ncorporate bonds because corporate bonds:",
+        "image": "",
+        "options": {
+            "A": "A.have credit risk.",
+            "B": "B.have an upper price bound.",
+            "C": "C.have constant price volatility.",
+            "D": "D.are not priced by arbitrage."
+        },
+        "answer": "B",
+        "explanation": "The Black-Scholes-Merton model cannot be used for the valuation of fixed-income\nsecurities because it makes the following assumptions, which are not reasonable for valuing\nfixed-income securities:●There is no upper price bound.●The risk-free rate is constant.●Bond\nvolatility is constant.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivatives and Option Pricing, Fixed-Income Securities, Model Assumptions in Pricing",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "A risk manager is pricing a 10-year call option on 10-year Treasuries using a successfully\ntested pricing model. Current interest rate volatility is high and the risk manager is\nconcerned about the effect this may have on short-term rates when pricing the option. Which of\nthe following actions would best address the potential for negative short-term interest rates\nto arise in the model?",
+        "image": "",
+        "options": {
+            "A": "A.The risk manager uses a normal distribution of interest rates.",
+            "B": "B.When short-term rates are negative, the risk manager adjusts the risk-neutral probabilities.",
+            "C": "C.When short-term rates are negative, the risk manager increases the volatility.",
+            "D": "D.When short-term rates are negative, the risk manager sets the rate to zero."
+        },
+        "answer": "D",
+        "explanation": "Negative short-term interest rates can arise in models for which the terminal\ndistribution of interest rates follows a normal distribution. The existence of negative\ninterest rates does not make much economic sense since market participants would generally not\nlend cash at negative interest rates when they can hold cash and earn a zero return. One method\nthat can be used to address the potential for negative interest rates when constructing\ninterest rate trees is to set all negative interest rates to zero. This localizes the change in\nassumptions to points in the distribution corresponding to negative interest rates and\npreserves the original rate tree for all other observations. In comparison, adjusting the risk\nneutral probabilities would alter the dynamics across the entire range of interest rates and\ntherefore not be an optimal approach. When a model displays the potential for negative short-\nterm interest rates, it can still be a desirable model to use in certain situations, especially\nin cases where the valuation depends more on the average path of the interest rate, such as in\nvaluing coupon bonds. Therefore, the potential for negative rates does not automatically rule\nout the use of the model.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Models, Option Pricing, Risk-Neutral Valuation",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "An analyst is building a short-term interest rate tree according to the Vasicek Model which\nis characterized by mean reversion. t = 1/12. The current short-term rate is 8.00%. The annual\nvolatility is 200bps. The central tendency is 3.00%. The speed of mean reversion is equal to\n0.60. Here is his rate tree:\n \n \n \n \nWhat is the value in the Vasicek tree for Rud?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/23u.png",
+        "options": {
+            "A": "A.6.833%",
+            "B": "B.7.513%",
+            "C": "C.8.019%",
+            "D": "D.9.225%"
+        },
+        "answer": "B",
+        "explanation": "$$\nr_{ud} = r_{u} + k(\\theta - r_{u}) dt - \\sigma \\sqrt{dt} = 8.3274\\% + 0.6 \\times \\frac{3\\% - 8.3274\\%}{12} - 0.02 \\times \\sqrt{\\frac{1}{12}} = 7.484\\%\n$$\n\n$$\nr_{du} = r_{d} + k(\\theta - r_{d}) dt + \\sigma \\sqrt{dt} = 7.1726\\% + 0.6 \\times \\frac{3\\% - 7.1726\\%}{12} + 0.02 \\times \\sqrt{\\frac{1}{12}} = 7.541\\%\n$$\n\n$$\n\\Rightarrow \\frac{7.484\\% + 7.541\\%}{2} = 7.513\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Mean Reversion, Vasicek Model, Interest Rate Volatility",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "A risk manager is constructing a term structure model and intends to use the Cox-Ingersoll-\nRoll Model. Which of the following describes this model?",
+        "image": "",
+        "options": {
+            "A": "A.The model presumes that the volatility of the short rate will increase at a predetermined\nrate.",
+            "B": "B.The model presumes that the volatility of the short rate will decline exponentially to a\nconstant level.",
+            "C": "C.The model presumes that the basis-point volatility of the short rate will be proportional to\nthe rate.",
+            "D": "D.The model presumes that the basis-point volatility of the short rate will be proportional to"
+        },
+        "answer": "D",
+        "explanation": "In the CIR model, the basis-point volatility of the short rate is not independent\nof the short rate as other simpler models assume. The annualized basis-point volatility equals\nand therefore increases as a function of the square root of the rate.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Term structure models, Cox-Ingersoll-Ross (CIR) model, Short-rate models",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "Which of the following choices correctly characterizes basis point volatility and yield\nvolatility as a function of the level of the rate within the lognormal model?",
+        "image": "",
+        "options": {
+            "A": "A.(Basis Point Volatility) Increases,(Yield Volatility) constant",
+            "B": "B.(Basis Point Volatility) Increases,(Yield Volatility) decreases",
+            "C": "C.(Basis Point Volatility) decreases,(Yield Volatility) constant",
+            "D": "D.(Basis Point Volatility) decreases,(Yield Volatility) decreases"
+        },
+        "answer": "A",
+        "explanation": "Choices B and D can be eliminated because yield volatility is constant. Basis point\nvolatility under the CIR model increases at a decreasing rate, whereas basis point volatility\nunder the lognormal model increases linearly. Therefore, basis point volatility is an\nincreasing function for both models.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Basis point volatility, Yield volatility, Lognormal model",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "Which of the following statements regarding the differences between Basel I, Basel II.5, and\nthe Fundamental Review of the Trading Book (FRTB) for market risk capital calculations is\nincorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Both Basel I and Basel II.5 require calculation of VaR with a 99% confidence interval.",
+            "B": "B.FRTB requires the calculation of expected shortfall with a 97.5% confidence interval.",
+            "C": "C.FRTB requires adding a stressed VaR measure to complement the expected shortfall calculation.",
+            "D": "D.The 10-day time horizon for market risk capital proposed under Basel I incorporates a recent"
+        },
+        "answer": "C",
+        "explanation": "Basel I and Basel II.5 use VaR with a 99% confidence interval and the FRTB uses the\nexpected shortfall with a 97.5% confidence interval. Basel I market risk capital requirements\nproduced a very current result because the 10-day horizon incorporated a recent period of time.\nThe FRTB does not require adding a stressed VaR to the expected shortfall calculation. It was\nBasel II.5 that required the addition of a stressed VaR.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Basel Accords, Value at Risk (VaR), Expected Shortfall",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "What is the difference between using a 95% value at risk (VaR) and a 95% expected shortfall\n(ES) for a bond portfolio with $825 million in assets and a probability of default of 3%?",
+        "image": "",
+        "options": {
+            "A": "A.Both measures will show the same result.",
+            "B": "B.The VaR shows a loss of $495 million while the expected shortfall shows no loss.",
+            "C": "C.The VaR shows no loss while the expected shortfall shows a $495 million loss.",
+            "D": "D.The VaR shows no loss while the expected shortfall shows a $395 million loss."
+        },
+        "answer": "C",
+        "explanation": "The VaR measure would show a $0 loss because the probability of default is less\nthan 5%. Having a 3% probability means that three out of five times, in the tail, the portfolio\nwill experience a total loss. The potential loss is $495 million(= 3/5 x $825 million).",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Expected Shortfall (ES), Probability of Default",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "Which of the following statements represents a criteria for classifying an asset into the\ntrading book?\nI. The bank must be able to physically trade the asset.\nII. The risk of the asset must be managed by the bank's trading desk.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor II."
+        },
+        "answer": "C",
+        "explanation": "The criteria for classification as a trading book asset are: (1) the bank must be\nable to physically trade the asset, and (2) the bank must manage the associated risks on the\ntrading desk.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Trading book criteria, Risk management, Asset classification",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "Which of the following statements comparing VaR with expected shortfall is true?",
+        "image": "",
+        "options": {
+            "A": "A.Expected shortfall is sub-additive while VaR is not.",
+            "B": "B.Both VaR and expected shortfall measure the amount of capital an investor can expect to lose\nover a given time period and are, therefore, interchangeable as risk measures.",
+            "C": "C.Both VaR and expected shortfall depend on the assumption of a normal distribution of returns.",
+            "D": "D.VaR can vary according to the confidence level selected, but expected shortfall will not."
+        },
+        "answer": "A",
+        "explanation": "VaR measures the expected amount of capital one can expect to lose within a given\nconfidence level over a given period of time. One of the problems with VaR is that it does not\nprovide information about the expected size of the loss beyond the VaR. VaR is often\ncomplemented by the expected shortfall, which measures the expected loss conditional on the\nloss exceeding the VaR. Note that since expected shortfall is based on VaR, changing the\nconfidence level may change both measures. A key difference between the two measures is that\nVaR is not sub-additive, meaning that the risk of two funds separately may be lower than the\nrisk of a portfolio where the two funds are combined. Violation of the sub-additive assumption\nis a problem with VaR that does not exist with expected shortfall.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Expected Shortfall (ES), Risk Measure Properties",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "Which of the following risks is specifically recognized by the incremental risk charge\n(IRC)?",
+        "image": "",
+        "options": {
+            "A": "A.Expected shortfall risk, because it is important to understand the amount of loss potential\nin the tail.",
+            "B": "B.jump-to-default risk, as measured by 99.9% VaR, because a default could cause a significant\nloss for the bank.",
+            "C": "C.Equity price risk, because a change in market prices could materially impact mark-to-market\naccounting for risk.",
+            "D": "D.Interest rate risk, as measured by 97.5% expected shortfall, because an increase in interest"
+        },
+        "answer": "B",
+        "explanation": "The two types of risk recognized by the incremental risk charge are: (1) credit\nspread risk, and (2) jump-to-default risk. Jump-to-default risk is measured by 99.9% VaR and\nnot 97.5% expected shortfall.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Incremental Risk Charge (IRC), Jump-to-Default Risk, Credit Spread Risk",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "Expected shortfall is generally suggested as a better alternative than VaR during market\nturmoil. Which of the following statements regarding VaR and ES is true?",
+        "image": "",
+        "options": {
+            "A": "A.ES leads to more required economic capital than VaR does for the same confidence level.",
+            "B": "B.While VaR ensures that the estimate of portfolio risk is less than or equal to the sum of the\nrisks of that portfolio’s positions, ES does not.",
+            "C": "C.Both VaR and ES account for the severity of losses beyond the confidence threshold.",
+            "D": "D.ES is relatively easier to backtest than VaR."
+        },
+        "answer": "A",
+        "explanation": "ES is slowly gaining popularity among financial risk managers. Despite criticism\nfocused on the complexity, computational burden, and backtesting issues associated with\nexpected shortfall, the recent literature suggests that many issues have been resolved or have\nbeen identified as less severe than originally expected, including improvements in backtesting\nmethodologies. VaR has been criticized for its lack of subadditivity. Expected shortfall is\nsubadditive.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value-at-Risk (VaR), Expected Shortfall (ES), Backtesting",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "In estimating correlation matrices, risk managers often assume an underlying distribution\nfor the correlations. Which of the following statements most accurately describes the best-fit\ndistributions for equity correlation distributions, bond correlation distributions, and default\nprobability correlation distributions? The best-fit distribution for the equity, bond, and\ndefault probability correlation distributions, respectively are:",
+        "image": "",
+        "options": {
+            "A": "A.lognormal, generalized extreme value, and normal.",
+            "B": "B.Johnson SB, generalized extreme value, and Johnson SB.",
+            "C": "C.beta, normal, and beta.",
+            "D": "D.Johnson SB, normal, and beta."
+        },
+        "answer": "B",
+        "explanation": "Equity correlation distributions and default probability correlation distributions\nare best fit with the Johnson SB distribution. Bond correlation distributions are best fit with\nthe generalized extreme value distribution.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Correlation matrices, Distribution assumptions, Risk estimation",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "In May of 2005, several large hedge funds had speculative positions in the collateralized\ndebt obligations (CDOs) tranches. These hedge funds were forced into bankruptcy due to the lack\nof understanding of correlations across tranches. Which of the following statements best\ndescribes the positions held by hedge funds at this time and the role of changing correlations?\nHedge funds held:",
+        "image": "",
+        "options": {
+            "A": "A.a long equity tranche and short mezzanine tranche when the correlations in both tranches\ndecreased.",
+            "B": "B.a short equity tranche and long mezzanine tranche when the correlations in both tranches\nincreased.",
+            "C": "C.a short senior tranche and long mezzanine tranche when the correlation in the mezzanine\ntranche increased.",
+            "D": "D.a long mezzanine tranche and short equity tranche when the correlation in the mezzanine"
+        },
+        "answer": "A",
+        "explanation": "A number of large hedge funds were long on the CDO equity tranche and short on the\nCDO mezzanine tranche. Following the change in bond ratings for Ford and General Motors, the\nequity tranche spread increased dramatically. This caused losses on the short equity tranche\nposition.\nAt the same time, the correlation decreased for CDOs in the mezzanine tranche, which led to\nlosses in the mezzanine tranche.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Collateralized Debt Obligations (CDOs), Correlation Risk, Tranche Positions.",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Suppose a creditor makes a $4 million loan to company X and a $4 million loan to company Y.\nBased on historical information of companies in this industry, companies X and Y each have a 7%\ndefault probability and a default correlation coefficient of 0.6. The expected loss for this\ncreditor under the worst case scenario assuming loss given default is 100% is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$280,150.",
+            "B": "B.$351,680.",
+            "C": "C.$439,600.",
+            "D": "D.$560,430."
+        },
+        "answer": "B",
+        "explanation": "$$\nP(AB) = 0.6\\sqrt{0.07(0.93) \\times 0.07(0.93)} + 0.07 \\times 0.07 \n$$\n\n$$\n = 0.6\\sqrt{0.00424} + 0.0049 = 0.04396 \n$$\n\nThus, the expected loss for the worst case scenario for the creditor is:\n$EL = 0.04396 \\times 8,000,000 = 351,680$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Risk, Default Correlation, Expected Loss Calculation",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "Suppose a risk manager examines the correlations and correlation volatility of stocks in the\nDow jones Industrial Average (Dow) for the period beginning in 1972 and ending in 2012.\nExpansionary periods are defined as periods where the U.S. gross domestic product (GDP) growth\nrate is greater than 3.5%, periods are normal when the GDP growth rates are between 0 and 3.5%,\nand recessions are periods with two consecutive negative GOP growth rates. Which of the\nfollowing statements characterizes correlation and correlation volatilities for this sample?\nThe risk manager will most likely find that",
+        "image": "",
+        "options": {
+            "A": "A.correlations and correlation volatility are highest for recessions.",
+            "B": "B.correlations and correlation volatility are highest for expansionary periods.",
+            "C": "C.correlations are highest for normal periods, and correlation volatility is highest for\nrecessions.",
+            "D": "D.correlations are highest for recessions, and correlation volatility is highest for normal"
+        },
+        "answer": "D",
+        "explanation": "Findings of an empirical study of monthly correlations of Dow stocks from 1972 to\n2012 revealed the highest correlation levels for recessions and the highest correlation\nvolatilities for normal periods. The correlation volatilities during a recession and normal\nperiod were 80.5% and 83.4%, respectively.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Business Cycle Phases, Correlation Analysis, Empirical Studies in Finance",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "The risk measure that extracts the dependence structure from the joint distribution function\ncreated from several continuous marginal distribution functions is known as a:",
+        "image": "",
+        "options": {
+            "A": "A.Copula",
+            "B": "B.Volatility",
+            "C": "C.Correlation",
+            "D": "D.Multivariate correlation"
+        },
+        "answer": "A",
+        "explanation": "A copula is a risk measure that extracts the dependence structure from the joint\ndistribution function created from several continuous marginal distribution functions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Dependence structures in risk management, Copulas, Joint distribution functions",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "Which of the following measures is most likely an example of a dynamic financial correlation\nmeasure?",
+        "image": "",
+        "options": {
+            "A": "A.Pairs trading.",
+            "B": "B.Value at risk (VaR).",
+            "C": "C.Binomial default correlation model.",
+            "D": "D.Correlation copulas for collateralized debt obligations (CDOs)."
+        },
+        "answer": "A",
+        "explanation": "Dynamic financial correlations measure the comovement of assets over time. Examples\nof dynamic financial correlations are pairs trading, deterministic correlation approaches, and\nstochastic correlation processes. The other choices are examples of static financial\ncorrelations.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Dynamic Financial Correlation, Pairs Trading, Stochastic Correlation Processes",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "A risk manager uses the past 480 months of correlation data from the Dow Jones Industrial\nAverage (Dow) to estimate the long-run mean correlation of common stocks and the mean reversion\nrate. Based on historical data, the long-run mean correlation of Dow stocks was 34%, and he\nregression output estimates the following regression relationship: Y = 0.215 - 0.77X. Suppose\nthat in April 2014, the average monthly correlation for all Dow stocks was 33%. What is the\nestimated one-period autocorrelation for this time period based on the mean reversion rate\nestimated in the regression analysis?",
+        "image": "",
+        "options": {
+            "A": "A.23%",
+            "B": "B.26%",
+            "C": "C.30%",
+            "D": "D.33%"
+        },
+        "answer": "A",
+        "explanation": "The autocorrelation for a one-period lag is 23% for the same sample. The sum of the\nmean reversion rate (77% given the beta coefficient of -0.77) and the one-period\nautocorrelation rate will always equal 100%.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Mean Reversion, Autocorrelation, Regression Analysis",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "The relationship of correlation risk to credit risk is an important area of concern for risk\nmanagers. Which of the following statements regarding default probabilities and default\ncorrelations is incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Creditors benefit by diversifying exposure across industries to lower the default\ncorrelations of debtors.",
+            "B": "B.The default term structure increases with time to maturity for most?investment grade bonds.",
+            "C": "C.The probability of default is higher in the long-term time horizon for non-investment grade\nbonds.",
+            "D": "D.For non-investment grade bonds , the probability of default is higher in the immediate time"
+        },
+        "answer": "C",
+        "explanation": "The probability of default is higher in the immediate time horizon for?non-\ninvestment grade bonds. The probability of default decreases over?time if the company survives\nthe near-term distressed situation.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit Risk Measurement, Default Correlations, Bond Default Probabilities",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Suppose mean reversion exists for a variable with a value of 30 at time period t – 1.\nAssume that the long-run mean value for this variable is 40 and ignore the stochastic term\nincluded in most regressions of financial data. What is the expected change in value of the\nvariable for the next period if the mean reversion rate is 0.4.",
+        "image": "",
+        "options": {
+            "A": "A.-10",
+            "B": "B.-4",
+            "C": "C.4",
+            "D": "D.10"
+        },
+        "answer": "C",
+        "explanation": "The mean reversion rate, α, indicates the speed of the change or reversion back to\nthe mean. If the mean reversion rate is 0.4 and the difference between the last variable and\nlong-run mean is 10 (= 40 – 30), the expected change for the next period is 4 (i.e., 0.4×10 =\n4)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Mean reversion, Time series analysis, Expected value calculation",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "Suppose a risk manager creates a copula function, C, defined by the equation:\n \n \nWhich of the following statements does not accurately describe this copula function?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/41u.png",
+        "options": {
+            "A": "A.Gi  (ui)are standard normal univariate distributions.",
+            "B": "B.Fn is the joint cumulative distribution function.",
+            "C": "C.F1 is the inverse function of Fn that is used in the mapping process.",
+            "D": "D.ρF is the correlation matrix structure of the joint cumulative function Fn."
+        },
+        "answer": "A",
+        "explanation": "Gi (ui )  are marginal distributions that do not have well-known distribution\nproperties.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Copula functions, Marginal distributions, Joint cumulative distribution function",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "New copula correlation models were used by traders and risk managers during the 2007-2009\nglobal financial crisis. This led to miscalculations in the underlying risk for structured\nproducts such as collateralized debt obligation (CDO) models. Which of the following statements\nleast likely explains the failure of these new copula correlation models during the financial\ncrisis?",
+        "image": "",
+        "options": {
+            "A": "A.The copula correlation models assumed a negative correlation between the equity and senior\ntranches of CDOs.",
+            "B": "B.Correlations for equity tranches of CDOs increased during the financial crisis.",
+            "C": "C.The correlation copula models were calibrated with data from time periods that had low risk.",
+            "D": "D.Correlations for senior tranches of CDOs decreased during the financial crisis."
+        },
+        "answer": "D",
+        "explanation": "During the crisis, the correlations for both the equity and senior tranches of CDOs\nsignificantly increased causing losses in value for both.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Copula correlation models, Structured products, Financial crisis analysis",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Which of the following statements best describes a Gaussian copula?",
+        "image": "",
+        "options": {
+            "A": "A.A major disadvantage of a Gaussian copula model is the transformation of the original\nmarginal distributions in order to define the correlation matrix.",
+            "B": "B.The mapping of each variable to the new distribution is done by defining a mathematical\nrelationship between marginal and unknown distributions.",
+            "C": "C.A Gaussian copula maps the marginal distribution of each variable to the standard normal\ndistribution.",
+            "D": "D.A Gaussian copula is seldom used in financial models because ordinal numbers are required."
+        },
+        "answer": "C",
+        "explanation": "Observations of the unknown marginal distributions are mapped to the standard\nnormal distribution on a percentile-to-percentile basis to create a Gaussian copula.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Copula modeling, Statistical distributions, Correlation and dependence structures",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Suppose an individual buys a correlation swap with a fixed correlation of 0.2 and a notional\nvalue of $1 million for one year. The realized pairwise correlations of the daily log returns\nat maturity for three assets are ρ1,2= 0.7, ρ3,1 = 0.2, and ρ3,2 = 0.3. What is the\ncorrelation swap buyer's payoff at maturity?",
+        "image": "",
+        "options": {
+            "A": "A.$100,000.",
+            "B": "B.$200,000.",
+            "C": "C.$300,000.",
+            "D": "D.$400,000."
+        },
+        "answer": "B",
+        "explanation": "$$\n\\rho_{realized} = \\frac{2}{3^2 - 3} \\times (0.7 + 0.2 + 0.3) = 0.4\n$$\n\nThe payoff for the correlation buyer is then calculated as: $1,000,000 * (0.4 - 0.2) = $200,000",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Correlation derivatives, Derivative pricing, Financial instruments",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "A risk manager uses the past 480 months of correlation data from the Dow Jones Industrial\nAverage (Dow) to estimate the long-run mean correlation of common stocks and the mean reversion\nrate. Based on historical data, the long-run mean correlation of Dow stocks was 32%, and the\nregression output estimates the following regression relationship: Y = 0.215 – 0.75X. Suppose\nthat in April 2014, the average monthly correlation for all Dow stocks was 36%. What is the\nexpected correlation for May 2014 assuming the mean reversion rate estimated in the regression\nanalysis?",
+        "image": "",
+        "options": {
+            "A": "A.32%",
+            "B": "B.33%",
+            "C": "C.35%",
+            "D": "D.37%"
+        },
+        "answer": "B",
+        "explanation": "There is a -4% difference from the long-run mean correlation and April 2014\ncorrelation (32% - 36% = -4%). The inverse of the β coefficient in the regression relationship\nimplies a mean reversion rate of 75%. Thus, the expected correlation for May 2014 is 33%:\nSt=0.75(32%－36%)＋ 0.36=0.33",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Mean Reversion, Regression Analysis, Correlation Analysis",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Assume that a trader is making a relative value trade, selling a U.S. Treasury bond and\ncorrespondingly purchasing a U.S. Treasury TIPS. Based on the current spread between the two\nsecurities, the trader shorts $100 million of the nominal bond and purchases $89.8 million of\nTIPS. The trader then starts to question the amount of the hedge due to changes in yields on\nTIPS in relation to nominal bonds. He runs a regression and determines from the output that the\nnominal yield changes by 1.0274 basis points per basis point change in the real yield. Would\nthe trader adjust the hedge, and if so, by how much?",
+        "image": "",
+        "options": {
+            "A": "A.No.",
+            "B": "B.Yes, by $2.46 million (purchase additional TIPS)",
+            "C": "C.Yes, by $2.5 million (sell a portion of the TIPS)",
+            "D": "D.Yes, by $2.11 million (Purchase additional TIPS)"
+        },
+        "answer": "B",
+        "explanation": "",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hedging, Regression analysis, Interest rate risk",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "Assume that a trader is making a relative value trade, selling a U.S. Treasury bond and\ncorrespondingly purchasing a U.S. Treasury TIPS. Based on the current spread between the two\nsecurities, the trader shorts $100 million of the nominal bond and purchases $89.8 million of\nTIPS. The trader then starts to question the amount of the hedge due to changes in yields on\nTIPS in relation to nominal bonds. He runs a regression and determines from the output that the\nnominal yield changes by 1.0274 basis points per basis point change in the real yield. Would\nthe trader adjust the hedge, and if so, by how much?",
+        "image": "",
+        "options": {
+            "A": "A.No",
+            "B": "B.Yes, by $2.46 million (purchase additional TIPS)",
+            "C": "C.Yes, by $2.5 million (sell a portion of the TIPS)",
+            "D": "D.Yes, by $2.11 million (Purchase additional TIPS)"
+        },
+        "answer": "B",
+        "explanation": "$$\nMD_n \\ast P_n \\ast \\Delta y_n = MD_r \\ast P_r \\ast \\Delta y_r\n$$\n\n$$\nMD_n \\ast 100 \\ast \\Delta y_n = MD_r \\ast 89.8 \\ast \\Delta y_r\n$$\n\n$$\n\\Delta y_n = \\Delta y_r\n$$\n\n$$\n\\rightarrow MD_n = \\frac{89.8}{100} \\ast MD_r\n$$\n\nThe nominal yield changes by 1.0274 basis points per basis point change in the real yield\n\n$$\n\\rightarrow \\frac{\\Delta y_n}{1.0274} = \\frac{\\Delta y_r}{1}\n$$\n\n$$\nMD_n \\ast 100 \\ast \\Delta y_n = MD_r \\ast x \\ast \\Delta y_r\n$$\n\n$$\n\\frac{89.8}{100} \\ast MD_r \\ast 100 \\ast \\Delta y_n = MD_r \\ast x \\ast \\frac{\\Delta y_n}{1.0274}\n$$\n\nSo, $x = 92.26$ million\n\n$$\n92.26 \\text{ million} - 89.8 \\text{ million} = 2.46 \\text{ million}\n$$\n\nThe trader would need to adjust the hedge as follows: \\\\\n$89.8 \\text{ million} \\times 1.0274 = 92.26 \\text{ million}$ \\\\\nThus, the trader needs to purchase additional TIPS worth $2.46$ million.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond Hedging, Relative Value Trading, Regression Analysis",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "If a trader is creating a fixed income hedge, which hedging methodology would be least\neffective if the trader is concerned about the dispersion of the change in the nominal yield\nfor a particular change in the real yield?",
+        "image": "",
+        "options": {
+            "A": "A.One-variable regression hedge.",
+            "B": "B.DV01 hedge",
+            "C": "C.Two-variable regression hedge.",
+            "D": "D.Principal components hedge."
+        },
+        "answer": "B",
+        "explanation": "The DV01 hedge assumes that the yield on the bond and the assumed hedging\ninstruments rises and falls by the same number of basis points; so with a DV01 hedge, there is\nnot much the trader can do to allow for dispersion between nominal and real yields.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Bond Hedging, Hedging Strategies",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "What is the primary difference between historical simulation and bootstrapped historical\nsimulation?",
+        "image": "",
+        "options": {
+            "A": "A.Bootstrapping is non-parametric.",
+            "B": "B.Bootstrapping can be used to compute both value at risk (VaR) and expected shortfall (ES).",
+            "C": "C.Bootstrapping does not require a variance-covariance matrix.",
+            "D": "D.Bootstrapping generates multiple samples."
+        },
+        "answer": "D",
+        "explanation": "In regard to (A), (B) and (C), each are true of both HS and bootstrapped HS (so\nthey are not differences). But while historical simulation computes based on the single sample,\nbootstrapping generates multiple samples where each sample is drawn with replacement from the\noriginal historical data.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Bootstrapping, Historical Simulation, Value at Risk (VaR)",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "Which of the following statements comparing VaR with expected shortfall is true?",
+        "image": "",
+        "options": {
+            "A": "A.Expected shortfall is sub-additive while VaR is not.",
+            "B": "B.Both VaR and expected shortfall measure the amount of capital an investor can expect to lose\nover a given time period and are, therefore, interchangeable as risk measures.",
+            "C": "C.Both VaR and expected shortfall depend on the assumption of a normal distribution of returns.",
+            "D": "D.VaR can vary according to the confidence level selected, but expected shortfall will not."
+        },
+        "answer": "A",
+        "explanation": "VaR measures the expected amount of capital one can expect to lose within a given\nconfidence level over a given period of time. One of the problems with VaR is that it does not\nprovide information about the expected size of the loss beyond the VaR. VaR is often\ncomplemented by the expected shortfall, which measures the expected loss conditional on the\nloss exceeding the VaR. Note that since expected shortfall is based on VaR, changing the\nconfidence level may change both measures. A key difference between the two measures is that\nVaR is not sub-additive, meaning that the risk of two funds separately may be lower than the\nrisk of a portfolio where the two funds are combined. Violation of the sub-additive assumption\nis a problem with VaR that does not exist with expected shortfall.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Expected Shortfall (ES), Sub-additivity",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "Which of the following statements is not an advantage of spectral risk measures over\nexpected shortfall? Spectral risk measures:",
+        "image": "",
+        "options": {
+            "A": "A.consider a manager's aversion to risk.",
+            "B": "B.are a special case of expected shortfall measures.",
+            "C": "C.have the ability to modify the risk measure to reflect an investor's specific risk aversion.",
+            "D": "D.have better smoothness properties when weighting observations."
+        },
+        "answer": "B",
+        "explanation": "Spectral risk measures consider aversion to risk and offer better smoothness\nproperties. Expected shortfall is a special case of spectral risk measures.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Spectral Risk Measures, Expected Shortfall, Risk Aversion",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "A risk manager is analyzing a 1-day 98% VaR model. Assuming 252 days in a year, what is the\nmaximum number of daily losses exceeding the 1-day 98% VaR that is acceptable in a 1-year\nbacktest to conclude, at a 95% confidence level, that the model is calibrated correctly?",
+        "image": "",
+        "options": {
+            "A": "A.5",
+            "B": "B.9",
+            "C": "C.10",
+            "D": "D.12"
+        },
+        "answer": "B",
+        "explanation": "$$\n\\frac{x - pT}{\\sqrt{p(1 - p)T}} > 1.96\n$$\n\n$$\n\\Rightarrow X > 1.96 \\times \\sqrt{2\\% \\times 98\\% \\times 252} + P \\times T = 9.40\n$$\n\nSo the maximum number of exceedances would be 9 to conclude that the model is calibrated correctly.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value-at-Risk (VaR), Backtesting, Confidence Intervals",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "A risk analyst is comparing the use of parametric and non-parametric approaches for\ncalculating VaR and is concerned about some of the characteristics present in the loss data.\nWhich of the following distribution characteristics would make parametric approaches the\nfavored method to use?",
+        "image": "",
+        "options": {
+            "A": "A.Skewness in the distribution",
+            "B": "B.Fat tails in the distribution",
+            "C": "C.Scarcity of high magnitude loss events.",
+            "D": "D.Heteroskedasticity in the distribution"
+        },
+        "answer": "C",
+        "explanation": "Non-parametric approaches can accommodate fat tails, skewness, and any other non-\nnormal features that can cause problems for parametric approaches. However, if the data period\nthat is used in estimation includes few losses or losses with low magnitude, non-parametric\nmethods will often produce risk measures that are too low. Hence, parametric methods would be\nmore appropriate in those situations.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Parametric and Non-parametric methods, Loss data characteristics",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "What type of liquidity risk is most troublesome for complex trading positions?",
+        "image": "",
+        "options": {
+            "A": "A.Endogenous.",
+            "B": "B.Market-specific.",
+            "C": "C.Exogenous.",
+            "D": "D.Spectral."
+        },
+        "answer": "A",
+        "explanation": "Endogenous liquidity risk is especially relevant for complex trading positions",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Endogenous risk, Complex trading positions",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "Which of these statements regarding risk factor mapping approaches is/are correct?\nⅠ. Under the cash flow mapping approach, only the risk associated with the average maturity of\na fixed-income portfolio is mapped.\nⅡ. Cash flow mapping is the least precise method of risk mapping for a fixed-income portfolio.\nⅢ. Under the duration mapping approach, the risk of a bond is mapped to a zero-coupon bond of\nthe same duration.\nⅣ. Using more risk factors generally leads to better risk measurement but also requires more\ntime to be devoted to the modeling process and risk computation.",
+        "image": "",
+        "options": {
+            "A": "A.I and II",
+            "B": "B.I, III, and IV",
+            "C": "C.III and IV",
+            "D": "D.IV only"
+        },
+        "answer": "C",
+        "explanation": "Under the cash flow mapping approach, each payment (and not only the last one) is\nassociated with a different risk factor, so statement I. is incorrect. Statement II.is\nincorrect because the CF mapping approach is more correct than duration or maturity mapping.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Factor Mapping, Cash Flow Mapping, Duration Mapping",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "56",
+        "question_text": "Computing VaR on a portfolio containing a very large number of positions can be simplified\nby mapping these positions to a smaller number of elementary risk factors. Which of the\nfollowing mappings would be adequate?",
+        "image": "",
+        "options": {
+            "A": "A.USD\\/EUR forward contracts are mapped on the USD\\/JPY spot exchange rate.",
+            "B": "B.Each position in a corporate bond portfolio is mapped on the bond with the closest maturity\namong a set of government bonds.",
+            "C": "C.Government bonds paying regular coupons are mapped on zero-coupon government bonds.",
+            "D": "D.A position in the stock market index is mapped on a position in a stock within that index."
+        },
+        "answer": "C",
+        "explanation": "Mapping government bonds paying regular coupons onto zero coupon government bonds\nis an adequate process, because both categories of bonds are government issued and therefore\nhave a very similar sensitivity to risk factors. However, this is not a perfect mapping since\nthe sensitivity of both classes of bonds to specific risk factors (i.e., changes in interest\nrates) may differ.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Risk factor mapping, Bond portfolio management",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "Unconditional testing does not reflect:",
+        "image": "",
+        "options": {
+            "A": "A.the size of the portfolio.",
+            "B": "B.the number of exceptions.",
+            "C": "C.the confidence level chosen.",
+            "D": "D.the timing of the exceptions."
+        },
+        "answer": "D",
+        "explanation": "Unconditional testing does not capture the timing of exceptions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR) backtesting, Statistical tests in risk management, Risk model validation",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "58",
+        "question_text": "The Basel Committee has established four categories of causes for exceptions. Which of the\nfollowing does not apply to one of those categories?",
+        "image": "",
+        "options": {
+            "A": "A.The sample is small.",
+            "B": "B.lntraday trading activity.",
+            "C": "C.Model accuracy needs improvement.",
+            "D": "D.The basic integrity of the model is lacking."
+        },
+        "answer": "A",
+        "explanation": "Causes include the following: bad luck, intraday trading activity, model accuracy\nneeds improvement, and the basic integrity of the model is lacking.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market risk measurement, Model validation, Basel Committee standards",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Basel II requires a backtest at a 99% confidence level of a bank's internal value at risk\n(VaR) model (IMA). Assume the bank's ten-day 99% VaR is $1 million (minimum of 99% is hard-\nwired per Basel). The null hypothesis is: the VaR model is accurate. Out of 1,000 observations,\n25 exceptions are observed (we saw the actual loss exceed the VaR 25 out of 1000 observations).",
+        "image": "",
+        "options": {
+            "A": "A.We will probably call the VaR model good (accurate) but we risk a Type I error.",
+            "B": "B.We will probably call the VaR model good (accurate) but we risk a Type II error.",
+            "C": "C.We will probably call the model bad (inaccurate) but we risk a Type I error.",
+            "D": "D.We will probably call the model bad (inaccurate) but we risk a Type II error."
+        },
+        "answer": "C",
+        "explanation": "We reject the model. Null = good model. To decide the model is bad model is to\nreject null and this implies a risk of type I error.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Value at Risk (VaR), Basel II",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "In setting the threshold in the POT approach, which of the following statements is the most\naccurate? Setting the threshold relatively high makes the model:",
+        "image": "",
+        "options": {
+            "A": "A.More applicable but decreases the number of observations in the modeling procedure.",
+            "B": "B.Less applicable and decreases the number of observations in the modeling procedure.",
+            "C": "C.More applicable but increases the number of observations in the modeling procedure.",
+            "D": "D.Less applicable but increases the number of observations in the modeling procedure."
+        },
+        "answer": "A",
+        "explanation": "There is a trade-off in setting the threshold. It must be high enough for the\nappropriate theorems to hold, but if set too high; there will not be enough observations to\nestimate the parameters.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Peak Over Threshold (POT) approach, Threshold selection in extreme value theory, Trade-offs in statistical modeling",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "The peaks-over-threshold approach generally requires:",
+        "image": "",
+        "options": {
+            "A": "A.More estimated parameters than the GEV approach and shares one parameter with the GEV",
+            "B": "B.Fewer estimated parameters than the GEV approach and shares one parameter with the GEV",
+            "C": "C.More estimated parameters than the GEV approach and does not share any parameters with the\nGEV approach.",
+            "D": "D.Fewer estimated parameters than the GEV approach and does not share any parameters with the"
+        },
+        "answer": "B",
+        "explanation": "Answer: BThe POT approach generally has fewer parameters, but both POT and GEV\napproaches share the shape parameter ξ. Typical financial data have ξ>0, which implies fat\ntails.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Peaks-over-threshold (POT) approach, Generalized Extreme Value (GEV) distribution, Shape parameter (ξ)",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "All of the following approaches improve the traditional historical simulation approach for\nestimating VaR except the:",
+        "image": "",
+        "options": {
+            "A": "A.Volatility-weighted historical simulation.",
+            "B": "B.Age-weighted historical simulation.",
+            "C": "C.Market-weighted historical simulation.",
+            "D": "D.Correlation-weighted historical simulation."
+        },
+        "answer": "C",
+        "explanation": "Age-weighted historical simulation weights observations higher when they appear\ncloser to the event date. Volatility-weighted historical simulation adjusts for changing\nvolatility levels in the data. Correlation-weighted historical simulation incorporates\nanticipated changes in correlation between assets in the portfolio.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Historical Simulation, Risk Measurement Techniques",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "Mill Street Bank has accumulated a long history of loan returns. Mill Street believes that\nthe underlying distribution of loan returns should follow a normal distribution with a mean of\nten and a standard deviation of three. The following table identifies tail VaRs at different\nconfidence levels. Assume the initial analysis uses five tail slices. Calculate the expected\nshortfall at the 95% confidence level and identify the effect on ES when the number of tail\nslices increases.",
+        "image": "",
+        "options": {
+            "A": "A.（ExpectedShortfall）3.72;(IncreasingSlices) ES increases",
+            "B": "B.（Expected Shortfall）3.72;(Increasing Slices)  ES decreases",
+            "C": "C.（Expected Shortfall）3.90;(Increasing Slices)  ES increases",
+            "D": "D.（Expected Shortfall）3.90;(Increasing Slices)  ES decreases"
+        },
+        "answer": "C",
+        "explanation": "2. The content extracted and formatted from the image is as follows:\n\n**Confidence level:**\n- 95%: 3.00\n- 96%: 3.25\n- 97%: 3.60\n- 98%: 4.00\n- 99%: 4.75\n\n**【 算学解析 】** The expected shortfall calculation takes the average of the expected shortfalls at varying confidences in the tail region. Since we are told that there are only five tail slices, there will be four (i.e., n-1) VaR quantiles. Therefore, $S = [(3.25 + 3.6 + 4.00 + 4.75) / (5-1)] = 3.90$. Note that the tail VaR at 95% is not included in the calculation since ES is the average loss beyond 5% VaR. In addition, as the number of tail slices increases, the average ES will increase as the number of higher confidence tail VaRs increases.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Expected Shortfall (ES), Value at Risk (VaR), Tail Risk",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "Which of the following methods is not one of the three approaches for mapping a portfolio of\nfixed-income securities onto risk factors ?",
+        "image": "",
+        "options": {
+            "A": "A.Principle mapping",
+            "B": "B.Duration mapping",
+            "C": "C.Cash flow mapping",
+            "D": "D.Present value mapping"
+        },
+        "answer": "D",
+        "explanation": "Present value mapping is not one of the approaches.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Yield curve risk, Interest rate risk, Fixed-income securities risk factors",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "There is a short position in 1-year bonds with a $150 million face value and a 6% annual\ninterest rate, with interest paid semiannually. The annualized interest rate on zero-coupon\nbonds is 3.8% for a 6-month maturity and 4.1% for a 12-month maturity. Decompose the bond into\nthe cash flows of the two standard instruments, and then determine the present value of the\ncash flows of the standard instruments. What are the present values of each cash flow?",
+        "image": "",
+        "options": {
+            "A": "A.（PV of CF1）-$4,117,945；（PV of CF2） -$139,882,651",
+            "B": "B.（PV of CF1）-$4,226,094；（PV of CF2） -$143,793,919",
+            "C": "C.（PV of CF1）-$4,416,094 ；（PV of CF2）-$148,414,986",
+            "D": "D.（PV of CF1）-$4,879,542；（PV of CF2） -$144,244,783"
+        },
+        "answer": "C",
+        "explanation": "The standard instruments are -150,000,000×(0.06/2) = -$4,500,000 for six months,\nand -$4,500,000 – $150,000,000 = -$154,500,000 for 12 months. The present values are -\n$4,500,000/1.019 = -$4,416,094 and -$154,500,000/1.041 = -$148,414,986",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Bond Valuation, Present Value, Yield Curve",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "66",
+        "question_text": "Assume the profit/loss distribution for XYZ is normally distributed with an annual mean of\n$20 million and a standard deviation of $10 million. The 5% VaR is calculated and interpreted\nas which of the following statements?",
+        "image": "",
+        "options": {
+            "A": "A.5% probability of losses of at least $3.50 million.",
+            "B": "B.5% probability of earnings of at least $3.50 million.",
+            "C": "C.95% probability of losses of at least $3.50 million.",
+            "D": "D.95% probability of earnings of at least $3.50 million."
+        },
+        "answer": "D",
+        "explanation": "The value at risk calculation at 95% confidence is: -20 million＋1.65×10 million=\n-$3.50 million. Since the expected loss is negative and VaR is an implied negative amount, the\ninterpretation is that XYZ will earn less than ＋$3.50 million with 5% probability, which is\nequivalent to XYZ earning at least ＋$3.50 million with 95% probability.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Normal Distribution, Confidence Intervals",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "67",
+        "question_text": "Extreme value theory (EVT) can assist with value at risk (VaR) calculations by providing\nbetter probability estimates of observing extreme losses than that indicated by a standard\nnormal distribution because empirical distributions exhibit fat tails. If one uses the\ngeneralized Pareto distribution (GPD method to generate parameter estimates for the shape\nparameter, fat tails will indicate a:",
+        "image": "",
+        "options": {
+            "A": "A.positive parameter estimate and VaR calculations that are too large",
+            "B": "B.negative parameter estimate and VaR calculations that are too small",
+            "C": "C.positive parameter estimate and VaR calculations that are too small",
+            "D": "D.negative parameter estimate and VaR calculations that are too large"
+        },
+        "answer": "C",
+        "explanation": "Fat tails will generate a positive shape parameter, which indicates that VaR\nestimates are probably too small.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Extreme Value Theory (EVT), Value at Risk (VaR), Generalized Pareto Distribution (GPD)",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "68",
+        "question_text": "A mutual fund has USD 50 billion in assets. The risk manager computes the daily VaR at\nvarious confidence levels as follow:\n \n \nWhat is the closest estimate of the daily expected shortfall at the 97.5% confidence level?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/68u.png",
+        "options": {
+            "A": "A.USD 821 million",
+            "B": "B.USD 895 million",
+            "C": "C.USD 919 million",
+            "D": "D.USD 1,023 million"
+        },
+        "answer": "D",
+        "explanation": "An estimate of the expected shortfall can be obtained by taking the average of the\nVaRs for the various confidence levels that are greater than 97.5%. This leads to an estimate\nof USD 1,022,750,000.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Expected Shortfall (ES), Confidence Levels",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "69",
+        "question_text": "Which of the following statements about expected shortfall estimates and coherent risk\nmeasures are true?",
+        "image": "",
+        "options": {
+            "A": "A.Expected shortfall and coherent risk measures estimate quantiles for the entire loss\ndistribution.",
+            "B": "B.Expected shortfall and coherent risk measures estimate quantiles for the tail region.",
+            "C": "C.Expected shortfall estimates quantiles for the tail region and coherent risk measures\nestimate quantiles for the non-tail region only.",
+            "D": "D.Expected shortfall estimates quantiles for the entire distribution and coherent risk measures"
+        },
+        "answer": "B",
+        "explanation": "ES estimates quantiles for n-1 equal probability masses in the tail region only.\nThe coherent risk measure estimates quantiles for the entire distribution including the tail\nregion.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Expected Shortfall, Coherent Risk Measures, Quantiles",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "70",
+        "question_text": "A risk manager is backtesting a sample at the 95% confidence level to see if a VaR model\nneeds to be recalibrated. He is using 252 daily returns for the sample and discovered 17\nexceptions. What is the Z-Score for this sample when conducting VaR model verification?",
+        "image": "",
+        "options": {
+            "A": "A.0.62",
+            "B": "B.1.27",
+            "C": "C.1.64",
+            "D": "D.2.86"
+        },
+        "answer": "B",
+        "explanation": "$$\nZ = \\frac{17 - 0.05(252)}{\\sqrt{0.05 \\times 0.95 \\times 252}} = \\frac{17 - 12.6}{\\sqrt{11.97}} = 1.27\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Quantitative Risk Management, Value at Risk (VaR), Backtesting Models",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "71",
+        "question_text": "What is a key weakness of the value at risk (VaR) measure? VaR:",
+        "image": "",
+        "options": {
+            "A": "A.does not consider the severity of losses in the tail of the returns distribution.",
+            "B": "B.is quite difficult to compute.",
+            "C": "C.is sub-additive.",
+            "D": "D.has an insufficient amount of back-testing data."
+        },
+        "answer": "A",
+        "explanation": "VaR does not consider losses beyond the VaR threshold level.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at risk (VaR), Tail risk, Risk measurement limitations",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "72",
+        "question_text": "Which of the following statements most likely increases standard errors from coherent risk\nmeasures?",
+        "image": "",
+        "options": {
+            "A": "A.Increasing sample size and increasing the left tail probability.",
+            "B": "B.Increasing sample size and decreasing the left tail probability.",
+            "C": "C.Decreasing sample size and increasing the left tail probability.",
+            "D": "D.Decreasing sample size and decreasing the left tail probability."
+        },
+        "answer": "C",
+        "explanation": "$$\nse(q) = \\frac{\\sqrt{\\frac{(p(1-p))}{n}}} {f(q)}\n$$\n\nAs the left tail probability, $p$, increases, the probability of tail events increases, which also increases the standard error. Mathematically, $p(1- p)$ increases as $p$ increases until $p = 0.5$. Small values of $p$ imply smaller standard errors.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Sample Size, Left Tail Probability, Standard Errors",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "73",
+        "question_text": "Which of these statements regarding risk factor mapping approaches is/are correct?\nI. Under the cash flow mapping approach, only the risk associated with the average maturity of\na fixed-income portfolio is mapped.\nII. Cash flow mapping is the least precise method of risk mapping for a fixed-income portfolio.\nIII. Under the duration mapping approach, the risk of a bond is mapped to a zero-coupon bond of\nthe same duration.\nIV. Using more risk factors generally leads to better risk measurement but also requires more\ntime to be devoted to the modeling process and risk computation.",
+        "image": "",
+        "options": {
+            "A": "A.I and II",
+            "B": "B.I, III, and IV",
+            "C": "C.III and IV",
+            "D": "D.IV only"
+        },
+        "answer": "C",
+        "explanation": "Under the cash flow mapping approach, each payment (and not only the last one) is\nassociated with a different risk factor, so statement I. is incorrect. Statement II.is\nincorrect because the CF mapping approach is more correct than duration or maturity mapping.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk factor mapping, Cash flow mapping, Duration mapping",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "74",
+        "question_text": "The quantile-quantile plot is best used for what purpose?",
+        "image": "",
+        "options": {
+            "A": "A.Testing an empirical distribution from a theoretical distribution.",
+            "B": "B.Testing a theoretical distribution from an empirical distribution.",
+            "C": "C.Identifying an empirical distribution from a theoretical distribution.",
+            "D": "D.Identifying a theoretical distribution from an empirical distribution."
+        },
+        "answer": "C",
+        "explanation": "Once a sample is obtained, it can be compared to a reference distribution for\npossible identification. The QQ plot maps the quantiles one to one. If the relationship is\nclose to linear, then a match for the empirical distribution is found. The QQ plot is used for\nvisual inspection only without any formal statistical test.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "statistical analysis, empirical vs theoretical distribution, visual inspection techniques",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "75",
+        "question_text": "In modeling extreme values using the generalized extreme value (GEV) distribution, cases\nwhere the tail index parameter is less than zero:",
+        "image": "",
+        "options": {
+            "A": "A.Cannot be modeled, and they are usually not of interest in financial risk management.",
+            "B": "B.Can be modeled, but they are usually not of interest in financial risk management.",
+            "C": "C.Can be modeled, and they are usually of the most interest in financial risk management.",
+            "D": "D.Cannot be modeled, but would be of interest in financial risk management if they could be"
+        },
+        "answer": "B",
+        "explanation": "The case where the tail parameter in a generalized extreme value distribution is\nless than zero, ξ< 0, can be modeled. However, they would be thin-tailed distributions, which\nare usually not part of financial risk modeling.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Extreme value theory, Generalized extreme value distribution, Tail risk",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "76",
+        "question_text": "A risk manager has estimated a portfolio’s 1-year VaR for various confidence levels as\nshown in the table below:\n \n \nWhat is the best estimate of the 1-year 97.5% expected shortfall?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/76u.png",
+        "options": {
+            "A": "A.1.9600",
+            "B": "B.2.0537",
+            "C": "C.2.2168",
+            "D": "D.2.2810"
+        },
+        "answer": "D",
+        "explanation": "(2.0537+2.1701+2.3263+2.5738)/4 = 2.2810",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Expected Shortfall (ES), Confidence Intervals",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "77",
+        "question_text": "According to the Fisher-Tippett theorem, as the sample size n gets large, the distribution\nof extremes converges to:",
+        "image": "",
+        "options": {
+            "A": "A.a normal distribution.",
+            "B": "B.a uniform distribution.",
+            "C": "C.a generalized Pareto distribution.",
+            "D": "D.a generalized extreme value distribution."
+        },
+        "answer": "D",
+        "explanation": "The Fisher-Tippett theorem says that as the sample size n gets large, the\ndistribution of extremes, denoted Mn, converges to a generalized extreme value (GEV)\ndistribution.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Extreme value theory, Generalized extreme value distribution, Fisher-Tippett theorem",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "78",
+        "question_text": "The lowest six returns for a portfolio are shown in the following table.\n \n \nWhat will the 5% VaR be under the hybrid approach?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/78u.png",
+        "options": {
+            "A": "A.-3.10%",
+            "B": "B.-3.04%",
+            "C": "C.-2.96%",
+            "D": "D.-2.90%"
+        },
+        "answer": "C",
+        "explanation": "The fifth and sixth lowest returns have cumulative weights of 4.81% and 5.08%,\nrespectively. The point halfway between these two returns is interpolated as -3.00% with a\ncumulative weight of 4.945%, calculated as follows: (4.81%＋5.08%)/2. Further interpolation is\nrequired to find the 5th percentile VaR level with a return somewhere between -3.00% and -\n2.90%, so -2.96% is the only possible answer.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Hybrid Approach in VaR Calculation, Interpolation Methods",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "79",
+        "question_text": "An analyst is using the delta-normal method to determine the VAR of a fixed income\nportfolio. The portfolio contains a long position in 1-year bonds with a $1 million face value\nand a 6% coupon that is paid semiannually. The interest rates on 6- and 12-month maturity zero-\ncoupon bonds are 2% and 2.5%, respectively. Mapping the long position to standard positions in\nthe 6- and 12-month zeros, respectively, provides which of the following mapped positions?",
+        "image": "",
+        "options": {
+            "A": "A.$29,703 and $1,004,878.",
+            "B": "B.$30,000 and $1,030,000.",
+            "C": "C.$29,500 and $975,610.",
+            "D": "D.$30,300 and $1,035,000."
+        },
+        "answer": "A",
+        "explanation": "$$\nX_6 = \\frac{30000}{1 + \\frac{0.02}{2}} = 29703\n$$\n\n$$\nX_{12} = \\frac{1030000}{1 + 0.025} = 1004878\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Delta-normal method, Fixed income portfolio management",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "80",
+        "question_text": "In setting the threshold in the POT approach, which of the following statements is the most\naccurate? Setting the threshold relatively high makes the model:",
+        "image": "",
+        "options": {
+            "A": "A.More applicable but decreases the number of observations in the modeling procedure.",
+            "B": "B.Less applicable and decreases the number of observations in the modeling procedure.",
+            "C": "C.More applicable but increases the number of observations in the modeling procedure.",
+            "D": "D.Less applicable but increases the number of observations in the modeling procedure."
+        },
+        "answer": "A",
+        "explanation": "There is a trade-off in setting the threshold. It must be high enough for the\nappropriate theorems to hold, but if set too high; there will not be enough observations to\nestimate the parameters.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Peak Over Threshold (POT) approach, Threshold selection, Modeling extreme values",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "81",
+        "question_text": "The annual mean and volatility of a portfolio are 10% and 40%, respectively. The current\nvalue of the portfolio is GBP 100,000. How does the 1-year 95% VaR that is calculated using a\nnormal distribution assumption (normal VaR) compare with the 1-year 95% VaR that is calculated\nusing the lognormal distribution assumption (lognormal VaR)?",
+        "image": "",
+        "options": {
+            "A": "A.Lognormal VaR is greater than normal VaR by GBP 13,040",
+            "B": "B.Lognormal VaR is greater than normal VaR by GBP 17,590",
+            "C": "C.Lognormal VaR is less than normal VaR by GBP 13,040",
+            "D": "D.Lognormal VaR is less than normal VaR by GBP 17,590"
+        },
+        "answer": "C",
+        "explanation": "Normal VaR=|0.1-1.645×0.4|=0.558\nLognormal VaR=1-exp[0.1-1.645×0.4]=0.4276\nHence, with a portfolio of GBP 100,000 this translates to GBP 13,040.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "VaR (Value at Risk), Normal distribution, Lognormal distribution",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "82",
+        "question_text": "The VaR at a 95% confidence level is estimated to be 1.56 from a historical simulation of\n1,000 observations. Which of the following statements is most likely true?",
+        "image": "",
+        "options": {
+            "A": "A.The parametric assumption of normal returns is correct.",
+            "B": "B.The parametric assumption of lognormal returns is correct.",
+            "C": "C.The historical distribution has fatter tails than a normal distribution.",
+            "D": "D.The historical distribution has thinner tails than a normal distribution."
+        },
+        "answer": "D",
+        "explanation": "The historical simulation indicates that the 5% tail loss begins at 1.56, which is\nless than the 1.65 predicted by a standard normal distribution. Therefore, the historical\nsimulation has thinner tails than a standard normal distribution.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Historical Simulation, Distribution Tails",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "83",
+        "question_text": "Which of the following statements about volatility-weighting is true?",
+        "image": "",
+        "options": {
+            "A": "A.Historic returns are adjusted, and the VaR calculation is more complicated.",
+            "B": "B.Historic returns are adjusted, and the VaR calculation procedure is the same.",
+            "C": "C.Current period returns are adjusted, and the VaR calculation is more complicated.",
+            "D": "D.Current period returns are adjusted, and the VaR calculation is the same."
+        },
+        "answer": "B",
+        "explanation": "The volatility-weighting method adjusts historic returns for current volatility.\nSpecifically, return at time t is multiplied by (current volatility estimate/volatility\nestimate at time t). However, the actual procedure for calculating VaR using a historical\nsimulation method is unchanged; it is only the inputted data that changes.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Volatility-Weighting, Historical Simulation Method",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "84",
+        "question_text": "Which of the following statements is true regarding the bootstrap simulation method used in\nVaR estimation?\nⅠ. Bootstrapping uses actual market data\nⅡ. The bootstrapping method always uses a time horizon based on the time scale of the\nhistorical data\nⅢ. Bootstrapping is based on synthesis of normally distributed random numbers",
+        "image": "",
+        "options": {
+            "A": "A.I only",
+            "B": "B.II only",
+            "C": "C.I and III",
+            "D": "D.I, II and III"
+        },
+        "answer": "A",
+        "explanation": "Bootstrapping uses actual market data. Bootstrapping can be done with data that\nuses the same time line as the one of interest or shorter term data. MC is based on a synthesis\nof normally distributed random numbers.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "VaR estimation, Bootstrap simulation, Historical market data",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "85",
+        "question_text": "The peaks-over-threshold approach generally requires:",
+        "image": "",
+        "options": {
+            "A": "A.More estimated parameters than the GEV approach and shares one parameter with the GEV",
+            "B": "B.Fewer estimated parameters than the GEV approach and shares one parameter with the GEV",
+            "C": "C.More estimated parameters than the GEV approach and does not share any parameters with the\nGEV approach.",
+            "D": "D.Fewer estimated parameters than the GEV approach and does not share any parameters with the"
+        },
+        "answer": "B",
+        "explanation": "The POT approach generally has fewer parameters, but both POT and GEV approaches\nshare the shape parameter ξ. Typical financial data have ξ>0, which implies fat tails.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Extreme Value Theory (EVT), Peaks-Over-Threshold (POT) approach, Generalized Extreme Value (GEV) distribution",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "86",
+        "question_text": "With all other things being equal, a risk monitoring system that assumes constant volatility\nfor equity returns will understate the implied volatility for which of the following positions\nby the largest amount:",
+        "image": "",
+        "options": {
+            "A": "A.Short position in an at-the-money call.",
+            "B": "B.Long position in an at-the-money call.",
+            "C": "C.Short position in a deep out-of-the-money call.",
+            "D": "D.Long position in a deep in-the-money call."
+        },
+        "answer": "D",
+        "explanation": "A plot of the implied volatility of an option as a function of its strike price\ndemonstrates a pattern known as the volatility smile or volatility skew. The implied volatility\ndecreases as the strike price increases. Thus, all else equal, a risk monitoring system which\nassumes constant volatility for equity returns will understate the implied volatility for a\nlong position in a deep-in-the-money call.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Volatility smile, Implied volatility, Equity options",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "87",
+        "question_text": "A risk manager is in the process of valuing several European option positions on a non-\ndividend-paying stock XYZ that is currently priced at GBP 30. The implied volatility skew,\nestimated using the Black-Scholes-Merton model and the current prices of actively traded\nEuropean-style options on stock XYZ at various strike prices, is:\n \n \n \n \n \nAssuming that the implied volatility at GBP 30 is used to conduct the valuation, which of the\nfollowing long positions will be undervalued?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/MarketRiskMeasurementandManagement_images/87u.png",
+        "options": {
+            "A": "A.An out-of-the-money call.",
+            "B": "B.An in-the-money call",
+            "C": "C.An at-the-money put",
+            "D": "D.An in-the-money put"
+        },
+        "answer": "B",
+        "explanation": "Answer: B.An in-the-money call has strike price below 30. Therefore, using the\nchart above, its implied volatility is greater than the at-the-money volatility, so using the\nat-the-money implied volatility would result in pricing an in-the-money call option lower than\nits fair price.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option Pricing, Implied Volatility, Black-Scholes-Merton Model",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "88",
+        "question_text": "The market price of a European call is $3.00 and its Black-Scholes price is $3.50.The Black-\nScholes price of a European put option with the same strike price and time to maturity is\n$2.00.What should the market price of this option be?",
+        "image": "",
+        "options": {
+            "A": "A.$1.50",
+            "B": "B.$2.00",
+            "C": "C.$1.00",
+            "D": "D.$0.50"
+        },
+        "answer": "A",
+        "explanation": "Based on the put-call parity, cbs + Ke-rT = pbs + S0e-qT and cmkt + Ke-rT = pmkt +\nS0e-qT We can know that:cbs - cmkt = pbs - pmkt And cbs = $3.50, cmkt = $3.00, pbs = $2.00.So\npmkt = $1.50.Choose A",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Put-call parity, Black-Scholes model, European options",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "89",
+        "question_text": "Which of the following statements is incorrect regarding volatility smiles?",
+        "image": "",
+        "options": {
+            "A": "A.Currency options exhibit volatility smiles because the at-the-money options have higher\nimplied volatility than away-from-the-money options.",
+            "B": "B.Volatility frowns result when jumps occur in asset prices.",
+            "C": "C.Equity options exhibit a volatility smirk because low strike price options have greater\nimplied volatility.",
+            "D": "D.Relative to currency traders, it appears that equity traders’ expectations of extreme price"
+        },
+        "answer": "A",
+        "explanation": "Currency options exhibit volatility smiles because the at-the-money options have\nlower implied volatility than away-from-the-money options.Equity traders believe that the\nprobability of large price decreases is greater than the probability of large price increases.\nCurrency traders’ beliefs about volatility are more symmetric as there is no large skew in the\ndistribution of expected currency values.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Volatility smiles, Currency options, Equity options",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "90",
+        "question_text": "Compared to at-the-money currency options, out-of-the-money currency options exhibit which\nof the following volatility traits?",
+        "image": "",
+        "options": {
+            "A": "A.Lower implied volatility.",
+            "B": "B.A frown.",
+            "C": "C.A smirk.",
+            "D": "D.Higher implied volatility."
+        },
+        "answer": "D",
+        "explanation": "Answer: D.Away-from-the-money currency options have greater implied volatility than\nat-the-money options. This pattern results in a volatility smile.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency options, Implied volatility, Volatility smile",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "91",
+        "question_text": "Which of the following statements is incorrect regarding volatility smiles?",
+        "image": "",
+        "options": {
+            "A": "A.Currency options exhibit volatility smiles because the at-the-money options have higher\nimplied volatility than away-from-the-money options.",
+            "B": "B.Volatility frowns result when jumps occur in asset prices.",
+            "C": "C.Equity options exhibit a volatility smirk because low strike price options have greater\nimplied volatility.",
+            "D": "D.Relative to currency traders, it appears that equity traders’ expectations of extreme price"
+        },
+        "answer": "A",
+        "explanation": "Answer: A.Currency options exhibit volatility smiles because the at-the-money\noptions have lower implied volatility than away-from-the-money options.Equity traders believe\nthat the probability of large price decreases is greater than the probability of large price\nincreases. Currency traders’ beliefs about volatility are more symmetric as there is no large\nskew in the distribution of expected currency values.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Volatility smiles, Implied volatility, Currency options",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "92",
+        "question_text": "Which of the following regarding equity option volatility is true?",
+        "image": "",
+        "options": {
+            "A": "A.There is higher implied price volatility for away-from-the-money equity options.",
+            "B": "B.“Crashophobia” suggests actual equity volatility increases when stock prices decline.",
+            "C": "C.Compared to the lognormal distribution, traders believe the probability of large down\nmovements in price is similar to large up movements.",
+            "D": "D.Increasing leverage at lower equity prices suggests increasing volatility."
+        },
+        "answer": "D",
+        "explanation": "Answer: D.There is higher implied price volatility for low strike price equity\noptions. “Crashophobia” is based on the idea that large price declines are more likely than\nassumed in Black-Scholes-Merton prices, not that volatility increases when prices decline.\nCompared to the lognormal distribution, traders believe the probability of large down movements\nin price is higher than large up movements. Increasing leverage at lower equity prices suggests\nincreasing volatility.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option pricing models, Volatility skew, Leverage and volatility",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "93",
+        "question_text": "The ‘Sticky Strike Rule’ assumes that implied volatility is:",
+        "image": "",
+        "options": {
+            "A": "A.The same across maturities for given strike prices",
+            "B": "B.The same for short time periods",
+            "C": "C.The same across strike prices for given maturities",
+            "D": "D.Different across strike prices for given maturities"
+        },
+        "answer": "B",
+        "explanation": "The sticky strike rule, when applied to calculating option sensitivity measures,\nassumes implied volatility is the same over short time periods.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options pricing, Implied volatility, Option sensitivity measures",
+        "book label": "Market Risk Measurement and Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

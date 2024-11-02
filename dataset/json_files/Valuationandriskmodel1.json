@@ -1,0 +1,974 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "The term structure of swap rates is: 0.60% at 1 year; 0.90% at 2 years; 1.00% at 3 years; 2.20% at 4 years; 3.10% at 5 years. What is the two-year forward swap rate starting in three years, F(3,5), under respectively, semi-annual (s.a.) and annual compounding?",
+        "image": "",
+        "options": {
+            "A": "A.A. 4.89% (s.a.) and 5.07% (annual)",
+            "B": "B.B. 5.25% (s.a.) and 5.22% (annual)",
+            "C": "C.C. 6.29% (s.a.) and 6.33% (annual)",
+            "D": "D.D. 7.03% (s.a.) and 7.14% (annual)"
+        },
+        "answer": "C",
+        "explanation": "SemiannualF(3,5) = ([(1+3.1%/2)^(5×2)/(1+1%/2)^(3×2)]^(1/4)-1)×2 = 6.291%Annual F(3,5) = SQRT(1.031^5/1.01^3)-1 = 6.332%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Swap rates, Forward swap rate calculation",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "A fixed rate bond, currently priced at 102.9, has one year remaining to maturity and is paying an 8% coupon. Assuming the coupon is paid semiannually, what is the yield of the bond?",
+        "image": "",
+        "options": {
+            "A": "A.A. 8%",
+            "B": "B.B. 7.77%",
+            "C": "C.C. 6%",
+            "D": "D.D. 5%"
+        },
+        "answer": "D",
+        "explanation": "Using a bond calculator, $PV = -102.9$, $FV = 100$, $N = 2$, $PMT = 4$. Solving for I/Y we get $2.4955\\% \\times 2 = 5\\%.$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond yield, Fixed rate bond",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "You have been asked to check for arbitrage opportunities in the Treasury bond market by comparing the cash flows of selected bonds with the cash flows of combinations of other bonds. If a 1-year zero-coupon bond is priced at USD 96.12 and a 1-year bond paying a 10% coupon semiannually is priced at USD 106.20, what should be the price of a 1-year Treasury bond that pays a coupon of 8% semiannually?",
+        "image": "",
+        "options": {
+            "A": "A.A. USD 98.10",
+            "B": "B.B. USD 101.23",
+            "C": "C.C. USD 103.35",
+            "D": "D.D. USD 104.18"
+        },
+        "answer": "D",
+        "explanation": "参考答案: D\n\n【荥学解析】\n\nThe solution is to replicate the 1-year 8% bond using the other two treasury bonds.\n\n|       | Price  | Cash Flow (t = 0.5) | Cash Flow (t = 1) | Replicating Weight |\n|-------|--------|---------------------|--------------------|--------------------|\n| Bond 1| 96.12  | 0                   | 100                | 0.2                |\n| Bond 2| 106.20 | 5                   | 105                | 0.8                |\n| Bond 3|        | 4                   | 104                |                    |\n\nTherefore, the price of the 8% bond should be 0.2 × 96.12 + 0.8 × 106.20 = 104.184",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Arbitrage, Treasury bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "An investor buys $10,000 face amount of the U.S. Treasury 6 1/2 (coupon rate = 6.50%) of August 15, 2017, for settlement on July 1st, 2014. The last coupon paid on February 15, 2014 and the next coupon pays on August 15, 2014. The bond's yield to maturity happens to be 4.00%. What is nearest to the bond's quoted price at settlement? (this adds a level of difficulty by not giving you the invoice price)",
+        "image": "",
+        "options": {
+            "A": "A.$9,338.48",
+            "B": "B.$9,904.15",
+            "C": "C.$10,095.07",
+            "D": "D.$10,726.83"
+        },
+        "answer": "D",
+        "explanation": "】We first need the invoice price. We can price the bond as of the last coupon date: PV (at 2/15/2014) = -PV(2.0%, 7, 325, 10000) = $10,809.00,with the calculator: n = 7, I/Y = 2, PMT = 325, FV = 10000 --> CPT PV = $10,809.00Note, from 2/15/14 to 8/15/17 is 3.5 years or 7.0 semesters.Then we can compound this forward to settlement date, with the given yield, such that:Invoice (aka, Full) Price = PV(at 7/1/2014) = $10,809.00 × (1+4%/2) ^ (136/181) = $10,971.03.Finally, we extract the bond's quoted price:As AI = $10,000 × 6.5%/2 × 136/181 = $244.20,Quoted Price = Invoice Price - AI = $10,971.03 - $244.20 = $10,726.83.这",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rate, Discount factor",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "The six-month and one-year discount factors are, respectively, d(0.5) = 0.9920 and d(1.0) = 0.9760. What is the implied six-month forward rate, under semi-annual compounding?",
+        "image": "",
+        "options": {
+            "A": "A.A. 2.34%",
+            "B": "B.B. 3.28%",
+            "C": "C.C. 3.95%",
+            "D": "D.D. 4.01%"
+        },
+        "answer": "B",
+        "explanation": "The solution is as follows: (0.9920/0.9760-1)×2 = 3.279%这道题的计算如下：(0.9920/0.9760-1)×2 = 3.279%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rate, Discount factor",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "The price of a six-month zero-coupon bond (bill) is $99.90 and the price of a one-year zero-coupon bond is $98.56. What is the implied six-month forward rate, under semi-annual compounding?",
+        "image": "",
+        "options": {
+            "A": "A.A. 1.30%",
+            "B": "B.B. 2.95%",
+            "C": "C.C. 2.72%",
+            "D": "D.D. 3.08%"
+        },
+        "answer": "C",
+        "explanation": "】The solution is as follows:(99.90/98.56-1)×2 = 2.719%这个题的是：(99.90/98.56-1)×2 = 2.719%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Zero-coupon bond, Forward rate",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "The yield curve is upward sloping. You have a short T-Bond interest rate futures position. The following bonds are eligible for delivery: \nThe futures price is 103 - 17/32 and the maturity date of the contract is September 1. The bonds pay their coupon amount semiannually on June 30 and December 31. With these data, the cheapest-to-deliver bond is:",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/ValuationandRiskModels_images/7u.png",
+        "options": {
+            "A": "A.A. Bond A",
+            "B": "B.B. Bond B",
+            "C": "C.C. Bond C",
+            "D": "D.D. Insufficient information to determine"
+        },
+        "answer": "B",
+        "explanation": "】The bond with the lowest net cost is called cheapest to deliver.Cost=Price-Futures Quote×Conversion FactorCost_A=102.44-(103+17/32)×0.98=0.98. Cost_B=106.59-(103+17/32)×1.03=-0.05. Cost_C=98.38-(103+17/32)×0.95=0.03So, bond B is the cheapest to deliver bond. ",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Cheapest to deliver bond, T-Bond futures",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "Prior to the recent 2007 financial crisis, stress testing was primarily based on which of the following characteristics? \nI. Significant system-wide correlations. \nII. Historical or hypothetical scenarios.",
+        "image": "",
+        "options": {
+            "A": "A.A. I only",
+            "B": "B.B. II only",
+            "C": "C.C. Neither I nor II",
+            "D": "D.D. Both I and II"
+        },
+        "answer": "B",
+        "explanation": "Recent turmoil revealed numerous weaknesses in banks, stress testing practices, such as lack of proper recognition of extreme shocks and presence of significant system-wide correlations (feedback and spillover effects) between different markets, risks, and portfolio positions. Shorter test durations and historical or hypothetical scenario-based testing were key weaknesses in stress testing practices. Actual events showed longer duration of stress conditions and breakdown of historical statistical relationships.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Stress testing, Financial crisis",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "The option-adjusted duration of a convertible bond will be close to the duration of a straight bond, which is similar in all other respects, when the:",
+        "image": "",
+        "options": {
+            "A": "A.A. Stock price is extremely low.",
+            "B": "B.B. Stock price is extremely high.",
+            "C": "C.C. Interest rates are extremely low.",
+            "D": "D.D. Interest rate volatility is extremely high."
+        },
+        "answer": "A",
+        "explanation": "When the stock price is extremely low, the option to convert is likely to have little value, and the convertible bond will trade effectively as a straight bond.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Convertible bond, Option-adjusted duration",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "An asset manager at an insurance company is considering making a fixed income investment and holding it for 2 years. The manager is comparing two bond issues that have equal yield to maturity at origination. One is a semi-annual coupon bond paying 7%, maturing in 2 years, and priced at USD 101.86. The other is a zero-coupon bond, also maturing in 2 years, and priced at USD 88.85. The manager is uncertain about the outlook for interest rates over the next two years but will incorporate the forecast of the company’s economist when making the investment decision. Assuming no default risk, tax implications, or liquidity constraints, which of the following statements is correct?",
+        "image": "",
+        "options": {
+            "A": "A.A. The manager should be indifferent between the bonds if the interest rate is expected to rise since both bonds have the same yield and cash flows.",
+            "B": "B.B. The manager should prefer the zero-coupon bond if the interest rate is expected to rise in the future.",
+            "C": "C.C. The manager should prefer the zero-coupon bond if the expected average interest rate over the next 2 years is less than 6%.",
+            "D": "D.D. The manager should prefer the coupon bond if the expected average interest rate over the next 2 years is less than 6%."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The current annual yield on both the coupon and zero-coupon bonds are the same at 6%. If rates are higher than 6% then the coupon bond would be preferred due to higher reinvestment income. A is incorrect. If the interest rate is expected to rise, coupon bonds would be more attractive because investors can reinvest the coupon at higher interest rates. B is incorrect. If the interest rate is expected to rise, coupon bonds would be more attractive because investors can reinvest the coupon at higher interest rates. D is incorrect. Falling interest rates below the yield to maturity would mean lower reinvestment income for the coupon bond, which makes the coupon bond less attractive.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fixed income investment, Coupon bond, Zero-coupon bond, Interest rates",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "Exactly one year ago, Sally purchased a $100.00 face value bond that pays a semiannual coupon with a coupon rate of 9.0% per annum. When she purchased the bond, it had a maturity of 10.0 years and its yield to maturity (YTM; aka, yield) was 6.00%. If the bond’s price today happens to be unchanged from one year ago (when she purchased the bond), which of the following is nearest to the bond’s yield (yield to maturity) today?",
+        "image": "",
+        "options": {
+            "A": "A.A. 5.57%",
+            "B": "B.B. 5.78%",
+            "C": "C.C. 6.00%",
+            "D": "D.D. 6.22%"
+        },
+        "answer": "B",
+        "explanation": "When Sally initially purchased the bond its price was equal to =-PV(0.060/2, 10×2, $100×0.090/2, 100) = $122.3162. If the price is unchanged, then one year later (i.e., N – 2 periods), the yield is given by RATE(9×2, $100×0.090/2, -122.3162, 100)×2 = 5.7843%. Using the TI BA II calculator: 20 N, 3 I/Y, 4.5 PMT, 100 FV and CPT PV = -122.3162, then we only need to change the periods with 18 N, CPT I/Y [display: I/Y = 2.8922] × 2 = 5.7843%.当Sally最初购买债券时，其价格等于=-PV(0.060/2, 10×2, $100×0.090/2, 100) = $122.3162。如果价格没有变化，则一年后（即N – 2期），收益率将以RATE（9×2，$ 100×0.090 / 2，-122.3162，100）×2 = 5.7843％。使用TI BA II 计算器：20 N，3 I / Y，4.5 PMT，100 FV和CPT PV = -122.3162，那么我们只需要将周期更改为18 N，CPT I / Y [显示：I / Y = 2.8922]×2 = 5.7843％。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Yield to maturity, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "Which of the following statements is TRUE about the role of internal audit in stress test governance?",
+        "image": "",
+        "options": {
+            "A": "A.A. Internal audit should independently assess each stress test used",
+            "B": "B.B. Internal audit is the 'first line of defense' in stress testing governance",
+            "C": "C.C. Internal audit should have full knowledge of all stress-test details",
+            "D": "D.D. Internal audit should assess the expertise and roles and responsibilities of the staff involved in stress-testing activities"
+        },
+        "answer": "D",
+        "explanation": "Internal audit should assess the expertise and roles and responsibilities of the staff involved in stress-testing activities.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Internal audit, Stress testing governance",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "The 6-month forward rate on an investment that matures in 1.5 years is closest to:",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/ValuationandRiskModels_images/13u.png",
+        "options": {
+            "A": "A.A. 2.50%",
+            "B": "B.B. 2.75%",
+            "C": "C.C. 3.00%",
+            "D": "D.D. 3.25%"
+        },
+        "answer": "C",
+        "explanation": "参考答案: C\n\n【旁学解析】The solution is as follows:\n\n$$\n\\left( 1 + \\frac{1.8\\%}{2} \\right)^2 \\times \\left(1 + \\frac{F}{2} \\right)^1 = \\left( 1 + \\frac{2.2\\%}{2} \\right)^3\n$$\n\n$$\n\\Rightarrow F = 3\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rate, Interest rates",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Assuming the 92-day and 274-day interest rate is 8% (act/360, money market yield), compute the 182-day forward rate starting in 92 days (act/360, money market yield).",
+        "image": "",
+        "options": {
+            "A": "A.A. 7.8%",
+            "B": "B.B. 8.0%",
+            "C": "C.C. 8.2%",
+            "D": "D.D. 8.4%"
+        },
+        "answer": "B",
+        "explanation": "Because the two spot rates are equal to 8 percent, the implied forward rate also has to be 8 percent.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rate, Interest rates",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "A $10 million Treasury bond (note) with a 10-year maturity pays semi-annual coupons at a coupon rate of 4.0% per annum. If the bond is fully 'stripped' such that STRIPS are created, each of the following is TRUE except:",
+        "image": "",
+        "options": {
+            "A": "A.A. The stripping creates 21 zero-coupon bonds",
+            "B": "B.B. Each of the C-STRIPS and the P-STRIP implies an exact spot (a.k.a., zero) interest rate",
+            "C": "C.C. The duration of the P-STRIP is greater than the duration of the original Treasury bond",
+            "D": "D.D. The C-STRIPS each have durations near to zero"
+        },
+        "answer": "D",
+        "explanation": "The C-STRIPS are not floating-rate notes, they are zero-coupon bonds corresponding to the respective coupons. So, in this case, the twenty C-STRIPS have Macaulay durations of: 0.5, 1.0, 1.5,... In regard to (A), (B), and (C), each is TRUE about the STRIPS. In regard to (A), the bonds twenty coupons (10 years × 2 coupons/year) create 20 CSTRIPS plus the principal repayment creates a single P-STRIP.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "STRIPS, Bond stripping, Macaulay duration",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Each of the following is necessarily TRUE about a bond’s yield-to-maturity (YTM) EXCEPT:",
+        "image": "",
+        "options": {
+            "A": "A.A. A bond that sells at a premium to par has a yield (YTM) that is less than its coupon rate",
+            "B": "B.B. A bond that sells at a discount to par has a yield (YTM) that is greater than its coupon rate",
+            "C": "C.C. The yield (YTM) of a zero-coupon bond equals the spot (zero) rate of the bond’s maturity",
+            "D": "D.D. If the same term structure of spot rates applies to two bonds with identical maturities, the bond with the higher yield (YTM) is a superior investment"
+        },
+        "answer": "D",
+        "explanation": "This ignores the coupon effect. Fairly priced bonds will have various yields. In regard to (A), (B), and (C), each is TRUE.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield to maturity, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Assume the upward-sloping 2-year theoretical spot rate curve, and associated discount factors, below: Consider three bonds with identical par value of $100 and maturity of two years: \nBond I is a zero-coupon bond \nBond II pays a semi-annual 2.0% coupon \nBond III pays a semi-annual 4.0% coupon. \nFrom lowest to highest, what is the order of their yields-to-maturity (YTM)?",
+        "image": "",
+        "options": {
+            "A": "A.A. YTM(I) < I(I) < YTM(III)",
+            "B": "B.B. I = II = III (same YTM)",
+            "C": "C.C. III < II < I",
+            "D": "D.D. Unclear without more information"
+        },
+        "answer": "C",
+        "explanation": "4% coupon bond has lowest and zero-coupon has highest yield. This is the 'coupon effect': the yield of the zero-coupon bond equals the 2-year spot rate of 1.946% because it discounts only a single cash flow, then the yield decreases as the coupon increases.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield to maturity, Spot rate curve",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Consider the following, a 7-year zero-coupon bond carries an annual yield of 6.75% and a 6-year zero-coupon bond carries an annual yield of 5.87%. Calculate the 1 year forward rate 6 years from now. Assume annual compounding.",
+        "image": "",
+        "options": {
+            "A": "A.A. 6.31%",
+            "B": "B.B. 12.03%",
+            "C": "C.C. 12.19%",
+            "D": "D.D. 12.62%"
+        },
+        "answer": "C",
+        "explanation": "参考答案: C\n\n【荟学解析】The solution is as follows:\n\n$$\n(1 + 6.75\\%)^7 = (1 + 5.87\\%)^6 \\times (1 + F_{6,7}) \\Rightarrow F_{6,7} = 12.19\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rate, Zero-coupon bond yield",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Relative to coupon-bearing bonds of same maturity, zero-coupon bonds are not subject to which type of risk?",
+        "image": "",
+        "options": {
+            "A": "A.A. Interest rate risk",
+            "B": "B.B. Credit risk",
+            "C": "C.C. Reinvestment risk",
+            "D": "D.D. Liquidity risk"
+        },
+        "answer": "C",
+        "explanation": "Since zero-coupon bonds have no coupons, there is nothing to reinvest. They are subject to all of the other risks listed, however.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Zero-coupon bonds, Reinvestment risk",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "For purposes of computing the market risk of a US Treasury Bond portfolio, it is easiest to measure:",
+        "image": "",
+        "options": {
+            "A": "A.A. Yield volatility because yields have positive skewness.",
+            "B": "B.B. Price volatility because bond prices are positively correlated.",
+            "C": "C.C. Yield volatility for bonds sold at a discount and price volatility for bonds sold at a premium to par.",
+            "D": "D.D. Yield volatility because it remains more constant over time than price volatility, which must approach zero as the bond approaches maturity."
+        },
+        "answer": "D",
+        "explanation": "Because prices must converge to the bond’s maturity value, the volatility of yields provides a more accurate risk assessment.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market risk, Yield volatility",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "Peter paid $93.40 to purchase a bond on June 1st, 2018; the bond pays a semi-annual coupon with a coupon rate of 3.0% per annum and matures in 10.0 years on June 1st, 2028. One year later, on June 1st, 2019, the bond’s yield is unchanged; aka, unchanged yield assumption. Peter can reinvest his received coupons at a rate of 4.0% per annum. If Peter were to sell the bond on June 1st, 2019, which of the following is nearest to his gross realized return over the one year period since he purchased the bond?",
+        "image": "",
+        "options": {
+            "A": "A.A. 1.09%",
+            "B": "B.B. 2.50%",
+            "C": "C.C. 3.84%",
+            "D": "D.D. 4.11%"
+        },
+        "answer": "C",
+        "explanation": "】3.84% (or more exactly 3.83718%) is the gross realized return, which includes one reinvested (at 4.0%) coupon.At the time of purchase, when the bond's price was $93.40, its yield was = RATE(10×2,100×0.030/2,-93.40,100)×2 ~= 3.80%. After one year, if the yield is unchanged, then we only need to re-price with a shorter maturity such that the price is PV(0.0380/2,9×2,100×0.030/2,100) = $93.954. Notice how the bond pulled to par. The gross realizes return includes the interim coupon compounded for six months at 4.0% and, therefore is given by[$93.954 ＋$1.50＋ $1.50×(1 0.040/2)－93.40]/93.40= 3.8372%. ",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Yield to maturity, Reinvestment return",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "Each of the following is necessarily true about a bond’s yield (YTM) EXCEPT:",
+        "image": "",
+        "options": {
+            "A": "A.A. If the term structure of spot rates is flat at X%, a bond’s yield must also be X%",
+            "B": "B.B. Regardless of the slope of the term structure (e.g., upward- or downward-sloping) and number of spot rates, the yield (YTM) is a single value",
+            "C": "C.C. The yield on a coupon-paying bond is sensitive (i.e., will change in response) to a change in spot rates at specific maturities",
+            "D": "D.D. For a given bond with a fixed coupon rate, an increase in the bond’s maturity implies a decrease in the bond’s yield (YTM)"
+        },
+        "answer": "D",
+        "explanation": "This is only true for a discounted bond; in the case of a premium-priced bond, the yield increases with maturity.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield to maturity, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "Which of the following bonds offers the highest yield (YTM)?",
+        "image": "",
+        "options": {
+            "A": "A.A. 7-year bond with a 3% coupon trading at par",
+            "B": "B.B. 20-year bond with a 4% coupon trading at a 15% premium to par",
+            "C": "C.C. 10-year bond with 4% coupon trading at a 15% discount to par",
+            "D": "D.D. 15-year bond with a 4% coupon trading at a 15% discount to par"
+        },
+        "answer": "C",
+        "explanation": "The 10-year bond with a 4% coupon trading at a 15% discount to par offers the highest yield. For a bond trading at a discount, its yield must be greater than its coupon rate of 4%.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield to maturity, Bond trading at a discount or premium",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Assume the following discount function, which is a set of discount factors: d(0.5) = 0.990, d(1.0) = 0.970, d(1.5) = 0.960, d(2.0) = 0.950. A U.S. Treasury bond pays a semi-annual coupon at a rate of 5.0% per annum and matures with a face value of $1,000 in eighteen months (T = 1.5 years). What is the price of the bond?",
+        "image": "",
+        "options": {
+            "A": "A.A. $985.00",
+            "B": "B.B. $1,002.00",
+            "C": "C.C. $1,015.00",
+            "D": "D.D. $1,033.00"
+        },
+        "answer": "D",
+        "explanation": "$$ The solution follows: Price = \\$25 \\times 0.990 + \\$25 \\times 0.970 + \\$1,025 \\times 0.960 = \\$1,033.$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Discount factors",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "The spot rate term structure is upward-sloping: 1.0% at 0.5 years, 2.0% at 1.0 years, 3.0% at 1.5 years, and 4.0% at 2.0 years. What is the price of two-year $100 face value bond that pays a semi-annual coupon with a 6.0% per annum coupon rate?",
+        "image": "",
+        "options": {
+            "A": "A.A. $99.74",
+            "B": "B.B. $101.67",
+            "C": "C.C. $102.27",
+            "D": "D.D. $103.95"
+        },
+        "answer": "D",
+        "explanation": "PV (0.5 year cash flow) = $3/(1＋1%/2)^(0.5×2) = $2.99PV (1.0 year cash flow) = $3/(1＋2%/2)^(1.0×2) = $2.94PV (1.5 year cash flow) = $3/(1＋3%/2)^(1.5×2) = $2.87PV (2.0 year cash flow) = $103/(1＋4%/2)^(2.0×2) = $95.16Sum of PV of cash flows = $103.951",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Spot rate, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "The price of a six-month zero-coupon bond is $99.90 and the price of a one-year zero-coupon bond is $98.56. What is the implied six-month forward rate, under semi-annual compounding?",
+        "image": "",
+        "options": {
+            "A": "A.A. 1.30%",
+            "B": "B.B. 2.95%",
+            "C": "C.C. 2.72%",
+            "D": "D.D. 3.08%"
+        },
+        "answer": "C",
+        "explanation": "$$\n\\frac{100}{\\left(1 + \\frac{Z_{0.5}}{2}\\right)} = 99.9\n$$\n\n$$\n\\frac{100}{\\left(1 + \\frac{Z_{1}}{2}\\right)^2} = 98.56\n$$\n\n$$\n\\left(1 + \\frac{Z_{0.5}}{2}\\right)\\left(1 + \\frac{f_{0.5-1}}{2}\\right) = \\left(1 + \\frac{Z_{1}}{2}\\right)^2\n$$\n\n$$\nf_{0.5-1} = 2.72\\% \n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rate, Zero-coupon bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "The price of a $1,000 par value Treasury bond (T-Bond) with a 3% coupon that matures in 1.5 years is closest to:",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/ValuationandRiskModels_images/27u.png",
+        "options": {
+            "A": "A.A. $1,010.02",
+            "B": "B.B. $1,011.85",
+            "C": "C.C. $1,013.68",
+            "D": "D.D. $1,015.51"
+        },
+        "answer": "B",
+        "explanation": "The solution follows: \n$$15 \\times 0.992556 + 15 \\times 0.982240 + 1015 \\times 0.967713 = 1,011.85 $$ \nTherefore, the bond price is approximately $1,011.85.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Treasury bond pricing, Strip pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "28",
+        "question_text": "If the spot rate term structure is flat, what is true of the discount function (i.e., the set of discount factors) as a function of maturity?",
+        "image": "",
+        "options": {
+            "A": "A.A. Flat",
+            "B": "B.B. Increasing with maturity",
+            "C": "C.C. Decreasing with maturity",
+            "D": "D.D. Insufficient information: we need the yield (YTM) to answer"
+        },
+        "answer": "C",
+        "explanation": "Greater maturity requires more discounting. For example if the spot rate term structure is flat at 5%, then semi-annual discount function is: d(0.5) = 0.9756, d(1.0) = 0.9518, d(1.5) = 0.9286. In regard to (D), please note that a flat spot/zero term structure is the special case where the yield must match; e.g., flat spot rates at 5% imply yield must also be 5%.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Spot rate term structure, Discount function",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "According to the Principles for sound stress testing practices and supervision by BIS, when is stress testing especially important?",
+        "image": "",
+        "options": {
+            "A": "A.A. When new regulations such as Basel III or Dodd-Frank are introduced and implemented",
+            "B": "B.B. During periods of expansion or long periods of benign economic and financial conditions",
+            "C": "C.C. During a corporate transaction such as a merger, especially if key executive roles are changing",
+            "D": "D.D. Immediately after a market crisis because the standard models will be less useful when systemic input assumptions are depressed"
+        },
+        "answer": "B",
+        "explanation": "During periods of expansion or long periods of benign economic and financial conditions, stress testing is a tool that supplements other risk management approaches and measures. It plays a particularly important role in: providing forward-looking assessments of risk; overcoming limitations of models and historical data; supporting internal and external communication; feeding into capital and liquidity planning procedures; informing the setting of a bank's risk tolerance; and facilitating the development of risk mitigation or contingency plans across a range of stressed conditions.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Stress testing, BIS principles, Risk management",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "A ten-year bond pays a semi-annual coupon with a coupon rate of 7.0% and the bond’s yield (YTM) is 6.0%. If the yield remains unchanged, what happens to the price of the bond in six months?",
+        "image": "",
+        "options": {
+            "A": "A.A. Lower price",
+            "B": "B.B. Same price",
+            "C": "C.C. Higher price",
+            "D": "D.D. Need more information (the initial bond price)"
+        },
+        "answer": "A",
+        "explanation": "As yield < coupon rate, the bond currently trades at a premium to par. With unchanged yield, the price will get 'pulled to par' and therefore must decrease. We have enough information to price the bonds, but please note we do NOT need to price the bond if we are familiar with pulling to par concept.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bond pricing, Yield to maturity, Pull to par",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "The purchase price of a 3-year 9 percent semiannual coupon bond that is currently yielding 7 percent will be:",
+        "image": "",
+        "options": {
+            "A": "A.A. 105.11",
+            "B": "B.B. 105.25",
+            "C": "C.C. 105.33",
+            "D": "D.D. 105.45"
+        },
+        "answer": "C",
+        "explanation": "Using a bond calculator, N = 6, PMT = -4.5, I/Y = 3.5, FV = -100. Solving for PV, we get 105.33.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Yield to maturity",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "Consider a 7.75% semiannual coupon bond with a par value of $100 and four remaining coupons, which is trading at a yield of 8.375%. There are 74 days remaining in the current period that has a total of 182 days. The accrued coupon of this bond is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.A. 1.59",
+            "B": "B.B. 2.30",
+            "C": "C.C. 3.18",
+            "D": "D.D. 4.57"
+        },
+        "answer": "B",
+        "explanation": "Accrued coupon = (182 - 74)/182 × 7.75%/2 × 100 = 2.2995. The accrued coupon is calculated as: $$(182 - 74) / 182 \\times 7.75\\% / 2 \\times 100 = 2.2995.$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Accrued interest, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "You just purchased a ten-year bond at a discount to par. The bond pays a quarterly coupon with a coupon rate of 4.0% per annum; i.e., 1% each quarter. The bond’s yield is 8.0% per annum. Your broker says to you, 'The 8% yield-to-maturity represents the return you will realize—that is, your realized return—on this bond.' Which qualifier or caveat is BEST attached to this assertion?",
+        "image": "",
+        "options": {
+            "A": "A.A. This statement is already true: realized return will equal yield (YTM)",
+            "B": "B.B. The statement is only true if there is no shift in the term structure of spot rates",
+            "C": "C.C. This statement is true if you (the bondholder) hold the bond to maturity: realized return will equal yield (YTM) if the bond is held to maturity",
+            "D": "D.D. This statement is true only if both the bond is held to maturity and the coupons (interim cash flows) are reinvested at the same yield (YTM)"
+        },
+        "answer": "D",
+        "explanation": "We don’t expect the ex-post realized return to equal the ex-ante yield (YTM); it is only the case if both the bond is held to maturity and the coupons are reinvested at the same rate. In regard to (B), a static zero rate terms structure will not give a realized return equal to yield if the bond is sold before maturity.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield to maturity, Bond reinvestment, Term structure",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Peter is given the opportunity to pay $100.00 in exchange for his choice of one of the following annuities: I. The first annuity pays $2.00 per month ($24.00 per annum) over the next five years when the discount rate is 12.0% per annum with monthly compound frequency. II. The second annuity pays $18.00 per year over the next ten years when the discount rate is 12.0% per annum with annual compound frequency. Both annuities pay in arrears; that is, respectively, at the end of each month and at the end of each year. Assuming Peter’s discount rate is 12.0% with a flat curve (i.e., insensitive to maturity) and fully reflects his risk preferences, which of the following statements is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.A. Neither is worth the cost (the present value of both is below $100.00)",
+            "B": "B.B. The monthly annuity is worth more than the annual annuity",
+            "C": "C.C. The annual annuity is worth more than the monthly annuity",
+            "D": "D.D. Both are worth the cost (the present value of both is above $100.00)"
+        },
+        "answer": "C",
+        "explanation": "The present value (PV) of a stream of $1.00 payments over an annuity of (T) periods is given by A(T) = I/y × [1 − 1/(1+y/k)^(k×T)]. Therefore, the PV of the monthly annuity is equal to 1/0.120 × [1 − 1/(1+0.120/12)^(12×5)] × $24.00 = $89.10, and the PV of the annual annuity is equal to 1/0.120 × [1 − 1/(1+0.120/1)^(1×10)] × $18.00 = $101.704.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Annuity pricing, Present value",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "The following discount function contains semi-annual discount factors out to two years: d(0.5) = 0.9970, d(1.0) = 0.9911, d(1.5) = 0.9809, d(2.0) = 0.9706. What is the implied eighteen-month (1.5 year) spot rate (aka, 1.5 year zero rate)?",
+        "image": "",
+        "options": {
+            "A": "A.A. 0.600%",
+            "B": "B.B. 1.176%",
+            "C": "C.C. 1.290%",
+            "D": "D.D. 1.505%"
+        },
+        "answer": "C",
+        "explanation": "参考答案: C\n【萜学解析】\n\n$$\nr(t) = 2 \\times \\left[ \\left( \\frac{1}{d(t)} \\right)^{\\frac{1}{2t}} - 1 \\right]\n$$\n\n$$\nr(1.5) = 2 \\times \\left( \\left( \\frac{1}{0.9809} \\right)^{\\frac{1}{1.5}} - 1 \\right) = 1.2898\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Spot rate, Zero rate, Discount factors",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "Assume the two-year term structure of spot rates is upward-sloping as follows: 1.0% at 0.5 years, 2.0% at 1.0 years, 3.0% at 1.5 years, 4.0% at 2.0 years. Consider the following two statements: I. The yield (YTM) of a two-year bond cannot be greater than 4.0% (must be less than, or equal to, 4.0%). II. Given a two-year bond, an increase in the coupon rate implies an increase in the yield (YTM) Which of the above statements is (are) TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.A. Neither",
+            "B": "B.B. I. only",
+            "C": "C.C. II. only",
+            "D": "D.D. Both I. and II."
+        },
+        "answer": "B",
+        "explanation": "I. only. As the yield-to-maturity is a summary of all the spot rates that enter into the bond pricing equation, the yield must be less than the highest spot rate (and greater than the lowest spot rate). In regard to II, this is false: if the term structure of spot rates is increasing, as the coupon increases, generally the yield will decrease.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield to maturity, Spot rates, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "A 5-year corporate bond paying an annual coupon of 8% is sold at a price reflecting a yield-to-maturity of 6% per year. One year passes and the interest rates remain unchanged. Assuming a flat term structure and holding all other factors constant, the bond’s price during this period will have:",
+        "image": "",
+        "options": {
+            "A": "A.A. increased",
+            "B": "B.B. decreased",
+            "C": "C.C. remained constant",
+            "D": "D.D. cannot be determined with the data given"
+        },
+        "answer": "B",
+        "explanation": "Since YTM is lower than coupon rate, the bond is sold at a premium. As time passes the bond price will move towards par hence the price will decrease.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bond pricing, Yield to maturity, Coupon bonds",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "A $1,000 par bond carries a coupon rate of 6%, pays coupons semiannually, and has 12 years remaining to maturity. Market rates are currently 8%. The price of the bond is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.A. $943.61",
+            "B": "B.B. $847.53",
+            "C": "C.C. $1,021.41",
+            "D": "D.D. $952.05"
+        },
+        "answer": "B",
+        "explanation": "Using a calculator, note that half a year, number of periods is multiplied by 2. Therefore, N = 12×2=24.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Coupon bonds, Market rates",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "Given the following information, which of the following amounts is closest to d(1.0), the discount factor for the first year?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/ValuationandRiskModels_images/39u.png",
+        "options": {
+            "A": "A.A. 0.9099",
+            "B": "B.B. 0.9138",
+            "C": "C.C. 0.9655",
+            "D": "D.D. 0.9823"
+        },
+        "answer": "A",
+        "explanation": "To obtain the d(1.0) discount factor, first solve for d(0.5). In the equation below, the price for Bond A is equated to its terminal cash flow in six months, which is the principal plus the semiannual coupon of $3.00. 101.182 = 103.00 × d(0.5), d(0.5) = 0.9823. Next use the price and cash flows of Bond B to calculate the d(1.0) discount factor. The cash flow in one year is the principal plus the semiannual coupon of $6.00 and is discounted by d(0.5) and d(1.0). 102.341 = 6.00 × d(0.5) + 106.00 × d(1.0), which gives d(1.0) = 0.9099.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Discount factors, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "40",
+        "question_text": "The first U.S. Treasury bond has a price of $99.98, matures in six months, and pays a semi-annual coupon at a rate of 3.0% per annum. The second U.S. Treasury bond has a price of $101.11, matures in one year, and pays a semi-annual coupon at a rate of 4.0% per annum. What are, respectively, the six-month and one-year discount factors?",
+        "image": "",
+        "options": {
+            "A": "A.A. d(0.5) = 0.9790, d(1.0) = 0.9830",
+            "B": "B.B. d(0.5) = 0.9850, d(1.0) = 0.9720",
+            "C": "C.C. d(0.5) = 1.0020, d(1.0) = 0.9830",
+            "D": "D.D. d(0.5) = 0.9650, d(1.0) = 1.0340"
+        },
+        "answer": "B",
+        "explanation": "For the first bond, $99.98 = d(0.5) × $101.50, so that d(0.5) = 99.98 / 101.50 = 0.9850. For the second bond, $101.11 = d(0.5) × $2.00 + d(1.0) × $102.00, so that d(1.0) = [101.11 - (0.9850 × 2.0)] / 102.00 = 0.9720.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Discount factors, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "You have been asked to check for arbitrage opportunities in the Treasury bond market by comparing the cash flows of selected bonds with the cash flows of combinations of other bonds. If a 1-year zero-coupon bond is priced at USD 96.12 and a 1-year bond paying a 10% coupon semiannually is priced at USD 106.20, what should be the price of a 1-year Treasury bond that pays a coupon of 8% semiannually?",
+        "image": "",
+        "options": {
+            "A": "A.A. USD 98.10",
+            "B": "B.B. USD 101.23",
+            "C": "C.C. USD 103.35",
+            "D": "D.D. USD 104.18"
+        },
+        "answer": "D",
+        "explanation": "The solution is to replicate the 1 year 8% bond using the other two treasury bonds. In order to replicate the cash flows of the 8% bond, you could solve a system of equations to determine the weight factors, F1 and F2, which correspond to the proportion of the zero and the 10% bond to be held, respectively. The two equations are as follows: (100 × F1) + (105 × F2) = 104 (replicating the cash flow including principal and interest payments at the end of 1 year), and (5 × F2) = 4 (replicating the cash flow from the coupon payment in 6 months). Solving the two equations gives us F1 = 0.2 and F2 = 0.8. Thus the price of the 8% bond should be 0.2 (96.12) + 0.8 (106.2) = 104.18.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Arbitrage, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "The price of a three-year zero coupon government bond is $94.23 and the price of a similar five-year bond is $82.99. Under annual compounding, what is the two-year implied forward rate from year three to year five, F(3,5)?",
+        "image": "",
+        "options": {
+            "A": "A.A. 3.67%",
+            "B": "B.B. 4.55%",
+            "C": "C.C. 5.83%",
+            "D": "D.D. 6.56%"
+        },
+        "answer": "D",
+        "explanation": "Note that prices are a function of spot rates: P(3) = F/[1+s(3)]^3 and P(5) = F/[1+s(5)]^5. The no-arbitrage expectation is: [1+f(3,5)]^2 = [1+s(5)]^5 / [1+s(3)]^3, and taking square root of both sides: f(3,5) = SQRT([1+s(5)]^5 / [1+s(3)]^3) - 1. Substituting price in: f(3,5) = SQRT(P(3)/P(5)) - 1. In this case, f(3,5) = SQRT(94.23 / 82.99) - 1 = 6.56%.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rates, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Key aspects of stress testing governance include coverage, types (and approaches) and capital/liquidity. Each of the following is true about these three general aspects EXCEPT which of the following statements is inaccurate?",
+        "image": "",
+        "options": {
+            "A": "A.A. Types and approaches: Even if it is difficult to estimate their likelihood, REVERSE stress tests that 'break the bank' deserve consideration",
+            "B": "B.B. Types and approaches: Scenarios should not be too severe, as severity may stretch credibility with shareholders. If the scenario challenges the institution’s viability, then it is probably too severe",
+            "C": "C.C. Capital and liquidity: Stress testing for capital/liquidity adequacy should be coordinated with annual planning cycles and should be refreshed in the event of a major strategic decision",
+            "D": "D.D. Coverage: Good stress testing coverage includes (i) inclusion of portfolios, exposures, liabilities and business-line activities; (ii) various LEVELS of the organization; (iii) interplay between exposures; and (iv) various time horizons"
+        },
+        "answer": "B",
+        "explanation": "Instead, severity is desirable: 'For any scenario analysis conducted, the scenarios used should be relevant to the direction and strategy set by its board of directors, as well as sufficiently severe to be credible to internal and external stakeholders; at least some scenarios should be of sufficient severity to challenge the viability of the institution.'",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Stress testing, Governance",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "The following Treasury zero rates are exhibited in the marketplace: 6 months = 1.25%, 1 year = 2.35%, 1.5 years = 2.58%, 2 years = 2.95%. Assuming continuous compounding, the price of a 2-year Treasury bond that pays a 6 percent semiannual coupon is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.A. 105.20",
+            "B": "B.B. 103.42",
+            "C": "C.C. 108.66",
+            "D": "D.D. 105.90"
+        },
+        "answer": "D",
+        "explanation": "参考答案 : D\n\n【 夲学解析 】Answer: D The price is given by:\n\n$$\n3e^{(-0.0125 \\times 0.5)} + 3e^{(-0.0236 \\times 1)} + 3e^{(-0.0258 \\times 1.5)} + 103e^{(-0.0285 \\times 2)} = 105.90\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Treasury bond pricing, Continuous compounding",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "The following chart plots two prices for a 6.0% coupon bond that matures on January 1st, 2019. Each of the following statements is necessarily true EXCEPT which is not?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/ValuationandRiskModels_images/45u.png",
+        "options": {
+            "A": "A.A. The dotted blue line is the dirty (aka, full, invoice) price",
+            "B": "B.B. The solid green line is the clean (aka, flat, quoted) price",
+            "C": "C.C. The solid green line represents the money that changes hands in a buy/sell transaction",
+            "D": "D.D. This bond’s yield must be less than 6.0% such that the solid green line slopes downward throughout"
+        },
+        "answer": "C",
+        "explanation": "The dotted blue line (which is the invoice price; aka, dirty or full price) represents the money that changes hands in a buy/sell transaction. In regard to (A), (B), and (C), each is true. In regard to (D), this is an actual plot of a bond with a flat 4.0% yield, so that, since its coupon rate is greater than its yield, its price must exceed par; but as maturity approaches, the bond’s price is pulled to par therefore decreases.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bond pricing, Dirty and clean prices",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Assume the prices are for settlement on June 1, 2005, today’s date. Assume semiannual coupon payments:",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/ValuationandRiskModels_images/46u.png",
+        "options": {
+            "A": "A.A. 0.9696/0.9858",
+            "B": "B.B. 0.9858/0.9546",
+            "C": "C.C. 0.9546/0.9696",
+            "D": "D.D. 0.9778/0.9696"
+        },
+        "answer": "B",
+        "explanation": "参考答案：B\n【萜学解析】\n\n$$\n100 \\times \\left(1+\\frac{7.5\\%}{2}\\right) \\times d_1 = 102 + \\frac{9}{32}, \\, d_1 = 0.9858\n$$\n\n$$\n100 \\times \\left(\\frac{12.375\\%}{2}\\right) \\times d_1 + 100 \\times \\left(1+\\frac{12.375\\%}{2}\\right) \\times d_2, \\, d_2 = 0.9546\n$$\n",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Discount factors",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "47",
+        "question_text": "Your colleague Peter is building a model that will estimate the sensitivity of your firm's bond portfolio to interest rate changes. He is evaluating six different models. Each of his candidate models shocks the rate, but each assumes a different interest rate factor as the model's core assumption. These are the six candidate interest rate factors: \nI Yield to maturity; aka, yield \nII 2-, 5-, 10-, and 30-year spot (aka, zero) rates \nIII 2-, 5-, 10-, and 30-year par yields \nIV Six month forward rates across the entire 30-year curve \nV Level and slope \nVI The continuously compounded, instantaneous rate, r(t). Which of the six are usable (i.e., viable) interest rate factors?",
+        "image": "",
+        "options": {
+            "A": "A.A. Only I. and VI. are usable interest rate factors",
+            "B": "B.B. Only I., II. and III. are usable interest rate factors",
+            "C": "C.C. Only IV, V. and VI. are usable interest rate factors",
+            "D": "D.D. All six are usable interest rate factors"
+        },
+        "answer": "D",
+        "explanation": "It is easy to forget that duration and DV01 are typically yield-based duration and yield-based DV01; i.e., they express price change as a function of yield change. Yield is a popular and common interest rate factor because it is a one-factor formulation of interest rates: the entire term structure is summarized in a single yield. But more sophisticated models are multi-factor. They characterize the term structure, and consequently the interest rate risk factors, in plural terms. In this way, we can refer to the spot rate/forward rate/par yield at 2-, 5-, 10-, or 30-years, for example. Finally, per (VI.) the continuously compounded, instantaneous rate, r(t) is an important interest rate factor.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest rate risk factors, Bond sensitivity analysis",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "Assume the reference term structure, which happens to be the theoretical Treasury spot rate curve, is flat at a semiannually compounded rate of 1.30% per annum. A $100 par bond with a 20-year maturity pays a 4 3/8 coupon (4.375% coupon rate) and has a current price of $95.82. Which is nearest to the bond's spread with semi-annual compounding; a.k.a., bond-equivalent basis?",
+        "image": "",
+        "options": {
+            "A": "A.A. 1.74%",
+            "B": "B.B. 3.40%",
+            "C": "C.C. 4.00%",
+            "D": "D.D. 4.70%"
+        },
+        "answer": "B",
+        "explanation": "N = 40, PV = -95.82, PMT = 2.18750, FV = 100; CPT I/Y = 2.349832 × 2 = 4.699664%. Such that the spread = 4.699664%-1.30% = 3.3997%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond spread, Yield calculation",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "The eighteen-month forward curve is upward sloping with the following sequence of six-month forward rates: F(0, 0.5) = S(0.5) = 1.0%, F(0.5, 1.0) = 3.0%, F(1.0,1.5) = 5.0%. What is the price of a $100 face value bond that matures in 1.5 years with a semi-annual coupon that pays a coupon rate of 6.0%?",
+        "image": "",
+        "options": {
+            "A": "A.A. $99.02",
+            "B": "B.B. $100.56",
+            "C": "C.C. $103.89",
+            "D": "D.D. $104.43"
+        },
+        "answer": "D",
+        "explanation": "Sum of cash flows = $104.43 (exactly) or 104.44",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Forward rates",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "A 1-year 7.25% coupon bond is trading at a price of 98, a 2-year 6.1% coupon bond is trading at 99, and a 3-year 7.55% coupon bond is trading at 101. All coupons and rates are given using the annual Actual/Actual convention. Using this information the 1-year forward rate 2 years from now is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.A.6.57%",
+            "B": "B.B.7.14%",
+            "C": "C.C.8.24%",
+            "D": "D.D.8.29%"
+        },
+        "answer": "D",
+        "explanation": "【莽学解析】The solution is as follows:",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Forward rates",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "Analyst Patricia is analyzing the following four bonds: Bond A is a $100.00 face value bond with 7.0 years to maturity that pays a monthly coupon at a rate of 6.0% per annum and offers a yield of 5.0% per annum (with monthly compound frequency) Bond B is a $100.00 face value bond with 10.0 years to maturity that pays a semi-annual coupon at a rate of 4.0% per annum and offers a yield of 5.0% per annum (with semiannual compound frequency) Bond C is a $100.00 face value bond with 10.0 years to maturity that pays an annual coupon at a rate of 7.0% per annum and offers a yield of 6.0% per annum (with annual compound frequency) Bond D is a $1,000.00 face value zero-coupon bond with 30.0 years to maturity that offers a",
+        "image": "",
+        "options": {
+            "A": "A.A.Bond A is the cheapest and Bond D is the most expensive",
+            "B": "B.B.Bond B is the cheapest and Bond C is the most expensive",
+            "C": "C.C.Bond C is the cheapest and Bond A is the most expensive",
+            "D": "D.D.Bond D is the cheapest and Bond B is the most expensive"
+        },
+        "answer": "B",
+        "explanation": "Bond B is the cheapest (at $92.21) and Bond C is the most expensive (at $107.36). The following are the theoretical prices:Bond A: 7×12 = 84 N, 5/12 = 0.4167 I/Y, 0.06×100/12 = 0.50 PMT, 100 FV and CPT PV [+/-] = $105.90Bond B: 10×2 = 20 N, 5/2 = 2.5 I/Y, 0.04×100/2 = 2.0 PMT, 100 FV and CPT PV [+/-] = $92.21Bond C: 10×1 = 10 N, 6/1 = 6.0 I/Y, 0.07×100/1 = 7.0 PMT, 100 FV and CPT PV [+/-] = $107.36Bond D: 30×2 = 60 N, 8/2 = 4.0 I/Y, 0 PMT, 100 FV and CPT PV [+/-] = $95.06",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Forward rates",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "Given the following bonds and forward rates:",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/ValuationandRiskModels_images/52u.png",
+        "options": {
+            "A": "A.A. The 1-year forward rate one year from today is too low.",
+            "B": "B.B. The 2-year forward rate one year from today is too high.",
+            "C": "C.C. The 1-year forward rate two years from today is too low.",
+            "D": "D.D. The forward rates and bond prices provide no opportunities for arbitrage."
+        },
+        "answer": "C",
+        "explanation": "参考答案: C\n\n【萧学解析】The solution is as follows:\n\n$$\n\\text{1-year forward rate one year from today} = \\frac{1.07^2}{1.045} - 1 = 9.56\\%\n$$\n\n$$\n\\text{1-year forward rate two years from today} = \\frac{1.09^3}{1.07^2} - 1 = 13.11\\%\n$$\n\n$$\n\\text{2-year forward rate one year from today} = \\sqrt{ \\frac{1.09^3}{1.045}} - 1 = 11.32\\%\n$$\n",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward rates, Bond pricing",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "53",
+        "question_text": "Which of the following statements most likely describes an advantage of using stressed risk metrics?",
+        "image": "",
+        "options": {
+            "A": "A.A. The risk metric will respond to current market conditions.",
+            "B": "B.B. The risk metric will be more realistic.",
+            "C": "C.C. The risk metric will be more conservative.",
+            "D": "D.D. The risk metric will mirror the portfolio returns."
+        },
+        "answer": "C",
+        "explanation": "A key advantage of using stressed risk metrics is that they are conservative. In examining capital adequacy for unexpected losses and considering stressed metrics, the amount of capital is likely to be more than sufficient. In other words, a risk metric that is stressed is likely to be more conservative. A more conservative risk metric does not necessarily mean it is more realistic.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Stressed risk metrics",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "An eight-year bond with a current price of $975.00 pays an annual coupon of 6.0%. What is the bond’s yield-to-maturity (YTM)?",
+        "image": "",
+        "options": {
+            "A": "A.A. 5.88%",
+            "B": "B.B. 6.41%",
+            "C": "C.C. 6.89%",
+            "D": "D.D. 7.14%"
+        },
+        "answer": "B",
+        "explanation": "N = 8, PV = -975, PMT = 60, FV = 1000, CPT I/Y = 6.40913%通过计算器得出N = 8, PV = -975, PMT = 60, FV = 1000, CPT I/Y = 6.40913%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond YTM calculation",
+        "book label": "Validation and Risk Models1",
+        "level of difficulty": "medium",
+        "question type": "text only"
+    }
+]

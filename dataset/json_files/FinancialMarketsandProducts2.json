@@ -1,0 +1,974 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Today, most banks engage in both commercial and investment banking. Which of the following\nstatements is least correct?",
+        "image": "",
+        "options": {
+            "A": "A.Commercial banks involves the deposit-taking and lending activities which can be classified\nas retail banking or wholesale banking.",
+            "B": "B.Wholesale banking involves the provision of banking services to medium and large corporate\nclients, fund managers, and other financial institutions.",
+            "C": "C.Investment banking in virtually all countries has been subject to a great deal of regulation,\nbecause most of their business are very important for the national economy that individuals and\ncompanies have confidence in the banking system.",
+            "D": "D.The main activity of investment banking is raising debt and equity financing for corporations"
+        },
+        "answer": "C",
+        "explanation": "本题考查商业银行和投资银行的业务。在大部分国家里，对商业银行的监管更严格一些，因为\n商业银行的存贷款业务是金融行业的基础业务，对个人和公司客户都有很大影响。而对投资银行的监管政策\n更加宽松一些。选项C描述错误，符合题意，为正确选项。对于选项A，商业银行涉及的存贷款业务可分为零\n售银行业务和批发银行业务。因此，该选项描述正确，不符合题意，为错误选项。对于选项B，批发银行业务\n是为大中型企业客户、基金经理和其他金融机构提供银行服务的业务。因此，该选项描述正确，不符合题意\n，为错误选项。对于选项D，投资银行的主要活动是帮助公司或政府进行债权融资和股权融资，包括证券的发\n行、承销和向投资者配售。因此，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Commercial Banking, Investment Banking, Financial Regulation",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "Darcy, a portfolio manager manages a $10 million portfolio that has a beta of 0.3 relative to\nthe S&P 500. The S&P 500 futures are trading at 1,050 and the multiplier is 250. He would like\nto use the S&P 500 futures to hedge exposure to market risk over the next few months. Suppose\nthat at the maturity of the futures contract, the S&P 500 futures is trading at 1,000 and the\nportfolio has experienced a 1% decline in value. Evaluate the following statements:I. The\nappropriate hedge for the portfolio is a short position in 38 contracts.II. The net impact of\nthe market decline on the appropriately hedged portfolio is a loss of $37,500.",
+        "image": "",
+        "options": {
+            "A": "A.I only",
+            "B": "B.II only",
+            "C": "C.Neither of I and II is correct",
+            "D": "D.Both I and II are correct"
+        },
+        "answer": "C",
+        "explanation": "本题考虑在期货调整组合贝塔。\n\n对于 Statement I，使用 S&P 500 指数期货完全对冲组合的市场风险，即将组合的贝塔降低从原来的 $0.3$ 降为 $0$，所需的合约数为：\n\n$$\nN = (0 - 0.3) \\times \\frac{10,000,000}{1050 \\times 250} \\approx 11\n$$\n\n实际抛出约 $11$ 份期货合约，因此该陈述错误。\n\n对于 Statement II，原组合的价值变化为：\n\n$$\n-1 \\times 10,000,000 = -100,000\n$$\n\n实际的 $11$ 份期货合约的价值变化为：\n\n$$\n-11 \\times (1,000 - 1,050) \\times 250 = 137,500\n$$\n\n对于新组合的合约价值变化为：\n\n$$\n-100,000 + 137,500 = 37,500\n$$\n\n即为 $37,500$，因此该陈述正确。\n\n因此 Statement 1 和 Statement 2 均错误，选项 C 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hedging strategies, Beta calculation, Futures contracts",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "A portfolio management firm manages the fixed-rate corporate bond portfolio owned by a\ndefined-benefit pension fund. The duration of the bond portfolio is five years; the duration of\nthe pension fund's liabilities is seven years. Assume that the fund sponsor strongly believes\nthat rates will decline over the next six months and is concerned about the duration mismatch\nbetween portfolio assets and pension liabilities. Which of the following strategies would be\nthe best way to eliminate the duration mismatch?",
+        "image": "",
+        "options": {
+            "A": "A.Enter into a swap transaction in which the firm pays fixed and receives floating.",
+            "B": "B.Enter into a swap transaction in which the firm receives fixed and pays floating.",
+            "C": "C.Issue a bond which has interest rate floor expiring in six months.",
+            "D": "D.Sell Eurodollar futures contracts."
+        },
+        "answer": "B",
+        "explanation": "本题考查运用利率互换转变负债类型以及债券的久期。养老金资产端久期为5，负债端久期为\n7，资产和负债端久期均为正且不相等，当预期接下来6个月的利率下降时，资产端和负债端的价值均会上升\n，但是由于负债端的久期更大，价值上升更多，会导致养老金资产小于养老金负债。进入收固定利率付浮动\n利率的互换，相当于购买了固定利率债券，出售了浮动利率债券，而浮动利率债券的久期一般小于固定利率\n债券的久期，因为浮动利率债券的久期等于重新设定票面利率的间隔时间。此利率互换会使得养老金资产端\n的久期上升，实现资产端和负债端久期的匹配。因此正确选项为B。对于选项A，进入付固定利率收浮动利率\n的互换，相当于出售了固定利率债券，购买了浮动利率债券，此利率互换会使得养老金资产端的久期降低\n，无法实现资产端和负债端久期的匹配，因此，该选项错误。对于选项C，发行期限为6个月，具有利率下限\n的债券，会使得资产端的久期降低，而且具有利率下限的债券当利率下降时对发行者不利，无法实现资产端\n和负债端久期的匹配，因此，该选项错误。对于选项D，当利率下降时，欧洲美元期货的价格会上涨，卖出欧\n洲美元期货会亏损，会导致养老金资产减少，因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Swaps, Duration Management, Fixed-Income Portfolio Management",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "A bank entered into a 5-year $150 million annual-pay LIBOR-based interest rate swap three\nyears ago as the fixed rate payer at 5.5%. The relevant discount rates (continuously\ncompounded) for 1-year and 2-year obligations are currently 5.75% and 6.25%, respectively. A\npayment was just made. The value of the swap is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.-$2,555,860",
+            "B": "B.$2,555,860",
+            "C": "C.$6,450,000",
+            "D": "D.-$6,450,000"
+        },
+        "answer": "B",
+        "explanation": "本题考虑利率互换的估值。这家银行为付固定利率浮动利率的一方，其互换的价值为：\n\n$$\nV_{\\text{swap}} = PV_{\\text{floating}} - PV_{\\text{fixed}}\n$$\n\n上一笔互换刚刚完成，所以处于付款时点，浮动利率债券的价值为面值。固定利率债券的价值为：\n\n$$\nPV_{\\text{fixed}} = 150,000,000 \\times 5.5\\% \\times e^{-5.75\\%\\times1} + (150,000,000 + 150,000,000 \\times 5.5\\%) \\times e^{-6.25\\%\\times2} = 147,444,140\n$$\n\n互换的价值为：\n\n$$\nV_{\\text{swap}} = 150,000,000 - 147,444,140 = 2,555,860\n$$\n\n因此，选项 B 正确。",
+        "QA type": "The first question is classified as 'math reasoning QA' and the second question is classified as 'knowledge reasoning QA'.",
+        "knowledge topics": "Interest rate swaps, Discount rates, Principal exchange",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Eric Meyers is a trader in the arbitrage unit of a multinational bank. He finds that an asset\nis trading at USD 1,000, the price of a 1-year forward contract on that asset is USD 1,010, and\nthe price of a 2-year forward contract is USD 1,025. Assume that there are no cash flows from\nthe asset for 2 years. If the term structure of interest rates is flat at 1% per year, which of\nthe following is an appropriate arbitrage strategy? (Assume annual compounding)",
+        "image": "",
+        "options": {
+            "A": "A.Short 2-year forward and long 1-year forward.",
+            "B": "B.Short 1-year forward and long 2-year forward.",
+            "C": "C.Short 2-year forward and long the underlying asset funded by borrowing for 2 years.",
+            "D": "D.Short 1-year forward and long the underlying asset funded by borrowing for 1 year."
+        },
+        "answer": "C",
+        "explanation": "本题考虑远期合约定价不合理的案例。\n\n根据无套利远期合约的定价公式可以求出理论上一年期远期合约的价格：\n$$\nF = 1000 \\times (1 + 1\\%) = 1010\n$$\n一年期远期合约的理论价格和实际价格相等，定义合理无套利机会。\n\n对于两年期远期合约的实际价格大于理论价格，定义不合理，存在套利机会，归于：\n$$\nF = 1000 \\times (1 + 1\\%)^2 = 1020\n$$\n\n以本金支付盈利的 S 的收益为现货价格，期限为两年，然后签订远期，以保证将来的价格来实现现货价，实际盈利。因此此项正确。\n\n对于项点，远期合约的定价不合理的是真时现货和远期操作环节实际盈利，而不是期望未来的融资成本，这也是该项错误。\n\n对于项点，一年期远期合约是在现货和远期操作环节实际盈利。因此，项错误。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Arbitrage opportunities, Forward contracts, Interest rate structure",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "On the OTC market there are two options available on Microsoft stock: a European put with\npremium of USD 2.25 and an American call option with premium of USD 0.46. Both options have\nstrike price of USD 24 and an expiration date 3 months from now. Microsoft’s stock price is\ncurrently at USD 22 and no dividend is due during the next 6 months. Assuming that there is no\narbitrage opportunity, which of the following choices is closest to the level of the continuous\ncompounding risk-free rate:",
+        "image": "",
+        "options": {
+            "A": "A.0.25%",
+            "B": "B.1.76%",
+            "C": "C.3.52%",
+            "D": "D.Insufficient informati"
+        },
+        "answer": "C",
+        "explanation": "本题考虑兑汇权平价关系的计算。在无风险的情况下，美式香草期权不会提前行权，其价值等于欧式香草期权的价值。运用兑汇权平价关系可以求出对应的无风险利率：\n\n$$\nC + Xe^{-rt} = P + S\n$$\n\n代入想要的数据为：\n\n$$\n0.46 + 24e^{-r \\times 0.25} = 2.25 + 22\n$$\n\n解出：\n\n$$\nr = 3.52\\%\n$$\n\n因此，选项 C 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Option pricing, Arbitrage-free pricing, Continuous compounding rate",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "A 6-month futures contract on an equity index is currently priced at 1,276. The underlying\nindex stocks are valued at 1,250 and pay dividends at a continuously compounded rate of 1.70%.\nThe current continuously compounded risk-free rate is 5%. The potential arbitrage is closest\nto:",
+        "image": "",
+        "options": {
+            "A": "A.5.20.",
+            "B": "B.8.32.",
+            "C": "C.16.58.",
+            "D": "D.26.00."
+        },
+        "answer": "A",
+        "explanation": "本题考查股指期货的套利。  \n期限为 6 个月的股指期货市场价格为 1,276，理论价格为：  \n$$  \nF = 1250 \\times e^{(5\\% - 1.7\\%) \\times 0.5} = 1,270.80  \n$$  \n股指期货市场价格高于理论价格，存在套利机会，套利金额为：  \n$$  \n1,276 - 1,270.80 = 5.20  \n$$  \n因此，选择项 A 正确。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Arbitrage Pricing Theory, Futures Pricing, Cost of Carry",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "It is currently August 2010, and the spot price of soybeans is $5.05/bushel. Storage costs\nfor soybeans on a continuously compounded basis are $0.45/bushel annually. The appropriate\ncontinuously compounded interest rate is 8%. If a soybean farmer has just finished harvesting\nhis crop but would like to sell half of the crop in February 2011 and half in May 2011 by going\nshort futures contracts, which of the following statements is most accurate? The farmer should\nstore his crop only if the:",
+        "image": "",
+        "options": {
+            "A": "A.February futures contract price is more than $5.50/bushel and the May futures contract price\nis more than $5.73/bushel.",
+            "B": "B.February futures contract price is more than $5.73/bushel and the May futures contract price\nis more than $5.50/bushel.",
+            "C": "C.?February futures contract price is less than $5.73/bushel and the May futures contract price\nis less than $5.50/bushel.",
+            "D": "D.?February futures contract price is less than $5.50/bushel and the May futures contract price"
+        },
+        "answer": "D",
+        "explanation": "$$\nu = 0.45\n$$\n\n$$\n8.91\\% = \\frac{5.05}{5.05}\n$$\n\n$$\n2011\\text{年}2\\text{月期的期货合约合理价格为：}\n$$\n\n$$\nF = 5.05 \\times (e^{(8.91\\%)} \\times 0.5) = 5.50\n$$\n\n$$\n2011\\text{年}5\\text{月期的期货合约合理价格为：}\n$$\n\n$$\nF = 5.05 \\times (e^{(8.91\\%)} \\times 0.75) = 5.73\n$$\n\n$$\n所以，当2011\\text{年}2\\text{月期货合约合约市场价格低于} 5.50 \\text{/bushel}，2011\\text{年}5\\text{月期货合约市场价格低于} 5.73 \\text{/bushel}时，大豆种植者会储存大豆而不遭受订货合约的实赔。因此，选项D正确。\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Commodity Futures Pricing, Continuous Compounding, Hedging Strategies",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "Consider a U.K. based company that exports goods to the EU. The U.K. company expects to\nreceive payment on a shipment of goods in 60 days. Because the payment will be in euros, the\nU.K. company wants to hedge against a decline in the value of the euro against the pound over\nthe next 60 days. The U.K. risk-free rate is 3% and the EU risk-free rate is 4%. No change is\nexpected in these rates over the next 60 days. The current spot rate is EURGBP0.9230. To hedge\nthe currency risk, the U.K. company should take a short position in a Euro contract at a\nforward price of (Assume annual compounding):",
+        "image": "",
+        "options": {
+            "A": "A.0.9205.",
+            "B": "B.0.9215.",
+            "C": "C.0.9244.",
+            "D": "D.0.9141."
+        },
+        "answer": "B",
+        "explanation": "本题考虑外汇远期的定价。即期汇率为 EURGBP0.9230，英镑的利率为 3\\%，欧元的利率为 4\\%。2 个月的外汇远期价格为：\n\n$$\nF = S \\times \\frac{(1 + r_{GBP})^T}{(1 + r_{EUR})^T}\n$$\n\n代入数据解出：\n\n$$\nF = 0.9230 \\times \\frac{(1 + 3\\%)^{\\frac{60}{365}}}{(1 + 4\\%)^{\\frac{60}{365}}} = 0.9215\n$$\n\n因此，选项 B 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Currency Hedging Strategies, Forward Contracts, Interest Rate Parity",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "You are an institutional portfolio manager. One of your clients is very interested in the\nflexibility of options but expresses great concern about the high cost of some of them. In\ngeneral, which of the following options would be the most costly to purchase?",
+        "image": "",
+        "options": {
+            "A": "A.Barrier options",
+            "B": "B.Standard American options",
+            "C": "C.Lookback options",
+            "D": "D.Asian options"
+        },
+        "answer": "C",
+        "explanation": "本题考查奇异期权的性质。回望期权的损益取决于期权有效期内标的资产的最高或最低价格\n，普通期权的损益取决于到期时标的资产的价格，所以回望期权相较于普通期权会更加灵活，期权费也更贵\n。因此正确选项为C。对于选项A，障碍期权在触及到障碍价后会生效或者失效，相较于普通期权限制更多\n，所以期权费会更便宜。因此，该选项错误。对于选项B，标准美式期权的期权费没有回望期权贵。因此，该\n选项错误。对于选项D，亚式期权的损益取决于期权有效期内标的资产的平均价格，相当于降低了期权价格的\n波动率，从而降低了期权的价值。所以亚式期权的期权费会比普通期权更加便宜。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Exotic options, Lookback options, Option pricing",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "A 1-year American put option with an exercise price of $40 will be worth $16.00 at maturity\nwith a probability of 0.25 and $0.00 with a probability of 0.75. The current stock price is\n$36. The continuous discount rate is 5%. The optimal strategy is to:",
+        "image": "",
+        "options": {
+            "A": "A.Exercise the option because the option is in-the-money.",
+            "B": "B.Not exercise the option because the option is out-the money.",
+            "C": "C.Exercise the option now because the payoff from exercise exceeds the present value of the\nexpected future payoff.",
+            "D": "D.No difference between exercise the option now or at the maturity, because the payoff from"
+        },
+        "answer": "C",
+        "explanation": "本题考察美国明确权利的前期权问题。\n\n如果立足于行权，此美式期权利润计算为：\n\n$$\nPayoff = 40 - 36 = 4\n$$\n\n如果不想行权，得到的潜在利润为：\n\n$$\nPayoff = 16 \\times 0.25 + 0 \\times 0.75 = 4\n$$\n\n将时间价值的损失考虑进来，得到不想行权时明确权利的损益为：\n\n$$\n4 \\times e^{-0.56 \\times 1} = 3.8\n$$\n\n因为前期权的损益并不明确，所以此美式期权应该行权。因此正确答案为C。\n\n对于这道题，提出行权的损益大于不想行权的损益，而不是等于。因此，该项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options Pricing Theory, American Options, Discounting Future Payoffs",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Which of the following is not an assumption of the Black-Scholes-Merton options pricing\nmodel?",
+        "image": "",
+        "options": {
+            "A": "A.The underlying stock price follows lognormal distribution and the rate of return of the stock\nfollows normal distribution.",
+            "B": "B.The interest rate changes randomly over time.",
+            "C": "C.The instantaneous variance of the return of the underlying is constant.",
+            "D": "D.Markets are perfect, i.e. short sales are allowed, there are no transaction costs or taxes,"
+        },
+        "answer": "B",
+        "explanation": "本题考查BSM模型的假设。BSM模型中假设无风险利率恒定且已知，并不会随着时间而改变。选\n项B描述错误，符合题意，为正确选项。对于选项A，BSM模型中假设资产的价格服从对数正态分布，而收益率\n服从正态分布。因此，该选项描述正确，不符合题意，为错误选项。对于选项C，BSM模型中假设资产收益率\n的波动率恒定且已知。因此，该选项描述正确，不符合题意，为错误选项。对于选项D，BSM模型中假设市场\n是完美的，即允许卖空，可进行连续交易，标的资产是可分割的，没有交易成本，没有税收，也没有监管约\n束，市场上没有套利机会。因此，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Black-Scholes-Merton assumptions, Risk-free rate, Volatility",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Derivatives are contracts whose values depend on the values of one or more financial\nvariables, we use derivatives to hedge risk, to make some profit, which of the following is\nleast correct considering the characteristic of derivatives?",
+        "image": "",
+        "options": {
+            "A": "A.Forward is an over-the-counter contract which having many regulations, the risk of this\nderivative is less than that of futures in the case that the underlying asset, the maturity of\ntime, and the other characteristics are the same.",
+            "B": "B.The advantage of OTC markets is that the contracts traded do not have to be the standard\ncontracts defined by exchanges, and market participants can trade any contracts they like.",
+            "C": "C.A futures contract provides a similar payoff to a forward contract, but it trades on an\nexchange.",
+            "D": "D.Derivatives markets attract many kinds of traders, the leverage that speculators can obtain"
+        },
+        "answer": "A",
+        "explanation": "本题考查场内与场外市场的基本特征。远期合约在场外市场进行交易，受到的监管较少，信用\n风险比期货合约更大。期货合约在场内市场进行交易，受到的监管较多，没有信用风险。选项A描述错误，符\n合题意，为正确选项。对于选项B，场外市场交易的产品相较于场内市场交易的产品更具个性化，可以满足交\n易者特定的交易需求。因此，该选项描述正确，不符合题意，为错误选项。对于选项C，期货和远期合约的损\n益是非常接近的，主要的区别在于期货合约每天进行结算，而远期合约到期结算。因此，该选项描述正确\n，不符合题意，为错误选项。对于选项D，很多衍生品合约具有较高的杠杆，杠杆会放大收益和亏损，所以对\n于投机者而言，由于杠杆的存在会放大风险。因此，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forwards and Futures, OTC Markets, Exchange-Traded Contracts",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Derivatives have become increasingly important in finance. They are used to transfer risks\nor the other purposes. which of the statement of derivatives are most correct?",
+        "image": "",
+        "options": {
+            "A": "A.There are two types of option, A call option gives the holder the right to buy the underlying\nasset by a certain date for a certain price while the shorter of this option can reject the\nrequirement to exercise of the holder.",
+            "B": "B.Traders use derivatives to hedge risk by constructing naked positions.",
+            "C": "C.Derivatives are very versatile instruments, they can be used for hedging, for speculation,\nand for arbitrage.",
+            "D": "D.A forward or futures contract involves an obligation to buy or sell an asset at a certain"
+        },
+        "answer": "C",
+        "explanation": "本题考查期权的基本特征。衍生品是一种应用广泛的金融产品，可用于对冲风险，投机和套利\n。因此正确选项为C。对于选项A，call option的买方有权在期权到期日以约定的价格买进标的资产，而卖方\n有义务在期权到期日以约定的价格卖出标的资产，卖方无法拒绝买方的行权要求。因此，该选项错误。对于\n选项B，在用衍生品做对冲时，构建的是covered positions，而不是naked positions。因此，该选项错误。\n对于选项D，远期和期货的买卖双方均有义务在合约到期时履行合约，而期权的买方只有权力没有义务，期权\n的卖方只有义务没有权力。所以期权和远期、期货是有区别的。因此，该选项错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivative Instruments, Hedging Strategies, Speculation and Arbitrage",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "In futures trading, clearinghouses play an important role. Which of the functions should the\nclearing houses fulfill in the settlement process of futures?",
+        "image": "",
+        "options": {
+            "A": "A.In case of physical settlement, the clearinghouse guarantees that the longs will receive the\nspecified merchandise.",
+            "B": "B.The clearinghouse receives delivery notices from the longs and assigns the notices to the\nshorts.",
+            "C": "C.Each day, members who have lost money pay their loss amount to the clearinghouse, while\nmembers who have gained will not receive their gain amount from the clearinghouse.",
+            "D": "D.The clearinghouse implements a procedure where short positions and long positions in a"
+        },
+        "answer": "D",
+        "explanation": "本题考查期货的交易机制。在期货的交易过程中，清算所会采用净额结算的方式，即在特定合\n约中，空头头寸和多头头寸相互抵消，最终支付净额的过程。因此正确选项为D。对于选项A，在实物交割的\n过程中，卖方可以选择交割的资产类别和质量，因此清算所无法保证多头方一定能收到确定的标的资产。因\n此，该选项错误。对于选项B，清算所从卖方获取交割通知，然后传递给买方。因此，该选项错误。对于选项\nC，期货交易过程中每日结算，清算所会把亏损一方保证金账户中的资金划转给盈利一方的保证金账户中，盈\n利和亏损在当天均会结算。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Futures trading mechanisms, Clearinghouse functions in settlement, Cash flow and margin accounts in futures trading",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "William Wang, FRM, entered into the long position of two wheat futures contracts matured on\nJune. Each contract is 15,000 pounds of wheat. The current futures price is 150 cents per\npound. The initial margin was about $5,000 for each contract and the maintenance margin was\n$3,500 for each contract. Based on the information above, what price changes will lead to the\nmargin call and under what circumstances can $2000 be withdrawn from the margin account by\ninvestors?",
+        "image": "",
+        "options": {
+            "A": "A.When the futures price is below 140 cents/pound, investors will receive margin call; when the\nfutures price rises to 156.67 cents/pound, investors can withdraw $2000 margin.",
+            "B": "B.When the futures price is above 160 cents/pound, investors will receive margin call; when the\nfutures price declines to 143.33 cents/pound, investors can withdraw $2000 margin.",
+            "C": "C.When the futures price is below 130 cents/pound, investors will receive margin call; when the\nfutures price rises to 163.33 cents/pound, investors can withdraw $2000 margin.",
+            "D": "D.When the futures price is above 170 cents/pound, investors will receive margin call; when the"
+        },
+        "answer": "A",
+        "explanation": "本题考虑期货保证金的计算。  \n期货合约的买方在期货价格下跌时损失，在期货价格上升时盈利。当保证金账户中的资金低于维持保证金水平时，会收到追加保证金的通知。假设期货价格为 $X$ 时会收到追加保证金的通知，则：\n\n$$\n(150-X) \\times \\frac{15,000}{100} \\times 2 = (5,000 - 3,500) \\times 2\n$$\n\n解出 $X$ 为 $140$，即当期货价格低于 $140$ cents/pound 时会收到追加保证金的通知。  \n当期货合约约定为活期时可以将利润取出，假设期货价格为 $Y$ 时，期货合约的利润为 $2,000$，则：\n\n$$\n\\frac{(Y - 150)}{100} \\times 15,000 \\times 2 = 2,000\n$$\n\n解出 $Y$ 为 $156.67$，即当期货价格为 $156.67$ cents/pound 时可以从保证金账户中取出 $2,000$。因此，选项 A 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Margin requirements, Futures contracts, Margin calls",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "A corn grower is concerned that the price he can get from the field in mid-October will be\nless than he has forecasted. To protect himself from price declines, the farmer has decided to\nhedge. The best available futures contract he can find is for August delivery. Which of the\nfollowing is the appropriate direction of his position and the source of basis risk that may\nimpact the farmer?",
+        "image": "",
+        "options": {
+            "A": "A.Short futures; Stack and roll",
+            "B": "B.Short futures; Cross hedging",
+            "C": "C.Long futures; Cross hedging",
+            "D": "D.Long futures; Stack and roll"
+        },
+        "answer": "A",
+        "explanation": "本题考查对冲方向的判断和产生基差的原因。玉米种植者持有玉米，为现货的多头方，担心未\n来现货价格下跌，为了对冲价格下跌的风险需要进入期货合约的空头方。玉米种植者需要在10月中旬出售玉\n米，然而市场上合适的期货合约在8月份到期，这意味着在对冲时需要采用滚动对冲，期货到期时间与现货资\n产交易时间不一致会导致基差。因此正确选项为A。对于选项B，交叉对冲是指需要对冲的资产与期货合约的\n标的资产不一致。因此，该选项错误。对于选项C，玉米种植者持有玉米，为现货的多头方，需要进入期货合\n约的空头方对冲资产价格下跌的风险，而不是多头。期货到期时间与现货资产交易时间不一致需要采用滚动\n对冲而不是交叉对冲。因此，该选项错误。对于选项D，米种植者持有玉米，为现货的多头方，需要进入期货\n合约的空头方对冲资产价格下跌的风险，而不是多头。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hedging, Basis Risk, Futures Contracts",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "Stock A is expected to pay a $1 dividend after 2 month and a $2 dividend after 5 months. The\nstock price is now priced at $30, the continuous compounded risk-free rate for all maturities\nis 8%. An investor has just entered into a short position in a 6-month forward contract of the\nstock. Based on the information above, what is the reasonable price of this stock forward\ncontract?",
+        "image": "",
+        "options": {
+            "A": "A.USD 28.19",
+            "B": "B.USD 29.34",
+            "C": "C.USD 29.98",
+            "D": "D.USD 30.41"
+        },
+        "answer": "A",
+        "explanation": "本题考虑有股利情况下远期的定价。首先计算当前时刻股票价格的现值：\n\n$$\nPVD = 1 \\times e^{-0.08 \\times \\frac{2}{12}} + 2 \\times e^{-0.08 \\times \\frac{5}{12}} = 2.92\n$$\n\n有股利情况下的远期价格公式：\n\n$$\nF = (S - PVD) \\times e^{rt}\n$$\n\n将数据代入：\n\n$$\nF = (30 - 2.92) \\times e^{0.08 \\times \\frac{6}{12}} = 28.19\n$$\n\n因此，选项 A 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward pricing, Dividend adjustment in forwards, Continuous compounding",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "Suppose there are one-year exchange currency forward and futures contract with the same\nquoting price at 1.3000 GBPUSD. During the year, the futures price experiences a decrease to\n1.2000 GBPUSD and then rises to 1.4000 GBPUSD at end of the year. The interest rate during the\nyear is constant. Considering the mark-to-market effect of the futures contract, what is the\nfavorable choice for a trader who wants to buy 1 million British pounds and eliminate the\ncurrency risk?",
+        "image": "",
+        "options": {
+            "A": "A.Entering into the long position of the GBPUSD forward contract.",
+            "B": "B.Entering into the long position of the GBPUSD futures contract.",
+            "C": "C.Entering into the short position of the GBPUSD forward contract.",
+            "D": "D.Entering into the short position of the GBPUSD futures contract."
+        },
+        "answer": "A",
+        "explanation": "本题考查利用外汇远期对冲汇率风险。首先判断进入头寸的方向，GBPUSD报价形式是指一单位\nGBP价值多少单位USD，因此进入GBPUSD合约的多头，相当锁定购买GBP的成本（用USD购买），与题干描述的\n一年后希望以固定价格买入英镑一致，所以是long GBPUSD。其次判断选用forward还是futures。由于\nfutures存在每日盯市制度，所以在题干描述的场景下，英镑汇率先降再升，这意味着GBPUSD futures多头方\n在期间有额外现金流支付，而forward没有这个困扰，即使最后时刻两种合约的期末价值相同，因此多头方在\n此场景下更愿意进入long forward。但如果场景变为先升后降，那么进入long futures会更好。因此正确选\n项为A。对于选项B，当英镑汇率先降再升时，forward合约更有吸引力，因此，该选项错误。对于选项C，一\n年后希望以固定价格买入英镑应该进入GBPUSD合约的多头，而不是空头。因此，该选项错误。对于选项D，一\n年后希望以固定价格买入英镑应该进入GBPUSD合约的多头，而不是空头。同时，当英镑汇率先降再升时\n，forward合约更有吸引力。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Currency forwards, Currency futures, Mark-to-market",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "A Canadian-based tire company will receive $2,500,000 payment from its American-based\ndistributor in two months. The Canadian firm hedges the exchange rate risk using a forward\ncontract and the exchange rate of USDCAD is priced at 1.20. If the US dollar depreciates over\nthe next two months and the expected future spot exchange rate of USDCAD would be 1.08, how\nmuch more or less will the Canadian-based tire firm receive in Canadian dollars by hedging,\nversus an unhedged position?",
+        "image": "",
+        "options": {
+            "A": "A.300,000 CAD more",
+            "B": "B.300,000 CAD less",
+            "C": "C.277,778 USD more",
+            "D": "D.277,778 USD less"
+        },
+        "answer": "A",
+        "explanation": "本题考查利用外汇远期对冲外汇风险。签订外汇远期时，2个月后以远期汇率USDCAD 1.2将2,\n500,000 USD转换成加元，此时可以获得的加元为：2,500,000 USD×1.2=3,000,000 CAD不签订外汇远期时\n，2个月后以即期利率USDCAD 1.08将2, 500,000 USD转换成加元，此时可以获得的加元为：2,500,000\nUSD×1.08=2,700,000 CAD签订外汇远期对冲外汇风险比不签订外汇远期时可以多获得300,000 CAD。因此\n，选项A正确。\nA.Borrow CHF, buy USD spot, long CHF futures\nB.Borrow CHF, sell CHF spot, short CHF futures\nC.Borrow USD, buy CHF spot, short CHF futures\nD.Borrow USD, sell USD spot, long CHF futures\n参考答案：C\n【莽学解析】",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign Exchange Risk, Forward Contracts, Hedging Strategies",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "A large publicly held company refines crude oil into gasoline and sells gasoline wholesale\nwith long-term contracts at fixed prices. The firm also owns the land, with full rights, from\nwhich it pumps crude oil the firm financed the purchase of the land by issuing floating-rate\nbonds. This firm could reduce the volatility of its earnings by entering into an:Ⅰ. interest-\nrate swap.Ⅱ. oil commodity swap.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor II."
+        },
+        "answer": "A",
+        "explanation": "本题考查利用互换转变负债头寸。对于statement Ⅰ，企业发行了浮动利率债券，所以企业对\n利率波动是敏感的。进入付固定收浮动的利率互换可以将浮动利率的负债转换为固定利率的负债，不受利率\n波动的影响。因此，需要进入利率互换。对于statement Ⅱ，企业拥有自己的生产资源，然后用长期锁定的\n价格批发卖出，所以该企业是不面临商品价格风险的，原油商品互换将不会降低收益的波动性。因此，无需\n进入原油商品互换。所以只用进入利率互换，选项A正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest rate swaps, Floating rate bonds, Commodity price risk",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "Tom enterprise entered a swap with USD 5 million notional and received a floating rate based\non 6-month Libor. It paid a fixed rate of 7% semiannually. The last cash flow of the swap\nexchanged 3 months ago. The swap has a remaining life of 15 months, with payment dates at 3, 9\nand 15months. Today, continuously compounded spot Libor rates for 3-month, 9-month, 15-month\nare 5.8%, 6.5% and 6.8% respectively. The Libor at last payment was 6.1%. The value of the swap\nto Tom is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.-$13,024",
+            "B": "B.$13,024",
+            "C": "C.-$14,127",
+            "D": "D.$14,127"
+        },
+        "answer": "C",
+        "explanation": "本题考虑非结算时点利率互换的估值。  \n计算固定利率债券的价值：  \n\n$$\nPMT(fixed) = \\frac{7\\%}{2} \\times 5,000,000 = 175,000\n$$  \n\n$$\nPV_{fixed} = 175,000 \\times e^{-5.8\\% \\times 0.25} + 175,000 \\times e^{-6.5\\% \\times 0.75} + (175,000 + 5,000,000) \\times e^{-6.8\\% \\times 1.25} \n$$  \n\n$$\n= 172,481 + 166,673 + 4,753,301 = 5,092,455\n$$  \n\n计算浮动利率债券的价值，在下一个结算日，浮动利率债券的价值为：  \n\n$$\nValue(floating) = Par + coupon = 5,000,000 \\times \\left(1 + \\frac{6.1\\%}{2}\\right) = 5,152,500\n$$  \n\n当前时点浮动利率债券的价值为：  \n\n$$\nPV_{floating} = 5,152,500 \\times e^{-5.8\\% \\times 0.25} = 5,078,328\n$$  \n\n计算收购浮动支付固定头寸的互换价值：  \n\n$$\nValue(swap) = PV_{floating} - PV_{fixed} = 5,078,328 - 5,092,455 = -14,127\n$$  \n\n因此，选择C正确。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest rate swaps, Valuation of swaps, Continuously compounded rates",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "A financial institution has entered into a plain vanilla currency swap with one of its\ncustomers. The period left on the swap is two years with the institution paying 4.5% on USD120\nmillion and receiving 2% on JPY3,500 million annually. The current exchange rate is 120\nJPY/USD, and the flat term structure in both countries generates a 3% rate in the United States\nand a 0.5% rate in Japan. The current value of this swap to the institution is closest to\n(continuously compounded):",
+        "image": "",
+        "options": {
+            "A": "A.$93.04 million",
+            "B": "B.-$93.04 million",
+            "C": "C.$118.1 million",
+            "D": "D.-$118.1 million"
+        },
+        "answer": "B",
+        "explanation": "本题考虑货币互换的估值。该家金融机构支付美元，收入日元，其互换的价值为：\n\n$$\nV_{swap} = PV_{JPY} - PV_{USD}\n$$\n\n第一步：计算美债的价值：\n$$\nPV_{USD} = 120 \\times 4.5\\% \\times e^{-0.03 \\times 2} + (120 \\times 4.5\\% + 120)e^{-0.03 \\times 2} = 123.34 \\text{m}\n$$\n\n第二步：计算日元债价值，并转换成美元计价：\n$$\nPV_{JPY} = \\frac{(3500 \\times 2\\% \\times e^{-0.005} + (3500 \\times 2\\% + 3500)e^{-0.005 \\times 2})}{120} = 30.30 \\text{m}\n$$\n\n第三步：计算互换的价值：\n$$\nValue(swap) = PV_{JPY} - PV_{USD} = -93.04 \\text{million}\n$$\n\n因此，选项 B 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Currency Swaps, Exchange Rate Risk, Interest Rate Risk",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "Which option combination most closely simulates the economics of a short position in a\nfutures contract? Suppose the options and futures contracts have the same underlying assets and\noptions’ strike price is equal to the futures price.",
+        "image": "",
+        "options": {
+            "A": "A.Payoff of a long call plus a short put",
+            "B": "B.Profit of a long call plus a short put",
+            "C": "C.Payoff of a long put plus short call",
+            "D": "D.Profit of long put plus short call"
+        },
+        "answer": "C",
+        "explanation": "该题主要考虑为期权的损益和利润。买入一份 put option 的损益为：\n\n$$\n\\max(0, X - S_t)\n$$\n\n卖出一份 call option 的损益为：\n\n$$\n-\\max(0, S_t - X) = \\min(0, X - S_t)\n$$\n\n上述两个头寸组合的损益为：\n\n$$\nX - S_t\n$$\n\n与 short futures 的损益相同。因此正确选项为 $C$。\n\n对于选项 D，买入一份 call option 和卖出一份 put option 的组合损益与 long futures 的损益相同。因此，该选项错误。\n\n对于选项 B，计算期权收益时需要考虑期权的期权费、call option 和 put option 的期权费是不相等的，所以买入一份 call option 和卖出一份 put option 的组合利润为：\n\n$$\nS_t - X + p - c\n$$\n\n因此，该选项错误。\n\n对于选项 D，买入一份 put option 和卖出一份 call option 的组合利润为：\n\n$$\nX - S_t + c - p\n$$\n\n因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options strategies, Derivatives, Futures contracts",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "There are important differences between options and forwards/futures, with forwards and\nfutures, a trader is obligated to buy or sell the underlying asset at a certain price. In the\nU.S., tens of millions of options are traded daily on exchanges such as the CBOE, NASDAQ, the\nNew York Stock Exchange, and the International Securities Exchange. What is the correct number\nof the following statement?Ⅰ. A European call (or put) option gives the buyer the right to buy\n(or sell) an asset at a certain price at any time before and during the specified date.Ⅱ.\nOptions can be in the money, at the money, out of the money, this is referred to as their\nmoneyness, a call option is out of the money when the asset price is greater than the strike\nprice.Ⅲ. Cash dividends usually don’t affect the terms of a stock option while stock splits\ndo lead to strike price adjustment.Ⅳ. Like the exchange-traded options market, the OTC options\nmarket is substantial, the main advantage of the OTC market is that financial institutions can\ntailor options to meet the specific needs of their clients.",
+        "image": "",
+        "options": {
+            "A": "A.1",
+            "B": "B.2",
+            "C": "C.3",
+            "D": "D.4"
+        },
+        "answer": "B",
+        "explanation": "本题考查期权的基本性质。对于Statement Ⅰ，欧式期权只能在到期日行权，在到期日前的任\n何时间都不能行权，因此该陈述错误。对于Statement II，看涨期权的标的资产价格大于行权价格时，看涨\n期权盈利，为价内期权，而不是价外期权。因此该陈述错误。对于Statement III，股票期权的标的资产股票\n在分发股利时，一般不会影响股票期权，但如果是拆股的话，对应的股票期权的行权价要经过适当的调整。\n因此该陈述正确。对于Statement IV，期权可以再场内和场外交易，场外交易的期权灵活度更高，可以满足\n客户的个人需求。因此该陈述正确。因此有2个陈述正确，选项B正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option Pricing and Valuation, Derivative Instruments, Market Structure and Types",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "There are three statements about the upper/lower bounds of the options on a non-dividends\nstock as below:Ⅰ. Call option has the same upper and lower bounds between American and\nEuropean styles. But put option in American style has higher level at upper and lower bounds\nthan the one in European style.Ⅱ. The lower bound for an American put option is max{K-S , 0},\nbecause an American put can be exercised at any time, so the promised cash flow receiving\nshould not be discounted.Ⅲ. The upper bound of a American call option is the strike price,\nwhile the one of a American put option is underlying stock price.How many statements above is\naccurate?",
+        "image": "",
+        "options": {
+            "A": "A.one",
+            "B": "B.two",
+            "C": "C.three",
+            "D": "D.none"
+        },
+        "answer": "B",
+        "explanation": "本题考查无股利情况下的期权价值上下界。对于Statement Ⅰ，欧式和美式call option的上下\n界保持一致，因为不含持有期收益的call option不会提前行权，美式和欧式没有差异。但卖权有可能提前行\n权，所以美式卖权的上下界要比欧式的大一些。因此该陈述正确。对于Statement II，美式put option的下\n界是直接用执行价格减去标的价格，不需要折现，因为期权存续期内任意时刻，只要美式卖权所有者发起行\n权，他就会立刻收到金额为X的现金流，而不需要等到期权到期。因此该陈述正确。对于Statement III，美\n式call option的上界是标的资产价格，美式put option的上界是执行价格，表述说反了。因此该陈述错误。\n因此有2个陈述正确，选项B正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "American and European options, Option bounds, Dividends and exercising rights",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "According to an in-house research report, it is expected that USDJPY will trade near 97 at\nthe end of March. Frankie Shiller, the investment director of a house fund, decides to use an\noption strategy to capture this opportunity. The current level of the USDJPY exchange rate is\n97 on February 28. Accordingly, which of the following strategies would be the most appropriate\nfor the largest profit while the potential loss is limited?",
+        "image": "",
+        "options": {
+            "A": "A.Long a call option on USDJPY and long a put option on USDJPY with the same strike price of\nUSDJPY 97 and expiration date.",
+            "B": "B.Long a call option on USDJPY with strike price of USDJPY 97 and short a call option on USDJPY\nwith strike price of USDJPY 99 and the same expiration date.",
+            "C": "C.Short a call option on USDJPY and long a put option on USDJPY with the same strike price of\nUSDJPY 97 and expiration date.",
+            "D": "D.Long a call option with strike price of USDJPY 96, long a call option with strike price of"
+        },
+        "answer": "D",
+        "explanation": "本题考查期权交易策略的构建和应用。当前美元和日元的汇率水平为97，投资者认为3月底美元\n和日元的汇率仍为97，即认为市场汇率平稳。构建交易策略需要在市场平稳的情况下获利，并保证潜在损失\n有限，可以采用蝶式价差策略。买一份执行价为96的call option，买一份执行价为98的call option，卖出\n两份执行价为97的call option，相当于构建了蝶式价差策略，当汇率稳定在97附近时可以盈利，并且潜在的\n亏损是有限的。因此正确选项为D。对于选项A，买入一份call option和put option，相当于构建了跨式策略\n，在现货价格保持平稳的情况下将会产生损失。因此，该选项错误。对于选项B，买入一份行权价低的call\noption，卖出一份行权价高的call option，相当于构建了牛市价差策略，当现货价格上涨时会产生盈利。因\n此，该选项错误。对于选项C，卖出一份call option，买入一份put option，相当于做空现货头寸，当现货\n价格下跌时会产生盈利。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options Strategies, Butterfly Spread, Risk Management",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "A stock is currently trading at USD 45, and its annual price volatility is 30%. The risk-\ntree rate is 1.5% per year. A risk manager is developing a 1-step binomial tree for a 2-year\nhorizon. What is the risk-neutral probability that the stock will move down?",
+        "image": "",
+        "options": {
+            "A": "A.30%",
+            "B": "B.43%",
+            "C": "C.57%",
+            "D": "D.70%"
+        },
+        "answer": "C",
+        "explanation": "本题考查风险中性下的上涨和下跌概率。  \n先计算上涨和下跌因子：  \n\n$$\nu = e^{\\sigma \\sqrt{t}} = e^{30\\% \\times \\sqrt{2}} = 1.5285\n$$  \n\n$$\nd = \\frac{1}{u} = 0.6543\n$$  \n\n再计算风险中性下上涨和下跌概率：  \n\n$$\n\\pi_u = \\frac{e^{rt} - d}{u - d} = \\frac{e^{1.5\\% \\times 2} - 0.6543}{1.5285 - 0.6543} = 43\\%\n$$  \n\n$$\n\\pi_d = 1 - \\pi_u = 57\\%\n$$  \n\n因此，选项 C 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Binomial Option Pricing Model, Risk-Neutral Probability, Volatility",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "An analyst is pricing a 2-year European put option on a non-dividend-paying stock using a\nbinomial tree with two steps of one year each. The stock price is currently USD 38, and the\nstrike price of the put is USD 40. What is the value of the put closest to, assuming that the\nannual risk-free rate will remain constant at 2% over the next two years and the annual stock\nvolatility is 15%?",
+        "image": "",
+        "options": {
+            "A": "A.3.04 USD",
+            "B": "B.3.48 USD",
+            "C": "C.3.62 USD",
+            "D": "D.3.81 USD"
+        },
+        "answer": "B",
+        "explanation": "本题考查欧式期权每步二叉树的计算。  \n由题中信息知：  \n$S = 38, \\; T = 2, \\; t = 1, \\; X = 40, \\; r = 2\\%, \\; \\sigma = 15\\%$  \n\n计算上涨和下跌因子：  \n\n$$\nu = e^{\\sigma \\sqrt{T}} = e^{0.15 \\times \\sqrt{1}} = 1.1618\n$$  \n\n$$\nd = \\frac{1}{u} = \\frac{1}{1.1618} = 0.8607\n$$  \n\n计算风险中性下的上涨和下跌概率：  \n\n$$\n\\pi_u = \\frac{e^{rt} - d}{u - d} = \\frac{e^{0.02 \\times 1} - 0.8607}{1.1618 - 0.8607} = \\frac{1.0202 - 0.8607}{1.1618 - 0.8607} = 0.5297\n$$  \n\n$$\n\\pi_d = 1 - \\pi_u = 1 - 0.5297 = 0.4703\n$$  \n\n画出对应的二叉树：  \n\n```\n          51.29 (0)\n          /\n        44.15\n        /\n      38\n      \\\n        32.71\n          \\\n          28.15 (11.85)\n```\n\n将到期期权的损益一步一步往前推，第一个步骤上涨对应的期权价值为：  \n\n$$\nP_u = \\frac{38 \\times 0.5297 + 44.15 \\times 0.4703}{e^{0.02 \\times 1}} = \\frac{38 \\times 0.5297 + 44.15 \\times 0.4703}{e^{0.02}} = 26.9291\n$$  \n\n第一个步骤下跌对应的期权价值为：  \n\n$$\nP_d = \\frac{28.15 \\times 0.5297 + 32.71 \\times 0.4703}{e^{0.02 \\times 1}} = \\frac{28.15 \\times 0.5297 + 32.71 \\times 0.4703}{e^{0.02}} = 6.5011\n$$  \n\n期权的价值为：  \n\n$$\nP_0 = \\frac{0.9220 \\times 0.5297 + 6.5011 \\times 0.4703}{e^{0.02}} = \\frac{0.9220 \\times 0.5297 + 6.5011 \\times 0.4703}{e^{0.02}} = 3.48\n$$  \n\n因此，选项正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Options pricing models, Binomial tree method, Risk-free rate and stock volatility",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "What is the price of a three month European put option on a non-dividend-paying stock with a\nstrike price of $50 when the current stock price is $50, the risk-free interest rate is 10% per\nannum, and the volatility is 30% per annum? The table for N(x) is shown below:",
+        "image": "FinancialMarketsandProducts_images/37u.png",
+        "options": {
+            "A": "A.$2.37",
+            "B": "B.$2.48",
+            "C": "C.$2.25",
+            "D": "D.$2.63"
+        },
+        "answer": "A",
+        "explanation": "The content extracted from the image is as follows:\n\n本题考虑 BSM 模型的计算。已知 $S_0 = 50$, $K = 50$, $r = 0.1$, $\\sigma = 0.3$, $T = 0.25$ 计算 $d_1$ 和 $d_2$:\n\n$$\nd_1 = \\frac{\\ln(50/50) + \\left(0.1 + \\frac{0.3^2}{2}\\right) \\times 0.25}{0.3 \\times \\sqrt{0.25}} = 0.24\n$$\n\n$$\nd_2 = d_1 - 0.3 \\times \\sqrt{0.25} = 0.09\n$$\n\n根据 BSM 模型，看跃期权价值为：\n\n$$\nPut = Xe^{-rT}N(-d_2) - S_0N(-d_1)\n$$\n\n查表可得：\n\n$$\nN(-d_1) = 1 - N(d_1) = 1 - 0.5948 = 0.4052\n$$\n\n$$\nN(-d_2) = 1 - N(d_2) = 1 - 0.5359 = 0.4641\n$$\n\n代入公式可得：\n\n$$\nput = 50 \\times 0.4641 e^{-0.1 \\times 0.25} - 50 \\times 0.4052 = 2.37\n$$\n\n因此，选择项 A 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Black-Scholes Model, Option Pricing, Risk-Free Rate",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "In order to test the students’ understanding of the option Greeks other than delta and\ngamma, the professor added the following True or False questions in the quiz:Ⅰ. The rho of a\ncall option changes with the passage of time and tends to approach zero as expiration\napproaches, but this is not true for the rho of put options.Ⅱ. Theta is always negative for\nlong calls and long puts and positive for short calls and short puts.Ⅲ. Vega of a call and a\nput is different in sign.Which of the above is(are) correct?",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II and III",
+            "C": "C.I and II",
+            "D": "D.None"
+        },
+        "answer": "D",
+        "explanation": "本题考查希腊字母的定义和性质。对于Statement Ⅰ，call option和put option的rho都会随\n着时间接近到期日而趋近于0，因此该陈述错误。对于Statement II，Theta一般而言是负的，即随着流逝时\n间的增加（剩余时间减少），期权的价值会减小，但对于深度价内的欧式期权而言，流逝时间的增加（剩余\n时间减少）可能会导致期权价值的增加，因为持有者更希望期权马上到期而获得盈利，剩余时间反而是一种\n“累赘”。因此该陈述错误。对于Statement III，long call option和long put option的Vega均为正，负\n号相同。因此该该陈述错误。因此所有陈述均错误，选项D正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option Greeks, Option pricing, Time decay",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "An investor is looking to create an options portfolio on XYZ stock that will have virtually\nzero Vega exposure while maximizing the ability to profit from the increase in interest rates.\nIf the current price of XYZ is $50, which of the following would accomplish his goals?",
+        "image": "",
+        "options": {
+            "A": "A.Sell a call with a strike price of $50.",
+            "B": "B.Buy a call with a strike price of $25.",
+            "C": "C.Sell a put with a strike price of $50.",
+            "D": "D.Buy a put with a strike price of $25."
+        },
+        "answer": "B",
+        "explanation": "本题考查希腊字母的性质。深度实值和虚值的call和put option的Vega趋近于0，当前现货价格\n为50，期权的行权价应当距离50较远才能保证组合的Vega趋于0。当利率上涨时组合价值增加，意味着组合的\nRho大于0，而long call和short put的Rho大于0，short call和long put的Rho小于0。综合来看，应该买入\n深度实值或者虚值的call option，卖出深度实值或者虚值的put option。因此正确选项为B。对于选项\nA，short call option的Rho小于0，平值期权的Vega不为0。因此，该选项错误。对于选项C，平值期权的\nVega不为0。因此，该选项错误。对于选项D，long put option的Rho小于0。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "1. Option Greeks (Vega and Rho),  \n2. Options Strategies,  \n3. Interest Rate Sensitivity in Options",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "The major activity of an investment bank is raising capital for companies in the form of\ndebt, equity or more complicated securities. How many statements of financing arrangement is\n(are) correct?I. The bank buys the securities at the agreed upon price and then attempts to\nsell them for a lower price in a firm commitment arrangement.II. In the case of a public\noffering, the agreement can be on a best efforts or a firm commitment basis.III. A firm\ncommitment arrangement is riskier for an investment bank than a best efforts arrangement.",
+        "image": "",
+        "options": {
+            "A": "one",
+            "B": "two",
+            "C": "three",
+            "D": "none"
+        },
+        "answer": "B",
+        "explanation": "【莽学解析】本题考查投资银行证券发行的方式。对于statement I，包销协议下，投行以低价收购证券，以\n更高价发行，从而获得价差收入。因此该陈述错误。对于statement II，公开发行模式下，可分为包销和代\n销两种形式。私募发行模式下，投行接受协定的佣金收入。因此该陈述正确。对于statement III，包销形式\n比代销形式对于投行而言经营风险更大，因为有无法足额发行的潜在风险。因此该陈述正确。因此有2个陈述\n正确，选项B正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Investment Banking, Securities Underwriting, Risk Management",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "A trader, Jim, constructed a portfolio of stock A and option X on stock A, this portfolio’s \ndelta is now 56 and gamma is 230. The option Y has a gamma 13 and delta 0.3. What should Jim do \nto make the portfolio both delta and gamma neutral?",
+        "image": "",
+        "options": {
+            "A": "A.long 17.69 option Y, long 50.69 stock A.",
+            "B": "B.short 17.69 option Y, short 50.69 stock A.",
+            "C": "C.long 16.45 option Y, short 10.18 stock A.",
+            "D": "D.short 16.45 option Y, long 10.18 stock A."
+        },
+        "answer": "B",
+        "explanation": "本题考虑 delta 和 gamma 的对冲。  \n先利用 option Y 组合达到 gamma neutral:\n\n$$\n13 \\times N_{option} + 230 = 0\n$$\n\n解出:\n\n$$\nN_{option} = -17.69\n$$\n\n然后再利用 stock A 组合达到 delta neutral，其中原组合的 delta 值已经发生改变:\n\n$$\n56 - 17.69 \\times 0.3 + 1 \\times N_{stock} = 0\n$$\n\n解出:\n\n$$\nN_{stock} = -50.69\n$$\n\n因此，选项 B 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Delta Hedging, Gamma Hedging, Options Trading",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "For insurance company, the regulatory framework known as Solvency II was implemented in 2016\nand applies to all insurance companies. According to the Solvency II and the situation of\ninsurance regulation in the United States, which of the following statements is most likely\ncorrect?",
+        "image": "",
+        "options": {
+            "A": "A.An insurance company is required to formulate a plan to bring its capital back when its\ncapital falls below the minimum capital requirement (MCR).",
+            "B": "B.An insurance company should transfer its existing policies to another insurance company when\nits capital falls below the solvency capital requirement (SCR).",
+            "C": "C.In the USA, insurance is regulated at the state level rather than at the federal level.",
+            "D": "D.Capital requirements for P&C insurance company tends to be lower than those for Life"
+        },
+        "answer": "C",
+        "explanation": "本题考查保险公司的监管和资本金要求。美国的保险业监管是州一级管理的，所以一些大型的\n保险公司最多可能会同时面临50多种不同的监管框架，这也是美国保险业的重要风险之一。因此正确选项为\nC。对于选项A，MCR是保险公司的最低资本金要求红线，一旦资本金跌破红线，就会面临破产清算，现有业务\n有被全部接管的风险。因此，该选项错误。对于选项B，SCR是对保险公司持续经营的资本金要求，短期内如\n果触及，会被勒令快速补足资本金，并且停业整顿。因此，该选项错误。对于选项D，般而言财险公司的资本\n金监管要求会比寿险公司要高，因为监管认为短期集中爆发财产人员损伤的情况会比寿险公司经营的长寿/早\n夭风险要更严峻，所以财险公司需要准备更多的资本金。因此，该选项错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Solvency II, Insurance Regulation, Capital Requirements",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Tom is the manager of the derivatives department of GS investment company. He is holding an\ninterview and needs the interviewer to describe some characteristics of derivatives. Jerry and\nMike make the following descriptions as candidates. Jerry states that derivatives are only used\nby companies to manage risks from the unexpected changes of interest rate, foreign exchange,\nand commodity price, etc. Mike holds that derivatives are sometimes added to corporate bond\nissuances. Which of the statement（　） above is/are most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Only Jerry",
+            "B": "B.Only Mike",
+            "C": "C.Both Jerry and Mike",
+            "D": "D.Neither of them"
+        },
+        "answer": "B",
+        "explanation": "本题考查衍生品的基础概念。对于Jerry的描述，公司不仅可以利用衍生品去管理利率、外汇和\n商品价格等意外变化带来的风险，还可用衍生品来进行投机和套利。因此该描述错误。对于Mike的描述，衍\n生品有时会被添加到公司债券中，作为内嵌期权伴随债券一起发行。因此该描述正确。因此只有Mike的陈述\n正确，选项B正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivatives fundamentals, Risk management, Embedded options",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "Jack, as the derivatives investment manager of GS investment company, is introducing the\nrelevant characteristics of futures contracts to customers.Statement 1:When one member is\ntaking a new longposition and another member becomes a short position in the contract, the open\ninterest increases by two.Statement 2: As the delivery period approaches, the futures price\nconverges to the spot price, and the market in which the futures price increases as the time to\nmaturity increases is called the inverted market.Which of the statement（　） above is/are\nmostlikely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Onlystatement 1",
+            "B": "B.Onlystatement 2",
+            "C": "C.Bothstatements 1 and 2",
+            "D": "D.Neither of them"
+        },
+        "answer": "D",
+        "explanation": "本题考查期货合约的特征。对于Statement1，多空双方共同新签一份期货合约时，未平仓量仅",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Open Interest in Futures, Futures and Spot Price Convergence, Normal and Inverted Markets",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Tom is currently in a long position in a futures contract. The current futures contract\nprice is $35. He expects asset prices to rise rapidly in the future and reach the resistance\nlevel of $45 and then may fall. Which order could automatically help Tom get the most profit?",
+        "image": "",
+        "options": {
+            "A": "A.Sell market order",
+            "B": "B.Sell market-if-touched order at $45",
+            "C": "C.Stop-loss sell order at $35",
+            "D": "D.Stop-and-limit sell order which stop price is $35 and limit price is $30"
+        },
+        "answer": "B",
+        "explanation": "本题考查期货的报价指令。触价指令指资产达到规定价格或更有利的价格即成为市价订单，用\n于限制盈利。当股价触及45美元时候生效成为市价指令，开始执行卖出指令，从而在预期下获得最大收益。\n因此正确选项为B。对于选项A，市场指令是指要求以最优的市场价格尽快买入或卖出，当设置卖出市价指令\n时，会以市价价格快速卖出，无法获取预期的收益。因此，该选项错误。对于选项C，止损指令指资产达到规\n定价格或更不利的价格即成为市价订单，用于限制亏损。当前股价为35美元，卖出止损订单价格设置在35美\n元时，一旦股价上涨超过35美元该订单将无法执行卖出指令，因此，该选项错误。对于选项D，止损限价指令\n指资产达到规定价格或更不利的价格即成为限价订单，用于锁定交易价格区间。当止损价设置为35美元，限\n价设置为30美元，意味着当市场价格低于35美元时开始卖出，但卖出价需要高于30美元。\n增加一份。因此该称述错误。对于Statement2，随着交割期的临近，期货价格收敛于现货价格，期货价格随\n着到期时间的增加而增加的市场称为正向市场 (normal market)。因此该陈述错误。因此Statement 1和\nStatement 2均陈述错误，选项D正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Futures contracts, Order types, Market orders",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Suppose that a hedger plans to sell 100,000 bushels of corn in June and uses the July\nfutures contract for hedging. Each contract is on 5,000 bushels of corn and therefore a total\nof twenty contracts are shorted. Suppose that the futures price at the time the hedge is\ninitiated is 200 cents per bushel and that the futures price is 220 cents per bushel when the\nhedge is closed out in June. The spot price for the corn being sold in June is 225 cents per\nbushel. What is the USD price received for the corn when the loss from hedging is considered?",
+        "image": "",
+        "options": {
+            "A": "A.225,000 USD",
+            "B": "B.245,000 USD",
+            "C": "C.200,000 USD",
+            "D": "D.205,000 USD"
+        },
+        "answer": "D",
+        "explanation": "本题考虑空头对冲者净收益的计算。\n\n公司在现货市场上出售玉米的收益为：\n\n$$\n225 \\div 100 \\times 100,000 = 225,000 \\text{ USD}\n$$\n\n公司进入期货合约的空头，到期时期货合约的价格上涨，在期货市场的损失为：\n\n$$\n(220 - 200) \\div 100 \\times 20 \\times 5,000 = 20,000 \\text{ USD}\n$$\n\n将现货市场和期货市场结合在一起，出售玉米的最终收益为：\n\n$$\n225,000 - 20,000 = 205,000 \\text{ USD}\n$$\n\n因此正确选项为 D。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hedging strategies, Commodity futures, Basis risk",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "A portfolio is worth USD 200 million that has a beta relative to the S&P 500 index of 0.75.\nThe S&P 500 index is currently trading at 5,000. The 3-month S&P 500 futures with a contract\nsize of 250USD × futures price is trading at 4,500. Using the 3-month S&P 500 futures\ncontract, which of the following transactions would increase the portfolio's beta to 0.9?",
+        "image": "",
+        "options": {
+            "A": "A.Long 27 futures contracts.",
+            "B": "B.Short 27 futures contracts.",
+            "C": "C.Long 24 futures contracts.",
+            "D": "D.Short 24 futures contracts."
+        },
+        "answer": "A",
+        "explanation": "本题考虑利用期货合约调整组合贝塔值。  \n依照题意，将组合的贝塔值由 0.75 增加至 0.9，需要买入期货合约，买入数量为：  \n$$\nN^* = (\\beta^* - \\beta) \\frac{V_A}{V_F}\n$$\n\n代入数值得到：  \n$$\n(0.9 - 0.75) \\times \\frac{200,000,000}{250 \\times 4,500} \\approx 27\n$$\n\n因此正确选择项为 A。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio Beta, Futures Contracts, Portfolio Management",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "Six months ago a company entered in a one-year forward contract to buy the stock. At the\ntime, the one-year forward price was USD 88. The stock price is now USD 95 and the stock will\npay a dividend of USD 3 at the end of forward contract. The continuously compounded risk free\nrate is 4% per year for all maturities, and there are no storage costs. Which of the following\nis closest to the value of the forward contract?",
+        "image": "",
+        "options": {
+            "A": "A.-$5.80",
+            "B": "B.$5.80",
+            "C": "C.-$8.74",
+            "D": "D.$8.74"
+        },
+        "answer": "B",
+        "explanation": "本题考虑标准的资产期限有收益的远期合约估值。\n\n6个月前签订了期限为1年的远期合约，剩余期限为6个月，签订时远期合约的价格为$F_0(T) = 88$，当前市场上的现货价格$S_t = 95$，标的资产在远期合约到期时支付股利3 USD。远期合约的估值公式为:\n\n$$\nV_{forward} = S_t - PVD_t - F_0(T) \\cdot e^{-r(T-t)}\n$$\n\n股利的现值为:\n\n$$\nPVD_t = 3 \\times e^{-4\\% \\times 0.5} = 2.94\n$$\n\n已知的条件为:\n\n$$\nS_t = 95, \\quad F_0(T) = 88, \\quad T = \\frac{6}{12} = 0.5, \\quad PVD_t = 2.94, \\quad r = 4\\%\n$$\n\n将其代入可得:\n\n$$\nV_t = 95 - 2.94 - 88 \\cdot e^{-4\\% \\times 0.5} = 5.80\n$$\n\n因此，选择项B正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward Contracts, Stock Valuation, Risk-Free Rate",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "Jack and Rose are traders in the derivatives Department of GS investment company. They are\ndiscussing the difference between forward and futures. Which of the following statements is\nleast likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.As the forward contract is an OTC derivative, the trading process is more flexible, so there\nare a series of delivery dates.",
+            "B": "B.The short position of futures contracts has the right to choose the delivery time.",
+            "C": "C.If the income yield is greater than the interest rate, the short position of futures\ncontracts will deliver later.",
+            "D": "D.If the futures price is positively correlated with the interest rate, the futures price is"
+        },
+        "answer": "A",
+        "explanation": "本题考查远期合约与期货合约的异同。由于远期合约是场外衍生品，所签订的合约往往是定制\n化的，合约存续期间很难转卖或提前结束，所以一般都是到期末进行交割的，不存在一系列的交割日。因此\nA选项描述错误，符合题意，为正确选项。对于B选项，期货合约的空头方有权选择期货的交割时间。因此\n，该选项描述正确，不符合题意，为错误选项。对于C选项，如果现货收益率大于无风险利率，期货合约的空\n头方会更晚选择交割，多持有现货一段时间。因此，该选项描述正确，不符合题意，为错误选项。对于D选项\n，如果期货价格与利率正相关，期货价格上涨时，利率也上涨，期货合约的多头方可以将获取的收益用于投\n资从而赚取投资收益，而远期合约的多头方无法获取期间盈利的投资收益，则期货价格大于远期价格。因此\n，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Futures Contracts, Over-the-Counter (OTC) Derivatives",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "Based on the covered interest rate parity, if the risk-free rate for currency XXX is higher\nthan that for currency YYY, XXX is weaker in the forward market than in the spot market. A\ncurrency trader noticesthat the interest rates in currencies USD and EUR are 3% and 5% per\nannum (respectively) and the spot exchangerate is EURUSD 1.2500. Based on the covered interest\nrate parity, how many percent will the euro appreciate or depreciate in one year?",
+        "image": "",
+        "options": {
+            "A": "A.appreciate 2%",
+            "B": "B.appreciate 5%",
+            "C": "C.depreciate 5%",
+            "D": "D.depreciate 2%"
+        },
+        "answer": "D",
+        "explanation": "本题考虑基于套利利率理论计算货币的升贬值幅度。\n\n基于套利利率理论，高利率货币将贬值，低利率货币将升值，而贬值幅度近似等于两种货币利率之差，所以以货币未来将贬值2%。也可以通过计算远期汇率得到升贬值幅度。一年期 EURUSD 远期汇率的理论价格为：\n\n$$\nF = S \\times \\frac{(1 + R_{USD})^1}{(1 + R_{EUR})^1} = 1.2500 \\times \\frac{(1 + 3\\%)}{(1 + 5\\%)} = 1.2262\n$$\n\n一年后欧元的贬值幅度例为：\n\n$$\n\\frac{1.2262 - 1.2500}{1.2500} = -1.9\\%\n$$\n\n与货币的利差 2%接近，因此正确选项为 D。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Covered interest rate parity, Spot and forward exchange rates, Interest rate differential",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "Jack is the major shareholder of XYZ company, but he expects that the company's shares will\nfall in the future. On the premise of not selling shares, what strategy should he synthesize to\navoid risks?",
+        "image": "",
+        "options": {
+            "A": "A.Buyputoptions; Protective put strategy",
+            "B": "B.Sellcalloptions;Covered call strategy",
+            "C": "C.Buy risk free bonds; Principal protected notes",
+            "D": "D.Buy call options; Fiduciary call strategy"
+        },
+        "answer": "A",
+        "explanation": "本题考查单一期权策略。股票的多头头寸结合看跌期权的多头头寸可构成Protective put\nstrategy，使得股票持有者在不卖出股票的情况下，保护其在股价下跌时不遭受损失。因此正确选项为A。对\n于选项B，股票的多头头寸结合看涨期权的空头头寸可构成Covered call strategy，当股价下跌时投资者会\n遭受损失。因此，该选项错误。对于选项C，股票的多头头寸结合无风险债券的多头头寸构成的组合，当股价\n下跌时投资者会遭受损失。Principal protected notes是指单一期权的头寸和无风险债券的多头头寸构成的\n组合，可以提供本金保护。因此，该选项错误。对于选项D，股票的多头头寸结合看涨期权的多头头寸构成的\n组合，当股价下跌时投资者会遭受损失。Fiduciary call strategy是指看涨期权的多头头寸和无风险债券的\n多头头寸构成的组合。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options strategies, Protective put strategy, Covered call strategy   ",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "Jack is a junior analyst in GS Investment Fund. His team is discussing the six factors that\naffect the price of options. Jack states that the value of call option rises, when the\nunderlying asset price increases. Rose states that the value of put option decreases, when the\npresent value of the dividend of the underlying stock increases. Which of the statement（　）\nabove is/are most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Only Jack",
+            "B": "B.Only Rose",
+            "C": "C.Both Jack and Rose",
+            "D": "D.Neither of them"
+        },
+        "answer": "A",
+        "explanation": "本题考虑影响期权价格变动的六要素。  \n对于 Jack 的描述，当股票价格上升时，根据看涨期权的收益公式：$max(S-X, 0)$，对应的看涨期权的内在价值随之上升，因此该描述正确。  \n对于 Rose 的描述，当股票的现货价格上升，根据看跌期权的损益公式：  \n$$\nmax(X - (S - PVD), 0) \n$$  \n对应的看跌期权的内在价值随之上升，因此该描述错误。  \n因此有 Jack 的描述正确，选项 A 确定。  ",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Options pricing, Effects of underlying asset price on options, Effects of dividends on options",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "56",
+        "question_text": "Suppose the current stock price is USD 18. The price of a European call option with strike\nprice USD 20 that will mature in three months is USD 3. The price of a European put with the\nsame strike price and time to maturity is USD 4, while the three-month risk free rate is 2% per\nyear (annually compounded). Assume the stock on which the options are written provides no\ndividends. What kind of actions should an arbitrageur take to capture an arbitrage opportunity?",
+        "image": "",
+        "options": {
+            "A": "A.Long the call, short the risk-free bond, long the put, and short the stock.",
+            "B": "B.Short the call, long the risk-free bond, short the put, and long the stock.",
+            "C": "C.Short the call, short the risk-free bond, long the put, and long the stock.",
+            "D": "D.Long the call, long the risk-free bond, short the put, and short the stock."
+        },
+        "answer": "C",
+        "explanation": "本题考虑期权买卖权关系。\n无股利情况下的期权买卖权平价公式为：\n\n$$\nc + \\frac{x}{(1 + r_f)^t} = p + s\n$$\n\n看涨期权的价格为 3 USD，看跌期权的价格为 4 USD，执行价格为 20，当前资产的价值为 18 USD，无风险利率为 2\\%, 将数值代入：\n\n$$\nc + \\frac{x}{(1 + r_f)^t} = 3 + \\frac{20}{(1 + 2\\%)^{0.25}} = 22.9 \\text{ USD}\n$$\n\n$$\np + s = 3 + 18 = 21 \\text{ USD}\n$$\n\n所以，$$c + \\frac{x}{(1 + r_f)^t} = p + s$$，存在套利机会。卖出看涨期权和无风险债券，买入看跌期权。\n\n期权和一般股票，实行套利。因此正确选项为C。\n对于选项A，卖出看涨期权和无风险债券的交易方向相同，买入看跌期权和债券的交易方向相同，因此，该选项错误。\n对于选项B，看涨期权和无风险债券的交易方向相同，买入看涨期权和一般股票的交易方向相反，无风险交易。因此，该选项错误。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Arbitrage opportunities, Put-call parity, Option pricing",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "Jack bought a call option expiring on December 2021 on XYZ stock with an exercise price of\n$10 for a$2 premium, and the other is a put option on December 2021 on XYZ stock with an\nexercise price of $8 and for a$1 premium. Please identify this option strategy and calculate\nbreakeven point（　）.",
+        "image": "",
+        "options": {
+            "A": "A.Long strangle, breakeven points are $13 and $5",
+            "B": "B.Short calendar spread, breakeven points is $13",
+            "C": "C.Short straddle, breakeven points are $13 and $5",
+            "D": "D.Long bull spread, breakeven points is $13"
+        },
+        "answer": "A",
+        "explanation": "本题考虑期权交易策略。\n\n宽方式的多头结构方式为，买入一份行权价格高的看涨期权，买入一份行权价格低的看跌期权，两份期权的到期日相同，底层标的资产相同。看涨期权的期权费为 $C_0 = 2$，看跌期权的期权费 $P_0 = 1$，盈亏平衡点：\n\n$$\nBEP_1 = X_{call} + (C_0 + P_0) = 10 + (2 + 1) = 13\n$$\n\n$$\nBEP_2 = X_{put} - (C_0 + P_0) = 8 - (2 + 1) = 5\n$$\n\n因此正确选项为 A。\n\n对于 B 选项，日历价差策略的定义方式为，卖出一份到期日较长的期权，同时对到期日较短的期权，两个期权的行权价格相同，对应底层资产的价格。因此，选择错误。\n\n对于 C 选项，间隔价差策略的定义方式为，买入一份看涨期权，卖出一份行权价格较高的看涨期权，两个期权的到期日相同，底层标的资产相同。因此，该选项错误。\n\n对于 D 选项，距离价差策略的多头头寸，随着标的资产价格的持续升高，该策略的收益和风险空间均有限。因此，该选项错误。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Options strategies, Breakeven point calculation, Call and put options",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Barrier options have payoffs that depend on whether the asset price reaches a particular\nbarrier. Options that cease to exist when a barrier is reached are sometimes referred to as\nknockout options, whereas options that come into existence when a barrier is reached are\nreferred to as knock-in options. Which of the following statements about barrier options is\nmost incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Barrier options can be attractive to market participants because they are less expensive than\nregular options.",
+            "B": "B.As with binary options and gap options, the payoff of barrier options is discontinuous.",
+            "C": "C.Like regular options, barrier options prices increase as volatility increases.",
+            "D": "D.A down-and-out call with a strike price of USD 32 and a barrier at USD 27 will provide the"
+        },
+        "answer": "C",
+        "explanation": "本题考查障碍期权的性质。障碍期权的价值并不一定随着标的资产的波动率增加而增加，当敲\n出期权接近障碍价格时，波动率的增加可能会降低期权的价值，因为增加了触及障碍价格导致期权失效的可\n能性。因此C选项描述错误，符合题意，为正确选项。对于选项A，障碍期权相较于普通期权而言有更多的限\n制，对投资者不利，所以价格会比普通期权更加便宜。因此，该选项描述正确，不符合题意，为错误选项。\n对于选项B，障碍期权的损益以障碍价格为分界点会呈现出不连续的情况，两值期权的损益以行权价为分界点\n会呈现跳跃性，并不是连续的，缺口期权的执行价和触发价不一致时，损益也会呈现跳跃性。因此，该选项\n描述正确，不符合题意，为错误选项。对于选项D，向下敲出的障碍看涨期权的执行价为32，障碍价格为\n27，当标的资产的价格高于27时并不会导致期权失效，此期权和普通的看涨期权无异。因此，该选项描述正\n确，不符合题意，为错误选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Barrier Options, Volatility Risks, Option Pricing",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "Considering ALIBABA corporation which the stock price of no-dividend paying is currently\ntrading at USD 30, and its annual price volatility is 30%. The continuously compounding risk-\ntree interest rate is 5%per year. A financial risk manager is considering a two-step binomial\ntree for a 2-year horizon. What is the price of the American put option with the strike price\nof USD 33?",
+        "image": "",
+        "options": {
+            "A": "A.5.7042",
+            "B": "B.$4.9537",
+            "C": "C.$2.5706",
+            "D": "D.$4.6698"
+        },
+        "answer": "A",
+        "explanation": "本题考查美式期权两步二叉树的计算。根据题意，美式看涨期权可能会提前行权，因此要求和同一节点处的payoff进行比较。计算步骤如下：\n\nstep1, 计算参数如下：\n\n$$\nu = e^{0.3499}\n$$\n\n$$\nd = e^{-0.7408}\n$$\n\nstep2, 计算最后一期各节点的payoff:\n\n$$\nP_{uu} = \\max(0, S_0 \\times u - X) = \\max(0, 33 - 30 \\times 1.3499) = 0\n$$\n\n$$\nP_{ud} = \\max(0, S_0 \\times u \\times d - X) = \\max(0, 33 - 30 \\times 1.3499 \\times 1.3499) = 3\n$$\n\n$$\nP_{dd} = \\max(0, S_0 \\times d \\times d) = \\max(0, 33 - 30 \\times d) = 16.5365\n$$\n\nstep3, 计算风险中性上升和下降概率:\n\n$$\n\\pi_u = \\frac{e^{rt} - d}{u - d} = 0.5097\n$$\n\n$$\n\\pi_d = 1 - \\pi_u = 0.4903\n$$\n\n要求期权的价值，沿着随机路径，比较各个节点处的payoff计算:\n\n$$\nP_d = (P_{uu} \\times \\pi_u + P_{ud} \\times \\pi_d) \\times e^{-rt} = (0 \\times 0.5097 + 3 \\times 0.4903) \\times e^{-5\\%} = 1.3992\n$$\n\n此节点即期权的价值为1.3992，因此此节点不会提前行权; \n\n$$\nP_d = (P_{ud} \\times \\pi_u + P_{dd} \\times \\pi_d) \\times e^{-rt} = (3 \\times 0.5097 + 16.5365 \\times 0.4903) \\times e^{-5\\%} = 9.1669\n$$\n\n此节点即期权的价值为$X = 30$，所以此节点会提前行权。即$P_d = 10.7760$ \n\n$$\nP_0 = (P_{uu} \\times \\pi_u + P_{ud} \\times \\pi_d) \\times e^{-rt} = (0 \\times 0.5097 + 3 \\times 0.4903) \\times e^{-5\\%} = 5.7042\n$$\n\n此节点即期权的价值为$X = 30$，所以此节点不会提前行权，即$P_0 = 5.7042$。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Binomial Tree Pricing Model, American Options, Option Pricing",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "A no-arbitrage argument is a useful method for valuing American and European options. Which\nthe following statement about the no-arbitrage argument is least likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.It is not suitable for put-call parity.",
+            "B": "B.Option can be used for hedging risky assets.",
+            "C": "C.The probability of upward movement was not required to be known.",
+            "D": "D.The risk-neutral valuation model can be derived from the no-arbitrage argument."
+        },
+        "answer": "A",
+        "explanation": "本题考查衍生品的无套利定价理论。无套利理论也适用于put-call parity，看涨期权和无风险\n资产构成的组合与看跌期权和标的资产构成的组合价值相等，否则将存在套利机会。选项A描述错误，符合题\n意，为正确选项。对于选项B，期权可以用来对冲风险资产，通过将风险资产与期权组合，行成一个无风险的\n投资组合，从而实现期权的定价。因此，该选项描述正确，不符合题意，为错误选项。对于选项C，无套利模\n型中不需要标的资产的上涨和下跌概率，风险中性的定价模型需要计算标的资产的上涨和下跌概率。因此\n，该选项描述正确，不符合题意，为错误选项。对于选项D，风险中性定价模型可以由无套利理论推导出来\n，两种模型给出的结果是相同的。因此，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "No-arbitrage theory, Put-call parity, Hedging strategies",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "A hedge fund has USD 100 million of investors’ funds and its fees are 2 plus 20%. The fund\nmanager chooses a highly risky strategy that has a 50% chance of producing a profit of USD 30\nmillion and a 50% chance of a loss of USD 12 million. The hurdle rate is 4% and the management\nfees are based on the beginning of the asset. What is the net expected return to the investor?",
+        "image": "",
+        "options": {
+            "A": "A.$9.0 million",
+            "B": "B.$4.4 million",
+            "C": "C.$4.6 million",
+            "D": "D.$4.2 million"
+        },
+        "answer": "C",
+        "explanation": "本题考虑对冲基金的费率计算。\n对冲基金的总收入为：\n\n$$\n50\\% \\times 30 + 50\\% \\times (12) = \\$9 \\text{ million}\n$$\n\n在计算对冲基金的总费率时，需要分析情况，并考虑最低收益要求，盈损情况下的费率为：\n\n$$\n100 \\times 2\\% + (30 - 100 \\times 2\\% - 100 \\times 4\\%) \\times 20\\% = \\$6.8 \\text{ million}\n$$\n\n$$\n100 \\times 2\\% = \\$2 \\text{ million}\n$$\n\n对冲基金的预计总费用为：\n\n$$\n6.8 \\times 50\\% + 2 \\times 50\\% = \\$4.4 \\text{ million}\n$$\n\n投资者获得的收益为对冲基金的总收入减去费用：\n\n$$\n9 - 4.4 = \\$4.6 \\text{ million}\n$$\n\n因此，正确选项为 C。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Hedge Fund Fee Structure, Risk and Return Analysis, Performance Calculation",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "The information of hedge funds are less transparent than mutual funds and often employ a\nvariety of trading strategies to achieve higher returns. The common trading strategies are\ndedicated short, merger arbitrage, emerging markets, global macro, etc. Which of the following\nstatements about this trading strategies is most incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.A dedicated short fund devotes its attention to picking overvalued stocks and it doesn\\u2019t\nhedge against the overall performance of the market.",
+            "B": "B.Merger arbitrage strategies are based on the experience that the share price of the target\ncompany usually increases, but not to the price being offered.",
+            "C": "C.Hedge funds that specialize in emerging markets could use American Depositary Receipts\n(ADRs), which are certificates backed by shares of a foreign company and traded on an exchange\nin the United States.",
+            "D": "D.Almost all global macro trades are successful because economies will not remain in"
+        },
+        "answer": "D",
+        "explanation": "本题考查对冲基金的交易策略。采用全球宏观策略的对冲基金经理进行的交易反映了全球经济\n的走向，他们试图寻求市场因某种原因脱离其平衡点的情形，并且对经济状态会返回平衡状态下赌注。这种\n策略重要问题是，基金经理并不知道经济平衡会在何时恢复，由于某种原因，全球经济市场可能长时间持续\n不平衡状态。因此D选项描述错误，符合题意，为正确选项。对于选项A，专门的空头基金专注于挑选被高估\n的股票进行做空，并不会对冲市场的整体表现。因此，该选项描述正确，不符合题意，为错误选项。对于选\n项B，并购套利交易往往在兼并和收购消息公布后进行，同时寄希望于并购交易达成。从经验上看目标公司的\n股价通常会上涨，但不会涨至并购方提供的价格。因此，该选项描述正确，不符合题意，为错误选项。对于\n选项C，新兴市场基金专注于发展中国家的投资，可以使用美国存托凭证，它是美国金融机构为协助外国证券\n在美国交易而发行的一种可转让证书。美国存托凭证的价格与外国公司股票价格之间的任何差异都可能导致\n套利机会。因此，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Equity Strategies, Arbitrage Strategies, Emerging Markets Strategies",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "X, Y, and Z have entered into many derivative transactions. When transactions between X and\nY are netted, the net value to X is 60. When transactions between Y and Z are netted, the net\nvalue to Y is 70. When transactions between Z and X are netted, the net value to Z is 80.\nSuppose that all transactions are cleared through a CCP rather than bilaterally. What is the\nnet position of X?",
+        "image": "",
+        "options": {
+            "A": "A.20",
+            "B": "B.-20",
+            "C": "C.10",
+            "D": "D.-10"
+        },
+        "answer": "B",
+        "explanation": "本题考查中央清算下交易会员的敞口计算。X和Y双边净额结算后的净头寸为X收入60，Y和Z双边\n净额结算后的净头寸为Y收入70，Z和X双边净额结算后的净头寸为Z收入80。当三方采用中央清算后，X收入\n60和支出80，最终为净支出20。因此正确选项为B。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Central Counterparty Clearing (CCP), Netting in Derivative Transactions, Bilateral Vs Multilateral Clearing",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "The new derivatives regulations do nothing more than replace too-big-to-fail banks with too-\nbig-to-fail CCPs. It certainly would be a disaster for the financial system if a major CCP were\nto fail. Which of the following statements about the risk faced by CCP is most incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.One significant problem with CCPs is that there is a positive correlation among member\ndefaults.",
+            "B": "B.CCPs treat all members in the same manner when calculating initial margin and default fund\ncontributions.",
+            "C": "C.The auction processes for closing out defaulting members would always success in any\nturbulent markets.",
+            "D": "D.CCPs are faced with a trade-off between the return it gets by investing initial margin and"
+        },
+        "answer": "C",
+        "explanation": "本题考查CCP面临的风险。拍卖违约会员的合约失败是CCP面临的风险之一，尤其是在动荡的市\n场环境下，拍卖会更加困难，并不能保证一定会拍卖成功。因此C选项描述错误，符合题意，为正确选项。对\n于选项A，违约会员之间的相关性较强会引起大量的违约，对于CCP会造成较大的负面影响，是CCP面临的风险\n之一。因此，该选项描述正确，不符合题意，为错误选项。对于选项B，CCP针对所有的会员按照相同的标准\n收取初始保证金和违约基金，无法反映会员真实的风险情况，是CCP面临的风险之一。因此，该选项描述正确\n，不符合题意，为错误选项。对于选项D，CCP可以将会员缴纳的初始保证金用于投资赚取收益，但需要在获\n取投资收益和满足日常资金需求之间做权衡，即CCP会面临流动性风险。因此，该选项描述正确，不符合题意\n，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives Regulation, Central Counterparty Clearing (CCP), Financial System Risk",
+        "book label": "Financial Markets and Products2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    }
+]

@@ -1,0 +1,2603 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "The present value (PV) of an investment with the following year-end cash flows (CF) and a 12%\nrequired annual rate of return is closest to:\nCF1=100,000 euro dollar for year 1; CF2=150,000 euro dollar for year 2; CF3=CF4=0 euro dollar\nfor year 3&4; CF5=-10,000 euro dollar for year 5.",
+        "image": "",
+        "options": {
+            "A": "A.€201,747.",
+            "B": "B.€203,191.",
+            "C": "C.€227,573."
+        },
+        "answer": "B",
+        "explanation": "B is correct, as shown in the following table.\n \nB正确。BAII Plus计算器，CF页面下，2ND CE/C清楚历史记录，依次按\n：CFo=0C01=100,000F01=1C02=150,000F02=1C03=0F03=2（表示第三笔现金流为0，分别发生在第三年和第四\n年末，一共两笔）C04=-10,000F04=1 NPV页面下：I=12CPT NPV=203,190.52 \n ```\n\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Year} & \\text{Cash Flow (\u20ac)} & \\text{Formula} & \\text{PV at Year 0} \\\\\n\\hline\n1 & 100,000 & 100,000(1.12)^{-1} = & 89,285.71 \\\\\n2 & 150,000 & 150,000(1.12)^{-2} = & 119,579.08 \\\\\n5 & -10,000 & -10,000(1.12)^{-5} = & -5,674.27 \\\\\n\\hline\n &  &  & 203,190.52 \\\\\n\\hline\n\\end{array}\n```",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Present Value (PV) calculation, Discounted Cash Flow (DCF) analysis, Time Value of Money (TVM)",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 2,
+        "question_text": "Consider the following 20 items listed in ascending order:\nThe median value of the items is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.4.",
+            "B": "B.5.",
+            "C": "C.3."
+        },
+        "answer": "A",
+        "explanation": "The median is the value of the middle item of a set of items that has been sorted\ninto ascending or descending order. In an even-numbered sample, we define the median as the\nmean of the values of items occupying the n/2 and (n +2)/2 positions (the two middle items).\nThe n/2 item is the 10th item and the (n +2)/2 item is the 11th item. The value of the 10th\nitem is 3; the value of the 11th item is 5. The mean of 3 and 5 is 4. 中位数是按升序或降序排序\n的一组项的中间项的值。在偶数样本中，我们将中位数定义为占据n/2和（n＋2）/2位置（中间两个项目）的\n项目值的平均值。在题干中，n/2项是第10项，（n＋2）/2项是第11项。 因为第10项的值是3；第11项的值是\n5。 3和5的平均数是(3＋5）/2=4。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Descriptive Statistics, Measures of Central Tendency, Data Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 3,
+        "question_text": "When we calculate the kurtosis, what is the power of the kurtosis?",
+        "image": "",
+        "options": {
+            "A": "A.2.",
+            "B": "B.3.",
+            "C": "C.4."
+        },
+        "answer": "C",
+        "explanation": "Sample kurtosis is measured using deviations raised to the fourth power.样本峰度是\n用提高到四次方的偏差来测量的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Statistical moments, Descriptive statistics, Distribution properties",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 4,
+        "question_text": "The covariance of returns is positive when the returns on two assets tend to:",
+        "image": "",
+        "options": {
+            "A": "A.have the same expected values.",
+            "B": "B.be above their expected value at different times.",
+            "C": "C.be on the same side of their expected value at the same time."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The covariance of returns is positive when the returns on both\nassets tend to be on the same side (above or below) their expected values at the same time,\nindicating an average positive relationship between returns. ： C正确。 当两种资产的收益同时趋\n于同一方向(高于或低于)期望值时，收益的协方差为正，说明收益之间的平均正相关关系。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Covariance, Correlation, Portfolio Theory",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 5,
+        "question_text": "The mean monthly return and the standard deviation for three industry sectors are shown in\nthe following exhibit.\nBased on the coefficient of variation, the riskiest sector is:",
+        "image": "",
+        "options": {
+            "A": "A.utilities.",
+            "B": "B.materials.",
+            "C": "C.industrials."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The coefficient of variation (CV) is the ratio of the standard\ndeviation to the mean, where a higher CV implies greater risk per unit of return.\n B正确。 变异系数(CV)是标准差与均值的比值，变异系数越大，单位收益的风险越大。\nCV(UTIL)=s/X=1.23%/2.10%=0.59. CV(MATR)=s/X=1.35%/1.25%=1.08. CV(INDU)=s/X=1.52%/3.01%=0.51. \n $$\nCV_{UTIL} = \\frac{s}{\\overline{X}} = \\frac{1.23\\%}{2.10\\%} = 0.59\n$$\n\n$$\nCV_{MATR} = \\frac{s}{\\overline{X}} = \\frac{1.35\\%}{1.25\\%} = 1.08\n$$\n\n$$\nCV_{INDU} = \\frac{s}{\\overline{X}} = \\frac{1.52\\%}{3.01\\%} = 0.51\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Coefficient of Variation, Mean and Standard Deviation, Risk Measurement",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 6,
+        "question_text": "At the beginning of Year X, an investor allocated his retirement savings in the asset classes\nshown in the following exhibit and earned a return for Year X as also shown.\nThe portfolio return for Year X is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.5.1%.",
+            "B": "B.5.3%.",
+            "C": "C.6.3%."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The portfolio return must be calculated as the weighted mean\nreturn, where the weights are the allocations in each asset class: (0.20 × 8%) ＋ (0.40 ×\n12%) ＋【0.25×(-3%)】＋ (0.15 × 4%) = 6.25%, or ≈ 6.3%. 去年，一位投资者将他的退休储蓄分配到\n如下表所示的资产类别中。问2015年的投资组合收益率最接近多少。 C正确。 投资组合的回报须以加权平均\n回报计算，其中的权重是每种资产类别的配置: (0.20×8%)＋(0.40×12%)＋【0.25×(-3%)】＋(0.15×4%)=\n6.25%或≈6.3%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio Return Calculation, Weighted Mean Return, Asset Allocation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 7,
+        "question_text": "An analyst is using the data in the following exhibit to prepare a statistical report.\nThe cumulative relative frequency for the bin -1.71% ≤ x ＜ 2.03% is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.250.",
+            "B": "B.0.333.",
+            "C": "C.0.583."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The cumulative relative frequency of a bin identifies the fraction of\nobservations that are less than the upper limit of the given bin. It is determined by summing\nthe relative frequencies from the lowest bin up to and including the given bin. The following\nexhibit shows the relative frequencies for all the bins of the data from the previous exhibit:\nThe bin -1.71% ≤ x ＜ 2.03% has a cumulative relative frequency of 0.583.\n. 根据题目中表格信息，题目问：区间-1.71% ≤ x ＜ 2.03%对应的累积相对频率是多少？一个区间的累积\n相对频率，应该包含“小于给定区间上限”的观测值的部分。它是由最低区间到并包括给定区间的相对频率\n之和决定的。表中显示了题目表中所有数据区间的相对频率。区间-1.71% ≤ x ＜ 2.03%对应的累积相对频\n率为0.583。 补充： 数据中的最大值和最下值可以找到，差值为9.47-（-9.19）=18.66 题目问的一个区间\n是-1.71至2.03，差值为3.74 于是18.66可以分成？个3.74的区间呢？18.66/3.74=5个 第一个upper limit是\n-5.45=-9.19＋3.74 \n \\begin{tabular}{ccccc}\n\\hline\n\\text{Lower Limit (\\%)} & \\text{Upper Limit (\\%)} & \\text{Absolute Frequency} & \\text{Relative Frequency} & \\text{Cumulative Relative Frequency} \\\\\n\\hline\n$-9.19 \\leq$ & $< -5.45$ & 1 & 0.083 & 0.083 \\\\\n$-5.45 \\leq$ & $< -1.71$ & 2 & 0.167 & 0.250 \\\\\n$-1.71 \\leq$ & $< 2.03$ & 4 & 0.333 & 0.583 \\\\\n$2.03 \\leq$ & $< 5.77$ & 3 & 0.250 & 0.833 \\\\\n$5.77 \\leq$ & $\\geq 9.51$ & 2 & 0.167 & 1.000 \\\\\n\\hline\n\\end{tabular}",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Cumulative Relative Frequency, Relative Frequency, Statistical Data Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 8,
+        "question_text": "Annual returns and summary statistics for three funds are listed in the following exhibit:\nThe fund that shows the highest absolute dispersion is:",
+        "image": "",
+        "options": {
+            "A": "A.Fund PQR if the measure of dispersion is the range.",
+            "B": "B.Fund XYZ if the measure of dispersion is the variance.",
+            "C": "C.Fund ABC if the measure of dispersion is the mean absolute deviation."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The mean absolute deviation (MAD) of Fund ABC’s returns is greater\nthan the MAD of both of the other funds.\nThe numbers shown for variance are understood to be in “percent squared” terms so that when\ntaking the square root, the result is standard deviation in percentage terms. Alternatively, by\nexpressing standard deviation and variance in decimal form, one can avoid the issue of units;\nin decimal form, the variances for Fund ABC, Fund XYZ, and Fund PQR are 0.0317, 0.0243, and\n0.0110, respectively.\nC正确。 ABC基金回报的平均绝对偏差(MAD)大于其他两个基金的MAD。 ABC基金的MAD = [|-20-(-4)|＋|23-\n(-4)|＋|-14-(-4)|＋|5-(-4)|＋|-14-(-4)|]/5=14.4% XYZ基金的MAD =[|-33-(-10.8)|＋|-12-(-\n10.8)|＋|-12-(-10.8)|＋|-8-(-10.8)|＋|11-(-10.8)|]/5=9.8% PQR基金的MAD=[|-14-(-5)|＋|-18-(-\n5)|＋|6-(-5)|＋|-2-(-5)|＋|3-(-5)|]/5=8.8% A和B错误: 方差的数字被理解为“百分比的平方”的形式\n，所以当取平方根时，结果就是百分比的标准偏差。或者，用小数表示标准差和方差，就可以避免单位的问\n题;以小数形式表示，基金ABC、基金XYZ和基金PQR的方差分别为0.0317、0.0243和0.0110。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Mean Absolute Deviation (MAD), Variance, Standard Deviation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 9,
+        "question_text": "For a credit card, it charges 15% compounded monthly. Its effective annual rate is closet to?",
+        "image": "",
+        "options": {
+            "A": "A.15.78%",
+            "B": "B.18.85%",
+            "C": "C.16.08%"
+        },
+        "answer": "C",
+        "explanation": "EAR=（1＋15%/12）^12-1=16.08%EAR=（1＋15%/12）^12-1=16.08%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Effective Annual Rate (EAR), Compound Interest, Credit Card Interest Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 10,
+        "question_text": "US and Spanish bonds have return standard deviations of 0.64 and 0.56, respectively. If the\ncorrelation between the two bonds is 0.24, the covariance of returns is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.086.",
+            "B": "B.0.335.",
+            "C": "C.0.390."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The covariance is the product of the standard deviations and\ncorrelation using the formula Cov(US bond returns, Spanish bond returns) = σ(US bonds) × σ\n(Spanish bonds) × ρ(US bond returns, Spanish bond returns) = 0.64 × 0.56 × 0.24 = 0.086. ：\nA正确。 协方差是标准差和相关系数的乘积，用以下公式计算：Cov(美国债券的回报,西班牙债券的回报\n)=σ(美国国债)×σ(西班牙债券)×ρ(美国债券的回报,西班牙债券的回报)= 0.64×0.56×0.24 = 0.086。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Covariance, Correlation, Standard Deviation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 11,
+        "question_text": "Which of the following is a property of two dependent events?",
+        "image": "",
+        "options": {
+            "A": "A.The two events must occur simultaneously.",
+            "B": "B.The probability of one event influences the probability of the other event.",
+            "C": "C.The probability of the two events occurring is the product of each event’s probability."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The probability of the occurrence of one is related to the\noccurrence of the other. If we are trying to forecast one event, information about a dependent\nevent may be useful. 这题问：如果两个事件是dependent不独立的，以下哪个说法正确？A说：两个事件一\n定同时发生，翻译成数学公式就是P(AB）=100%。这句话本身是不对的。可以举一个反例。两个事件不独立\n，说明AB的发生是互相影响的，但是这种影响是什么未知。也有可能是A发生了B一定不发生，此时说明AB一\n定不能同时发生，此时AB是互斥事件，P(AB）=0.B说：一个事件会受到另外事件发生的影响，这个是\ndependent event的定义。dependent event是不独立事件，也就是两件事件的发生是互相影响的。C说：两件\n事情发生的概率是两个事件各自概率的乘积，翻译成数学公式就是P(AB）=P(A)*P(B)。只有独立事件才有\nP(AB）=P(A)*P(B)，这里说的是不独立事件，所以C的说法也是错误的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Probability Theory, Event Dependence, Conditional Probability",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 12,
+        "question_text": "If the risk-free rate is equal to zero and the mean is less than the standard deviation,\ncompared with Sharp ratio, the coefficient of variation is:",
+        "image": "",
+        "options": {
+            "A": "A.Greater.",
+            "B": "B.Same.",
+            "C": "C.Less."
+        },
+        "answer": "A",
+        "explanation": "Sharpe ratio = [expected return (mean) – risk-free rate]/standard\ndeviation=mean/standard deviation; CV=standard deviation/expected return. The mean is less than\nthe standard deviation, so compared with Sharp ratio, the coefficient of variation is greater.\n夏普比率=[预期回报（平均值）-无风险比率]/标准差=平均值/标准差； 变异系数=标准差/预期回报。 与标\n准差相比，变异系数的值更大。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Sharpe Ratio, Coefficient of Variation, Risk-Free Rate",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 13,
+        "question_text": "An analyst estimates that 20% of high-risk bonds will fail (go bankrupt). If she applies a\nbankruptcy prediction model, she finds that 70% of the bonds will receive a “good” rating,\nimplying that they are less likely to fail. Of the bonds that failed, only 50% had a “good”\nrating. Use Bayes’ formula to predict the probability of failure given a “good” rating.\n(Hint, let P(A) be the probability of failure, P(B) be the probability of a “good” rating,\nP(B | A) be the likelihood of a “good” rating given failure, and P(A | B) be the likelihood\nof failure given a “good” rating.)",
+        "image": "",
+        "options": {
+            "A": "A.5.7%",
+            "B": "B.14.3%",
+            "C": "C.28.6%"
+        },
+        "answer": "B",
+        "explanation": "B is correct. With Bayes’ formula, the probability of failure given a “good”\nrating is whereP(A) = 0.20 = probability of failureP(B) = 0.70 = probability of a “good”\nratingP(B | A) = 0.50 = probability of a “good” rating given failureWith these estimates, the\nprobability of failure given a “good” rating is If the analyst uses the bankruptcy prediction\nmodel as a guide, the probability of failure declines from 20% to 14.3%. B正确。题目考察的就是\n贝叶斯公式的运用。 根据题意可知： 债券破产的概率：P(A) = 0.20 债券获得“良好”评级的概率为\n：P(B) = 0.70 在给定债券破产的前提下获得“良好”评级的概率为：P(B | A) = 0.50 那么，根据贝叶斯\n公式，在获得“良好”评级的前提下，债券破产概率：",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bayes' Theorem, Probability Theory, Risk Assessment",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 14,
+        "question_text": "A bar chart that orders categories by frequency in descending order and includes a line\ndisplaying cumulative relative frequency is referred to as a:",
+        "image": "",
+        "options": {
+            "A": "A.Pareto Chart.",
+            "B": "B.grouped bar chart.",
+            "C": "C.frequency polygon."
+        },
+        "answer": "A",
+        "explanation": "A is correct. A bar chart that orders categories by frequency in descending order\nand includes a line displaying cumulative relative frequency is called a Pareto Chart. A Pareto\nChart is used to highlight dominant categories or the most important groups. B is incorrect\nbecause a grouped bar chart or clustered bar chart is used to present the frequency\ndistribution of two categorical variables. C is incorrect because a frequency polygon is used\nto display frequency distributions.A是正确的。将类别结果按频率降序排列并包含显示累积相对频率的\n线条的柱状图称为帕累托图。帕累托图用于突出主要类别或最重要的群体。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Pareto Chart, Frequency Distribution, Data Visualization",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 15,
+        "question_text": "An analyst develops the following covariance matrix of returns:\nThe correlation of returns between the hedge fund and the market index is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.005.",
+            "B": "B.0.073.",
+            "C": "C.0.764."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The correlation between two random variables Ri and Rj is defined\nas ρ(Ri,Rj) = Cov(Ri,Rj)/[σ(Ri)σ(Rj)]. Using the subscript i to represent hedge funds and\nthe subscript j to represent the market index, the standard deviations are σ(Ri) = 2561/2 = 16\nand σ(Rj) = 811/2 = 9. Thus, ρ(Ri,Rj) = Cov(Ri,Rj)/[σ(Ri) σ(Rj)] = 110/(16 × 9) = 0.764.\n： C正确。 两个随机变量之间的相关性Ri和Rj被定义为ρ(Ri, Rj) = Cov (Ri, Rj) /(σ(Ri)σ(Rj)]。使\n用下标代表对冲基金和下标j代表市场指数,标准偏差是σ(Ri) = 256^(1/2) = 16和σ(Rj) = 81^(1/2) =\n9。因此,ρ(Ri, Rj) = Cov (Ri, Rj) /(σ(Ri)σ(Rj)] = 110 / (16×9) = 0.764。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Covariance and Correlation, Standard Deviation, Portfolio Management",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 16,
+        "question_text": "If the probability that Zolaf Company sales exceed last year's sales is 0.167, the odds for\nexceeding sales are closest to:",
+        "image": "",
+        "options": {
+            "A": "A.1 to 5.",
+            "B": "B.1 to 6.",
+            "C": "C.5 to 1."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Given odds for E of a to b, the implied probability of E = a/(a +\nb). Stated in terms of odds a to b with a = 1, b = 5, the probability of E = 1/(1 + 5) = 1/6 =\n0.167. This result confirms that a probability of 0.167 for beating sales is odds of 1 to 5. ：\nA正确。这里要求的是exceeding sales的odds for。所以for后面的“exceeding sales”就是对应的事件该\n事件发生的概率题干给出是0.167.odds for=P(E)/[1-P(E)]=0.167/(1-0.167)=0.2",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability, Odds, Odds Ratio",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 17,
+        "question_text": "Which of the following correlation coefficients indicates the weakest linear relationship\nbetween two variables?",
+        "image": "",
+        "options": {
+            "A": "A.–0.67",
+            "B": "B.–0.24",
+            "C": "C.0.33"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Correlations near +1 exhibit strong positive linearity, whereas\ncorrelations near –1 exhibit strong negative linearity. A correlation of 0 indicates an\nabsence of any linear relationship between the variables. The closer the correlation is to 0,\nthe weaker the linear relationship. ： B正确。 相关系数在＋1附近表现出很强的正线性，而在-1附近\n表现出很强的负线性。相关性为0表示变量之间不存在任何线性关系。相关性越接近0，线性关系越弱。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Correlation coefficients, Linear relationships, Strength of correlation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 18,
+        "question_text": "Which probability estimate most likely varies greatly between people?",
+        "image": "",
+        "options": {
+            "A": "A.An a priori probability",
+            "B": "B.An empirical probability",
+            "C": "C.A subjective probability"
+        },
+        "answer": "C",
+        "explanation": "C is correct. A subjective probability draws on personal or subjective judgment\nthat may be without reference to any particular data. C正确。 主观概率利用个人或主观判断，与任\n何特定数据可能无关。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Subjective probability, Behavioral finance, Probability estimation techniques",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 19,
+        "question_text": "Data values that are categorical and not amenable to being organized in a logical order are\nmost likely to be characterized as:",
+        "image": "",
+        "options": {
+            "A": "A.ordinal data.",
+            "B": "B.discrete data.",
+            "C": "C.nominal data."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Nominal data are categorical values that are not amenable to being\norganized in a logical order. A is incorrect because ordinal data are categorical data that can\nbe logically ordered or ranked. B is incorrect because discrete data are numerical values that\nresult from a counting process; thus, they can be ordered in various ways, such as from highest\nto lowest value. C是正确的。名义数据是分类值，并不表示逻辑或者排列顺序。 A是不正确的，因为排序\n数据是可以逻辑排序或排序的分类数据。 B是不正确的，因为离散数据是计数过程中产生的数值；因此，它\n们可以以各种方式排序，例如从最高值到最低值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Nominal Data, Ordinal Data, Discrete Data",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 20,
+        "question_text": "For a lump sum investment of ￥250,000 invested at a stated annual rate of 3% compounded\ndaily, the number of months needed to grow the sum to ￥1,000,000 is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.555.",
+            "B": "B.563.",
+            "C": "C.576."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The effective annual rate (EAR) is calculated as follows:\nSolving for N on a financial calculator results in (where FV is future value and PV is present\nvalue):\n \n方法一（对应） BAII plus金融计算器不可以直接计算：log以x为底y的对数，不过有ln这个功能，ln表示的\n是log以e为底。可以使用“换底公式”，1.040353^t=4求t，计算过程如下： 用计算器求EAR： 1.2ND 2 2ND\nCE/C 2.NOM：3 ENTER 3.↓ ↓ C/Y：365 ENTER 4.↑ CPT：EFF=3.045326 计算t年（先算年再转换成月，如\n果先计算再转换成月不知1个月=?天） 250,000x(1＋EAR)^t=1,000,000 1.03045326^t=4\nlog(1.03045326)4=t 利用换底公式： [Log（　）4]/[Log（　）1.03045326]=t Ln4/Ln1.03045326=t 分别\n用计算器计算Ln4和Ln1.03045326： 按：4 Ln得1.386294；1.03045326 Ln得0.0299999；t=46.211704(年)\n计算月的个数：n=tx12=46.211704x12=554.540453 方法二（绕开Ln） 因为PMT=0，表示现金流发生的频率\n（一年多少次）没有限制，N（一共多少期）没有限制，只要PMT和N匹配即可，此时N可以是天，也可以是年\n按天来算：PV=-250,000，FV=1,000,000，PMT=0，I/Y=3/365，CPT N=16,687.27453 Number of\nmonths=16,687.27453/365 x12 = 46.21171104x12=554.5405按年来算：PV=-\n250,000，FV=1,000,000，PMT=0，I/Y=3. 045326，CPT N=46.2117 Number of months=46.2117 x 12 =\n554.5404 \n\n$$\nEAR = (1 + \\text{Periodic interest rate})^{m} - 1\n$$\n\n$$\nEAR = (1 + 0.03/365)^{365} - 1\n$$\n\n$$\nEAR = (1.03045) - 1 = 0.030453 \\approx 3.0453\\%\n$$\n\n$$\n(1 + 0.030453)^N = \\frac{FV_N}{PV} = \\frac{\\yen 1,000,000}{\\yen 250,000}\n$$\n\n= 46.21 years, which multiplied by 12 to convert to months results in 554.5, or $\\approx$ 555 months.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Time Value of Money, Compounding, Financial Calculators",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 21,
+        "question_text": "The probability of an event given that another event has occurred is a:",
+        "image": "",
+        "options": {
+            "A": "A.joint probability.",
+            "B": "B.marginal probability.",
+            "C": "C.conditional probability."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. A conditional probability is the probability of an event given\nthat another event has occurred. ： C正确。 条件概率是一个事件在另一个事件已经发生的情况下发生\n的概率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Conditional Probability, Probability Theory, Event Dependence",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 22,
+        "question_text": "Which valuation tool is recommended to be used if the goal is to make comparisons of three\nor more variables over time?",
+        "image": "",
+        "options": {
+            "A": "A.Heat map",
+            "B": "B.Bubble line chart",
+            "C": "C.Scatter plot matrix"
+        },
+        "answer": "B",
+        "explanation": "B is correct. A bubble line chart is a version of a line chart where data points\nare replaced with varying-sized bubbles to represent a third dimension of the data. A line\nchart is very effective at visualizing trends in three or more variables over time. A is\nincorrect because a heat map differentiates high values from low values and reflects the\ncorrelation between variables but does not help in making comparisons of variables over time. C\nis incorrect because a scatterplot matrix is a useful tool for organizing scatterplots between\npairs of variables, making it easy to inspect all pairwise relationships in one combined\nvisual. However, it does not help in making comparisons of these variables over time.B是正确的\n。气泡线图是折线图的一个版本，其中数据点被替换为不同大小的气泡，以表示数据的第三维。折线图在可\n视化三个或更多变量随时间变化的趋势方面非常有效。A是不正确的，热力图区分高值和低值，并反映变量之\n间的相关性，但无助于随时间变化的变量间比较。C是不正确的，散点图矩阵是组织变量对之间散点图的有用\n工具，可以方便地在一个组合视觉中检查所有成对关系。然而，随着时间的推移，这无助于对这些变量进行\n比较。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Data Visualization, Time Series Analysis, Multivariate Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 23,
+        "question_text": "The value in six years of $75,000 invested today at a stated annual interest rate of 7%\ncompounded quarterly is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$112,555.",
+            "B": "B.$113,330.",
+            "C": "C.$113,733."
+        },
+        "answer": "C",
+        "explanation": "C is correct, as shown in the following (where FV is future value and PV is present\nvalue):\n C正确。 方法一：FV=PV(1＋r/m)^(m*N), FV6=$75,000(1＋0.07/4)^(4*6)=$113,733.21 方法二\n：PV=75,000，N=4*6，I/Y=7/4，PMT=0，CPT FV=113,733.21\n $$\nFV = PV \\left(1 + \\frac{r_s}{m}\\right)^{mN}\n$$\n\n$$\nFV_6 = \\$75,000 \\left(1 + \\frac{0.07}{4}\\right)^{(4 \\times 6)}\n$$\n\n$$\nFV_6 = \\$113,733.21.\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Time Value of Money, Compound Interest, Future Value Calculations",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 24,
+        "question_text": "Consider two variables, A and B. If variable A has a mean of －0.56, variable B has a mean\nof 0.23, and the covariance between the two variables is positive, the correlation between\nthese two variables is:",
+        "image": "",
+        "options": {
+            "A": "A.negative.",
+            "B": "B.zero.",
+            "C": "C.positive."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The correlation coefficient is positive because the covariance is\npositive. The fact that one or both variables have a negative mean does not affect the sign of\nthe correlation coefficient.因为协方差为正，所以相关系数为正。一个或两个变量的平均值均为负并不\n影响相关系数的符号。故选项C是正确的",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Statistical correlation, Covariance, Mean",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 25,
+        "question_text": "Himari Fukumoto has joined a new firm and is selecting mutual funds in the firm’s pension\nplan. If 10 mutual funds are available, and she plans to select four, how many different sets\nof mutual funds can she choose?",
+        "image": "",
+        "options": {
+            "A": "A.210",
+            "B": "B.720",
+            "C": "C.5,040"
+        },
+        "answer": "A",
+        "explanation": "A is correct. The number of combinations is the number of ways to pick four mutual\nfunds out of 10 without regard to order, which is\n \nA正确。组合数，指的是不考虑顺序的前提下，从10只共同基金中选择4只的方法数为：\n $$\nnCr = \\frac{n!}{(n - r)!r!}\n$$\n\n$$\n^{10}C_4 = \\frac{10!}{(10 - 4)!4!} = \\frac{10 \\times 9 \\times 8 \\times 7}{4 \\times 3 \\times 2 \\times 1} = 210\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Combinatorics, Pension Plan Management, Investment Selection",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 26,
+        "question_text": "Grandparents are funding a newborn’s future university tuition costs, estimated at\n$50,000/year for four years, with the first payment due as a lump sum in 18 years. Assuming a\n6% effective annual rate, the required deposit today is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$60,699.",
+            "B": "B.$64,341.",
+            "C": "C.$68,201."
+        },
+        "answer": "B",
+        "explanation": "B is correct. First, find the present value (PV) of an ordinary annuity in Year 17\nthat represents the tuition costs:\nThen, find the PV of the annuity in today’s dollars (where FV is future value):\n B正确。 在BNG模式下，计算4笔学费在t=18时间点上的PV18： FV=0，N=4，I/Y=6，PMT=-50,000，CPT\nPV18=183,650.5975 在END模式下，将PV18折现到t=0时间点：\nFV18=PV18=183,650.5975，N=18，I/Y=6，PMT=0，CPT PV=64,340.8456 \n $$\n\\$50,000 \\left[ \\frac{1 - \\frac{1}{(1 + 0.06)^4}}{0.06} \\right]\n$$\n\n= \\$50,000 \u00d7 3.4651\n\n= \\$173,255.28.\n\n$$\nPV_0 = \\frac{FV}{(1 + 0.06)^{17}}\n$$\n\n$$\nPV_0 = \\frac{\\$173,255.28}{(1 + 0.06)^{17}}\n$$\n\n$$\nPV_0 \\approx \\$64,340.85 \\approx \\$64,341.\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Time Value of Money, Annuities and Perpetuities, Effective Interest Rates",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 27,
+        "question_text": "Given a €1,000,000 investment for four years with a stated annual rate of 3% compounded\ncontinuously, the difference in its interest earnings compared with the same investment\ncompounded daily is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.€1.",
+            "B": "B.€6.",
+            "C": "C.€455."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The difference between continuous compounding and daily compounding\nis €127,496.85 – €127,491.29 = €5.56, or ≈ €6, as shown in the following\ncalculations.With continuous compounding, the investment earns (where PV is present value)\nWith daily compounding, the investment earns:\n \n方法一：连续复利和每日复利的差是： €127,496.85–€127,491.29 =€5.56, or≈€6，相关计算如下所\n示。 连续复利情况下，投资收益（PV表示的是现值）： PV*e^(rs*N) = €1,000,000*e^(0.03*4) –\n€1,000,000= €1,127,496.85 – €1,000,000= €127,496.85 以日计息，这个投资的收益为:\n€1,000,000*(1 0.03/365)^ (365*4) – €1,000,000 = €1,127,491.29 – €1,000,000 =\n€127,491.29. 方法二(注意不要保留小数带入，直接计算结果带入第三排键)：\nPV=1,000,000，N=365*4，I/Y=3/365，PMT=0，CPT FV=-1,127,491.29 PV=1,000,000，N=4，I/Y=( e^3%-\n1)*100，PMT=0，CPT FV=-1,127,496.85 \n $$\nPV e^{r_sN} - PV = \u20ac1,000,000 e^{0.03(4)} - \u20ac1,000,000\n$$\n\n$$\n= \u20ac1,127,496.85 - \u20ac1,000,000\n$$\n\n$$\n= \u20ac127,496.85\n$$\n\n\u20ac1,000,000(1 + 0.03/365)^{365(4)} - \u20ac1,000,000 = \u20ac1,127,491.29 - \u20ac1,000,000 = \u20ac127,491.29.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Continuous Compounding, Daily Compounding, Time Value of Money",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 28,
+        "question_text": "An analyst developed two scenarios with respect to the recovery of $100,000 principal from\ndefaulted loans:\nThe amount of the expected recovery is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$36,400.",
+            "B": "B.$63,600.",
+            "C": "C.$81,600."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. If Scenario 1 occurs, the expected recovery is 60% ($50,000)40%\n($30,000) = $42,000, and if Scenario 2 occurs, the expected recovery is 90%\n($80,000)10%($60,000) = $78,000. Weighting by the probability of each scenario, the expected\nrecovery is 40%($42,000)60%($78,000) = $63,600. Alternatively, first calculating the\nprobability of each amount occurring, the expected recovery is\n(40%)(60%)($50,000)(40%)(40%)($30,000)(60%)(90%)($80,000)(60%)(10%)($60,000) = $63,600. ： B正\n确。 如果发生场景1，预期的恢复是60%($50,000)40%($30,000)= $42,000，如果发生场景2，预期的恢复是\n90%($80,000)10%($60,000)= $78,000。按照每种情况的概率进行加权，预期复苏为40%(42,000美元\n)60%(78,000美元)= 63,600美元。 或者，首先计算每个金额发生的概率，预期回收率为\n(40%)(60%)($50,000)(40%)(40%)($30,000)(60%)(90%)($80,000)(60%)(10%)($60,000)= $63,600。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Expected recovery calculation, Probability weighting, Scenario analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 29,
+        "question_text": "Given a portfolio of five stocks, how many unique covariance terms, excluding variances, are\nrequired to calculate the portfolio return variance?",
+        "image": "",
+        "options": {
+            "A": "A.10",
+            "B": "B.20",
+            "C": "C.25"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. A covariance matrix for five stocks has 5 × 5 = 25 entries.\nSubtracting the 5 diagonal variance terms results in 20 off-diagonal entries. Because a\ncovariance matrix is symmetrical, only 10 entries are unique (20/2 = 10). ： A正确。 五只股票的\n协方差矩阵有5×5 = 25项。减去5个对角线方差项，得到20个非对角线项。因为协方差矩阵是对称的，所以\n只有10个协方差项是唯一的(20/2 = 10)。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio Risk, Covariance, Variance",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 30,
+        "question_text": "A correlation of 0.34 between two variables, X and Y, is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.changes in X causing changes in Y.",
+            "B": "B.a positive association between X and Y.",
+            "C": "C.a curvilinear relationship between X and Y."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The correlation coefficient is positive, indicating that the two\nseriesmove together. 相关系数为正，表明这两个变量正相关变化的。因此，选项B是正确的",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Correlation, Statistical analysis, Positive relationship",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 31,
+        "question_text": "Published ratings on stocks ranging from 1 (strong sell) to 5 (strong buy) are examples of\nwhich measurement scale?",
+        "image": "",
+        "options": {
+            "A": "A.Ordinal",
+            "B": "B.Continuous",
+            "C": "C.Nominal"
+        },
+        "answer": "A",
+        "explanation": "A is correct. Ordinal scales sort data into categories that are ordered with\nrespect to some characteristic and may involve numbers to identify categories but do not assure\nthat the differences between scale values are equal. The buy rating scale indicates that a\nstock ranked 5 is expected to perform better than a stock ranked 4, but it tells us nothing\nabout the performance difference between stocks ranked 4 and 5 compared with the performance\ndifference between stocks ranked 1 and 2, and so on.A是正确的。排序数据可对观测值进行排序并分类\n，涉及到的数字仅用来识别类别，但不能确保类别间的差异是相等的。买入评级量表表明，排名5的股票预期\n表现优于排名4的股票，但它没有告诉我们排名4和5的股票与排名1和2的股票相比的表现差异是怎样的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Measurement Scales, Ordinal Scales, Data Categories",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 32,
+        "question_text": "Which of the following risk premiums is most relevant in explaining the difference in yields\nbetween 30-year bonds issued by the US Treasury and 30-year bonds issued by a small private\nissuer?",
+        "image": "",
+        "options": {
+            "A": "A.Inflation",
+            "B": "B.Maturity",
+            "C": "C.Liquidity"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. US Treasury bonds are highly liquid, whereas the bonds of small\nissuers trade infrequently and the interest rate includes a liquidity premium. This liquidity\npremium reflects the relatively high costs (including the impact on price) of selling a\nposition. ： C正确。 美国国债的流动性很强，而小型发行人的债券交易较少，其利率包含流动性溢价。这\n种流动性溢价反映了卖出头寸的相对较高成本(考虑了流动性对于债券本身价格的影响)。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Premium, Yield Spread, Bond Issuance",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 33,
+        "question_text": "A manager will select 20 bonds out of his universe of 100 bonds to construct a portfolio.\nWhich formula provides the number of possible portfolios?",
+        "image": "",
+        "options": {
+            "A": "A.Permutation formula",
+            "B": "B.Multinomial formula",
+            "C": "C.Combination formula"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The combination formula provides the number of ways that r objects\ncan be chosen from a total of n objects, when the order in which the r objects are listed does\nnot matter. The order of the bonds within the portfolio does not matter. ： C正确。 组合公式提\n供了从总共n个对象中选择r个对象的方法的数量，而r个对象的排列顺序并不重要。投资组合中债券的顺序并\n不重要。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Combinatorics, Portfolio Construction, Mathematical Formulas",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 34,
+        "question_text": "Which of the following statements is most accurate? If the covariance of returns between two\nassets is 0.0023, then:",
+        "image": "",
+        "options": {
+            "A": "A.the assets’ risk is near zero.",
+            "B": "B.the asset returns are unrelated.",
+            "C": "C.the asset returns have a positive relationship."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The covariance of returns is positive when the returns on both\nassets tend to be on the same side (above or below) their expected values at the same time. ：\nC正确。 当两种资产的回报率趋向于同一水平(高于或低于期望值)时，回报率的协方差为正。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Covariance, Asset Returns, Expected Value",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 35,
+        "question_text": "An analyst calculated the excess kurtosis of a stock’s returns as -0.75. From this\ninformation, we conclude that the distribution of returns is:",
+        "image": "",
+        "options": {
+            "A": "A.normally distributed.",
+            "B": "B.thin-tailed compared to the normal distribution.",
+            "C": "C.fat-tailed compared to the normal distribution."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The distribution is thin-tailed relative to the normal distribution\nbecause the excess kurtosis is less than zero.选项B是正确的。由于分布的超额峰度是小于0的，那么\n可以得出：该分布相对于正态分布是低峰的，即低峰瘦尾。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Kurtosis, Statistical Distribution, Risk Assessment",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 36,
+        "question_text": "Which of the following is a potential problem with interpreting a correlation coefficient?",
+        "image": "",
+        "options": {
+            "A": "A.Outliers",
+            "B": "B.Spurious correlation",
+            "C": "C.Both outliers and spurious correlation"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Both outliers and spurious correlation are potential problems with\ninterpreting correlation coefficients.异常值和伪相关都是解释相关系数的潜在问题。因此，选项C是正\n确的",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Correlation analysis, Data interpretation, Statistical anomalies",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 37,
+        "question_text": "An analyst produces the following joint probability function for a foreign index (FI) and a\ndomestic index (DI).\nThe covariance of returns on the foreign index and the returns on the domestic index is closest\nto:",
+        "image": "",
+        "options": {
+            "A": "A.26.39.",
+            "B": "B.26.56.",
+            "C": "C.28.12."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The covariance is 26.56, calculated as follows. First, expected\nreturns are\n \nB正确。 协方差为26.56，计算方法如下:首先，预期回报是: E(RFI)\n=(0.25×25)＋(0.50×15)＋(0.25×10)= 6.25 ＋ 7.50 ＋ 2.50 = 16.25 和 E(RDI) =(0.25×30)＋\n(0.50×25) ＋(0.25×15)= 7.50＋ 12.50 ＋ 3.75 = 23.75。 Covariance is Cov(RFI,RDI) = 0.25[(25\n– 16.25)(30 – 23.75)]＋ 0.50[(15 – 16.25)(25 – 23.75)]＋ 0.25[(10 – 16.25)(15 – 23.75)]=\n13.67 ＋ (–0.78) ＋13.67 = 26.56. \n \n\n$$\nE(R_{FI}) = (0.25 \\times 25) + (0.50 \\times 15) + (0.25 \\times 10)\n$$\n\n$$\n= 6.25 + 7.50 + 2.50 = 16.25 \\text{ and}\n$$\n\n$$\nE(R_{DI}) = (0.25 \\times 30) + (0.50 \\times 25) + (0.25 \\times 15)\n$$\n\n$$\n= 7.50 + 12.50 + 3.75 = 23.75.\n$$\n\nCovariance is\n\n$$\n\\text{Cov}(R_{FI},R_{DI}) = \\sum_i \\sum_j P(R_{FI,j},R_{DI,j})(R_{FI,j} - E R_{FI})(R_{DI,j} - E R_{DI})\n$$\n\n$$\n= 0.25[(25 - 16.25)(30 - 23.75)] + 0.50[(15 - 16.25)(25 - 23.75)] + 0.25[(10 - 16.25)(15 - 23.75)]\n$$\n\n$$\n= 13.67 + (-0.78) + 13.67 = 26.56.\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Covariance, Joint Probability Function, Expected Returns",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 38,
+        "question_text": "The median is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.34.51.",
+            "B": "B.100.49.",
+            "C": "C.102.98."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The median is indicated within the box, which is the 100.49 in this\ndiagram. 中位数，指的就是箱体中间的那条线所对应的数值，也就是图中的100.49.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Statistics, Descriptive Measures, Central Tendency",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 39,
+        "question_text": "Given the following timeline and a discount rate of 4% a year compounded annually, the\npresent value (PV), as of the end of Year 5 (PV5 ), of the cash flow received at the end of\nYear 20 is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$22,819.",
+            "B": "B.$27,763.",
+            "C": "C.$28,873."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The PV in Year 5 of a $50,000 lump sum paid in Year 20 is $27,763.23\n(where FV is future value):\n B正确。 在END模式下，FV=50,000，N=15，I/Y=4，PMT=0，CPT PV= -27,763.23",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Time Value of Money, Discount Rate, Present Value Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 40,
+        "question_text": "The average return for Portfolio A over the past twelve months is 3%, with a standard\ndeviation of 4%. The average return for Portfolio B over this same period is also 3%, but with\na standard deviation of 6%. The geometric mean return of Portfolio A is 2.85%. The geometric\nmean return of Portfolio B is:",
+        "image": "",
+        "options": {
+            "A": "A.less than 2.85%.",
+            "B": "B.equal to 2.85%.",
+            "C": "C.greater than 2.85%."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The more disperse a distribution, the greater the difference between\nthe arithmetic mean and the geometric mean.选项A是正确的。对于任何一个数据集来说，算术平均数是\n唯一的，而且其数值大小与数据集中每一个数据都有关，如果数据集中有异常值，将会使算术平均数发生很\n大的变化。因此，当数据集越分散，对算数平均数的影响就越大，也就使得算术平均值和几何平均值之间的\n差异越大。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio Management, Statistical Analysis, Risk Measurement",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 41,
+        "question_text": "The following exhibit shows the annual MSCI World Index total returns for a 10-year period.\n \nThe fourth quintile return for the MSCI World Index is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.20.65%.",
+            "B": "B.26.03%.",
+            "C": "C.27.37%."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Quintiles divide a distribution intofifths, with the fourth quintile\noccurring at the point at which 80% of theobservations lie below it. The fourth quintile is\nequivalent to the 80thpercentile. To find the yth percentile (Py), we first must determine\nitslocation. The formula for the location (Ly) of a yth percentile in an arraywith n entries\nsorted in ascending order is Ly = (n＋ 1) × (y/100). In this case,n = 10 and y = 80%, so L80 =\n(10＋1) × (80/100) = 11 × 0.8 = 8.8. With the data arranged in ascending order\n(－40.33%,－5.02%, 9.57%, 10.02%, 12.34%, 15.25%, 16.54%, 20.65%, 27.37%, and 30.79%), the8.8th\nposition would be between the 8th and 9th entries, 20.65% and 27.37%,respectively. Using linear\ninterpolation, P80 = X8＋ (Ly – 8) × (X9 – X8), P80= 20.65＋ (8.8 – 8) × (27.37 – 20.65)\n= 20.65＋ (0.8 × 6.72) = 20.65＋ 5.38=26.03%. 五分位数把一个分布分成五分之三，而第四分位数出现\n在80%的观察值低于它的地方。第四个五分位数相当于第80个百分位数。要找到第yth百分位数(Py)，首先必\n须确定它的位置。按升序排列n个元素的数组中第y百分位的位置(Ly)公式为Ly = (n＋1)×(y/100)。此时，n\n= 10, y = 80%，所以L80 =(10＋1)×(80/100)= 11×0.8 = 8.8。 数据按升序排列(－40.33%、－5.02%、\n9.57%、10.02%、12.34%、15.25%、16.54%、20.65%、27.37%和30.79%)，8.8位分别位于第8和第9项之间，分\n别为20.65%和27.37%。采用线性插值，P80 = X8＋ (Ly - 8)×(X9 - X8)， P80 = 20.65＋(8.8 -\n8)×(27.37 - 20.65)= 20.65＋ (0.8×6.72)= 20.65＋ 5.38= 26.03%。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Percentile Calculation, Data Analysis, Linear Interpolation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 42,
+        "question_text": "The probability distribution for a company‘s sales is:\nThe standard deviation of sales is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$9.81 million.",
+            "B": "B.$12.20 million.",
+            "C": "C.$32.40 million."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The analyst must first calculate expected sales as 0.05 × $70 + 0.70\n× $40 + 0.25 × $25 = $3.50 million + $28.00 million + $6.25 million = $37.75 million. After\ncalculating expected sales, we can calculate the variance of sales:\nThe standard deviation of sales is thus σ = ($96.18)^1/2 = $9.81 million.\nA正确。 分析师必须首先计算预期销售额为0.05×$70＋0.70×$40＋0.25×$25 =$37.75 million。 通过计\n算期望销售额，可以计算出销售额的方差: σ^2= P(70)(70- E(销售))^2＋P(40)[ 40 - E(销售)]^2＋\nP(25)(25- E(销售))^2 = 0.05(70 - 37.75)^2＋0.70(40 - 37.75)^2＋ 0.25(25 - 37.75)^2 = 52 mil＋\n3.54 mil＋40.64 mil = 96.18 mil。 销售的标准偏差是σ=(96.18)^1/2 = 9.81 mil \n $$\n\\sigma^2 (\\text{Sales})\n$$\n\n$$\n= P(\\$70)[\\$70 - E(\\text{Sales})]^2 + P(\\$40)[\\$40 - E(\\text{Sales})]^2 + P(\\$25)[\\$25 - E(\\text{Sales})]^2\n$$\n\n$$\n= 0.05(\\$70 - 37.75)^2 + 0.70(\\$40 - 37.75)^2 + 0.25(\\$25 - 37.75)^2\n$$\n\n$$\n= \\$52.00 \\text{ million} + \\$3.54 \\text{ million} + \\$40.64 \\text{ million} = \\$96.18 \\text{ million}.\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Probability Distributions, Expected Value, Standard Deviation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 43,
+        "question_text": "In probability theory, exhaustive events are best described as events:",
+        "image": "",
+        "options": {
+            "A": "A.have a probability of zero.",
+            "B": "B.are mutually exclusive.",
+            "C": "C.include all potential outcomes."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The term “exhaustive” means that the events cover all possible\noutcomes. ： C正确。遍历一词是指事件包括所有可能的结果。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Probability theory, Exhaustive events, Outcome space",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 44,
+        "question_text": "Investors should most likely be attracted to return distributions that are:",
+        "image": "",
+        "options": {
+            "A": "A.Normal.",
+            "B": "B.Positively skewed.",
+            "C": "C.Negatively skewed."
+        },
+        "answer": "B",
+        "explanation": "Investors should be attracted by a positive skew because the mean return falls\nabove the median.投资者应该被一个正偏态的分布所吸引，因为平均回报率高于中位数。由于正偏的分布\n，极端情况主要出现在右边，当极端情况出现时，往往意味着有非常大的利得，对于投资者有利。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Return Distributions, Skewness, Investment Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 45,
+        "question_text": "Given a stated annual interest rate of 6% compounded quarterly, the level amount that,\ndeposited quarterly, will grow to ￡25,000 at the end of 10 years is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.￡461.",
+            "B": "B.￡474.",
+            "C": "C.￡836."
+        },
+        "answer": "A",
+        "explanation": "A is correct. To solve for an annuity (A) payment, when the future value (FV),\ninterest rate, and number of periods is known, use the following equation:\n 这里用金融计算器的第三排五个键计算，大原则是知道4个键可以求余下的那个。 这里需要求的是PMT，所\n以需要输入余下四个键。第一，清空：2nd FV，清空之前所有输入的数据。第二，保证在END模式下第三，输\n入：先输入数字，再按第三排的功能键。FV=25,000，N=10*4，I/Y=6/4，PV=0，第四，计算：CPT PMT=-\n460.677542 \n $$\nFV = A \\left[ \\frac{\\left( 1 + \\frac{r_s}{m} \\right)^{mN} - 1}{\\frac{r}{m}} \\right]\n$$\n\n$$\n\u00a325,000 = A \\left[ \\frac{\\left( 1 + \\frac{0.06}{4} \\right)^{4 \\times 10} - 1}{\\frac{0.06}{4}} \\right]\n$$\n\n$$\nA = \u00a3460.68\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Annuities and Perpetuities, Time Value of Money, Financial Calculations Using Financial Calculators",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 46,
+        "question_text": "A tree-map is best suited to illustrate:",
+        "image": "",
+        "options": {
+            "A": "A.underlying trends over time.",
+            "B": "B.joint variations in two variables.",
+            "C": "C.value differences of categorical groups."
+        },
+        "answer": "C",
+        "explanation": "C is correct. A tree-map is a graphical tool used to display and compare\ncategorical data. It consists of a set of colored rectangles to represent distinct groups, and\nthe area of each rectangle is proportional to the value of the corresponding group. A is\nincorrect because a line chart, not a tree-map, is used to display the change in a data series\nover time. B is incorrect because a scatter plot, not a tree-map, is used to visualize the\njoint variation in two numerical variables. 树图是一种用于显示和比较分类数据的图形工具。它由一\n组表示不同组的彩色矩形组成，每个矩形的面积与相应组的值成比例。A是不正确的，折线图是用来显示数据\n序列随时间的变化。B是不正确的，散点图用于可视化两个数值变量的联合变化。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Data Visualization, Categorical Data, Graphical Tools",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 47,
+        "question_text": "A heat map is best suited for visualizing the:",
+        "image": "",
+        "options": {
+            "A": "A.frequency of textual data.",
+            "B": "B.degree of correlation between different variables.",
+            "C": "C.shape, center, and spread of the distribution of numerical data."
+        },
+        "answer": "B",
+        "explanation": "B is correct. A heat map is commonly used for visualizing the degree of correlation\nbetween different variables. A is incorrect because a word cloud, or tag cloud, not a heat map,\nis a visual device for representing textual data with the size of each distinct word being\nproportional to the frequency with which it appears in the given text. C is incorrect because a\nhistogram, not a heat map, depicts the shape, center, and spread of the distribution of\nnumerical data. B是正确的，热力图，通常用于显示不同变量之间的关联程度。A是不正确的，因为词云是\n表示文本数据的可视化设备，每个不同单词的大小与它在给定文本中出现的频率成比例。C是不正确的，直方\n图描述了数值数据分布的形状、中心和分布。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Data Visualization, Correlation Analysis, Risk Assessment Techniques",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 48,
+        "question_text": "After estimating the probability that an investment manager will exceed his benchmark return\nin each of the next two quarters, an analyst wants to forecast the probability that the\ninvestment manager will exceed his benchmark return over the two-quarter period in total.\nAssuming that each quarter’s performance is independent of the other, which probability rule\nshould the analyst select?",
+        "image": "",
+        "options": {
+            "A": "A.Addition rule",
+            "B": "B.Multiplication rule",
+            "C": "C.Total probability rule"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Because the events are independent, the multiplication rule is most\nappropriate for forecasting their joint probability. The multiplication rule for independent\nevents states that the joint probability of both A and B occurring is P(AB) = P(A)P(B). B正确。\n由于事件是相互独立的，乘法法则最适合预测它们的联合概率。独立事件的乘法法则表明A和B同时发生的概\n率是P(AB) = P(A)P(B)。 定义A事件：接下来的第一个季度超过benchmark 定义B事件：接下来的第二个季度\n超过benchmark 题目问两个事件同时发生概率为多少？ A和B事件相互独立，所以P(AB)=P(A)xP(B)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability Rules, Independent Events, Multiplication Rule for Independent Events",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 49,
+        "question_text": "The following is a frequency polygon of monthly exchange rate changes in the US\ndollar/Japanese yen spot exchange rate for a four-year period. A positive change represents yen\nappreciation (the yen buys more dollars), and a negative change represents yen depreciation\n(the yen buys fewer dollars).\n \nBased on the chart, yen appreciation:",
+        "image": "",
+        "options": {
+            "A": "A.occurred more than 50% of the time.",
+            "B": "B.was less frequent than yen depreciation.",
+            "C": "C.in the 0.0 to 2.0 interval occurred 20% of the time."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Twenty observations lie in the interval “0.0 to 2.0,” and six\nobservations lie in the “2.0 to 4.0” interval. Together, they represent 26/48, or 54.17%, of\nall observations, which is more than 50%.图中，横轴是日元相对与美元汇率变动的百分比；纵坐标代表\n落在一个区间中数据的个数（absolute frequency）。在折线图中，横坐标是某一个区间的中点，比如，折\n线图中的第一个点，横坐标是-5%，纵坐标是3，代表在-5%为中点的左右两边的区间内，落入的数据个数是\n3个。此时，我们从左往右标出5个区间，如图。每个区间的绝对频数看纵坐标：第一个区间的纵坐标\n（absolute frequency）=3；第二个区间=8；第三个区间=11；第四个区间=20；第5个区间=6，总共48个数据\n。题目问：日元升值的说法哪个是正确的？A: 日元升值发生的次数的概率超过50%首先，升值代表的就是横\n坐标>0%，也就是图上4和5两个区间，发生的次数的概率，就是落在区间中的数据占比（相对频率）=落在4和\n5区间上的数据总个数/所有区间的总个数=（20＋ 6）/(3 ＋8＋ 11＋ 20 6)=54%>50%，所以A正确。 B说日\n元升值比贬值发生的频率低。这句话不对，在A问中已经计算出，日元升值的概率约为54%，所以日元贬值的\n概率是1-54%=46%，应该是贬值的频率低，而不是升值的频率低，B错误。 C说日元升值比例为0-2的区间上对\n应发生的概率是20%。从图上看，升值比例看横轴，横坐标0-2的区间，对应的就是第四个区间，也就是以\n1%为中心的区间。这个区间中，数据落入的个数是20个，总数据个数是48个。20/48＝42%，也就是说，在这\n个区间中，数据的占比应该是42%而不是C选项中说的20%。所以C的说法也是错误的。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability, Frequency Distributions, Exchange Rate Movements",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 50,
+        "question_text": "In a frequency distribution, the absolute frequency measure:",
+        "image": "",
+        "options": {
+            "A": "A.represents the percentages of each unique value of the variable.",
+            "B": "B.represents the actual number of observations counted for each unique valueof the variable.",
+            "C": "C.allows for comparisons between datasets with different numbers of total observations."
+        },
+        "answer": "B",
+        "explanation": "B is correct. In a frequency distribution, the absolute frequency, or simply the\nraw frequency, is the actual number of observations counted for each unique value of the\nvariable. A is incorrect because the relative frequency, which is calculated as the absolute\nfrequency of each unique value of the variable divided by the total number of observations,\npresents the absolute frequencies in term of percentages. C is incorrect because the relative\n(not absolute) frequency provides a normalized measure of the distribution of the data,\nallowing comparisons between datasets with different numbers of total observations. B是正确的。\n在频率分布中，绝对频数，指的是落在每一个区间中的观测值的个数。 A是不正确的，相对频率，指的是落\n在某一个区间中数据的占比，通常用百分比的形式表示。 C是不正确的，相对频率提供了数据分布的标准化\n度量，允许对具有不同总观察数的数据集之间进行比较。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "frequency distributions, absolute frequency, relative frequency",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 51,
+        "question_text": "A sports car, purchased for ￡200,000, is financed for five years at an annual rate of 6%\ncompounded monthly. If the first payment is due in one month, the monthly payment is closest\nto:",
+        "image": "",
+        "options": {
+            "A": "A.￡3,847.",
+            "B": "B.￡3,867.",
+            "C": "C.￡3,957."
+        },
+        "answer": "B",
+        "explanation": "B is correct, calculated as follows (where A is annuity and PV is present value):\n B正确。 这里说“pmt due in one month”是指第一笔现金流在第一个月月末付款，所以是一个后付年金的\n形式。 在END模式下，FV=0，PV=200,000，N=5*12，I/Y=6/12，CPT PMT=3,866.56 \n $$\nA = (\\text{PV of annuity}) \\sqrt{\\frac{ \\left[ \\frac{1 - \\frac{1}{(1 + \\frac{r_s}{m})^{mN}}}{\\frac{r_s}{m}} \\right]}{\\left[ \\frac{1 - \\frac{1}{(1 + \\frac{r_s}{m})^{mN}}}{\\frac{r_s}{m}} \\right]}}\n$$\n\n$$\n= (\u00a3200,000) \\sqrt{\\frac{ \\left[ \\frac{1 - \\frac{1}{(1 + \\frac{r_s}{m})^{mN}}}{\\frac{r_s}{m}} \\right]}{\\left[ \\frac{1 - \\frac{1}{(1 + \\frac{r_s}{m})^{mN}}}{\\frac{r_s}{m}} \\right]}}\n$$\n\n$$\n(\u00a3200,000) \\sqrt{\\frac{ \\left[ \\frac{1 - \\frac{1}{(1 + 0.06/12)^{12(5)}}}{0.06/12} \\right]}{\\left[ \\frac{1 - \\frac{1}{(1 + 0.06/12)^{12(5)}}}{0.06/12} \\right]}}\n$$\n\n$$\n= (\u00a3200,000)/51.72556\n$$\n\n$$\n= \u00a33,866.56\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Time Value of Money, Loan Amortization, Financial Calculations",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 52,
+        "question_text": "A perpetual preferred stock makes its first quarterly dividend payment of $2.00 in five\nquarters. If the required annual rate of return is 6% compounded quarterly, the stock’s\npresent value is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$31.",
+            "B": "B.$126.",
+            "C": "C.$133."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The value of the perpetuity one year from now is calculated as: PV =\nA/r, where PV is present value, A is annuity, and r is expressed as a quarterly required rate\nof return because the payments are quarterly.\n B正确。 一年后的永续年金价值计算如下：PV = A/r，其中PV为现值，A为年金，r表示为季度要求收益率\n，因为支付是按季度来的： PV4 = $2.00/(0.06/4)= $133.33。 今天时间点上的现值是： PV0=\nFV4*(1＋r)^(–N)=$133.33*(1＋0.015)^(–4) = $125.62≈$126. 注意：第一笔现金流（股利）发生在\nt=5时刻，第二年第一个季度末，PV算下来是在t=4时刻的现值PV4，所以还要折现一次到t=0时刻。 \n \n\n$$\nPV = \\frac{2.00}{(0.06/4)}\n$$\n\n$$\nPV = 133.33\n$$\n\nThe value today is (where FV is future value)\n\n$$\nPV = FV (1 + r)^{-N}\n$$\n\n$$\nPV = 133.33(1 + 0.015)^{-4}\n$$\n\n$$\nPV = 125.62 \\approx 126\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Perpetuity, Time Value of Money, Present Value Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 53,
+        "question_text": "Florence Hixon is screening a set of 100 stocks based on two criteria (Criterion 1 and\nCriterion 2). She set the passing level such that 50% of the stocks passed each screen. For\nthese stocks, the values for Criterion 1 and Criterion 2 are not independent but are positively\nrelated. How many stocks should pass Hixon’s two screens?",
+        "image": "",
+        "options": {
+            "A": "A.Less than 25",
+            "B": "B.25",
+            "C": "C.More than 25"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Let event A be a stock passing the first screen (Criterion 1) and\nevent B be a stock passing the second screen (Criterion 2). The probability of passing each\nscreen is P(A) = 0.50 and P(B) = 0.50. If the two criteria are independent, the joint\nprobability of passing both screens is P(AB) = P(A)P(B) = 0.50 × 0.50 = 0.25, so 25 out of 100\nstocks would pass both screens. However, the two criteria are positively related, and P(AB) ≠\n0.25. Using the multiplication rule for probabilities, the joint probability of A and B is\nP(AB) = P(A | B) P(B). If the two criteria are not independent, and if P(B) = 0.50, then the\ncontingent probability of P(A | B) is greater than 0.50. So the joint probability of P(AB) =\nP(A | B)P(B) is greater than 0.25. More than 25 stocks should pass the two screens. C正确。假设\n一只股票通过标准1的事件为A，一只股票通过标准2的事件为B，那么通过两个标准的概率=事件AB同时发生的\n概率=P(AB)=P(A)*P(B/A) 因为标准1和标准2的设定是正相关的，那也就意味着当股票通过其中一个标准时\n，再通过另一个标准的概率是增加的，故P(B/A)>P(B)=0.5 所以P(AB)=P(A)*P(B/A)>0.25，因此最后通过两\n个标准的股票数量是大于25的",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Joint Probability, Conditional Probability, Dependence and Dependence Classification",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 54,
+        "question_text": "A two-dimensional rectangular array would be most suitable for organizing a collection of\nraw:",
+        "image": "",
+        "options": {
+            "A": "A.panel data.",
+            "B": "B.time-series data.",
+            "C": "C.cross-sectional data."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Panel data consist of observations through time on one or more\nvariables for multiple observational units. A two-dimensional rectangular array, or data table,\nwould be suitable here as it is comprised of columns to hold the variable（　） for the\nobservational units and rows to hold the observations through time. B is incorrect because a\none-dimensional (not a two-dimensional rectangular) array would be most suitable for organizing\na collection of data of the same data type, such as the time-series data from a single\nvariable. C is incorrect because a one-dimensional (not a two-dimensional rectangular) array\nwould be most suitable for organizing a collection of data of the same data type, such as the\nsame variable for multiple observational units at a given point in time (cross-sectional data).\nA是正确的。面板数据，指的是将时间序列数据（表中列数据）和横截面数据（表中行数据）混合后的数据形\n式。二维矩形阵列或数据表在这里是合适的，因为它由用于保存观测单位变量的列和用于保存随时间变化的\n观测值的行组成。 B和C是不正确的，因为一维（不是二维）数组最适合组织相同数据类型的数据集合，例如\n来自单个变量的时间序列数据。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Panel Data, Time Series Data, Cross-Sectional Data",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 55,
+        "question_text": "Which of the following data types would be classified as being categorical?",
+        "image": "",
+        "options": {
+            "A": "A.Discrete",
+            "B": "B.Nominal",
+            "C": "C.Continuous"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Categorical data (or qualitative data) are values that describe a\nquality or characteristic of a group of observations and therefore can be used as labels to\ndivide a dataset into groups to summarize and visualize. The two types of categorical data are\nnominal data and ordinal data. Nominal data are categorical values that are not amenable to\nbeing organized in a logical order,while ordinal data are categorical values that can be\nlogically ordered or ranked. A is incorrect because discrete data would be classified as\nnumerical data (not categorical data). C is incorrect because continuous data would be\nclassified as numerical data (not categorical data). B是正确的。分类（定性）数据是描述一组观察\n结果的质量或特征的值，可作为标签将数据集分组后进行汇总和可视化操作。分类（定性）数据可以分为名\n义数据和排序数据。名义数据是分类值，并不表示逻辑或者排列顺序，排序数据可对观测值进行排序并分类\n。 A是不正确的，因为离散数据被分类为定量数据（而不是分类数据）。 C是不正确的，因为连续数据被分\n类为定量数据（而不是分类数据）。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Statistical Data Types, Data Classification, Descriptive Statistics",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 56,
+        "question_text": "At a 5% interest rate per year compounded annually, the present value (PV) of a 10-year\nordinary annuity with annual payments of $2,000 is $15,443.47. The PV of a 10-year annuity due\nwith the same interest rate and payments is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$14,708.",
+            "B": "B.$16,216.",
+            "C": "C.$17,443."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The present value of a 10-year annuity (A) due with payments of\n$2,000 at a 5% discount rate is calculated as follows:\nAlternatively, the PV of a 10-year annuity due is simply the PV of the ordinary annuity\nmultiplied by 1.05:\n 原版书的公式比较复杂，如果计算器在手边的话，可以用计算器求解：N=10, I/Y=5, FV=0, PMT=-2,000\n[END] CPT PV=15,443.46986 N=10, I/Y=5, FV=0, PMT=-2,000 [BGN] CPT PV=16,215.64335\n15,443.46986*1.05=16,215.64335 \n ```\n$$\nPV = A \\left[ \\frac{1 - \\frac{1}{(1 + r)^N}}{r} \\right] + 2000\n$$\n\n$$\nPV = 2000 \\left[ \\frac{1 - \\frac{1}{(1 + 0.05)^9}}{0.05} \\right] + 2000\n$$\n\n$$\nPV = 15,443.47 \\times 1.05\n$$\n\n$$\nPV = 16,215.64.\n$$\n```",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Time Value of Money, Present Value Calculations, Annuity Valuation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 57,
+        "question_text": "A fixed-income analyst uses a proprietary model to estimate bankruptcy probabilities for a\ngroup of firms. The model generates probabilities that can take any value between 0 and 1.The\nresulting set of estimated probabilities would most likely be characterized as:",
+        "image": "",
+        "options": {
+            "A": "A.ordinal data.",
+            "B": "B.discrete data.",
+            "C": "C.continuous data."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Continuous data are data that can be measured and can take on any\nnumerical value in a specified range of values. In this case, the analyst is estimating\nbankruptcy probabilities, which can take on any value between 0 and 1. Therefore, the set of\nbankruptcy probabilities estimated by the analyst would likely be characterized as continuous\ndata. A is incorrect because ordinal data are categorical values that can be logically ordered\nor ranked. Therefore, the set of bankruptcy probabilities would not be characterized as ordinal\ndata. B is incorrect because discrete data are numerical values that result from a counting\nprocess, and therefore the data are limited to a finite number of values. The proprietary model\nused can generate probabilities that can take any value between 0 and 1; therefore, the set of\nbankruptcy probabilities would not be characterized as discrete data. C是正确的。连续数据是可以\n测量的数据，可以在指定的值范围内采用任何数值。在这种情况下，分析员正在估计破产概率，它可以取0到\n1之间的任何值。因此，分析师估计的破产概率集可能被描述为连续数据。 A是不正确的，因为排序数据是可\n以逻辑排序或排序的分类数据。因此，破产概率集不会被描述为排序数据。 B是不正确的，因为离散数据是\n由计数过程产生的数值，因此数据仅限于有限数量的值。使用的专有模型生成概率可以取0到1之间的任何值\n，故破产概率集不会被描述为离散数据。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Types of Data, Probability Models, Fixed-Income Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 58,
+        "question_text": "A client requires ￡100,000 one year from now. If the stated annual rate is 2.50% compounded\nweekly, the deposit needed today is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.￡97,500.",
+            "B": "B.￡97,532.",
+            "C": "C.￡97,561."
+        },
+        "answer": "B",
+        "explanation": "B is correct because ￡97,531 represents the present value (PV) of ￡100,000\nreceived one year from today when today’s deposit earns a stated annual rate of 2.50% and\ninterest compounds weekly, as shown in the following equation (where FV is future value):\n \nB正确。 年利率为2.50%，每年按周计息，￡97,531表示一年后收到的这￡100,000钱现值(PV): 方法一\n：PV=FV(1＋rs/m)^(-mN), PV=￡100,000(1＋0.025/52)^(-52)= ￡97,531.58 方法二\n：FV=100,000，N=52，I/Y=2.5/52，PMT=0，CPT PV=-97,531.58 \n $$\nPV = FV_N \\left( 1 + \\frac{r_s}{m} \\right)^{-mN}\n$$\n\n$$\nPV = \u00a3100,000 \\left( 1 + \\frac{0.025}{52} \\right)^{-52}\n$$\n\n$$\nPV = \u00a397,531.58\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Time Value of Money, Interest Rate Compounding, Present Value Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 59,
+        "question_text": "A line chart with two variables—for example, revenues and earnings per share—is best\nsuited for visualizing:",
+        "image": "",
+        "options": {
+            "A": "A.the joint variation in the variables.",
+            "B": "B.underlying trends in the variables over time.",
+            "C": "C.the degree of correlation between the variables."
+        },
+        "answer": "B",
+        "explanation": "B is correct. An important benefit of a line chart is that it facilitates showing\nchanges in the data and underlying trends in a clear and concise way. Often a line chart is\nused to display the changes in data series over time. A is incorrect because a scatter plot,\nnot a line chart, is used to visualize the joint variation in two numerical variables. C is\nincorrect because a heat map, not a line chart, is used to visualize the values of joint\nfrequencies among categorical variables. 折线图的一个重要优点是，它有助于以清晰简洁的方式显示数\n据的变化和基本趋势。通常使用折线图来显示数据序列随时间的变化。A是不正确的，散点图用于显示两个数\n值变量的联合变化。C是不正确的，热力图用于反映可视化分类变量之间的联合频率值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Data Visualization, Trend Analysis, Time Series Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 60,
+        "question_text": "The following exhibit shows the annual returns for Fund Y.\nThe geometric mean return for Fund Y is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.14.9%.",
+            "B": "B.15.6%.",
+            "C": "C.19.5%."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The geometric mean return for Fund Y is found as follows:Fund Y =\n[(1＋0.195) × (1 – 0.019) × (1 ＋ 0.197) × (1 ＋ 0.350) × (1 ＋0.057)]^(1/5) – 1= 14.9%.\n： A正确。基金Y的几何平均收益率为: Fund Y = [(1＋ 0.195)×(1 - 0.019)×(1＋ 0.197)×(1＋\n0.350)×(1＋ 0.057)]^(1/5) - 1 = 14.9%。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Geometric Mean Return, Annual Returns, Return Calculations",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 61,
+        "question_text": "A bank quotes a stated annual interest rate of 4.00%. If that rate is equal to an effective\nannual rate of 4.08%, then the bank is compounding interest:",
+        "image": "",
+        "options": {
+            "A": "A.daily.",
+            "B": "B.quarterly.",
+            "C": "C.semiannually."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The effective annual rate (EAR) when compounded daily is 4.08%.\n \nA正确。 方法一：已知每年计息为“以日计息”，名义年利率为4%，运用effective annual rate (EAR)求解\n公式， EAR = (1＋Periodic interest rate)^m – 1=(1＋ 0.04/365)^365 – 1 = (1.0408) –1 =\n0.04081 ≈ 4.08%. 方法二：BAII Plus计算器，2ND＋2页面下，2ND＋CE/C清楚历史记录\n，NOM=4，C/Y=365，CPT EFF=4.08 \n $$\nEAR = (1 + \\text{Periodic interest rate})^m - 1\n$$\n\n$$\nEAR = (1 + 0.04/365)^{365} - 1\n$$\n\n$$\nEAR = (1.0408) - 1 = 0.04081 \\approx 4.08\\%\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest Rate Compounding, Effective Annual Rate (EAR), Financial Calculations Using Calculator",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 62,
+        "question_text": "From an approved list of 25 funds, a portfolio manager wants to rank 4 mutual funds from\nmost recommended to least recommended. Which formula is most appropriate to calculate the\nnumber of possible ways the funds could be ranked?",
+        "image": "",
+        "options": {
+            "A": "A.Permutation formula",
+            "B": "B.Multinomial formula",
+            "C": "C.Combination formula"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The permutation formula is used to choose r objects from a total\nof n objects when order matters. Because the portfolio manager is trying to rank the four funds\nfrom most recommended to least recommended, the order of the funds matters; therefore, the\npermutation formula is most appropriate. ： A正确。 当顺序重要时，用排列公式从n个对象中选择r个\n对象。由于投资组合经理试图将这四只基金从“推荐最多”排序为“推荐最少”，因此基金的顺序很重要;因\n此，排列公式是最合适的。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Permutations, Combinatorics, Portfolio Management",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 63,
+        "question_text": "A client invests €20,000 in a four-year certificate of deposit (CD) that annually pays\ninterest of 3.5%. The annual CD interest payments are automatically reinvested in a separate\nsavings account at a stated annual interest rate of 2% compounded monthly. At maturity, the\nvalue of the combined asset is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.€21,670.",
+            "B": "B.€22,890.",
+            "C": "C.€22,950."
+        },
+        "answer": "B",
+        "explanation": "B is correct, as the following cash flows show:\nThe first payment grows at 2.0% compounded monthly for three years (where FV is future value):\nThe second payment grows at 2.0% compounded monthly for two years:\nThe third payment grows at 2.0% compounded monthly for one year:\nThe fourth payment is paid at the end of Year 4. Its future value is €700. The sum of all\nfuture value payments is as follows:\n B正确。 方法一：如下现金流所示 这四笔年利率是根据存单3.5%的年利率计算的\n：€20,000*3.5%=€7,000。 第一笔利息€7,000以2.0%名义年率按照每月复利计息，为期三年(其中FV为未\n来价值): FV=€700(1＋0.02/12)^(3×12)=743.25 第二笔利息€7,000以2.0%名义年率按照每月复利计息\n，为期两年: FV=€700(1＋0.02/12)^(2×12)= 728.54 第三笔利息€7,000以2.0%名义年率按照每月复利计\n息，为期一年: FV=€700(1＋0.02/12)^(3×12)=714.13 第四笔利息€7,000在第4年年底支付。它的未来价\n值就是€700。 所有未来价值支付的总和如下:\n€20,000.00＋€743.25＋€728.54＋€714.13＋€700.00=€22,885.92 Or 方法二: 1＋EAR (with a\nstated annual interest rate of 2.0% compounded monthly)=(1＋0.02/12)^12=1.02018436 END model：\nPV=0, PMT=700, I/Y=2.018436, N=4, CPT FV=2,885.92. Total Future value is\n€22,885.925=€2,885.925 €20,000. \n \u20ac20,000 initial deposit\n\n$$\nFVN = \u20ac700 \\left( 1 + \\frac{0.02}{12} \\right)^{3 \\times 12}\n$$\n\n$$\nFVN = 743.25\n$$\n\n$$\nFVN = \u20ac700 \\left( 1 + \\frac{0.02}{12} \\right)^{2 \\times 12}\n$$\n\n$$\nFVN = 728.54\n$$\n\n$$\nFVN = \u20ac700 \\left( 1 + \\frac{0.02}{12} \\right)^{1 \\times 12}\n$$\n\n$$\nFVN = 714.13 \n$$\n\n\u20ac20,000.00 CD\n\n\u20ac743.25 First payment\u2019s $FV$\n\n\u20ac728.54 Second payment\u2019s $FV$\n\n\u20ac714.13 Third payment\u2019s $FV$\n\n\u20ac700.00 Fourth payment\u2019s $FV$\n\n\u20ac22,885.92 Total $FV$\n",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Future Value Calculations, Compounded Interest, Cash Flow Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 64,
+        "question_text": "An investment fund has the return frequency distribution shown in the following exhibit.\nWhich of the following statements is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The relative frequency of the bin “-1.0 to +2.0” is 20%.",
+            "B": "B.The relative frequency of the bin “+2.0 to +5.0” is 23%.",
+            "C": "C.The cumulative relative frequency of the bin “+5.0 to +8.0” is 91.7%."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The relative frequency is the absolute frequency of each bindivided\nby the total number of observations. Here, the relative frequency is calculatedas: (12/60) ×\n100 = 20%. B is incorrect because the relative frequency ofthis bin is (23/60) × 100 = 38.33%.\nC is incorrect because the cumulative relativefrequency of the last bin must equal 100%. A是正\n确的。相对频率，指的是落在某一个区间中数据的占比，即每个区间中的绝对频数除以观测总数。此处，相\n对频率计算为：（12/60）×100=20%。 B是不正确的，这个区间的相对频率为（23/60）×100=38.33%。 C是\n不正确的，最后一个区间的累积相对频率必须等于100%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Frequency Distribution, Relative Frequency, Cumulative Frequency",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 65,
+        "question_text": "Which visualization tool works best to represent unstructured, textual data?",
+        "image": "",
+        "options": {
+            "A": "A.Tree-Map",
+            "B": "B.Scatter plot",
+            "C": "C.Word cloud"
+        },
+        "answer": "C",
+        "explanation": "C is correct. A word cloud, or tag cloud, is a visual device for representing\nunstructured, textual data. It consists of words extracted from text with the size of each word\nbeing proportional to the frequency with which it appears in the given text. A is incorrect\nbecause a tree-map is a graphical tool for displaying and comparing categorical data, not for\nvisualizing unstructured, textual data. B is incorrect because a scatter plot is used to\nvisualize the joint variation in two numerical variables, not for visualizing unstructured,\ntextual data. C是不正确的，词云，用于展示非结构化文本数据。它由从文本中提取的单词组成，每个单词\n的大小与它在给定文本中出现的频率成比例，即字体越大，该词语的出现次数越多，词频越高。A是不正确的\n，树图是用于显示和比较分类数据的图形工具。B是不正确的，散点图用于反映可视化两个数值变量的联合变\n化。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Visualization tools, Unstructured data, Data representation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 66,
+        "question_text": "All else being equal, as the correlation between two assets approaches +1.0, the\ndiversification benefits:",
+        "image": "",
+        "options": {
+            "A": "A.decrease.",
+            "B": "B.stay the same.",
+            "C": "C.increase."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. As the correlation between two assets approaches +1,\ndiversification benefits decrease. In other words, an increasingly positive correlation\nindicates an increasingly strong positive linear relationship and fewer diversification\nbenefits. ： A正确。 当两种资产的相关性趋近于 ＋1时，多元化收益降低。也就是说，正相关越强，说明\n正线性关系越强，多元化收益越少。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio diversification, Correlation, Asset allocation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 67,
+        "question_text": "The annual returns for three portfolios are shown in the following table. Portfolios P and R\nwere created in Year 1, Portfolio Q in Year 2.\nThe median annual return from portfolio creation to year 5 for:",
+        "image": "",
+        "options": {
+            "A": "A.Portfolio P is 4.5%.",
+            "B": "B.Portfolio Q is 4.0%.",
+            "C": "C.Portfolio R is higher than its arithmetic mean annual return."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The median of Portfolio R is 0.8% higher than the mean for\nPortfolio R. ： 三种投资组合的年度收益如表中信息所示。投资组合P和R在第一年创建，投资组合Q在第二\n年创建。问的是2013年投资组合创造的年收益率中位数是多少。C组合R的中位数比组合R的平均值高0.8%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Descriptive Statistics, Portfolio Performance Analysis, Central Tendency",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 68,
+        "question_text": "In a typical year, 5% of all CEOs are fired for “performance” reasons. Assume that CEO\nperformance is judged according to stock performance and that 50% of stocks have above-average\nreturns or “good” performance. Empirically, 30% of all CEOs who were fired had “good”\nperformance. Using Bayes’ formula, what is the probability that a CEO will be fired given\n“good” performance? (Hint, let P(A) be the probability of a CEO being fired, P(B) be the\nprobability of a “good” performance rating, P(B | A) be the likelihood of a “good”\nperformance rating given that the CEO was fired, and P(A | B) be the likelihood of the CEO\nbeing fired given a “good” performance rating.)",
+        "image": "",
+        "options": {
+            "A": "A.1.5%",
+            "B": "B.2.5%",
+            "C": "C.3.0%"
+        },
+        "answer": "C",
+        "explanation": "C is correct. With Bayes’ formula, the probability of the CEO being fired given a\n“good” rating is\nwhere\nP(A) = 0.05 = probability of the CEO being fired\nP(B) = 0.50 = probability of a “good” rating\nP(B | A) = 0.30 = probability of a “good” rating given that the CEO is fired\nWith these estimates, the probability of the CEO being fired given a “good” rating is\n \nAlthough 5% of all CEOs are fired, the probability of being fired given a “good” performance\nrating is 3%.. C正确。题目考察的就是贝叶斯公式的运用。 根据题意可知： CEO被解雇的概率：P(A) =\n0.05 CEO有“好”业绩表现的概率为：P(B) = 0.50 在给定被解雇的前提下CEO有“好”业绩表现的概率为\n：P(B |A) = 0.30 那么，根据贝叶斯公式，在CEO有“好”业绩表现的前提下，被解雇的概率：\n $$\nP(A \\mid B) = \\frac{P(B \\mid A)P(A)}{P(B)}\n$$\n\n$$\nP(A \\mid B) = \\frac{P(B \\mid A)P(A)}{P(B)} = \\frac{0.30}{0.50} \\times 0.05 = 0.03\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bayes' theorem, Conditional probability, Probability theory",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 69,
+        "question_text": "If the sample standard deviation is zero, compare with geometric mean, arithmetic mean is:",
+        "image": "",
+        "options": {
+            "A": "A.Greater.",
+            "B": "B.Smaller.",
+            "C": "C.The same."
+        },
+        "answer": "C",
+        "explanation": "Because the sample standard deviation is zero, there is no difference between\ngeometric mean and arithmetic mean.由于样本标准差为零，几何平均值和算术平均值之间没有差异。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Descriptive statistics, Measures of central tendency, Arithmetic vs geometric mean",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 70,
+        "question_text": "John purchased 60% of the stocks in a portfolio, while Andrew purchased the other 40%. Half\nof John’s stock-picks are considered good, while a fourth of Andrew’s are considered to be\ngood. If a randomly chosen stock is a good one, what is the probability John selected it?",
+        "image": "",
+        "options": {
+            "A": "A.0.40.",
+            "B": "B.0.30.",
+            "C": "C.0.75."
+        },
+        "answer": "C",
+        "explanation": "Using the information of the stock being good, the probability is updated to a\nconditional probability: P(John | good) = P(good and John) / P(good). P(good and John) = P(good\n| John) × P(John) = 0.5 × 0.6 = 0.3. P(good and Andrew) = 0.25 × 0.40 = 0.10. P(good) =\nP(good and John) + P (good and Andrew) = 0.40. P(John | good) = P(good and John) / P(good) =\n0.3 / 0.4 = 0.75. 使用股票将处于良好状态的信息，更新概率后，这是一个条件概率: P(John | good) =\nP(good and John) / P(good) P(good and John) = P(good | John)×P(John) = 0.5×0.6 = 0.3 P(good\nand Andrew) = 0.25×0.40 = 0.10 P(good) = P(good and John) P(good and Andrew) = 0.40 P(John |\ngood) = P(good and John) / P(good) = 0.3 / 0.4 = 0.75",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Conditional Probability, Bayes' Theorem, Portfolio Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 71,
+        "question_text": "An investment of €500,000 today that grows to €800,000 after six years has a stated annual\ninterest rate closest to:",
+        "image": "",
+        "options": {
+            "A": "A.7.5% compounded continuously.",
+            "B": "B.7.7% compounded daily.",
+            "C": "C.8.0% compounded semiannually."
+        },
+        "answer": "C",
+        "explanation": "C is correct, as shown in the following (where FV is future value and PV is present\nvalue):\n \nC正确。 FV=PV*(1＋rs/m)^(m*N) 500,000*(1＋EAR)^6=800,000 求得EAR=8.148375%，选择ABC中EAR与之最\n接近的。 A中EAR=e^7.5%-1=7.7884% BAII Plus计算器，2ND 2页面下，2ND CE/C清楚历史记录，分别求：\nB中的EAR：NOM=7.7，C/Y=365，CPT EFF=8.003331（计算结果没有带%） C中的EAR：NOM=8，C/Y=2，CPT\nEFF=8.16（计算结果没有带%）\n If:\n$$\nFV_N = PV \\left(1 + \\frac{r_s}{m}\\right)^{mN}\n$$\n\nThen:\n$$\n\\left( \\frac{FV_N}{PV} \\right)^{\\frac{1}{mN}} - 1 = \\frac{r_s}{m}\n$$\n\n$$\n\\left( \\frac{800,000}{500,000} \\right)^{\\frac{1}{2 \\times 6}} - 1 = \\frac{r_s}{2}\n$$\n\n$$\nr_s = 0.07988 \\text{ (rounded to 8.0%).}\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Time Value of Money, Interest Rates, Financial Calculations",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 72,
+        "question_text": "The interquartile range is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.13.76.",
+            "B": "B.25.74.",
+            "C": "C.34.51."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The interquartile range is the difference between 114.25 and 79.74,\nwhich is 34.51.interquartile，四分位间距，指的是除去两端的四分之一的数据 ，即第三四分位数和第一\n四分位数之间的差距。根据题目中显示的信息，第三四分位数是114.25，第一四分位数是79.74，那么二者之\n间的差距为：114.25-79.74=34.51。故选项C是正确选项",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Descriptive statistics, Percentiles, Data dispersion",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 73,
+        "question_text": "Which of the following best describes how an analyst would estimate the expected value of a\nfirm under the scenarios of bankruptcy and survivorship? The analyst would use:",
+        "image": "",
+        "options": {
+            "A": "A.the addition rule.",
+            "B": "B.conditional expected values.",
+            "C": "C.the total probability rule for expected value."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The total probability rule for expected value is used to estimate\nan expected value based on mutually exclusive and exhaustive scenarios. ： C正确。 期望值的总概\n率规则用于基于互斥和遍历事件估计期望值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability, Expected Value, Scenario Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 74,
+        "question_text": "A portfolio manager invests €5,000 annually in a security for four years at the prices\nshown in the following exhibit.\nThe average price paid for the security is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.harmonic mean of €76.48.",
+            "B": "B.geometric mean of €77.26.",
+            "C": "C.arithmetic average of €78.00."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The harmonic mean is appropriate for determining the average price\nper unit. It is calculated by summing the reciprocals of the prices, then averaging that sum by\ndividing by the number of prices, then taking the reciprocal of the average: 4/[(1/62.00) +\n(1/76.00) + (1/84.00) + (1/90.00)] = €76.48. ： A正确。调和平均数适用于确定每一单位的平均价格\n。它的计算方法是将价格的倒数相加;然后除以价格的平均数;最后，取平均值的倒数。 4/[(1/62.00)\n(1/76.00) (1/84.00) (1/90.00)] = €76.48.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Harmonic Mean, Price Calculation, Investment Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 75,
+        "question_text": "An analyst gets the following data: 15, 24, 8, 23, 10, 13, 12, 17, 18, 17 and 19. What is\nthe third quartile of this data?",
+        "image": "",
+        "options": {
+            "A": "A.18.",
+            "B": "B.18.25.",
+            "C": "C.19."
+        },
+        "answer": "C",
+        "explanation": "Observers：8 10 12 13 15 17 17 18 19 23 24,\nN=11，\ni.e. the 9th number is 75%， The third quartiles =19.\n\n$$\nL_y = (n+1) \\times (y/100)\n$$\n\n$$\nN = 11,\n$$\n\n$$\nL_y = (11+1) \\times 75\\% = 9\n$$\n\ni.e. the 9th number is 75%, The third quartiles =19.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Descriptive Statistics, Data Analysis, Quantitative Methods",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 76,
+        "question_text": "The following exhibit shows the annual MSCI World Index total returns for a 10-year period.\nFor Year 6–Year 10, the mean absolute deviation of the MSCI World Index total returns is\nclosest to::",
+        "image": "",
+        "options": {
+            "A": "A.10.20%.",
+            "B": "B.12.74%.",
+            "C": "C.16.40%."
+        },
+        "answer": "A",
+        "explanation": "A正确。平均绝对偏差(MAD)运用其公式。 第1列:将年收益相加，除以n，得到算术平均值为\n16.40%。第2栏:计算第1栏中每年回报率与平均值之差的绝对值。对结果求和，然后除以n得到MAD。\n A is correct. The formula for mean absolute deviation (MAD) is \n\n$$\nMAD = \\frac{\\sum_{i=1}^{n} |X_i - \\bar{X}|}{n}\n$$\n\nColumn 1: Sum annual returns and divide by $n$ to find the arithmetic mean ($\\bar{X}$) of 16.40%.\n\nColumn 2: Calculate the absolute value of the difference between each year's return and the mean from Column 1. Sum the results and divide by $n$ to find the MAD.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Descriptive Statistics, Mean Absolute Deviation (MAD), MSCI World Index Total Returns",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 77,
+        "question_text": "A saver deposits the following amounts in an account paying a stated annual rate of 4%,\ncompounded semiannually:\nAt the end of Year 4, the value of the account is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$30,432",
+            "B": "B.$30,447",
+            "C": "C.$31,677"
+        },
+        "answer": "B",
+        "explanation": "B is correct. To solve for the future value of unequal cash flows, compute the\nfuture value of each payment as of Year 4 at the semiannual rate of 2%, and then sum the\nindividual future values, as follows:\n 第一步：求EAR： BAII Plus计算器，2ND＋2页面下，2ND＋CE/C清楚历史记录，NOM=4，C/Y=2，CPT\nEFF=4.04 第二步：分别求4笔现金流： PV=-4,000，N=3，I/Y=4.04，PMT=0，CPT FV=4,504.65 PV=-\n8,000，N=2，I/Y=4.04，PMT=0，CPT FV=8,659.46 PV=-7,000，N=1，I/Y=4.04，PMT=0，CPT FV=7,282.80\nPV=-10,000，N=0，I/Y=4.04，PMT=0，CPT FV=10,000.00 第三步：将4个FV加总得到30,446.91。 视频和对\n比，补充： 两种方式（半年的4%/2和年的EAR）都可以，原因是“PMT=0”，现金流为0，N和I/Y只要匹配\n，按照“年”还是“半年”为单位计算无所谓，结果是相同的。求第一个时间点4000的FV：PV=-\n4,000，N=3，I/Y=4.04，PMT=0，CPT FV=4,504.65PV=-4,000，N=6，I/Y=4/2=2，PMT=0，CPT FV=4,504.65理\n解“匹配”：使用正确的利率需要用到一个“匹配”的思想，意味着现金流发生的时间间隔，对应着利率期\n限，例如按照每一个月发生的CF，我们应该用月利率对CF折现。\n These calculations are shown in the following exhibit:\n\n\\[\n\\begin{array}{cc|cc}\n\\text{Year} & \\text{Return} & \\left| X_i - \\bar{X} \\right| \\\\\n\\hline\n\\text{Year 6} & 30.79\\% & 14.39\\% \\\\\n\\text{Year 7} & 12.34\\% & 4.06\\% \\\\\n\\text{Year 8} & -5.02\\% & 21.42\\% \\\\\n\\text{Year 9} & 16.54\\% & 0.14\\% \\\\\n\\text{Year 10} & 27.37\\% & 10.97\\% \\\\\n\\hline\n\\text{Sum:} & 82.02\\% & \\text{Sum:} & 50.98\\% \\\\\nn & 5 & n & 5 \\\\\n\\bar{X} & 16.40\\% & \\text{MAD:} & 10.20\\%\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{cccc}\n\\text{Year} & \\text{End of Year Deposits (\\$)} & \\text{Factor} & \\text{Future Value (\\$)} \\\\\n\\hline\n1 & 4,000 & (1.02)^6 & 4,504.65 \\\\\n2 & 8,000 & (1.02)^4 & 8,659.46 \\\\\n3 & 7,000 & (1.02)^2 & 7,282.80 \\\\\n4 & 10,000 & (1.02)^0 & 10,000.00 \\\\\n\\hline\n& \\text{Sum =} & & 30,446.91\n\\end{array}\n\\]",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Time Value of Money, Compound Interest, Future Value Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 78,
+        "question_text": "A firm will select two of four vice presidents to be added to the investment committee. How\nmany different groups of two are possible?",
+        "image": "",
+        "options": {
+            "A": "A.6",
+            "B": "B.12",
+            "C": "C.24"
+        },
+        "answer": "A",
+        "explanation": "A is correct. The answer is found using the combination formula\nHere, n = 4 and r = 2, so the answer is 4!/[(4 – 2)!2!] = 24/[(2) × (2)] = 6. This result can\nbe verified by assuming there are four vice presidents, VP1–VP4. The six possible additions to\nthe investment committee are VP1 and VP2, VP1 and VP3, VP1 and VP4, VP2 and VP3, VP2 and VP4,\nand VP3 and VP4.. A正确。 使用组合公式:n = 4 r = 2，所以答案是4!/ ((4 - 2),2 != 24/[(2)×(2)]=\n6。这个结果可以通过假设有四个副总裁来验证，VP1到VP4。 选两个加入到委员会中，那么投资委员会可能\n增加的成员将有以下6种组合，分别是:VP1和VP2、VP1和VP3、VP1和VP4、VP2和VP3、VP2和VP4、VP3和VP4。\n $$\nnC_r = \\binom{n}{r} = \\frac{n!}{(n-r)!r!}\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Combinations, Permutations, Factorials",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 79,
+        "question_text": "When analyzing investment returns, which of the following statements is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The geometric mean will exceed the arithmetic mean for a series with non-zero variance.",
+            "B": "B.The geometric mean measures an investment’s compound rate of growth over multiple periods.",
+            "C": "C.The arithmetic mean accurately estimates an investment’s terminal value over multiple"
+        },
+        "answer": "B",
+        "explanation": "B is correct. The geometric mean compounds the periodic returns of every period,\ngiving the investor a more accurate measure of the terminal value of an investment.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Investment Returns Analysis, Geometric Mean, Investment Performance Measurement",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 80,
+        "question_text": "The nominal risk-free rate is best described as the sum of the real risk-free rate and a\npremium for:",
+        "image": "",
+        "options": {
+            "A": "A.maturity.",
+            "B": "B.liquidity.",
+            "C": "C.expected inflation."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The sum of the real risk-free interest rate and the inflation\npremium is the nominal risk-free rate. ： 实际无风险利率与通货膨胀溢价补偿的和等于名义无风险利\n率。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Real Risk-Free Rate, Inflation Premium, Nominal Risk-Free Rate",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 81,
+        "question_text": "After six months, the growth portfolio that Rayan Khan manages has outperformed its\nbenchmark. Khan states that his odds of beating the benchmark for the year are 3 to 1. If these\nodds are correct, what is the probability that Khan’s portfolio will beat the benchmark for\nthe year?",
+        "image": "",
+        "options": {
+            "A": "A.0.33",
+            "B": "B.0.67",
+            "C": "C.0.75"
+        },
+        "answer": "C",
+        "explanation": "C is correct. The odds for beating the benchmark = P(beating benchmark) / [1\n–P(beating benchmark)].Let P(A) = P(beating benchmark). Odds for beating the benchmark = P(A)\n/ [1 – P(A)].3 = P(A) / [1 – P(A)]Solving for P(A), the probability of beating the benchmark\nis 0.75.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability, Odds, Logit Model",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 82,
+        "question_text": "An investment pays €300 annually for five years, with the first payment occurring today.\nThe present value (PV) of the investment discounted at a 4% annual rate is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.€1,336.",
+            "B": "B.€1,389.",
+            "C": "C.€1,625."
+        },
+        "answer": "B",
+        "explanation": "B is correct, as shown in the following calculation for an annuity (A) due:\n $$\nPV = A \\left[ \\frac{1 - \\frac{1}{(1 + r)^N}}{r} \\right] (1 + r)\n$$\n\nwhere $A = \u20ac300$, $r = 0.04$, and $N = 5$.\n\n$$\nPV = \u20ac300 \\left[ \\frac{1 - \\frac{1}{(1 + .04)^5}}{.04} \\right] (1.04)\n$$\n\n$$\nPV = \u20ac1,388.97, \\text{ or } \\approx \u20ac1,389.\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Time value of money, Discounted cash flow, Annuity due",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 83,
+        "question_text": "An analyst uses a software program to analyze unstructured data—specifically, management’s\nearnings call transcript for one of the companies in her research coverage. The program scans\nthe words in each sentence of the transcript and then classifies the sentences as having\nnegative, neutral, or positive sentiment. The resulting set of sentiment data would most likely\nbe characterized as:",
+        "image": "",
+        "options": {
+            "A": "A.ordinal data.",
+            "B": "B.discrete data.",
+            "C": "C.nominal data."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Ordinal data are categorical values that can be logically ordered or\nranked. In this case, the classification of sentences in the earnings call transcript into\nthree categories (negative, neutral, or positive) describes ordinal data, as the data can be\nlogically ordered from positive to negative. B is incorrect because discrete data are numerical\nvalues that result from a counting process. In this case, the analyst is categorizing sentences\n(i.e., unstructured data) from the earnings call transcript as having negative, neutral, or\npositive sentiment. Thus, these categorical data do not represent discrete data. C is incorrect\nbecause nominal data are categorical values that are not amenable to being organized in a\nlogical order. In this case, the classification of unstructured data (i.e., sentences from the\nearnings call transcript) into three categories (negative, neutral, or positive) describes\nordinal (not nominal) data, as the data can be logically ordered from positive to negative.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Data classification, Sentiment analysis, Ordinal data",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 84,
+        "question_text": "In the step \"stating a decision rule\" in testing a hypothesis, which of the following\nelements must be specified?",
+        "image": "",
+        "options": {
+            "A": "A.Critical value",
+            "B": "B.Power of a test",
+            "C": "C.Value of a test statistic"
+        },
+        "answer": "A",
+        "explanation": "A is correct. The critical value in a decision rule is the rejection point for the\ntest. It is the point with which the test statistic is compared to determine whether to reject\nthe null hypothesis, which is part of the fourth step in hypothesis testing. ： A正确。 临界值\n是决策测试规则中的拒绝点。检验统计量用来决定是否拒绝原假设，这是假设检验的第四步。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Critical value, Decision rule",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 85,
+        "question_text": "All else equal, is specifying a smaller significance level in a hypothesis test likely to\nincrease the probability of a Type I error or Type II error?",
+        "image": "",
+        "options": {
+            "A": "A.Type I error (No) or Type II error (No)",
+            "B": "B.Type I error (No) or Type II error (Yes)",
+            "C": "C.Type I error (Yes) or Type II error (No)"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Specifying a smaller significance level decreases the probability\nof a Type I error (rejecting a true null hypothesis), but increases the probability of a Type\nII error (not rejecting a false null hypothesis). As the level of significance decreases, the\nnull hypothesis is less frequently rejected. ： B正确。 指定一个更小的显著性水平会降低第一类错\n误(拒绝一个真的原假设)的概率，但会增加第二类错误(不拒绝一个假的原假设)的概率。随着显著性水平的\n降低，原假设被拒绝的频率会降低。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Type I and Type II errors, Significance Level",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 86,
+        "question_text": "A report on long-term stock returns focused exclusively on all currently publicly traded\nfirms in an industry is most likely susceptible to:",
+        "image": "",
+        "options": {
+            "A": "A.look-ahead bias.",
+            "B": "B.survivorship bias.",
+            "C": "C.intergenerational data mining."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. A report that uses a current list of stocks does not account for\nfirms that failed, merged, or otherwise disappeared from the public equity market in previous\nyears. As a consequence, the report is biased. This type of bias is known as survivorship bias.\n： B正确。 一份使用当前股票清单制作的报告并不包括前几年倒闭、合并或以其他方式从公开股票市场消失\n的公司。因此，这份报告是有偏见的。这种类型的偏差被称为生存偏差。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Sampling Bias, Survivorship Bias, Equity Markets",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 87,
+        "question_text": "Which of the following statements is correct with respect to the null hypothesis?",
+        "image": "",
+        "options": {
+            "A": "A.It can be stated as “not equal to” provided the alternative hypothesis is stated as “equal\nto.”",
+            "B": "B.Along with the alternative hypothesis, it considers all possible values of the population\nparameter.",
+            "C": "C.In a two-tailed test, it is rejected when evidence supports equality between the hypothesized"
+        },
+        "answer": "B",
+        "explanation": "B is correct. The null hypothesis and the alternative hypothesis are complements of\none another and together are exhaustive; that is, the null and alternative hypotheses combined\nconsider all the possible values of the population parameter. B是正确的。原假设和备择假设是相互\n补充的，一起是详尽的；也就是说，原假设和备择假设结合考虑所有可能的值的人口参数。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Null Hypothesis, Alternative Hypothesis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 88,
+        "question_text": "A Monte Carlo simulation can be used to:",
+        "image": "",
+        "options": {
+            "A": "A.directly provide precise valuations of call options.",
+            "B": "B.simulate a process from historical records of returns.",
+            "C": "C.test the sensitivity of a model to changes in assumptions."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. A characteristic feature of Monte Carlo simulation is the\ngeneration of a large number of random samples from a specified probability distribution or\ndistributions to represent the role of risk in the system. ： C正确。 蒙特卡罗模拟的一个特征是\n从一个指定的概率分布或分布中产生大量的随机样本来代表风险在系统中的作用。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monte Carlo simulation, Probability distribution, Risk analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 89,
+        "question_text": "Which parameter equals zero in a normal distribution?",
+        "image": "",
+        "options": {
+            "A": "A.Kurtosis",
+            "B": "B.Skewness",
+            "C": "C.Standard deviation"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. A normal distribution has a skewness of zero (it is symmetrical\naround the mean). A non-zero skewness implies asymmetry in a distribution. ： B正确。 正态分布\n的偏度为零(它是围绕均值对称的)，当偏度不等于0时意味着分布不对称。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Normal distribution, Skewness, Symmetry in financial distributions",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 90,
+        "question_text": "The power of a hypothesis test is:",
+        "image": "",
+        "options": {
+            "A": "A.equivalent to the level of significance.",
+            "B": "B.the probability of not making a Type II error.",
+            "C": "C.unchanged by increasing a small sample size."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The power of a hypothesis test is the probability of correctly\nrejecting the null when it is false. Failing to reject the null when it is false is a Type II\nerror. Thus, the power of a hypothesis test is the probability of not committing a Type II\nerror. ： B正确。 假设检验的Power of a test是指：当原假设为假时，拒绝原假设的概率。如果原假设为\n假，不能拒绝它，这属于第二类错误。因此，Power of a test相当于是不犯第二类错误的概率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Type II error, Power of a test",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 92,
+        "question_text": "Which of the following represents a correct statement about the p-value?",
+        "image": "",
+        "options": {
+            "A": "A.The p-value offers less precise information than does the rejection points approach.",
+            "B": "B.A larger p-value provides stronger evidence in support of the alternative hypothesis.",
+            "C": "C.A p-value less than the specified level of significance leads to rejection of the null"
+        },
+        "answer": "C",
+        "explanation": "The p-value is the smallest level of significance at which the null hypothesis can\nbe rejected for a given value of the test statistic. The null hypothesis is rejected when the\np-value is less than the specified significance level.p值是给定检验统计量的值后，可以拒绝零假设\n的最小显著性水平。当p值小于指定的显著性水平时，拒绝原假设。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, P-value Interpretation, Significance Level",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 93,
+        "question_text": "A chi-square test is most appropriate for tests concerning:",
+        "image": "",
+        "options": {
+            "A": "A.a single variance.",
+            "B": "B.differences between two population means with variances assumed to be equal.",
+            "C": "C.differences between two population means with variances assumed to not be equal."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. A chi-square test is used for tests concerning the variance of a\nsingle normally distributed population. ： A正确。 卡方检验用于检验单个正态分布总体的方差。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Statistical Methods, Hypothesis Testing, Probability Theory",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 94,
+        "question_text": "An analyst is researching the relationship between corporate earnings growthand stock\nreturns. Specifically, she is interested in whether earnings revisionsaffect stock price\nreturns in the same period. She collects five years of monthlydata on “Wall Street” EPS\nrevisions for a sample of 100 companies and on theirmonthly stock price returns over the five-\nyearperiod.What are the dependent and independent variables in her model?",
+        "image": "",
+        "options": {
+            "A": "A.The dependent variable is monthly stock price returns, and the independent variable is Wall\nStreet EPS revisions.",
+            "B": "B.The dependent variable is Wall Street EPS revisions, and the independent variable is monthly\nstock price returns.",
+            "C": "C.The dependent variable and the independent variable can switch positions."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The dependent variable is monthly stock price returns, and the\nindependentvariable is Wall Street EPS revisions, since in the analyst’s model, the variation\ninmonthly stock price returns is being explained by the variation in EPS revisions.A是正确的。\n因变量是月度股价回报，自变量是每股收益",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Dependent and independent variables, Earnings revisions impact, Stock price returns",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 95,
+        "question_text": "The value of the cumulative distribution function F(x), where x is a particular outcome, for\na discrete uniform distribution:",
+        "image": "",
+        "options": {
+            "A": "A.sums to 1.",
+            "B": "B.lies between 0 and 1.",
+            "C": "C.decreases as x increases."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The value of the cumulative distribution function lies between 0 and\n1 for any x: 0 ≤ F(x) ≤ 1. ： B正确。 对于任意x: 0≤F(x)≤1，累积分布函数值在0和1之间。 补充\n： 本题考的是离散型均匀分布的累积概率值。概率分布函数F(x)：给出取值小于某个值的概率，是概率的累\n加形式，即：F(xi)=P(x<=xi)=sum(P(x1),P(x2),……,P(xi))（对于离散型变量）掷骰子x的取值范围是\n123456这六个数字F(3)=P(x<=3)=sum(P(1),P(2),P(3)=1/6＋ 1/6＋ 1/6=1/2概率密度函数f(x)：取特定一个\n值的概率f(xi)=f(3)=1/3所以有sum f(xi)=1在掷骰子的例子中，取到123456这6个数字的概率和为100%=1但\n是F(1)=P(x<=1)=1/6F(2)=P(x<=2)=1/6＋ 1/6=1/3...F(6)=P(x<=6)=1/6＋ 1/6 ＋1/6＋ 1/6＋ 1/6＋\n1/6=1sum F(xi)不等于1",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Discrete Uniform Distribution, Cumulative Distribution Function (CDF), Probability Theory",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 96,
+        "question_text": "An analyst wants to forecast the company’s net profit margin (NPM) based on its research\nand development expenditures scaled by revenues (RDR), using the model provided in following\nExhibit.\nThe regression model was estimated using data on eight companies as:\nwith a standard error of the estimate (s<sub>e</sub>) of 1.8618987 and variance of RDR,\n, of 4.285714, as given.What is the standard error of the forecast (sf) if the forecasted value\nof RDR is 5?",
+        "image": "",
+        "options": {
+            "A": "A.2.1499.",
+            "B": "B.15.2608.",
+            "C": "C.3 2249."
+        },
+        "answer": "A",
+        "explanation": "To derive the standard error of the forecast (s<sub>f</sub>), we first have to\ncalculate the variation of RDR. Then, we have the all the pieces to calculate s<sub>f:</sub>\n 题目中告诉我们，standard error of the estimate，也就是SEE =se= 1.8618987 根据基础班讲义中的\nSf的公式，如下图，因此，只需要计算出根号部分的数值后，带入SEE即可求出Sf 题目中还告诉了variance\nof RDR=[∑(Xi－X拔 )^2 ]/(n-1)=4.285714，n=8，因此可以得出：∑(Xi－X拔 )^2=4.285714×7=30所以\nSf=1.8618987×根号下（1＋1/8＋(5-7.5)^2/30）=1.8618987×1.154701=2.149936 \n ```\nExhibit 9    Details of Calculation of Slope of NPM Regressed on RDR\n\n\\begin{array}{ccccccccc}\n\\hline\n\\text{Company} & \\text{NPM} & \\text{RDR} & (Y_i - \\bar{Y}) & (X_i - \\bar{X}) & (Y_i - \\bar{Y})^2 & (X_i - \\bar{X})^2 & (X_i - \\bar{X})(Y_i - \\bar{Y}) \\\\\n               & (\\%) (Y_i) &  (\\%) (X_i)\\\\\n \\hline\n  1 & 4 & 8 & -2.8 & 0.5 & 7.5625 & 0.25 & -1.375 \\\\\n  2 & 6 & 10 &  -1.8 & 2.5 & 3.0625 & 6.25 & -4.375 \\\\\n  3 & 10 & 6 & 3.3 & -1.5 & 10.5625 & 2.25 & -4.875 \\\\\n  4 & 9 & 5 & 2.3 & -2.5 & 5.0625 & 6.25 & -5.625 \\\\\n  5 & 5 & 7 & -1.8 & -0.5 & 3.0625 & 0.25 & 0.875 \\\\\n  6 & 4 & 6 & -2.8 & -1.5 & 7.5625 & 2.25 & 4.125 \\\\\n  7 & 12 & 5.3 & 5.3 & -2.2 & 27.5625 & 6.25 & -13.125 \\\\\n  8 & 3 & 10 & -3.8 & 2.5 & 14.0625 & 6.25 & -9.375 \\\\\n  \\hline\n  \\text{Sum} & 54.0 & 60.0 & 0.0 & 0.0 & 71.5000 & 30.00 & -39.0 \\\\\n  \\text{Average} & 6.75 & 7.5\\\\\n  \\hline\n\\end{array}\n\n$$\n\\sum_{i=1}^{n} (X_i - \\bar{X})^2 = 4.285714 \\times 7 = 30.\n$$\n\n$$\ns_f = 1.8618987 \\sqrt{1 + \\frac{1}{8} + \\frac{(5 - 7.5)^2}{30}} = 2.1499.\n$$\n```",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Statistical Analysis, Regression Analysis, Forecasting",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 97,
+        "question_text": "The best approach for creating a stratified random sample of a population involves:",
+        "image": "",
+        "options": {
+            "A": "A.drawing an equal number of simple random samples from each subpopulation.",
+            "B": "B.selecting every kth member of the population until the desired sample size is reached.",
+            "C": "C.drawing simple random samples from each subpopulation in sizes proportional to the relative"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Stratified random sampling involves dividing a population into\nsubpopulations based on one or more classification criteria. Then, simple random samples are\ndrawn from each subpopulation in sizes proportional to the relative size of each subpopulation.\nThese samples are then pooled to form a stratified random sample.C是正确的。分层随机抽样包括根\n据一个或多个分类标准将一个群体划分为若干子群体。然后，从每个子群体中抽取与每个子群体的相对大小\n成比例的简单随机样本。然后将这些样本合并形成分层随机样本。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Sampling methods, Population stratification, Random sampling",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 98,
+        "question_text": "A pooled estimator is used when testing a hypothesis concerning the:",
+        "image": "",
+        "options": {
+            "A": "A.equality of the variances of two normally distributed populations.",
+            "B": "B.difference between the means of two at least approximately normally distributed populations\nwith unknown but assumed equal variances.",
+            "C": "C.difference between the means of two at least approximately normally distributed populations"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The assumption that the variances are equal allows for the\ncombining of both samples to obtain a pooled estimate of the common variance. ： B正确。 方差相\n等的假设允许两个样本的组合以获得共同方差的综合估计量。 补充如图信息，Sp的平方就是pooled\nestimator（综合估计量），是在： 1.检验两个正太分布的总体均值是否相等 2.其中总体方差未知但是假定\n相等 这两个条件下使用的",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Statistical estimation, Variance analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 99,
+        "question_text": "Which of the following assets most likely requires the use of a multivariate distribution\nfor modeling returns?",
+        "image": "",
+        "options": {
+            "A": "A.A call option on a bond",
+            "B": "B.A portfolio of technology stocks",
+            "C": "C.A stock in a market index"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Multivariate distributions specify the probabilities for a group\nof related random variables. A portfolio of technology stocks represents a group of related\nassets. Accordingly, statistical interrelationships must be considered, resulting in the need\nto use a multivariate normal distribution. ： B正确。 多元分布指定了一组相关随机变量的概率。科\n技股投资组合代表一组相关资产。因此，必须考虑统计上的相互关系，从而需要使用多元正态分布。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Multivariate distribution, Portfolio modeling, Technology stocks",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 100,
+        "question_text": "Otema Chi has a spreadsheet with 108 monthly returns for shares in Marunou Corporation. He\nwrites a software program that uses bootstrap resampling to create 200 resamples of this\nMarunou data by sampling with replacement. Each resample has 108 data points. Chi’s program\ncalculates the mean of each of the 200 resamples, and then it calculates that the mean of these\n200 resample means is 0.0261. The program subtracts 0.0261 from each of the 200 resample means,\nsquares each of these 200 differences, and adds the squared differences together. The result is\n0.835. The program then calculates an estimate of the standard error of the sample mean. The\nestimated standard error of the sample mean is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.0115",
+            "B": "B.0.0648",
+            "C": "C.0.0883"
+        },
+        "answer": "B",
+        "explanation": "B is correct.The estimate of the standard error of the sample mean with bootstrap\nresampling is calculated as follows:\n B是正确的。 在bootstrapping中，它的步骤是这样的：1.从总体中随机抽取n个数作为样本，把这个样本集\n（sample）视为“（新）总体”；2.从（新）总体中，抽取第一个样本后放回，再抽取第二个再放回，以此\n类推，重复n次；重复抽样形成第一个样本集1（样本容量和新总体相同，均为n）3.不断重复第二步，形成\nB个样本集（样本1，样本2……样本B）；4.计算每一个样本集的均值X拔（共B个），并计算所有B个样本均值\n的均值E(X拔)。5.计算B个样本均值的标准差，即估计量的标准误，公式如下图。 从上述过程看出：从总体\n中抽取得到的sample 当做一个新的总体，那么sample mean就是样本，对样本求标准差，带入的是样本方差\n的计算公式然后开根号即可，计算出的就是题目要求解的答案。故，此时样本平均值的标准误差估计值，带\n入公式计算如下图：\n $$\ns_{\\bar{X}} = \\sqrt{\\frac{1}{B-1} \\sum_{b=1}^{B} (\\hat{,}^{b} - \\bar{,})^2} = \\sqrt{\\frac{1}{200-1} \\sum_{b=1}^{200} (\\hat{,}^{b} - 0.0261)^2} = \\sqrt{\\frac{1}{199} \\times 0.835}\n$$\n\n$$\ns_{\\bar{X}} = 0.0648\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bootstrap Resampling, Standard Error Estimation, Mean Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 101,
+        "question_text": "When making a decision in investments involving a statistically significant result, the:",
+        "image": "",
+        "options": {
+            "A": "A.economic result should be presumed meaningful.",
+            "B": "B.statistical result should take priority over economic considerations.",
+            "C": "C.economic logic for the future relevance of the result should be further explored."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. When a statistically significant result is also economically\nmeaningful, one should further explore the logic of why the result might work in the future. ：\nC正确。 当一个统计上有意义的结果在经济上也有意义时，人们应该进一步探索为什么这个结果在未来可能\n行得通。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Statistical Significance, Economic Significance",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 102,
+        "question_text": "A limitation of Monte Carlo simulation is:",
+        "image": "",
+        "options": {
+            "A": "A.its failure to do “what if” analysis.",
+            "B": "B.that it requires historical records of returns",
+            "C": "C.its inability to independently specify cause-and-effect relationships."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Monte Carlo simulation is a complement to analytical methods.\nMonte Carlo simulation provides statistical estimates and not exact results. Analytical\nmethods, when available, provide more insight into cause-and-effect relationships ： C正确。 蒙\n特卡罗模拟是对分析方法的一种补充，提供统计估计层面的结果，而不是（根据真实数据分析后得出）准确\n的结果。技术分析方法可以更深入地了解因果关系而不是模特卡罗模拟。也就是说蒙特卡洛模拟是通过假设\n某些分布然后进行模拟，不能体现出如回归分中两个变量的关系。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monte Carlo simulation, Analytical methods, Statistical estimates",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 103,
+        "question_text": "The lowest boundary of a normal distribution is:",
+        "image": "",
+        "options": {
+            "A": "A.-1.",
+            "B": "B.-∞.",
+            "C": "C.Zero."
+        },
+        "answer": "B",
+        "explanation": "By definition, a true normal distribution has a positive probability density\nfunction from negative to positive infinity.根据定义，正态分布具有正概率密度函数，其中X的取值范\n围从负无穷到正无穷。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability Theory, Normal Distribution, Statistical Properties",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 104,
+        "question_text": "An analyst tests the profitability of a trading strategy with the null hypothesis being\nthat the average abnormal return before trading costs equals zero. The calculated t-statistic\nis 2.802, with critical values of ± 2.756 at significance level α = 0.01. After considering\ntrading costs, the strategy’s return is near zero. The results are most likely:",
+        "image": "",
+        "options": {
+            "A": "A.statistically but not economically significant.",
+            "B": "B.economically but not statistically significant.",
+            "C": "C.neither statistically nor economically significant."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The hypothesis is a two-tailed formulation. The t-statistic of\n2.802 falls outside the critical rejection points of less than –2.756 and greater than 2.756,\ntherefore the null hypothesis is rejected; the result is statistically significant. However,\ndespite the statistical results, trying to profit on the strategy is not likely to be\neconomically meaningful because the return is near zero after transaction costs ： A正确。 这个\n假设用到了双尾公式。2.802这个t统计量落在小于-2.756且大于2.756的关键拒绝点之外，因此拒绝原假设\n；结果具有统计学意义。然而，尽管有这些统计结果，试图从这一策略中获利在经济上不太可能有意义，因\n为扣除交易成本后，回报率接近于零。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Statistical Significance, Trading Costs",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 105,
+        "question_text": "The probability of correctly rejecting the null hypothesis is the:",
+        "image": "",
+        "options": {
+            "A": "A.p-value.",
+            "B": "B.power of a test.",
+            "C": "C.level of significance."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The power of a test is the probability of rejecting the null\nhypothesis when it is false. ： B正确。 Power of a test是指：当原假设为假时，拒绝原假设的概率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Statistical power, Type II error",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 106,
+        "question_text": "A sample mean is computed from a population with a variance of 2.45. The sample size is 40.\nThe standard error of the sample mean is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.039.",
+            "B": "B.0.247.",
+            "C": "C.0.387."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Taking the square root of the known population variance to determine\nthe population standard deviation (σ) results in:\nThe formula for the standard error of the sample mean (σX), based on a known sample size (n),\nis:\n B正确。 已知的总体方差的平方根来确定总体标准偏差(σ)结果: σ= 2.45^0.5=1.565 样本均值的标准误\n差的公式(σx),基于已知样本大小(n),是: σx=σ/(n^0.5) 因此, σx=1.565/(40^0.5) =0.247 \n $$\n\\sigma = \\sqrt{2.45} = 1.565\n$$\n\n$$\n\\sigma_X = \\frac{\\sigma}{\\sqrt{n}}\n$$\n\nTherefore,\n\n$$\n\\sigma_X = \\frac{1.565}{\\sqrt{40}} = 0.247\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Population Variance, Standard Deviation, Standard Error",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 107,
+        "question_text": "A random number between zero and one is generated according to a continuous uniform\ndistribution. What is the probability that the first number generated will have a value of\nexactly 0.30?",
+        "image": "",
+        "options": {
+            "A": "A.0%",
+            "B": "B.30%",
+            "C": "C.70%"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The probability of generating a random number equal to any fixed\npoint under a continuous uniform distribution is zero. ： A正确。 在连续均匀分布下，产生一个等\n于任意不动点的随机数的概率为零。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Continuous Uniform Distribution, Probability Theory, Random Variables",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 108,
+        "question_text": "A population has a non-normal distribution with mean μ and variance σ^2. The sampling\ndistribution of the sample mean computed from samples of large size from that population will\nhave:",
+        "image": "",
+        "options": {
+            "A": "A.the same distribution as the population distribution.",
+            "B": "B.its mean approximately equal to the population mean.",
+            "C": "C.its variance approximately equal to the population variance."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Given a population described by any probability distribution\n(normal or non-normal) with finite variance, the central limit theorem states that the sampling\ndistribution of the sample mean will be approximately normal, with the mean approximately equal\nto the population mean, when the sample size is large. ： B正确。 用任意存在有限方差的概率分布\n(正态或非正态)描述的总体，中心极限定理认为，当样本容量较大时，样本均值的抽样分布近似正态，其均\n值近似等于总体均值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Central Limit Theorem, Sampling Distribution, Non-Normal Population",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 109,
+        "question_text": "A call option on a stock index is valued using a three-step binomial tree with an up move\nthat equals 1.05 and a down move that equals 0.95. The current level of the index is $190, and\nthe option exercise price is $200. If the option value is positive when the stock price exceeds\nthe exercise price at expiration and $0 otherwise, the number of terminal nodes with a positive\npayoff is:",
+        "image": "",
+        "options": {
+            "A": "A.one.",
+            "B": "B.two.",
+            "C": "C.three."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Only the top node value of $219.9488 exceeds $200.\n A正确。只有顶部节点值$219.9488超过$200。\n ```plaintext\n\\$\n\\$\n\\$190.0000\\$ \\rightarrow \\$199.5000\\$ \\rightarrow \\$209.4750\\$\n                                     \\rightarrow \\$189.5250\\$\n                      \\rightarrow \\$180.5000\\$ \\rightarrow \\$171.4750\\$\n\n\\$\n\\$\n                            \\$190.0000\\$ \\rightarrow \\$199.5000\\$ \\rightarrow \\$209.4750\\$ \\rightarrow \\$219.9488\\$\n                                           \\rightarrow \\$189.5250\\$ \\rightarrow \\$199.0013\\$\n                                                                   \\rightarrow \\$180.0488\\$\n  \\$190.0000\\$ \\rightarrow \\$180.5000\\$ \\rightarrow \\$171.4750\\$ \\rightarrow \\$162.9013\\$\n\\$\n\\$\n```\n",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Binomial Tree Model, Options Pricing, Derivatives",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 110,
+        "question_text": "An analyst is examining a large sample with an unknown population variance. Which of the\nfollowing is the most appropriate test to test the hypothesis that the historical average\nreturn on an index is less than or equal to 6%?",
+        "image": "",
+        "options": {
+            "A": "A.One-tailed t-test",
+            "B": "B.Two-tailed t-test",
+            "C": "C.One-sided chi-square test"
+        },
+        "answer": "A",
+        "explanation": "A is correct. If the population sampled has unknown variance and the sample is\nlarge, a z-test may be used. Hypotheses involving “greater than” or “less than”\npostulations are one sided (one tailed). In this situation, the null and alternative hypotheses\nare stated as H0: μ ≤ 6% and Ha: μ > 6%, respectively. A one-tailed t-test is also\nacceptable in this case, and the rejection region is on the right side of the distribution. ：\nA正确。 如果抽样的总体方差未知且样本较大，则可采用z检验。涉及“大于”或“小于”假设的假设是单面\n的(单侧的)。在这种情况下，原假设和备择假分别是Ho：μ≤6%和Ha：μ> 6%。单尾t检验在这种情况下也是\n可以接受的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Z-Test, T-Test",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 111,
+        "question_text": "Which of the following is characteristic of the normal distribution?",
+        "image": "",
+        "options": {
+            "A": "A.Asymmetry",
+            "B": "B.Kurtosis of 3",
+            "C": "C.Definitive limits or boundaries"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The normal distribution has a skewness of 0, a kurtosis of 3, and\na mean, median and mode that are all equal. ： B正确。 正态分布的偏度为0，峰度为3，均值、中值和\n众数均相等。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Normal distribution properties, Skewness, Kurtosis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 112,
+        "question_text": "In a discrete uniform distribution with 20 potential outcomes of integers 1 to 20, the\nprobability that X is greater than or equal to 3 but less than 6, P(3 ≤ X ＜ 6), is:",
+        "image": "",
+        "options": {
+            "A": "A.0.10.",
+            "B": "B.0.15.",
+            "C": "C.0.20."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The probability of any outcome is 0.05, P(1) = 1/20 = 0.05. The\nprobability that X is greater than or equal to 3 but less than 6, which is expressed as P(3 ≤\nX ＜ 6) = P(3) + P(4) + P(5) = 0.05 + 0.05 + 0.05 = 0.15 B正确。 任何结果的概率都是0.05,P(1) =\n1/20 = 0.05。X大于或等于3但小于6的概率，表示为P(3 ≤X ＜ 6) = P(3)＋P(4)＋P(5) =\n0.05＋0.05＋0.05 = 0.15。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability Distributions, Discrete Uniform Distribution, Basic Probability Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 113,
+        "question_text": "Which of the following statements is correct with respect to the p-value?",
+        "image": "",
+        "options": {
+            "A": "A.It is a less precise measure of test evidence than rejection points.",
+            "B": "B.It is the largest level of significance at which the null hypothesis is rejected.",
+            "C": "C.It can be compared directly with the level of significance in reaching test conclusions."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. When directly comparing the p-value with the level of\nsignificance, it can be used as an alternative to using rejection points to reach conclusions\non hypothesis tests. If the p-value is smaller than the specified level of significance, the\nnull hypothesis is rejected. Otherwise, the null hypothesis is not rejected. ： C正确。 当直接\n比较p值与显著性水平时，它是一种替代方法，在假设检验中运用了拒绝点以便得出结论。如果p值小于指定\n的显著性水平，则拒绝原假设。否则，不拒绝原假设。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "P-value interpretation, Hypothesis testing, Significance level",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 114,
+        "question_text": "Which one of the following statements is true about non-probability sampling?",
+        "image": "",
+        "options": {
+            "A": "A.There is significant risk that the sample is not representative of the population.",
+            "B": "B.Every member of the population has an equal chance of being selected for the sample.",
+            "C": "C.Using judgment guarantees that population subdivisions of interest are represented in the"
+        },
+        "answer": "A",
+        "explanation": "A is correct. Because non-probability sampling is dependent on factors other than\nprobability considerations, such as a sampler’s judgment or the convenience to access data,\nthere is a significant risk that non-probability sampling might generate a non-representative\nsampleA是正确的。由于非概率抽样取决于除概率因素以外的其他因素，如采样器的判断或访问数据的便利性\n，因此存在非概率抽样可能产生非代表性样本的重大风险",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Non-probability sampling, Sampling bias, Risk in data collection",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 115,
+        "question_text": "For a sample size of 65 with a mean of 31 taken from a normally distributed population with\na variance of 529, a 99% confidence interval for the population mean will have a lower limit\nclosest to:",
+        "image": "",
+        "options": {
+            "A": "A.23.64.",
+            "B": "B.25.41.",
+            "C": "C.30.09."
+        },
+        "answer": "A",
+        "explanation": "A is correct. To solve, use the structure of Confidence interval = Point estimate\n± Reliability factor × Standard error, which, for a normally distributed population with\nknown variance, is represented by the following formula:\n A正确。 置信区间=点估计±置信因子×标准误差，对于方差已知的正态分布总体，置信区间为: 样本均值\n±Z(a/2)*σ/(n^0.5) 在99%置信区间下，用z(0.005) = 2.58。 同时,σ= 529^0.5 = 23。 因此，下限=\n31-2.58*23/(65^0.5)=23.6398\n $$\n\\bar{X} \\pm z_{\\alpha/2} \\frac{\\sigma}{\\sqrt{n}}\n$$\n\nFor a 99% confidence interval, use $z_{0.005} = 2.58$.\n\nAlso, $\\sigma = \\sqrt{529} = 23$.\n\nTherefore, the lower limit $= 31 - 2.58 \\frac{23}{\\sqrt{65}} = 23.6398$.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Confidence Interval, Standard Error, Z-Score",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 116,
+        "question_text": "Perkiomen Kinzua, a seasoned auditor, is auditing last year’s transactions for Conemaugh\nCorporation. Unfortunately, Conemaugh had a very large number of transactions last year, and\nKinzua is under a time constraint to finish the audit. He decides to audit only the small\nsubset of the transaction population that is of interest and to use sampling to create that\nsubset. The most appropriate sampling method for Kinzua to use is:",
+        "image": "",
+        "options": {
+            "A": "A.judgmental sampling.",
+            "B": "B.systematic sampling.",
+            "C": "C.convenience sampling."
+        },
+        "answer": "A",
+        "explanation": "A is correct. With judgmental sampling, Kinzua will use his knowledge and\nprofessional judgment as a seasoned auditor to select transactions of interest from the\npopulation. This approach will allow Kinzua to create a sample that is representative of the\npopulation and that will provide sufficient audit coverage. Judgmental sampling is useful in\ncases that have a time constraint or in which the specialty of researchers is critical to\nselect a more representative sample than by using other probability or non-probability sampling\nmethods. Judgement sampling, however, entails the risk that Kinzua is biased in his selections,\nleading to skewed results that are not representative of the whole population.A是正确的。通过判\n断抽样，Kinzua将利用他作为经验丰富的审计师的知识和专业判断，从人群中选择感兴趣的交易。这种方法\n将允许Kinzua创建一个代表总体的样本，并提供足够的审计覆盖率。在有时间限制的情况下，或者研究人员\n的专业对于选择比使用其他概率或非概率抽样方法更具代表性的样本至关重要的情况下，判断抽样是有用的\n。然而，判断抽样带来的风险是，Kinzua在他的选择中存在偏见，导致不代表整个人群的偏斜结果。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Audit Sampling Methods, Judgment Sampling, Audit Risk Management",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 117,
+        "question_text": "A stock is priced at $100.00 and follows a one-period binomial process with an up move that\nequals 1.05 and a down move that equals 0.97. If 1 million Bernoulli trials are conducted, and\nthe average terminal stock price is $102.00, the probability of an up move （　） is closest\nto:",
+        "image": "",
+        "options": {
+            "A": "A.0.375.",
+            "B": "B.0.500.",
+            "C": "C.0.625."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The probability of an up move （　） can be found by solving the\nequation: （　）uS ＋ (1 – p)dS = （　）105 ＋ (1 – p)97 = 102. Solving for p gives 8p = 5,\nso that p = 0.625. C正确。 向上移动（　）的概率可以通过求解下列方程得到:（　）uS＋(1 - p)dS =\n（　）105＋(1 - p)97 = 102。解p得到8p = 5，所以p = 0.625。 题目中描述1mil次伯努利实验后，可以得\n到平均价格102美元，这里指的是通过概率计算出来的平均价格。伯努利事件只有两个结果，结合本题，上涨\n和下跌，我们知道了对应的幅度，可以计算概率p和1-p。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Binomial Process, Probability Calculations, Bernoulli Trials",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 118,
+        "question_text": "Which of the following statements is correct regarding the chi-squaretest ofindependence?",
+        "image": "",
+        "options": {
+            "A": "A.The test has a one-sided rejection region.",
+            "B": "B.The null hypothesis is that the two groups are dependent.",
+            "C": "C.If there are two categories, each with three levels or groups, there are six\\ndegrees of"
+        },
+        "answer": "A",
+        "explanation": "A is correct. The test statistic comprises squared differences between theobserved\nand expected values, so the test involves only one side, the right side.B is incorrect because\nthe null hypothesis is that the groups are independent,and C is incorrect because with three\nlevels of groups for the two categoricalvariables, there are four degrees of freedom.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Chi-Square Test, Degrees of Freedom",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 119,
+        "question_text": "Which of the following statements about hypothesis testing is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The null hypothesis is the condition a researcher hopes to support.",
+            "B": "B.The alternative hypothesis is the proposition considered true without conclusive evidence to\nthe contrary.",
+            "C": "C.The alternative hypothesis exhausts all potential parameter values not accounted for by the"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Together, the null and alternative hypotheses account for all\npossible values of the parameter. Any possible values of the parameter not covered by the null\nmust be covered by the alternative hypothesis (e.g., H0: θ ≤ 5 versus Ha: θ > 5). ： C正确。\n总的来说，原假设和备择假设解释了参数的所有可能值。任何没有被原假设覆盖的参数值都必须被备择假设\n覆盖，例如：(e.g., 原假设: θ ≤ 5 ，备择假设: θ > 5).",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Null Hypothesis, Alternative Hypothesis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 120,
+        "question_text": "For a two-sided confidence interval, an increase in the degree of confidence will result\nin:",
+        "image": "",
+        "options": {
+            "A": "A.a wider confidence interval.",
+            "B": "B.a narrower confidence interval.",
+            "C": "C.no change in the width of the confidence interval."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. As the degree of confidence increases (e.g., from 95% to 99%), a\ngiven confidence interval will become wider. A confidence interval is a range for which one can\nassert with a given probability 1 – α, called the degree of confidence, that it will contain\nthe parameter it is intended to estimate. ： A正确。 随着置信程度的增加(例如，从95%到99%)，给定\n的置信区间将变得更宽。置信区间是一个范围，对应一定的概率1 –α，叫做置信度，它将包含要研究估计\n的参数。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Confidence intervals, Degree of confidence, Interval estimation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 121,
+        "question_text": "Jill Batten is analyzing how the returns on the stock of Stellar Energy Corp. are related\nwith the previous month’s percentage change in the US Consumer Price Index for Energy\n(CPIENG). Based on 248 observations, she has computed the sample correlation between the\nStellar and CPIENG variables to be -0.1452. She also wants to determine whether the sample\ncorrelation is significantly different from zero. The critical value for the test statistic at\nthe 0.05 level of significance is approximately 1.96. Batten should conclude that the\nstatistical relationship between Stellar and CPIENG is:",
+        "image": "",
+        "options": {
+            "A": "A.significant, because the calculated test statistic is outside the bounds of the critical\nvalues for the test statistic.",
+            "B": "B.significant, because the calculated test statistic has a lower absolute value than the\ncritical value for the test statistic.",
+            "C": "C.insignificant, because the calculated test statistic is outside the bounds of the critical"
+        },
+        "answer": "A",
+        "explanation": "A is correct. The calculated test statistic is\nBecause the value of t = －2.30177 is outside the bounds of ±1.96, we reject the null\nhypothesis of no correlation and conclude that there is enough evidence to indicate that the\ncorrelation is different from zero. 计算出检验统计量是： t=[r(n-2)^0.5]/[(1-r^2)]=[-0.1452(248-\n2)^0.5]/{[(1-(-0.1452)^2)]^0.5}=-2.30177 由于t = -2.30177的绝对值大于1.96，故相关系数具有统计学\n意义。\n $$\nt = \\frac{r \\sqrt{n - 2}}{\\sqrt{1 - r^2}}\n$$\n\n$$\n= \\frac{-0.1452 \\sqrt{248 - 2}}{\\sqrt{1 - (-0.1452)^2}} = -2.30177\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Correlation Analysis, Test Statistics",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 122,
+        "question_text": "An analyst develops the following capital market projections.\nAssuming the returns of the asset classes are described by normal distributions, which of the\nfollowing statements is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Bonds have a higher probability of a negative return than stocks.",
+            "B": "B.On average, 99% of stock returns will fall within two standard deviations of the mean.",
+            "C": "C.The probability of a bond return less than or equal to 3% is determined using a Z-score of"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The chance of a negative return falls in the area to the left of\n0% under a standard normal curve. By standardizing the returns and standard deviations of the\ntwo assets, the likelihood of either asset experiencing a negative return may be determined: Z-\nscore (standardized value) = (X – μ)/σ Z-score for a bond return of 0% = (0 – 2)/5 =\n–0.40. Z-score for a stock return of 0% = (0 – 10)/15 = –0.67. For bonds, a 0% return falls\n0.40 standard deviations below the mean return of 2%. In contrast, for stocks, a 0% return\nfalls 0.67 standard deviations below the mean return of 10%. A standard deviation of 0.40 is\nless than a standard deviation of 0.67. Negative returns thus occupy more of the left tail of\nthe bond distribution than the stock distribution. Thus, bonds are more likely than stocks to\nexperience a negative return. ： A正确。 在标准正态曲线下，落在0%左侧的区域代表的是负收益。通过\n标准化两个资产的回报和标准差，资产收益为负回报的可能性可能决定：z分数(标准化值)= (X -μ)/σ 债\n券收益率为0%的z值=(0 - 2)/5 = - 0.40。 股票收益率为0%的z值=(0 - 10)/15 = - 0.67。 对于债券来说\n，0%的回报率比2%的平均回报率低0.40个标准差。相比之下，对于股票来说，0%的回报率比10%的平均回报率\n低0.67个标准差。0.40的标准差小于0.67的标准差。因此，相比于股票，负收益占据了债券左尾更多的分布\n面积。因此，债券比股票更有可能出现负回报。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Normal Distribution, Z-Score, Probability Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 123,
+        "question_text": "On 1 January 2004, the value of an investor's portfolio is $89,000. The investor plans to\ndonate $6,000 to charity organization and pay $2,000 to his insurance account on 31 December\n2004, but meanwhile he does not want the year-end portfolio value to be below $89,000. If the\nexpected return on the existing portfolio is 12% with a variance of 0.0125, the safety-first\nratio that would be used to evaluate the portfolio based on Roy's criterion is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.269.",
+            "B": "B.0.365.",
+            "C": "C.0.471."
+        },
+        "answer": "A",
+        "explanation": "Roy's safety-first criterion states that the optimal portfolio minimizes the\nprobability that the return of the portfolio falls below some minimum acceptable level. This\nminimum acceptable level is called the \"threshold\" level. Symbolically, Roy's safety-first\ncriterion can be stated as: Maximize the SFR where Where:\n \n \n 罗伊第一安全比率指出，最优投资组合将投资组合的回报率降至某个最小可接受水平以下的概率最小化（最\n小化P（R<=RL）。 这个最小可接受的收益率称为“阈值”收益率（RL）。罗伊的安全第一标准可以表述为\n：最大化SFR，其中：\n \n\n$R_p = portfolio \\, return$\n\n$$\nR_L = \\frac{8000}{89000} = 8.99\\%\n$$\n\n$$\nSFR = \\left(\\frac{12\\% - 8.99\\%}{0.0125^{1/2}}\\right) = \\frac{0.0301}{0.1118} = 0.269\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio Risk Management, Roy's Safety-First Criterion, Expected Return Calculation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 124,
+        "question_text": "The level of significance of a hypothesis test is best used to:",
+        "image": "",
+        "options": {
+            "A": "A.calculate the test statistic.",
+            "B": "B.define the test’s rejection points.",
+            "C": "C.specify the probability of a Type II error."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The level of significance is used to establish the rejection\npoints of the hypothesis test. ： B正确。 显著性水平用于建立假设检验的拒绝点。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Significance level, Critical value",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 125,
+        "question_text": "If the probability that a portfolio outperforms its benchmark in any quarter is 0.75, the\nprobability that the portfolio outperforms its benchmark in three or fewer quarters over the\ncourse of a year is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.26",
+            "B": "B.0.42",
+            "C": "C.0.68"
+        },
+        "answer": "C",
+        "explanation": "C is correct. The probability that the performance is at or below the expectation\nis calculated by finding F(3) = p(3) + p(2) + p(1) using the formula:\nTherefore, F(3) = p(3) + p(2) + p(1) + p(0) = 0.42 + 0.20 + 0.06 + 0.004 = 0.684 or\napproximately 68 percent C正确。 这题问：1年中，有小于等于三个季度，股票表现好于市场的概率。1个\n季度两种情况，相当于做了伯努利实验；1年4个季度，相当于4次试验，此时服从二项分布，所以这个就是二\n项分布的计算。包括4种情况，第一，1年中没有任何一个季度股票表现好于市场，P（0）第二，1年中有1个\n季度股票表现高于市场，P（1）第三，1年中有2个季度股票表现高于市场，P（2）第四，1年中有3个季度股\n票表现高于市场，P（3）通过计算F(3) = p(3)＋ p(2)＋p(1) p(0)，可以计算出性能达到或低于预期的概率\n: 解法1： 通过计算F(3) = p(3)＋ p(2)＋p(1) p(0)，可以计算出性能达到或低于预期的概率:\nP(x)=P(X=x)=[n!/(n-x)!x!](p^x)[(1-p)^(n-x)] 使用这个公式, P(3)= [4!/(4-3)!3!](0.75^3)[(1-\n0.75)^(4-3)]=[24/6](0.42)(0.25)=0.42 P(2)= [4!/(4-2)!2!](0.75^2)[(1-0.75)^(4-\n2)]=[24/4](0.56)(0.06)=0.20 P(1)= [4!/(4-1)!1!](0.75^1)[(1-0.75)^(4-1)]=[24/6](0.75)(0.02)=0.06\nP(0)= [4!/(4-0)!0!](0.75^0)[(1-0.75)^(4-0)]=[24/24](1)(0.004)=0.004 因此，F(3) = p(3)＋ p(2)＋\np(1)＋ p(0) = 0.42＋ 0.20＋ 0.06＋ 0.004 = 0.684，约为68%。 解法2： P(4)= [4!/(4-\n4)!4!](0.75^4)[(1-0.75)^(4-4)]=0.31640625 F(3)=1-P(4)=1-0.31640625=0.68359375\n $$\np(x) = P(X = x) = \\binom{n}{x} p^x (1 - p)^{n - x} = \\frac{n!}{(n - x)! x!} p^x (1 - p)^{n - x}\n$$\n\nUsing this formula,\n\n$$\np(3) = \\frac{4!}{(4 - 3)! 3!} 0.75^3 (1 - 0.75)^{4 - 3} = [\\frac{24}{6}](0.42)(0.25) = 0.42\n$$\n\n$$\np(2) = \\frac{4!}{(4 - 2)! 2!} 0.75^2 (1 - 0.75)^{4 - 2} = [\\frac{24}{4}](0.56)(0.06) = 0.20\n$$\n\n$$\np(1) = \\frac{4!}{(4 - 1)! 1!} 0.75^1 (1 - 0.75)^{4 - 1} = [\\frac{24}{6}](0.75)(0.02) = 0.06\n$$\n\n$$\np(0) = \\frac{4!}{(4 - 0)! 0!} 0.75^0 (1 - 0.75)^{4 - 0} = [\\frac{24}{24}](1)(0.004) = 0.004\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability Theory, Binomial Distribution, Portfolio Performance Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 126,
+        "question_text": "The value of a test statistic is best described as the basis for deciding whether to:",
+        "image": "",
+        "options": {
+            "A": "A.reject the null hypothesis.",
+            "B": "B.accept the null hypothesis.",
+            "C": "C.reject the alternative hypothesis."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Calculated using a sample, a test statistic is a quantity whose\nvalue is the basis for deciding whether to reject the null hypothesis. ： A正确。 用样本计算\n，检验统计量是一个值，这个值决定了是否拒绝原假设。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Statistical Inference, Test Statistics",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 127,
+        "question_text": "An analyst is investigating the relationship between the annual growth in consumer spending\n(CONS) in a country and the annual growth in the country’s GDP (GGDP). The analyst estimates\nthe following two models:\nWhich of following statement about the functional form used in these models are correct?",
+        "image": "",
+        "options": {
+            "A": "A.Model 2 is the simple linear regression with no variable transformation, whereas Model 1 is a\nlin-log model with the natural log of the variable CONS as the independent variable.",
+            "B": "B.Model 1 is the simple linear regression with no variable transformation,\\nwhereas Model 2 is\na lin-log\\nmodel with the natural log of the variable\\nCONS as the independent variable.",
+            "C": "C.Model 1 is the simple linear regression with no variable transformation, whereas Model 2 is a"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Model 1 is the simple linear regression with no variable\ntransformation,whereas Model 2 is a lin-logmodel with the natural log of the variableCONS as\nthe independent variable.这道题目说：An analyst is investigating the relationship between the\nannual growth in consumer spending (CONS) in a country and the annual growth in the country’s\nGDP (GGDP). The analyst estimates the following two models:所以GGDP就是因变量Y，CONS是自变量X。\n第一个模型是Y和X直接做回归，所以就属于普通的单元回归(simple linear regression)。而第二个模型是\nY(GGDP）不变，用ln（CONS）作为自变量，也就是用Y和ln X回归，属于Lin-log model。前面的lin表示Y不\n变，-后面的log表示X要取对数。所以这题选b",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Simple linear regression, Lin-log model, Variable transformation",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 128,
+        "question_text": "A portfolio has an expected return of 7% with a standard deviation of 13%. For an investor\nwith a minimum annual return target of 4%, the probability that the portfolio return will fail\nto meet the target is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.33%.",
+            "B": "B.41%.",
+            "C": "C.59%."
+        },
+        "answer": "B",
+        "explanation": "B is correct. There are three steps, which involve standardizing the portfolio\nreturn: First, subtract the portfolio mean return from each side of the inequality: P(Portfolio\nreturn – 7%) ≤ 4% – 7%). Second, divide each side of the inequality by the standard\ndeviation of portfolio return: P[(Portfolio return–7%)/13% ≤ (4% – 7%)/13%] = P(Z ≤\n–0.2308) = N(–0.2308). Third, recognizethat on the left-hand side we have a standard normal\nvariable, denoted by Z and N(–x) = 1 – N(x). Rounding –0.2308 to –0.23 for use with the\ncumulative distribution function (cdf) table, we have N(–0.23) = 1 – N(0.23) = 1 – 0.5910 =\n0.409, approximately 41 percent. The probability that the portfolio will underperform the\ntarget is about 41 percent. B正确。 有三个步骤，涉及到标准化投资组合收益:首先，从不等式的每一边\n减去投资组合平均收益:P(投资组合收益- 7%)≤4% - 7%)。其次，等式两边同时除以投资组合收益的标准差\n:P[(投资组合收益- 7%)/13%≤(4% - 7%)/13%]= P(Z≤- 0.2308)= N(- 0.2308)。第三，在左边我们有一个\n标准正太分布的变量，用Z和N(- x) = 1 - N(x)表示。在使用累积分布函数(cdf)表时，N(- 0.23) = 1 -\nN(0.23) = 1 - 0.5910 = 0.409，约占41%。投资组合表现不佳的可能性约为41%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability theory, Standard normal distribution, Cumulative distribution function (CDF)",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 129,
+        "question_text": "An increase in sample size is most likely to result in a:",
+        "image": "",
+        "options": {
+            "A": "A.wider confidence interval.",
+            "B": "B.decrease in the standard error of the sample mean.",
+            "C": "C.lower likelihood of sampling from more than one population."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. All else being equal, as the sample size increases, the standard\nerror of the sample mean decreases and the width of the confidence interval also decreases. ：\nB正确。 在其他条件相同的情况下，随着样本量的增大，样本均值的标准误差减小，置信区间的宽度也减小\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Statistical Concepts, Confidence Intervals, Sample Size",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 130,
+        "question_text": "A client holding a ￡2,000,000 portfolio wants to withdraw ￡90,000 in one year without\ninvading the principal. According to Roy’s safety-first criterion, which of the following\nportfolio allocations is optimal?",
+        "image": "",
+        "options": {
+            "A": "A.Allocation A",
+            "B": "B.Allocation B",
+            "C": "C.Allocation C"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Allocation B has the highest safety-first ratio. The threshold return\nlevel RL for the portfolio is ￡90,000/￡2,000,000 = 4.5%, thus any return less than RL = 4.5%\nwill invade the portfolio principal. To compute the allocation that is safety-first optimal,\nselect the alternative with the highest ratio:\n B正确。 投资组合B的安全第一比率最高。投资组合的门槛收益率为￡90,000/￡2,000,000 = 4.5%，因此任\n何低于RL = 4.5%的收益率都会影响到投资组合的本金。要计算安全第一的最优配置，选择比率最高的值:\nAllocation A = (6.5-4.5)/8.35= 0.240 Allocation B = (7.5=4.5)/10.21= 0.294 Allocation C = (8.5-\n4.5)/14.34= 0.279 \n $$\n\\frac{E(R_P - R_L)}{\\sigma_P}\n$$\n\nAllocation A = $\\frac{6.5 - 4.5}{8.35} = 0.240$\n\nAllocation B = $\\frac{7.5 - 4.5}{10.21} = 0.294$\n\nAllocation C = $\\frac{8.5 - 4.5}{14.34} = 0.279$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Roy’s Safety-First Criterion, Portfolio Theory, Risk-Return Tradeoff",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 131,
+        "question_text": "Which of the following events can be represented as a Bernoulli trial?",
+        "image": "",
+        "options": {
+            "A": "A.The flip of a coin",
+            "B": "B.The closing price of a stock",
+            "C": "C.The picking of a random integer between 1 and 10"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. A trial, such as a coin flip, will produce one of two outcomes.\nSuch a trial is a Bernoulli trial. ： A正确。 一次试验，比如抛硬币，会产生两种结果中的一种。这\n样的试验是伯努利试验。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Bernoulli trial, Probability theory, Binary outcomes",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 132,
+        "question_text": "Which of the following statements regarding a one-tailed hypothesis test is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The rejection region increases in size as the level of significance becomes smaller.",
+            "B": "B.A one-tailed test more strongly reflects the beliefs of the researcher than a two-tailed\ntest.",
+            "C": "C.The absolute value of the rejection point is larger than that of a two-tailed test at the"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. One-tailed tests in which the alternative is “greater than” or\n“less than” represent the beliefs of the researcher more firmly than a “not equal to”\nalternative hypothesis. ： B正确。 相比于双尾检验，在显著性水平一致的情况下，单尾检验在尾部的显\n著性水平更大，拒绝原假设的概率更大。",
+        "QA type": "The question is a 'knowledge reasoning QA'.",
+        "knowledge topics": "Hypothesis Testing, One-tailed Tests, Significance Levels",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 133,
+        "question_text": "An estimator with an expected value equal to the parameter that it is intended to estimate\nis described as:",
+        "image": "",
+        "options": {
+            "A": "A.efficient.",
+            "B": "B.unbiased.",
+            "C": "C.consistent."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. An unbiased estimator is one for which the expected value equals\nthe parameter it is intended to estimate. ： B正确。 无偏估计量是指期望值等于它要估计的参数的估\n计量。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Statistical estimation, Unbiased estimators, Parameters",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 134,
+        "question_text": "If an estimator is consistent, an increase in sample size will increase the:",
+        "image": "",
+        "options": {
+            "A": "A.accuracy of estimates.",
+            "B": "B.efficiency of the estimator.",
+            "C": "C.unbiasedness of the estimator."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. A consistent estimator is one for which the probability of\nestimates close to the value of the population parameter increases as sample size increases.\nMore specifically, a consistent estimator’s sampling distribution becomes concentrated on the\nvalue of the parameter it is intended to estimate as the sample size approaches infinity. ：\nA正确。 一致估计量是指估计值接近总体参数值的概率随样本量的增大而增大的估计值。更具体地说，当样\n本容量趋近于无穷时，一致估计量的抽样分布将集中于它要估计的参数的值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Consistency of estimators, Sample size, Sampling distribution",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 135,
+        "question_text": "Which of the following statements on p-value is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The p-value indicates the\\nprobability of making a Type II error.",
+            "B": "B.The lower the p-value, the weaker\\nthe evidence for rejecting the H0.",
+            "C": "C.The p-value is the smallest level\\nof significance at which H0 can be rejected."
+        },
+        "answer": "C",
+        "explanation": "： A is correct. The p-value isthe smallest level of significance (α) at which the\nnull hypothesis can berejected. ： A正确。 p值是最小可以拒绝原假设的显著性水平。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Significance level, P-value",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 136,
+        "question_text": "Which of the following is a Type I error?",
+        "image": "",
+        "options": {
+            "A": "A.Rejecting a true null hypothesis",
+            "B": "B.Rejecting a false null hypothesis",
+            "C": "C.Failing to reject a false null hypothesis"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The definition of a Type I error is when a true null hypothesis is\nrejected. ： A正确。 类型I错误的定义是：当原假设为真时，拒绝原假设。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Errors in Decision-Making, Statistical Inference",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 137,
+        "question_text": "X is a discrete random variable with possible outcomes X = {1,2,3,4}. Three functions f(x),\ng(x), and h(x) are proposed to describe the probabilities of the outcomes in X.\nThe conditions for a probability function are satisfied by:",
+        "image": "",
+        "options": {
+            "A": "A.f(x).",
+            "B": "B.g(x).",
+            "C": "C.h(x)."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The function g(x) satisfies the conditions of a probability\nfunction. All of the values of g(x) are between 0 and 1, and the values of g(x) all sum to 1.\n： B正确。 函数g(x)满足概率函数的条件。g(x)的所有值都在0和1之间，g(x)的所有值的和都是1。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Probability distributions, Discrete random variables, Probability function conditions",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 138,
+        "question_text": "Homoskedasticity is best described as the situation in which the variance of the residuals\nof a regression is:",
+        "image": "",
+        "options": {
+            "A": "A.zero.",
+            "B": "B.normally distributed.",
+            "C": "C.constant across observations."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Homoskedasticity is the situation in which the variance of the\nresiduals is constant across the observations.C是正确的。同方差是指残差方差在观测值中保持不变的\n情况。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Regression Analysis, Residuals, Homoskedasticity",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 139,
+        "question_text": "The weekly closing prices of Mordice Corporation shares are as follows:\nThe continuously compounded return of Mordice Corporation shares for the period August 1 to\nAugust 15 is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.6.90%",
+            "B": "B.7.14%",
+            "C": "C.8.95%"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The continuously compounded return of an asset over a period is\nequal to the natural log of period’s change. In this case: ln(120/112) = 6.90% ： A正确。 资产\n在一段时期内的连续复利收益等于期间变化的自然对数。在这种情况下: ln (120/112) = 6.90%\n ```\n\\begin{tabular}{|l|c|}\n\\hline\n\\textbf{Date} & \\textbf{Closing Price (\u20ac)} \\\\\n\\hline\n1 August & 112 \\\\\n8 August & 160 \\\\\n15 August & 120 \\\\\n\\hline\n\\end{tabular}\n```",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Continuously Compounded Returns, Natural Logarithm, Calculation of Returns",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 140,
+        "question_text": "A hypothesis test for a normally-distributed population at a 0.05 significance level\nimplies a:",
+        "image": "",
+        "options": {
+            "A": "A.95% probability of rejecting a true null hypothesis.",
+            "B": "B.95% probability of a Type I error for a two-tailed test.",
+            "C": "C.5% critical value rejection region in a tail of the distribution for a one-tailed test."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. For a one-tailed hypothesis test, there is a 5% critical value\nrejection region in one tail of the distribution. ： C正确。 对于单尾假设检验来说，在这个分布的\n单个尾巴上，有5%的拒绝区域。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Normal distribution, Significance level",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 141,
+        "question_text": "Which of the following represents a correct statement about the p-value?",
+        "image": "",
+        "options": {
+            "A": "A.The p-value offers less precise information than does the rejection points approach.",
+            "B": "B.A larger p-value provides stronger evidence in support of the alternative hypothesis.",
+            "C": "C.A p-value less than the specified level of significance leads to rejection of the null"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The p-value is the smallest level of significance at which the\nnull hypothesis can be rejected for a given value of the test statistic. The null hypothesis is\nrejected when the p-value is less than the specified significance level. ： C正确。 当给定检验\n统计量值，p值是最小可以拒绝原假设的显著性水平。当p值小于指定的显著性水平时，拒绝原假设。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, P-Value Interpretation, Significance Level",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 142,
+        "question_text": "Whichof the following tests of a hypothesis concerning the population mean is\nmostappropriate?",
+        "image": "",
+        "options": {
+            "A": "A.A z-test if the population variance is unknown and the sample is small",
+            "B": "B.A z-test if the population is normally distributed with a known variance",
+            "C": "C.A t-test if the population is non-normally distributed with unknown variance and a small"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The z-test istheoretically the correct test to use in those\nlimited cases when testing thepopulation mean of a normally distributed population with known\nvariance. ： B正确。 理论上，有限情况下，z检验是：检验已知方差的正态分布总体均值时的正确检验，",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, z-test, population mean",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 143,
+        "question_text": "Investor believes that the mean price of houses in the area is greater than $135,000. A\nrandom sample of 25 houses in the area has a mean price of $139,750. The population standard\ndeviation is $24,000, and he wants to conduct a hypothesis test at a 1% level of significance.\nThe value of the calculated test statistic is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.0.67.",
+            "B": "B.0.99.",
+            "C": "C.2.00."
+        },
+        "answer": "B",
+        "explanation": "The test statistic can be calculated without knowing population distirbution: Test\nstatistic=(139750-135000)/(24000/5)=0.99.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hypothesis testing, Test statistics, Significance level",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 144,
+        "question_text": "An investment consultant conducts two independent random samples of five-year performance\ndata for US and European absolute return hedge funds. Noting a return advantage of 50 bps for\nUS managers, the consultant decides to test whether the two means are different from one\nanother at a 0.05 level of significance. The two populations are assumed to be normally\ndistributed with unknown but equal variances. Results of the hypothesis test are contained in\nthe following tables.\nThe results of the hypothesis test indicate that the:",
+        "image": "",
+        "options": {
+            "A": "A.null hypothesis is not rejected.",
+            "B": "B.alternative hypothesis is statistically confirmed.",
+            "C": "C.difference in mean returns is statistically different from zero."
+        },
+        "answer": "A",
+        "explanation": "A is correct.The calculated t-statistic value of 0.4893 falls within the bounds of\nthe critical t-values of ±1.984. Thus, H0 cannot be rejected; the result is not statistically\nsignificant at the 0.05 level. A正确。 0.4893这个t统计量不落在临界值之间的拒绝区域(≤-1.984或>\n1.984)。相反，它落在接受区域之内。因此，Ho不能被拒绝；结果在0.05显著性水平下不显著。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Hypothesis Testing, T-Distribution, Significance Level",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 145,
+        "question_text": "A portfolio manager annually outperforms her benchmark 60% of the time. Assuming\nindependent annual trials, what is the probability that she will outperform her benchmark four\nor more times over the next five years?",
+        "image": "",
+        "options": {
+            "A": "A.0.26",
+            "B": "B.0.34",
+            "C": "C.0.48"
+        },
+        "answer": "B",
+        "explanation": "B is correct. To calculate the probability of 4 years of outperformance, use the\nformula:\n \nUsing this formula to calculate the probability in 4 of 5 years, n = 5, x = 4 and p =\n0.60.Therefore,\nThe probability of outperforming 4 or more times is p(4) + p(5) = 0.2592 + 0.0778 = 0.3370 B正\n确。 要计算4年的均是优越表现的概率，可以使用以下公式: P(x)=P(X=x)=[n!/(n-x)!x!](p^x)[(1-p)^(n-\nx)] 用这个公式计算5年内4次优越的概率，n = 5, x = 4, p = 0.60。 因此, P(4)= [5!/(5-\n4)!4!](0.6^4)[(1-0.6)^(5-4)]=[120/24](0.1296)(0.40)=0.2592 P(5)= [5!/(5-5)!5!](0.6^5)[(1-\n0.6)^(5-5)]=[120/120](0.0778)(1)=0.0778 超过4次或4次以上的概率是p(4)＋p(5) = 0.2592＋ 0.0778 =\n0.3370 补充计算器按键步骤： 以：P(4)= [5!/(5-4)!4!](0.6^4)[(1-0.6)^(5-\n4)]=[120/24](0.1296)(0.40)=0.2592 为例 每个部分依次按（其中“ ”表示两个按键的连接并不是“加号\n”）： 1.5!/(5-4)!4!]：“5” “2ND” “ ” “4” “=”得出5 2.(0.6^4)：“0.6” “yx” “4”得出\n0.12960 3.[(1-0.6)^(5-4)]：“1” “-“ ”0.6” “=” “yx” “1”=0.4 将以上3个部分相乘\n5x0.12960x0.4=0.25920 \n $$\np(x) = P(X = x) = \\binom{n}{x} p^x (1 - p)^{n-x} = \\frac{n!}{(n - x)! x!} p^x (1 - p)^{n-x}\n$$\n\n$$\np(4) = \\frac{5!}{(5 - 4)! 4!} 0.6^4 (1 - 0.6)^{5-4} = [120/24](0.1296)(0.40) = 0.2592\n$$\n\n$$\np(5) = \\frac{5!}{(5 - 5)! 5!} 0.6^5 (1 - 0.6)^{5-5} = [120/120](0.0778)(1) = 0.0778\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability theory, Binomial distribution, Portfolio management",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 146,
+        "question_text": "For a small sample from a normally distributed population with unknown variance, the most\nappropriate test statistic for the mean is the:",
+        "image": "",
+        "options": {
+            "A": "A.z-statistic.",
+            "B": "B.t-statistic.",
+            "C": "C.χ2 statistic."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. A t-statistic isthe most appropriate for hypothesis tests of the\npopulation mean when thevariance is unknown and the sample is small but the population is\nnormallydistributed. ： B正确。当方差未知且样本很小，但总体呈正态分布时，t统计量最适用于总体均\n值的假设检验。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, t-statistic, normal distribution",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 147,
+        "question_text": "A Type II error is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.rejecting a true null hypothesis.",
+            "B": "B.failing to reject a false null hypothesis.",
+            "C": "C.failing to reject a false alternative hypothesis."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. A Type II error occurs when a false null hypothesis is not\nrejected. ： B正确。 当原假设是错误的，没有拒绝原假设，此时发生第二类错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Type I and Type II Errors, Statistical Decision Making",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 148,
+        "question_text": "The following table shows the significance level (α) and the p-value for two hypothesis\ntests.\nIn which test should we reject the null hypothesis?",
+        "image": "",
+        "options": {
+            "A": "A.Test 1 only",
+            "B": "B.Test 2 only",
+            "C": "C.Both Test 1 and Test 2"
+        },
+        "answer": "B",
+        "explanation": "B is correct. The p-value is the smallest level of significance (α) at which the\nnull hypothesis can be rejected. If the p-value is less than α, the null is rejected. In Test\n1, the p-value exceeds the level of significance, whereas in Test 2, the p-value is less than\nthe level of significance.B是正确的。p值是可以拒绝原假设的最小显著性水平（α）。如果p值小于\nα，则拒绝空值。在测试1中，p值超过显著性水平，而在测试2中，p值低于显著性水平。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Significance Level, P-value",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 149,
+        "question_text": "Which of the following is a continuous random variable?",
+        "image": "",
+        "options": {
+            "A": "A.The value of a futures contract quoted in increments of $0.05",
+            "B": "B.The total number of heads recorded in 1 million tosses of a coin",
+            "C": "C.The rate of return on a diversified portfolio of stocks over a three-month period"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The rate of return is a random variable because the future\noutcomes are uncertain, and it is continuous because it can take on an unlimited number of\noutcomes. ： C是正确的。回报率是一个随机变量，因为未来的结果是不确定的，它是连续的，因为它可以\n有无限个结果。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability Theory, Random Variables, Continuous Distributions",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 150,
+        "question_text": "Which one of the following statements about Student’s t-distribution is false?",
+        "image": "",
+        "options": {
+            "A": "A.It is symmetrically distributed around its mean value, like the normal distribution.",
+            "B": "B.It has shorter (i.e., thinner) tails than the normal distribution.",
+            "C": "C.As its degrees of freedom increase, Student’s t-distribution approaches the normal"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Since it is false, student’s t-distribution has longer (fatter)\ntails thanthe normal distribution and, therefore, it may provide a more reliable,\nmoreconservative downside risk estimate. 题目要选择错误的选项： 因为与正态分布相比，t分布的尾部\n是更肥的，因此，它可以提供更可靠、更保守的下行风险估计。故选项B的说法错误的。 故选项B是本题正确\n的选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability Distributions, Risk Estimation, Statistical Analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 151,
+        "question_text": "When evaluating mean differences between two dependent samples, the most appropriate test\nis a:",
+        "image": "",
+        "options": {
+            "A": "A.z-test.",
+            "B": "B.chi-square test.",
+            "C": "C.paired comparisons test."
+        },
+        "answer": "C",
+        "explanation": "C is correct. A paired comparisons test is appropriate to test the mean differences\nof two samples believed to be dependent. C正确。成对数检验适用于检验，被认为是相关的两个样本的\n均值差异。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Paired Comparisons Test, Dependent Samples",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 152,
+        "question_text": "Compared with bootstrap resampling, jackknife resampling:",
+        "image": "",
+        "options": {
+            "A": "A.is done with replacement.",
+            "B": "B.usually requires that the number of repetitions is equal to the sample size.",
+            "C": "C.produces dissimilar results for every run because resamples are randomly drawn."
+        },
+        "answer": "B",
+        "explanation": "B is correct. For a sample of size n, jackknife resampling usually requires n\nrepetitions. In contrast, with bootstrap resampling, we are left to determine how many\nrepetitions are appropriate. B是正确的。对于大小为n的样本，切片法通常需要重复n次。相比之下，使\n用自助法重抽样，我们需要确定适当的重复次数。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Resampling methods, Jackknife resampling, Bootstrap resampling",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 153,
+        "question_text": "A portfolio has an expected mean return of 8 percent and standard deviation of 14 percent.\nThe probability that its return falls between 8 and 11 percent is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.8.3%",
+            "B": "B.14.8%.",
+            "C": "C.58.3%."
+        },
+        "answer": "A",
+        "explanation": "A is correct. P(8% ≤ Portfolio return ≤ 11%) = N(Z corresponding to 11%) –N(Z\ncorresponding to 8%). For the first term, Z = (11% – 8%)/14% = 0.21 approximately, and using\nthe table of cumulative normal distribution given in the problem, N(0.21) = 0.5832. To get the\nsecond term immediately, note that 8 percent is the mean, and for the normal distribution 50\npercent of the probability lies on either side of the mean. Therefore, N(Z corresponding to 8%)\nmust equal 50 percent. So P(8% ≤ Portfolio return ≤ 11%) = 0.5832 – 0.50 = 0.0832 or\napproximately 8.3 percent. A正确。 P(8%≤投资组合收益率≤11%)= N(11%对应的Z值) -N(8%对应的Z值\n)。 对于上面公式中的第一项11%对应的Z值，Z =(11% - 8%)/14%约等于0.21，利用累积正态分布表\n，N(0.21) = 0.5832。 8%是均值，正态分布中，50%的观测值落在均值左侧，另外50%落在均值右侧，因此\n，N(8%均值对应的Z值)一定等于50%。 因此，P(8%≤投资组合收益率≤11%)= 0.5832 - 0.50 = 0.0832或大\n约8.3%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability distributions, Z-score calculations, Normal distribution",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 154,
+        "question_text": "In contrast to normal distributions, lognormal distributions:",
+        "image": "",
+        "options": {
+            "A": "A.are skewed to the left.",
+            "B": "B.have outcomes that cannot be negative.",
+            "C": "C.are more suitable for describing asset returns than asset prices."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. By definition, lognormal random variables cannot have negative\nvalues. ： B正确。 根据定义，对数正态随机变量不能为负值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability distributions, Risk modeling, Statistical analysis",
+        "book label": "level1_数量",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

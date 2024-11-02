@@ -1,0 +1,920 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Two analysts are discussing the costs of external financing sources. The first states that\nthe company’s bonds have a known interest rate but that the interest rate on accounts payable\nand the interest rate on equity financing are not specified. They are implicitly zero. Upon\nhearing this, the second analyst advocates financing the firm with greater amounts of accounts\npayable and common shareholders equity. Is the second analyst correct in his analysis?",
+        "image": "",
+        "options": {
+            "A": "A.He is correct in his analysis of accounts payable only.",
+            "B": "B.He is correct in his analysis of common equity financing only.",
+            "C": "C.He is not correct in his analysis of either accounts payable or equity financing."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Although accounts payable do not charge an explicit interest rate,\nthe cost of accounts payable is reflected in the costs of the services or products purchased\nand in the costs of any discounts not taken. Accounts payable can have a very high implicit\ncost. Similarly, equity financing is not free. A required return is expected on shareholder\nfinancing just as on any other form of financing. C是正确的。虽然应付账款不收取明确的利率，但应\n付账款的成本反映在所购买的服务或产品的成本以及未采取的任何折扣的成本中。应付账款可能有非常高的\n隐含成本。同样，股权融资也不是免费的。股东融资和任何其他形式的融资一样，预期也会获得所需的回报\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cost of capital, Implicit costs, Equity financing",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "Which of the following mature companies is most likely to employ a high proportion of debt in\nits capital structure?",
+        "image": "",
+        "options": {
+            "A": "A.A mining company with a large, fixed asset base",
+            "B": "B.A software company with very stable and predictable revenues and an asset-light business\nmodel",
+            "C": "C.An electric utility"
+        },
+        "answer": "C",
+        "explanation": "C is correct. An electric utility has the capacity to support substantial debt,\nwith very stable and predictable revenues and cash flows. The software company also has these\nattributes, but it would have been much less likely to have raised debt during its development\nand may have raised equity. The mining company has fixed assets, which it would have needed to\nfinance, but the cyclical nature of its business would limit its debt capacity. C是正确的。电力\n公司有能力支持大量债务，收入和现金流非常稳定和可预测。这家软件公司也有这些特点，但它在开发过程\n中举债的可能性要小得多，而且可能已经筹集了股本。这家矿业公司拥有固定资产，需要融资，但其业务的\n周期性将限制其债务能力。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, Debt Capacity, Revenue Stability",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "The cost of debt can be determined using the yield-to-maturity and the bond rating\napproaches. If the bond rating approach is used, the:",
+        "image": "",
+        "options": {
+            "A": "A.coupon is the yield.",
+            "B": "B.yield is based on the interest coverage ratio.",
+            "C": "C.company is rated and the rating can be used to assess the credit default spread of the"
+        },
+        "answer": "C",
+        "explanation": "Answer: C The bond rating approach depends on knowledge of the company's rating and\ncan be compared with yields on bonds in the public market. 这道题目问的是债务成本可以使用\nYTM（到期收益率）和债券评级方法来确定。如采用债券评级方法，则:债券评级方法取决于对公司评级的了\n解，可以与公开市场上的债券收益率进行比较。因此C选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cost of Debt, Bond Rating, Yield-to-Maturity",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Which of the following represents a responsibility of a company’s board of directors?",
+        "image": "",
+        "options": {
+            "A": "A.Implementation of strategy",
+            "B": "B.Enterprise risk management",
+            "C": "C.Considering the interests of shareholders only"
+        },
+        "answer": "B",
+        "explanation": "B is correct. The board typically ensures that the company has an appropriate\nenterprise risk management system in place. 这道题目问的是下列哪项代表公司董事会的责任? 董事会\n通常确保公司有适当的企业风险管理系统。因此B选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Corporate governance, Enterprise risk management, Board of directors' responsibilities",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "SOA Company needs to raise 75 million, in local currency, for substantial new investments\nnext year. Specific details, all in local currency, are as follows: Investments of 10 million\nin receivables and 15 million in inventory. Fixed capital investments of 50 million, including\n10 million to replace depreciated equipment and 40 million of net new investments. Net income\nis expected to be 30 million, and dividend payments will be 12 million.Depreciation charges\nwill be 10 million. Short-term financing from accounts payable of 6 million is expected. The\nfirm will use receivables as collateral for an 8 million loan. The firm will also issue a 14\nmillion short-term note to a commercial bank. Any additional external financing needed can be\nraised from an increase in long-term bonds. If additional financing is not needed, any excess\nfunds will be used to repurchase common shares. What additional financing does SOA require?",
+        "image": "",
+        "options": {
+            "A": "A.SOA will need to issue 19 million of bonds.",
+            "B": "B.SOA will need to issue 26 million of bonds.",
+            "C": "C.SOA can repurchase 2 million of common shares."
+        },
+        "answer": "A",
+        "explanation": "A is correct. SOA must issue 19 million of bonds.\n The firm requires 75 million of financing in local currency terms. Given the planned sources\n(before bond financing or repurchases) total 56 million, SOA will need to issue 19 million of\nnew bonds. 一个是正确的。SOA必须发行1900万张债券。 该公司需要7500万美元的当地货币融资。考虑到计\n划的资金来源(在债券融资或回购之前)总计5600万，SOA将需要发行1900万新债券。\n **Source** | **Amount (local, millions)**\n--- | ---\nAccounts payable | 6\nBank loan against receivables | 8\nShort-term note | 14\nNet income + depreciation – dividends | 28\nTotal sources | 56",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Capital Structure, Financing Decisions, Cash Flow Management",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "6",
+        "question_text": "Fran McClure of Alba Advisers is estimating the cost of capital of Frontier Corporation as\npart of her vaIuation analysis of Frontier. McClure will be using this estimate, along with\nprojected cash flows from Frontier's new projects, to estimate the effect of these new projects\non the value of Frontier. McClure has gathered the following information on Frontier\nCorporation:\nThe weights that McClure should apply in estimating Frontier's cost of capital for debt and\nequity are respectively:",
+        "image": "level1_gong_si_jin_rong_images/6u.PNG",
+        "options": {
+            "A": "A.Wd =0.200; We =0.800.",
+            "B": "B.Wd =0.185; We =0.815.",
+            "C": "C.Wd =0.223; We =0.777."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Wd = $63/($220 + 63) = 0.223 We = $220/($220 + 63) = 0.777 这道题目问的是\nAlba Advisers的麦克卢尔(Fran McClure)正在估算Frontier Corporation的资本成本。麦克卢尔将利用这一\n估计，以及Frontier新项目的预计现金流，来估计这些新项目对Frontier价值的影响。麦克卢尔收集了公司\n的以下信息。问麦克卢尔在估计债务资本成本和股本资本成本时应采用的权重分别为: 在当前和预期的价值\n中，我们选预期价值，账目价值和市场价值中，选市场价值 wd = $63/($220 63) = 0.223 we = $220/($220\n63) = 0.777因此C选项正确",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Capital Structure, Cost of Capital, Valuation Analysis",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "7",
+        "question_text": "Happy Resorts Company currently has 1.2 million common shares of stock outstanding and the\nstock has a beta of 2.2. It also has $10 million face value of bonds that have five years\nremaining to maturity and 8 percent coupon with semi-annual payments, and are priced to yield\n13.65 percent. If Happy issues up to $2.5 million of new bonds, the bonds will be priced at par\nand have a yield of 13.65 percent; if it issues bonds beyond $2.5 million, the expected yield\non the entire issuance will be 16 percent. Happy has learned that it can issue new common stock\nat $10 a share. The current risk-free rate of interest is 3 percent and the expected market\nreturn is 10 percent. Happy's marginal tax rate is 30 percent. If Happy raises $7.5 million of\nnew capital while maintaining the same debt-to-equity ratio, its weighted average cost of\ncapital is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.14.5 percent.",
+            "B": "B.15.5 percent.",
+            "C": "C.16.5 percent."
+        },
+        "answer": "B",
+        "explanation": "Answer: BMarket value of debt: FV = $10,000,000, PMT = $400,000, N = 10, I/Y =\n6.825%. Solving for PV gives the answer $7.999,688.Market value equity: 1.2 million shares\noutstanding at $10 = $12,000,000\n \n \nTo raise $7.5 million of new capital while maintaining the same capital structure, the company\nwould issue $7.5 million x 40% = $3.0 million in bonds, which results in a before-tax rate of\n16 percent.rd(1-t)= 0.16(1-0.3) = 0.112 or 11.2%re = 0.03 2.2 (0.10 - 0.03) = 0.184 or\n18.4%WACC = [0.40(0.112)]＋ [0.6(0.184)]=0.0448 ＋0.1104 =0.1552 or 15.52%\n这道题目问的是Happy公司目前发行了1.2million股普通股，贝塔系数为2.2。该公司还有10million美元票面\n价值的债券，还有五年到期，票面利率为8%，每半年支付一次，收益率为13.65%。如果Happy发行至多\n2.5million美元的新债券，这些债券将按面值定价，收益率为13.65%;如果发行超过2.5million美元的债券\n，整个发行的预期收益率将为16%。Happy已经了解到，它可以以每股10美元的价格发行新的普通股。目前的\n无风险利率为3%，预期市场回报率为10%。Happy的边际税率是30%。如果Happy在保持相同的负债权益比率的\n情况下筹集7.5million美元的新资本，其加权平均资本成本最接近于: 首先要求出公司的资本结构： 债券市\n场价值: FV = $10,000,000, PMT = $400,000, N = 10, I/Y = 6.825%.求解PV:$7,999,688. 股权市场价值:\n1.2 million shares outstanding at $10 = $12,000,000 债券和股票总市值$19,999,688，债券占比\n40%，股票占比60% 为了筹集7.5million美元的新资本，同时保持相同的资本结构，公司将发行7.5×40% =\n3million 美元的债券，其税前收益率为16%。rd(1 - t) = 0.16(1 - 0.3) = 0.112 or 11.2% re = 0.03\n2.2 (0.10 - 0.03) = 0.184 or 18.4% WACC = [0.40(0.112)]＋ [0.6(0.184)] = 0.0448＋ 0.1104 =\n0.1552 or 15.52% 因此B选项正确\n ```\n\\begin{tabular}{ | l | l | l | }\n\\hline\nMarket value of debt & \\$7,999,688 & 40\\% \\\\ \\hline\nMarket value of equity & \\$12,000,000 & 60\\% \\\\ \\hline\nTotal capital & \\$19,999,688 & 100\\% \\\\ \\hline\n\\end{tabular}\n```",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Cost of Debt, Cost of Equity, Weighted Average Cost of Capital (WACC)",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "8",
+        "question_text": "Which of the following is least accurate with respect to debt–equity conflicts?",
+        "image": "",
+        "options": {
+            "A": "A.Equityholders focus on potential upside and downside, while debtholders focus primarily on\ndownside risk.",
+            "B": "B.Management attempts to balance the interests of equityholders and debtholders.",
+            "C": "C.Debt covenants can mitigate the conflict between debtholders and equityholders."
+        },
+        "answer": "B",
+        "explanation": "Management is generally focused on maximizing the value of equity. 管理层通常专注于\n使权益价值最大化。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Corporate Governance, Debt Covenants, Stakeholder Management",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Two years ago, a company issued $20 million in long-term bonds at par value with a coupon\nrate of 9 percent. The company has decided to issue an additional $20 million in bonds and\nexpects the new issue to be priced at par value with a coupon rate of 7 percent. The company\nhas no other debt outstanding and has a tax rate of 40 percent. To compute the company‘s\nweighted average cost of capital, the appropriate after-tax cost of debt is closet to:",
+        "image": "",
+        "options": {
+            "A": "A.4.2%.",
+            "B": "B.4.8%.",
+            "C": "C.5.4%."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The relevant cost is the marginal cost of debt. The before-tax marginal\ncost of debt can be estimated by the yield to maturity on a comparable outstanding. After\nadjusting for tax, the after-tax cost is 7(1 - 0.4)=7(0.6)=4.2%. 这道题目问的是两年前，一家公司\n发行了价值2000万美元的长期债券，票面利率为9%。该公司已决定再发行2,000万美元债券，并预计新发行债\n券的票面利率为7%。该公司没有其他未偿债务，税率为40%。要计算公司的加权平均资本成本，适当的税后债\n务成本最接近:相关成本是债务的边际成本。债务的税前边际成本可由新发债务的到期收益率来估计。税后成\n本为7(1- 0.4)= 7(0.6)= 4.2%。因此A选项正确",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Weighted Average Cost of Capital (WACC), After-Tax Cost of Debt, Marginal Cost of Debt",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "Consider two companies that operate in the same line of business and have the same degree of\noperating leverage: the Basic Company and the Grundlegend Company. The Basic Company and the\nGrundlegend Company have, respectively, no debt and 50 percent debt in their capital structure.\nWhich of the following statements is most accurate? Compared to the Basic Company, the\nGrundlegend Company has:",
+        "image": "",
+        "options": {
+            "A": "A.a lower sensitivity of net income to changes in unit sales.",
+            "B": "B.the same sensitivity of operating income to changes in unit sales.",
+            "C": "C.the same sensitivity of net income to changes in operating income."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Grundlegend’s degree of operating leverage is the same as Basic\nCompany’s, whereas Grundlegend’s degree of total leverage and degree of financial leverage\nare higher. 这道题目问的是考虑两家在同一业务领域运营并且拥有相同经营杠杆的公司:Basic公司和\nGrundlegend公司。Basic公司和Grundlegend公司在他们的资本结构中分别没有债务和50%的债务。下列哪个\n陈述是最准确的?与Basic公司相比，Grundlegend公司有: Grundlegend的经营杠杆水平与Basic公司相同，而\nGrundlegend的总杠杆水平和财务杠杆水平更高。因此B选项正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Operating Leverage, Financial Leverage, Total Leverage",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "Selected liquidity ratios for three firms in the leisure products industry are given in the\ntable below. The most recent fiscal year ratio is shown, along with the average of the previous\nfive years.\n \nRelative to their peers and relative to their own prior performance, which company is in the\nmost liquid position?",
+        "image": "",
+        "options": {
+            "A": "A.Company H",
+            "B": "B.Company J",
+            "C": "C.Company S"
+        },
+        "answer": "A",
+        "explanation": "A is correct. Relative to peers,Company H has the highest set of ratios. Relative\ntohistorical average ratios, Company H’s recent ratios show the greatest increases. The cash\nratio is the mostrelevant for judging liquidity, and Company H’scash ratio is quite high.A是正\n确的。与同行相比，H公司的比率最高。相对于历史平均比率，H公司最近的比率增长幅度最大。现金比率与\n判断流动性最相关，H公司的现金比率相当高。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Ratios, Peer Comparison, Historical Performance",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "The Fulcrum Company produces decorative swivel platforms for home televisions. If Fulcrum\nproduces 40 million units, it estimates that it can sell them for $100 each. Variable\nproduction costs are $65 per unit and fixed production costs are $1.05 billion. Which of the\nfollowing statements is most accurate? Holding all else constant, the Fulcrum Company would:",
+        "image": "level1_gong_si_jin_rong_images/12u.PNG",
+        "options": {
+            "A": "A.generate positive operating income if unit sales were 25 million.",
+            "B": "B.have less operating leverage if fixed production costs were 10 percent greater than $1.05\nbillion.",
+            "C": "C.generate 20 percent more operating income if unit sales were 5 percent greater than 40"
+        },
+        "answer": "C",
+        "explanation": "Because DOL is 4, if unit sales increase by 5 percent, Fulcrum’s operating earnings are\nexpected to increase by 4 × 5% = 20%. The calculation for DOL is:\n \n这道题目问的是Fulcrum公司生产用于家庭电视的装饰性旋转平台。如果Fulcrum生产40million台，它估计每\n台售价100美元。每单位可变生产成本为65美元，固定生产成本为1.5billion美元。下列哪个陈述是最准确的\n?保持其他一切不变，Fulcrum公司会: 由于DOL为4，如果单位销售额增加5%，那么Fulcrum的营业利润预计将\n增加4×5% = 20%。DOL的计算为: 因此C选项正确。\n $$\nDOL = \\frac{(40 \\text{ million}) ( \\$100 - \\$65)}{(40 \\text{ million}) (\\$100 - \\$65) - \\$1.05 \\text{ billion}} = 4\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Operating Leverage, Fixed and Variable Costs, Sales and Profit Relationships",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Which of the following is least likely to be true with respect to agency costs and senior\nmanagement compensation?",
+        "image": "",
+        "options": {
+            "A": "A.Equity-based incentive compensation is the primary method to address the problem of agency\ncosts.",
+            "B": "B.A well-designed compensation scheme should eliminate agency costs.",
+            "C": "C.High cash compensation for senior management, without significant equity-based performance"
+        },
+        "answer": "B",
+        "explanation": "A well-designed management compensation scheme can reduce, but not eliminate,\nagency costs. 一个设计良好的管理层薪酬方案可以降低但不能消除代理成本。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Agency costs, Senior management compensation, Equity-based incentive compensation",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Which of the following statements is most accurate? If two equity issues have the same\nmarket risk but the first issue has higher leverage, greater liquidity, and a higher required\nreturn, the higher required return is most likely the result of the first issue’s:",
+        "image": "",
+        "options": {
+            "A": "A.greater liquidity.",
+            "B": "B.higher leverage.",
+            "C": "C.higher leverage and greater liquidity."
+        },
+        "answer": "B",
+        "explanation": "All else equal, the first issue’s greater liquidity would tend to make its\nrequired return lower than the second issue’s. However, the required return on equity\nincreases as leverage increases. The first issue’s higher required return must result from its\nhigher leverage, more than offsetting the effect of its greater liquidity, given that both\nissues have the same market risk. 在其他条件相同的情况下，第一次发行的流动性更强，其所需回报率\n往往低于第二次发行。然而，所需的股本回报率随着杠杆率的增加而增加。鉴于两次发行具有相同的市场风\n险，第一次发行所需的较高回报必须来自其较高的杠杆率，而不仅仅是抵消了其较高流动性的影响。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Leverage, Market risk, Liquidity",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "According to the static trade-off theory:",
+        "image": "",
+        "options": {
+            "A": "A.debt should be used only as a last resort.",
+            "B": "B.companies have an optimal level of debt.",
+            "C": "C.the capital structure decision is irrelevant."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The static trade-off theory indicates that there is a trade-off\nbetween the tax shield from interest on debt and the costs of financial distress, leading to an\noptimal amount of debt in a company’s capital structure.B是正确的。静态权衡理论表明，在债务利\n息的税收盾牌和财务困境的成本之间存在一种权衡，导致一个公司的资本结构的最优债务数额。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, Static Trade-off Theory, Optimal Debt Level",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Which of the following is an example of agency costs? In each case, management is advocating\na substantial acquisition, and management compensation is comprised heavily of stock options.",
+        "image": "",
+        "options": {
+            "A": "A.Management believes the acquisition will be positive for shareholder value but negative for\nthe value and interests of the company’s debtholders.",
+            "B": "B.Management’s stock options are worthless at the current share price. The acquisition has a\nhigh (50%) risk of failure (with zero value) but substantial (30%) upside if it works out.",
+            "C": "C.The acquisition is positive for equityholders and does not significantly impair the position"
+        },
+        "answer": "B",
+        "explanation": "Management is advocating an acquisition that is likely to be positive for the value\nof the company’s options but negative for equityholders given the substantial risk.A is an\nexample of the debt–equity conflict.C is an example of stakeholder interests that are not\nbeing considered by management. 管理层提倡的收购可能对公司期权价值有利，但对股权持有人不利，因\n为存在重大风险。A是债务-股权冲突的一个例子。C是管理层未考虑的利益相关者利益的一个例子。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Principal-agent problem, Moral hazard, Incentive alignment",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Which of the following statements regarding stakeholder management is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Company management ensures compliance with all applicable laws and regulations.",
+            "B": "B.Directors are excluded from voting on transactions in which they hold material interest.",
+            "C": "C.The use of variable incentive plans in executive remuneration is decreasing."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Often, policies on related-party transactions require that such\ntransactions or matters be voted on by the board (or shareholders), excluding the director\nholding the interest. 这道题目问的是下列关于利益相关者管理的陈述哪一个是最准确的? 通常，有关关\n联方交易的政策要求此类交易或事项由董事会(或股东)投票表决，但利益相关的董事除外。因此B选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Stakeholder management, Corporate governance, Executive compensation",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Wang Securities had a long-term stable debt-to-equity ratio of 0.65. Recent bank borrowing\nfor expansion into South America raised the ratio to 0.75. The increased leverage has what\neffect on the asset beta and equity beta of the company?",
+        "image": "",
+        "options": {
+            "A": "A.The asset beta and the equity beta will both rise.",
+            "B": "B.The asset beta will remain the same and the equity beta will rise.",
+            "C": "C.The asset beta will remain the same and the equity beta will decline."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Asset risk does not change with a higher debt-to-equity ratio. Equity\nrisk rises with higher debt. 、 这道题目问的是W证券的长期稳定负债权益比为0.65。为向南美扩张而借\n入的资金将这一比率提高到了0.75。增加的杠杆对公司的资产贝塔和权益贝塔有什么影响?资产风险不会随着\n更高的负债权益比率而改变，资产贝塔不变；债务越高，股票风险越大，权益贝塔变大。因此B选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital structure, Beta, Leverage",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Which of the following represents a principal–agent conflict between shareholders and\nmanagement?",
+        "image": "",
+        "options": {
+            "A": "A.Risk tolerance",
+            "B": "B.Multiple share classes",
+            "C": "C.Accounting and reporting practices"
+        },
+        "answer": "A",
+        "explanation": "A is correct. Shareholder and manager interests can diverge with respect to risk\ntolerance. In some cases, shareholders with diversified investment portfolios can have a fairly\nhigh risk tolerance because specific company risk can be diver- sified away. Managers are\ntypically more risk averse in their corporate decision making to better protect their\nemployment status. 这道题目问的是下列哪项代表股东与管理层之间的委托代理冲突?在风险承受力方面\n，股东和经理人的利益可能存在分歧。在某些情况下，多元化投资组合的股东可能具有较高的风险承受能力\n，因为特定的公司风险可以分散。在企业决策中，管理者通常更倾向于规避风险，以更好地保护自己的就业\n状况。因此A选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Principal-agent theory, Corporate governance, Risk management",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "Paloma Villarreal has received three suggestions from her staff about how to address her\nfirm’s liquidity problems.Suggestion 1. Reduce the firm’s inventory turnover rate.Suggestion\n2. Reduce the average collection period on accounts receivable.Suggestion 3. Accelerate the\npayments on accounts payable by paying invoices before their due dates.Which suggestion should\nVillarreal employ to improve the firm’s liquidity position?",
+        "image": "",
+        "options": {
+            "A": "A.Suggestion 1",
+            "B": "B.Suggestion 2",
+            "C": "C.Suggestion 3"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Reducing the average collection period would speed up receipts and\nimprove the firm’s liquidity position. The other two suggestions would worsen the firm’s\nliquidity position.B是正确的。缩短平均收款周期将加快收款速度，改善公司的流动性状况。另外两个建\n议会恶化公司的流动性状况。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Working Capital Management, Liquidity Management, Accounts Receivable Management",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "An analyst gathered the following information about a company and the market:\n \nUsing the Capital Asset Pricing Model (CAPM) approach, the cost of retained earnings for the\ncompany is closest to:",
+        "image": "level1_gong_si_jin_rong_images/21u.PNG",
+        "options": {
+            "A": "A.13.6%",
+            "B": "B.15.7%",
+            "C": "C.16.1%"
+        },
+        "answer": "B",
+        "explanation": "Answer: B Using the CAPM approach, 4% 1.3(9%) = 15.7%. 这道题目问的是一位分析师收集\n了一家公司和市场的以下信息，采用资本资产定价模型(CAPM)方法，公司的留存收益成本最接近: 使用\nCAPM方法，4% 1.3(9%) = 15.7%.因此B选项正确",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "CAPM (Capital Asset Pricing Model), Cost of Equity, Financial Analysis",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "22",
+        "question_text": "Which of these statements is most accurate with respect to the use of debt by a start-up\nfashion retailer with negative cash flow and uncertain revenue prospects?",
+        "image": "",
+        "options": {
+            "A": "A.Debt financing will be unavailable or very costly.",
+            "B": "B.The company will prefer to use equity rather than debt given its uncertain cash flow outlook.",
+            "C": "C.Both A and B."
+        },
+        "answer": "C",
+        "explanation": "C is correct. For a start-up company of this nature, debt financing islikely to be\nunattractive to lenders—and therefore very expensive or difficult to obtain. Debt financing is\nalso unappealing to thecompany, because it commits thecompany to interest and principal\npaymentsthat might be difficult to managegiven its uncertain cash flow outlook.C是正确的。对于\n这种性质的初创公司，债务融资可能对贷款人没有吸引力，因此非常昂贵或难以获得。债务融资对该公司也\n不具吸引力，因为鉴于其不确定的现金流前景，债务融资使该公司承担可能难以管理的利息和本金支付。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Debt financing, Cash flow management, Risk assessment",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "Kwam Solutions must raise €120 million. Kwam has two primary sources of liquidity: €60\nmillion of marketable securities (which can be sold with minimal liquidation/brokerage costs)\nand €30 million of bonds (which can be sold with 3% liquidation costs). Kwam can sell some or\nall of either of these portfolios. Kwam has a secondary source of liquidity, which would be to\nsell a large piece of real estate valued at €70 million (which would incur 10% liquidation\ncosts). If Kwam sells the real estate, it must be sold entirely (a fractional sale is not\npossible). What is the lowest cost strategy for raising the needed €120 million?",
+        "image": "",
+        "options": {
+            "A": "A.Sell €60 million of the marketable securities, €30 million of the bonds, and €34.3 million\nof the real estate property.",
+            "B": "B.Sell the real estate property and €50 million of the marketable securities.",
+            "C": "C.Sell the real estate property and €57 million of the marketable securities."
+        },
+        "answer": "C",
+        "explanation": "Kwam must sell theentire real estate property because the two primary\nsources(marketable securities and bonds) will not raise the needed €120 million. A is\nincorrect becauseit assumes a fractional real estate sale. The real estatesale will raise a net\nof €63 million (€70 million minus 10% liquidation expenses). To raise the rest of the\nfundsneeded (€120 million - €63 million = €57million), Kwam can sell €57 million of\nmarketable securities, which have minimal liquidation/brokerage costs.Kwam必须出售整个房地产\n，因为两个主要来源（有价证券和债券）无法筹集所需的1.2亿欧元。A是不正确的，因为它假设了部分房地\n产销售。房地产销售将净筹集6300万欧元（7000万欧元减去10%的清算费用）。为了筹集所需的其余资金\n（1.2亿欧元-6300万欧元=5700万欧元），Kwam可以出售5700万欧元的有价证券，其清算/经纪成本最低。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity management, Marketable securities, Real estate liquidation costs",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Which of the following is true of the growth stage in a company’s development?",
+        "image": "",
+        "options": {
+            "A": "A.Cash flow is negative, by definition, with investment outlays exceeding cash flow from\noperations.",
+            "B": "B.Cash flow may be negative or positive.",
+            "C": "C.Cash flow is positive and growing quickly."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Cash flow typicallyturns positive during the growth stage, but it may\nbenegative, particularly at the beginning of this stage.B是正确的。现金流通常在增长阶段转为正值\n，但也可能为负值，特别是在这一阶段的初期。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Stages of Company Development, Cash Flow Analysis, Corporate Finance",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "According to the pecking order theory:",
+        "image": "",
+        "options": {
+            "A": "A.new debt is preferable to new equity.",
+            "B": "B.new debt is preferable to internally generated funds.",
+            "C": "C.new equity is always preferable to other sources of capital."
+        },
+        "answer": "A",
+        "explanation": "A is correct. According to the pecking order theory, internally generated funds are\npreferable to both new equity and new debt. If internal financing is insufficient, managers\nnext prefer new debt, then new equity. Managers prefer forms of financing with the least amount\nof visibility to outsiders.A是正确的。根据优序理论，内部资金比新股本和新债务更可取。如果内部融\n资不足，经理人接下来会选择发行新债，然后是新股本。经理人更喜欢那些不为外人所知的融资方式。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, Pecking Order Theory, Corporate Finance",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "Brandon Wiene is a financial analyst covering the beverage industry. He is evaluating the\nimpact of DEF Beverage's new product line of flavored waters. DEF currently has a debt-to-\nequity ratio of 0.6. The new product line would be financed with $50 million of debt and $100\nmillion of equity. In estimating the valuation impact of this new product line on DEF's value,\nWiene has estimated the equity beta and asset beta of comparable companies. In calculating the\nequity beta for the product line, Wiene is intending to use DEF's existing capital structure\nwhen converting the asset beta into a project beta. Which of the following statements is\ncorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Using DEF's debt-to-equity ratio of 0.6 is appropriate in calculating the new product line's\nequity beta.",
+            "B": "B.Using DEF's debt-to-equity ratio of 0.6 is not appropriate, but rather the debt-to-equity\nratio of the new product, 0.5, is appropriate to use in calculating the new product line's\nequity beta.",
+            "C": "C.Wiene should use the new debt-to-equity ratio of DEF that would result from the additional"
+        },
+        "answer": "B",
+        "explanation": "Answer: B B is correct. The debt-to-equity ratio of the new product should be used\nwhen making the adjustment from the asset beta, derived from the comparable, to the equity beta\nof the new product. 这道题目问的是布兰登维恩(Brandon Wiene)是一名负责饮料行业的财务分析师。他正\n在评估DEF Beverage的调味水新产品线的影响。DEF目前的负债权益比为0.6。新产品线将由50million美元的\n债务和100million美元的股权融资。在评估这一新产品线对DEF价值的影响时，Wiene评估了可比公司的股票\n贝塔系数和资产贝塔系数。在计算产品线的股权beta时，Wiene打算在将资产beta转换为项目beta时使用\nDEF现有的资本结构。下列哪个陈述是正确的? 要分析 beta值，需要用的资本结构是新产品的负债权益比率\n，应该为50/100=0.5。因此B选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, Equity Beta, Asset Beta",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "Which of the following is least accurate with respect to the market value and book value of\na company’s equity?",
+        "image": "",
+        "options": {
+            "A": "A.Market value is more relevant than book value when measuring a company’s cost of capital.",
+            "B": "B.Book value is often used by lenders and in financial ratio calculations.",
+            "C": "C.Both market value and book value fluctuate with changes in the company’s share price."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Share price changes will cause the market value of the company’s\nequity to change; book value is unaffected. Statements A and B are accurate. C是正确的。股价变\n化将导致公司股权的市场价值发生变化；账面价值不受影响。陈述A和B是准确的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Equity valuation, Cost of capital, Financial ratios",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "SebCoe plc, a British firm, is evaluating an investment in a ￡50 million project that will\nbe financed with 50% debt and 50% equity. Management has already determined that the NPV of\nthis project is ￡5 million if it uses internally generated equity. However, if the company\nuses external equity, it will incur flotation costs of 5.8%. Assuming flotation costs are not\ntax deductible, the NPV using external equity would be:",
+        "image": "",
+        "options": {
+            "A": "A.less than ￡5 million because we would discount the cash flows using a higher weighted\naverage cost of capital that reflects the flotation costs.",
+            "B": "B.￡3.55 million because flotation costs reduce NPV by $1.45 million.",
+            "C": "C.￡5 million because flotation costs have no impact on NPV."
+        },
+        "answer": "B",
+        "explanation": "Since the project will be financed with 50% equity, the company will issue ￡25\nmillion of new stock. The flotation cost of external equity is (0.058 × 25,000,000) =\n1,450,000. The NPV ofthe project using external equityis the NPV using internal equity lessthe\nflotation cost. Adjusting the cost of capital toreflect the flotation cost is not a preferred\nway to account for flotation costs.由于该项目将以50%的股权融资，公司将发行￡2500万股新股。外部\n股权的上市成本为（0.058×25000000）=1450000。使用外部股权的项目净现值是使用内部股权的净现值减去\n浮动成本。调整资本成本以反映浮动成本不是解释浮动成本的首选方法。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Capital Budgeting, Cost of Capital, Flotation Costs",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "Which of the following statements regarding corporate shareholders is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Cross-shareholdings help promote corporate mergers.",
+            "B": "B.Dual-class structures are used to align economic ownership with control.",
+            "C": "C.Affiliated shareholders can protect a company against hostile takeover bids."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The presence of a sizable affiliated stockholder (such as an indi-\nvidual, family trust, endowment, or private equity fund) can shield a company from the effects\nof voting by outside shareholders. 这道题目问的是下列关于公司股东的陈述，哪一项最准确? 大股东\n(如个人、家庭信托、捐赠基金或私募股权基金)的存在可以使公司免受外部股东投票的影响。因此C选项正确",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Corporate Governance, Defensive Strategies, Ownership Structures",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "The Bearing Corp. invests only in positive-NPV projects. Which of the following statements\nis true?",
+        "image": "",
+        "options": {
+            "A": "A.Bearing’s return on invested capital (ROIC) is greater than its cost of capital (COC).",
+            "B": "B.Bearing’s COC is greater than its ROIC.",
+            "C": "C.We can’t reach any conclusions about the relationship between the company’s ROIC and COC."
+        },
+        "answer": "A",
+        "explanation": "lSince all of Bearing’s projects havea positive NPV, they are allproviding areturn\nthat is greater than the opportunity cost of capital. Therefore, the ROIC must be greater than\nthe COC.所有项目都有正的净现值，它们都提供了高于资本机会成本的回报。因此，ROIC必须大于COC。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Budgeting, Return on Invested Capital (ROIC), Cost of Capital (COC)",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "Which of the following is most likely to occur as a company evolves from growth stage\nthrough maturity and seeks to optimize its capital structure?",
+        "image": "",
+        "options": {
+            "A": "A.The company relies on equity to finance its growth.",
+            "B": "B.Leverage increases as the company needs more capital to support organic expansion.",
+            "C": "C.Leverage increases as the company is able to support more debt."
+        },
+        "answer": "C",
+        "explanation": "C is correct. As cash flows become more predictable, the company is able to support\nmore debt in its capital structure; the optimal capital structure includes a higher proportion\nof debt. While mature companies do borrow to support growth, this would typically not occur\nbecause the company is optimizing its capital structure. Likewise, while a mature company might\nissue equity to finance growth, this would not be the typical approach for a company optimizing\nits capital structure. C是正确的。随着现金流变得更加可预测，公司能够在其资本结构中支持更多的债\n务；最优资本结构包括较高比例的债务。虽然成熟公司确实会借钱支持增长，但这通常不会发生，因为该公\n司正在优化其资本结构。类似地，虽然一家成熟的公司可能会发行股票为增长融资，但这不是一家公司优化\n其资本结构的典型方法。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital structure optimization, Leverage, Predictable cash flows",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "Using the dividend discount model, what is the cost of equity capital for Zeller Mining if\nthe company will pay a dividend of C$2.30 next year, has a payout ratio of 30 percent, a return\non equity (ROE) of 15 percent, and a stock price of C$45?",
+        "image": "",
+        "options": {
+            "A": "A.9.61 percent.",
+            "B": "B.10.50 percent.",
+            "C": "C.15.61 percent."
+        },
+        "answer": "C",
+        "explanation": "Answer: C First calculate the growth rate using the sustainable growth calculation,\nand then calculate the cost of equity using the rearranged dividend discount model: g=(1-\nDividend payout ratio)(Return on equity)=(1-0.30)(15%)= 10.5% re=(D1 / P0) ＋g=($2.30 / $45)\n＋10.50%=15.61% 这道题目问的是使用股利折现模型，如果公司明年将支付2.30加元的股利，股利率为\n30%，股本回报率(ROE)为15%，股价为45加元，那么Z矿业的股票融资成本是多少? 首先利用公式计算可持续\n增长率，然后利用股利折现模型计算权益成本: g = (1 – Dividend payout ratio)(Return on equity) =\n(1 – 0.30)(15%) = 10.5% re = (D1/P0)＋ g = ($2.30/$45) ＋ 10.50% = 15.61%因此C选项正确",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Dividend Discount Model, Cost of Equity, Sustainable Growth Rate",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "Whichof the following is least likely tobe true with respect to optimal capital structure?",
+        "image": "",
+        "options": {
+            "A": "A.The optimal capital structure minimizes WACC.",
+            "B": "B.The optimal capital structure is generally close to the target capital structure.",
+            "C": "C.Debt can be a significant portion of the optimal capital structure because of the tax-"
+        },
+        "answer": "B",
+        "explanation": "B is correct. A company’s optimal and target capital structures may be very\ndifferent from one another. B是正确的。一家公司的最优资本结构和目标资本结构可能会有很大的不同。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Optimal Capital Structure, Weighted Average Cost of Capital (WACC), Debt Tax Shield",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "An analyst is examining the cash conversion cycles and their components for three companies\nthat she covers in the leisure products industry. She believes that changes in the investments\nin these working capital accounts can reveal liquidity stresses on a company.\n \nWhich company’s operating cycle appears to have caused the most liquidity stress?",
+        "image": "level1_gong_si_jin_rong_images/34u.PNG",
+        "options": {
+            "A": "A.Company H’s",
+            "B": "B.Company J’s",
+            "C": "C.Company S’s"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Company S’s cash conversion cycle nearly doubled over recent years,\nwhile the cash conversion cycles for Companies H and J are nearly unchanged. The days of\ninventory on hand and days of receivables both increased substantially for Company S, and its\ndays of payables outstanding decreased very slightly. The net effect was the large increase in\nthe cash conversion cycle. Although changes occurred in the components of the cash conversion\ncycles for Companies H and J, the net effect on their cash conversion cycles was small. C是正确\n的。近年来，S公司的现金转换周期几乎翻了一番，而H和J公司的现金转换周期几乎没有变化。S公司的库存\n天数和应收账款天数均大幅增加，其未付应付账款天数略有减少。虽然H和J公司的现金转换周期的组成部分\n发生了变化，但对其现金转换周期的净影响很小。\n ```\n\\begin{array}{|c|c|c|c|c|c|c|}\n\\hline\n & 2021 & 2020 & 2019 & 2018 & 2017 & 2016 \\\\\n\\hline\n\\text{Company J} &  &  &  &  &  &  \\\\\n\\hline\n\\text{Days of Inventory on Hand} & 105.6 & 101.4 & 96.3 & 105.2 & 103.2 & 101.4 \\\\\n\\hline\n\\text{+ Days of Receivables} & 27.7 & 29.4 & 32.9 & 36.3 & 37.8 & 38 \\\\\n\\hline\n\\text{ -- Days of Payables Outstanding} & 36.6 & 38.5 & 35.3 & 39.3 & 37.8 & 40.2 \\\\\n\\hline\n\\text{= Cash Conversion Cycle} & 96.7 & 92.3 & 93.9 & 102.2 & 103.2 & 99.2 \\\\\n\\hline\n\\text{Company S} &  &  &  &  &  &  \\\\\n\\hline\n\\text{Days of Inventory on Hand} & 135.8 & 131 & 118.9 & 69.2 & 63.4 & 81.7 \\\\\n\\hline\n\\text{+ Days of Receivables} & 49.1 & 42.5 & 54.2 & 36.2 & 29.1 & 38.3 \\\\\n\\hline\n\\text{ -- Days of Payables Outstanding} & 30.9 & 27.9 & 34.6 & 29.8 & 31.8 & 35.9 \\\\\n\\hline\n\\text{= Cash Conversion Cycle} & 154.0 & 145.6 & 138.5 & 75.6 & 60.7 & 84.1 \\\\\n\\hline\n\\end{array}\n```",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Cash conversion cycle, Working capital management",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "35",
+        "question_text": "The Gearing Company has an after-tax cost of debt capital of 4 percent, a cost of preferred\nstock of 8 percent, a cost of equity capital of 10 percent, and a weighted average cost of\ncapital of 7 percent. Gearing intends to maintain its current capital structure as it raises\nadditional capital. In making its capital budgeting decisions for the average-risk project, the\nrelevant cost of capital is:",
+        "image": "",
+        "options": {
+            "A": "A.4 percent.",
+            "B": "B.7 percent.",
+            "C": "C.8 percent."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The weighted average cost of capital, using weights derived from the\ncurrent capital structure, is the best estimate of the cost of capital for the average-risk\nproject of a company. 这道题目问的是G公司的税后债务资本成本为4%，优先股成本为8%，权益资本成本为\n10%，加权平均资本成本为7%。G公司打算在筹集额外资本的同时保持现有的资本结构。在为平均风险项目作\n出资本预算决策时，相关的资本成本为: 加权平均资本成本是对公司平均风险项目的资本成本的最佳估计\n，并且该公司使用的是当前资本结构，所以平均风险的项目的资本成本就是公司的加权平均资本成本为7%。\n因此B选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, Cost of Capital, Capital Budgeting",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "The current weighted average cost of capital (WACC) for Van der Welde is 10%. The company\nannounced a debt offering that raises the WACC to 13%. The most likely conclusion is that for\nVan der Welde:",
+        "image": "",
+        "options": {
+            "A": "A.the company’s prospects are improving.",
+            "B": "B.equity financing is cheaper than debt financing.",
+            "C": "C.the company’s debt\\/equity has moved beyond the optimal range."
+        },
+        "answer": "C",
+        "explanation": "C is correct. If the company’s WACC increases as a result of taking on additional\ndebt, the company has moved beyond the optimal capital range. The costs of financial distress\nmay outweigh any tax benefits to the use of debt. C是正确的。如果WACC因承担额外债务而增加，则公\n司已超出最佳资本范围。财务困境的成本可能超过使用债务的任何税收利益。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Cost of Capital, Capital Structure, Financial Distress",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "Which of the following is not a reason why target capital structure and actual capital\nstructure tend to differ?",
+        "image": "",
+        "options": {
+            "A": "A.Financing is often tied to a specific investment.",
+            "B": "B.Companies raise capital when the terms are attractive.",
+            "C": "C.Target capital structure is set for a particular project, while actual capital structure is"
+        },
+        "answer": "C",
+        "explanation": "Companies generally raise finance when capital is needed, such as for investment\nspending or when market pricing and terms are favorable for debt or equity issuance. 公司通常在\n需要资本时筹集资金，如投资支出，或市场定价和条件有利于债务或股权发行。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, Corporate Finance, Investment Decision",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "A financial analyst at Buckco Ltd. wants to compute the company's weighted average cost of\ncapital (WACC) using the dividend discount model. The analyst has gathered the following data:\nBuckco's WACC is closest to:",
+        "image": "level1_gong_si_jin_rong_images/38u.PNG",
+        "options": {
+            "A": "A.8 percent.",
+            "B": "B.9 percent.",
+            "C": "C.12 percent"
+        },
+        "answer": "B",
+        "explanation": "Answer: B Cost of equity=D1/P0 ＋ g = $1.50 / $30 7% = 5%＋ 7% = 12%\nD/(D＋E)=0.8033 / 1.8033 = 0.445 WACC=[(0.445) (0.08)(1- 0.4)]＋ (0.555)(0.12)]= 8.8% 这道题目\n问的是Buckco Ltd.的一位金融分析师使用股利折现模型计算公司的加权平均资本成本(WACC)。该分析师收集\n了以下数据，问一下哪个选项正确： Cost of equity = D1/P0＋ g = $1.50/$30 7% = 5% ＋ 7% = 12%\nD/(D＋E) = 0.8033/1.8033 = 0.445 WACC = [(0.445) (0.08)(1 - 0.4)]＋ [(0.555)(0.12)] = 8.8%因此\nB选项正确",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Weighted Average Cost of Capital (WACC), Dividend Discount Model (DDM), Cost of Equity",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "39",
+        "question_text": "Which of the following stakeholders are least likely to be positively affected by increasing\nthe proportion of debt in the capital structure?",
+        "image": "",
+        "options": {
+            "A": "A.Senior management",
+            "B": "B.Non-management employees",
+            "C": "C.Shareholders"
+        },
+        "answer": "B",
+        "explanation": "While leverage increases risk for all stakeholders, shareholders generally benefit\nthrough higher potential returns. Senior management typically benefits through equity-based\ncompensation. For non-management employees, equity-based compensation is likely to be small to\nnon-existent. 虽然杠杆增加了所有利益相关者的风险，但股东通常会从更高的潜在回报中获益。高级管理\n层通常通过基于股权的薪酬获益。对于非管理层员工，基于股权的薪酬可能很小，甚至不存在。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital structure, Leverage, Stakeholder risk",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Morgan Insurance Ltd. issued a fixed-rate perpetual preferred stock three years ago and\nplaced it privately with institutional investors. The stock was issued at $25 per share with a\n$1.75 dividend. If the company were to issue preferred stock today, the yield would be 6.5\npercent. The stock's current value is:",
+        "image": "",
+        "options": {
+            "A": "A.$25.00",
+            "B": "B.$26.92",
+            "C": "C.$37.31"
+        },
+        "answer": "B",
+        "explanation": "Answer: B The company can issue preferred stock at 6.5%. Price = $1.75/0.065 =\n$26.92 这道题目问的是摩根保险有限公司(Morgan Insurance Ltd.)三年前发行了固定利率的永久优先股。\n该股以每股25美元的价格发行，股利为1.75美元。如果该公司现在发行优先股，收益率将为6.5%。该股当前\n价值为:该公司可以发行6.5%的优先股。Pp = $1.75/0.065 = $26.92因此B选项正确",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Discounted Cash Flow Valuation, Preferred Stock Valuation, Yield Analysis",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "Which of the following statements about non-market factors in corporate governance is most\naccurate?",
+        "image": "",
+        "options": {
+            "A": "A.Stakeholders can spread information quickly and shape public opinion.",
+            "B": "B.A civil law system offers better protection of shareholder interests than does a common law\nsystem.",
+            "C": "C.Vendors providing corporate governance services have limited influence on corporate"
+        },
+        "answer": "A",
+        "explanation": "A is correct. Social media has become a powerful tool for stakeholders to instantly\nbroadcast information with little cost or effort and to compete with company management in\ninfluencing public sentiment. 这道题目问的是关于公司治理中的非市场因素，下列哪项表述最准确? 社\n交媒体已经成为利益相关者即时传播信息的强大工具，他们只需花费很少的成本或努力，就能在影响公众情\n绪方面与公司管理层展开竞争。因此A选项正确",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Corporate Governance, Stakeholder Management, Influence of Social Media",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "If investors have homogeneous expectations, the market is efficient, and there are no taxes,\nno transaction costs, and no bankruptcy costs, Modigliani and Miller’s Proposition I states\nthat:",
+        "image": "",
+        "options": {
+            "A": "A.bankruptcy risk rises with more leverage.",
+            "B": "B.managers cannot change the value of the company by changing the amount of debt.",
+            "C": "C.managers cannot increase the value of the company by employing tax-saving strategies."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Proposition I, or the capital structure irrelevance theorem, states\nthat in perfect markets the level of debt versus equity in the capital structure has no effect\non company value. B是正确的。Proposition I,或资本结构无关定理指出，在完美市场中，资本结构中的债\n务与股权水平对公司价值没有影响。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Capital Structure Theories, Efficient Market Hypothesis, Modigliani and Miller Propositions",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Which of the following is least likely to affect the capital structure of Longdrive Trucking\nCompany? Longdrive has moderate leverage today",
+        "image": "",
+        "options": {
+            "A": "A.The acquisition of a major competitor for shares",
+            "B": "B.A substantial increase in share price",
+            "C": "C.The payment of a stock dividend"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Stock dividends, like stock splits, have no impact on the value of a\ncompany’s equity. Issuing shares to acquire a competitor would increase equity relative to\ndebt in the capital structure. Share price appreciation would also increase the market value of\nequity, thus increasing equity relative to debt. C是正确的。股票股利和股票拆分一样，对公司的权\n益价值没有影响。发行股票以收购竞争对手将增加资本结构中相对于债务的权益。股价升值也会增加股本的\n市场价值，从而增加股本相对于债务的比例。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Capital structure, Equity valuation, Mergers and acquisitions",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Fran McClure of Alba Advisers is estimating the cost of capital of Frontier Corporation as\npart of her valuation analysis of Frontier. McClure will be using this estimate, along with\nprojected cash flows from Frontier's new projects, to estimate the effect of these new projects\non the value of Frontier. McClure has gathered the following information on Frontier\nCorporation:\n \nThe weights that McClure should apply in estimating Frontier’s cost of capital for debt and\nequity are, respectively:",
+        "image": "",
+        "options": {
+            "A": "A.wd = 0.200; we = 0.800.",
+            "B": "B.wd = 0.185; we = 0.815.",
+            "C": "C.wd = 0.223; we = 0.777."
+        },
+        "answer": "C",
+        "explanation": "wd = $63/($220 ＋ 63) = 0.223.we = $220/($220 ＋ 63) = 0.777.Market values should\nbe used in cost of capital calculations, and forecasted market values should be used in this\ncase given that the cost of capital will be applied to projected cash flows in McClure’s\nanalysis. wd=63美元/（220 63美元）=0.223。we=$220/（$220＋63）=0.777。在资本成本计算中应使用市\n场价值，在这种情况下应使用预测市场价值，因为资本成本将应用于McClure分析中的预测现金流。\n \\begin{tabular}{|l|c|c|}\n\\hline\n & \\textbf{Current Year (\\$)} & \\textbf{Forecasted for Next Year (\\$)} \\\\ \\hline\n\\textbf{Book value of debt} & 50 & 50 \\\\ \\hline\n\\textbf{Market value of debt} & 62 & 63 \\\\ \\hline\n\\textbf{Book value of shareholders’ equity} & 55 & 58 \\\\ \\hline\n\\textbf{Market value of shareholders’ equity} & 210 & 220 \\\\ \\hline\n\\end{tabular}",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Cost of capital, Market value weights, Valuation analysis",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "45",
+        "question_text": "Dot. Com has determined that it could issue $1,000 face value bonds with an 8 percent coupon\npaid semi-annually and a five-year maturity at $900 per bond. If Dot. Com's marginal tax rate\nis 38 percent, its after-tax cost of debt is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.6.2 percent.",
+            "B": "B.6.4 percent.",
+            "C": "C.6.6 percent."
+        },
+        "answer": "C",
+        "explanation": "Answer: C FV = -$1,000; PMT =-$40; N = 10; PV = $900 Solve for i. The six-month\nyield, i, is 5.3149% YTM = 5.3149% x 2 = 10.62985% rd(1-t) = 10.62985%(1-0.38) = 6.5905% 这道题\n目问的是Dot.Com决定发行面值1,000美元的债券，票面利率为8%，每半年支付一次，五年到期，价格为900美\n元。如果边际税率为38%，其税后债务成本最接近: 本题用金融计算器求解 FV = $1,000; PMT = $40; N =\n10; PV = $900 解出i,6个月期收益率是5.3149% YTM = 5.3149% × 2 = 10.62985% rd(1 - t) =\n10.62985%(1 - 0.38) = 6.5905%因此C选项正确",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond Valuation, After-Tax Cost of Debt, Yield to Maturity (YTM)",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Which of the following issues discussed at a shareholders’ general meeting would most\nlikely require only a simple majority vote for approval?",
+        "image": "",
+        "options": {
+            "A": "A.Voting on a merger",
+            "B": "B.Election of directors",
+            "C": "C.Amendments to bylaws"
+        },
+        "answer": "B",
+        "explanation": "B is correct. The election of directors is considered an ordinary resolution and,\ntherefore, requires only a simple majority of votes to be passed. 这道题目问的是在股东大会上讨\n论的下列问题中，哪一个最有可能只需要简单多数投票通过?董事的选举被认为是一个普通的决议，因此，只\n需要简单的多数票通过。因此B选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Corporate governance, Shareholder rights, Voting procedures",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "An analyst gathered the following information about a company and the market:\nUsing the discounted cash flow (DCF) approach, the cost of retained earnings for the company is\nclosest to:",
+        "image": "level1_gong_si_jin_rong_images/47u.PNG",
+        "options": {
+            "A": "A.15.7%.",
+            "B": "B.16.1%.",
+            "C": "C.16.8%."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The expected return is the sum of the expected dividend yield plus\nexpected growth. The expected growth is (1-0.4)15%=9%. The expected divi?dend yield is\n$2.18/$28 = 7.8%. The sum is 16.8%. 这道题目问的是一位分析师收集了一家公司和市场的以下信息，使\n用折现现金流(DCF)方法，公司的留存收益成本最接近于:预期回报是预期股利率加上预期增长的总和。预期\n增长率为(1 - 0.4)15% = 9%。预期股利率为2.18元/ 28元= 7.8%。总和是16.8%因此C选项正确",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Discounted Cash Flow (DCF), Cost of Retained Earnings, Dividend Yield",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "48",
+        "question_text": "With regard to capital allocation, an appropriate estimate of the incremental cash flows\nfrom an investment is least likely to include:",
+        "image": "",
+        "options": {
+            "A": "A.externalities.",
+            "B": "B.interest costs.",
+            "C": "C.opportunity costs."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Costs to finance the investment are taken into account when the cash\nflows are discounted at the appropriate cost of capital; including interest costs in the cash\nflows would result in double-counting the cost of debt.B是正确的。当现金流量以适当的资本成本折\n现时，为投资提供资金的成本被考虑在内;在现金流中包括利息成本会导致债务成本的重复计算。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital budgeting, Cash flow estimation, Cost of capital",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "Catherine Ndereba is an energy analyst tasked with evaluating a crude oil exploration and\nproduction company. The company previously announced that it plans to embark on a new project\nto drill for oil offshore. As a result of this announcement, the stock price ran up by 10%.\nAfter conducting her analysis, Ms. Ndereba concludes that the project does indeed have a\npositive NPV. Which statement is true?",
+        "image": "",
+        "options": {
+            "A": "A.The stock price should remain where it is because Ms. Ndereba’s analysis confirms that the\nrecent run-up was justified.",
+            "B": "B.The stock price should go even higher now that an independent source has confirmed that the\nNPV is positive.",
+            "C": "C.The stock price could remain steady, move higher, or move lower."
+        },
+        "answer": "C",
+        "explanation": "There are many factors that can affect the stock price, including whether Ms.\nNdereba’s analysis indicates that the project is more or less profitable than investors\nexpected. 影响股价的因素有很多，包括 Ms. Ndereba的分析是否表明该项目的利润高于或低于投资者的预\n期。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Behavioral Finance, Market Efficiency, Stock Valuation",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "Other factors being equal, in which of the following situations are debt–equity conflicts\nlikely to increase?",
+        "image": "",
+        "options": {
+            "A": "A.Financial leverage is low.",
+            "B": "B.The company’s debt is secured.",
+            "C": "C.The company’s debt is long-term."
+        },
+        "answer": "C",
+        "explanation": "Long-term debt is more exposed than short-term debt to the risk of a management\ndecision that is not debtholder-friendly. Secured debt is less exposed than unsecured debt to\nsuch a risk, and with low leverage, the risk of debt–equity conflict is reduced, not\nincreased, relative to high leverage. 长期债务比短期债务更容易受到不利于债权人的管理决策的风险\n。与无担保债务相比，有担保债务较少面临此类风险，并且在杠杆率较低的情况下，与高杠杆率相比，债务-\n股权冲突的风险减少，而不是增加。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, Financial Leverage, Debt Maturity",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "The internal rate of return (IRR) is best described as the:",
+        "image": "",
+        "options": {
+            "A": "A.opportunity cost of capital.",
+            "B": "B.time-weighted rate of return.",
+            "C": "C.discount rate that makes the net present value equal to zero."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The internal rate of return is computed by identifying all cash flows and\nsolving for the rate that makes the net present value of those cash flows equal to zero. 这道题\n目问的是内部收益率(IRR)最好描述为。 内部收益率的计算方法是确定所有现金流，并求解使这些现金流的\n净现值等于零的比率。因此C选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Internal Rate of Return (IRR), Net Present Value (NPV), Discount Rates",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "Acompany has arranged a $20 million line of credit with a bank, allowing thecompany\ntheflexibility to borrow and repay any amount of funds as long as thebalance doesnot exceed the\nline of credit. These arrangements are called:",
+        "image": "",
+        "options": {
+            "A": "A.convertibles.",
+            "B": "B.factoring.",
+            "C": "C.revolvers."
+        },
+        "answer": "C",
+        "explanation": "C is correct. A revolver is a short-term borrowing facility in which a bank allows\nthe firm to borrow and repay loans during the life of the line of credit. C是正确的。循环信贷是\n一种短期借贷工具，银行允许公司在信用额度期限内借贷和偿还贷款。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit Facilities, Revolving Credit, Short-term Borrowing",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "Vega Company has announced that it intends to raise capital next year, but it is unsure as\nto the appropriate method of raising capital. White, the CFO, has concluded that Vega should\napply the pecking order theory to determine the appropriate method of raising capital. Based on\nWhite’s conclusion, Vega should raise capital in the following order:",
+        "image": "",
+        "options": {
+            "A": "A.debt, internal financing, equity.",
+            "B": "B.equity, debt, internal financing.",
+            "C": "C.internal financing, debt, equity."
+        },
+        "answer": "C",
+        "explanation": "According to the pecking order theory, managers prefer internal financing. If\ninternal financing is insufficient, managers next prefer debt, then equity in order of\nincreasing visibility to outsiders. 根据优序理论，管理者更喜欢内部融资。如果内部融资不足，管理\n者接下来会选择债务，然后是股权，以增加对外部人士的可见性。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Structure Theory, Financing Decision, Pecking Order Theory",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "The business risk of a particular company is most accurately measured by the company’s:",
+        "image": "",
+        "options": {
+            "A": "A.debt-to-equity ratio.",
+            "B": "B.efficiency in using assets to generate sales.",
+            "C": "C.operating leverage and level of uncertainty about demand, output prices, and competition."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Business risk reflects operating leverage and factors that affect sales\n(such as those given). 这道题目问的是某公司的商业风险最准确的衡量方法是: 商业风险反映了经营杠杆\n和影响销售的因素。因此C选项正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Operating leverage, Sales demand uncertainty, Competition uncertainty",
+        "book label": "level1_公司金融",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

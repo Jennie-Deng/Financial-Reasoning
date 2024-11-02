@@ -1,0 +1,884 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Fenn Tomnick is a risk analyst at one of the major equity research firms specializing in\nEurozone banks. In a recent review of the European financial crisis, Tomnick indicated that in\ntimes of distress of systematically important financial institutions, sovereign governments are\noften compelled to provide financial support to the struggling institution. Which of the\nfollowing statements best describes Tomnick’s example?",
+        "image": "",
+        "options": {
+            "A": "A.The example describes one of the charnels through which sovereign risk is transmitted to the\nfinan",
+            "B": "B.The example describes one of the channels through which financial sector risk is transmitted\nto so",
+            "C": "C.The example describes a key way in which financial institutions are vulnerable to exposure to\npriv",
+            "D": "D.The example provides an illustration of the interconnectedness of the global financial"
+        },
+        "answer": "B",
+        "explanation": "The example describes one of the channels through whichfinancial sector risk is\ntransmitted to sovereigns. These channels include (1)improper government policies (e.g.,\nunsustainable spending increases) as aresult of one-off boosts to fiscal balances from\nfinancial institutions, (2)lending constraints of financial institutions that result in larger\npublicsector deficit and deteriorating sovereign creditworthiness, and (3) necessarygovernment\nsupport to struggling financial institutions in order to preservefinancial stability.(2)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Systemic risk, Sovereign risk, Financial sector risk",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "During the 2007—2008 financial crisis, there was a grave concern that Bear Stearns and\nLehman Brothers were highly interconnected to many other financial firms. It ended up being\ntrue. The interdependency of financial firms can lead to:",
+        "image": "",
+        "options": {
+            "A": "A.negative kurtosis.",
+            "B": "B.lower variance of returns.",
+            "C": "C.fat tailed distributions.",
+            "D": "D.excess system-wide leverage."
+        },
+        "answer": "C",
+        "explanation": "Interdependencies can lead to fat tails. This increasesrisk in the overall\nfinancial system and increases the likelihood ofcatastrophic risks, as evidenced by the\nfinancial crisis. Firms were sodependent on each other that a problem at one bank, say Lehman\nBrothers, meantfrozen short-term credit markets for other banks. Interactions are at\nleastpartially to blame for fat rails. The central limit theorem assumes events areindependent.\nAnalysis of the financial crisis makes it clear that events aregenerally not independent. (1)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Systemic Risk, Fat Tails and Extreme Events, Financial Interconnectedness",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "Which of the following statements best describes the use of heuristics in decision- making\nmodels?",
+        "image": "",
+        "options": {
+            "A": "A.Research studies suggest simple models based on heuristics are more successful in decision\nmaking",
+            "B": "B.Heuristics are simple rules of thumb that are used in decision making.",
+            "C": "C.Models based on heuristics tend to have more parameter assumptions.",
+            "D": "D.A drawback of heuristic models is that they tend to over-fit sample data and perform poorly"
+        },
+        "answer": "B",
+        "explanation": "Heuristics are simple rules of thumb that are used indecision making. Research\nstudies find that simple models based on heuristicsoften are more successful in decision making\nthan more complex models. Simplemodels have fewer parameter assumptions. More complex models\ntend to over-fitsample data and perform poorly in predicting future outcomes.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Behavioral finance, Decision-making models, Model complexity",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "A risk manager is evaluating the risk profile for a portfolio of stocks. Currently, the\nportfolio is valued at JPY 128 billion and contains JPY 25 billion in stock XYZ. The standard\ndeviation of returns of stock XYZ is 11% annually and that of the overall portfolio is 18%\nannually. The correlation of returns between stock XYZ and the portfolio is 0.6. Assuming the\nrisk analyst uses a 1-year 95% VaR and that returns are normally distributed, what is the\nestimated component VaR of stock XYZ?",
+        "image": "",
+        "options": {
+            "A": "A.JPY 2.714 billion",
+            "B": "B.JPY 3.838 billion",
+            "C": "C.JPY 4.524 billion",
+            "D": "D.JPY 6.397 billion"
+        },
+        "answer": "A",
+        "explanation": "$$\nVaR_{XYZ} = w_{XYZ} * \\sigma_{XYZ} * \\alpha(95\\%) = \\text{JPY } 25 \\text{ million } \\times 0.11 \\times 1.645 = \\text{JPY } 4.524 \\text{ billion}\n$$\n\n$$\n\\text{Component } VaR_{XYZ} = p * VaR_{XYZ} = 0.6 \\times 4.524 = \\text{JPY } 2.714 \\text{ billion}\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Risk Management, Correlation and Standard Deviation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "A company's pension fund is established as a defined benefit plan, and therefore the board\nmust consider funding risk. Which of the following statements about the pension fund’s funding\nrisk is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The longer the horizon for expected payouts, the lower\\nthe funding risk.",
+            "B": "B.Decreases in interest rates will reduce funding risk.",
+            "C": "C.The funding risk has been effectively transferred to\\nthe employees.",
+            "D": "D.Funding risk represents the true long-term risk to the\\nplan sponsor."
+        },
+        "answer": "D",
+        "explanation": "The time horizon of payouts does not eliminate fundingrisk.  In fact it is the\nmismatch betweenassets and liabilities that creates funding risk. In an low interest\nrateenvironment the value of equities will rise, however the value of theliabilities are likely\nto increase more thereby exacerbating funding risk.Funding risk is transferred to employees\nwith a defined contribution plan.Immunizing the portfolio, essentially matching duration of\nassets andliabilities, will reduce funding risk. (0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Pension fund management, Interest rate risk, Asset-liability management",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "A portfolio manager wants to invest a small amount of new money that has recently come into a\nfund. The fund is benchmarked to an index and, rather than adding a new holding, the manager is\nconsidering increasing the holdings of one of the four assets described in the following\ntable: \n \n \nThe portfolio manager wants to select the asset that has the lowest marginal VaR as long as its\nTreynor ratio is at least 0.1. Assuming the risk free rate is 2%, which asset should the\nportfolio manager select?",
+        "image": "RiskManagementandInvestmentManagement_images/6u.png",
+        "options": {
+            "A": "A.Asset A",
+            "B": "B.Asset B",
+            "C": "C.Asset C",
+            "D": "D.Asset D"
+        },
+        "answer": "C",
+        "explanation": "| Asset | Portfolio Weight | Expected Return | Beta to the Index | Beta to the Portfolio | Correct Treynor | Incorrect Treynor |\n|-------|------------------|-----------------|--------------------|-----------------------|------------------|-------------------|\n| A     | 1.2%             | 12%             | 1.2                | 0.90                  | 0.083            | 0.111             |\n| B     | 0.8%             | 10%             | 0.7                | 0.90                  | 0.114            | 0.089             |\n| C     | 0.75%            | 10%             | 0.6                | 0.85                  | 0.133            | 0.094             |\n| D     | 0.35%            | 8%              | 0.3                | 1.10                  | 0.200            | 0.055             |",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Marginal VaR, Treynor ratio, Portfolio management strategies",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "An analyst regresses the returns of 100 stocks against the returns of a major market index.\nThe resulting pool of 100 alphas has a residual risk of 18% and an information coefficient of\n9%. If the alphas are normally distributed with a mean of 0%, roughly how many stocks have an\nalpha greater than 4% or less than -4%?",
+        "image": "",
+        "options": {
+            "A": "A.5",
+            "B": "B.10",
+            "C": "C.20",
+            "D": "D.25"
+        },
+        "answer": "A",
+        "explanation": "The standard deviation (std) of the alphas = ResidualRisk (volatility) x\nInformation Coefficient (IC) = 0.20 * 0.10 = 0.02. So, 4%is twice the standard deviation of the\nalphas. The alphas follow normaldistribution with mean 0, so about 5% of the alphas are out of\nthe interval[-4%, 4%]. The total number of stocks is 100, so roughly there are 5 alphasthat are\nout of the range.  (3)",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Regression Analysis, Normal Distribution, Information Coefficient",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "A useful measure for assessing liquidity risk for hedge funds is the Q-statistic. Which of\nthe following statements is true regarding the statistical significance of the Q-statistic\nmeasure?",
+        "image": "",
+        "options": {
+            "A": "A.Smaller p-values indicate that autocorrelations are\\nmore statistically significant.",
+            "B": "B.We will be 99% confident that we can reject the null\\nhypothesis of no correlation when the\ntest sta",
+            "C": "C.The null hypothesis of positive autocorrelations can\\nbe rejected when each lagged\nautocorrelation i",
+            "D": "D.Larger p-values indicate that autocorrelations are\\nmore statistically significant."
+        },
+        "answer": "A",
+        "explanation": "The Q-statistic reflects the absolute magnitudes of thecorrelations, because it\nsums the squared autocorrelations. Thus, the signs donot cancel each other ou1, and funds with\nlarge positive or negative autocorrelationcoefficients will result in large Q-statistics. Fund\nmanagers have an incentivefor smoothing the rectums of illiquid funds. This smoothing process\nresults inserial autocorrelations. As with most statistics, the smaller the p-value forthe\nstatistic, the greater our confidence in the inference made by rejectingthe null hypothesis.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk management, Autocorrelation, P-value analysis",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "In distinguishing between strategy risks and structural risks that stem from a fund of hedge\nfunds, which of the following would be considered strategy risk(s)? I. Trading liquidity risk.\nII. The extent and form of management oversight. III. The risk of poor information reporting\nsystems IV. The risk of high ownership concentration of hedge fund shares.",
+        "image": "",
+        "options": {
+            "A": "A.I, III, and IV only",
+            "B": "B.I only",
+            "C": "C.II and III only",
+            "D": "D.II and IV only"
+        },
+        "answer": "B",
+        "explanation": "Hedge funds face structural risks that stem from a hedgefund's operations. These\nrisks include the potential for deterioration in afirm's reputation, poor information reporting\nsystems, inadequate managementoversight, etc. Strategy risks derive from a hedge fund's\ninvestment strategy.They include a fund's exposure to price swings from different asset\nclasses(market risk), the risk of non-performance by counterparties (credit risk), therisk of\nprice impact from executing large trades (trading liquidity risk), andthe risk of not being\nable to meet interim cash flows obligations before strategiesare able to become profitable\n(funding liquidity risk). (3)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Risk, Credit Risk, Liquidity Risk",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "Hedge fund managers following a convertible arbitrage strategy are said to be:",
+        "image": "",
+        "options": {
+            "A": "A.long gamma and short vega",
+            "B": "B.short gamma and short vega",
+            "C": "C.long gamma and long vega",
+            "D": "D.short gamma and long vega"
+        },
+        "answer": "C",
+        "explanation": "Convertible arbitrage managers hedge their equityexposure by shorting stocks using\nthe delta hedge ratio. Because they areexposed to changes in the hedge ratio, they are said to\nbe long gamma. They arealso exposed to changes in the price volatility of the stock underlying\ntheoption embedded in the convertible security, so they are said to be long Vega.(1)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Convertible arbitrage, Gamma exposure, Vega exposure",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "500",
+        "question_text": "Because of the claims of the hedge fund, you decide to estimate the market exposure by\nregressing weekly returns of the fund on the weekly return of the S&P 500. Which of the\nfollowing correctly describes a property of your regression estimates?",
+        "image": "",
+        "options": {
+            "A": "A.The intercept of your regression will be positive, showing that the\\nfund has a positive\nalpha when",
+            "B": "B.The beta will be misestimated because hedge fund exposures are nonlinear.",
+            "C": "C.The beta of your regression will be one because the fund holds the S&P\\n500.",
+            "D": "D.The beta of your regression will be zero because the fund returns\\nare not synchronous with"
+        },
+        "answer": "D",
+        "explanation": "The weekly returns are not synchronized with those of the S&P. Asa result, the\nestimate of beta from weekly data will be too low.(4)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge fund analysis, Regression analysis, Market exposure estimation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "For a portfolio of illiquid assets, hedge fund managers often have considerable discretion\nin portfolio valuation at the end of each month and may have incentives to smooth returns by\nmarking values below actual in high-return months and above actual in low-return months. Which\nof the following is not a consequence of return smoothing over time?",
+        "image": "",
+        "options": {
+            "A": "A.Higher Sharpe ratio",
+            "B": "B.Lower volatility",
+            "C": "C.Higher serial correlation",
+            "D": "D.Higher market beta"
+        },
+        "answer": "D",
+        "explanation": "Illiquidity creates an understatement of the total risk measure. As aresult, the\nSharpe ratio will be artificially higher. Illiquidity createstrends in returns (higher serial\ncorrelation), as market shocks during a monthwill be partially recorded in two consecutive\nmonths. Illiquidity, however,biases down the market beta.(3)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Risk Measurement, Ethical Considerations, Portfolio Management",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Risk management of hedge funds has challenges not generally faced in traditional investment\nmanagement companies. Which of the following statements are correct about hedge fund risk\nmanagement? I. Because hedge funds can hold long and short positions, and can use derivatives\nand leverage, their exposure to market risks can experience large and rapid changes that make\nit difficult to assess these exposures using only monthly returns. II. Many hedge funds use\nover-the-counter derivatives, which are valued by models or quoted prices and often hold\nilliquid assets; as a result, the returns of these strategies generally exhibit much lower\nserial correlation than mutual fund returns. III. For hedge fund strategies that use leverage\nto amplify returns and rely on their ability to move out of trades quickly when they turn\nagainst them, liquidity risk must be closely monitored and managed. IV. Hedge fund returns are\noften similar to the return of a basket of exotic derivatives with nonlinear payoffs, and\ntherefore assessing risk based on past performance can be misleading.",
+        "image": "",
+        "options": {
+            "A": "A.I, II, III, and IV",
+            "B": "B.I, III, and IV",
+            "C": "C.I and III",
+            "D": "D.II and IV"
+        },
+        "answer": "B",
+        "explanation": "Statement I, III, and IV are correct. Statement II. Is false becauseilliquid asset\ncreates higher serial correlation.(1)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Funds Risk Management, Market Risk Exposure, Liquidity Risk",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "A portfolio manager currently holds 20,000 shares of Costiuk Inc. in a particular portfolio.\nThe daily volume of Costiuk shares traded on the stock exchange is 50,000. Additionally, on any\ngiven day, the portfolio manager wishes to trade no more than 15% of the daily trading volume\nof Costiuk. Which of the following amounts is closest to the liquidity duration of Costiuk in\nthis portfolio?",
+        "image": "",
+        "options": {
+            "A": "A.0.06",
+            "B": "B.0.375",
+            "C": "C.2.67",
+            "D": "D.16.67"
+        },
+        "answer": "C",
+        "explanation": "Liquidity duration is an approximation of the number ofdays necessary to dispose of\na portfolio’s holdings (of a particular share inthis case) without a significant market\nimpact. ft is calculated as: 20,000/(0.15 x 50,000) = 2.67.(2)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity Risk, Market Impact, Portfolio Management",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "Given the following information, what is the percent of contribution to VAR from Asset A?\nThere are two assets in a portfolio: A and B.  Asset A marginal VAR:   0.05687  Asset A\nvalue: $7,000,000  Asset B marginal VAR:   0.17741  Asset B value: $4,000,000",
+        "image": "",
+        "options": {
+            "A": "A.64.06%",
+            "B": "B.24.27%",
+            "C": "C.35.94%",
+            "D": "D.63.64%"
+        },
+        "answer": "C",
+        "explanation": "The component VAR factors in both the marginal VAR andthe asset value. For Asset\nA:0.05687*$7,000,000=$398.090 For Asset B:0.17741*$4,000,000=$709,640 Asset A’s percentof\ncontribution to VAR is A’s component VAR as a percent of total VAR:\n$398,090/($398,090+$709.640)=35.94% Choice A isincorrect because it is the percent of\ncontribution to VAR from Asset B. Choice B isincorrect because it is the Marginal VAR weight\nfor Asset A. Choice D is incorrect because it is just the asset weightfor Asset A.(1)",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value at Risk (VAR), Marginal VAR, Component VAR",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "A portfolio is composed of two securities ans has the following\ncharacteristics:  Investment in X:   USD 1.8 million  Investment in Y:  USD 3.2 million\n Volatility of X:  8%  Volatility of Y: 4%  Correlation between X and Y: 15%  The\nportfolio diversified VAR at the 95% confidence level is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.1",
+            "B": "B.$14,074",
+            "C": "C.$206,500",
+            "D": "D.$404,740"
+        },
+        "answer": "D",
+        "explanation": "$$\nVariance_{x,y} = w_{x}^2 \\sigma_{x}^2 + w_{y}^2 \\sigma_{y}^2 + 2 \\times w_{x} \\times w_{y} \\times \\sigma_{x} \\times \\sigma_{y} \\times Corr_{x,y}\n$$\n\n$$\nVariance_{x,y} = 0.36^2 \\times 0.08^2 + 0.64^2 \\times 0.04^2 + 2 \\times 0.36 \\times 0.64 \\times 0.08 \\times 0.04 \\times 0.15\n$$\n\n$$\nVariance_{x,y} = 0.00082944 + 0.00065536 + 0.000221184\n$$\n\n$$\nVariance_{x,y} = 0.001705984\n$$\n\n$$\nStandard \\ deviation = \\sqrt{0.001705984} = 4.13\\%\n$$\n\nStep 2: Calculate the VAR $VAR = 1.65 \\times volatility \\times portfolio \\ value \\quad VAR = 1.65 \\times 0.0413 \\times \\$5m$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Volatility, Correlation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "The AT&T pension fund has 68%, or about $13 billion invested in equities. Assume a normal\ndistribution and volatility of 15% per annum. The fund measures absolute risk with a 95%, one-\nyear VAR, which gives $3.2 billion. The pension plan wants to allocate this risk to two equity\nmanagers, each with the same VAR budget. Given that the correlation between managers is 0.5,\nthe VAR budget for each should be",
+        "image": "",
+        "options": {
+            "A": "A.$3.2 billion",
+            "B": "B.$2.4 billion",
+            "C": "C.$1.9 billion",
+            "D": "D.$1.6 billion"
+        },
+        "answer": "C",
+        "explanation": "",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio management, Correlation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "SkyLine Airways has a defined benefit pension scheme with assets of $165 million and\nliability of $150 million. The annual growth of the liabilities is expected to be 4.5% with\n2.4% volatility. The annual return on the pension assets has an expected value of 7.8% with 12%\nvolatility. The correlation between asset return and liability growth is 0.35. What is the 95%\nsurplus at risk for SkyLine?",
+        "image": "",
+        "options": {
+            "A": "A.$24.97million",
+            "B": "B.$54.81million",
+            "C": "C.$18.84million",
+            "D": "D.$6.12million"
+        },
+        "answer": "A",
+        "explanation": "$$\nVar_{A\\&L} = 165^2 \\times 0.12^2 + 150^2 \\times 0.024^2 - 2 \\times 165 \\times 150 \\times 0.12 \\times 0.024 \\times 0.35\n$$\n\n$$\nVar_{A\\&L} = 392.04 + 12.96 - 49.896\n$$\n\n$$\nVar_{A\\&L} = 355.104\n$$\n\n$$\n\\text{Standard deviation} = \\sqrt{355.104} = 18.84m\n$$\n\nStep 3: Calculate VAR of the assets. $VAR = Z\\text{-score} \\times \\text{volatility} \\; VAR = 1.65 \\times 18.84m \\; VAR = 31,086,000$. Surplus at risk = expected growth in surplus - VAR. Surplus at risk = $6.12m - 31.086m = -24.97m$. Note: Although it is a negative, it is usually expressed as a positive figure as it is assumed that it is a shortfall. (1)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Defined Benefit Pension Scheme, Volatility",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "A hedge fund is long USD 315 million in certain stocks and short USD 225 million in other\nstocks. The hedge fund’s equity is USD 185 million. The fund’s overall beta is 0.75.\nCalculate the Gross and Net leverage.",
+        "image": "",
+        "options": {
+            "A": "A.2.91 and 0.48",
+            "B": "B.2.18 and 0.36",
+            "C": "C.2.91 and 0.36",
+            "D": "D.2.18 and 0.48"
+        },
+        "answer": "A",
+        "explanation": "Gross leverage = $ \\frac{315 + 225}{185} = 2.91 $, Net leverage = $ \\frac{315 - 225}{185} = 0.48 $",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio leverage, Hedge fund risk management, Beta calculation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "The Peyton Formika Fund is a global macro asset allocation hedge fund designed to provide\nlow correlations with U.S. assets. Dominic James is a fund of hedge funds manager that is\nanalyzing the Peyton Formika Fund for signs of style drift. James makes note of the following\nfindings about the fund: I. The R2 of the fund versus the global macro peer group has changed\nfrom 0.72 to 0.78 over the past 12 months. II. Due to outstanding returns, assets in the fund\nhave increased from $70 million to $430 million over the past 12 months. III. The fund made a\nmajor shift in allocation by moving 40 percent of its holdings from Eastern European equities\nto Asian equities. IV. After a recent trip to India, the fund manager gained confidence in his\nexisting Indian equity holdings and levered his existing 5% weighting in India only by a 10 to\n1 ratio. Which of James’ findings are indicators that the Peyton Formika Fund is at risk for\nstyle drift?",
+        "image": "",
+        "options": {
+            "A": "A.II and IV only",
+            "B": "B.I and II only",
+            "C": "C.II and III only",
+            "D": "D.I, III and IV only"
+        },
+        "answer": "A",
+        "explanation": "Hedge fund style drift occurs when there are changes inthe risk factor exposures of\nthe fund or changes in the overall risk of thefund, notably through leverage. Using leverage\nonly for his Indian equityposition would definitely be an indicator of style drift. Even though\ntheinitial position is small, a 10 to 1 leverage ratio would significantly changethe risk of\nthe fund. An excessive cash inflow which may be more money than themanager can sustain is also\na potential indicator of style drift. The change inallocation from Eastern European equities to\nAsian equities is within theobjectives of a global allocation fund, so that would not indicate\nstyle drift.Also, style drift would be a concern with a decrease, not an increase in theR-\nsquared measure against the peer group. (2)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Leverage, Hedge Fund Style Drift, Risk Factor Exposures",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "Rick Walter works in the risk management department of a hedge fund. The fund is\nheadquartered in the United 5tates (U.5.) but trades internationally. Walter has been tasked\nwith explaining the differences between regulatory authorities and the requirements of each of\nthe authorities in the United States, the European Union (EU), and 5ingapore with respect to\nover-the-counter (OTC) derivatives trading. He will produce a report that will be presented to\nsenior management and the board of directors at the board's next meeting. Regarding\nrequirements in thc various jurisdictions, which statement is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Central\\ncounterparties (CCPs) in the EU must be mutualized and a default fund must\nbe\\nestabli",
+            "B": "B.The United\\nStates exempts pension funds from clearing requirements, unlike Singapore\nand\\nthe",
+            "C": "C.Singapore is\\nthe least flexible with respect to the choice of a CCP, requiring\nclearing\\nthrou",
+            "D": "D.The United\\nStates, along with the EU and Singapore, requires initial and variation"
+        },
+        "answer": "A",
+        "explanation": "Generallyspeaking, the EU has the strictest regulations with respect to\ncentralclearing. The EU does not contain an exemption based on a threshold size of a\nfinancialentity. Both Singapore and the United States have a threshold ($10 billion in\ntheUnited States). However, the EU, not the United States, exempts pension fundsfrom clearing\nrequirements. The choice of CCP is most flexible in Singapore.Singapore allows for central\nclearing using both domestic and foreignCCPs.  The United States and the EU mustanalyze the\nregulations and agreements of the foreign regulators beforeallowing clearing by a foreign CCP.\nThe EU is most prescriptive regarding theorganization and choice of model for the CCP,\nrequiring the CCP to be mutualized,where member losses are shared through a default fund. All\nthree jurisdictionsrequire initial and variation margin, but U.S. regulation includes netting\narrangementsand margin requirements for payments above a minimum transfer amount.   (1)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regulatory Frameworks, OTC Derivatives, Central Counterparties (CCPs)",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "There has been a recent push for financial market participants to consider increasing the\nnumber of available reference rates, providing alternatives to the London Interbank Offered\nRate (LIBOR) and Euribor, two of the most commonly used rates. Which of the following\ncriticisms of the commonly used reference rates has encouraged the need for alternative\nreference rates?",
+        "image": "",
+        "options": {
+            "A": "A.Commonly used\\nrates contain credit risk, making them unsuitable for some transactions.",
+            "B": "B.Overnight markets\\nare less liquid, making them unappealing for use in swap contracts.",
+            "C": "C.Banks have\\nbecome increasingly reliant on unsecured funding to better manage credit risks.",
+            "D": "D.LIBOR and Euribor are not consistently published on dedicated sites."
+        },
+        "answer": "A",
+        "explanation": "Until the recent financial crisis (2007-2009), referencerates, including LIBOR and\nEuribor, were intended to measure the bank creditrisk premiums of \"prime banks\" (i.e., the\nrates reflect the risk-freerate and common bank risk). However, as a result of the financial\ncrisis, bankrisks became widely dispersed, making commonly used reference rates unsuitablefor\nsome transactions. Different market participants look for different riskfactors and, as a\nresult, would need reference rates that are specific to theirrisk requirements. Overnight\nmarkets have little or no credit risk, making themsuitable for some transactions such as\novernight indexed swaps (OISs).Overnight markets are more liquid, not less liquid. Banks are\nbecoming increasinglyreliant on wholesale funding to manage credit risks, not unsecured\nfunding. Finally,LIBOR and Euibor are readily available to market participants. Credit\nriskpremiums that are embedded in commonly used reference rates pose a problem forsome\ntransactions. (0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Benchmarks, Credit Risk, Financial Crisis Impact",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "A portfolio manager estimates the VaRs for the two positions in his portfolio as follows: \nVaR1 = $4.8 million and VaR2 = $2.6 million. What is the VaR for the portfolio if the returns\nof the two securities are uncorrelated, and what is the VaR for the portfolio if the returns of\nthe two securities are perfectly correlated?",
+        "image": "",
+        "options": {
+            "A": "A.For zero correlation,\\nVaR is $5.46 million, and for perfect for relation, VaR is $7.40\nmillio",
+            "B": "B.For zero correlation,\\nVaR is $4.46 million, and for perfect correlation, VaR is $6.40\nmillion",
+            "C": "C.For zero correlation,\\nVaR is $7.46 million, and for perfect correlation, VaR is $3.40\nmillion",
+            "D": "D.For zero\\ncorrelation, VaR is $5.46 million, and for perfect correlation, VaR is"
+        },
+        "answer": "A",
+        "explanation": "VaR for zero correlation:  \n$$\n\\text{VaR} = \\sqrt{VaR_1^2 + VaR_2^2} = \\sqrt{(4.8)^2 + (2.6)^2} = \\$5.46 \\text{ million}\n$$  \n\nVaR for perfect correlation:  \n$$\n\\text{VaR} = \\text{VaR1} + \\text{VaR2} = \\$4.8 \\text{ million} + \\$2.6 \\text{ million} = \\$7.40 \\text{ million}\n$$  ",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Risk, Correlation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Glenn Funds uses the information ratio (IR) as a performance measure. The firm compares\nportfolio managers based on their IRs and uses this information to help determine performance\ncompensation. Which of the following statements does not represent a strength of the IR in\nterms of its usefulness in comparing asset managers?  The information ratio:",
+        "image": "",
+        "options": {
+            "A": "A.can be applied\\nto industries as well as individual asset and portfolio returns.",
+            "B": "B.is easy to\\nunderstand when used to compare a manager's performance to the performance of\na\\npe",
+            "C": "C.uses the\\nportfolio's forecasted tracking error in the calculation, making it a\nforward\\nlookin",
+            "D": "D.makes it easy\\nfor senior supervisors to rank order managers based on their generated"
+        },
+        "answer": "C",
+        "explanation": "Strengthsof the Sharpe and information ratios are (1) easy to use as measures of\nrelativeperformance compared to a benchmark or peer group; (2) easy to determine if amanager\nhas generated sufficient excess returns in relation to the amount ofrisk taken; and (3) easy to\napply to industrial sectors and countries. Weaknessesinclude (1) insufficient data to perform\nthe calculation and (2) the use ofrealized risk (instead of potential risk) may result in\noverstated performancecalculations. The Sharpe and information ratios use historical data\n(notforecasted tracking errors) and thus are not forward looking.    (0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Performance Measurement, Risk Assessment, Risk Metrics",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "Hedge fund manager Bill Deschler has managed a portfolio for 15 years. During the financial\ncrisis of 2007-2009, he observed that his portfolio returns fell dramatically along with the\nmarket.  This was surprising because the fund was structured such that the portfolio beta was\nuncorrelated with the market index. He identifies several concepts that might be used to\nexplain the phenomenon. Which of the following risk-related items could not be used to explain\nDeschler's observation?",
+        "image": "",
+        "options": {
+            "A": "A.Nonlinearity\\nrisk.",
+            "B": "B.Systemic\\ncorrelation.",
+            "C": "C.Asymmetric\\ncorrelation.",
+            "D": "D.Phase-locking\\nbehavior."
+        },
+        "answer": "B",
+        "explanation": "Phase-lockingbehavior occurs with events that cause normally uncorrelated actions\nto becomehighly correlated. Asymmetric correlation refers to the notion that beta\ncoefficientsare more highly correlated with the market index in down markets than they arein up\nmarkets. Asymmetric correlation creates a type of nonlinearity risk thattraditional risk\nmeasurement models do not capture. Systemic risks often leadto higher correlation coefficients\nbut there is no such thing as systemiccorrelation.    (0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Systemic risk, Asymmetric correlation, Nonlinearity risk",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "A database of hedge fund returns is constructed as follows. The first year of the database\nis 1994. All funds existing as of the end of 1994 that were willing to report their verified\nreturns for that year are included in that year. The database was extended by asking the funds\nfor verified returns before1994. Subsequently, funds are added as they are willing to report\nverified returns to the database. If a fund stops reporting returns, its returns are deleted\nfrom the database, but the database has an agreement with funds that they will keep reporting\nverified returns even if they stop being open to new investors. Consider the four following\nstatements: I. The database suffers from backfilling bias. II. The database suffers from\nsurvivorship bias. III. The database suffers from an errors-in-variables bias. IV. The equally-\nweighted annual return average of fund returns will underestimate the performance one would\nexpect from a hedge fund. Which one of the following is correct?",
+        "image": "",
+        "options": {
+            "A": "A.All the above statements are\\ncorrect.",
+            "B": "B.Statements I and II are\\ncorrect.",
+            "C": "C.Statements I, II, and III\\nare correct.",
+            "D": "D.Statements II and IV are\\ncorrect."
+        },
+        "answer": "B",
+        "explanation": "The database includes histories before 1994 and therefore suffers frombackfill\nbias. Next, funds that stop reporting are deleted from the database,so this has survival bias.\nErrors-in-variables biases arise in other contexts,such as regression. Finally, the average of\nfund returns will be too high (nottoo low) because of these two biases. Hence, I. and II. are\ncorrect.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Data Bias, Hedge Fund Performance Measurement, Survivorship Bias",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "The pension management analysts at Big Inc. use a two-step process to manage the assets and\nrisk in the pension portfolio. First, they use a VAR-based risk budgeting process to determine\nthe asset allocation across four broad asset classes. Then, within each asset class, they set a\nmaximum tracking error allowance from a benchmark index and determine an active risk budget to\ndistribute among individual managers. Assume the returns are all normally distributed. From the\nfirst step in the process, the following information is available. \n \n \n Which of the following statements is/are correct? I. Using VAR as the risk budgeting measure,\nthe emerging markets class has the smallest risk budget. II. If an additional dollar were added\nto the portfolio, the marginal impact on portfolio VAR would be greatest if it were invested in\nsmall caps. III. As the maximum tracking error allowance is lowered, the individual managers\nhave more freedom to achieve greater excess returns. IV. Setting well-defined risk limits and\nclosely monitoring risk levels guarantee that risk limits will not be exceeded.",
+        "image": "RiskManagementandInvestmentManagement_images/27u.png",
+        "options": {
+            "A": "A.I and II only",
+            "B": "B.I, II, III, and IV",
+            "C": "C.II and III",
+            "D": "D.I only"
+        },
+        "answer": "A",
+        "explanation": "Risk budget is represented by the individual VAR, which is thesmallest for emerging\nmarkets, so statement I. is correct. The marginal VAR ishighest for small caps, so adding one\ndollar to that asset class would have thelargest impact on the portfolio. Statement III. Is\nincorrect, as lowering TEVwould give less, not more freedom to manages. Finally, setting risk\nlimits doesnot ensure they will not be exceeded, Bad luck and exceptions can happen, evenif the\nrisk model is correct.(2)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "1. Value at Risk (VAR),\n2. Tracking Error,\n3. Risk Budgeting",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "A fund of hedge funds combines a mix of strategy sectors, managers, and styles, and\ntherefore fund of funds risk managers need to understand the common attributes of hedge fund\nstrategies. Which of the following statements is incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Equity market neutral funds\\naim to generate returns that have low correlation to the overall",
+            "B": "B.Convertible arbitrage funds\\ntypically purchase securities that are convertible into the\nissue",
+            "C": "C.Merger arbitrage funds buy\\nthe stock of an acquisition target company and simultaneously\nshor",
+            "D": "D.Equity short-selling funds\\nsell stocks not currently owned by the seller in order to take a"
+        },
+        "answer": "D",
+        "explanation": "Statement a.,b., and c. are correct. Funds that short-sell, however,have negative\ncorrelation with long-only portfolio. They cannot beuncorrelated. (2)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge fund strategies, Fund of hedge funds, Risk management techniques",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "Identify the risks in a fixed-income arbitrage strategy that takes long positions in\ninterest rate swaps hedged with short positions in Treasuries.",
+        "image": "",
+        "options": {
+            "A": "A.The strategy could lose from\\ndecreases in the Swap-Treasury spread.",
+            "B": "B.The strategy could lose from\\nincreases in the Treasury rate, all else fixed.",
+            "C": "C.The payoff in the strategy\\nhas negative skewness.",
+            "D": "D.The payoff in the strategy\\nhas positive skewness."
+        },
+        "answer": "C",
+        "explanation": "The strategy has no exposure to the level of rates but is exposed to awidening of\nthe Swap-Treasury spread. Assume for instance that the swap andTreasury rates are initially\n5.5% and 5%. If these rates change to 5.3% and4.5%, for example, both values for the swap and\nthe Treasury bond wouldincrease. Because the drop in the Treasury rate is larger, however, the\npriceof the Treasury bond would fall more than the swap, leading to a net loss onthe position.\nThe strategy should gain from decreases in the Swap-Treasuryspread, so a. is wrong. The\nstrategy should gain from increases in the Treasuryrate, all else equal, so b. is wrong.\nFinally, the distribution of the payoffdepends on the distribution of the swap-Treasury spread.\nBecause this cannot gobelow zero, there is a limit on the upside. The position has negative\nskewness,so c. is correct.(8)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fixed-income arbitrage, Interest rate swaps, Payoff distribution",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "The Big Bucks Hedge fund has the following description of its activities. It uses\nsimultaneous long and short positions in equity with a net beta close to zero. Which of the\nfollowing statements about Big Bucks are correct? I. It uses a directional strategy. II. It is\na relative value hedge fund. III. This fund is exposed to idiosyncratic risks.",
+        "image": "",
+        "options": {
+            "A": "A.I and II",
+            "B": "B.II and III",
+            "C": "C.I and III",
+            "D": "D.II only"
+        },
+        "answer": "B",
+        "explanation": "This fund has zero beta, so is a relative value fund. It is, however,exposed to\nidiosyncratic, stock-specific risk. (0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Fund Strategies, Beta Management, Idiosyncratic Risk",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "An analyst reports the following fund information to the advisor of a pension fund that\ncurrently invests in government and corporate bonds and carries a surplus of USD 10 million: \n \n \n To evaluate the sufficiency of the fund's surplus, the advisor estimates the possible surplus\nvalues at the end of one year. The advisor assumes that annual returns on assets and the annual\ngrowth of the liabilities are jointly normally distributed and their correlation coefficient is\n0.8. The advisor can report that, with a confidence level of 95%, the surplus value will be\ngreater than or equal to:",
+        "image": "RiskManagementandInvestmentManagement_images/31u.png",
+        "options": {
+            "A": "A.USD -11.4 million",
+            "B": "B.USD -8.3 million",
+            "C": "C.USD -1.7 million",
+            "D": "D.USD 0 million"
+        },
+        "answer": "C",
+        "explanation": "The lower bound of the 95% confidence interval is equalto: Expected Surplus - (95%\nconfidence factor * Volatility of Surplus).  The required variables can be calculated\nasfollows:Variance of the surplus = 1002 * 10%2 + 902 * 5%2 - 2 *100 * 90 * 10% * 5% * 0.8 =\n48.25 Volatility of the surplus = √48.25 =6.94, The expected surplus = 100 * 1.06 - 90 * 1.07\n= 9.7. Therefore, the lower bound of the 95% confidence interval= 9.7 - 1.645 * 6.94 = -\n1.725(4)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Confidence Intervals, Variance Calculations, Joint Distribution of Asset Returns",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "A due diligence specialist is evaluating the risk management process of a hedge fund in\nwhich his company is considering making an investment. Which of the following statements best\ndescribes criteria used for such an evaluation?",
+        "image": "",
+        "options": {
+            "A": "A.Because of the overwhelming importance of tail risk,\\nthe company should not invest in the\nfund unle",
+            "B": "B.Today's best practices in risk management require that\\na fund employ independent risk\nservice provi",
+            "C": "C.When considering a leveraged fund, the specialist\\nshould assess how the fund estimates risks\nrelate",
+            "D": "D.d. It is crucial to assess the fund's valuation policy, and in general if more than 10% of"
+        },
+        "answer": "C",
+        "explanation": "Generally speaking, with a leveraged fund, an investorwill need to evaluate\nhistorical and current changes in leverage, as well asthe level of liquidity of the portfolio,\nparticularly during times of marketstress. Certain strategies may in fact expose an investor to\ntail risk, sowhile an investor should inquire whether the manager believes that tail\nriskexists, and whether or not it is hedged, it is then up to the investor todecide whether to\naccept the risk unhedged or hedge it on their own. Many fundsemploy independent risk service\nproviders to report risks to investors, butthese firms do not get involved in risk related\ndecision making. And finally,while it is important to know what percentage of the assets is\nexchange-tradedand marked to market, what might be acceptable may differ depending on\nthestrategy of the fund.(2)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Leverage, Liquidity Risk, Tail Risk",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "Gail Gordon has been discussing the causes of the recent financial crisis with her\ncolleagues. During the discussion, Gordon commented that three initial key conditions caused\nthe spread of the crisis: (1) lack of adequate reserves in the banking system, (2) lack of\nadequate capital and high leverage, and (3) lack of investor confidence in the financial\nsystem. How many of the initial key crisis conditions has Gordon correctly identified?",
+        "image": "",
+        "options": {
+            "A": "A.None.",
+            "B": "B.One.",
+            "C": "C.Two.",
+            "D": "D.Three."
+        },
+        "answer": "C",
+        "explanation": "Gordon identified only two of thethree key initial conditions correctly. The three\nconditions were: (1)inadequate capital of the banking system coupled with high leverage, (2)\ninadequatefiscal reserves, and (3) large degree of interconnectedness of the global\nfinancialmarkets.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Banking system adequacy, Capital and leverage, Financial system confidence",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Samantha Moore manages a hedge fund for a mid-sized money management firm. The fund\nfrequently changes styles according to identified profit opportunities. At the beginning of the\nyear, the fund took a long position in 10-year subordinated 8% coupon debt issued by a firm\nexpected to undergo reorganization under Chapter 11. Moore felt that analysts had been paying\ntoo little attention to the issuer. Six months later, the fund completed a second transaction\ninvolving a long position in Swiss Francs and a short position in Japanese Yen based on\nforecasted movements in interest rates in the two countries. What two hedge fund strategies are\nmost likely being employed by Moore's hedge fund?",
+        "image": "",
+        "options": {
+            "A": "A.Distressed\\nsecurities strategy and equity long\\/short strategy.",
+            "B": "B.Fixed-income\\narbitrage and global macro strategy.",
+            "C": "C.Distressed\\nsecurities strategy and global macro strategy.",
+            "D": "D.Fixed-income\\narbitrage and equity long\\/short strategy."
+        },
+        "answer": "C",
+        "explanation": "Ina distressed securities strategy, the manager takes a long position in the\nfinancialsecurities of a financially troubled company, holding the securities throughthe\nrestructuring or bankruptcy process to capture value that is unrecognizedby the marker. The\nmanager may also utilize short positions, but this is not anecessary element of the strategy.\nGlobal macro strategies take long and shortpositions in financial instruments (such as\ncurrencies, interest rates, debt,equities, and commodities) based on expected changes in global\ncapital markets. (1)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Distressed securities, Global macro, Hedge fund strategies",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "The Westover Fund is a portfolio consisting of 42% fixed-income investments and 58% equity\ninvestments. The manager of the Westover Fund recently estimated that the annual VaR (5%),\nassuming a 250-day year, for the entire portfolio was $1,367,000 based on the portfolio's\nmarket value of $12,428,000 and a correlation coefficient between stocks and bonds of zero. If\nthe annual loss in the equity position is only expected to exceed $1,153,000 five percent of\nthe time, then the daily expected loss in the bond position that will be exceeded five percent\nof the time is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.46445",
+            "B": "B.72623",
+            "C": "C.55171",
+            "D": "D.21163"
+        },
+        "answer": "A",
+        "explanation": "$$\nVaR^{2}_{portfolio} = VaR^{2}_{Stocks} + VaR^{2}_{Bonds} + 2VaR_{Stocks} VaR_{Bonds} \\rho_{Stocks,Bonds}\n$$\n\n$$(1,367,000)^{2} = (1,153,000)^{2} + VaR^{2}_{Bonds} + 2(1,153,000) VaR_{Bonds}(0)$$\n\n$$\nVaR_{Bonds} = [(1,367,000)^{2} - (1,153,000)^{2}]^{0.5} = 734,357\n$$\n\nNext convert the annual $VaR_{Bonds}$ to daily $VaR_{Bonds}$: \n\n$$\n734,357 \\cdot \\frac{1}{(250)^{0.5}} = 46,445\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio management, Risk measurement methods",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "During the financial crisis of 2007-2009, reference rates such as the London Interbank\nOffered Rate (LIBOR) were less usable for market participants. This evidence calls into\nquestion which of the characteristics of an effective reference rate?",
+        "image": "",
+        "options": {
+            "A": "A.Reliability.",
+            "B": "B.Robustness.",
+            "C": "C.Availability",
+            "D": "D.Representativeness."
+        },
+        "answer": "B",
+        "explanation": "Reliabilityand robustness are important characteristics of an effective reference\nrate. Reliabilityrefers to the degree to which governance and administration protects against\nmanipulationand error and is particularly important for market integrity and\nfunctioning.Robustness indicates the availability and usability of reference rates during\nperiodsof stress. Unsecured interbank markets were considered robust and reliable untilthe\nfinancial crisis. Since then, the notion has been challenged. Availabilityrefers to whether\nrates are readily available and published on dedicated sites.Representativeness refers to the\nrelevance of rates to contracts and isimportant for correct pricing.    (4)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Reference rates, Financial crisis impact, Characteristics of effective reference rates",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "How many of the following statements regarding risk budgeting are correct? I. Tracking error\nis defined as the standard deviation of the difference between the returns on a portfolio and\nthe benchmark portfolio. II. Using only information ratios allows risk of entire (firm)\nportfolios to be budgeted (allocated) across various portfolios managed by separate managers.\nIII. The optimal weights of the allocations to various fund managers (of a firm) do not\nnecessarily have to sum to one. IV. The benchmark portfolio cannot be assigned any weight under\nthe optimal allocation scheme across active fund managers of a firm.",
+        "image": "",
+        "options": {
+            "A": "A.One.",
+            "B": "B.Two.",
+            "C": "C.Three.",
+            "D": "D.Four."
+        },
+        "answer": "B",
+        "explanation": "Optimalallocation is not only dependent on information ratios but also on the\ntrackingerrors. So Statement II is incorrect. Statement III is correct; any difference(in case\nof less than 100% optimal allocation) can be assigned to the benchmarkportfolio. Therefore,\nStatement IV is incorrect. Tracking error is defined asthe standard deviation of the difference\nbetween the returns on a portfolio andthe benchmark portfolio.     (1)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Budgeting, Tracking Error, Portfolio Allocation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "Brenden Hemme, a portfolio manager with Quantum Funds, is constructing an equally weighted,\ntwo-asset portfolio. Asset returns are normally distributed. Hemme would like to limit the\nportfolio VaR to $45 million at the 95% confidence level. He will invest $200 million in each\nasset. Given the following information, determine which two-asset portfolio allows Hemme to\nremain within the proposed risk budget.",
+        "image": "RiskManagementandInvestmentManagement_images/38u.png",
+        "options": {
+            "A": "A.Portfolio AB.",
+            "B": "B.Portfolio AC.",
+            "C": "C.Portfolio BC.",
+            "D": "D.All three potential portfolios exceed Hemme's\\nrisk budget."
+        },
+        "answer": "C",
+        "explanation": "Standard deviation of returns for Portfolio AB =  [(0.5)2(10)2 + (0.5)2(9)2 +\n(2x0.5x0.5x10x9x0.6)]1/2 =8.50% VaRAB = 1.6 x 0.085 x $400 = $56.1 million Standard deviation\nof returns for Portfolio AC = [(0.5)2(10)2 + (0.5)2(11)2 + (2x0.5x0.5x10x11x0.0)]1/2 = 7.43%\nVaRAC = 1.65 x 0.743 x $400 = $49.04 million Standard deviation of returns for Portfolio BC =\n[(0.5)2(9)2 + (0.5)2(11)2 + (2x0.5x0.5x9x11x(-0.4))]1/2 = 5.54% VaRBC = 1.65 x 0.0554 x $400 =\n$36.56 million Based on a limit of $45 million, Portfolio BCremains in Hemme’s risk limit. The\nportfolio standard deviation is lower forPortfolio BC because the correlation coefficient is\nnegative, reducing the VaR.     (1)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Construction, Correlation and Covariance",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Fixed income arbitrage funds attempt to obtain profits by exploiting inefficiencies and\nprice anomalies between related fixed-income securities. The fund managers try to limit\nvolatility by hedging exposure to interest rate risk. Which of the following types of fixed-\nincome trades bets that the fixed side of a spread will stay higher than the floating side of a\nspread?",
+        "image": "",
+        "options": {
+            "A": "A.Swap spread\\ntrade.",
+            "B": "B.Credit\\narbitrage trades.",
+            "C": "C.Mortgage spread\\ntrades.",
+            "D": "D.Fixed-income\\nvolatility trades."
+        },
+        "answer": "A",
+        "explanation": "A swap spread trade is a bet that the fixed side of thespread will stay higher than\nthe floating side of the spread, and stay in a reasonablerange according to historical trends.\n(5)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fixed income arbitrage, Interest rate risk hedging, Swap spreads",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "A risk analyst is evaluating the risk of a portfolio of stocks. Currently, the portfolio is\nvalued at EUR 110 million and contains EUR 10 million in stock A. The standard deviation of\nreturns of stock A is 12% annually and that of the overall portfolio is 19% annually. The\ncorrelation of returns between stock A and the portfolio is 0.5. Assuming the risk analyst uses\na 1-year 99% VaR and that returns are normally distributed, how much is the component VaR of\nstock A?",
+        "image": "",
+        "options": {
+            "A": "A. The standard deviation of\nreturns of stock A is 12% annually and that of the overall portfolio is 19% annually. The\ncorrelation of returns between stock A and the portfolio is 0.5. Assuming the risk analyst uses\na 1-year 99% VaR and that returns are normally distributed, how much is the component VaR of\nstock A?\nA.EUR 0.254 million",
+            "B": "B.EUR 0.986 million",
+            "C": "C.EUR 1.396 million",
+            "D": "D.EUR 3.499 million"
+        },
+        "answer": "C",
+        "explanation": "Let  (99%) represent the 99% confidence factor forthe VaR estimate, which is\n2.326. VaRA=wA* σA*α(99%) =EUR10million x 0.12x 2.326= EUR 2.792 million Component VaRA=\nρ*VaRA = 0.5*2.792=EUR 1.396 million(4)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Risk Management, Correlation and Standard Deviation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "Rick Masler is considering the performance of the managers of two funds, the HCM Fund and\nthe GRT Fund. He uses a linear regression of each manager’s excess return (ri) against the\nexcess returns of a peer group (rB): ri = ai + bi* rB + εi The information he complies is as\nfollows: \n \n \n Based on this information, which of the following statements is correct?",
+        "image": "RiskManagementandInvestmentManagement_images/42u.png",
+        "options": {
+            "A": "A.The regression suggests that both managers have\\ngreater skill than the peer group.",
+            "B": "B.The ai term measures the extent to which\\nthe manager employs greater of lesser amounts of\nleverage",
+            "C": "C.If the GRT Fund were to lose 10% in the next period,\\nthe return on equity would be -60%.",
+            "D": "D.The sensitivity of the GRT fund to the benchmark\\nreturn is much higher than that of the HCM"
+        },
+        "answer": "D",
+        "explanation": "Statement d is correct as can be seen from the bi coefficient.It is higher for GRT\nand lower for HCM. This indicates that the sensitivity ofthe GRT fund to the benchmark return\nis much higher than that of the HCM fund.(9)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "CAPM (Capital Asset Pricing Model), Regression Analysis, Manager Performance Evaluation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "A risk manager assumes that the joint distribution of returns is multivariate normal and\ncalculates the following risk measures for a 2-asset portfolio: \n \n \n If asset 1 is dropped from the portfolio, what will be the reduction in portfolio VaR?",
+        "image": "RiskManagementandInvestmentManagement_images/43u.png",
+        "options": {
+            "A": "A.USD 15.0",
+            "B": "B.USD 38.3",
+            "C": "C.USD 44.0",
+            "D": "D.USD 46.6"
+        },
+        "answer": "A",
+        "explanation": "a is correct: The new portfolio VaR is that of asset 2alone (USD 46.6), which\nimplied a reduction in portfolio VaR of USD 61.6 – USD46.6 = USD 15.0.(2)",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Portfolio Risk Management, Value at Risk (VaR), Joint Distribution",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "A risk manager assumes that the joint distribution of returns is multivariate normal and\ncalculates the following risk measures for a 2-asset portfolio: \n \n \n Let βi = ρip*σi/σp where ρip denotes the correlation between the return of asset I and\nthe return of the portfolio, σi is the volatility of the return of asset i and σp is the\nvolatility of the return of the portfolio. What is β2?",
+        "image": "RiskManagementandInvestmentManagement_images/44u.png",
+        "options": {
+            "A": "A.0.714",
+            "B": "B.1.429",
+            "C": "C.1.513",
+            "D": "D.Cannot determine from information provided."
+        },
+        "answer": "B",
+        "explanation": "Marginal VaRi = βi*PortfolioVaR/Portfolio ValueSo, βi = Marginal\nVaRi*PortfolioValue/Portfolio VaRβ2 = 0.44*200/61.6 = 1.429 (1)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Multivariate normal distribution, Portfolio risk measures, Beta calculation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "You are evaluating the performance of Valance, an equity fund designed to mimic the\nperformance of the Russell 2000 Index. Based upon the information provided below. what is the\nbest estimate of the tracking error of Valance relative to the Russell 2000 Index?\n·       Annual volatility of Valance:                      35%\n·       Annual volatility of Russell 2000 Index:      40%\n·       Correlation between Valance and the Russell 2000 Index: 0.90",
+        "image": "",
+        "options": {
+            "A": "A.3.1%",
+            "B": "B.17.5%",
+            "C": "C.39.6%",
+            "D": "D.53.2%"
+        },
+        "answer": "B",
+        "explanation": "$$\n\\omega^2 = \\sigma(p - B)^2\n$$\n\n$$\n= \\sigma(p)^2 + \\sigma(B)^2 - 2 \\times \\sigma(p) \\times \\sigma(B) \\times \\rho\n$$\n\n$$\n= 0.35^2 + 0.4^2 - 2 \\times 0.35 \\times 0.4 \\times 0.9 = 0.0305\n$$\n\n$$\n\\omega = 17.5\\%\n$$\n\nWhere, $p$ = portfolio returns, $B$ = benchmark returns, $P$ = correlation between benchmark and portfolio.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Tracking Error, Portfolio Volatility, Correlation Coefficient",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Consider a USD 1 million portfolio with an equal investment in two funds. Alpha and Omega,\nwith the following annual return distributions: \n \n \n Assuming the returns follow the normal distribution and that there are 252 trading days per\nyear, what is the maximum possible daily 95% Value-at-Risk (VaR) estimate for the portfolio?",
+        "image": "RiskManagementandInvestmentManagement_images/46u.png",
+        "options": {
+            "A": "A.USD 16,587",
+            "B": "B.USD 23,316",
+            "C": "C.USD 23,459",
+            "D": "D.USD 32,973"
+        },
+        "answer": "B",
+        "explanation": "This question teststhat the candidates understands correlation in calculating\nportfolio VaR. fromthe table, we can get daily volatility for each fund:Fund Alpha volatility:\n0.20/2520.5=1.260%Fund Omega volatility: 0.25/2520.5=1.575%Portfolio\nvariance:0.52*0.012592+0.52*0.015472+2*0.5*0.5*0.01259*0.01574*ρPortfolio volatility =\n(portfolio variance)0.5Portfolio volatility is least when ρ=-1 →      portfolio\nvolatility = 0.1575%Portfolio volatility is greatest when ρ=1 → portfoliovolatility =\n1.4175%Therefore, 95% VaR maximum is 1.645*0.014175*1,000,000 =USD 23,316(5)",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value-at-Risk (VaR), Portfolio Volatility, Correlation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "Galileo Vehicles (GV) and Leonardo Motors (LM) are both leading car manufacturers in hybrid\ncar designs. Earlier this year, both companies introduced new hybrid models that are comparable\nto each other in almost every category. However, after both companies release pricing for their\nnew models, LM’s model is 20% less expensive than GV’s. As a result, GV’s stock price\ndeclined sharply while LM’s stock price rose dramatically. Subsequently LM and GV announce\nthat they have entered into merger discussions where the terms of the planned merger would give\nGV shareholders 1 share of LM per 3 shares of GV previously held. Post the announcement, GV’s\nstock is trading at USD 20 and LM’s stock is trading at USD 58. If you are confident that the\nmerger will be completed, assuming zero transaction costs, which of the following investments\nshould you make?",
+        "image": "",
+        "options": {
+            "A": "A.Buy 300 shares of GV and short 100 shares of LM.",
+            "B": "B.Short 300 shares of GV and buy 100 shares of LM.",
+            "C": "C.Buy 300 shares of GV and buy 100 shares of LM.",
+            "D": "D.Short 300 shares of GV and short 100 shares of LM."
+        },
+        "answer": "B",
+        "explanation": "If the merger goes through, the companies’ prices shouldcorrespond on a 3:1 basis,\nwith 1 share of LM corresponding to 3 shares of GV.However, at the given trading prices the\nratio does not hold, with one share ofLM being equal to USD 58 / USD 20, or 2.9 shares of GV.\nThis shows that LM isundervalued compared to GV given the terms of the merger agreement. If\nthemerger is completed, LM’s stock will appreciate and/or GV’s stock willdepreciate relative\nto each other until the ratio reaches 3:1. In order to exploit this potential arbitrage\nopportunity,you can short 300 shares of the relatively overvalued stock GV, resulting in acash\ninflow of USD 6000, while buying 100 shares of the relatively undervaluedstock LM for USD 5800,\nresulting in a net cash inflow of USD 200. If the mergeris completed, then the long and the\nshort positions will exactly offset eachother given the 3:1 ratio and the trade will be closed.\nThe original cashinflow of USD 200 would be your profit from this arbitrage trade if the\nmergeris completed.(5)",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Market Arbitrage, Merger Arbitrage, Stock Price Valuation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "At the end of 2007, Chad & Co.’s pension had USD 350 million worth of assets that were\nfully invested in equities and USD 180 million in fixed-income liabilities with a modified\nduration of 14. In 2008, the widespread effects of the subprime crisis hit the pension fund,\ncausing its investment in equities to lose 50% of their market value. In addition, the\nimmediate response from the government — cutting interest rates — to salvage the situation,\ncaused bond yields to decline by 2%. What was the change in the pension fund’s surplus in\n2008?",
+        "image": "",
+        "options": {
+            "A": "A.USD -55.4 million",
+            "B": "B.USD -124.6 million",
+            "C": "C.USD -225.4 million",
+            "D": "D.USD -230.4 million"
+        },
+        "answer": "C",
+        "explanation": "The change in the pension fund’s surplus for the year2008 is equal to the initial\nsurplus S0 at the end of 2007 less the endingsurplus S1 at the end of 2008. The initial surplus\nis calculated as S0 =A0 – L0 = 350 – 180 = 170, where A0 = thefirm’s initial assets and L0\nthe firm’s initial liabilities.Next we have to calculate the surplus at the end of 2008.Given\nthe 50% decline in the equity market, the new level of assets A1 at theend of 2008 is equal to:\n(1 – 0.5) * 350, or 175The new level of liabilities L1 can be calculated as:L1 = (1 – (MD *\nΔy)) * L0where MD is the modified duration, and Δy is the change in yield.Liabilities at end\nof 2008 are equal to:L1= (1 – (14 * -0.02)) * 180 = 230.4. Therefore, the 2008 surplus S1 is\nequal to A1 – L1 = 175 – 230.4 = -55.4 (which implies the pension fund isactually in a\ndeficit situation at the end of 2008). The change in surplus for2008 is hence S1 – S0 = -55.4\n– 170 = -225.4 million.(6)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Pension Fund Management, Modified Duration, Interest Rate Risk",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "A portfolio has USD 2 million invested in Stock A and USD 1 million invested in Stock B. The\n95% 1-day VaR for each individual position is USD 40,000. The correlation between the returns\nof Stock A and Stock B is 0.5. While rebalancing, the portfolio manager decides to sell USD 1\nmillion of Stock A to buy USD 1 million of Stock B. Assuming that returns are normally\ndistributed and that the rebalancing does not affect the volatility of the individual stocks,\nwhat effect will this have on the 95% 1-day portfolio VaR?",
+        "image": "",
+        "options": {
+            "A": "A.There will be no effect.",
+            "B": "B.It will increase by USD 20,370.",
+            "C": "C.It will increase by USD 21,370.",
+            "D": "D.It will increase by USD 22,370."
+        },
+        "answer": "D",
+        "explanation": "$$\nVaR_{port}(A,B) = \\sqrt{(VaR_A^2 + VaR_B^2 + (2 \\rho \\cdot VaR_A \\cdot VaR_B))}\n$$\n\n$$\n\\sqrt{40000^2 + 40000^2 + (2 \\cdot 0.5 \\cdot 40000 \\cdot 40000)} = \\text{USD } 69,282.\n$$\n\nAfter the rebalance, the market value of the position in Stock A is halved, so $VaR(A)$ is now equal to $20,000$. Meanwhile, the market value for the position in B has doubled so that $VaR(B)$ is now $80,000$. Hence we can now calculate the VaR of the new portfolio as follows:\n\n$$\nPortfolioVaR (after) = \\sqrt{20000^2 + 80000^2 + (2 \\cdot 0.5 \\cdot 20000 \\cdot 80000)} = \\text{USD } 91,652.\n$$\n\nSo the VaR will increase by $(91,652 - 69,282)$, or $\\text{USD } 22,370. (1)$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Management, Correlation",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "Which statement about risk control in portfolio construction is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Quadratic programming allows for risk control through\\nparameter estimation but generally\nrequires m",
+            "B": "B.The screening technique provides superior risk control\\nby concentrating stocks in selected\nsectors",
+            "C": "C.When using the stratification technique, risk control\\nis implemented by overweighting the\ncategorie",
+            "D": "D.When using the linear programming technique, risk is\\ncontrolled by selecting the portfolio"
+        },
+        "answer": "A",
+        "explanation": "Quadratic programming requires many more inputs thanother portfolio construction\ntechniques because it entails estimatingvolatilities and pair-wise correlations between all\nassets in a portfolio.Quadratic programming is a powerful process, but given the large number\nofinputs it introduces the potential for noise and poor calibration given theless than perfect\nnature of most data.On the other hand, the screening technique strives for riskcontrol by\nincluding a sufficient number of stocks that meet the screeningparameters and by weighting them\nto avoid concentrations in any particularstock. However, screening does not necessarily select\nstocks evenly acrosssectors and can ignore entire sectors or classes of stocks entirely if they\ndonot pass the screen. Therefore, risk control in a screening process isfragmentary at best.\nStratification separates stocks into categories (forexample, economic sectors) and implements\nrisk control by ensuring that theweighting in each sector matches the benchmark weighting.\nTherefore, it doesnot allow for overweighting or underweighting specific categories.Linear\nprogramming does not necessarily select theportfolio with the lowest level of active risk.\nRather, it attempts to improveon stratification by introducing many more dimensions of risk\ncontrol andensuring that the portfolio approximates the benchmark for all thesedimensions. (3)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Quadratic programming, Portfolio risk control, Stratification technique",
+        "book label": "RiskManagement and Investment Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    }
+]

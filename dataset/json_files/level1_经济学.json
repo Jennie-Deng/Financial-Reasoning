@@ -1,0 +1,2756 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Which of the following conditions is least likely to increase a country’s GDP?",
+        "image": "",
+        "options": {
+            "A": "A.An increase in net exports.",
+            "B": "B.Increased investment in capital goods.",
+            "C": "C.Increased government transfer payments."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Government transfer payments, such as unemployment compensation or\nwelfare benefits, are excluded from GDP. 下列哪种情况最不可能增加一个国家的国内生产总值? 政府转\n移支付，如失业补偿或福利，被排除在GDP之外。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "GDP measurement, Government transfer payments, Economic growth factors",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "Oligopolistic pricing strategy most likely results in a demand curve that is:",
+        "image": "",
+        "options": {
+            "A": "A.kinked.",
+            "B": "B.vertical.",
+            "C": "C.horizontal."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The oligopolist faces two different demand structures, one for price\nincreases and another for price decreases. Competitors will lower prices to match a price\nreduction, but will not match a price increase. The result is a kinked demand curve. 寡头定价策\n略最可能导致的需求曲线是: 寡头面临两种不同的需求结构，一种是价格上涨，另一种是价格下跌。竞争对\n手会降低价格以配合降价，但不会配合提价。结果是弯折的需求曲线。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Oligopoly pricing, Demand curve structures, Market competition reactions",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "A company plans to hire additional factory employees. In the short run, marginal returns are\nmost likely to decrease if:",
+        "image": "",
+        "options": {
+            "A": "A.the factory is operating at full capacity.",
+            "B": "B.the factory is experiencing a labor shortage.",
+            "C": "C.workers are required to multitask and share duties."
+        },
+        "answer": "A",
+        "explanation": "Answer: AThe law of diminishing returns occurs in the short run when additional\noutput falls as more and more labor is added to a fixed amount of capital. When a factory is\noperating at full capacity, adding additional employees will not increase production because\nthe physical plant is already 100% employed. More labor hours will add to costs without adding\nto output, thus resulting in diminishing marginal returns. 一家公司计划雇佣更多的工厂员工。在短\n期内，边际收益可能递减，如果: 当越来越多的劳动力加入到固定数额的资本中，额外的产出下降时，短期\n内就会出现收益递减的规律。当一个工厂满负荷运转时，增加额外的员工并不会增加产量，因为实际的设备\n已经100%被使用了。更多的劳动时间将增加成本，而不会增加产出，从而导致边际收益递减。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Law of Diminishing Returns, Marginal Returns, Capacity Utilization",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Over time, the market share of the dominant company in an oligopolistic market will most\nlikely:",
+        "image": "",
+        "options": {
+            "A": "A.increase.",
+            "B": "B.decrease.",
+            "C": "C.remain the same."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The dominant company’s market share tends to decrease as profits attract\nentry by other companies. 随着时间的推移，在寡头垄断市场中占主导地位的公司的市场份额很可能会:\n随着利润吸引其他公司进入，占主导地位的公司的市场份额往往会下降。 或者理解为：有新的厂商进入寡头\n市场，旧厂商市场份额下降，因为这些份额给了新厂商，所以长期来看主导厂商的份额下降。题目中没有明\n确降价的内容。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Structure, Oligopolistic Competition, Market Share Dynamics",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "A company has total variable costs of $4 million and fixed costs of $3 million. Based on this\ninformation, the company will stay in the market in the long term if total revenue is at least:",
+        "image": "",
+        "options": {
+            "A": "A.$3.0 million.",
+            "B": "B.$4.5 million.",
+            "C": "C.$7.0 million."
+        },
+        "answer": "C",
+        "explanation": "Answer: C A company will stay in the market in the long term if total revenue is\nequal to or greater than total cost. Because total costs are $7 million ($4 million variable\ncosts and $3 million fixed costs), the company will stay in the market in the long term if\ntotal revenue equals at least $7 million. 一个公司的总可变成本为400万美元，固定成本为300万美元\n。如果一个公司的总收益等于或大于总成本，它就会长期留在市场上。因为总成本是700万美元(400万美元的\n可变成本和300万美元的固定成本)，如果总收入至少等于700万美元，公司将长期留在市场上。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Cost Analysis, Break-Even Analysis, Revenue Analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "In the case of a normal good with a decrease in own price, which of the following statements\nis most likely true?",
+        "image": "",
+        "options": {
+            "A": "A.Both the substitution and income effects lead to an increase in the quantity purchased.",
+            "B": "B.The substitution effect leads to an increase in the quantity purchased, while the income\neffect has no impact.",
+            "C": "C.The substitution effect leads to an increase in the quantity purchased, while the income"
+        },
+        "answer": "A",
+        "explanation": "Answer: A In the case of normal goods, the income and substitution effects are\nreinforcing, leading to an increase in the amount purchased after a drop in price. 在正常商品自\n身价格下降的情况下，下列哪个陈述最有可能是正确的? 在正常商品的情况下，收入和替代效应导致在价格\n下降后购买的数量增加。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Consumer behavior, Substitution effect, Income effect",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "A company will shut down production in the short run if total revenue is less than total:",
+        "image": "",
+        "options": {
+            "A": "A.fixed costs.",
+            "B": "B.variable costs.",
+            "C": "C.opportunity costs."
+        },
+        "answer": "B",
+        "explanation": "Answer: B A company will shut down production in the short run when total revenue\nis below total variable costs. 当总收入低于总可变成本时，公司将在短期内停止生产。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Short-term production decisions, Total revenue and variable costs, Shutdown point analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "An individual’s demand for onions is given by the following equation:",
+        "image": "",
+        "options": {
+            "A": "A.–1.0597.",
+            "B": "B.–0.0242.",
+            "C": "C.–0.0081."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The cross-price elasticity of demand measures the responsiveness of the\ndemand for onions in response to a change in the price of tomatoes. From the demand function\nequation:\n 洋葱相对于番茄价格的交叉价格弹性最接近于: 需求的交叉价格弹性衡量的是洋葱需求对番茄价格变化的反\n应。从需求函数方程: Q = 3 - 0.05Po 0.009I - 0.16Pt Q = 3 - 0.05 (1.25) 0.009 (2500) - 0.16\n(3.75) = 24.8375 洋葱价格为1.25美元，番茄价格为3.75美元时，需求的交叉价格弹性计算如下: Cross-\nprice elasticity of demand = –0.16 × (3.75/24.8375) = –0.0242\n\n$$\nQ_d^o = 3 - 0.05P_o + 0.009I - 0.16P_t\n$$\n\nwhere $Q_d^o$ is the number of onions demanded, $P_o$ is the price per pound of onions, $I$ is the household income, and $P_t$ is the price per pound of tomatoes. If the price of onions is $1.25, household income is $2,500, and the price of tomatoes is $3.75, the cross-price elasticity of demand for onions with respect to the price of tomatoes is closest to:\n\n$$\nQ_d^o = 3 - 0.05P_o + 0.009I - 0.16P_t\n$$\n\n$$\nQ_d^o = 3 - 0.05(1.25) + 0.009(2,500) - 0.16(3.75) = 24.8375\n$$\n\nAt a price of onions of $1.25 and a price of tomatoes of $3.75, the cross-price elasticity of demand is calculated as follows:\n\nCross-price elasticity of demand = $\\left(\\frac{\\Delta Q_d^o / \\Delta P_t}{P_t / Q_d^o}\\right)$\n\nCross-price elasticity of demand = $-0.16 \\times (3.75 / 24.8375) = -0.0242$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "cross-price elasticity of demand, demand function, price elasticity",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Suppose the cost of producing tea relative to copper is lower in Tealand than in Copperland.\nWith trade, the copper industry in Copperland would most likely:",
+        "image": "",
+        "options": {
+            "A": "A.expand.",
+            "B": "B.contract.",
+            "C": "C.remain stable."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The copper industry in Copperland would benefit from trade. Because the\ncost of producing copper relative to producing tea is lower in Copperland than in Tealand,\nCopperland will export copper and the industry will expand. 假设生产茶叶的成本在Tealand比在\nCopperland要低。在贸易方面，Copperland很可能: Copperland将从贸易中受益。因为生产铜的成本相对于\n生产茶来说，在Copperland国比在Tealand国低，所以Copperland将出口铜，这个行业将会扩大。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Comparative advantage, International trade, Industry expansion",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "The sustainable growth rate is best estimated as:",
+        "image": "",
+        "options": {
+            "A": "A.the weighted average of capital and labor growth rates.",
+            "B": "B.growth in the labor force plus growth of labor productivity.",
+            "C": "C.growth in total factor productivity plus growth in the capital-to-labor ratio."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Output growth is equal to the growth rate of the labor force plus the\ngrowth rate of labor productivity, i.e. output per worker. Unlike total factor productivity,\noutput per worker is observable, so this is the most practical way to approach estimation of\nsustainable growth. 可持续增长率的最佳估计为: 产出增长率等于劳动力的增长率加上劳动生产率的增长\n率，即每个工人的产出。与全要素生产率不同，每个工人的产出是可以观察到的，因此这是估算可持续增长\n最实用的方法。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "- Sustainable Growth Rate\n- Labor Productivity\n- Economic Growth Analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "A large country can:",
+        "image": "",
+        "options": {
+            "A": "A.benefit by imposing a tariff.",
+            "B": "B.benefit with an export subsidy.",
+            "C": "C.not benefit from any trade restriction"
+        },
+        "answer": "A",
+        "explanation": "Answer: A By definition, a large country is big enough to affect the world price of\nits imports and exports. A large country can benefit by imposing a tariff if its terms of trade\nimprove by enough to outweigh the welfare loss arising from inefficient allocation of\nresources. 一个大国可以: 从定义上讲，一个大国足以影响其进出口商品的国际价格。如果一个大国的贸易\n条件改善了足够多，超过了资源配置效率低下带来的福利损失，它就可以通过征收关税获益。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "International Trade Theory, Tariffs and Trade Restrictions, Terms of Trade",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "The short-term breakeven point of production for a firm operating under perfect competition\nwill most likely occur when:",
+        "image": "",
+        "options": {
+            "A": "A.price is equal to average total cost.",
+            "B": "B.marginal revenue is equal to marginal cost.",
+            "C": "C.marginal revenue is equal to average variable costs."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Under perfect competition, price equals marginal revenue. A firm breaks\neven when marginal revenue equals average total cost. 在完全竞争条件下经营的企业，其短期生产盈\n亏平衡点很可能出现在以下情况: 在完全竞争条件下，价格等于边际收入。当边际收入等于平均总成本时\n，企业就会实现盈亏平衡。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Break-even analysis, Perfect competition, Cost structures",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Which of the following would be included in Canadian GDP for a given year? The market value\nof:",
+        "image": "",
+        "options": {
+            "A": "A.wine grown in Canada by US citizens.",
+            "B": "B.electronics made in Japan and sold in Canada.",
+            "C": "C.movies produced outside Canada by Canadian film makers."
+        },
+        "answer": "A",
+        "explanation": "Answer: ACanadian GDP is the total market value of all final goods and services\nproduced in a given time period within Canada. The wine was produced in Canada and counts\ntowards Canadian GDP. 下列哪项会被计入加拿大某一年的国内生产总值?市值: 加拿大国内生产总值是指在\n一定时期内加拿大生产的所有最终产品和服务的总市场价值。这种葡萄酒产自加拿大，并计入加拿大GDP。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "GDP calculation, National income accounts, Production within borders",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Consider the following data for 2010 for a hypothetical country:\nBased only on the data given, the gross domestic product and national income are respectively\nclosest to:",
+        "image": "level1_jing_ji_xue_images/14u.PNG",
+        "options": {
+            "A": "A.21.1 and 20.6.",
+            "B": "B.22.6 and 21.1.",
+            "C": "C.22.8 and 20.8."
+        },
+        "answer": "B",
+        "explanation": "Answer: B GDP = Consumption + Gross private domestic investment + Government\nSpending + Exports – Imports = 15 + 4 + 3.8 + 1.5 – 1.7 = 22.6. National income = GDP – CCA\n= 22.6 – 1.5 = 21.1 仅根据所给的数据，国内生产总值和国民收入分别最接近于: 国内生产总值=消费 国\n内私人投资总值 政府开支 出口-进口= 15 4 3.8 1.5 - 1.7 = 22.6。国民收入= GDP - CCA = 22.6 - 1.5\n= 21.1",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Gross Domestic Product (GDP), National Income, Economic Formulas",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "15",
+        "question_text": "If wages were automatically adjusted for changes in the price level, the short-run aggregate\nsupply curve would most likely be:",
+        "image": "",
+        "options": {
+            "A": "A.flatter.",
+            "B": "B.steeper.",
+            "C": "C.unchanged."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The slope of the short-run aggregate supply curve reflects the extent to\nwhich wages and other input costs adjust to the overall price level. Automatic adjustment of\nwages would mitigate the impact of price changes on profitability. Hence, firms would not\nadjust output as much in response to changing output prices—the SRAS curve would be steeper.\n如果工资是根据价格水平的变化自动调整的，那么短期总供给曲线很可能是: 短期总供给曲线的斜率反映了\n工资和其他投入成本对总体价格水平的调整程度。工资的自动调整将减轻价格变化对盈利能力的影响。因此\n，企业不会根据产出价格的变化来调整产量——SRAS曲线会更陡。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Short-run aggregate supply (SRAS), Wage-price flexibility, Slope of supply curves",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Which of the following international trade bodies was the only multilateral body governing\ninternational trade from 1948 to 1995?",
+        "image": "",
+        "options": {
+            "A": "A.World Trade Organization (WTO).",
+            "B": "B.International Trade Organization (ITO).",
+            "C": "C.General Agreement on Tariffs and Trade (GATT)."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The GATT was the only multilateral body governing international trade\nfrom 1948 to 1995. It operated for almost half a century as a quasi-institutionalized,\nprovisional system of multilateral treaties and included several rounds of negotiations. 下列哪\n个国际贸易机构是1948年至1995年期间管理国际贸易的唯一多边机构? 从1948年到1995年，关贸总协定是唯\n一管理国际贸易的多边机构。它作为一个准体制化的临时多边条约制度运作了将近半个世纪，包括几轮谈判\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International trade bodies, General Agreement on Tariffs and Trade (GATT), Multilateral treaties",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "The production relationship between the number of machine hours and total product for a\ncompany is presented below.\nDiminishing marginal returns first occur beyond machine hour:",
+        "image": "level1_jing_ji_xue_images/17u.PNG",
+        "options": {
+            "A": "A.3.",
+            "B": "B.4.",
+            "C": "C.5."
+        },
+        "answer": "A",
+        "explanation": "Answer: A\n Diminishing marginal returns occur when the marginal product of a resource\ndecreases as additional units of that input are employed. Marginal product, which is the\nadditional output resulting from using one more unit of input, is presented below.\nThe marginal product of the third machine hour is 6 and declines thereafter. Consequently,\ndiminishing marginal returns are first evident beyond three machine hours. 边际收益递减是指一种\n资源的边际产量随着投入的增加而减少。边际产量，即使用多一单位投入所产生的额外产出。第三个机器小\n时的边际产量为6，之后递减。因此，边际收益递减在机器工作三小时后首次显现。```\n\\begin{array}{|c|c|c|c|}\n\\hline\n\\text{Machine Hours} & \\text{Total Product} & \\text{Average Product} & \\text{Marginal Product} \\\\\n\\hline\n1 & 3 & 3.00 & 3 \\\\\n\\hline\n2 & 8 & 4.00 & 5 \\\\\n\\hline\n3 & 14 & 4.67 & 6 \\\\\n\\hline\n4 & 19 & 4.75 & 5 \\\\\n\\hline\n5 & 21 & 4.20 & 2 \\\\\n\\hline\n\\end{array}\n```",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Production Function, Marginal Product, Diminishing Marginal Returns",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "18",
+        "question_text": "A country has a comparative advantage in producing a good if:",
+        "image": "",
+        "options": {
+            "A": "A.it is able to produce the good at a lower cost than its trading partner.",
+            "B": "B.its opportunity cost of producing the good is less than that of its trading partner.",
+            "C": "C.its opportunity cost of producing the good is more than that of its trading partner."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Comparative advantage is present when the opportunity cost of producing a\ngood is less than that of a trading partner. 一个国家在生产一种商品方面具有比较优势，如果: 当生\n产一种商品的机会成本低于贸易伙伴的机会成本时，就存在比较优势。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Comparative advantage, Opportunity cost, International trade",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "The short-term shutdown point of production for a firm operating under perfect competition\nwill most likely occur when:",
+        "image": "",
+        "options": {
+            "A": "A.price is equal to average total cost.",
+            "B": "B.marginal revenue is equal to marginal cost.",
+            "C": "C.marginal revenue is equal to average variable costs."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The firm should shut down production when marginal revenue is less than\naverage variable cost. 在完全竞争条件下经营的企业，最可能出现的短期停产点是: 当边际收入低于平均\n可变成本时，企业应停止生产。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Perfect competition, Shutdown point, Marginal revenue and average variable costs",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "Which of the following best describes the aggregate supply curve in the short-run (e.g., 1\nto 2 years)? The short run aggregate supply curve is:",
+        "image": "",
+        "options": {
+            "A": "A.flat because output is more flexible than prices in the short run.",
+            "B": "B.vertical because wages and other input prices fully adjust to the price level.",
+            "C": "C.upward sloping because input prices do not fully adjust to the price level in the short run."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Due to long-term contracts and other rigidities, wages and other input\ncosts do not fully adjust to changes in the price level in the short-run. Given input prices,\nfirms respond to output price changes by expanding or contracting output to maximize profit.\nHence, the SRAS is upward sloping. 下列哪一项最能描述短期内的总供给曲线(例如，1至2年)?短期总供\n给曲线为: 由于长期合同和其他刚性，工资和其他投入成本在短期内不能完全适应价格水平的变化。给定投\n入价格，企业对产出价格变化的反应是通过扩大或收缩产出来实现利润最大化。因此，SRAS是向上倾斜的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Aggregate Supply (AS) Curve, Input Prices, Short-run Economic Adjustments",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "An operator of a ski resort is considering offering price reductions on weekday ski passes.\nAt the normal price of €50 per day, 300 customers are expected to buy passes each weekday. At\na discounted price of €40 per day 450 customers are expected to buy passes each weekday. The\nmarginal revenue per customer earned from offering the discounted price is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.€20.",
+            "B": "B.€40.",
+            "C": "C.€50."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Marginal revenue per unit is defined as the change in total revenues\ndivided by the change in quantity sold. MR = ΔTR ÷ ΔQ. In this case, change in total revenue\nper day equals €3,000 [(450 × €40) – (300 × €50)], and change in units sold equals 150\n(450 – 300). €3,000 ÷ 150 = €20. 一家滑雪场的经营者正在考虑降低平日滑雪通行证的价格。按照每\n天50欧元的正常价格，300名顾客将在每个工作日购买通行证。以每天40欧元的折扣价，预计每个工作日将有\n450名顾客购买通行证。每个顾客通过提供折扣价格而获得的边际收入最接近于: 单位边际收入定义为总收入\n的变化量除以销售量的变化量。ΔTR÷ΔQ。在这种情况下，每天总收益的变化等于€3000((450×€40)-\n(300×€50))，单位销售量的变化等于150(450 - 300)。€3000÷150 =€20。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Marginal Revenue, Price Elasticity, Revenue Analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "Price elasticity of demand for a good will most likely be greater if:",
+        "image": "",
+        "options": {
+            "A": "A.there are no substitutes for the good.",
+            "B": "B.consumers consider the good as discretionary.",
+            "C": "C.consumers spend a small portion of their budget on the good."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Price elasticity of demand is likely to be greater for items that are\nseen as optional or discretionary. 一种商品的需求价格弹性很可能会更大，如果: 对于那些被视为可选\n或随意选择的商品，需求的价格弹性可能会更大。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Microeconomics, Demand Elasticity, Consumer Behavior",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "Which of the following can be measured directly?",
+        "image": "",
+        "options": {
+            "A": "A.Potential GDP.",
+            "B": "B.Labor productivity.",
+            "C": "C.Total factor productivity."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Labor productivity can be directly measured as output/hour. 下列哪项可以\n直接测量? 劳动生产率可以直接用产量每小时来衡量。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Labor productivity, Measurement of economic indicators, Output per hour",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "A profit maximum is least likely to occur when:",
+        "image": "",
+        "options": {
+            "A": "A.average total cost is minimized.",
+            "B": "B.marginal revenue equals marginal cost.",
+            "C": "C.the difference between total revenue and total cost is maximized."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The quantity at which average total cost is minimized does not\nnecessarily correspond to a profit maximum. 在下列情况下，最不可能出现最高利润: 平均总成本最小\n的数量不一定对应利润的最大值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Profit Maximization, Average Total Cost, Marginal Revenue and Marginal Cost",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "Increased household wealth will most likely cause an increase in:",
+        "image": "",
+        "options": {
+            "A": "A.household saving.",
+            "B": "B.investment expenditures.",
+            "C": "C.consumption expenditures."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The wealth effect explains the impact of increases or decreases in\nhousehold wealth on economic activity. Household wealth includes financial and real assets. As\nasset values increase, consumers save less and spend more out of current income since they will\nstill be able to meet their wealth accumulation goals. Therefore, an increase in household\nwealth results in a rightward shift in the aggregate demand curve. 家庭财富的增加很可能会导致以\n下方面的增加: 财富效应解释了家庭财富增加或减少对经济活动的影响。家庭财富包括金融和不动产。随着\n资产价值的增加，消费者会从当前收入中减少储蓄，增加支出，因为他们仍有能力实现财富积累目标。因此\n，家庭财富的增加导致总需求曲线向右移动。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Wealth effect, Aggregate demand, Consumption expenditures",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "Among developed economies, which of the following sources of economic growth is most likely\nto explain superior growth performance?",
+        "image": "",
+        "options": {
+            "A": "A.Technology.",
+            "B": "B.Capital stock.",
+            "C": "C.Labor supply."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Technology is the most important factor affecting economic growth for\ndeveloped countries. Technological advances are very important because they allow an economy to\novercome the limits imposed by diminishing marginal returns. 在发达经济体中，下列哪一种经济增长\n来源最有可能解释优越的增长业绩? 技术是影响发达国家经济增长的最重要因素。技术进步是非常重要的\n，因为它们使经济能够克服边际收益递减所施加的限制。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic growth, Technological advancements, Diminishing marginal returns",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "Patent fees and legal services are recorded in which of the following balance of payments\ncomponents?",
+        "image": "",
+        "options": {
+            "A": "A.Capital account.",
+            "B": "B.Current account.",
+            "C": "C.Financial account."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The current account measures the flows of goods and services (including\nincome from foreign investments). Patent fees and legal services are both captured in the\nservices sub-account of the current account. 专利费用和法律服务记录在下列哪个国际收支组成部分?\n经常项目衡量商品和服务的流动(包括外国投资的收入)。专利费和法律服务均计入经常账户的服务子账户。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Balance of Payments, Current Account, International Trade in Services",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "Collusion is less likely in a market when:",
+        "image": "",
+        "options": {
+            "A": "A.the product is homogeneous.",
+            "B": "B.companies have similar market shares.",
+            "C": "C.the cost structures of companies are similar."
+        },
+        "answer": "B",
+        "explanation": "Answer: B When companies have similar market shares, competitive forces tend to\noutweigh the benefits of collusion. 当企业拥有相似的市场份额时，竞争带来的激励往往会超过合谋的\n好处，所以更不可能合谋。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market Structure, Competition Dynamics, Collusion Factors",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "Which of the following is least likely to be caused by a shift in aggregate demand?",
+        "image": "",
+        "options": {
+            "A": "A.Stagflation.",
+            "B": "B.A recessionary gap.",
+            "C": "C.An inflationary gap."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Stagflation occurs when output is declining and prices are rising. This\nis most likely due to a decline in aggregate supply—a leftward shift of the SRAS curve.\nDepending on the source of the shift, the LRAS may shift too. 下列哪一项最不可能由总需求的变化\n引起? 当产出下降而价格上涨时，就会发生滞胀。这很可能是由于总供给的下降——SRAS曲线的左移。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Aggregate demand, Aggregate supply, Stagflation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "If the income elasticity of demand for a product is –0.6, a:",
+        "image": "",
+        "options": {
+            "A": "A.1% increase in income will result in a 0.6% increase in demand.",
+            "B": "B.1% increase in income will result in a 0.6% decrease in demand.",
+            "C": "C.0.6% increase in income will result in a 1% decrease in demand."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Income elasticity is a measure of how sensitive quantity demanded is to a\nchange in income. If the income elasticity of demand for the product is–0.6, whenever income\nincreases by 1%, the quantity demanded of the product at each price decreases by 0.6%.\nConsequently, as income rises, consumers will purchase less of the product. 如果某一产品的需求\n收入弹性为-0.6，则: 收入弹性衡量的是需求量对收入变化的敏感程度。当产品的需求收入弹性为-0.6时\n，收入每增加1%，产品在每个价格下的需求量下降0.6%。因此，随着收入的增加，消费者会购买更少的产品\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Income Elasticity of Demand, Quantitative Analysis, Consumer Behavior",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "Which of the following factors best explains why regional trading agreements are more\npopular than larger multilateral trade agreements?",
+        "image": "",
+        "options": {
+            "A": "A.Minimal displacement costs.",
+            "B": "B.Trade diversions benefit members.",
+            "C": "C.Quicker and easier policy coordination."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Regional trading agreements are politically less contentious and quicker\nto establish than multilateral trade negotiations (for example, under the World Trade\nOrganization). Policy coordination and harmonization is easier among a smaller group of\ncountries. 以下哪一个因素最能解释为什么区域贸易协定比大型多边贸易协定更受欢迎? 与多边贸易谈判\n(例如在世界贸易组织下)相比，区域贸易协定在政治上争议较少，建立起来也更快。少数国家之间的政策协\n调和统一比较容易。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Trade agreements, Policy coordination, Multilateral negotiations",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "An agricultural firm operating in a perfectly competitive market supplies wheat to\nmanufacturers of consumer food products and animal feeds. If the firm were able to expand its\nproduction and unit sales by 10% the most likely result would be:",
+        "image": "",
+        "options": {
+            "A": "A.a 10% increase in total revenue.",
+            "B": "B.a 10% increase in average revenue.",
+            "C": "C.an increase in total revenue of less than 10%."
+        },
+        "answer": "A",
+        "explanation": "Answer: A In a perfectly competitive market, an increase in supply by a single firm\nwill not affect price. Therefore, an increase in units sold by the firm will be matched\nproportionately by an increase in revenue. 在完全竞争市场中经营的一家农业公司向消费品和动物饲料\n制造商供应小麦。如果公司能够扩大10%的生产和销售，最有可能的结果是: 在完全竞争的市场中，一家公司\n的供应增加不会影响价格。因此，公司销售量的增加将与收入的增加成正比。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Perfectly competitive market, Revenue changes associated with production changes, Market dynamics and price effects",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "According to the Heckscher–Ohlin model, when trade opens:",
+        "image": "",
+        "options": {
+            "A": "A.the scarce factor gains relative to the abundant factor in each country.",
+            "B": "B.the abundant factor gains relative to the scarce factor in each country.",
+            "C": "C.income is redistributed between countries but not within each country."
+        },
+        "answer": "B",
+        "explanation": "Answer: B As a country opens up to trade, it has a favorable impact on the abundant\nfactor, and a negative impact on the scarce factor. This is because trade causes the output mix\nto change and therefore changes the relative demand for the factors of production. Increased\noutput of the export product increases demand for the factor that is used intensively in its\nproduction, while reduced output of the import product decreases demand for the factor used\nintensively in its production. Because the export (import) product uses the abundant (scarce)\nfactor intensively, the abundant factor gains relative to the scarce factor in each country. 根\n据Heckscher-Ohlin模型，当交易开始时: 一个国家的对外开放对其丰富的要素产生了有利的影响，对其稀缺\n的要素产生了不利的影响。这是因为贸易引起了产出结构的变化，从而改变了对生产要素的相对需求。出口\n产品产量的增加增加了对集约化生产要素的需求，而进口产品产量的减少减少了对集约化生产要素的需求。\n由于出口(进口)产品对丰富(稀缺)要素的集中利用，使得每个国家的丰富要素相对于稀缺要素获得收益。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International Trade Theories, Factor Endowments, Income Distribution.",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Which of the following most likely contributes to a current account deficit?",
+        "image": "",
+        "options": {
+            "A": "A.High taxes.",
+            "B": "B.Low private savings.",
+            "C": "C.Low private investment."
+        },
+        "answer": "B",
+        "explanation": "Answer: B A current account deficit tends to result from low private saving, high\nprivate investment, a government deficit, or a combination of the three. Of the choices, only\nlow private savings contributes toward a current account deficit. 下列哪项最有可能造成经常帐赤\n字? 经常账户赤字往往是由私人储蓄低、私人投资高、政府赤字或三者共同造成的。在这些选择中，只有较\n低的私人储蓄才会导致经常账户赤字。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Current account deficit, Private savings, Government deficit",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "The sale of mineral rights would be captured in which of the following balance of payments\ncomponents?",
+        "image": "",
+        "options": {
+            "A": "A.Capital account.",
+            "B": "B.Current account.",
+            "C": "C.Financial account."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The capital account measures capital transfers and sale and purchase of\nnon-produced, non-financial assets such as mineral rights and intangible assets. 出售矿业权将纳\n入下列哪一项国际收支组成部分? 资本账户衡量的是资本转移和非生产性非金融资产(如矿业权和无形资产\n)的买卖。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Balance of Payments, Capital Account, Financial Management",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "A wireless phone manufacturer introduced a next-generation phone that received a high level\nof positive publicity. Despite running several high-speed production assembly lines, the\nmanufacturer is still falling short in meeting demand for the phone nine months after\nintroduction. Which of the following statements is the most plausible explanation for the\ndemand/supply imbalance?",
+        "image": "",
+        "options": {
+            "A": "A.The phone price is low relative to the equilibrium price.",
+            "B": "B.Competitors introduced next-generation phones at a similar price.",
+            "C": "C.Consumer incomes grew faster than the manufacturer anticipated."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The situation described is one of excess demand because, in order for\nmarkets to clear at the given level of quantity supplied, the company would need to raise\nprices. 一家无线电话制造商推出了广受好评的新一代手机。尽管运行了几条高速生产装配线，但在推出9个\n月后，制造商仍未能满足市场对这款手机的需求。以下哪一种说法是对供求失衡最合理的解释? 所描述的情\n况是需求过剩，因为为了使市场在给定的供给量水平上出清，公司需要提高价格。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "supply and demand imbalances, price equilibrium, market clearing mechanisms",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "An analyst gathered the following market share data for an industry comprised of five\ncompanies:\nThe industry’s three-firm Herfindahl–Hirschmann Index is closest to:",
+        "image": "level1_jing_ji_xue_images/37u.PNG",
+        "options": {
+            "A": "A.0.185.",
+            "B": "B.0.225.",
+            "C": "C.0.235."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The three-firm Herfindahl–Hirschmann Index is 0.35^2 + 0.25^2 + 0.20^2 =\n0.225. 一名分析师为一个由五家公司组成的行业收集了以下市场份额数据: 该行业的三家公司赫芬达尔-赫\n希曼指数(Herfindahl-Hirschmann Index)最接近于: 由三家公司组成的赫芬达尔-赫希曼指数为\n0.35^2＋0.25^2＋0.20^2 = 0.225。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Herfindahl-Hirschmann Index (HHI), Market Concentration, Industry Structure Analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "38",
+        "question_text": "Which of the following organizations helps to keep global systemic risk under control by\npreventing contagion in scenarios such as the 2010 Greek sovereign debt crisis?",
+        "image": "",
+        "options": {
+            "A": "A.World Bank Group (World Bank).",
+            "B": "B.World Trade Organization (WTO).",
+            "C": "C.International Monetary Fund (IMF)."
+        },
+        "answer": "C",
+        "explanation": "Answer: C From an investment perspective, the IMF helps to keep country-specific\nmarket risk and global systemic risk under control. The Greek sovereign debt crisis on 2010,\nwhich threatened to destabilize the entire European banking system, is a recent example. The\nIMF’s mission is to ensure the stability of the international monetary system, the system of\nexchange rates and international payments which enables countries to buy goods and services\nfrom each other. 以下哪个组织通过防止2010年希腊主权债务危机蔓延，帮助控制全球系统性风险? 从投资\n角度看，IMF有助于控制国别市场风险和全球系统性风险。2010年威胁到整个欧洲银行体系稳定的希腊主权债\n务危机就是最近的一个例子。国际货币基金组织的使命是确保国际货币体系的稳定，确保各国能够相互购买\n商品和服务的汇率体系和国际支付体系的稳定。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Systemic Risk, Sovereign Debt, International Monetary System",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "If companies earn economic profits in a perfectly competitive market, over the long run the\nsupply curve will most likely:",
+        "image": "",
+        "options": {
+            "A": "A.shift to the left.",
+            "B": "B.shift to the right.",
+            "C": "C.remain unchanged."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The economic profit will attract new entrants to the market and encourage\nexisting companies to expand capacity. 如果企业在完全竞争的市场中获得经济利润，从长期来看，供给\n曲线很可能: 经济利润将吸引新进入者进入市场，并鼓励现有公司扩大产能,产量增加，供给曲线右移。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Structure, Competitive Markets, Supply and Demand Dynamics",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Which of the following is most likely to cause the long-run aggregate supply curve to shift\nto the left?",
+        "image": "",
+        "options": {
+            "A": "A.Higher nominal wages.",
+            "B": "B.A decline in productivity.",
+            "C": "C.An increase in corporate taxes."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Productivity measures the efficiency of labor and is the amount of output\nproduced by workers in a given period of time. A decline in productivity implies decreased\nefficiency. A decline in productivity increases labor costs, decreases profitability and\nresults in lower output at each output price level—a leftward shift in both the short-run and\nlong-run aggregate supply curves. 下列哪项最有可能导致长期总供给曲线向左平移? 生产率衡量的是劳\n动的效率，是工人在一定时期内生产的产品数量。生产率的下降意味着效率的下降。生产率下降会增加劳动\n力成本，降低盈利能力，并导致每一产出价格水平的产出下降——这在短期和长期总供给曲线上都是向左移\n动的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Aggregate supply, Productivity, Labor costs",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "Germany has much more capital per worker than Portugal. In autarky each country produces and\nconsumes both machine tools and wine. Production of machine tools is relatively capital\nintensive whereas winemaking is labor intensive. According to the Heckscher–Ohlin model, when\ntrade opens:",
+        "image": "",
+        "options": {
+            "A": "A.Germany should export machine tools and Portugal should export wine.",
+            "B": "B.Germany should export wine and Portugal should export machine tools.",
+            "C": "C.Germany should produce only machine tools and Portugal should produce only wine."
+        },
+        "answer": "A",
+        "explanation": "Answer: A In the Heckscher–Ohlin model a country has a comparative advantage in\ngoods whose production is intensive in the factor with which it is relatively abundantly\nendowed. In this case, capital is relatively abundant in Germany so Germany has a comparative\nadvantage in producing the capital-intensive product: machine tools. Portugal is relatively\nlabor abundant, hence should produce and export the labor-intensive product: wine. 德国的人均资\n本比葡萄牙多得多。在自给自足的状态下，每个国家生产和消费的都是机床和葡萄酒。机床的生产是资本密\n集型的，而酿酒是劳动密集型的。根据Heckscher-Ohlin模型，当交易开始时: 在Heckscher-Ohlin模型中\n，一个国家在其相对丰富的要素中生产密集的商品方面具有比较优势。在这种情况下，德国的资本相对充裕\n，因此德国在生产资本密集型产品机床方面具有比较优势。葡萄牙劳动力比较丰富，因此应该生产和出口劳\n动密集型产品:葡萄酒。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Heckscher-Ohlin model, Comparative advantage, Factor endowments",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "Equality between aggregate expenditure and aggregate output implies that the government’s\nfiscal deficit must equal:",
+        "image": "",
+        "options": {
+            "A": "A.Private saving – Investment – Net exports.",
+            "B": "B.Private saving – Investment + Net exports.",
+            "C": "C.Investment – Private saving + Net exports."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The fundamental relationship among saving, investment, the fiscal\nbalance, and the trade balance is S = I + (G – T) + (X – M). This form of the relationship\nshows that private saving must fund investment expenditures, the government fiscal balance, and\nnet exports (= net capital outflows). Rearranging gives G – T = (S – I) – (X– M). The\ngovernment’s fiscal deficit (G – T) must be equal to the private sector’s saving/investment\nbalance (S – I) minus net exports. 总支出与总产出相等意味着政府的财政赤字必须等于: 储蓄、投资\n、财政收支和贸易收支之间的基本关系是S = I (G - T) (X - M)，这种关系的形式表明，私人储蓄必须为投\n资支出、政府财政收支和净出口(=净资本外流)提供资金。G - T = (S - I) - (X - M).政府的财政赤字(G -\nT)必须等于私营部门的储蓄/投资平衡(S - I)减去净出口。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Macro-economic relationships, Fiscal policies, Government budget balances",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Companies most likely have a well-defined supply function when the market structure is:",
+        "image": "",
+        "options": {
+            "A": "A.oligopoly.",
+            "B": "B.perfect competition.",
+            "C": "C.monopolistic competition."
+        },
+        "answer": "B",
+        "explanation": "Answer: B A company in a perfectly competitive market must accept whatever price\nthe market dictates. The marginal cost schedule of a company in a perfectly competitive market\ndetermines its supply function. 题目问的是：哪种市场结构下厂商最有可能存在确定的供给函数 ？ 在\n完全竞争市场中，厂商调整产量Q使MR=MC=P，市场需求曲线D变动——均衡价格P变动——厂商的需求曲线平\n移——单个厂商均衡产量Q随之变动，即P和Q之前存在一一对应关系。因此，完全竞争市场下的厂商存在确定\n的供给函数，对应的供给曲线是一条确定的线。 但在不完全竞争市场（垄断竞争、寡头垄断、垄断）中，厂\n商可以同时调整Q和P实现MR=MC，此时市场需求曲线D变动——MR曲线也会发生移动——P和Q可能不存在一一\n对应关系，会出现一个价格水平对应几个不同的产量水平或一个产量水平对应多个价格的情形。因此，在不\n完全竞争市场（垄断竞争、寡头垄断、垄断）中不存在有规律的厂商短期供给曲线，也不存在有规律的行业\n短期供给曲线。 故选项B是最适合的答案。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Structures, Perfect Competition, Supply Function",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Movement along the demand curve for good X occurs due to a change in:",
+        "image": "",
+        "options": {
+            "A": "A.income.",
+            "B": "B.the price of good X.",
+            "C": "C.the price of a substitute for good X."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The demand curve shows quantity demanded as a function of own price only.\n商品X在需求曲线上的移动是由于: 价格的改变会造成在需求曲线上的移动。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Price elasticity of demand, Demand curve, Own price effect",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "When total revenue is greater than total variable costs but less than total costs, in the\nshort term a firm will most likely:",
+        "image": "",
+        "options": {
+            "A": "A.exit the market.",
+            "B": "B.stay in the market.",
+            "C": "C.shut down production."
+        },
+        "answer": "B",
+        "explanation": "Answer: B When total revenue is enough to cover variable costs but not total fixed\ncosts in full, the firm can survive in the short run but would be unable to maintain financial\nsolvency in the long run. 当总收入大于总可变成本，但小于总成本时，短期内企业最有可能: 当总收入\n足以支付可变成本，但不能完全支付固定成本时，企业可以在短期内生存，但在长期内将无法保持财务偿付\n能力。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cost-Volume-Profit Analysis, Short-run Production Decisions, Variable and Fixed Costs",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "The marginal revenue per unit sold for a firm doing business under conditions of perfect\ncompetition will most likely be:",
+        "image": "",
+        "options": {
+            "A": "A.equal to average revenue.",
+            "B": "B.less than average revenue.",
+            "C": "C.greater than average revenue."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Under perfect competition, a firm is a price taker at any quantity\nsupplied to the market, and AR = MR = Price. 在完全竞争的条件下，企业每单位的边际收入很可能是:\n在完全竞争条件下，企业是市场供应量的任何数量的价格接受者，AR = MR = price。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Perfect competition market structure, Marginal revenue, Average revenue",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "If Brazil and South Africa have free trade with each other, a common trade policy against\nall other countries, but no free movement of factors of production between them, then Brazil\nand South Africa are part of a:",
+        "image": "",
+        "options": {
+            "A": "A.customs union.",
+            "B": "B.common market.",
+            "C": "C.free trade area (FTA)."
+        },
+        "answer": "A",
+        "explanation": "Answer: A A customs union extends a free trade area (FTA) by not only allowing free\nmovement of goods and services among members, but also creating common trade policy against\nnon-members. Unlike a more integrated common market, a customs union does not allow free\nmovement of factors of production among members. 如果巴西和南非之间有自由贸易，这是一种针对所有\n其他国家的共同贸易政策，但它们之间没有生产要素的自由流动，那么巴西和南非是如下哪个选项的一部分:\n关税同盟扩大了自由贸易区的范围，不仅允许成员国之间的货物和服务自由流动，而且还建立了针对非成员\n国的共同贸易政策。与更加一体化的共同市场不同，关税同盟不允许生产要素在成员之间自由流动。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Trade agreements, Economic integration, Factors of production",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "For a Giffen good, the:",
+        "image": "",
+        "options": {
+            "A": "A.demand curve is positively sloped.",
+            "B": "B.substitution effect overwhelms the income effect.",
+            "C": "C.income and substitution effects are in the same direction."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The income effect overwhelms the substitution effect such that an\nincrease in the price of the good results in greater demand for the good, resulting in a\npositively sloped demand curve. 对于一个吉芬商品：收入效应超过了替代效应，即商品价格的上涨导致\n对商品的需求增加，从而导致需求曲线斜率为正。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Giffen good, Demand curve, Income and substitution effects",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "Because of a sharp decline in real estate values, the household sector has increased the\nfraction of disposable income that it saves. If output and investment spending remain\nunchanged, which of the following is most likely?",
+        "image": "",
+        "options": {
+            "A": "A.A decrease in the government deficit.",
+            "B": "B.A decrease in net exports and increased capital inflow.",
+            "C": "C.An increase in net exports and increased capital outflow."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The fundamental relationship among saving, investment, the fiscal\nbalance, and the trade balance is S = I + (G – T) + (X – M). Given the levels of output and\ninvestment spending, an increase in saving (reduction in consumption) must be offset by either\nan increase in the fiscal deficit or an increase in net exports. Increasing the fiscal deficit\nis not one of the choices, so an increase in net exports and corresponding increase in net\ncapital outflows (increased lending to foreigners and/or increased purchases of assets from\nforeigners) is the correct response. 由于房地产价值大幅下跌，家庭部门增加了可支配收入中储蓄的比\n例。如果产出和投资支出保持不变，下列哪项最有可能发生? 储蓄之间的基本关系、投资、财政平衡,贸易平\n衡是S = I G - T) (X - M)。鉴于产出和投资支出的水平,储蓄的增加(减少消费)必须抵消增加财政赤字或净\n出口的增加。增加财政赤字不在选择之列，因此增加净出口和相应增加净资本外流(增加对外国人的贷款和\n/或增加从外国人手中购买资产)才是正确的应对之道。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Savings-Investment Identity, Fiscal Balance, Trade Balance",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "The demand schedule in a perfectly competitive market is given by P=93–1.5Q (forQ≤ 62) and\nthe long-run cost structure of each company is:\nNew companies will enter the market at any price greater than:",
+        "image": "level1_jing_ji_xue_images/50u.PNG",
+        "options": {
+            "A": "A.8.",
+            "B": "B.66.",
+            "C": "C.81."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The long-run competitive equilibrium occurs where MC = AC = P for each\ncompany. Equating MC and AC implies 2 + 8Q = 256/Q + 2 + 4Q. Solving for Q gives Q = 8.\nEquating MC with price gives P = 2 + 8Q = 66. Any price above 66 yields an economic profit\nbecause P = MC > AC, so new companies will enter the market. 新公司将以高于以下任何价格进入市场\n: 当每个公司的MC = AC = P时，就出现了长期竞争均衡。把MC和AC等同起来意味着2 8Q = 256/Q 2 4Q。 解\nQ得到Q = 8。将MC等同于价格，得到P = 2 8Q = 66。任何高于66的价格都会产生经济利润，因为P = MC >\nAC，所以新公司会进入市场。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Perfect competition, Long-run equilibrium, Cost structures",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "51",
+        "question_text": "Under conditions of perfect competition, a company will break even when market price is\nequal to the minimum point of the:",
+        "image": "",
+        "options": {
+            "A": "A.average total cost curve.",
+            "B": "B.average variable cost curve.",
+            "C": "C.short-run marginal cost curve."
+        },
+        "answer": "A",
+        "explanation": "Answer: A A company is said to break even if its total revenue is equal to its\ntotal cost. Under conditions of perfect competition, a company will break even when market\nprice is equal to the minimum point of the average total cost curve. 在完全竞争条件下，当市场价\n格等于以下哪一个的最低点公司会盈亏平衡，如果一个公司的总收益等于总成本，那么这个公司就是盈亏平\n衡的。在完全竞争条件下，当市场价格等于平均总成本曲线的最小值点时，公司将达到盈亏平衡。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Perfect competition, Break-even analysis, Average total cost curve",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "A government entity that regulates an authorized monopoly will most likely base regulated\nprices on:",
+        "image": "",
+        "options": {
+            "A": "A.marginal cost.",
+            "B": "B.long run average cost.",
+            "C": "C.first degree price discrimination."
+        },
+        "answer": "B",
+        "explanation": "Answer: B This allows the investors to receive a normal return for the risk they\nare taking in the market. 监管授权垄断的政府实体很可能会以以下价格为基准: 政府为了防止垄断企业\n定价过高，会把垄断企业的价格定在平均成本上，这使得投资者可以从他们在市场上承担的风险中获得正常\n的回报。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Regulation, Monopolies, Cost Analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "A company is experiencing economies of scale when:",
+        "image": "",
+        "options": {
+            "A": "A.cost per unit increases as output increases.",
+            "B": "B.it is operating at a point on the LRAC curve where the slope is negative.",
+            "C": "C.It is operating beyond the minimum point on the long-run average total cost curve."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Economies of scale occur if, as the firm increases output, cost per unit\nof production falls. Graphically, this definition translates into a long-run average cost curve\n(LRAC) with a negative slope. 公司在下列情况下正经历规模经济: 当公司增加产量，单位生产成本下降\n时，就会产生规模经济。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economies of Scale, Long-Run Average Cost Curve (LRAC), Cost per Unit",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "Which of the following trade restrictions is likely to result in the greatest welfare loss\nfor the importing country?",
+        "image": "",
+        "options": {
+            "A": "A.A tariff.",
+            "B": "B.An import quota.",
+            "C": "C.A voluntary export restraint."
+        },
+        "answer": "C",
+        "explanation": "Answer: C With a voluntary export restraint, the price increase induced by\nrestricting the quantity of imports (= quota rent for equivalent quota = tariff revenue for\nequivalent tariff) accrues to foreign exporters and/or the foreign government. 下列哪项贸易限制\n措施会令进口国蒙受最大的福利损失? 在自愿限制出口的情况下，限制进口数量(相当于进口配额的配额租金\n=相当于进口关税的关税收入)所导致的价格上涨，归外国出口商和/或外国政府所有，所以进口过损失最大。\nAB都不对。主要是一个特殊情况：因为如果进口国客户很重要，此时关税或者进口配额产生的成本，出口商\n都不会转嫁到重要客户头上，所以对于进口国就不会有福利损失。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Trade Restrictions, Tariffs, Import Quotas",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "Which of the following chronic deficit conditions is least alarming to the deficit\ncountry’s creditors?",
+        "image": "",
+        "options": {
+            "A": "A.High consumption.",
+            "B": "B.High private investment.",
+            "C": "C.High government spending."
+        },
+        "answer": "B",
+        "explanation": "Answer: B A current account deficit tends to result from low private saving, high\nprivate investment, low government savings, or a combination of the three. Of these choices,\nonly high investments can increase productive resources and improve future ability to repay\ncreditors. 下列哪种长期赤字状况对赤字国家的债权人来说最不令人担忧? 经常账户赤字往往是由低私人储\n蓄、高私人投资、低政府储蓄或三者共同造成的。在这些选择中，只有高投资才能增加生产资源和提高未来\n偿还债权人的能力。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Current account deficit, Private savings, Private investment",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "56",
+        "question_text": "Market competitors are least likely to use advertising as a tool of differentiation in an\nindustry structure identified as:",
+        "image": "",
+        "options": {
+            "A": "A.monopoly.",
+            "B": "B.perfect competition.",
+            "C": "C.monopolistic competition."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The product produced in a perfectly competitive market cannot be\ndifferentiated by advertising or any other means. 市场竞争对手最不可能将广告作为区分工具的行业\n结构是: 在完全竞争的市场中生产的产品不能通过广告或任何其他手段加以区分。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Perfect competition, Market structure, Product differentiation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "In calculating personal income for a given year, which of the following would not be\nsubtracted from national income?",
+        "image": "",
+        "options": {
+            "A": "A.Indirect business taxes.",
+            "B": "B.Undistributed corporate profits.",
+            "C": "C.Unincorporated business net income."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Unincorporated business net income is also known as proprietor’s income\nand is included in personal income. 在计算某一年的个人收入时，下列哪项不会从国民收入中扣除? 非\n法人企业净收入也称为业主收入，包括在个人收入中。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "National income accounting, Personal income calculation, Corporate profits",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "58",
+        "question_text": "Following a sharp increase in the price of energy, the overall price level is most likely to\nrise in the short run:",
+        "image": "",
+        "options": {
+            "A": "A.and remain elevated indefinitely unless the central bank tightens.",
+            "B": "B.but be unchanged in the long run unless the money supply is increased.",
+            "C": "C.and continue to rise until all prices have increased by the same proportion."
+        },
+        "answer": "B",
+        "explanation": "Answer: B An increase in energy prices will shift the short-run aggregate supply\ncurve (SRAS) to the left, reducing output and increasing prices. If there is no change in the\naggregate demand curve, in particular if the central bank does not expand the money supply,\nslack in the economy will put downward pressure on in input prices, shifting the SRAS back to\nits original position. In the long run, the price level will be unchanged. 能源价格大幅上涨后\n，整体价格水平在短期内最有可能上升: 能源价格的上涨将使短期总供给曲线(SRAS)向左平移，从而减少产\n出，提高价格。如果总需求曲线没有变化，特别是如果央行不扩大货币供应，经济疲软将给投入价格带来下\n行压力，使SRAS回到原来的位置。从长远来看，价格水平将保持不变。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Aggregate Supply and Demand, Central Bank Policies, Inflation Dynamics",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Which of the following statements best describes the costs of international trade?",
+        "image": "",
+        "options": {
+            "A": "A.Countries without an absolute advantage in producing a good cannot benefit significantly from\ninternational trade.",
+            "B": "B.Resources may need to be allocated into or out of an industry and less-efficient companies\nmay be forced to exit an industry, which in turn may lead to higher unemployment.",
+            "C": "C.Loss of manufacturing jobs in developed countries as a result of import competition means"
+        },
+        "answer": "B",
+        "explanation": "Answer: B Resources may need to be reallocated into or out of an industry,\ndepending on whether that industry is an exporting sector or an import-competing sector of that\neconomy. As a result of this adjustment process, less-efficient companies may be forced to exit\nthe industry, which in turn may lead to higher unemployment and the need for retraining in\norder for displaced workers to find jobs in expanding industries. 下列哪一项最能描述国际贸易的\n成本? 资源可能需要重新分配到一个行业中或从这个行业中撤出，这取决于这个行业是一个出口部门还是一\n个与进口竞争的经济部门。这种调整过程的结果是，效率较低的公司可能被迫退出该行业，这反过来可能导\n致更高的失业率和需要重新培训，以便让失业工人在扩大的行业中找到工作。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International Trade, Resource Allocation, Unemployment",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "From the beginning to the ending years of a decade, the annual value of final goods and\nservices for country X increased from €100 billion to €300 billion. Over that time period,\nthe GDP deflator increased from 111 to 200. Over the decade, real GDP for country X increased\nby approximately:",
+        "image": "",
+        "options": {
+            "A": "A.50%.",
+            "B": "B.67%.",
+            "C": "C.200%."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Real GDP in the first year was €100 billion/1.11 = €90 and in the last\nyear it was €300 billion/2.00 = €150. Thus, (€150 – €90)/€90 = 0.67 or 67%. 从十年的开始\n到结束，X国的最终商品和服务的年价值从1000亿欧元增加到3000亿欧元。在此期间，GDP平减指数从111升至\n200。在过去十年中，X国的实际国内生产总值大约增加了: 第一年的实际GDP是€1000亿/1.11 =€90，最后\n一年是€3000亿/2.00 =€150。因此，(€150 -€90)/€90 = 0.67或67%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Real GDP calculation, GDP deflator, Economic growth analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "Suppose a painting is produced and sold in 2018 for ￡5,000. The expenses involved in\nproducing the painting amounted to ￡2,000. According to the sum-of-value-added method of\ncalculating GDP, the value added by the final step of creating the painting was:",
+        "image": "",
+        "options": {
+            "A": "A.￡2,000.",
+            "B": "B.￡3,000.",
+            "C": "C.￡5,000."
+        },
+        "answer": "B",
+        "explanation": "Answer: B This is the value added by the artist: ￡5,000 – ￡2,000 = ￡3,000. 假设\n一幅画在2018年以5000英镑的价格出售。制作这幅画的费用达2000英镑。根据计算GDP的增加值总和法，创作\n这幅画最后一步的增加值为: 这是艺术家创造的价值:5000 - 2000英镑= 3000英镑。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "GDP calculation methods, Value-added approach, Economic output measurement",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "Aquarius, Inc. is the dominant company and the price leader in its market. One of the other\ncompanies in the market attempts to gain market share by undercutting the price set by\nAquarius. The market share of Aquarius will most likely:",
+        "image": "",
+        "options": {
+            "A": "A.increase.",
+            "B": "B.decrease.",
+            "C": "C.stay the same."
+        },
+        "answer": "A",
+        "explanation": "Answer: A As prices decrease, smaller companies will leave the market rather than\nsell below cost. The market share of Aquarius, the price leader, will increase. Aquarius公司是\n其市场的主导公司和价格领导者。市场上的另一家公司试图通过降低Aquarius公司设定的价格来获得市场份\n额。Aquarius的市场份额很可能是: 随着价格下跌，较小的公司将退出市场，而不是以低于成本的价格出售\n,Aquarius市场份额将增加。 或者理解为：因为非主导厂商压价，A公司是主导厂商，A会进一步降低价格\n，直到小于其他非主导厂商的平均价格，非主导厂商无利可图会退出市场，A公司市场份额上升",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market Competition, Market Share Dynamics, Price Leadership Strategies",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "If the GDP deflator values for year 1 and year 3 were 190 and 212.8, respectively, which of\nthe following best describes the annual growth rate of the overall price level?",
+        "image": "",
+        "options": {
+            "A": "A.5.8%.",
+            "B": "B.6%.",
+            "C": "C.12%."
+        },
+        "answer": "A",
+        "explanation": "Answer: A (212.8/190)^(1/2) – 1 = 0.0583 or 5.8%. 如果第1年和第3年的GDP平减指数分\n别为190和212.8，下列哪一项最能描述整体物价水平的年增长率? (212.8/190)^(1/2) - 1 = 0.0583或\n5.8%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Price Index Calculation, GDP Deflator, Annual Growth Rate",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "Which of the following international trade organizations has a mission to help developing\ncountries fight poverty and enhance environmentally sound economic growth?",
+        "image": "",
+        "options": {
+            "A": "A.World Bank Group (World Bank).",
+            "B": "B.World Trade Organization (WTO).",
+            "C": "C.International Monetary Fund (IMF)."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The World Bank’s mission is to help developing countries fight poverty\nand enhance environmentally sound economic growth. The World Bank helps to create the basic\neconomic infrastructure essential for creation and maintenance of domestic financial markets\nand a well-functioning financial industry in developing countries. 下列哪个国际贸易组织肩负着帮\n助发展中国家消除贫困和促进环境友好型经济增长的使命? 世界银行的使命是帮助发展中国家消除贫困，促\n进环境友好型经济增长。世界银行帮助建立基本的经济基础设施，这是在发展中国家建立和维持国内金融市\n场和运作良好的金融业所必需的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International Trade Organizations, Economic Development, Poverty Alleviation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "Which of the following statements best describes the benefits of international trade?",
+        "image": "",
+        "options": {
+            "A": "A.Countries gain from exchange and specialization.",
+            "B": "B.Countries receive lower prices for their exports and pay higher prices for imports.",
+            "C": "C.Absolute advantage is required for a country to benefit from trade in the long term."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Countries gain from exchange when trade enables each country to receive a\nhigher price for exported goods and/or pay a lower price for imported goods. This leads to more\nefficient resource allocation and allows consumption of a larger variety of goods. 下列哪一项最\n能描述国际贸易的好处? 当贸易使每个国家能够从出口商品中获得更高的价格和/或从进口商品中支付更低的\n价格时，国家就能从外汇中获益。这将导致更有效的资源分配，并允许消费更多种类的商品。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International Trade, Resource Allocation, Comparative Advantage",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "66",
+        "question_text": "A company doing business in a monopolistically competitive market will most likely maximize\nprofits when its output quantity is set such that:",
+        "image": "",
+        "options": {
+            "A": "A.average cost is minimized.",
+            "B": "B.marginal revenue equals average cost.",
+            "C": "C.marginal revenue equals marginal cost."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The profit maximizing choice is the level of output where marginal\nrevenue equals marginal cost. 在垄断竞争市场中经营的公司，其利润最大化的产量设定为: 利润最大化\n选择是边际收入等于边际成本的产出水平。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monopolistic competition, Profit maximization, Marginal analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "67",
+        "question_text": "Suppose three countries produce bananas and pencils with output per worker per day in each\ncountry as follows:\nWhich country has the greatest comparative advantage in the production of bananas?",
+        "image": "level1_jing_ji_xue_images/67u.PNG",
+        "options": {
+            "A": "A.Canada.",
+            "B": "B.Brazil.",
+            "C": "C.Mexico."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Mexico has the lowest opportunity cost to produce an extra banana. The\nopportunity cost is 2 pencils per banana in Mexico, 3 pencils per banana in Brazil, and 4\npencils per banana in Canada. 哪个国家在香蕉生产上具有最大的比较优势? 墨西哥生产额外香蕉的机会\n成本最低。机会成本是墨西哥每根香蕉2支铅笔，巴西每根香蕉3支铅笔，加拿大每根香蕉4支铅笔。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Comparative advantage, Opportunity cost, Production efficiency",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "68",
+        "question_text": "Diseconomies of scale most likely result from:",
+        "image": "",
+        "options": {
+            "A": "A.specialization in the labor force.",
+            "B": "B.overlap of business functions and product lines.",
+            "C": "C.discounted prices on resources when buying in larger quantities."
+        },
+        "answer": "B",
+        "explanation": "Answer: BAs the firm increases output, diseconomies of scale and higher average\ntotal costs can result when there is overlap and duplication of business functions and product\nlines. 规模不经济最可能的原因是: 随着企业产量的增加，当业务功能和产品线出现重叠和重复时，可能会\n导致规模不经济和平均总成本的提高。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economies of scale, Cost structures, Business operations.",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "69",
+        "question_text": "A firm that increases its quantity produced without any change in per-unit cost is\nexperiencing:",
+        "image": "",
+        "options": {
+            "A": "A.economies of scale.",
+            "B": "B.diseconomies of scale.",
+            "C": "C.constant returns to scale."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Output increases in the same proportion as input increases occur at\nconstant returns to scale. 如果一家公司在不改变单位成本的情况下增加了产量，那么这家公司正在经历\n: 输出增加的比例与输入增加的比例相同，按比例回报不变。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Production Theory, Cost Structures, Economies and Diseconomies of Scale",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "70",
+        "question_text": "The marketing director for a Swiss specialty equipment manufacturer estimates the firm can\nsell 200 units and earn total revenue of CHF500,000. However, if 250 units are sold, revenue\nwill total CHF600,000. The marginal revenue per unit associated with marketing 250 units\ninstead of 200 units is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.CHF 2,000.",
+            "B": "B.CHF 2,400.",
+            "C": "C.CHF 2,500."
+        },
+        "answer": "A",
+        "explanation": "Answer: AMarginal revenue per unit is defined as the change in total revenue\ndivided by the change in quantity sold. MR = ΔTR ÷ ΔQ. In this case, change in total revenue\nequals CHF100,000, and change in total units sold equals 50. CHF100,000 ÷ 50 = CHF2,000. 瑞士\n一家专业设备制造商的营销总监估计，该公司能卖出200台，总营收可达50万瑞士法郎。然而，如果卖出\n250台，总收入将达到60万瑞士法郎。 单位边际收入定义为总收入变化量除以销售量变化量。ΔTR÷ΔQ。在\n这种情况下，总收入的变化量等于10万瑞士法郎，而总销售量的变化量等于50。CHF100,000÷50 =\nCHF2000。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Marginal Revenue Calculation, Revenue Management, Quantitative Methods",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "71",
+        "question_text": "One disadvantage of the Herfindahl–Hirschmann Index is that the index:",
+        "image": "",
+        "options": {
+            "A": "A.is difficult to compute.",
+            "B": "B.fails to reflect low barriers to entry.",
+            "C": "C.fails to reflect the effect of mergers in the industry."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The Herfindahl–Hirschmann Index does not reflect low barriers to entry\nthat may restrict the market power of companies currently in the market. Herfindahl-\nHirschmann指数的一个缺点是: 赫芬达尔-赫希曼指数并没有反映出低准入门槛可能会限制目前在市场上的公\n司的市场力量。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market concentration indices, Barriers to entry, Market power analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "72",
+        "question_text": "Upsilon Natural Gas, Inc. is a monopoly enjoying very high barriers to entry. Its marginal\ncost is $40 and its average cost is $70. A recent market study has determined the price\nelasticity of demand is 1.5. The company will most likely set its price at:",
+        "image": "",
+        "options": {
+            "A": "A.$40.",
+            "B": "B.$70.",
+            "C": "C.$120."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Profits are maximized when MR = MC. For a monopoly, MR = P[1 – 1/Ep].\nSetting this equal to MC and solving for P: $40 = P[1 – (1/1.5)] = P × 0.333 P = $120\nUpsilon天然气公司是一家享有很高进入壁垒的垄断企业。它的边际成本是40美元，平均成本是70美元。最近\n的一项市场研究确定需求的价格弹性为1.5。公司很可能会把价格定在: 当MR = MC时，利润最大化。对于垄\n断企业，MR = P[1 - 1/Ep]。设这个等于MC，解出P: $40 = P[1 - (1/1.5)] = P×0.333 P = 120美元",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Monopoly pricing, Marginal cost and marginal revenue, Price elasticity of demand",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "73",
+        "question_text": "The numerator of the GDP price deflator reflects:",
+        "image": "",
+        "options": {
+            "A": "A.the value of base year output at current prices.",
+            "B": "B.the value of current year output at current prices.",
+            "C": "C.the value of current year output at base year prices."
+        },
+        "answer": "B",
+        "explanation": "Answer: B GDP deflator=（Value of current year output at current year prices /Value\nof current year output at base year prices）×100 GDP平减物价指数的分子反映: 按当年价格计算的当\n年产值",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "GDP deflator, Price indices, Economic output measurement",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "74",
+        "question_text": "Which of the following international trade organizations regulates cross-border exchange\namong nations on a global scale?",
+        "image": "",
+        "options": {
+            "A": "A.World Bank Group (World Bank).",
+            "B": "B.World Trade Organization (WTO).",
+            "C": "C.International Monetary Fund (IMF)."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The WTO provides the legal and institutional foundation of the\nmultinational trading system and is the only international organization that regulates cross-\nborder trade relations among nations on a global scale. The WTO’s mission is to foster free\ntrade by providing a major institutional and regulatory framework of global trade rules.\nWithout such global trading rules, today’s global transnational corporations would be hard to\nconceive. 下列哪个国际贸易组织在全球范围内管理国家间的跨境贸易? 世界贸易组织为跨国贸易体系提供\n了法律和制度基础，是唯一在全球范围内规范国家间跨境贸易关系的国际组织。世贸组织的使命是通过提供\n全球贸易规则的主要制度和监管框架来促进自由贸易。没有这样的全球贸易规则，今天的全球跨国公司将很\n难想象。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "1. International trade organizations, \n2. Global trade regulation, \n3. World Trade Organization (WTO)",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "75",
+        "question_text": "The most likely outcome when both aggregate supply and aggregate demand increase is:",
+        "image": "",
+        "options": {
+            "A": "A.a rise in inflation.",
+            "B": "B.higher employment.",
+            "C": "C.an increase in nominal GDP."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Higher aggregate demand (AD) and higher aggregate supply (AS) raise real\nGDP and lower unemployment, meaning employment levels increase. 当总供给和总需求同时增加时，最\n可能出现的结果是: 更高的总需求(AD)和更高的总供给(AS)提高了实际GDP，降低了失业率，意味着就业水平\n提高。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Aggregate Supply and Demand, Macroeconomic Indicators, Employment Levels",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "76",
+        "question_text": "The most accurate description of nominal GDP is:",
+        "image": "",
+        "options": {
+            "A": "A.a measure of total expenditures at current prices.",
+            "B": "B.the value of goods and services at constant prices.",
+            "C": "C.a measure to compare one nation's economy to another."
+        },
+        "answer": "A",
+        "explanation": "Answer: ANominal GDP is defined as the value of goods and services measured at\ncurrent prices. Expenditure is used synonymously with the value of goods and services since\naggregate expenditures must equal aggregate output of an economy. 对名义GDP最准确的描述是: 名义\nGDP被定义为以当前价格衡量的商品和服务的价值。支出是商品和服务价值的同义词，因为总支出必须等于一\n个经济体的总产出。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Gross Domestic Product (GDP), Nominal vs Real GDP, Economic Indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "77",
+        "question_text": "The full employment, or natural, level of output is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.the maximum level obtainable with existing resources.",
+            "B": "B.the level at which all available workers have jobs consistent with their skills.",
+            "C": "C.a level with a modest, stable pool of unemployed workers transitioning to new jobs."
+        },
+        "answer": "C",
+        "explanation": "Answer: C At the full employment, or natural, level of output the economy is\noperating at an efficient and unconstrained level of production. Companies have enough spare\ncapacity to avoid bottlenecks, and there is a modest, stable pool of unemployed workers (job\nseekers equal job vacancies) looking for and transitioning into new jobs. 充分就业或自然产出水\n平最好描述为: 在充分就业或自然产出水平下，经济正以一种有效和不受约束的生产水平运行。企业有足够\n的闲置产能来避免瓶颈，而且有数量适中、稳定的失业工人(求职者与职位空缺相等)在寻找并过渡到新的工\n作岗位。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Full employment, Natural level of output, Unemployment and job transition",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "78",
+        "question_text": "A GDP deflator less than 1 indicates that an economy has experienced:",
+        "image": "",
+        "options": {
+            "A": "A.inflation.",
+            "B": "B.deflation.",
+            "C": "C.stagflation."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The GDP Deflator = Nominal GDP/Real GDP. To get a ratio less than 1, real\nGDP exceeds nominal GDP, which indicates that prices have decreased and, accordingly, deflation\nhas occurred. 一个GDP平减指数小于1，表明一个经济体经历了: GDP平减指数=名义GDP/实际GDP。小于1的\n比率，实际GDP超过了名义GDP，这表明物价下降了，因此出现了通货紧缩。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "GDP deflator, deflation, real vs nominal GDP",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "79",
+        "question_text": "An analyst gathers the following market share data for an industry:\nThe industry’s four-company concentration ratio is closest to:",
+        "image": "level1_jing_ji_xue_images/79u.PNG",
+        "options": {
+            "A": "A.71%.",
+            "B": "B.86%.",
+            "C": "C.95%."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The top four companies in the industry comprise 86 percent of industry\nsales: (300 + 250 + 200 + 150)/(300 + 250 + 200 + 150 + 100 + 50) = 900/1050 = 86%. 该行业四家\n公司的集中度最接近: 行业前四名的公司占行业销售额的86%:(300 250 200 150)/(300 250 200 150 100\n50)= 900/1050 = 86%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Market concentration, Industry analysis, Market share calculations",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "80",
+        "question_text": "Normal profit is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.zero economic profit.",
+            "B": "B.total revenue minus all explicit costs.",
+            "C": "C.the sum of accounting profit plus economic profit."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Normal profit is the level of accounting profit such that implicit\nopportunity costs are just covered; thus, it is equal to a level of accounting profit such that\neconomic profit is zero. 正常利润最好描述为: 正常利润是使得隐性机会成本刚好被覆盖的会计利润水平\n，因此，它等于一个使经济利润为零的会计利润水平。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economics, Profit Analysis, Cost Accounting",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "81",
+        "question_text": "The least likely cause of a decrease in aggregate demand is:",
+        "image": "",
+        "options": {
+            "A": "A.higher taxes.",
+            "B": "B.a weak domestic currency.",
+            "C": "C.a fall in capacity utilization."
+        },
+        "answer": "B",
+        "explanation": "Answer: B A weak domestic currency will result in an increase in aggregate demand\nat each price level—a rightward shift in the AD curve. A weaker currency will cause a\ncountry’s exports to be cheaper in global markets. Conversely, imports will be more expensive\nfor domestic buyers. Hence, the net exports component of aggregate demand will increase. 总需求\n下降的最不可能的原因是: 疲软的国内货币将导致每一价格水平的总需求增加——AD曲线向右平移。货币贬\n值将导致一个国家的出口商品在全球市场上更便宜。相反，进口商品对国内买家来说会更贵。因此，总需求\n的净出口部分将会增加。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Aggregate demand, Currency depreciation, Net exports",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "82",
+        "question_text": "A fixed exchange rate regime in which the monetary authority is legally required to hold\nforeign exchange reserves backing 100% of its domestic currency issuance is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.dollarization.",
+            "B": "B.a currency board.",
+            "C": "C.a monetary union."
+        },
+        "answer": "B",
+        "explanation": "Answer: B With a currency board, the monetary authority is legally required to\nexchange domestic currency for a specified foreign currency at a fixed exchange rate. It cannot\nissue domestic currency without receiving foreign currency in exchange, and it must hold that\nforeign currency as a 100% reserve against the domestic currency issued. Thus, the country’s\nmonetary base (bank reserves plus notes and coins in circulation) is fully backed by foreign\nexchange reserves. 根据法律规定，金融管理局必须持有外汇储备，以支持100%的本地货币发行。根据货币\n发行局的规定，法律要求金融管理局以固定汇率将本国货币兑换为特定的外币。在没有收到外汇的情况下\n，它不能发行本国货币，而且它必须持有这种货币作为对所发行的本国货币的100%储备。因此，该国的货币\n基础(银行储备加上流通中的纸币和硬币)完全由外汇储备支撑。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency board, Fixed exchange rate regime, Foreign exchange reserves",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "83",
+        "question_text": "Monetary policy is least likely to include:",
+        "image": "",
+        "options": {
+            "A": "A.setting an inflation rate target.",
+            "B": "B.changing an official interest rate.",
+            "C": "C.enacting a transfer payment program."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Transfer payment programs represent fiscal, not monetary policy. 货币政策\n最不可能包括: 转移支付计划代表的是财政政策，而不是货币政策。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary policy, Fiscal policy, Inflation targets",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "84",
+        "question_text": "A three-month forward exchange rate in CAD/USD is listed by a dealer at 1.0123. The dealer\nalso quotes 3-month forward points as a percentage at 6.8%. The CAD/USD spot rate is closest\nto:",
+        "image": "",
+        "options": {
+            "A": "A.0.9478.",
+            "B": "B.1.0550.",
+            "C": "C.1.0862."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Given the forward rate and forward points as a percentage, the unknown in\nthe calculation is the spot rate. The calculation is as follows: Spot rate × (1 + Forward\npoints as a percentage) = Forward rate Spot rate × (1 + 0.068) = 1.0123 Spot = 1.0123/1.068\n=0.9478 一个交易商列出的三个月期加元兑美元汇率为1.0123。该交易商还将3个月远期利率定为6.8%。加元\n/美元现在汇率最接近于: 给定远期汇率和远期点数的百分比，计算中未知的是即期汇率。计算方法如下: 即\n期汇率×(1十 远期汇率的百分比)=远期汇率 即期汇率×(1十 0.068)= 1.0123 即期汇率= 1.0123/1.068\n=0.9478",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Forward Exchange Rates, Spot Rates, Currency Forward Points",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "85",
+        "question_text": "Which of the following best describes a fundamental assumption when monetary policy is used\nto influence the economy?",
+        "image": "",
+        "options": {
+            "A": "A.Financial markets are efficient.",
+            "B": "B.Money is not neutral in the short run.",
+            "C": "C.Official rates do not affect exchange rates."
+        },
+        "answer": "B",
+        "explanation": "Answer: B If money were neutral in the short run, monetary policy would not be\neffective in influencing the economy. 当货币政策被用来影响经济时，下列哪一项最好地描述了一个基\n本假设? 如果货币在短期内是中性的，那么货币政策就不会有效地影响经济",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Short-run Economic Assumptions, Money Neutrality",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "86",
+        "question_text": "The least likely goal of a government’s fiscal policy is to:",
+        "image": "",
+        "options": {
+            "A": "A.redistribute income and wealth.",
+            "B": "B.influence aggregate national output.",
+            "C": "C.ensure the stability of the purchasing power of its currency."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Ensuring stable purchasing power is a goal of monetary rather than fiscal\npolicy. Fiscal policy involves the use of government spending and tax revenue to affect the\noverall level of aggregate demand in an economy and hence the level of economic activity. 政府\n财政政策的最不可能的目标是: 确保稳定的购买力是货币政策而非财政政策的目标。财政政策涉及利用政府\n支出和税收收入来影响一个经济体的总需求水平，从而影响经济活动水平。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal Policy, Monetary Policy, Economic Stability",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "87",
+        "question_text": "Based on typical labor utilization patterns across the business cycle, productivity (output\nper hours worked) is most likely to be highest:",
+        "image": "",
+        "options": {
+            "A": "A.at the peak of a boom.",
+            "B": "B.into a maturing expansion",
+            "C": "C.at the bottom of a recession."
+        },
+        "answer": "C",
+        "explanation": "Answer: C At the end of a recession, firms will run “lean production” to generate\nmaximum output with the fewest number of workers. 根据整个商业周期的典型劳动利用模式，生产率(每\n小时工作产出)最有可能是最高的: 在经济衰退结束时，企业将实行“精益生产”，以最少的工人生产最多的\n产品。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Business Cycles, Labor Utilization, Productivity",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "88",
+        "question_text": "Which is the most accurate statement regarding central banks and monetary policy?",
+        "image": "",
+        "options": {
+            "A": "A.Central bank activities are typically intended to maintain price stability.",
+            "B": "B.Monetary policies work through the economy via four independent channels.",
+            "C": "C.Commercial and interbank interest rates move inversely to official interest rates."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Central bank activities are typically intended to maintain price\nstability. Concerning choice B, note that the transmission channels of monetary policy are not\nindependent. 关于中央银行和货币政策，哪种说法最准确? 央行的行动通常旨在维持价格稳定。关于选项\nB，请注意货币政策的传导渠道不是独立的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Central banks, Monetary policy, Price stability",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "89",
+        "question_text": "A decrease in the real exchange rate (quoted in terms of domestic currency per unit of\nforeign currency) is most likely to be associated with an increase in which of the following?",
+        "image": "",
+        "options": {
+            "A": "A.Foreign price level.",
+            "B": "B.Domestic price level.",
+            "C": "C.Nominal exchange rate."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The real exchange rate (quoted in terms of domestic currency per unit of\nforeign currency) is given by: Real exchange rate(d/f) = Sd/f × (Pf/Pd) An increase in the\ndomestic price level (Pd) decreasesthe real exchange rate because it implies an increase in the\nrelative purchasing power of the domestic currency. 实际汇率的下降(以每单位外币的本国货币报价\n)最有可能与下列哪项的上升有关? 实际汇率(以每单位外币的本地货币报价)由: 实际汇率(d/f) =\nSd/f×(Pf/Pd) 国内价格水平(Pd)的增加减少了实际汇率，因为它意味着国内货币的相对购买力的增加",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Real Exchange Rate, Purchasing Power Parity, Domestic Price Levels",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "90",
+        "question_text": "A central bank that decides the desired levels of interest rates and inflation and the\nhorizon over which the inflation objective is to be achieved is most accurately described as\nbeing:",
+        "image": "",
+        "options": {
+            "A": "A.target independent and operationally independent.",
+            "B": "B.target independent but not operationally independent.",
+            "C": "C.operationally independent but not target independent."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The central bank described is target independent because it set its own\ntargets (e.g., the target inflation rate) and operationally independent because it decides how\nto achieve its targets (e.g., the time horizon). 决定利率和通货膨胀的理想水平和达到通货膨胀目标\n的范围的中央银行被最准确地描述为: 央行被描述为目标独立，因为它设定了自己的目标(例如，目标通胀率\n)，而在操作上独立，因为它决定如何实现自己的目标(例如，时间范围)。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monetary policy, Central banking independence, Inflation targeting.",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "91",
+        "question_text": "Over the past month, the Swiss Franc (CHF) has depreciated 12 percent against pound sterling\n(GBP). How much has the pound sterling appreciated against the Swiss Franc?",
+        "image": "",
+        "options": {
+            "A": "A.12%",
+            "B": "B.Less than 12%",
+            "C": "C.More than 12%"
+        },
+        "answer": "C",
+        "explanation": "Answer: C The appreciation of sterling against the Swiss franc is simply the\ninverse of the 12% depreciation of the Swiss franc against Sterling: [1/(1 – 0.12)] – 1 =\n(1/0.88) – 1 = 0.1364, or 13.64%. 在过去的一个月里，瑞士法郎对英镑已经贬值了12%。英镑对瑞士法\n郎升值了多少? 英镑兑瑞士法郎的升值与瑞士法郎兑英镑贬值12%正好相反:[1/(1 - 0.12)]- 1 =(1/0.88)-\n1 = 0.1364，即13.64%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Currency Exchange Rates, Percent Change Calculations, Currency Appreciation and Depreciation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "92",
+        "question_text": "A price index of goods and services that excludes food and energy is most likely used to\ncalculate:",
+        "image": "",
+        "options": {
+            "A": "A.core inflation.",
+            "B": "B.the GDP deflator.",
+            "C": "C.headline inflation."
+        },
+        "answer": "A",
+        "explanation": "Answer: A A price index of goods and services that excludes food and energy is used\nto calculate core inflation. Policymakers often use core inflation when reading the trend in\nthe economy and making economic policies. The reason is because policymakers are trying to\navoid overreaction to short-term fluctuations in prices as a result of short-term changes in\nsupply and demand. 不包括食品和能源的商品和服务价格指数最有可能被用来计算: 不包括食品和能源的商\n品和服务价格指数被用来计算核心通货膨胀。政策制定者在解读经济趋势和制定经济政策时，经常使用核心\n通胀。原因在于，政策制定者试图避免因短期供需变化而对短期价格波动做出过度反应。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Core Inflation, Economic Policies, Price Index Calculation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "93",
+        "question_text": "A forward premium indicates:",
+        "image": "",
+        "options": {
+            "A": "A.an expected increase in demand for the base currency.",
+            "B": "B.the interest rate is higher in the base currency than in the price currency.",
+            "C": "C.the interest rate is higher in the price currency than in the base currency."
+        },
+        "answer": "C",
+        "explanation": "Answer: C To eliminate arbitrage opportunities, the spot exchange rate (S), the\nforward exchange rate (F), the interest rate in the base currency (ib), and the interest rate\nin the price currency (ip) must satisfy:According to this formula, the base currency will trade\nat forward premium (F > S) if, and only if, the interest rate in the price currency is higher\nthan the interest rate in the base currency (ip > ib). 远期溢价表示: 为了消除套利机会，现货汇率\n、远期汇率、基准货币利率和价格货币利率必须满足: 根据利率平价公式，当且仅当价格货币的利率高于基\n础货币(ip > ib)的利率时，基础货币将以远期溢价(F > S)交易。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Parity, Forward Exchange Rates, Arbitrage Opportunities",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "94",
+        "question_text": "The following presents selected commodity price data for July–August 2015:\nGiven the consumption basket and prices presented, which type of price index will result in the\nhighest calculated inflation rate over a two-month time period?",
+        "image": "level1_jing_ji_xue_images/94u.PNG",
+        "options": {
+            "A": "A.One that uses a current consumption basket",
+            "B": "B.One that uses a constant consumption basket",
+            "C": "C.One reflecting substitutions made by consumers over time"
+        },
+        "answer": "B",
+        "explanation": "Answer: BThe inflation rate calculated by using a constant consumption basket (the\nLaspeyres index) is 10%, derived as follows:July 2015 consumption basket = (18 × €1) + (6 ×\n€2) = €30August 2015 consumption basket = (18 × €1) + (6 × €2.5) = €33Value of the\nLaspeyres index (IL) = (€33/€30) × 100 = €110Inflation rate = (110/100) – 1 = 0.10 =\n10%The inflation rate calculated using a current consumption basket (the Paasche index) is 8%,\nderived as follows:July 2015 consumption basket = (17 × €1) + (4 × €2) = €25August 2015\nconsumption basket = (17 × €1) + (4 × €2.5) = €27Value of the Paasche index (IP) =\n(€27/€25) × 100 = €108Inflation rate = (108/100) – 1 = 0.08 = 8%The inflation rate\ncalculated by “chaining” the monthly prices of consumption baskets as they change over time\n(the Fisher index) is derived as follows:Value of the Fisher index\n=(€110×€108)^0.5=108.99Inflation rate = (108.99/100) – 1 = 0.0899 = 8.99% 根据所提供的消费\n篮子和价格，哪一种价格指数会导致两个月期间的最高计算通胀率? 使用固定消费篮子(Laspeyres指数)计算\n的通货膨胀率为10%，推导如下: 2015年7月消费篮子=(18×€1) (6×€2)=€30 2015年8月消费篮子\n=(18×€1) (6×€2.5)=€33 Laspeyres指数(IL) =(€33/€30)×100 =€110 通货膨胀率= (110/100)- 1\n= 0.10 = 10% 使用当前消费篮子(Paasche指数)计算的通货膨胀率为8%，推导如下: 2015年7月消费篮子\n=(17×€1) (4×€2)=€25 2015年8月消费篮子=(17×€1) (4×€2.5)=€27 Paasche指数(IP)的值\n=(€27/€25)×100 =€108 通货膨胀率= (108/100)- 1 = 0.08 = 8% 费雪指数计算如下: 费雪指数\n=(€110×€108)^0.5=108.99 通货膨胀率= (108.99/100)- 1 = 0.0899 = 8.99%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Price indices, Calculation of Inflation, Laspeyres and Paasche indices",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "95",
+        "question_text": "The proposition that the real interest rate is relatively stable is most closely associated\nwith:",
+        "image": "",
+        "options": {
+            "A": "A.the Fisher effect.",
+            "B": "B.money neutrality.",
+            "C": "C.the quantity theory of money."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The Fisher effect is based on the idea that the real interest rate is\nrelatively stable. Changes in the nominal interest rate result from changes in expected\ninflation. 费雪效应基于实际利率相对稳定这一观点。名义利率的变化是由预期通货膨胀引起的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fisher Effect, Real Interest Rate Stability, Expected Inflation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "96",
+        "question_text": "A country that maintains a target exchange rate is most likely to have which outcome when\nits inflation rate rises above the level of the inflation rate in the target country?",
+        "image": "",
+        "options": {
+            "A": "A.An increase in short-term interest rates.",
+            "B": "B.An increase in the domestic money supply.",
+            "C": "C.An increase in its foreign currency reserves."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Interest rates are expected to rise to protect the exchange rate target.\n一个维持目标汇率的国家，当其通胀率高于目标国家的通胀率时，最有可能出现哪种结果? 利率将会上升\n，以保护汇率目标。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Exchange Rate Policy, Inflation Rate Dynamics, Interest Rate Adjustments",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "97",
+        "question_text": "Raising the reserve requirement is most likely an example of which type of monetary policy?",
+        "image": "",
+        "options": {
+            "A": "A.Neutral.",
+            "B": "B.Expansionary.",
+            "C": "C.Contractionary."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Raising reserve requirements should slow money supply growth. 提高存款准\n备金率最有可能是哪种货币政策的一个例子? 提高存款准备金率应会减缓货币供应增长。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Reserve Requirements, Contractionary Monetary Policy",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "98",
+        "question_text": "The discouraged worker category is defined to include people who:",
+        "image": "",
+        "options": {
+            "A": "A.are overqualified for their job.",
+            "B": "B.could look for a job but choose not to.",
+            "C": "C.currently look for work without finding it."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Discouraged workers are defined as persons who have stopped looking for\nwork and are outside the labor force. “丧志工人”这一类别的定义包括以下人员: 意气消沉的工人被\n定义为那些已经停止找工作并且不在劳动力大军中的人。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Labour market participation, Employment indicators, Unemployment types",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "99",
+        "question_text": "On June 5, the U.S. Federal Reserve (the Fed) bought $20,000,000 of U.S. Treasury securities\nin the open market. At the time, the reserve requirement was 15%, and all banks had zero excess\nreserves. What is the potential impact of the Fed's purchase on the U.S. money supply?",
+        "image": "",
+        "options": {
+            "A": "A.$133,333,333 increase.",
+            "B": "B.$10,000,000 increase.",
+            "C": "C.$25,000,000 decrease."
+        },
+        "answer": "A",
+        "explanation": "Buying securities by the Fedincreases the money supply because they are injecting\nmoney into the bankingsystem. The money supply can potentially increase by 1 / 0.15 ×\n$20,000,000 =$133，333,333.美联储购买有价证券增加了货币供应量，因为他们正在向银行系统注入资金。\n货币供应量可能增加1/0.15×20000000美元=1333333333美元。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Monetary policy, Money multiplier effect, Open market operations",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "100",
+        "question_text": "Current economic statistics indicating little change in services inflation, rising\nresidential building permits, and increasing average duration of unemployment are best\ninterpreted as:",
+        "image": "",
+        "options": {
+            "A": "A.conflicting evidence about the direction of economy.",
+            "B": "B.evidence that a cyclical upturn is expected to occur in the future.",
+            "C": "C.evidence that a cyclical downturn is expected to occur in the future."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Rising building permits—a leading indicator—indicates that an upturn is\nexpected to occur or continue. Increasing average duration of unemployment—a lagging\nindicator—indicates that a downturn has occurred, whereas the lack of any change in services\ninflation—also a lagging indicator—is neither negative nor positive for the direction of the\neconomy. Taken together, these statistics indicate that a cyclical upturn may be expected to\noccur. 当前的经济统计数据显示，服务业通胀变化不大、住宅建筑许可证增加以及平均失业时间的延长，对\n此最好的解释是: 上升的建筑许可是一个主要的指标预示着上升的趋势将会发生或继续。平均失业持续时间\n的增加是滞后指标表明经济已经开始下滑，而服务行业没有任何变化，这也是滞后指标，对经济的走向既没\n有负面影响，也没有正面影响。综上所述，这些统计数字表明可能会出现周期性的好转。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic Indicators, Leading and Lagging Indicators, Economic Cycles",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "101",
+        "question_text": "When aggregate real personal income, industrial output, and the S&P 500 Index all increase\nin a given period, it is most accurate to conclude that a cyclical upturn is:",
+        "image": "",
+        "options": {
+            "A": "A.occurring.",
+            "B": "B.about to end.",
+            "C": "C.about to begin."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Aggregate real personal income and industrial output are coincident\nindicators, whereas the S&P 500 is a leading indicator. An increase in aggregate personal\nincome and industrial output signals that an expansion is occurring, whereas an increase in the\nS&P 500 signals that an expansion will occur or is expected to continue. Taken together, these\nstatistics indicate that a cyclical upturn is occurring. 当总实际个人收入、工业产出和标准普尔\n500指数在某一特定时期内均有所增长时，关于经济上升周期最准确的结论:周期性上升是: 总体实际个人收\n入和工业产出是一致的指标，而标准普尔500指数是一个领先指标。个人收入和工业总产出的增长表明扩张正\n在发生，而标准普尔500指数的增长表明扩张将会发生或预计将会继续。综上所述，这些统计数据表明经济正\n在出现周期性的好转。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic Indicators, Business Cycle Phases, Leading and Coincident Indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "102",
+        "question_text": "A national government responds to a severe recession by funding numerous infrastructure\nprojects using deficit spending. Which school of economic thought is most consistent with such\naction.",
+        "image": "",
+        "options": {
+            "A": "A.Keynesian",
+            "B": "B.Monetarist",
+            "C": "C.Neoclassical"
+        },
+        "answer": "A",
+        "explanation": "Answer: A Keynesian economics is based on government intervention in the form of\nfiscal policy. The national government responds to the recession by using deficit spending to\nfund infrastructure projects. 为了应对严重的经济衰退，国家政府会用赤字开支来资助大量的基础设施\n项目。哪一派的经济思想最符合这样的行动。凯恩斯主义经济学是以财政政策形式的政府干预为基础的。国\n家政府通过使用赤字开支来资助基础设施项目来应对经济衰退。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Keynesian economics, Fiscal policy, Government intervention",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "103",
+        "question_text": "Quantitative easing, the purchase of government or private securities by the central banks\nfrom individuals and/or institutions, is an example of which monetary policy stance?",
+        "image": "",
+        "options": {
+            "A": "A.Neutral.",
+            "B": "B.Expansionary.",
+            "C": "C.Contractionary."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Quantitative easing is an example of an expansionary monetary policy\nstance. It attempts to spur aggregate demand by drastically increasing the money supply. 量化宽\n松，即央行从个人和/或机构手中购买政府或私人证券，是哪种货币政策立场的一个例子? 量化宽松是扩张性\n货币政策立场的一个例子。它试图通过大幅增加货币供应来刺激总需求。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary policy, Expansionary policy, Quantitative easing",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "104",
+        "question_text": "Which statement regarding fiscal deficits is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Higher government spending may lead to higher interest rates and lower private sector\ninvesting.",
+            "B": "B.Central bank actions that grow the money supply to address deflationary conditions decrease\nfiscal deficits.",
+            "C": "C.According to the Ricardian equivalence, deficits have a multiplicative effect on consumer"
+        },
+        "answer": "A",
+        "explanation": "Answer: A Government borrowing may compete with private sector borrowing for\ninvestment purposes. 关于财政赤字，哪种说法最准确? 出于投资目的，政府借款可能与私人部门借款竞争\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal Policy, Crowding Out Effect, Interest Rates",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "105",
+        "question_text": "Which is the most accurate statement regarding the demand for money?",
+        "image": "",
+        "options": {
+            "A": "A.Precautionary money demand is directly related to GDP.",
+            "B": "B.Transactions money demand is inversely related to returns on bonds.",
+            "C": "C.Speculative demand is inversely related to the perceived risk of other assets."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Precautionary money demand is directly related to GDP. Precautionary\nmoney balances are held to provide a buffer against unforeseen events that might require money.\nPrecautionary balances tend to rise with the volume and value of transactions in the economy,\nand therefore rise with GDP 关于货币需求，哪一种说法最准确? 预防性货币需求与GDP直接相关。持有预\n防性货币余额是为了对可能需要货币的意外事件提供缓冲。预防性收支平衡往往会随着经济中交易的数量和\n价值而增加，因此也会随着GDP的增长而增加。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Precautionary money demand, Transactions money demand, Speculative demand",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "106",
+        "question_text": "An exchange rate between two currencies has increased to 1.4500. If the base currency has\nappreciated by 8% against the price currency, the initial exchange rate between the two\ncurrencies was closest to:",
+        "image": "",
+        "options": {
+            "A": "A.1.3340.",
+            "B": "B.1.3426.",
+            "C": "C.1.5660."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The percentage appreciation of the base currency can be calculated by\ndividing the appreciated exchange rate by the initial exchange rate. In this case, the unknown\nis the initial exchange rate. The initial exchange is the value of X that satisfies the\nformula: 1.4500/X = 1.08 Solving for X leads to 1.45/1.08 = 1.3426. 两种货币的兑换率已提高到\n1.4500。基础货币对价格货币升值8%时，两种货币的初始汇率最接近: 基础货币升值的百分比可以用升值后\n的汇率除以初始汇率来计算。在这种情况下，未知的是初始汇率。初始汇率是满足公式的X的值: 1.4500 / X\n= 1.08 求解X得到1.45/1.08 = 1.3426。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Exchange rates, Currency appreciation/depreciation, Percentage change calculation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "107",
+        "question_text": "A “pay-as-you-go” rule, which requires that any tax cut or increase in entitlement\nspending be offset by an increase in other taxes or reduction in other entitlement spending, is\nan example of which fiscal policy stance?",
+        "image": "",
+        "options": {
+            "A": "A.Neutral.",
+            "B": "B.Expansionary.",
+            "C": "C.Contractionary."
+        },
+        "answer": "A",
+        "explanation": "Answer: A A “pay-as-you-go” rule is a neutral policy because any increases in\nspending or reductions in revenues would be offset. Accordingly, there would be no net impact\non the budget deficit/surplus. “现收现付”规则要求任何减税或福利支出的增加都要被其他税收的增加\n或其他福利支出的减少所抵消，这是哪种财政政策立场的一个例子？“现收现付”规则是一种中立的政策\n，因为任何支出的增加或收入的减少都会被抵消。因此，预算赤字/盈余不会受到任何净影响。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fiscal Policy, Budget Deficit/Surplus, Entitlement Spending",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "108",
+        "question_text": "In practice, both a fixed parity regime and a target zone regime allow the exchange rate to\nfloat within a band around the parity level. The most likely rationale for the band is that the\nband allows the monetary authority to:",
+        "image": "",
+        "options": {
+            "A": "A.be less active in the currency market.",
+            "B": "B.earn a spread on its currency transactions.",
+            "C": "C.exercise more discretion in monetary policy."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Fixed exchange rates impose severe limitations on the exercise of\nindependent monetary policy. With a rigidly fixed exchange rate, domestic interest rates,\nmonetary aggregates (e.g., money supply), and credit conditions are dictated by the requirement\nto buy/sell the currency at the rigid paarity. Even a narrow band around the parity level\nallows the monetary authority to exercise some discretionary control over these conditions. In\ngeneral, the wider the band, the more independent control the monetary authority can exercise.\n在实践中，固定汇率制度和目标区制度都允许汇率在平价水平附近的波动区间内浮动。设立该波段最有可能\n的理由是，该波段允许金融管理局: 固定汇率严重限制了独立货币政策的实施。在严格固定的汇率下，国内\n利率、货币总量(例如，货币供应量)和信贷条件都取决于在严格平价下买卖货币的要求。即便是平价水平附\n近的窄幅波动，也允许货币当局对这些情况行使一定的自由裁量权。一般而言，波动区间越宽，英国金融管\n理局(monetary authority，简称:金管局)的控制权就越独立。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monetary policy, Exchange rate regimes, Currency market intervention",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "109",
+        "question_text": "The least likely explanation for why fiscal policy cannot stabilize aggregate demand\ncompletely is that:",
+        "image": "",
+        "options": {
+            "A": "A.private sector behavior changes over time.",
+            "B": "B.policy changes are implemented very quickly.",
+            "C": "C.fiscal policy focuses more on inflation than on unemployment."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Fiscal policy is subject to recognition, action, and impact lags 财政政策\n不能完全稳定总需求的最不可能的解释是: 财政政策受到认识、行动和影响的滞后，因此不能很快实施。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fiscal Policy, Aggregate Demand, Policy Implementation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "110",
+        "question_text": "Which role is a central bank least likely to assume?",
+        "image": "",
+        "options": {
+            "A": "A.Lender of last resort.",
+            "B": "B.Sole supervisor of banks.",
+            "C": "C.Supplier of the currency."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The supervision of banks is not a role that all central banks assume.\nWhen it is a central bank’s role, responsibility may be shared with one or more entities. 央行\n最不可能扮演什么角色? 对银行的监管并不是所有央行都承担的职责。当它是央行的角色时，对银行的监管\n责任可能由一个或多个机构分担。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Central banking functions, Bank supervision, Financial regulation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "111",
+        "question_text": "According to the theory of money neutrality, money supply growth does not affect variables\nsuch as real output and employment in:",
+        "image": "",
+        "options": {
+            "A": "A.the long run.",
+            "B": "B.the short run.",
+            "C": "C.the long and short run."
+        },
+        "answer": "A",
+        "explanation": "Answer: A According to the theory of money neutrality, an increase in the money\nsupply ultimately leads to an increase in the price level and leaves real variables unaffected\nin the long run. 根据货币中性理论，货币供应量增长在以下方面不影响实际产出和就业等变量: 根据货币\n中性理论，货币供应量的增加最终会导致价格水平的提高，而从长远来看，实际变量不会受到影响。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary Theory, Long-run vs Short-run Economic Perspectives, Real vs Nominal Variables",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "112",
+        "question_text": "A decrease in a country’s total imports is most likely caused by:",
+        "image": "",
+        "options": {
+            "A": "A.an increase in the pace of domestic GDP growth.",
+            "B": "B.a cyclical downturn in the economies of primary trading partners.",
+            "C": "C.persistent currency depreciation relative to primary trading partners."
+        },
+        "answer": "C",
+        "explanation": "Answer: C When a nation’s currency depreciates, domestic goods seem cheaper than\nforeign goods, placing downward pressure on demand for imports. When the depreciation persists\nfor some time, the country’s total imports are likely to decrease. 一个国家的进口总量下降很可\n能是由以下原因引起的: 当一个国家的货币贬值时，国内商品似乎比外国商品更便宜，这就给进口需求带来\n了下行压力。如果人民币贬值持续一段时间，国家的进口总额可能会下降。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Balance of Payments, Foreign Exchange Rates, International Trade",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "113",
+        "question_text": "The characteristic of national consumer price indexes which is most typically shared across\nmajor economies worldwide is:",
+        "image": "",
+        "options": {
+            "A": "A.the geographic areas covered in their surveys.",
+            "B": "B.the weights they place on covered goods and services.",
+            "C": "C.their use in the determination of macroeconomic policy."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Central banks typically use consumer price indexes to monitor inflation\nand evaluate their monetary policies. 各国消费者价格指数的特点是: 央行通常使用消费者价格指数来\n监测通货膨胀并评估其货币政策。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Consumer Price Indexes (CPI), Macroeconomic Policy, Inflation Monitoring",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "114",
+        "question_text": "An economic peak is most closely associated with:",
+        "image": "",
+        "options": {
+            "A": "A.accelerating inflation.",
+            "B": "B.stable unemployment.",
+            "C": "C.declining capital spending."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Inflation is rising at peaks. 经济顶峰与以下哪项因素联系最为紧密: 顶峰时\n通货膨胀上升。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Business Cycle Phases, Inflation Dynamics, Economic Indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "115",
+        "question_text": "A country with a trade deficit will most likely:",
+        "image": "",
+        "options": {
+            "A": "A.have an offsetting capital account surplus.",
+            "B": "B.save enough to fund its investment spending.",
+            "C": "C.buy assets from foreigners to fund the imbalance."
+        },
+        "answer": "A",
+        "explanation": "Answer: A A trade deficit must be exactly matched by an offsetting capital account\nsurplus to fund the deficit. A capital account surplus reflects borrowing from foreigners (an\nincrease in domestic liabilities) and/or selling assets to foreigners (a decrease in domestic\nassets). A capital account surplus is often referred to as a “capital inflow” because the net\neffect is foreign investment in the domestic economy. 有贸易逆差的国家最有可能: 贸易赤字必须与\n抵消性的资本账户盈余完全匹配，才能为赤字提供资金。资本账户盈余反映了向外国人借款(国内负债增加\n)和/或向外国人出售资产(国内资产减少)。资本账户盈余通常被称为“资本流入”，因为其净效应是外国投\n资对国内经济的影响。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Trade deficit, Capital account surplus, Foreign investment",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "116",
+        "question_text": "Central banks would typically be most concerned with costs of:",
+        "image": "",
+        "options": {
+            "A": "A.low levels of inflation that are anticipated.",
+            "B": "B.moderate levels of inflation that are anticipated.",
+            "C": "C.moderate levels of inflation that are not anticipated."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Low levels of inflation has higher economic costs than moderate levels,\nall else equal; unanticipated inflation has greater costs than anticipated inflation. 中央银行\n通常最关心以下成本: 在其他条件相同的情况下，低水平的通胀比中等水平的通胀具有更高的经济成本;未预\n料到的通货膨胀的代价比预料到的通货膨胀要大。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Inflation Risks, Central Banking",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "117",
+        "question_text": "The term that describes when inflation declines but nonetheless remains at a positive level\nis:",
+        "image": "",
+        "options": {
+            "A": "A.deflation.",
+            "B": "B.stagflation.",
+            "C": "C.disinflation."
+        },
+        "answer": "C",
+        "explanation": "Answer: CDisinflation is known as a reduction of inflation from a higher to lower,\nbut still above zero, level描述通胀下降但仍保持在正值的术语是: 反通货膨胀是指通货膨胀率由高到低\n，但仍高于零的水平。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Inflation, Disinflation, Economic terms",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "118",
+        "question_text": "Which of the following equations is a consequence of the Fisher effect?",
+        "image": "",
+        "options": {
+            "A": "A.Nominal interest rate = Real interest rate + Expected rate of inflation.",
+            "B": "B.Real interest rate = Nominal interest rate + Expected rate of inflation.",
+            "C": "C.Nominal interest rate = Real interest rate + Market risk premium."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The Fisher effect implies that changes in the nominal interest rate\nreflect changes in expected inflation, which is consistent with Nominal interest rate = Real\ninterest rate + Expected rate of inflation. 下列哪个方程是费雪效应的结果? 费雪效应意味着名义利\n率的变化反映了预期通货膨胀的变化，这与名义利率=实际利率 预期通货膨胀率是一致的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fisher Effect, Interest Rates, Inflation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "119",
+        "question_text": "Given an independent central bank, monetary policy actions are more likely than fiscal\npolicy actions to be:",
+        "image": "",
+        "options": {
+            "A": "A.implementable quickly.",
+            "B": "B.effective when a specific group is targeted.",
+            "C": "C.effective when combating a deflationary economy."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Monetary actions may face fewer delays to taking action than fiscal\npolicy, especially when the central bank is independent. 考虑到央行的独立性，货币政策行动比财政\n政策行动更有可能: 与财政政策相比，货币政策可能面临更少的延迟，尤其是在央行独立的情况下。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary policy, Fiscal policy, Central bank independence",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "120",
+        "question_text": "A central bank will most likely allow the economy to self-correct in periods of:",
+        "image": "",
+        "options": {
+            "A": "A.high inflation, fast economic growth, and low unemployment.",
+            "B": "B.low inflation, slow economic growth, and high unemployment.",
+            "C": "C.high inflation, slow economic growth, and high unemployment."
+        },
+        "answer": "C",
+        "explanation": "Answer: C This scenario is often referred to as stagflation. Here, the economy is\nlikely to be left to self-correct because no short-term economic policy is thought to be\neffective. 央行最有可能允许经济在以下阶段自我修正: 这种情况通常被称为滞胀。在这种情况下，经济可\n能会自行调整，因为人们认为没有短期经济政策是有效的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary policy, Stagflation, Economic growth",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "121",
+        "question_text": "Deflation is most likely to be associated with:",
+        "image": "",
+        "options": {
+            "A": "A.a shortage of government revenue.",
+            "B": "B.substantial macroeconomic contraction.",
+            "C": "C.explicit monetary policy to combat inflation."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Deflation is connected to a vicious cycle of reduced spending and higher\nunemployment. 通货紧缩最可能与以下因素有关: 通货紧缩与开支减少和失业率上升的恶性循环有关。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Macroeconomic Risks, Deflation Dynamics, Economic Contraction",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "122",
+        "question_text": "A prolonged period of an official interest rate very close to zero without an increase in\neconomic growth most likely suggests:",
+        "image": "",
+        "options": {
+            "A": "A.quantitative easing must be limited to be successful.",
+            "B": "B.there may be limits to the effectiveness of monetary policy.",
+            "C": "C.targeting reserve levels is more important than targeting interest rates."
+        },
+        "answer": "B",
+        "explanation": "Answer: B A central bank would decrease an official interest rate to stimulate the\neconomy. The setting in which an official interest rate is lowered to zero (or even slightly\nbelow zero) without stimulating economic growth suggests that there are limits to monetary\npolicy. 如果官方利率长期维持在非常接近于零的水平，而经济增长却没有增长，这很可能表明: 中央银行\n会降低官方利率来刺激经济。在不刺激经济增长的情况下，将官方利率降至零(甚至略低于零)，这表明货币\n政策是有限度的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monetary policy effectiveness, Zero lower bound, Economic growth and interest rates",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "123",
+        "question_text": "The category of persons who would be most likely to be harmed by an increase in the rate of\ninflation is:",
+        "image": "",
+        "options": {
+            "A": "A.homeowners with fixed 30-year mortgages.",
+            "B": "B.retirees relying on a fixed annuity payment.",
+            "C": "C.workers employed under contracts with escalator clauses."
+        },
+        "answer": "B",
+        "explanation": "Answer: B With inflation, a fixed amount of money buys fewer goods and services,\nthus reducing purchasing power. 最可能因通货膨胀率的增加而受到损害的人的类别是: 随着通货膨胀\n，固定数量的货币购买较少的商品和服务，从而降低了购买力，所以收到固定收入的最可能受损。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Inflation risk, Purchasing power risk, Fixed income vulnerabilities",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "124",
+        "question_text": "Of the following statements regarding the Producer Price Index (PPI), which is the least\nlikely? The PPI:",
+        "image": "",
+        "options": {
+            "A": "A.can influence the future CPI.",
+            "B": "B.category weights can vary more widely than analogous CPI terms.",
+            "C": "C.is used more frequently than CPI as a benchmark for adjusting labor contract payments."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The CPI is typically used for this purpose, while the PPI is more closely\nconnected to business contracts. 下列有关生产者价格指数(PPI)的陈述中，哪一个是最不可能的? PPI与\n商业合同的联系更为紧密,而不是工资合同。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Producer Price Index, Consumer Price Index, Economic Indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "125",
+        "question_text": "The treasury manager of a large company has recently left his position to accept a\npromotion with a competitor six months from now. A statistical employment survey conducted now\nshould categorize the status of the former treasury manager as:",
+        "image": "",
+        "options": {
+            "A": "A.underemployed.",
+            "B": "B.voluntarily unemployed.",
+            "C": "C.frictionally unemployed."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Frictionally unemployed people are not working at the time of the\nemployment survey but have recently left one job and are about to start another job. The\nfrictionally unemployed have a job waiting for them and are not 100% unemployed, it is just\nthat they have not started the new job yet. Although the treasury manager has left his current\nemployment, he has accepted a new position at another firm starting in six months. 一家大公司的\n财务经理最近离职了，六个月后他要到一家竞争对手那里接受升职。目前进行的就业统计调查应将前财务经\n理归类为: 摩擦性失业的人在就业调查时没有工作，但最近已经离开了一份工作，即将开始另一份工作。摩\n擦性失业的人有工作等着他们，但不是100%失业，只是他们还没有开始新的工作。虽然这位财务经理已经离\n开了现在的工作岗位，但他已经接受了另一家公司6个月后开始的新工作。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Unemployment, Employment surveys, Frictional unemployment",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "126",
+        "question_text": "During an economic recovery, a lagging unemployment rate is most likely attributable to:",
+        "image": "",
+        "options": {
+            "A": "A.businesses quickly rehiring workers.",
+            "B": "B.new job seekers entering the labor force.",
+            "C": "C.underemployed workers transitioning to higher-paying jobs."
+        },
+        "answer": "B",
+        "explanation": "Answer: B In an economic recovery, new job seekers return to the labor force, and\nbecause they seldom find work immediately, their return may initially raise the unemployment\nrate. 在经济复苏期间，滞后的失业率最可能归因于: 在经济复苏的时候，新找工作的人回到劳动力市场\n，因为他们很少马上找到工作，他们的回归可能会在一开始提高失业率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Labor Economics, Economic Indicators, Employment Dynamics",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "127",
+        "question_text": "As the expansion phase of the business cycle advances from early stage to late stage,\nbusinesses most likely experience a decrease in:",
+        "image": "",
+        "options": {
+            "A": "A.labor costs.",
+            "B": "B.capital investment.",
+            "C": "C.availability of qualified workers."
+        },
+        "answer": "C",
+        "explanation": "Answer: C When an economy’s expansion is well established, businesses often have\ndifficulty finding qualified workers. 随着商业周期的扩张阶段从早期发展到后期，企业很可能会经历\n以下哪一项的减少:当一个经济体的扩张已经成熟时，企业往往很难找到合格的工人。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Business cycle, Labor market dynamics, Economic expansion",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "128",
+        "question_text": "The unemployment rate is considered a lagging indicator because:",
+        "image": "",
+        "options": {
+            "A": "A.new job types must be defined to count their workers.",
+            "B": "B.multi-worker households change jobs at a slower pace.",
+            "C": "C.businesses are slow to hire and fire due to related costs."
+        },
+        "answer": "C",
+        "explanation": "Answer: C This effect makes unemployment rise more slowly as recessions start and\nfall more slowly as recoveries begin. 失业率被认为是一个滞后指标，因为: 失业率在衰退开始时上升\n得更慢，在复苏开始时下降得更慢",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Economic Indicators, Labor Market Dynamics, Business Cycle Analysis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "129",
+        "question_text": "An economist expects the following: The decline in the unemployment rate will result in\nhigher revenues for home retailers. A tighter labor market will put upward pressure on wages,\ncompelling home retailers to raise prices. Which type of inflation best corresponds to the\neconomist’s expectations?",
+        "image": "",
+        "options": {
+            "A": "A.Stagflation",
+            "B": "B.Cost-push inflation",
+            "C": "C.Demand-pull inflation"
+        },
+        "answer": "B",
+        "explanation": "Answer: B Cost-push inflation refers to the situation in which rising costs,\nusually wages, compel businesses to raise prices. 哪一种通胀最符合经济学家的预期? 成本推动型通\n货膨胀是指成本(通常是工资)的上升迫使企业提高价格的情况。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Inflation types, Labor market dynamics, Wage inflation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "130",
+        "question_text": "What is the most important effect of labor productivity in a cost-push inflation scenario?",
+        "image": "",
+        "options": {
+            "A": "A.Rising productivity indicates a strong economy and a bias towards inflation.",
+            "B": "B.The productivity level determines the economy’s status relative to its “natural rate of\nunemployment.”",
+            "C": "C.As productivity growth proportionately exceeds wage increases, product price increases are"
+        },
+        "answer": "C",
+        "explanation": "Answer: C For productivity, or output per hour, the faster that it can grow, the\nfurther that wages can rise without putting pressure on business costs per unit of output. 在成\n本推动型通货膨胀情景中，劳动生产率最重要的影响是什么? 对于生产率(即每小时产出)而言，它增长得越\n快，工资就能增长得越快，并且不会对单位产出的企业成本造成压力。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Labor productivity, Cost-push inflation, Wage and price relationship",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "131",
+        "question_text": "When the spread between 10-year US Treasury yields and the federal funds rate narrows and\nat the same time the prime rate stays unchanged, this mix of indicators most likely forecasts\nfuture economic:",
+        "image": "",
+        "options": {
+            "A": "A.growth.",
+            "B": "B.decline.",
+            "C": "C.stability."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The narrowing spread of this leading indicator foretells a drop in short-\nterm rates and a fall in economic activity. The prime rate is a lagging indicator and typically\nmoves after the economy turns. 当10年期美国国债收益率与联邦基金利率之间的息差收窄，同时最优惠利\n率保持不变时，这一系列指标最有可能预测未来的经济: 这一领先指标的息差收窄，预示着短期利率的下降\n和经济活动的下降。优惠利率是一个滞后指标，通常在经济转向后才会变动。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield Curve Analysis, Leading and Lagging Indicators, Economic Forecasting",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "132",
+        "question_text": "Which action is a central bank least likely to take if it wants to encourage businesses and\nhouseholds to borrow for investment and consumption purposes?",
+        "image": "",
+        "options": {
+            "A": "A.Sell long-dated government securities.",
+            "B": "B.Purchase long-dated government treasuries.",
+            "C": "C.Purchase mortgage bonds or other securities."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Such action would tend to constrict the money supply and increase\ninterest rates, all else equal. 如果央行希望鼓励企业和家庭为投资和消费而借贷，它最不可能采取什\n么行动? 在其他条件相同的情况下，卖出政府债券往往会压缩货币供应，提高利率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Central Banks, Interest Rates",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "133",
+        "question_text": "The time it takes for policy makers to enact a fiscal policy action is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.implementation lag",
+            "B": "B.action lag",
+            "C": "C.legislative lag"
+        },
+        "answer": "B",
+        "explanation": "The time it takes for fiscal policy actions to be proposed, approved, and\nimplemented is referred to as action lag.提出、批准和实施财政政策行动所需的时间称为行动滞后。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal Policy, Action Lag, Implementation Lag",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "134",
+        "question_text": "The least likely limitation to the effectiveness of monetary policy is that central banks\ncannot:",
+        "image": "",
+        "options": {
+            "A": "A.accurately determine the neutral rate of interest.",
+            "B": "B.regulate the willingness of financial institutions to lend.",
+            "C": "C.control amounts that economic agents deposit into banks."
+        },
+        "answer": "A",
+        "explanation": "Answer: A The inability to determine exactly the neutral rate of interest does not\nnecessarily limit the power of monetary policy. 对货币政策有效性的最不可能的限制是，央行不能:\n不能准确地确定中性利率并不一定会限制货币政策的力量。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary policy limitations, Central banking functions, Financial institutions' lending behavior",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "135",
+        "question_text": "If relative to prior values of their respective indicators, the inventory–sales ratio has\nrisen, unit labor cost is stable, and real personal income has decreased, it is most likely\nthat a peak in the business cycle:",
+        "image": "",
+        "options": {
+            "A": "A.has occurred.",
+            "B": "B.is just about to occur.",
+            "C": "C.will occur sometime into the future."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Both inventory–sales and unit labor costs are lagging indicators that\ndecline somewhat after a peak. Real personal income is a coincident indicator that by its\ndecline shows a slowdown in business activity. 如果相对于各自指标的先前值，存货销售比上升，单位\n劳动成本稳定，实际个人收入下降，则很有可能商业周期的峰值: 库存销售和单位劳动力成本都是滞后指标\n，在见顶后都会有所下降。实际个人收入是一个同步的指标，它的下降表明商业活动的放缓。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Business cycle indicators, Lagging indicators, Coincident indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "136",
+        "question_text": "The Austrian economic school attributes the primary cause of the business cycle to:",
+        "image": "",
+        "options": {
+            "A": "A.misguided government intervention.",
+            "B": "B.the creative destruction of technological progress.",
+            "C": "C.#sticky price and wage expectations that exaggerate trends."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Austrian economists see monetary policy mistakes as leading to booms and\nbusts. 奥地利经济学派将商业周期的主要原因归结为: 奥地利经济学家认为，货币政策失误会导致经济的繁\n荣和萧条。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Austrian School of Economics, Business Cycles, Monetary Policy",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "137",
+        "question_text": "According to Real Business Cycle models, an economic contraction is most likely caused by:",
+        "image": "",
+        "options": {
+            "A": "A.sticky wages.",
+            "B": "B.rising energy prices.",
+            "C": "C.a contraction in the money supply."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Real Business Cycle models conclude that expansions and contractions of\nthe economy are responses to external shocks, such as supply shocks arising from advances in\ntechnology or changes in the relative prices of inputs (e.g., energy prices). An increase in\nenergy prices shifts short-run aggregate supply to the left, resulting in higher prices and\nlower GDP. 根据真实商业周期模型，经济收缩最可能由以下原因引起: 真实商业周期模型得出的结论是，经\n济的扩张和收缩是对外部冲击的反应，比如由技术进步或投入(如能源价格)相对价格变化引起的供应冲击。\n能源价格的上涨将短期总供给向左平移，导致价格上涨和GDP下降。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Real Business Cycle models, Supply shocks, Short-run aggregate supply",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "138",
+        "question_text": "In order to minimize the foreign exchange exposure on a euro-denominated receivable due\nfrom a German company in 100 days, a British company would most likely initiate a:",
+        "image": "",
+        "options": {
+            "A": "A.spot transaction.",
+            "B": "B.forward contract.",
+            "C": "C.real exchange rate contract."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The receivable is due in 100 days. To reduce the risk of currency\nexposure, the British company would initiate a forward contract to sell euros/buy pounds at an\nexchange rate agreed to today. The agreed-upon rate is called the forward exchange rate. 为了尽\n量减少来自德国公司100天内到期的以欧元计价的应收账款的外汇风险，英国公司很可能会发起: 应收账款\n100天后到期。为了降低汇率风险，这家英国公司将启动一项远期合约，以今天商定的汇率出售欧元/买入英\n镑。商定的汇率称为远期汇率。",
+        "QA type": "Knowledge Reasoning QA",
+        "knowledge topics": "foreign exchange risk management, forward contracts, currency exposure",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "139",
+        "question_text": "Which of the following statements is the best description of the characteristics of\neconomic indicators?",
+        "image": "",
+        "options": {
+            "A": "A.Leading indicators are important because they track the entire economy.",
+            "B": "B.Lagging indicators in measuring past conditions do not require revisions.",
+            "C": "C.A combination of leading and coincident indicators can offer effective forecasts."
+        },
+        "answer": "C",
+        "explanation": "Answer: C While no single indicator is definitive, a mix of them—which can be\naffected by various economic determinants—can offer the strongest signal of performance. 下列\n哪一项是对经济指标特征的最佳描述? 虽然没有一个单一的指标是确定的，但它们的组合，可能受到各种经\n济决定因素的影响，并且可以提供最强烈的表现信号。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic Indicators, Forecasting, Leading and Lagging Indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "140",
+        "question_text": "A country with a persistent trade surplus is being pressured to let its currency\nappreciate. Which of the following best describes the adjustment that must occur if currency\nappreciation is to be effective in reducing the trade surplus?",
+        "image": "",
+        "options": {
+            "A": "A.Domestic investment must decline relative to saving.",
+            "B": "B.Foreigners must increase investment relative to saving.",
+            "C": "C.Global capital flows must shift toward the domestic market."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The trade surplus cannot decline unless the capital account deficit also\ndeclines. Regardless of the mix of assets bought and sold, foreigners must buy more assets from\n(or sell fewer assets to) domestic issuers/investors. 一个拥有持续贸易顺差的国家正承受着让其货\n币升值的压力。下列哪一项最好地描述了货币升值要有效减少贸易顺差所必须进行的调整? 除非资本账户赤\n字也下降，否则贸易顺差不会下降。不管资产买卖的组合如何，外国人必须从国内发行者/投资者那里购买更\n多资产(或向国内发行者/投资者出售更少资产)。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International Trade, Currency Appreciation, Capital Account Deficit",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "141",
+        "question_text": "The inflation rate most likely relied on to determine public economic policy is:",
+        "image": "",
+        "options": {
+            "A": "A.core inflation.",
+            "B": "B.headline inflation.",
+            "C": "C.index of food and energy prices."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Core inflation is less volatile since it excludes food and energy prices\nand therefore will not be as likely to lead to policy overreactions when serving as a target.\n最有可能用来决定公共经济政策的通货膨胀率是: 核心通胀率的波动性较小，因为它不包括食品和能源价格\n，因此作为目标时，不太可能导致政策过度反应。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Inflation measures, Economic policy, Price volatility",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "142",
+        "question_text": "A decrease in both the labor force participation ratio and the unemployment rate is most\nlikely caused by:",
+        "image": "",
+        "options": {
+            "A": "A.an increase in discouraged workers.",
+            "B": "B.an increase in underemployed workers.",
+            "C": "C.a decrease in voluntarily unemployed persons."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Discouraged workers have given up seeking employment and are\nstatistically outside the labor force. Therefore, an increase in discouraged workers will\ndecrease the labor force and thus the labor participation ratio, which is the ratio of labor\nforce to total working age population. Additionally, an increase in discouraged workers will\ndecrease the unemployment rate because discouraged workers are not counted in the official\nunemployment rate. 劳动参与率和失业率下降最可能的原因是: 灰心丧气的工人已经放弃了找工作，统计数\n据显示他们已成为劳动力之外的人。因此，增加丧志工人将减少劳动力，从而降低劳动参与率，即劳动力占\n总劳动年龄人口的比例。此外，失去信心的工人的增加将会降低失业率，因为失去信心的工人不包括在官方\n失业率中。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Labor force participation rate, Discouraged workers, Unemployment rate",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "143",
+        "question_text": "Which statement regarding fiscal policy is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.To raise business capital spending, personal income taxes should be reduced.",
+            "B": "B.Cyclically adjusted budget deficits are appropriate indicators of fiscal policy.",
+            "C": "C.An increase in the budget surplus is associated with expansionary fiscal policy."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Cyclically adjusted budget deficits are appropriate indicators of fiscal\npolicy. These are defined as the deficit that would exist if the economy was at full employment\n(or full potential output). 哪一个关于财政政策的陈述是最准确的? 周期性调整的预算赤字是恰当的财\n政政策指标。这些赤字被定义为当经济处于充分就业(或完全潜在产出)状态时所存在的赤字。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal policy, Cyclically adjusted budget deficits, Full employment",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "144",
+        "question_text": "Which of the following is not a condition of an ideal currency regime?",
+        "image": "",
+        "options": {
+            "A": "A.Fully convertible currencies.",
+            "B": "B.Fully independent monetary policy.",
+            "C": "C.Independently floating exchange rates."
+        },
+        "answer": "C",
+        "explanation": "Answer: C An ideal currency regime would have credibly fixed exchange rates among\nall currencies. This would eliminate currency-related uncertainty with respect to the prices of\ngoods and services as well as real and financial assets. 下列哪项不是理想货币制度的条件? 一个理\n想的汇率制度应该是所有货币之间都有可靠的固定汇率。这将消除与货币相关的不确定性，包括商品和服务\n的价格，以及实物和金融资产的价格。",
+        "QA type": "This question is 'knowledge reasoning QA'.",
+        "knowledge topics": "Exchange rate regimes, Monetary policy, Currency convertibility",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "145",
+        "question_text": "According to the Austrian school, the most appropriate government response to an economic\nrecession is to:",
+        "image": "",
+        "options": {
+            "A": "A.allow the market to adjust naturally.",
+            "B": "B.maintain steady growth in the money supply.",
+            "C": "C.decrease the market rate of interest below its natural value."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Austrian economists advocate limited government intervention in the\neconomy. They advise that the best thing to do in a recession is to allow the necessary market\nadjustment to take place. 根据奥地利学派的观点，政府应对经济衰退最恰当的方式是: 奥地利经济学家\n主张政府对经济进行有限的干预。他们建议，在经济衰退时期，最好的做法是允许必要的市场调整发生。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic Theories, Government Intervention, Economic Recession Management",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "146",
+        "question_text": "A central bank’s repeated open market purchases of government bonds:",
+        "image": "",
+        "options": {
+            "A": "A.decreases the money supply.",
+            "B": "B.is prohibited in most countries.",
+            "C": "C.is consistent with an expansionary monetary policy."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The purchase of government bonds via open market operations increases\nbanking reserves and the money supply; it is consistent with an expansionary monetary policy.\n央行在公开市场上反复购买政府债券: 通过公开市场操作购买政府债券，增加了银行储备和货币供应;这与扩\n张性的货币政策是一致的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary policy, Open market operations, Money supply",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "147",
+        "question_text": "An analyst writes in an economic report that the current phase of the business cycle is\ncharacterized by accelerating inflationary pressures and borrowing by companies. The analyst is\nmost likely referring to the:",
+        "image": "",
+        "options": {
+            "A": "A.peak of the business cycle.",
+            "B": "B.contraction phase of the business cycle.",
+            "C": "C.early expansion phase of the business cycle."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Accelerating inflation and rapidly expanding capital expenditures\ntypically characterize the peak of the business cycle. During such times, many businesses\nfinance their capital expenditures with debt to expand their production capacity. 一位分析师在\n一份经济报告中写道，当前商业周期的特点是通胀压力加剧和企业借贷。分析师很可能指的是: 加速的通货\n膨胀和迅速扩大的资本支出是商业周期顶峰的典型特征。在此期间，许多企业通过举债来为资本支出融资\n，以扩大生产能力。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Business Cycle Phases, Inflationary Pressures, Corporate Borrowing",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "148",
+        "question_text": "A large industrialized country has recently devalued its currency in an attempt to correct\na persistent trade deficit. Which of the following domestic industries ismost likely to benefit\nfrom the devaluation?",
+        "image": "",
+        "options": {
+            "A": "A.Luxury cars.",
+            "B": "B.Branded prescription drugs.",
+            "C": "C.Restaurants and live entertainment venues."
+        },
+        "answer": "A",
+        "explanation": "Answer: A A devaluation of the domestic currency means domestic producers are\ncutting the price faced by their foreign customers. The impact on their unit sales and their\nrevenue depends on the elasticity of demand. Expensive luxury goods exhibit high price\nelasticity. Hence, luxury car producers are likely to experience a sharp increase in sales and\nrevenue due to the devaluation. 一个大型工业化国家最近为了纠正持续的贸易逆差而使其货币贬值。下\n列哪个国内产业最有可能从货币贬值中获益? 本币贬值意味着国内生产商正在降低外国客户面临的价格。其\n对单位销售和收入的影响取决于需求弹性。昂贵的奢侈品表现出很高的价格弹性。因此，由于货币贬值，豪\n华车生产商可能会经历销量和收入的大幅增长。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign Exchange Risk, Price Elasticity of Demand, Trade and Currency Devaluation.",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "149",
+        "question_text": "Monetarists favor a limited role for the government because they argue:",
+        "image": "",
+        "options": {
+            "A": "A.government policy responses may lag.",
+            "B": "B.firms take time to adjust to systemic shocks to the economy.",
+            "C": "C.resource use is efficient with marginal revenue and cost equal."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Monetarists caution policy effects can occur long after the need for\nwhich they were implemented is no longer an issue. 货币主义者支持政府发挥有限的作用，因为他们认\n为: 货币主义者认为政策效应可能会在政策实施的必要性消失很久之后才出现。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetarism, Government intervention lag effects, Efficient market hypothesis",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "150",
+        "question_text": "A product is part of a price index based on a fixed consumption basket. If, over time, the\nproduct’s quality improves while its price stays constant, the measured inflation rate is most\nlikely:",
+        "image": "",
+        "options": {
+            "A": "A.unaffected.",
+            "B": "B.biased upward.",
+            "C": "C.biased downward."
+        },
+        "answer": "B",
+        "explanation": "B is correct. As the quality of a product improves, it satisfies people’s needs\nand wants better. The measured inflation rate is skewed higher than otherwise unless an\nadjustment is made for the increase in the quality of the good. Even if the good’s price had\nincreased over time, the improvements in quality would still bias the measured inflation rate\nupward. 产品是基于固定消费篮子的价格指数的一部分。如果随着时间的推移，产品的质量提高了，而价格\n保持不变，那么测量的通货膨胀率很可能是: 随着产品质量的提高，满足了人们的需要和要求。除非对商品\n质量的提高进行调整，否则测量的通货膨胀率就会高于其他情况。即使商品的价格随着时间的推移而上涨\n，质量的改善仍然会使测量的通货膨胀率偏高。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Inflation measurement, Quality adjustment in price indices, Biases in economic indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "151",
+        "question_text": "When a central bank announces a decrease in its official policy rate, the desired impact is\nan increase in:",
+        "image": "",
+        "options": {
+            "A": "A.investment.",
+            "B": "B.interbank borrowing rates.",
+            "C": "C.the national currency’s value in exchange for other currencies."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Investment is expected to move inversely with the official policy rate.\n当央行宣布降低其官方政策利率时，预期的影响是: 预计投资将与官方政策利率成反比，所以投资上升。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Interest Rates, Investment",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "152",
+        "question_text": "If the base currency in a forward exchange rate quote is trading at a forward discount,\nwhich of the following statements is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.The forward points will be positive.",
+            "B": "B.The forward percentage will be negative.",
+            "C": "C.The base currency is expected to appreciate versus the price currency."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The base currency trading at a forward discount means that 1 unit of the\nbase currency costs less for forward delivery than for spot delivery; i.e., the forward\nexchange rate is less than the spot exchange rate. The forward points, expressed either as an\nabsolute number of points or as a percentage, are negative. 如果远期汇率报价中的基础货币是以远\n期贴水交易的，下列哪个陈述最准确? 以远期汇率交易的基础货币意味着1单位的基础货币远期交割的成本低\n于即期交割;即远期汇率低于即期汇率。以点数的绝对值或百分数表示的远期点数为负。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign Exchange Risk, Forward Exchange Rates, Currency Valuation",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "153",
+        "question_text": "The most likely argument against high national debt levels is that:",
+        "image": "",
+        "options": {
+            "A": "A.the debt is owed internally to fellow citizens.",
+            "B": "B.they create disincentives for economic activity.",
+            "C": "C.they may finance investment in physical and human capital."
+        },
+        "answer": "B",
+        "explanation": "Answer: B The belief is that high levels of debt to GDP may lead to higher future\ntax rates which may lead to disincentives to economic activity. 反对高国家债务水平的最有可能的\n理由是: 这种观点认为，高水平的债务与GDP之比可能导致未来更高的税率，从而可能抑制经济活动。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fiscal policy, Public debt, Economic incentives",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "154",
+        "question_text": "Disinflation is best described as a:",
+        "image": "",
+        "options": {
+            "A": "A.decline in price levels.",
+            "B": "B.negative inflation rate.",
+            "C": "C.decline in the inflation rate."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Disinflation is a decline in the inflation rate—for example, from 7% to\n4%. 反通货膨胀最好描述为:反通货膨胀是通货膨胀率的下降，例如，从7%下降到4%。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Inflation Measurement, Economic Indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "155",
+        "question_text": "Which of the following is the most likely example of a tool of fiscal policy?",
+        "image": "",
+        "options": {
+            "A": "A.Public financing of a power plant.",
+            "B": "B.Regulation of the payment system.",
+            "C": "C.Central bank’s purchase of government bonds."
+        },
+        "answer": "A",
+        "explanation": "Answer: A Public financing of a power plant could be described as a fiscal policy\ntool to stimulate investment. 下列哪一个是最有可能的财政政策工具的例子? 对发电厂的公共融资可以\n被描述为刺激投资的财政政策工具。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal policy, Investment stimulation, Public infrastructure financing",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "156",
+        "question_text": "The inventory/sales ratio is most likely to be rising:",
+        "image": "",
+        "options": {
+            "A": "A.as a contraction unfolds.",
+            "B": "B.partially into a recovery.",
+            "C": "C.near the top of an economic cycle."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Near the top of a cycle, sales begin to slow before production is cut,\nleading to an increase in inventories relative to sales. 库存/销售比率最有可能上升: 在接近周期\n顶部时，销售在减产前开始放缓，导致库存相对于销售的增加。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Business Cycles, Inventory Management, Economic Indicators",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "157",
+        "question_text": "The least likely consequence of a period of hyperinflation is the:",
+        "image": "",
+        "options": {
+            "A": "A.reduced velocity of money.",
+            "B": "B.increased supply of money.",
+            "C": "C.possibility of social unrest."
+        },
+        "answer": "A",
+        "explanation": "Answer: A In hyperinflation, consumers accelerate their spending to beat prices\nincreases and money circulates more rapidly. 恶性通货膨胀时期最不可能出现的后果是: 在恶性通货膨\n胀中，消费者会加快支出以应对物价上涨，货币流通速度也会加快。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hyperinflation, Money supply, Social unrest",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "158",
+        "question_text": "Which of the following counterparties is most likely to be considered a sell-side foreign-\nexchange market participant?",
+        "image": "",
+        "options": {
+            "A": "A.A large corporation that borrows in foreign currencies.",
+            "B": "B.A sovereign wealth fund that influences cross-border capital flows.",
+            "C": "C.A multinational bank that trades foreign exchange with its diverse client base."
+        },
+        "answer": "C",
+        "explanation": "Answer: C The sell side generally consists of large banks that sell foreign\nexchange and related instruments to buy-side clients. These banks act as market makers, quoting\nexchange rates at which they will buy (the bid price) or sell (the offer price) the base\ncurrency. 下列哪一方最有可能被视为卖方外汇市场参与者? 卖方一般由向买方客户出售外汇及相关金融工\n具的大型银行组成。这些银行扮演做市商的角色，提供他们将买入(买入价)或卖出(卖出价)基准货币的汇率\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Sell-side participants, Market makers, Foreign exchange trading",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "159",
+        "question_text": "In a recession, companies are most likely to adjust their stock of physical capital by:",
+        "image": "",
+        "options": {
+            "A": "A.selling it at fire prices.",
+            "B": "B.not maintaining equipment.",
+            "C": "C.quickly canceling orders for new construction equipment."
+        },
+        "answer": "B",
+        "explanation": "Answer: B Physical capital adjustments to downturns come through aging of equipment\nplus lack of maintenance. 在经济衰退时期，公司最可能通过以下方式调整其有形资本存量: 实体资本的\n调整是通过减少设备维护来实现的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Capital management, Economic downturns, Equipment maintenance",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "160",
+        "question_text": "Which of the following best represents a contractionary fiscal policy?",
+        "image": "",
+        "options": {
+            "A": "A.Public spending on a high-speed railway.",
+            "B": "B.A temporary suspension of payroll taxes.",
+            "C": "C.A freeze in discretionary government spending."
+        },
+        "answer": "C",
+        "explanation": "Answer: C A freeze in discretionary government spending is an example of a\ncontractionary fiscal policy. 下列哪项最能代表紧缩的财政政策? 冻结可自由支配的政府开支是紧缩财\n政政策的一个例子。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal Policy, Government Spending, Economic Policy",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "161",
+        "question_text": "The following exhibit shows the supply and demand for money\nThere is an excess supply of money when the nominal rate of interest is:",
+        "image": "level1_jing_ji_xue_images/161u.PNG",
+        "options": {
+            "A": "A.I0.",
+            "B": "B.I1.",
+            "C": "C.I2."
+        },
+        "answer": "B",
+        "explanation": "Answer: B When the interest rate on bonds is I1 there is an excess supply of money\n(equal to M0 – M1 > 0). Economic agents would seek to buy bonds with their excess money\nbalances, which would force the price of bonds up and the interest rate down to I0. 当名义利率\n为: 当债券利率为I1时，货币供应过剩(等于M0 - M1 >0)，经济主体会用其过剩的货币余额购买债券，这将\n迫使债券价格上升，利率下降到I0",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Interest Rate Dynamics, Supply and Demand for Money",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "162",
+        "question_text": "Which of the following is a limitation on the ability of central banks to stimulate growth\nin periods of deflation?",
+        "image": "",
+        "options": {
+            "A": "A.Ricardian equivalence.",
+            "B": "B.The interaction of monetary and fiscal policy.",
+            "C": "C.The fact that interest rates have a minimum value (0%)."
+        },
+        "answer": "C",
+        "explanation": "Answer: C Deflation poses a challenge to conventional monetary policy because once\nthe central bank has cut nominal interest rates to zero to stimulate the economy, they cannot\ncut them further. 下列哪一项限制了中央银行在通货紧缩时期刺激经济增长的能力? 通货紧缩对传统的货\n币政策构成了挑战，因为一旦央行为了刺激经济而将名义利率降至零(或略低于零)，他们就无法进一步降息\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy Limitations, Zero Lower Bound, Deflation Economics",
+        "book label": "level1_经济学",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

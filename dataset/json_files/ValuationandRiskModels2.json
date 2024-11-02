@@ -1,0 +1,1154 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Jack, a graduate student at Mary Business School, attended a job interview for the position\nof fixed-income-security researcher. After the interview, the department manager replied that\nJack lacked the basic knowledge of fixed-income securities. Jack recalled the conversation and\nfound some of the following statements he said might be wrong.Statement 1: Debenture bonds have\nless risks than collateral trust bonds, since only high-rating companies can issue debenture\nbonds. Statement 2: Guaranteed bonds rank undoubtedly above collateral trust bonds, because\ncollaterals may devaluate as time passes, while guarantor is almost sure to pay for the debts\nif the guarantee fails to pay.Statement 3: Bonds issued by highly creditworthy firms generally\ncontain few covenants.Statement 4: Call provisions benefit bond issuers, while put provisions\nbenefit bondholders.Which of these statement（　） is (are) wrong?",
+        "image": "",
+        "options": {
+            "A": "A.Statement 1 and Statement 3",
+            "B": "B.Statement 1 and Statement 2",
+            "C": "C.Statement 2 and Statement 4",
+            "D": "D.Statement 3 and Statement 4"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为不同抵押类型债券的性质辨析。Statement 1: collateral trust bonds （抵押\n信托债券）是有金融资产作为抵押品的债券，当发生违约时，可以对抵押品进行清算从而获得违约的补偿。\n与 collateral trust bonds（担保信托债券）不同，Debenture bonds（无抵押债券）是没有抵押品的，因\n此面临的风险是高于抵押信托债券的。Statement 1是错误的。Statement 2: guaranteed bonds（担保债券\n）的担保效果和债券发行人与担保人之间的财务相关性息息相关，因为如果债券发行人和担保人之间的财务\n相关性比较大，那么发行人发生违约的时候，担保人的财务状况也表现很差，那么有可能这个时候担保人也\n没有能力履行担保职责从而偿付款项。反之，相关性越小担保效果越好。不能简单一味地认为提供担保的第\n三方就有能力履行担保职责。Statement 2是错误的。Statement 3: 债券契约中会有三类条款，规定发行人\n必须做到的积极条款（positive covenants），禁止某些行为的消极条款（negative covenants），还有维\n持财务指标的财务条款（financial covenants），一个公司信用质量越好，契约中所含的条款就会越少。\nStatement 3 是正确的。Statement 4: Call provisions（赎回条款）允许发行人在一定时间以一定价格赎\n回债券，这对发行人有利；而put provisions（回售条款）则让债券持有人有权在特定日期以预先确定的价\n格将债券卖回给发行人，这对债券持有人有利。Statement 4是正确的。因此，选项B正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Types of bonds, Bond covenants, Call and put provisions",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "Emma is looking for the arbitrage opportunities in the Treasury Bond market. She has noticed\ntwo bonds in the market. Bond A is a 1-year zero-coupon bond, priced at USD 96.12; while Bond B\nis a 1-year coupon bond, priced at USD 105.20, which pays a 10% coupon semi-annually. What is\nthe fair price of a 1-year Treasury bond, paying 8% coupon semi-annually?",
+        "image": "",
+        "options": {
+            "A": "A.USD 97.94",
+            "B": "B.USD 100.23",
+            "C": "C.USD 102.35",
+            "D": "D.USD 103.38"
+        },
+        "answer": "D",
+        "explanation": "本题的考点为一价定律思.想下利用复制原理求债券价格的知识点。\n\n$$\n\\begin{array}{cccc}\n& 100 & \\\\\n& \\downarrow & \\\\\n5 & & 105 \\\\\n& \\downarrow & \\\\\n4 & & 104 \\\\\n\\end{array}\n$$\n\n解题思路是用 bond A 和 bond B 来复制 1 年期票息 8%的债券。为了复制 1 年期票息 8%的债券的现金流，通过求解一个方程组来确定权重因子 $w_1$ 和 $w_2$，分别对应于 bond A 和 bond B 的持有比例。\n方程组如下：\n\n$$\n100 \\times w_1 + 105 \\times w_2 = 104\n$$\n\n$$\n5 \\times w_1 = 4\n$$\n\n求解方程组可得：$w_1 = 0.2$ 和 $w_2 = 0.8$。因此，根据一价定律的思想，1 年期票息 8%的债券的价格应为：\n\n$$\n0.2 \\times 96.12 + 0.8 \\times 105.2 = 103.384\n$$\n\n否则会存在套利机会。\n因此，选项 D 正确。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Bond Pricing, Arbitrage Pricing Theory, Treasury Bonds",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "The treasurer of a US company has entered into a fixed-for-fixed currency swap with a German\ncounterparty. The treasurer expects to pay EUR 100,000 and receive USD 120,000 at the end of\neach year for the next 4 years. Concerned that interest rates in the US will decrease, the\ntreasurer opens an account in a local bank that pays a guaranteed nominal rate of 3%,\ncompounded monthly. If the treasurer makes four annual end-of-year deposits of USD 120,000\neach, what will the account balance be closest to at the end of the fourth year?",
+        "image": "",
+        "options": {
+            "A": "A.USD 502,035",
+            "B": "B.USD 502,335",
+            "C": "C.USD 509,312",
+            "D": "D.USD 6,111,745"
+        },
+        "answer": "B",
+        "explanation": "该题的考点为有效年利率和年金终值的计算。\n由于是每年年末的时候才会存一笔年金，因此需要把按月复利的年化利率转化成一年复利一次的年化利率，即实际利率。\n\n实际年利率可由下式计算：\n\n计算器的按法：$[1.0025]^{\\times}[12][=][-][1][=]$得到3.0416%。\n\n实际年利率 $R_{annually}$ = 3.04%，可根据以下计算器的方法得到的结果：\n\n$$\nN = 4, I/Y = 3.04, PV = 0, PMT = -120,000, CPTFV = 502,335\n$$\n\n因此，选项 B 正确。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Currency Swaps, Compounding Interest, Financial Risk Management",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Musab, FRM, is a financial advisor of Golden Investment. He is referring two investment\nproducts to his client, Jia. The products’ features are described below:Investment A: the\nnominal rate of return is 8%, which is compounded monthly.Investment B: the nominal rate of\nreturn is 9%, which is compounded semi-annually.Jia’s investment decision is based on the\nequivalent annual rate of the investment product, so Musab calculates the equivalent annual\nrate with discrete compoundingfrequencies for both products. Which of the following is closest\nto the equivalent annual rate for product A and B respectively?",
+        "image": "",
+        "options": {
+            "A": "A.Equivalent annual rate for product A: 7.97% Equivalent annual rate for product B: 8.80%",
+            "B": "B.Equivalent annual rate for product A: 8.30% Equivalent annual rate for product B:8.80%",
+            "C": "C.Equivalent annual rate for product A: 7.97% Equivalent annual rate for product B:9.20%",
+            "D": "D.Equivalent annual rate for product A: 8.30% Equivalent annual rate for product B:9.20%"
+        },
+        "answer": "D",
+        "explanation": "本题的考点为利率之间的等价转换。\n\n$$\n\\text{Equivalent annual rate for product A} = (1 + \\frac{8\\%}{12})^{12} - 1 = 8.30\\%\n$$\n\n$$\n\\text{Equivalent annual rate for product B} = (1 + \\frac{9\\%}{2})^{2} - 1 = 9.20\\%\n$$\n\n因此，选项 D 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Time Value of Money, Interest Rate Calculations, Investment Analysis",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "Based on the information provided below, which of the following amounts are closest to the\ndiscount factors for 6 months and 1 year, respectively?",
+        "image": "ValuationandRiskModels_images/5u.png",
+        "options": {
+            "A": "A.d(0.5):0.9862 d(1.0):0.8860",
+            "B": "B.d(0.5):0.9653 d(1.0):0.8860",
+            "C": "C.d(0.5):0.9862 d(1.0):0.8760",
+            "D": "D.d(0.5):0.9653 d(1.0):0.8760"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为通过债券现金流折现现值的方法计算折现因子。\n\n根据前两种债券的现金流结构，有两个方程：\n\n$$\nd(0.5) \\times \\left(100 + \\frac{5.7\\%}{2} \\times 100\\right) = 101.426\n$$\n\n$$\nd(0.5) \\times \\frac{15\\%}{2} \\times 100 + d(1) \\times \\left(100 + \\frac{15\\%}{2} \\times 100\\right) = 102.642\n$$\n\n通过求解，可以得到 $d(0.5)$ 和 $d(1)$：\n\n$d(0.5) = 0.986155$\n\n$d(1) = 0.886008$\n\n因此，选项 A 正确。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Discount Factor Calculation, Time Value of Money, Yield Curve",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "George, FRM, planned to validate the spot rates provided by the research department. He\ncollected the related information about four highly liquid bonds in the market, shown in the\ntable below.\nAssuming all these bonds are fairlypriced, which of the following are closest to the 1-year and\n1.5-year spot rates respectively using bootstrapping method?",
+        "image": "ValuationandRiskModels_images/6u.png",
+        "options": {
+            "A": "A.：2.2245% ：5.5668%",
+            "B": "B.：2.2245% ：5.7328%",
+            "C": "C.：3.5946% ：5.5668%",
+            "D": "D.：3.5946% ：6.2907%"
+        },
+        "answer": "C",
+        "explanation": "本题的考点为利用脱靴法求期利率。\n\n$$\n\\frac{100}{(1+\\frac{z_{0.5}}{2})} = 98.9 \\rightarrow z_{0.5} = 2.2245\\%\n$$\n\n$$\n\\frac{100}{(1+\\frac{z_{1}}{2})^2} = 96.5 \\rightarrow z_{1} = 3.5946\\%\n$$\n\n$$\n\\frac{2.75}{(1+\\frac{2.2245\\%}{2})} + \\frac{2.75}{(1+\\frac{3.5946\\%}{2})^2} + \\frac{102.75}{(1+\\frac{z_{1.5}}{2})^3} = 100 \\rightarrow z_{1.5} = 5.5668\\%\n$$\n\n因此，选项 C 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Spot rates, Bootstrapping method, Bond pricing",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "Tony, the fixed income analyst of Neptune Fund, is analyzing the current interest term\nstructure. The table below shows the forward rate list he obtained from the database.\nWhat should be the 1.5-year spot rate compounded semiannually from the list above?",
+        "image": "ValuationandRiskModels_images/7u.png",
+        "options": {
+            "A": "A.3.73%",
+            "B": "B.2.68%",
+            "C": "C.3.97%.",
+            "D": "D.5.32%"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为通过远期利率计算即期利率。\n\n$$\nZ_{1.5}\n$$\n\n通过三个远期利率的相乘，就可以得到即期利率。\n\n$$\n\\left( 1 + \\frac{f_{0-0.5}}{2} \\right) \\left( 1 + \\frac{f_{0.5-1}}{2} \\right) \\left( 1 + \\frac{f_{1-1.5}}{2} \\right) = \\left( 1 + \\frac{z_{1.5}}{2} \\right)^3 \\rightarrow z_{1.5} = 3.73\\%\n$$\n\n因此，选项 A 正确。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest rate term structure, Spot rate calculation, Forward rate analysis",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "Oliver is a senior analyst in the fixed income department of Golden Investment. When\nanalyzing the relationship between par rates and spot rates, he obtained the data from internal\ntrading system, as shown in the following table:\nHowever, the spot rate for year 1.5 is omitted in the trading system. Oliver is considering\nderiving the spot rate from the par curve. Assuming the coupon is paid semi-annually, which of\nthe following choiceis the most accurate estimate on spot rate for year 1.5?",
+        "image": "ValuationandRiskModels_images/8u.png",
+        "options": {
+            "A": "A.3.2000%",
+            "B": "B.3.2110%",
+            "C": "C.3.3212%",
+            "D": "D.3.1567%"
+        },
+        "answer": "B",
+        "explanation": "本题考查为均匀利率和即期期利率之间的换算。\n首先，从表格数据可以看出，利率曲线向上倾斜。当利率曲线向上倾斜时，即期利率曲线在平价收益曲线之上，因此排除A和D选项。\n\n$$\n\\frac{3.2/2}{(1+\\frac{2.25\\%}{2})^1}+\\frac{3.2/2}{(1+\\frac{2.6527\\%}{2})^2}+\\frac{100+3.2/2}{(1+\\frac{Z_{15}}{2})^3}=100\n$$\n\n$$\nZ_{15}=3.2110\\%\n$$\n\n因此，选项B正确。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Term Structure of Interest Rates, Fixed Income Securities, Bond Valuation",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Sunny is a manager of a hedge fund called Bright Futures, specializing in fixed income\nsecurities. One day, Bright Futures hosted a workshop and invited all the mid-level executives\nand management trainees. The workshop provided a platform for sharing ideas, and Sunny took\nsome notes when others shared their opinions.Statement 1: Libor (London Interbank Offered Rate)\nis a secured borrowing rate between banks, which is quoted for several different currencies and\nfor borrowing periods ranging from one day to one year.Statement 2: Libor is not an ideal\nbenchmark because it is based on estimates that can be manipulated, while repo-based secured\novernight financing rateis a better choice.Statement 3: The liquidity preference theory argues\nthat forward rates should be equal to expected future spot rates.Statement 4: If there is no\ndefault and the yield keepsconstant, the bond price approaches par value as its time-to-\nmaturity approaches zero.Which of these statement（　） is (are) wrong?",
+        "image": "",
+        "options": {
+            "A": "A.Statement 1 and Statement 3",
+            "B": "B.Statement 2 and Statement 3",
+            "C": "C.Statement 1 and Statement 4",
+            "D": "D.Statement 2 and Statement 4"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为LIBOR、利率期限结构理论和回归面值效应（pull-to-par effect）。Statement\n1：LIBOR是一个报价利率，可以被操纵，是一个unsecured的利率。statement 1是错误的。Statement\n2：LIBOR 是一个报价利率，可以被操纵。美国提议采用repo-based secured overnight financing\nrate，也就是隔夜回购利率（SOFR），而英国和欧元区则提议分别采用英镑隔夜指数平均利率（SONIA）和欧\n元隔夜指数平均利率（EONIA）。Statement 2 是正确的。Statement 3：预期理论认为，利率期限结构反映\n了市场对未来利率的预期，远期利率应等于未来即期利率的预期值。Statement 3是错误的。Statement\n4：回归面值效应（pull-to-par effect）认为，如果没有违约且收益率保持不变的情况下，随着时间不断趋\n近到期日，债券价格不断趋近面值。Statement 4 是正确的。因此，选项A正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "LIBOR, Term Structure of Interest Rates, Pull-to-Par Effect",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "Robert Rubin, former Treasury Secretary, decided to stop issuing 30-year Treasury bonds in\n2001 and to replace them by borrowing more with shorter-maturity Treasury bills and notes.\nWhich of the following statements concerning this decision is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.If the expectation theory of the term structure is correct, this decision will reduce the\ngovernment's borrowing cost.",
+            "B": "B.If the liquidity preference theory of the term structure is correct, this decision will\nreduce the government's borrowing cost.",
+            "C": "C.If the liquidity preference theory of the term structure is correct, this decision will not\nchange the government's borrowing cost.",
+            "D": "D.If the expectation theory of the term structure is correct, this decision will increase the"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为对利率期限理论和预期理论的理解。如果预期理论是正确的，那么市场中的远期\n利率应当等于市场对未来即期利率的预期值，题目中没有提及到预期的问题，无法判断长期利率与短期利率\n的大小关系。因此，选项A和D与题意无关。如果流动性偏好理论是正确的，在流动性偏好理论下，贷款人偏\n好短期的产品，借款人偏好长期的产品。借贷双方难以达成交易。做市商为了撮合两方的需求，便调高长期\n利率，调低短期利率，这样贷款人便有动力选择更加长期的产品，而借款人也有动力选择期限更短的产品\n，因而最终利率期限结构成为向上倾斜的形状，即短期借款利率低于长期借款利率。所以，政府的借款从长\n期变为短期，成本将会下降。因此，选项C错误，选项B正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Preference Theory, Expectation Theory, Term Structure of Interest Rates",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "A corporate bond paying a 6% coupon semi-annually with par value of $1,000 has 10 coupon\npayments before maturity. The market rate is currently at 5%. There are 90 days between\nsettlement date and the next coupon payment date. Calculate the dirty price and the clean price\nof the bond, respectively.",
+        "image": "",
+        "options": {
+            "A": "A.$1,043.76, $1,013.76.",
+            "B": "B.$1,043.76, $1,028.76.",
+            "C": "C.$1,056.73, $1,041.73.",
+            "D": "D.$1,069.70, $1,054.70."
+        },
+        "answer": "C",
+        "explanation": "本题的考点为一价定律思想下利用复制原理求债券价格的知识点。\n\n$$\n\\begin{array}{c|c}\n5 & 105 \\\\\n\\downarrow & \\\\\n4 & 104 \\\\\n\\end{array}\n$$\n\n解题思路是用 bond A 和 bond B 来复制 1 年期票息 8%的债券。为了复制 1 年期票息 8%的债券的现金流，通过求解一个方程组来确定权重因子 $w_1$ 和 $w_2$，分别对应于 bond A 和 bond B 的持有比例。\n方程组如下：\n\n$$\n100 \\times w_1 + 105 \\times w_2 = 104\n$$\n\n$$\n5 \\times w_1 = 4\n$$\n\n求解方程组可得：$w_1 = 0.2$ 和 $w_2 = 0.8$。因此，根据一价定律的思想，1 年期票息 8%的债券的价格应为：\n\n$$\n0.2 \\times 96.12 + 0.8 \\times 105.2 = 103.384\n$$\n\n否则会存在套利机会。\n因此，选项 D 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond pricing, Coupon payments, Yield to maturity",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "Lucy is a senior investment adviser who works at Morning Star Securities. She notices that\nthe spot rate curve is currently upward-sloping and expects the term structure won’t change\ntoo much in the future. There are two actively traded Treasury Bonds in the market, Bond A and\nBond B. They have the same maturity, but Bond A has a higher coupon rate than Bond B. According\nto the information above, what conclusion can Lucy draw?",
+        "image": "",
+        "options": {
+            "A": "A.Bond A has a higher YTM.",
+            "B": "B.Bond B has a higher YTM.",
+            "C": "C.Bond A and Bond B has the same YTM, because the difference in coupon rates has already\nreflected in their prices.",
+            "D": "D.Other information is still needed before drawing an approximate conclusion."
+        },
+        "answer": "B",
+        "explanation": "本题的考点为票息效应。根据票息效应，相同期限但不同票息的公平定价的债券的YTM是不同的\n。当即期利率曲线向上倾斜时，YTM与票息率呈现负相关。债券A的票息率高于债券B，债券A的YTM更小，债券\nB的YTM更大。因此，选项B正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Yield Curve Analysis, Coupon Rate Effect, Term Structure of Interest Rates",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Lorenz, FRM, is a portfolio manager of Copper Investment. One day, Lorenz discussed the\ndecomposition of P&L for a bond portfolio with a trader. They talked about a corporate bond\nwith annual coupon rate of 6% and a time to maturity of 3 years. The bond has a spread of 60 bp\ncurrently. The forward rates are shown in the below table.\nBased on the scenario that forward rates are realized, which of the following is closest to the\ncarry roll-down at the end of 1 year.",
+        "image": "ValuationandRiskModels_images/13u.png",
+        "options": {
+            "A": "A.-0.2602",
+            "B": "B.-1.2232",
+            "C": "C.4.2306",
+            "D": "D.5.7398"
+        },
+        "answer": "C",
+        "explanation": "本题考点为债券收益的拆解。\n\n$$\nT = 0: \\quad P_0 = \\frac{6}{(1+4.1\\%)} + \\frac{6}{(1+4.1\\%)(1+4.8\\%)} + \\frac{100+6}{(1+4.1\\%)(1+4.8\\%)(1+5.7\\%)} = 103.1853\n$$\n\n$$\nT = 1: \\quad P_1 = \\frac{6}{(1+4.8\\%)} + \\frac{100+6}{(1+4.8\\%)(1+5.7\\%)} = 101.4159\n$$\n\n价格变动的部分 = 101.4259 - 103.1853 = -1.7694\n\nCash carry = 每一期的票息 = 6\n\nCarry \\, - \\, Roll \\, down \\, = -1.7694 + 6 = 4.2306\n\n因此， 选项 C 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bond valuation, Forward rates, Yield curve",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Clara is calculating the modified duration of a straightbond. The basic information of the\nbond is shown below:\nWhat is the modified duration of this bond?",
+        "image": "ValuationandRiskModels_images/14u.png",
+        "options": {
+            "A": "A.1.8415",
+            "B": "B.1.9520",
+            "C": "C.1.9545",
+            "D": "D.1.8439"
+        },
+        "answer": "A",
+        "explanation": "本题考点为麦考利久期的计算以及麦考利久期和修正久期的换算。\n\n\\[\n\\begin{array}{|c|c|c|c|c|}\n\\hline\nT & \\text{Cash flow} & PV & \\omega & \\omega T \\\\\n\\hline\n1 & 50 & 50 / 1.06 = 47.1698 & 47.1698 / 981.6661 = 4.8051\\% & 0.0481 \\\\\n\\hline\n2 & 1050 & 1050 / 1.06^2 = 934.4963 & 934.4963 / 981.6661 = 95.1949\\% & 1.9039 \\\\\n\\hline\n\\text{Total} & & 981.6661 & & \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\text{Mac. Dur} = 1.9520\n\\]\n\n$$\n\\text{Mod. Dur} = \\frac{\\text{Mac. Dur}}{1 + \\frac{r}{m}} = \\frac{1.9520}{1.06} = 1.8415\n$$\n\n因此，选项 A 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Bond Valuation, Duration Analysis",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "A portfolio consists of two STRIPS: Bond A with a market value of USD 2million and Bond B\nwith a market value of USD 3 million. The maturity of Bond A is 5 years, while the one of Bond\nB is 10 years. Assuming the yield to maturity (YTM) of the two bonds are both 6% (semiannually\ncompounded), what is the DV01 of the portfolio?",
+        "image": "",
+        "options": {
+            "A": "A.7.767",
+            "B": "B.3,774",
+            "C": "C.38,834",
+            "D": "D.3,883"
+        },
+        "answer": "D",
+        "explanation": "本题考为麦考利久期、修正久期、美元久期和DV01之间的转换。\n\n$$\n\\begin{array}{|c|c|c|c|c|c|c|c|}\n\\hline\n & a & b & c=b & d=\\frac{c}{1+\\frac{6\\%}{2}} & e=d \\times a & f=\\frac{e}{10,000} \\\\\n\\hline\n\\text{Bond} & \\text{Value (USD)} & \\text{Maturity} & \\text{Mac. Dur.} & \\text{Mod. Dur} & \\text{D. Dur} & \\text{DV01} \\\\\n\\hline\n\\text{Bond A} & 2,000,000 & 5 & 5 & 4.8544 & 9,708,800 & 970.88 \\\\\n\\hline\n\\text{Bond B} & 3,000,000 & 10 & 10 & 9.7087 & 29,126,100 & 2,912.61 \\\\\n\\hline\n\\text{Portfolio} & 5,000,000 & & & & & 3,883.49 \\\\\n\\hline\n\\end{array}\n$$\n\nBond A 和 Bond B 是零息债券，两者的麦考利久期等于它们的到期时间（Mac. Dur = Maturity）。\n\nBond A 和 Bond B 每半年复利一次，两者的修正久期可由麦考利久期和期间利率来计算。（Mod. Dur = Mac. Dur / (1 + 3%)）。\n\n美元久期等于修正久期与市场价值的乘积。（D. Dur = Mod. Dur \\times Value）。\n\nDV01 等于美元久期除以 10,000。（DV01 = D. Dur / 10,000）。\n\n组合的 DV01 等于 Bond A 和 Bond B 的 DV01 相加，即 970.88 + 2,912.61 = 3,883.49。\n\n因此，选项 D 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Duration, Yield to Maturity (YTM), DV01",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Jerry, FRM, attended a lecture about fixed income securities a few weeks ago and took some\nnotes in the lecture. When going over these notes today, he finds some writing mistakes due to\nabsent-mindedness.I. A bond with higher coupon frequencyhas a lower duration.II. Assuming other\nfactors remain unchnged, a higher coupon rate will decrease the duration of the bond.III.\nHigher YTM indicates higher duration.Which of the note（　） above is/are false?",
+        "image": "",
+        "options": {
+            "A": "A.I, II, III",
+            "B": "B.III",
+            "C": "C.I, III",
+            "D": "D.II, III"
+        },
+        "answer": "B",
+        "explanation": "本题考点为判断债券久期与影响因素之间的关系。\n债券久期与影响因素之间的关系可总结如下表：\n\n\\[\n\\begin{array}{|c|c|c|c|}\n\\hline\n& \\text{YTM（持有至到期收益率）} & \\text{Coupon Rate（票息率）} & \\text{Coupon frequency（付息频率）} \\\\\n\\hline\n\\text{Duration（久期）} & \\text{负相关} & \\text{负相关} & \\text{负相关} \\\\\n\\hline\n\\end{array}\n\\]\n\n因此，只有III正确，选项B正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Bond Duration, Yield to Maturity (YTM), Coupon Rate",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Consider the following bonds:\nHow would you rank the bonds from the shortest to the longest duration?",
+        "image": "ValuationandRiskModels_images/17u.png",
+        "options": {
+            "A": "A.5-2-1-4-3",
+            "B": "B.1-2-3-4-5",
+            "C": "C.5-4-3-1-2",
+            "D": "D.2-4-5-1-3"
+        },
+        "answer": "A",
+        "explanation": "本题考点为利用债券久期与影响因素之间的关系对债券久期排序。\n\n1）9年期的债券（债券 5）久期最长因为其到期时间在所有可比债券中最晚。\n\n2）债券1和债券2只有付息频率不同，可放在一起比较。债券2半年付息，比债券1付息频率更高，因而久期更短。\n\n3）债券3和债券4只有收益率不同，可放在一起比较。由于债券4收益率更低，远期现金流的现值比重更高，因而久期更长。\n\n4）债券3只是单一优惠券，久期等于其到期时间，因此在所有可比债券中有最长的久期。因此，债券久期从短到长排序依次为 5-2-1-4-3。选项A正确。\n\n债券久期与影响因素之间的关系可总结如下表：\n\n\\[\n\\begin{array}{|c|c|c|c|c|}\n\\hline\n& \\text{YTM（持有至到期收益率）} & \\text{Coupon Rate（票息率）} & \\text{Coupon frequency（付息频率）} & \\text{T（到期时长）} \\\\\n\\hline\n\\text{Duration（久期）} & \\text{负相关} & \\text{负相关} & \\text{负相关} & \\text{正相关} \\\\\n\\hline\n\\end{array}\n\\]\n\n",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bond Duration, Fixed Income Securities, Interest Rate Risk",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Terence, a Professor at HaWhite University, is taking a course in risk management. After\nintroducing two concepts about “DVDZ (DV01 for zero rates)” and “Effective duration”, the\nstudents begin to be confused. Brandon,one of the students, raises his hand to ask a question:\n“Both concepts are used to measure the impact of the rate changes on the value of a position.\nWhat are their different application scenarios?” Terence give a very detailed explanation,\nwhich could be summarized as the following:Statement I: When the size of a position of the\nportfolio increases, both the effective duration and DVDZ will increase.Statement II:Abond\ninvestor is often interested in returns. A large percentage change can easily alert a bond\ninvestor. From this point of view, DV01 would be more useful than effective duration.Statement\nIII: An investor’s portfolio has a DVDZ of $250. There isa5-year bond available for hedging.\nAssume that 5-year bonds with one million market value has DVDZ of 150 is available to hedge\nthe investor’s portfolio, the USD value of the bond position for hedging is s1mil*(150/250)\n，Which one of Terence’s statements is (are) wrong?",
+        "image": "",
+        "options": {
+            "A": "A.Statement I",
+            "B": "B.Statement II",
+            "C": "C.Statement I and II",
+            "D": "D.All of the above statements"
+        },
+        "answer": "D",
+        "explanation": "解析：本题考点为DVDZ和有效久期的区别。\n\nDVDZ表示债券收益率发生一个基点的变动，导致债券的价格变化。而有效久期衡量的是债券价格变化的百分比。这是他们之间最⼤的区别。\n对于Statement I，当组合的头寸增加，组合的DVDZ衡量的是美元久期，所以是和组合头寸成比例增加的。但是有效久期因为衡量的是债券价格变化的百分比，他并不随看组合头寸变化。所以，该Statement表述错误，符合题意。\n对于Statement II，债券投资者通常对国债更感兴趣。由于一个大的百分比变化可以很容易地提⾼债券投资者，有效久期将比DV01更有用。所以，该Statement表述错误，符合题意\n对于Statement III，投资者要对冲的组合DVDZ=$250$，组合的对冲工具是一个5年期债券。$100万$市值的该证券的DVDZ是$150$。如果要对冲组合的DVDZ，对冲需要债券的份数为：\n\n$$\n\\frac{250}{150} \\times 1million,\n$$\n\n则用于对冲的债券的价值为\n\n$$\n\\frac{250}{150} \\times 1million.\n$$\n\n所以，该Statement表述错误，符合题意。\n综上所述，所有的Statement全都表述错误，符合题意。因此，正确选项为D。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk Measurement, DV01, Effective Duration",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Sam, a risk manager of Silver Fund, monitors a bond portfolio worth 50 million. The\nportfolio consists of three bonds (Bond A, Bond B, Bond C). The details of these three bonds\nare summarized in the table below. The current market condition is quite stable, and the\nassumption that YTM stays unchanged seems to be reasonable at the moment. But as a risk\nmanager, Sam thinks further and more deeply. He wants to know the consequences if the yield\nchanges unexpectedly and sharply. He asks his colleague, Jerry, to calculate the percentage of\nthe portfolio price change if its yield drops by 100 bps.\nBased on the information above, if you were Jerry, what is your answer to Sam’s question?",
+        "image": "ValuationandRiskModels_images/19u.png",
+        "options": {
+            "A": "A.+10.2%",
+            "B": "B.+9.6%",
+            "C": "C.-10.2%",
+            "D": "D.-9.6%"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为收益率下降 100 个基点，对于组合价格变化百分比的影响。\n首先，利率变化和价格变化是反向关系。利率下降，价格上升，排除 C，D 两项。\n其次，本题考查的是利率发生大规模变化的情况，不仅要考考虑久期，也得考虑凸性的影响。\n最后，本题研究的是组合的情况，组合的修正久期和修正凸度，是组成部分的修正久期和\n修正凸度的加权平均，这里是市场价值。\n整个组合的市场价值是 50 million，A, B, C 债券分别占 10%，40%， 50%。\n则组合的修正久期 = 4×10% + 8×40% + 12×50% = 9.6\n组合的修正凸度 = 23×10% + 77×40% + 168×50% = 117.1\n现在收益率下降 100 个基点，即 0.01，对于组合价格变化百分比的影响为：\n\n$$\n\\Delta \\%P \\approx -ModDur \\times \\Delta y + \\frac{1}{2} \\times Convexity \\times (\\Delta y)^2\n$$\n\n$$\n= - 9.6 \\times ( - 0.01 ) + \\frac{1}{2} \\times 117.1 \\times ( - 0.01 )^2 = 10.2\\%\n$$\n\n因此， 选项 A 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Duration, Interest Rate Risk, Yield Curve",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "Two colleagues are discussing the convexity of different bonds:Wendy’s opinion: when\ninterest rate declines, putable bonds show higher convexity than the otherwise identical\nstraight bonds (with the same coupon, maturity, issuer, credit rating, etc.).Jackson’s\nopinion: when interest rate declines, callable bonds show higher convexity than the otherwise\nidentical straight bonds but tend to show negative convexity when interest rate rises.Which of\nthe above statements is/are TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.Both of them",
+            "B": "B.Neither of them",
+            "C": "C.Wendy\\u2019s",
+            "D": "D.Jackson\\u2019s"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为利率下降时对可赎回债券和可回售债券的凸度影响。利率下降，可赎回债券\n(callable)呈现出负凸性；利率上升，可回售债券(putable)呈现出更高的凸性。Wendy的观点，认为利率下\n降时，可回售债券呈现出更高的凸性，错误。Jackson的观点，认为利率下降时，可赎回债券呈现出更高的凸\n性，利率上升，可赎回债券呈现出负凸性，更加错误。因此，选项B正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bond Convexity, Callable Bonds, Putable Bonds",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "Thomas is a professor of Finance. One day, he prepared a quick quiz about fixed income\nsecurities for his students.Statement I: Macaulay duration cannot be used for bonds with\nembedded options.Statement II: When interest rates decrease, the bond with larger convexity\ngains more.Statement III: The convexity of a barbell portfolio is lower than the one of a\nbullet portfolio, assuming these two portfolios have the same duration.Statement IV: DV01 is\nthe money change in full price of a bond when its yield changes by 0.1%.Which of the above\nstatements is (are) correct?",
+        "image": "",
+        "options": {
+            "A": "A.I",
+            "B": "B.I, II",
+            "C": "C.I, II, III",
+            "D": "D.All"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为债券久期与凸度相关知识的概念辨析。陈述I:：收益率久期，诸如麦考利久期、\n修正久期和美元久期，都是不可用于含权债券久期的计算的，因此正确。陈述II：凸度的特点为“涨多跌少\n”，因此在利率下降时，凸度更大的债券获益更多。陈述III：有相同久期的债券，现金流越分散，其凸度越\n大，即杠铃式债券组合的凸度应大于子弹式债券组合，因此错误。陈述IV：DV01是指当利率变化1个bp，即\n0.01%时债券价值的变化额，因此错误。陈述I和陈述II均正确，因此，选项B正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Duration, Convexity, Yield measures",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "Jay, a risk consultant from Gloomberg Technology, is helping the company’s clients to\nbetter understand a new functionality of the software that his company sells. The functionality\nenables the clients to better monitor the risk from the unparalleled shift of the interest rate\nterm structure. What type of risk metrics is least likely to be included in the new\nfunctionality?",
+        "image": "",
+        "options": {
+            "A": "A.Key-rate 01\\u2019s",
+            "B": "B.Forward-bucket 01\\u2019s",
+            "C": "C.Key-rate duration",
+            "D": "D.DV01"
+        },
+        "answer": "D",
+        "explanation": "本题的考点为利率曲线非平行移动的衡量测度。选项A中Key-rate 01’s表示当关键利率变动\n1个bp时债券价格的变动值。选项B中Forward-bucket 01’s表示远期利率期限结构中某一段远期利率变动1个\nbp时债券价格的变动值。选项C中Key-rate duration表示当关键利率发生变化时债券价格变动的百分比。选\n项D中DV01表示当利率曲线整体平行移动1个bp时债券价值的变动值。选项A,B,C中描述的久期都属于利率曲线\n非平行移动时的风险测度，选项D属于利率曲线平行移动的风险测度。因此，选项D正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Metrics, Interest Rate Risk, Key Rate Duration",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "The following table gives the initial price of a bond portfolio and its present values after\napplyingkey rate 1-basis point shifts at 2, 5, 10, and 30 years.\nWhat isthe key rate’01 with respect to the 5-year shift?",
+        "image": "ValuationandRiskModels_images/23u.png",
+        "options": {
+            "A": "A.Key rate’01 equals 0.0035",
+            "B": "B.Key rate’01 equals 0.0410",
+            "C": "C.Key rate’01 equals 0.5408",
+            "D": "D.Key rate’01 equals 1.4570"
+        },
+        "answer": "C",
+        "explanation": "本题的主要考点为关键利率久期的计算。\n第5年关键利率基点价值为：\n\n$$\nKey\\ rate^{01} = \\frac{(24.6642 - 24.1234)}{1} = 0.5408\n$$\n\n因此，选项 C 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Key rate duration, Interest rate risk, Bond portfolio management",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Leo, FRM, is a risk manager of a hedge fund. He doubted the effectiveness of duration and\nconvexity hedging strategies. Instead, he found that key rate hedging is a more practical one.\nHis intern, Amy, showed him some materials about key rate hedging strategies that she gathered.\nLeo was pleased with the materials, but there are still some mistakes. Which one of them is\nincorrect?",
+        "image": "",
+        "options": {
+            "A": "A.The analysis of key rate duration applies principal components analysis. Based on the PCA,\nthe daily term structure movements observed are a linear combination of the factors, which are\ncorrelated.",
+            "B": "B.The first three factors account for the majority of the variation of the observed rate daily\nmovements, which can be roughly seen as a parallel shift in the term structure, a steepening or\nflattening of the term structure, and a bowing of the term structure.",
+            "C": "C.Key rate shifts assume that the impact of the key rate shifts declines (or increases)\nlinearly and reaches zero at the terms of the adjacent key rates.",
+            "D": "D.If 2-year, 7-year and 15-year are selected as the key rates, and the 7-year key rate rises"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为关键因子变、关键利率久期及利率曲线非平行移动等概念分析。\n\n选项A中，PCA（Principal component analysis, 主成分分析法）要求关键组合的因子之间应该是不相关的（uncorrelated），因此错误。\n\n选项B中，在影响债券价格波动的诸多因素当中，利率期限的平行移动（parallel shift）、陡峭程度（steepening or flattening）以及弯度（曲度，bowing）这三个因子可以解释绝大部分利率波动的变动情况，因此正确。选项C前两个关键因子对债券相关性较高的组合会有很将的解释成效，但弯度对收益到期时间较长的债券效用不明显，因此错误。\\* 计算过程如下：\n\n$$\n\\frac{5-2}{7-2} = \\frac{\\Delta5 - year rate}{\\Delta7 - year rate} = 0.6\n$$\n\n$$\n\\Delta7 - year rate = 1bp,\\Delta5 - year rate = 0.6bp\n$$\n\n因此选项D表述正确。\n\n综上，B, C, D都与题意不符，不符合题意。因此，选项A为本题正确答案。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Key rate duration, Principal components analysis (PCA), Term structure movements",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "Qi is planning on purchasing an apartment in the Tomson Riviera located in Pudong district.\nAs a result of his limited deposit, he turns to a junior financial advisor for advice regarding\nthe fixed rate residential mortgage. The prevailing market price of the apartment is CNY 16.119\nmillion and Qi is considering borrowing 65% of the amount for 30 years from ICBC. Assuming the\nfixed rate is 4.9% with monthly compounding, which of the followings is closest to the monthly\npayment of the mortgage?",
+        "image": "",
+        "options": {
+            "A": "A.513,390",
+            "B": "B.85,544",
+            "C": "C.55,606",
+            "D": "D.75,563"
+        },
+        "answer": "C",
+        "explanation": "本题的考点为计算房贷每月偿付额。  \n计算过程如下：  \n$$\nAmount\\, of\\, loan = 16,119,000 \\times 65\\% = 10,477,350\n$$\n$$\nN = 30 \\times 12 = 360, \\, PV = 10,477,350, \\, I/Y = 4.9/12, \\, FV = 0\n$$\n$$\nCPT PMT = -55,606\n$$\n因此，选项 C 正确。  ",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Time Value of Money, Mortgage Loan Calculation, Fixed Rate Mortgage",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "A portfolio manager asks a junior risk analyst to analyze the prepayment risk of a pool of\n6% fixed-rate mortgages with a weighted average loan age of 60 months. The balance on the loans\nat the beginning of this month was USD 33 million, and the conditional prepayment rate is\nassumed to be constant at 5.5% per year. Which of the following is closest to the single\nmonthly mortality rate?",
+        "image": "",
+        "options": {
+            "A": "A.21.43%",
+            "B": "B.0.47%",
+            "C": "C.0.53%",
+            "D": "D.78.53%"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为利用 CPR 求 SMM。\n\n计算过程如下：\n\n$$\nCPR = 1 - (1 - SMM)^{12}\n$$\n\n$$\nSMM = 1 - (1 - CPR)^{1/12} = 1 - (1 - 0.055)^{1/12} = 0.004703 = 0.4703\\%\n$$\n\n因此，选项 B 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Prepayment Risk, Mortgage-Backed Securities, Conditional Prepayment Rate",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "Securitization is the process of transforming illiquid assets (bank loans) to more liquid\nassets (MBS). Securitization increase the liquidity of financial assets. Which of the following\nis right about securitization?",
+        "image": "",
+        "options": {
+            "A": "A.MPS redistributes the cash flows from a mortgage pool to different tranches.",
+            "B": "B.CMO is the simplest form of agency MBSs, with all investors in a pool receiving the same\nreturn.",
+            "C": "C.As prepayments increase, IOs become less valuable.",
+            "D": "D.As prepayments increase, POs become less valuable."
+        },
+        "answer": "C",
+        "explanation": "本题的考点为MBS,MPS,IO,PO知识点的辨析。选项A中，CMO才对房贷池中的现金流进行了分层而\n不是MPS，因此错误。选项B中，MPS才是agency MBS中最简单的形式而不是CMO，因此错误。选项C中，当提前\n还款增加时，意味着未偿付的本金减少，则基于未偿付本金计算的利息也减少，IOs的价值会降低。选项D中\n，随着提前还款增加，PO可以提前收回现金流，价值更大而非更小，因此错误。因此，选项C正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Mortgage-Backed Securities (MBS), Prepayment Risk, Securitization",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "MBS is one of the most popular financial instruments in today’s world. Some comments about\nthe MBS are shown below. Which one of them is incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Unlike specific pools, TBA allows buyers and sellers to trade a certain kind of pool.",
+            "B": "B.Specific pools market is more liquid than the TBA market.",
+            "C": "C.Unlike repo, the dollar roll trader could be returned with different pools.",
+            "D": "D.Interest is added to price during a repo transaction, while it is not the case for a dollar"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为TBA,repo,specified pool等概念辨析。选项A中，specified pool最终交割是一\n个确定的资产池，而TBA可交割的一类资产池而非特定资产池，因此正确。选项B中，由于TBA市场是一个远期\n市场，可交割的资产池并不是特定的资产池而是符合条件的一类资产池，流动性比specified pool更好，因\n此错误。选项C中，repo是需要回购特定的资产池的，而dollar roll是基于TBA的，最终交割的可以是不一样\n的资产池，因此正确。选项D中，repo交易中收益率往往是在出售和回购价差中体现的，而dollar roll的收\n益并不只考虑价差，因此正确。选项A,C,D表述均正确，不符合题意，因此选项B为本题正确答案。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "TBA market, liquidity, specified pools",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "Which of the following statements about FRA is wrong?",
+        "image": "",
+        "options": {
+            "A": "A.If FRA rate is lower than future spot rate, the short position will receive payments.",
+            "B": "B.An FRA is usually settled at the beginning of the period covered by the FRA.",
+            "C": "C.The FRA can be used to lock the interest rate or hedge the risk of borrowing or lending at\nsome future dates.",
+            "D": "D.Short positions in FRA can be viewed as the obligation to make a loan at the contract rate,"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为FRA相关性质的辨析。选项A中，FRA中的多头方可以看作未来将以一个固定的合约\n利率借入款项的债务人角色，在未来借款利率上升时可获利，空头为亏损的一方，需要支付款项给多头方\n，因此错误。选项B中，FRA的结算是在其所覆盖的借款期开始时就进行的，因此正确。选项C中，FRA可以确\n定未来的借款利率，对于borrower可以对冲利率上涨的风险，对于lender可以对冲利率下降的风险，因此正\n确。选项D中，FRA的空头方是未来将以一个固定的利率借出款项的一方，当利率下降时可以获利，因此正确\n。选项B,C,D表述均正确，不符合题意，因此选项A为本题正确答案。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward Rate Agreements (FRAs), Interest Rate Risk Management, Hedging Strategies",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "ABC, Inc., entered into a forward rate agreement (FRA) to receive a rate of 3.75% with\ncontinuous compounding on a principal of USD 1 million between the end of year 1 and the end of\nyear 2. The zero rates are 3.25% and 3.50% for one and two years. What is the value of the FRA\nwhen the deal is just entered?",
+        "image": "",
+        "options": {
+            "A": "A.USD 35,629",
+            "B": "B.USD 34,965",
+            "C": "C.USD 664",
+            "D": "D.USD 0"
+        },
+        "answer": "D",
+        "explanation": "本题的考点为FRA的期初价值。对于FRA 而言，其期初价值为0。因此，选项D正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Forward Rate Agreement (FRA), Zero Rates, Continuous Compounding",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "Marina Capital is concerned about the impact of interest rate changes, so they entered into\na forward rate agreement that is designed to ensure that they will receive a fixed rate of 5%\nand pay LIBOR on a principle of USD 100 million for a 3-month period starting in 2 months. If\n3-month LIBOR turns out to be 5.5%, what will be the payoff of Marina Capital after 2 months?",
+        "image": "",
+        "options": {
+            "A": "A.USD 123,305",
+            "B": "B.USD 125,237",
+            "C": "C.-USD 123,305",
+            "D": "D.-USD 125,237"
+        },
+        "answer": "C",
+        "explanation": "本文考点为 FRA 结算现金流的计算。\n\n解析：对于 M 公司而言，收入定，付浮动，所以当利率实际上升时，M 公司在 FRA 中亏损。\n\n在最终结算日损失为：$100M \\times (5\\%-5.5\\%) \\times 0.25=-125,000$，最后根据题意，用实际利率贴现 3 个月。\n\n$$\n\\frac{-125,000}{(1+5.5\\%\\times 0.25)} =- USD \\ 123,304.56，\\text{选 C}。\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Forward Rate Agreements, Interest Rate Risk Management, Payoff Calculation",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "Consider a forward rate agreement (FRA) with the same maturity and compounding frequency as\na Eurodollar futures contract. The underlying interest rate is LIBOR. Which of the following\nstatements is true about the relationship between forward rate and futures rate?",
+        "image": "",
+        "options": {
+            "A": "A.The forward rate is normally higher than the futures rate.",
+            "B": "B.They have no fixed relationship.",
+            "C": "C.The forward rate is normally lower than the futures rate.",
+            "D": "D.They should be exactly the same."
+        },
+        "answer": "C",
+        "explanation": "本题考点为欧洲美元期货利率对远期利率的估计。\n$$\n\\text{Forward Rate} = \\text{Futures Rate} - \\frac{1}{2} \\sigma^2 t_1 t_2\n$$\nFRA能做对远期利率做出一个准确的估计，但是欧洲美元期货对于远期利率的估计需要做一个凸度调整，也就是上面对应的公式。出现差异的原因在于欧洲美元是每日结算，远期合约是在合约到期时结算，造成了期货合约的隐含利率与实际远期利率之间的差异。这个公式可以看出Futures Rate是大于Forward Rate的。所以选择C选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Derivatives, Forward Rate Agreements (FRA), Eurodollar Futures",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "Nick and his colleague are quite worried about the uncertainty of the interest rates over\nthe next months. Nick expects that the short-term rates will fall sharply in response to a\ngovernment stimulus package, but his colleague Daisy disagrees with him. She expects interest\nrates rise during the next months. Finally, they decided to hedge their position by Eurodollar\nfutures contracts. How many three-month Eurodollar futures contracts should Nick and Daisy\nshort to hedge the six-month $20 million money market instrument?",
+        "image": "",
+        "options": {
+            "A": "A.40 contracts",
+            "B": "B.80 contracts",
+            "C": "C.20 contracts",
+            "D": "D.100 contracts"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为使用欧洲美元期货对利率风险进行对冲。\n\nNick 和 Daisy 害怕未来一段时间的利率波动，决定采用欧洲美元期货对冲。标的资产为六个月，价值 20million 的货币市场工具（一般为零息债券），所以期限等于交割利久期，而交付利久期依 1+利率约等于修正久期，即它的久期近似于到期债限本身，即 0.5。根据久期的公式，$\\Delta P = \\text{ModDur} \\times P \\times \\Delta y$，我们可以推断，假设利率变动一个基点，这个货币市场工具价值变化为 $20,000,000 \\times 0.5 \\times 0.0001 = 1,000$。\n\n根据欧洲美元期货的特点，利率波动一个基点，欧洲美元期货价值变化 25 美元。故未来对冲此货币市场工具，需要 $\\frac{1,000}{25} = 40$ 份欧洲美元期货。所以答案选择 A 选项。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Hedging with Futures, Money Market Instruments",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Andrew, a portfolio manager of an asset management company, holds US Treasury bonds as much\nas USD 50 million. He is worried about the interest rate volatility in the next few months.\nCaroline, FRM, suggests that US Treasury bond futures can be used to hedge this risk. The\ncurrent price for the futures contract is 96-16 and the duration is 4, while the current\nduration of the portfolio of 2.50. Assuming the durations of the futures and the portfolio\nremain constant throughout the hedging period, what is the most appropriate position to take in\nthe futures contract?",
+        "image": "",
+        "options": {
+            "A": "A.Short 325 contracts",
+            "B": "B.Short 829 contracts",
+            "C": "C.Short 324 contracts",
+            "D": "D.Long 324 contracts"
+        },
+        "answer": "C",
+        "explanation": "本题考虑为使用美国国债期货对利率风险进行对冲。\n\n根据题目, 一份美国国债期货合约的市场价值是: $100,000 \\times (96 + 16/32) = 96,500$。对冲的原则是: \n$$\nN = \\frac{E_V}{D_F}\n$$\n其中 $E_V$ 是现有组合的基点价值, $D_F$ 是对冲工具的基点价值。代入题目中已知条件, 解析: \n$$\nN = \\frac{E_V}{D_F} = \\frac{-2.5 \\times 50,000,000 \\times 0.0001}{4 \\times 96,500 \\times 0.0001} \\approx -324\n$$\n所以经理需要做空 324 份期货合约来进行对冲。答案选择 C 选项。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Hedging Strategies, Interest Rate Risk, Futures Contracts",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "For any portfolio P, let VaR (P, λ, t)denote its VaR, and ES (P, λ, t)denote its ES, with\nconfidence level λ over a horizon of t days. Which of the following relationships is always\ntrue?",
+        "image": "",
+        "options": {
+            "A": "A.ES (P, \\u03bb, t) \\u2264 VaR (P, \\u03bb, t)",
+            "B": "B.VaR (P1 + P2, \\u03bb, t) \\u2264 VaR (P1, \\u03bb, t) + VaR (P2, \\u03bb, t)",
+            "C": "C.ES (3\\u00d7P, \\u03bb, t) = 3\\u00d7ES (P, \\u03bb, t)",
+            "D": "D.VaR (3\\u00d7P, \\u03bb, t) = 9\\u00d7VaR (P, \\u03bb, t)"
+        },
+        "answer": "C",
+        "explanation": "本题的考点为满足一致性的风险测度指标。一个满足一致性的风险测度指标（a coherent risk\nmeasure）要满足下面四个条件：• Monotonicity（单调性）: 优质资产的风险不会比劣质资产的要大•\nSubadditivity（次可加性）: 组合的风险不会比部分风险加总大• Homogeneity（齐次性）: 成比例增加的\n头寸的风险等于原来头寸的风险成比例增加• Translational invariance（转移不变性）: 加了现金或其他\n无风险资产以后总头寸的风险会相较原来头寸的风险减少，减少的量恰好是其所增加的现金或无风险资产的\n数量。VaR不是一个一致性的风险测度指标，因为不满足次可加性，所以B和D选项错误。ES 是尾部损失的期\n望值，是满足一致性的风险测度指标，所以C选项正确，A选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Coherent Risk Measures, Value at Risk (VaR), Expected Shortfall (ES)",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "If the daily, 90% confidence level, value-at-risk (VaR) of a portfolio is correctly\nestimated to be USD 5,000, an investor would expect that in one out of ___ days, the portfolio\nvalue will decline by USD 5,000 or ____:",
+        "image": "",
+        "options": {
+            "A": "A.ten, less.",
+            "B": "B.ninety, less.",
+            "C": "C.ten, more.",
+            "D": "D.ninety, more."
+        },
+        "answer": "C",
+        "explanation": "本题考点为VaR的定义。90%置信水平下的VaR是5,000美元，反映的是有90%的时间损失小于\n5,000美元，即10天中有9天的时间损失小于5,000美元，也就等价于10天中有1天的时间损失大于5,000美元。\n所以选择答案C。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value-at-Risk (VaR), Confidence Level, Probability",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "Rational Investment Inc. is estimating a daily VaR for its fixed income portfolio, which is\ncurrently valued at USD 800 million. Using daily returns of the last 400 days (in descending\nsort: from highest daily return to lowest daily return), the daily returns are the following:\n1.99%, 1.89% 1.88% 1.87% ……, -1.76%, -1.82%, -1.84%, -1.87%, -1.91%. At the 99% confidence\nlevel, what is your estimate of the daily VaR using the historical simulation method with equal\nweights?",
+        "image": "",
+        "options": {
+            "A": "A.USD 14.08 million",
+            "B": "B.USD 14.56 million",
+            "C": "C.USD 14.72 million",
+            "D": "D.USD 15.04 million"
+        },
+        "answer": "B",
+        "explanation": "本题考点为VaR的计算。根据历史400个数据，选择1%的分位点对应的损失，从最大的损失开始\n选择第四个损失值就是对应的百分比的一天内的VaR，也就是-1.82%，通过与组合价值800 million相乘，可\n以得到美元的VaR是14.56 million：。所以答案选择B选项。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR) calculation, Historical simulation method, Confidence level and percentiles",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "A risk manager is estimating the 1-day 95% VaR on a domestic equity portfolio using a 100-\nday lookback period. The return, estimated from the historical data, has a mean of 0% and a\nstandard deviation of 2%. The six most extreme negative returns over the lookback period, along\nwith the time they occurred, are:\nOver a period of 10 days after the risk manager computed the portfolio’s VaR, four new extreme\ndeclines occurred: -25%, -4.1%, -7.8% and -9.5%. On the other six days, the portfolio\nexperienced positive returns. The risk manager must now update the previous VaR estimate to\naccount for these changes. Assuming the portfolio has a current value of USD 100 million, what\nis the updated 1-day 95% VaR using the historical approach with equal weights?",
+        "image": "",
+        "options": {
+            "A": "A.USD 3.28 million",
+            "B": "B.USD 4.70 million",
+            "C": "C.USD 10 million",
+            "D": "D.USD 25 million"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为VaR的计算。经过更新四个新的极端损失后，把损失从大到小排序可以得到：-\n25%，-9.5%，-7.8%，-6.3%，-4.7%，-4.1%。对应的是95%的一天的VaR值，总共数据100个，应该选择5%分位\n点，也就是第五个数字-4.7%作为VaR。再计算美元的VaR就是4.7% 100 = 4.7 million.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Historical Simulation Method, Risk Measurement.",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "A risk manager is measuring the VaR of a portfolio for a regional bank. The portfolio has a\ncurrent market value of USD 10 million. The dailymean of return is0.25% and the daily variance\nis 0.05%. Assuming that the portfolio’s daily returns follow a normal distribution. The\nestimated 10-days 95% VaR is closet to:",
+        "image": "ValuationandRiskModels_images/39u.png",
+        "options": {
+            "A": "A.USD 224,000.",
+            "B": "B.USD 286,600.",
+            "C": "C.USD 342,800",
+            "D": "D.USD 914,700."
+        },
+        "answer": "D",
+        "explanation": "本文的考点为不同时间期间的 VaR 的转换。\n已知每日回报服从正态分布，并已知均值和方差，后可以求 VaR。首先求出回报的每日波动率（Volatility）：Volatility of daily returns =0.05% = 0.0224，再利用平方根法则求出十天的波动率：Volatility of 10-days return = 0.0224 × $\\sqrt{10}$ = 0.0708，十天的回报的均值：\nMean of 10-days return = 0.25%×10 = 2.5%。利用公式可以求出: 10-day 95% VaR =|10M (2.5% - 1.645×0.0708) |=914,660。所以答案选择 D 选项。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Risk Management, Statistical Methods in Finance",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Jenny Michaelson, a risk manager of Value Fund, predicts that the market will suffer a\nsignificant change from bull to bear. Therefore, to control the risk she wants to measure the\nrisk level of Value Fund now. She has two options to measure the risk, VaR and Expected\nshortfall. She could not decide which one to use or the ways to calculate the indicator. She\nconsulted her supervisor about the following statements. Which statements are\nincorrect?Statement 1: VaR and Expected shortfall are both risk measures, so they both can\nmeasure the tail risk of the portfolio.Statement 2: Under this circumstance, she can use\nhistorical simulation to calculate VaR since historical simulation contains enough information\nabout previous prices and correlations.Statement 3: Under this circumstance, she can use Monte\nCarlo simulation to calculate VaR since Monte Carlo simulation does not suffer model\nrisk.Statement 4: If the portfolio contains options, she can use the delta normal approach\nwithout gamma correction to calculate accurate VaR.",
+        "image": "",
+        "options": {
+            "A": "A.Statement 1, Statement 3, Statement 4",
+            "B": "B.Statement 2, Statement 3",
+            "C": "C.Statement 1, Statement 3, Statement 4",
+            "D": "D.All of the above four statements are incorrect."
+        },
+        "answer": "D",
+        "explanation": "Answer：D：本题主要考察VaR的计算方式以及VaR和Expected shortfall的对比。对于\nStatement 1：Expected shortfall描述尾部亏损，但是VaR只是某一分位点的亏损，并没有描述整体尾部的\n风险。而Statement I说的是VaR和Expected shortfall两个方法都均描述了尾部亏损。因此该描述错误。对\n于Statement 2：历史模拟法包含了过去的价格和相关性信息是正确的。但是这道题表明，市场要从牛市变换\n为熊市，因此未来和过去有很大的不同，不能简单的用过去来预测未来了，因此历史模拟法不再适用。因此\n该描述错误。对于Statement 3：根据题意，市场要从牛市变换为熊市，而蒙特卡洛模拟是可以调整风险因子\n的分布的，所以在这种情况下可以通过蒙特卡洛模拟来计算组合VaR值的。但是蒙特卡洛模拟需要先假定风险\n因子的分布模型，因此会存在模型风险。因此该描述错误。对于Statement 4：VaR期权属于非线性衍生工具\n，在用不带gamma修正的delta normal的方法计算VaR值会存在较大误差。因此该描述错误。综上所述，所有\nStatements都是错误的。因此选项D正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR) Calculation Methods, Tail Risk Measurement, Expected Shortfall",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "A portfolio manager of an endowment wants to compare the VaR estimated from the delta-normal\napproach to the one estimated from the historical simulation method with equal weights. The\n€100,000,000 portfolio is restricted on using derivative securities. The daily return is\nexpected to be 0.04%, with a daily standard deviation of 0.95%. The manager uses a 2% level of\nsignificance that has a z-value of 2.05. The manager also ranked the 250 daily returns of last\nyear from the highest to the lowest. The lowest six returns are -0.0191, -0.0259, -0.0311, -\n0.0354, -0.0368, and -0.0384. What is the daily VaR using the delta-normal method compared to\nthe historical simulation method?",
+        "image": "",
+        "options": {
+            "A": "A.The delta-normal method estimate is the same as that of the historical simulation method.",
+            "B": "B.The delta-normal method estimated VaR is €910,000.",
+            "C": "C.The historical simulation method estimated VaR is €2,590,000.",
+            "D": "D.The historical simulation method estimated VaR is €3,680,000."
+        },
+        "answer": "C",
+        "explanation": "本文的考点为不同VaR的计算方法的辨析。  \n通过正态分布假设计算VaR的公式是：$[R_P - zx\\sigma] x (Value of Portfolio)$，其中 $R_P$ 是组合一日回报的期望值，$z$ 是根据置信度得到的关键值，$\\sigma$ 是一日回报的标准差。将题目中给条件代入得到：  \n$$\n|0.0004 - 2.05 \\times 0.0095| \\times 100,000,000 = 1,907,500.\n$$  \n通过历史模拟法找VaR，总共有250个历史数据，2%的位点对应第五个极端大损失，也就是-2.59%；所以，用历史模拟法得到的VaR应该是：  \n$$\n|-0.0259| \\times 100,000,000 = 2,590,000\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR) methodologies, Delta-normal approach, Historical simulation method",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "An investor is longing a short-term at-the-money put option on an underlying portfolio of\nequities with a notional value of USD 100,000. If the 95% VAR of the underlying portfolio is\n10.4%, which of the following statements about the VAR of the option position is correct when\ngamma effects are considered?",
+        "image": "",
+        "options": {
+            "A": "A.The VaR of the option position is slightly more than USD 5,200.",
+            "B": "B.The VaR of the option position is slightly more than USD 10,400.",
+            "C": "C.The VaR of the option position is slightly less than USD 5,200.",
+            "D": "D.The VaR of the option position is slightly less than USD 10,400."
+        },
+        "answer": "C",
+        "explanation": "本题的考点为使用 delta-gamma 近似法计算 VaR。\n因为这个 put option 是 at the money，所以它的 delta 等于 $-0.5$，因此计算期权的 VaR 等于：\n\n$$\n\\$100,000 \\times 10.4% \\times 0.5 = \\$5,200.\n$$\n\n如果考虑 gamma 的影响，公式应是：\n\n$$\n|\\Delta| \\times VaR - \\frac{1}{2} \\Gamma \\times VaR^2,\n$$\n\n正的 gamma 会降低 VaR，所以考虑了 gamma 效应的 VaR 应该小于 $5,200$.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Options Pricing, Gamma",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Galvin, the head of Risk Department in Bank of Arctic, is discussing the pros and cons of\nthe bank’s current risk model with Jeff, the leader of the Quantitative Analytics Team in the\ndepartment. Jeff has made the following statements:I. The assumption of normality for asset\nreturn is incorrect in whatever circumstances.II. The fat tail phenomena may be explained by\nconditionally normally distributed returns.III. To capture time-varying volatility, a regime-\nswitching model always provides a better solution.Which of his statements is(are) correct?",
+        "image": "",
+        "options": {
+            "A": "A.I and II",
+            "B": "B.II only",
+            "C": "C.I and III",
+            "D": "D.All"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为资产回报的分布。在条件分布的假设前提下，假设资产回报是服从正态分布是合\n理的，只是可能在不同时期对应的正态分布的参数不同（例如，危机的时候所用正态分布方差这个参数更大\n），这样的假设也很好的解释肥尾现象，所以I错误，II正确。去捕捉不同时期对应的波动率，机制转换\n（regime-switching）模型和缓慢变换（slow-changing）模型都是可选的，并不是机制转换模型一定更好。\n因此，答案选择B选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Asset return distributions, Fat tail phenomena, Time-varying volatility models",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Which of the following statements on historical simulation with equal weights to estimate\nVaR is (are) incorrect?I. It gives more weights to the more recent observations.II. For long-\nonly portfolios, it is likely to underestimate the VaR if there is recently an increase in the\nvolatility structure.III. It always ignores the presence of fat tails in the return\ndistribution of many financial assets.IV. Because of the incorporation of delta approximation,\nit inadequately measures the risk of nonlinear instruments.",
+        "image": "",
+        "options": {
+            "A": "A.I and II",
+            "B": "B.II only",
+            "C": "C.I, III and IV",
+            "D": "D.III and IV"
+        },
+        "answer": "C",
+        "explanation": "本题的考点为等权重的历史模拟法。I错误，因为等权重历史模拟法赋予历史每一天的信息相同\n的权重。II正确，因为等权重历史模拟法对过去一段时间每天的信息赋予相同的权重，所以没有办法迅速反\n映出一个最新的波动率变化。所以对于一个波动率期限结构上升的情形，等权重历史模拟法估计出来的结果\n会低估真实的情况。III错误。历史模拟法是非参数法，利用了历史数据，肥尾的情况已经直接反应在历史数\n据中。由于没有假设分布，所以也就自然不会受到肥尾等因素的影响。IV历史模拟法不需要用的delta\napproximation，这句话描述历史模拟法本来就是错误的。所以答案选择C选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Historical Simulation, Fat Tails",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "Jaclynn, a risk analyst in JW Investment Associate, wanted to use the historical simulation\n(with declining weights) to estimate the daily 5% VaR of one of the portfolios managed by the\ncompany.She then gathered daily return for the past 100 days, ordered them in ascending order\nand create the following table using λ = 0.97\nWhich of the following statements is incorrect?",
+        "image": "ValuationandRiskModels_images/45u.png",
+        "options": {
+            "A": "A.The missing data in cell A is close to 0.00468.",
+            "B": "B.The daily 5% VaR is somewhere between 0.07% and 0.15%.",
+            "C": "C.If only using historical simulation with equal weights, the estimated VaR would be greater\nthan that estimated by the historical simulation with declining weights.",
+            "D": "D.As time goes further to the past, a small λ is likely to make the weights decline slower."
+        },
+        "answer": "D",
+        "explanation": "本题的考点为不同权重下历史模拟法的区别。\n\n对于选项 D，越小的权重应当下降更快。例如为0.8时， 对应权重$[(1-\\lambda) \\times 2^{n-1}]$为0.2、0.16、0.128……而$\\lambda=0.2$时， 对应权重为0.8、0.16、0.032…。因此D选项描述错误，符合题意，为正确选项。\n\n对于选项 A，直接套公式$W_{62} = (1 - 0.97) \\times 0.97^{62-1} = 0.00468$ (也可以直接用右栏的累计算计算得)，因此选项描述正确，不符合题意，为错误选项。\n\n对于选项 B， 根据表格最右栏的累计算权重，我们可以知道 5\\% 位数对应的是 0.07\\%-0.15%的某个数，因此我们要求的$VaR$减少$0.07\\%$和$0.15\\%$之间。因此选项描述正确，不符合题意，为错误选项。\n\n对于选项 C，如果仅用历史模拟法，所求的 $5\\% VaR$ 是0.74%，这个值要比 B 选项算出的 $VaR$ 要大。因此选项描述正确，不符合题意，为错误选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "VaR (Value at Risk), Historical Simulation, Weighting Schemes",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Despite the violation of subadditivity, VaR is still widely used to measure the risk. There\nare different ways of calculating VaR – historical simulation, delta normal approach, Monte\nCarlo simulation and so on. Which one of the following is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Historical simulation is a parametric method, using full revaluation to evaluate different\nscenarios.",
+            "B": "B.Although historical simulation uses historical data, it can still instantly reflect the new\nvolatility and correlation.",
+            "C": "C.Delta normal approach is easy to use, and it gives accurate approximation of VaR of linear\nderivatives, non- linear derivatives, and even MBS or exotic options.",
+            "D": "D.Monte Carlo simulations can generate correlated scenarios and model the correlations among"
+        },
+        "answer": "D",
+        "explanation": "本题的考点为计算VaR的方法之间的差异。通过假设的分布，蒙特卡洛模拟可以生成不同的情景\n，并且可以反映风险因子之间的相关性，因此D选项正确。对于A选项，历史模拟法是一种非参数方法，我们\n并不需要估计参数从而确定分布，因此该选项错误。对于B选项，历史模拟法的缺点之一是不能很快反映市场\n当中的新信息，因此该选项错误。对于C选项，Delta normal approach容易使用，对于线性衍生品的VaR可以\n给出精确的结果，但当计算对象成为非线性衍生品、MBS、奇异期权时，其结果将会变得非常不可靠，因此该\n选项错误。 (1)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR) Calculation Methods, Parametric vs Non-Parametric Methods, Monte Carlo Simulations",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "A risk analyst hesitates to use EWMA or GARCH model in the risk control system and asks\nopinions from his manager, David Hine. David suggests that the estimated variance of the EWMA\nmodel consists of the squared return of the prior period and the estimated variance of the\nprior period; the weight assigned to the squared return decays at a speed of λ as the time\nlapses. David also says that the GARCH (1,1) model incorporates the mean reversion that the\nspeed of reverting to the long-run variance goes up as the persistence factor(α+β) gets\nsmall. Is David’s opinion on the two models correct?",
+        "image": "",
+        "options": {
+            "A": "A.Yes.",
+            "B": "B.No, because the estimated variance of the EWMA model consists of the squared return of the\nprior period, the variance of the prior period and the long-run variance.",
+            "C": "C.No, because the weight assigned to the squared return decays at a speed of 1-\\u03bb as the\ntime lapses.",
+            "D": "D.No, because the speed of the GARCH model reverting to the long-run variance goes up as the"
+        },
+        "answer": "A",
+        "explanation": "本题考点为EWMA模型和GARCH (1,1)模型的辨析。David关于两个模型的描述均正确。EWMA模型\n在计算时包含了历史的回报的平方，并且离现在越久远的回报的平方权重以λ为指数递减。由于在模型中加\n入了长期方差，因此GARCH (1,1)模型具有均值复归水平。而且，+被称为Persistence Level，其数值大小与\n均值复归速度呈反向关系。因此，两个描述均正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "EWMA model, GARCH (1,1) model, Mean reversion",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "The parameters of a generalized autoregressive conditional heteroskedastic GARCH (1,1) model\nare ω= 0.000003, α= 0.04, and β= 0.92. If today’s daily volatility is 1% and today's stock\nmarket return is 2%, what is the new estimate of volatility using the GARCH (1,1) model, and\nwhat is the implied long-run volatility level?",
+        "image": "",
+        "options": {
+            "A": "A.New estimate volatility:1.054% Implied Long-run volatility level:0.866%",
+            "B": "B.New estimate volatility:1.054% Implied Long-run volatility level:0.008%",
+            "C": "C.New estimate volatility:0.011% Implied Long-run volatility level:0.866%",
+            "D": "D.New estimate volatility:0.011% Implied Long-run volatility level:0.008%"
+        },
+        "answer": "A",
+        "explanation": "本文的考点为 GARCH (1,1)模型的运用。\n\n$$\n\\sigma^2 = 0.000003 + 0.04 \\times 0.02^2 + 0.92 \\times 0.01^2 = 0.000111\n$$\n\n$$\n\\sigma = \\sqrt{0.000111} = 1.054\\%\n$$\n\n$$\n\\text{Long run variance} = \\frac{\\omega }{(1 - \\alpha - \\beta)} = \\frac{0.000003}{(1 - 0.04 - 0.92)} = 0.000075\n$$\n\n$$\n\\text{Long run volatility} = \\sqrt{0.000075} = 0.866\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Generalized Autoregressive Conditional Heteroskedasticity (GARCH), Volatility Modeling, Long-run Volatility",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "A portfolio manager estimates the following GARCH (1,1) model based on the daily returns of\na stock:\nThe annualized rate of return of the stock is 15% and the annual risk-free rate is 5%. Assuming\nthe daily volatility is independently identically distributed, if there are 250 trading days in\na year and manager is using the long-term daily volatility from the GARCH (1,1) model, which of\nthe following is closest to the annualized Sharpe ratio of the stock?",
+        "image": "ValuationandRiskModels_images/49u.png",
+        "options": {
+            "A": "A.0.19",
+            "B": "B.0.28",
+            "C": "C.0.48",
+            "D": "D.0.72"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为 GARCH (1,1)模型的运用。  \n首先计算长期波动率:  \n$$\n\\sigma_L = \\sqrt{\\frac{\\omega}{1 - \\alpha - \\beta}} = \\sqrt{\\frac{0.000175}{1 - 0.025 - 0.82}} = 3.36\\%\n$$  \n其次，计算该股票的夏普比率:  \n$$\nSR = \\frac{E(R_p) - R_f}{\\sigma_L \\times \\sqrt{250}} = \\frac{15\\% - 5\\%}{3.36\\% \\times \\sqrt{250}} = 0.19\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "GARCH models, Annualized Sharpe ratio, Daily returns calculation",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "Suppose σtis the estimated variance at time t and μtis the realized return at t.\nWhichofthefollowingGARCH (1,1)modelswilltakethelongesttimetoreverttoits long-run\nvolatilitymean?",
+        "image": "",
+        "options": {
+            "A": "$\\sigma_t^2 = 0.04 + 0.02\\mu_{t-1}^2 + 0.92\\sigma_{t-1}^2$",
+            "B": "$\\sigma_t^2 = 0.02 + 0.04\\mu_{t-1}^2 + 0.94\\sigma_{t-1}^2$",
+            "C": "$\\sigma_t^2 = 0.03 + 0.02\\mu_{t-1}^2 + 0.95\\sigma_{t-1}^2$",
+            "D": "$\\sigma_t^2 = 0.03 + 0.03\\mu_{t-1}^2 + 0.93\\sigma_{t-1}^2$"
+        },
+        "answer": "B",
+        "explanation": "本题的考点为GARCH (1,1)模型的运用。四个选项中模型的Persistence Level（α + β）分别\n为0.94、0.98、0.97、0.96。而Persistence Level最大的模型均值复归的速度最慢，因此B选项正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "GARCH (1,1) models, Volatility persistence, Mean reversion in volatility",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "The closingprice of the FTSE 100 index was 6,480 yesterday,and the current daily volatility\nof the index return was estimated as 1.5%. Today, the closing price of FTSE 100 index decreases\nto 6,400. A risk manager models the distribution of the daily returns on the FTSE 100 index,\nassuming that the mean of daily return is 0% and the variance is given by the following GARCH\n(1,1) model: $\\sigma_t^2 = 0.000014 + 0.07\\mu_{t-1}^2 + 0.85\\sigma_{t-1}^2$\n Which of the following is closest to the risk manager’s forecast of the next trading day’s\nconfidence interval which is defined as 1-standard deviation around the expected value of the\nFTSE 100 index?",
+        "image": "",
+        "options": {
+            "A": "A.[6,200;6,600]",
+            "B": "B.[6,250;6,450]",
+            "C": "C.[6,300;6,500]",
+            "D": "D.[6,359;6,450]"
+        },
+        "answer": "C",
+        "explanation": "本题考点为GARCH (1,1)模型的综合运用。\n\n首先，计算在 \\( t-1 \\) 时刻的指数回报:\n\n$$\n\\mu_{t-1} = \\frac{6400 - 6480}{6480} = -0.0123\n$$\n\n其次，计算在 \\( t \\) 时刻的更新后的波动率:\n\n$$\n\\sigma_t^2 = 0.000014 + 0.07 \\times (-0.0123)^2 + 0.85 \\times 0.015^2 = 0.00021584\n$$\n\n$$\n\\sigma_t = \\sqrt{\\sigma_t^2} = \\sqrt{0.00021584} = 0.014692\n$$\n\n由于回报的均值为0%，因此下一个交易日的指数期望值和当前指数的数值相等，即6400。\n并且，在使用一个标准差后可以计算出区间的上限和下限:\n\n$$\n6400 - 6400 \\times 0.0147 = 6306\n$$\n\n$$\n6400 + 6400 \\times 0.0147 = 6494\n$$\n\n因此，依据均值构建的一个标准差区间为\\[6,306, 6,494\\]。最接近的选项为 C。\n\n",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "GARCH Models, Volatility Estimation, Confidence Intervals",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "Yolanda, FRM is a risk manager of trading in Epic Investment Partnership. Yolanda demands\nher team that VaR should be included in daily risk reports. λ = 0.94 is used whenhistorical\nsimulation withexponentially declining weights is applied. Whatistheweightassignedtothe\nscenarioseven days ago?",
+        "image": "",
+        "options": {
+            "A": "A.4.68%",
+            "B": "B.4.40%",
+            "C": "C.4.14%",
+            "D": "D.3.89%"
+        },
+        "answer": "C",
+        "explanation": "本题的考点为指数递减权重的运用。\n$$\n\\alpha_i = (1 - \\lambda) \\lambda^{i-1} = (1 - 0.94) \\times 0.94^{7-1} = 4.14\\%\n$$\n因此 C 选项正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Historical Simulation, Exponentially Declining Weights",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "Fabrice Sapolsky is a portfolio manager in Golden Investment and is planning to update\nvolatility of assets and the correlations among them in the portfolio due to the changes in the\nmarket environment. He makes two statements:Statement 1: TheGARCH (1,1) modelis a particular\ncase of the EWMA model.Statement 2: The process of updating the correlations should be\nconsistent which means if the valueis used to update covariance by the EWMAmodel, the same\nvalueshould be appliedinEWMAmodeltoupdatevolatilities of assets.Which of the statements is/are\ncorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Statement 1",
+            "B": "B.Statement 2",
+            "C": "C.Both two statements",
+            "D": "D.Neither of the two statements"
+        },
+        "answer": "B",
+        "explanation": "本题的着点为EWMA模型与GARCH (1,1)模型的运用。\n\n当 $\\lambda = 0, \\alpha = 1 - \\lambda, \\beta = \\lambda, GARCH (1,1)$ 模型与 $EWMA$ 模型相等。因此 $EWMA$ 模型可以看作是 $GARCH (1,1)$ 的特殊形式，而不是 $GARCH (1,1)$ 模型看作是特殊 $EWMA$ 模型。因此 $Statement \\, 1$ 错误。\n\n在使用 $EWMA$ 模型估计相关系数时应保持一致性，即估计协方差时模型所使用的 $\\lambda$ 数值, 应当同样用于估计资产波动率的模型中。因此 $Statement \\, 2$ 正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "GARCH model, EWMA model, Covariance and correlation estimation",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "Gerald, Vice President from Quantitative Risk Analytics Team in Bank of Americo, was\ninterviewing Zander, a recent graduate from Texas College, with regard to a risk analyst\nposition in the team. In particular, Gerald wanted to test Zander’s understanding of internal\nand external ratings in a bank and what are their differences. Zander made the following\nstatements:I:The internal rating systems should be built on several factors and should be back\ntested regularly.II: Two of the three major international external rating agencies are Moody’s\nand S&P. If a company is rated Baa3 by Moody’s and BBB+ by S&P, it is considered with similar\ndefault probability by the two agencies.III: Two approaches are often used in internal ratings\n– ‘at the point in time approach’ and ‘through the cycle’. And it is always better\nadopting the latter approach.Which of the above statements is(are) correct?",
+        "image": "",
+        "options": {
+            "A": "A.Only I",
+            "B": "B.I and II",
+            "C": "C.I and III",
+            "D": "D.All of them"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为外部评级与内部评级的辨析。内部评级可以基于多个因子进行构建，而且需要定\n期回测进行校准。所以I正确。穆迪Baa3和标普BBB-（而不是BBB+）是同一级别的，所以II错误。时点评级法\n和跨周期评级法各有优劣，并不是跨周期评级法一定更好。所以III错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit Rating Agencies, Internal Rating Systems, Rating Methodologies",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "56",
+        "question_text": "Given the following 1-year ratings transition matrix, which of the following amounts is\nclosest to the probability that an Aaa-rated firm will default over a 2-year period?",
+        "image": "ValuationandRiskModels_images/56u.png",
+        "options": {
+            "A": "A.0.00%.",
+            "B": "B.0.23%.",
+            "C": "C.0.50%.",
+            "D": "D.0.65%."
+        },
+        "answer": "C",
+        "explanation": "本题的考点为评级转移矩阵的使用。一个Aaa级债券在两年内发生违约的情况，与对应概率如下\n：Aaa→D=0%Aaa→Aaa→D:90%0%=0%Aaa→Baa→D:10%5%=0.5%Aaa→Caa→D:0%15%=0%P=0%+0%+0.5%+0%=0.5%因\n此选择C选项。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit risk, Transition matrices, Default probability calculation",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "A supervisor of the risk department in a multinational bank is thinking of testing several\nrecent recruited summer interns on their understanding of internal credit ratings. He posted\nseveral statements as follows. If you were one of the interns, which statement would you assess\nas incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.The \\u201cat-the-point-in-time\\u201d approach assesses the credit quality of a firm over the\ncoming months. It tries to provide current estimate of default risk.",
+            "B": "B.The \\u201cthrough-the-cycle\\u201d approach tries to capture the average creditworthiness over\na period of several years.",
+            "C": "C.The \\u201cat-the-point-in-time\\u201d credit score\\u2019s volatility is much higher than the\n\\u201cthrough-the-cycle\\u201d score\\u2019s volatility.",
+            "D": "D.A sound internal system should not use \\u201cthrough-the-cycle\\u201d approach, because it is"
+        },
+        "answer": "D",
+        "explanation": "本题考点为时点评级法和跨周期评级法的辨析。时点评级法（而不是跨周期评级法）具有顺周\n期性。因此D选项错误，符合题意，选择D选项。时点评级法的特点是其关注短期内评级对象的信用状况，能\n够及时反映市场的新信息，因此A选项正确。跨周期评级法会采用一个长期的视角去评估评级对象的信用风险\n，因此B选项正确。在时点评级法下，由于评级结果时常随评级对象的信用状况变动而变动，因此评级结果波\n动性较大，C选项正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Internal Credit Ratings, Point-in-time and Through-the-cycle Approaches, Credit Risk Assessment",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "58",
+        "question_text": "Tip-Top, Inc., (Tip-Top) has a commitment with Super Size Bank for $10 million. The terms\nofthe loan are fixed and cannot be changed over its life. If Tip-Top experienced anunexpected\nchange in its credit rating from Ba to Baa, what is the most likely effect on expected loss and\nactual loss.",
+        "image": "",
+        "options": {
+            "A": "A.Super Size Bank will increase the estimate of expected loss but not actual loss.",
+            "B": "B.Super Size Bank will increase both the estimate of expected loss and actual loss.",
+            "C": "C.Super Size Bank will decrease the estimate of expected loss but not actual loss.",
+            "D": "D.Super Size Bank will decrease the estimate of expected loss and increase its estimate of"
+        },
+        "answer": "C",
+        "explanation": "本题的考点为信用风险的产生原因。借款人信用评级从Ba上调至Baa将导致违约概率降低，从而\n降低预期损失。而公司并没有发生实质违约，因此实质损失不变。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit Risk, Expected Loss, Credit Rating",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Bank regulators are examining the loan portfolio of a large diversified lender. The\nregulators' main concern is whether the bank can remain solvent during turbulent economic\ntimes. Which of the following is most likely the area on which the regulators will focus?",
+        "image": "",
+        "options": {
+            "A": "A.Expected loss, since each loan asset can be expected, on average, to decline in value given a\npredetermined default probability.",
+            "B": "B.Expected loss, as which links to the decrease of underwriting standards for new loans.",
+            "C": "C.Unexpected loss, since it is crucial for the bank to set aside additional capital for the\nunlikely event, such as that the recovery rates are smaller than expected.",
+            "D": "D.Unexpected loss, since it is crucial for the bank to set aside additional capital for the"
+        },
+        "answer": "C",
+        "explanation": "本题的考点为预期损失与非预期损失的辨析。监管机构主要担心的是该银行能否在经济动荡时\n期保持偿付能力,所以监管者更加关注于非预期损失。因此，A、B选项错误。在非预期损失发生前，比如发生\n的损失率比预期的损失率要大的情况之前，银行应当储备资本作为应对。因此D选项错误，而C选项正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital Adequacy, Unexpected Loss, Loan Portfolio Management",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "Tao, FRM, is a portfolio manager who manages a fixed income portfolio that invests primarily\non European speculative-grade corporate bonds. In the team meeting, he states his belief that\nthe volatility of the global credit market will sharply increase. In order to better understand\nthe portfolio, he decides to calculate the expected loss and standard deviation of the credit\nloss assuming the same probability of default, loss given default, exposure and default\ncorrelation between loans for all loans. The portfolio contains 50 loans, each loan is €1\nmillion, the probability of default is 1% per year and the recovery rate is 0%. Which of the\nfollowing sentences is false about the portfolio’s credit risk",
+        "image": "",
+        "options": {
+            "A": "A.The expected loss of the portfolio is the sum of the expected loss of individual loan.",
+            "B": "B.The individual expected credit loss equals €10,000.",
+            "C": "C.If the default correlations between loans is above zero, the portfolio has no diversification\nbenefit for credit risk.",
+            "D": "D.The standard deviation of the individual credit risk is €99,499."
+        },
+        "answer": "C",
+        "explanation": "本题考点为量化信用风险的定量计算和定性理解，考虑单个资产或是组合的信用风险时，我们会使用预期损失和信用损失标准差。单个资产的预期损失为：$$PD_1 \\times EAD_i \\times LGD_i = 1\\% \\times 1 \\text{ million} \\times 100\\% = 10,000 \\text{ (loss given default = 1 - recovery rate)}$$；单个资产的信用损失标准差为：$$\\sigma_i = \\sqrt{PD_i - PD_i^2(LGD_i \\times EAD_i)} = \\sqrt{1\\% - (1\\%)^2 \\times 100\\% \\times 1 \\text{ million}} = 99,499$$，故 B 选项和 D 选项正确；组合的预期损失为单个资产预期损失的线性相加，故 A 选项正确；当计算组合的信用损失标准差时，要考虑资产和资产之间的违约相关性，只要相关性小于 1，就有分散化好处，而非大于 0 才有分散化好处，故 C 选项错误。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Credit risk, Expected loss computation, Correlation and diversification in credit portfolios",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "Mark Shaw is a senior credit portfolio manager for an Australian money management firm. Due\nto the fluctuations of the market, Mark decided to review the credit quality of his portfolio.\nBased on the historical data, Mark estimated that the hazard rate of Calendar Manufactory is\n1.5% per year. What is the probability of default within next four years and what is the\nprobability of default between years two and four for Calendar Manufactory?",
+        "image": "",
+        "options": {
+            "A": "A.5.82%; 2.87%",
+            "B": "B.1.49%; 2.96%",
+            "C": "C.1.49%; 2.87%",
+            "D": "D.5.82%; 2.96%"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为违约概率的计算。\n\n这里需要我们计算两个违约概率，分别为累计违约概率和无条件违约概率。Within next four years 是累计违约概率的英语表达，强调的是累计后的四年。Between years two and four 是无条件违约概率的英语表达，指的是不考虑其他条件下，第二年和第四年的违约概率。\n\nCumulative PD = $1 - e^{-\\lambda t} = 1 - e^{-1.5\\% \\times 4} = 5.82\\%$\n\n$$\n\\text{Unconditional PD} = (1 - e^{-\\lambda (t+k)}) - (1 - e^{-\\lambda t}) = (1 - e^{-1.5\\% \\times 4}) - (1 - e^{-1.5\\% \\times 2}) = 2.87\\%\n$$",
+        "QA type": "'Math reasoning QA'",
+        "knowledge topics": "Credit risk modeling, Hazard rate, Default probability calculation",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "Carl, a columnist for the magazine Country Risk, is considering hiring an assistant to help\nhim with his daily work of writing. In particular, he wants someone with basic knowledge of\ncountry risk. He has designed some True/False statements for all the interviewees:I There is a\nmore likelihood that countries default on their debts which is issued in local currency than in\nforeign currency.II In addition to credit rating, sovereign default spread is another way of\nassessing the country’s credit risk which is a less granular approach and can give much more\nvolatile results than the former approach.Which of the above statements is(are) True?",
+        "image": "",
+        "options": {
+            "A": "A.Only I",
+            "B": "B.Only II",
+            "C": "C.I and II",
+            "D": "D.Neither of the above."
+        },
+        "answer": "D",
+        "explanation": "本题的考点为国家信用风险I错，外币计价的国债相较于本币计价的国债而言更容易违约。II错\n，granular这个词原意为颗粒度的意思，这里说的是主权违约利差比起信用评级而言反映的信息更加细致\n，因为任何跟主权信用相关的信息都会迅速地反映在被交易的国家债券的利差当中，所以应该是more\ngranular而不是less granular。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Country risk analysis, Sovereign credit risk, Sovereign default spread",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "Anna, FRM is an operational risk analyst in Golden Bank. She is reviewing the key concepts\nof advanced measurement approach (AMA). She has written down two statements regarding AMA:I:\nSince there may only have little historical data for the modeling of operational losses,\nexternal data could be directly used to supplement the analysis.II: Poisson distribution could\nbe used to model loss severity and lognormal distribution could be used to model loss\nfrequency.Which of the above statements is(are) True?",
+        "image": "",
+        "options": {
+            "A": "A.Only I",
+            "B": "B.Only II",
+            "C": "C.I and II",
+            "D": "D.Neither of the above."
+        },
+        "answer": "D",
+        "explanation": "本题的考点为操作风险的度量。在使用高级计量法对操作风险进行建模分析时，银行的历史数\n据可能是不足够的，因此外部数据可作为数据补充的手段。但是在使用外部数据时，需要首先根据外部银行\n和本银行的收入规模差距，调整损失金额。因此I错误。在选择模型时，可使用泊松分布对损失频率进行建模\n，使用对数正态分布对损失的严重程度进行建模，II刚好错误地将两种分布的运用场景进行对换，因此II错\n误。最终应当选择D选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Operational risk measurement, Advanced measurement approach (AMA), Distribution modeling in risk management",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "Ming, a risk analyst for Evergrand Investment Advisor, is analyzing the annual reports of\nBank of Huge (BoH), an international bank with business across major regions in the world. He\ngathered the past three-years of annual gross income data for BoH across different lines of\nbusiness:\nBased on the table above, he makes several statements on the capital requirements on BoH’s\noperational risk:I. Using the Basic Indicator Approach (BIA), the operational risk capital\nrequirements for BoH in 2019 is calculated as USD 265.8 billion.II. The operational risk\ncapital requirements for BoH calculated based on Standardized Approach (SA) is less than that\nfrom the Basic Indicator Approach.III. BoH can choose to use the Advanced Measurement Approach\n(AMA) for its operational risk capital requirement calculation given its size and complexity of\nbusiness. However, the loss severity and loss frequency would need to be modeled.Which of the\nabove statement（　） is(are) true?",
+        "image": "ValuationandRiskModels_images/64u.png",
+        "options": {
+            "A": "A.I and III",
+            "B": "B.II and III",
+            "C": "C.Only I",
+            "D": "D.All of them"
+        },
+        "answer": "A",
+        "explanation": "本题的考点为操作风险的度量模型的辨析。如果使用BIA模型，在没有出现毛利润为负的情况下\n，过去三年的平均毛利润乘以15%可以计算出资本的数额。在2018年: 毛利润= 380 + 712 + 846 = USD 1938\nbillion。类似的，2017、2016年的毛利润分别为USD 1766 billion、USD 1612 billion。近三年的平均毛利\n润为 USD 1,772 billion。操作风险资本要求为1,772×15% =USD 265.8 billion. 因此I正确。如果使用\nSA模型，不同的业务条线的毛利润所乘的比例不同。零售银行业务、商业银行业务和销售交易的比例分别为\n12%、15%以及18%。2018: 0.12×380+0.15×712+0.18×846 = USD 304.68 billion2017:\n0.12×344+0.15×645+0.18×777 = USD 277.89 billion2016: 0.12×326+0.15×599+0.18×687 = USD\n252.63 billion操作风险资本的要求为:(304.68+277.89+252.63) / 3 = USD 278.4 billion。 SA模型计算\n出的结果要比BIA模型所计算的结果要更大。 因此II错误。如果使用AMA模型计算操作风险资本，需要对损失\n的发生频率和损失的严重程度进行建模，从而生成损失的分布。因此III正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Operational Risk, Capital Requirements, Measurement Approaches",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "Jacky is a senior manager in risk management at the Moon Bank. He asked Lucy, a new risk\nanalyst to conduct the stress test for the bank. He gave the stress test instructions left by\nthe last leaving risk analyst to Lucy. Jacky summarized some of the key points in the guide.\nWhich of the following statement is not correct?",
+        "image": "",
+        "options": {
+            "A": "A.Bank should have sufficient liquid assets and capital to survive various adverse events.",
+            "B": "B.The reason why banks use reverse stress tests is to find events that could lead to the crash\nof the bank.",
+            "C": "C.Extreme events tend to have a moderate impact on the banking system, but there is a high\nprobability that these events will happen.",
+            "D": "D.The time horizon for stress testing should be long enough for the full impact of scenarios to"
+        },
+        "answer": "C",
+        "explanation": "Answer: C：本题考点为压力测试（stress testing）的原理和压力测试的关键要素。对于选项\nA，压力测试是一种评估极端市场情形对银行影响的方法，该方法通过估计金融机构面临极端情景的表现，从\n而判断其是否有充足的资本金和流动性资产以抵御这些极端市场情形。所以，该选项描述正确，不符合题意\n，为错误选项。对于选项B，反向压力测试分析的是哪些极端情景导致了金融机构的失败。所以，该选项描述\n正确，不符合题意，为错误选项。对于选项C，极端事件往往会对银行系统产生严重的影响，虽然这些事件发\n生的可能性会很小。所以，该选项描述错误，符合题意，为正确选项。对于选项D，在压力测试的关键要素中\n，情景选择是关键的要素之一。情景选择第一步是确定一个合适的时间跨度。这个时间跨度要足够长，以评\n估情景的全面影响。常见的时间跨度为3个月到2年不等。有的可能会更长，长达几十年的时间跨度，例如一\n些养老金计划，或者保险公司。所以，该选项描述正确，不符合题意，为错误选项。因此，正确选项为C。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Stress Testing, Capital and Liquidity Requirements, Extreme Event Impact Analysis",
+        "book label": "Valuationand Risk Models2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    }
+]

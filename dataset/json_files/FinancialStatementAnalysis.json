@@ -1,0 +1,1453 @@
+[
+    {
+        "share_context": [
+            "Stereo Warehouse is a US retailer that offers employees a defined benefit pension plan\nand stock options as part of its compensation package. Stereo Warehouse prepares its financial\nstatements in accordance with US GAAP.Peter Friedland, CFA, is an equity analyst concerned with\nearnings quality. He is particularly interested in whether the discretionary assumptions the\ncompany is making regarding compensation plans are contributing to the recent earnings growth\nat Stereo Warehouse. He gathers information from the company's regulatory filings regarding the\npension plan assumptions in Exhibit 4 and the assumptions related to option valuation in\nExhibit 5.\n \n "
+        ],
+        "question_number": "1",
+        "question_text": "Compared to the 2009 reported financial statements, if Stereo Warehouse had",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share1-6_1.png"
+        ],
+        "options": {
+            "A": "A.lower.",
+            "B": "B.higher.",
+            "C": "C.the same."
+        },
+        "answer": "C",
+        "explanation": "The assumed long-term rate of return on plan assets is not a component that is used\nin calculating the pension obligation, so there would be no change.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Pension Obligations, Financial Statement Analysis, Assumptions in Financial Reporting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stereo Warehouse is a US retailer that offers employees a defined benefit pension plan\nand stock options as part of its compensation package. Stereo Warehouse prepares its financial\nstatements in accordance with US GAAP.Peter Friedland, CFA, is an equity analyst concerned with\nearnings quality. He is particularly interested in whether the discretionary assumptions the\ncompany is making regarding compensation plans are contributing to the recent earnings growth\nat Stereo Warehouse. He gathers information from the company's regulatory filings regarding the\npension plan assumptions in Exhibit 4 and the assumptions related to option valuation in\nExhibit 5.\n \n "
+        ],
+        "question_number": "2",
+        "question_text": "Compared to the reported 2009 financial statements, if Stereo Warehouse had",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share1-6_1.png"
+        ],
+        "options": {
+            "A": "A.net income.",
+            "B": "B.total liabilities.",
+            "C": "C.cash flow from operating activities."
+        },
+        "answer": "B",
+        "explanation": "A higher discount rate (5.38 percent instead of 4.85 percent) will reduce the\npresent value of the pension obligation (liability). In most cases, a higher discount rate will\ndecrease the interest cost component of the net periodic cost because the decrease in the\nobligation will more than offset the increase in the discount rate (except if the pension\nobligation is of short duration). Therefore, periodic pension cost would have been lower and\nreported net income higher. Cash flow from operating activities should not be affected by the\nchange.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Pension obligations, Discount rates, Financial statements analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stereo Warehouse is a US retailer that offers employees a defined benefit pension plan\nand stock options as part of its compensation package. Stereo Warehouse prepares its financial\nstatements in accordance with US GAAP.Peter Friedland, CFA, is an equity analyst concerned with\nearnings quality. He is particularly interested in whether the discretionary assumptions the\ncompany is making regarding compensation plans are contributing to the recent earnings growth\nat Stereo Warehouse. He gathers information from the company's regulatory filings regarding the\npension plan assumptions in Exhibit 4 and the assumptions related to option valuation in\nExhibit 5.\n \n "
+        ],
+        "question_number": "3",
+        "question_text": "Compared to the assumptions Stereo Warehouse used to compute its periodic",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share1-6_1.png"
+        ],
+        "options": {
+            "A": "A.discount rate.",
+            "B": "B.estimated future salary increases.",
+            "C": "C.expected long-term rate of return on plan assets."
+        },
+        "answer": "B",
+        "explanation": "In 2009, the three relevant assumptions were lower than in 2008. Lower expected\nsalary increases reduce the service cost component of the periodic pension cost. A lower\ndiscount rate will increase the defined benefit obligation and increase the interest cost\ncomponent of the periodic pension cost (the increase in the obligation will, in most cases,\nmore than offset the decrease in the discount rate). Reducing the expected return on plan\nassets typically increases the periodic pension cost.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Pension plan accounting, Actuarial assumptions, Discount rate",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stereo Warehouse is a US retailer that offers employees a defined benefit pension plan\nand stock options as part of its compensation package. Stereo Warehouse prepares its financial\nstatements in accordance with US GAAP.Peter Friedland, CFA, is an equity analyst concerned with\nearnings quality. He is particularly interested in whether the discretionary assumptions the\ncompany is making regarding compensation plans are contributing to the recent earnings growth\nat Stereo Warehouse. He gathers information from the company's regulatory filings regarding the\npension plan assumptions in Exhibit 4 and the assumptions related to option valuation in\nExhibit 5.\n \n "
+        ],
+        "question_number": "4",
+        "question_text": "Compared to the pension assumptions Stereo Warehouse used in 2008, which of the",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share1-6_1.png"
+        ],
+        "options": {
+            "A": "A.Estimated future salary increases, inflation",
+            "B": "B.Discount rate, estimated future salary increases",
+            "C": "C.Expected long-term rate of return on plan assets, discount rate"
+        },
+        "answer": "A",
+        "explanation": "The company's inflation estimate rose from 2008 to 2009. However, it lowered its\nestimate of future salary increases. Normally, salary increases will be positively related to\ninflation.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Inflation estimation, Salary increase assumptions, Pension assumptions",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stereo Warehouse is a US retailer that offers employees a defined benefit pension plan\nand stock options as part of its compensation package. Stereo Warehouse prepares its financial\nstatements in accordance with US GAAP.Peter Friedland, CFA, is an equity analyst concerned with\nearnings quality. He is particularly interested in whether the discretionary assumptions the\ncompany is making regarding compensation plans are contributing to the recent earnings growth\nat Stereo Warehouse. He gathers information from the company's regulatory filings regarding the\npension plan assumptions in Exhibit 4 and the assumptions related to option valuation in\nExhibit 5.\n \n "
+        ],
+        "question_number": "5",
+        "question_text": "Compared to the reported 2009 financial statements, if Stereo Warehouse had",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share1-6_1.png"
+        ],
+        "options": {
+            "A": "A.net income.",
+            "B": "B.compensation expense.",
+            "C": "C.deferred compensation liability."
+        },
+        "answer": "B",
+        "explanation": "A higher volatility assumption increases the value of the stock option and thus the\ncompensation expense, which, in turn, reduces net income. There is no associated liability for\nstock options.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Stock options, Compensation expense, Net income",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stereo Warehouse is a US retailer that offers employees a defined benefit pension plan\nand stock options as part of its compensation package. Stereo Warehouse prepares its financial\nstatements in accordance with US GAAP.Peter Friedland, CFA, is an equity analyst concerned with\nearnings quality. He is particularly interested in whether the discretionary assumptions the\ncompany is making regarding compensation plans are contributing to the recent earnings growth\nat Stereo Warehouse. He gathers information from the company's regulatory filings regarding the\npension plan assumptions in Exhibit 4 and the assumptions related to option valuation in\nExhibit 5.\n \n "
+        ],
+        "question_number": "6",
+        "question_text": "Compared to the assumptions Stereo Warehouse used to value stock options in",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share1-6_1.png"
+        ],
+        "options": {
+            "A": "A.expected life.",
+            "B": "B.risk-free rate.",
+            "C": "C.dividend yield."
+        },
+        "answer": "C",
+        "explanation": "A higher dividend yield reduces the value of the option and thus option expense.\nThe lower expense results in higher earnings. Higher risk-free rates and expected lives result\nin higher call option values.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity Valuation, Option Pricing Models, Financial Reporting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Percy Byron, CFA, is an equity analyst with a UK-based investment firm. One firm Byron\nfollows is NinMount PLC, a UK-based company. On 31 December 2018, NinMount paid \uffe1320 million\nto purchase a 50 percent stake in Boswell Company. The excess of the purchase price over the\nfair value of Boswell's net assets was attributable to previously unrecorded licenses. These\nlicenses were estimated to have an economic life of six years. The fair value of Boswell's\nassets and liabilities other than licenses was equal to their recorded book values. NinMount\nand Boswell both use the pound sterling as their reporting currency and prepare their financial\nstatements in accordance with IFRS.Byron is concerned whether the investment should affect his\n\u201cbuy\u201d rating on NinMount common stock. He knows NinMount could choose one of several\naccounting methods to report the results of its investment, but NinMount has not announced\nwhich method it will use. Byron forecasts that both companies' 2019 financial results\n(excluding any merger accounting adjustments) will be identical to those of 2018.NinMount's and\nBoswell's condensed income statements for the year ended 31 December 2018, and condensed\nbalance sheets at 31 December 2018, are presented in Exhibits 1 and 2, respectively.\n \n "
+        ],
+        "question_number": "7",
+        "question_text": "NinMount's current ratio on 31 December 2018 most likely will be highest if the",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share7-12_1.png",
+            "FinancialStatementAnalysis_images/share7-12_2.png"
+        ],
+        "options": {
+            "A": "A.the equity method.",
+            "B": "B.consolidation with full goodwill.",
+            "C": "C.consolidation with partial goodwill."
+        },
+        "answer": "A",
+        "explanation": "The current ratio using the equity method of accounting is Current assets/Current\nliabilities = \uffe1250/\uffe1110 = 2.27. Using consolidation (either full or partial goodwill), the\ncurrent ratio = \uffe1390/\uffe1200 = 1.95. Therefore, the current ratio is highest using the equity\nmethod.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial Ratios Analysis, Accounting Methods, Consolidation Techniques",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Percy Byron, CFA, is an equity analyst with a UK-based investment firm. One firm Byron\nfollows is NinMount PLC, a UK-based company. On 31 December 2018, NinMount paid \uffe1320 million\nto purchase a 50 percent stake in Boswell Company. The excess of the purchase price over the\nfair value of Boswell's net assets was attributable to previously unrecorded licenses. These\nlicenses were estimated to have an economic life of six years. The fair value of Boswell's\nassets and liabilities other than licenses was equal to their recorded book values. NinMount\nand Boswell both use the pound sterling as their reporting currency and prepare their financial\nstatements in accordance with IFRS.Byron is concerned whether the investment should affect his\n\u201cbuy\u201d rating on NinMount common stock. He knows NinMount could choose one of several\naccounting methods to report the results of its investment, but NinMount has not announced\nwhich method it will use. Byron forecasts that both companies' 2019 financial results\n(excluding any merger accounting adjustments) will be identical to those of 2018.NinMount's and\nBoswell's condensed income statements for the year ended 31 December 2018, and condensed\nbalance sheets at 31 December 2018, are presented in Exhibits 1 and 2, respectively.\n \n "
+        ],
+        "question_number": "8",
+        "question_text": "NinMount's long-term debt to equity ratio on 31 December 2018 most likely will",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share7-12_1.png",
+            "FinancialStatementAnalysis_images/share7-12_2.png"
+        ],
+        "options": {
+            "A": "A.the equity method.",
+            "B": "B.consolidation with full goodwill.",
+            "C": "C.consolidation with partial goodwill."
+        },
+        "answer": "A",
+        "explanation": "Using the equity method, long-term debt to equity = \uffe1600/\uffe11,430 = 0.42. Using the\nconsolidation method, long-term debt to equity = long-term debt/equity = \uffe11,000/\uffe11,750 =\n0.57. Equity includes the \uffe1320 noncontrolling interest under either consolidation. It does not\nmatter if the full or partial goodwill method is used since there is no goodwill.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Equity Method, Consolidation Method, Noncontrolling Interest",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Percy Byron, CFA, is an equity analyst with a UK-based investment firm. One firm Byron\nfollows is NinMount PLC, a UK-based company. On 31 December 2018, NinMount paid \uffe1320 million\nto purchase a 50 percent stake in Boswell Company. The excess of the purchase price over the\nfair value of Boswell's net assets was attributable to previously unrecorded licenses. These\nlicenses were estimated to have an economic life of six years. The fair value of Boswell's\nassets and liabilities other than licenses was equal to their recorded book values. NinMount\nand Boswell both use the pound sterling as their reporting currency and prepare their financial\nstatements in accordance with IFRS.Byron is concerned whether the investment should affect his\n\u201cbuy\u201d rating on NinMount common stock. He knows NinMount could choose one of several\naccounting methods to report the results of its investment, but NinMount has not announced\nwhich method it will use. Byron forecasts that both companies' 2019 financial results\n(excluding any merger accounting adjustments) will be identical to those of 2018.NinMount's and\nBoswell's condensed income statements for the year ended 31 December 2018, and condensed\nbalance sheets at 31 December 2018, are presented in Exhibits 1 and 2, respectively.\n \n "
+        ],
+        "question_number": "9",
+        "question_text": "Based on Byron's forecast, if NinMount deems it has acquired control of",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share7-12_1.png",
+            "FinancialStatementAnalysis_images/share7-12_2.png"
+        ],
+        "options": {
+            "A": "A.102.",
+            "B": "B.148.",
+            "C": "C.204."
+        },
+        "answer": "C",
+        "explanation": "The projected depreciation and amortization expense will include NinMount's\nreported depreciation and amortization (\uffe1102), Boswell's reported depreciation and\namortization (\uffe192), and amortization of Boswell's licenses (\uffe110 million). The licenses have a\nfair value of \uffe160 million. \uffe1320 purchase price indicates a fair value of \uffe1640 for the net\nassets of Boswell. The net book (fair) value of the recorded assets is \uffe1580. The previously\nunrecorded licenses have a fair value of \uffe160 million. The licenses have a remaining life of\nsix years; the amortization adjustment for 2008 will be \uffe110 million. Therefore, Projected\ndepreciation and amortization = \uffe1102 + \uffe192 + \uffe110 = \uffe1204 million.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Mergers and Acquisitions, Depreciation and Amortization, Fair Value Accounting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Percy Byron, CFA, is an equity analyst with a UK-based investment firm. One firm Byron\nfollows is NinMount PLC, a UK-based company. On 31 December 2018, NinMount paid \uffe1320 million\nto purchase a 50 percent stake in Boswell Company. The excess of the purchase price over the\nfair value of Boswell's net assets was attributable to previously unrecorded licenses. These\nlicenses were estimated to have an economic life of six years. The fair value of Boswell's\nassets and liabilities other than licenses was equal to their recorded book values. NinMount\nand Boswell both use the pound sterling as their reporting currency and prepare their financial\nstatements in accordance with IFRS.Byron is concerned whether the investment should affect his\n\u201cbuy\u201d rating on NinMount common stock. He knows NinMount could choose one of several\naccounting methods to report the results of its investment, but NinMount has not announced\nwhich method it will use. Byron forecasts that both companies' 2019 financial results\n(excluding any merger accounting adjustments) will be identical to those of 2018.NinMount's and\nBoswell's condensed income statements for the year ended 31 December 2018, and condensed\nbalance sheets at 31 December 2018, are presented in Exhibits 1 and 2, respectively.\n \n "
+        ],
+        "question_number": "10",
+        "question_text": "Based on Byron's forecast, NinMount's net profit margin for 2019 most likely",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share7-12_1.png",
+            "FinancialStatementAnalysis_images/share7-12_2.png"
+        ],
+        "options": {
+            "A": "A.the equity method.",
+            "B": "B.consolidation with full goodwill.",
+            "C": "C.consolidation with partial goodwill."
+        },
+        "answer": "A",
+        "explanation": "Net income is the same using any of the methods but under the equity method, net\nsales are only \uffe1950; Boswell's sales are not included in the net sales figure. Therefore, net\nprofit margin is highest using the equity method.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial statement analysis, Equity method, Profit margin analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Percy Byron, CFA, is an equity analyst with a UK-based investment firm. One firm Byron\nfollows is NinMount PLC, a UK-based company. On 31 December 2018, NinMount paid \uffe1320 million\nto purchase a 50 percent stake in Boswell Company. The excess of the purchase price over the\nfair value of Boswell's net assets was attributable to previously unrecorded licenses. These\nlicenses were estimated to have an economic life of six years. The fair value of Boswell's\nassets and liabilities other than licenses was equal to their recorded book values. NinMount\nand Boswell both use the pound sterling as their reporting currency and prepare their financial\nstatements in accordance with IFRS.Byron is concerned whether the investment should affect his\n\u201cbuy\u201d rating on NinMount common stock. He knows NinMount could choose one of several\naccounting methods to report the results of its investment, but NinMount has not announced\nwhich method it will use. Byron forecasts that both companies' 2019 financial results\n(excluding any merger accounting adjustments) will be identical to those of 2018.NinMount's and\nBoswell's condensed income statements for the year ended 31 December 2018, and condensed\nbalance sheets at 31 December 2018, are presented in Exhibits 1 and 2, respectively.\n \n "
+        ],
+        "question_number": "11",
+        "question_text": "Based on Byron's forecast, NinMount's 2019 return on beginning equity most",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share7-12_1.png",
+            "FinancialStatementAnalysis_images/share7-12_2.png"
+        ],
+        "options": {
+            "A": "A.either of the consolidations, but different under the equity method.",
+            "B": "B.the equity method, consolidation with full goodwill, and consolidation with partial goodwill.",
+            "C": "C.none of the equity method, consolidation with full goodwill, or consolidation with partial"
+        },
+        "answer": "A",
+        "explanation": "Net income is the same using any of the choices. Beginning equity under the equity\nmethod is \uffe11,430. Under either of the consolidations, beginning equity is \uffe11,750 since it\nincludes the \uffe1320 noncontrolling interest. Return on beginning equity is highest under the\nequity method.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "consolidation accounting, equity method, financial performance measurement",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Percy Byron, CFA, is an equity analyst with a UK-based investment firm. One firm Byron\nfollows is NinMount PLC, a UK-based company. On 31 December 2018, NinMount paid \uffe1320 million\nto purchase a 50 percent stake in Boswell Company. The excess of the purchase price over the\nfair value of Boswell's net assets was attributable to previously unrecorded licenses. These\nlicenses were estimated to have an economic life of six years. The fair value of Boswell's\nassets and liabilities other than licenses was equal to their recorded book values. NinMount\nand Boswell both use the pound sterling as their reporting currency and prepare their financial\nstatements in accordance with IFRS.Byron is concerned whether the investment should affect his\n\u201cbuy\u201d rating on NinMount common stock. He knows NinMount could choose one of several\naccounting methods to report the results of its investment, but NinMount has not announced\nwhich method it will use. Byron forecasts that both companies' 2019 financial results\n(excluding any merger accounting adjustments) will be identical to those of 2018.NinMount's and\nBoswell's condensed income statements for the year ended 31 December 2018, and condensed\nbalance sheets at 31 December 2018, are presented in Exhibits 1 and 2, respectively.\n \n "
+        ],
+        "question_number": "12",
+        "question_text": "Based on Byron's forecast, NinMount's 2019 total asset turnover ratio on",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share7-12_1.png",
+            "FinancialStatementAnalysis_images/share7-12_2.png"
+        ],
+        "options": {
+            "A": "A.lower than if the results are reported using consolidation.",
+            "B": "B.the same as if the results are reported using consolidation.",
+            "C": "C.higher than if the results are reported using consolidation."
+        },
+        "answer": "A",
+        "explanation": "Using the equity method, Total asset turnover = Net sales/Beginning total assets =\n\uffe1950/\uffe12,140 = 0.444. Total asset turnover on beginning assets using consolidation =\n\uffe11,460/\uffe12,950 = 0.495. Under consolidation, Assets = \uffe12,140 - 320 + 1,070 + 60 = \uffe12,950.\nTherefore, total asset turnover is lowest using the equity method.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Consolidation vs. Equity Method, Financial Ratios, Asset Turnover Ratio",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Zimt, AG is a consumer products manufacturer headquartered in Austria. It complies with\nIFRS. In 2017, Zimt held a 10 percent passive stake in Oxbow Limited that was classified as\nheld for trading securities. During the year, the value of this stake declined by \u20ac3 million.\nIn December 2017, Zimt announced that it would be increasing its ownership to 50 percent\neffective 1 January 2018.\nFranz Gelblum, an analyst following both Zimt and Oxbow, is curious how the increased stake\nwill affect Zimt's consolidated financial statements. Because Gelblum is uncertain how the\ncompany will account for the increased stake, he uses his existing forecasts for both\ncompanies' financial statements to compare various alternative outcomes.\nGelblum gathers abbreviated financial statement data for Zimt (Exhibit 1) and Oxbow (Exhibit 2)\nfor this purpose.\n \n "
+        ],
+        "question_number": "13",
+        "question_text": "t 31 December 2018, Zimt's total assets balance would most likely be:",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share13-17_1.png",
+            "FinancialStatementAnalysis_images/share13-17_2.png"
+        ],
+        "options": {
+            "A": "A.highest if Zimt is deemed to have control of Oxbow.",
+            "B": "B.highest if Zimt is deemed to have significant influence over Oxbow.",
+            "C": "C.unaffected by the accounting method used for the investment in Oxbow."
+        },
+        "answer": "A",
+        "explanation": "When a company is deemed to have control of another entity, it records all of the\nother entity\u2019s assets on its own consolidated balance sheet.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial Statement Consolidation, Control vs. Significant Influence, Accounting Methods for Investments",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Zimt, AG is a consumer products manufacturer headquartered in Austria. It complies with\nIFRS. In 2017, Zimt held a 10 percent passive stake in Oxbow Limited that was classified as\nheld for trading securities. During the year, the value of this stake declined by \u20ac3 million.\nIn December 2017, Zimt announced that it would be increasing its ownership to 50 percent\neffective 1 January 2018.\nFranz Gelblum, an analyst following both Zimt and Oxbow, is curious how the increased stake\nwill affect Zimt's consolidated financial statements. Because Gelblum is uncertain how the\ncompany will account for the increased stake, he uses his existing forecasts for both\ncompanies' financial statements to compare various alternative outcomes.\nGelblum gathers abbreviated financial statement data for Zimt (Exhibit 1) and Oxbow (Exhibit 2)\nfor this purpose.\n \n "
+        ],
+        "question_number": "14",
+        "question_text": "Based on Gelblum's estimates, if Zimt is deemed to have significant influence",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share13-17_1.png",
+            "FinancialStatementAnalysis_images/share13-17_2.png"
+        ],
+        "options": {
+            "A": "A.\u20ac75.",
+            "B": "B.\u20ac109.",
+            "C": "C.\u20ac143."
+        },
+        "answer": "B",
+        "explanation": "If Zimt is deemed to have significant influence, it would use the equity method to\nrecord its ownership. Under the equity method, Zimt\u2019s share of Oxbow\u2019s net income would be\nrecorded as a single line item. Net income of Zimt = 75 + 0.5(68) = 109.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Equity method accounting, Significant influence, Share of net income",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Zimt, AG is a consumer products manufacturer headquartered in Austria. It complies with\nIFRS. In 2017, Zimt held a 10 percent passive stake in Oxbow Limited that was classified as\nheld for trading securities. During the year, the value of this stake declined by \u20ac3 million.\nIn December 2017, Zimt announced that it would be increasing its ownership to 50 percent\neffective 1 January 2018.\nFranz Gelblum, an analyst following both Zimt and Oxbow, is curious how the increased stake\nwill affect Zimt's consolidated financial statements. Because Gelblum is uncertain how the\ncompany will account for the increased stake, he uses his existing forecasts for both\ncompanies' financial statements to compare various alternative outcomes.\nGelblum gathers abbreviated financial statement data for Zimt (Exhibit 1) and Oxbow (Exhibit 2)\nfor this purpose.\n \n "
+        ],
+        "question_number": "15",
+        "question_text": "Based on Gelblum's estimates, if Zimt is deemed to have joint control of",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share13-17_1.png",
+            "FinancialStatementAnalysis_images/share13-17_2.png"
+        ],
+        "options": {
+            "A": "A.\u20ac686.",
+            "B": "B.\u20ac975.",
+            "C": "C.\u20ac1,263."
+        },
+        "answer": "B",
+        "explanation": "Under the proportionate consolidation method, Zimt's balance sheet would show its\nown total liabilities of \u20ac1,421 - 735 = \u20ac686 plus half of Oxbow's liabilities of \u20ac1,283 -\n706 = \u20ac577. \u20ac686 + (0.5 \u00d7 577) = \u20ac974.5.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Proportionate consolidation method, Balance sheet consolidation, Joint control in financial reporting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Zimt, AG is a consumer products manufacturer headquartered in Austria. It complies with\nIFRS. In 2017, Zimt held a 10 percent passive stake in Oxbow Limited that was classified as\nheld for trading securities. During the year, the value of this stake declined by \u20ac3 million.\nIn December 2017, Zimt announced that it would be increasing its ownership to 50 percent\neffective 1 January 2018.\nFranz Gelblum, an analyst following both Zimt and Oxbow, is curious how the increased stake\nwill affect Zimt's consolidated financial statements. Because Gelblum is uncertain how the\ncompany will account for the increased stake, he uses his existing forecasts for both\ncompanies' financial statements to compare various alternative outcomes.\nGelblum gathers abbreviated financial statement data for Zimt (Exhibit 1) and Oxbow (Exhibit 2)\nfor this purpose.\n \n "
+        ],
+        "question_number": "16",
+        "question_text": "Based on Gelblum's estimates, if Zimt is deemed to have control over Oxbow,",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share13-17_1.png",
+            "FinancialStatementAnalysis_images/share13-17_2.png"
+        ],
+        "options": {
+            "A": "A.\u20ac1,700.",
+            "B": "B.\u20ac2,375.",
+            "C": "C.\u20ac3,050."
+        },
+        "answer": "C",
+        "explanation": "Under the assumption of control, Zimt would record its own sales plus 100 percent\nof Oxbow's. \u20ac1,700 + 1,350 = \u20ac3,050.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Consolidation accounting, Intercompany transactions, Financial statement analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Zimt, AG is a consumer products manufacturer headquartered in Austria. It complies with\nIFRS. In 2017, Zimt held a 10 percent passive stake in Oxbow Limited that was classified as\nheld for trading securities. During the year, the value of this stake declined by \u20ac3 million.\nIn December 2017, Zimt announced that it would be increasing its ownership to 50 percent\neffective 1 January 2018.\nFranz Gelblum, an analyst following both Zimt and Oxbow, is curious how the increased stake\nwill affect Zimt's consolidated financial statements. Because Gelblum is uncertain how the\ncompany will account for the increased stake, he uses his existing forecasts for both\ncompanies' financial statements to compare various alternative outcomes.\nGelblum gathers abbreviated financial statement data for Zimt (Exhibit 1) and Oxbow (Exhibit 2)\nfor this purpose.\n \n "
+        ],
+        "question_number": "17",
+        "question_text": "Based on Gelblum's estimates, Zimt's net income in 2018 will most likely be:",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share13-17_1.png",
+            "FinancialStatementAnalysis_images/share13-17_2.png"
+        ],
+        "options": {
+            "A": "A.highest if Zimt is deemed to have control of Oxbow.",
+            "B": "B.highest if Zimt is deemed to have significant influence over Oxbow.",
+            "C": "C.independent of the accounting method used for the investment in Oxbow."
+        },
+        "answer": "C",
+        "explanation": "Net income is not affected by the accounting method used to account for active\ninvestments in other companies. \u201cOne-line consolidation\u201d and consolidation result in the same\nimpact on net income; it is the disclosure that differs.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Accounting methods for investments, Consolidation, Financial statement analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services\nto various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's\npresentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has\ntwo wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary\n(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which\nwas converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie\nJanssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's\nfinancial statements using the temporal method. Non-monetary assets are measured at cost under\nthe lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and\nthe balance sheet for Triofind-B is presented in Exhibit 2.\nJanssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate\nmethod to translate its results into Norvolt euros. Triofind-A, which prices its goods in\nAbuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives\npayment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also\nreceived NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.\nJanssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine\nthe appropriate value for the warehouse in Triofind's presentation currency. She observes that\nthe cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and\ninflation data are presented in Exhibit 3.\nJanssen gathers corporate tax rate data and company disclosure information to include in\nTriofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and\nBorliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income\nof multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and\nTriofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in\ndifferent countries, presented in Exhibit 4.\n \n "
+        ],
+        "question_number": "18",
+        "question_text": "Based on Exhibits 1 and 2 and Janssen's translation method, total assets for",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share18-24_1.png",
+            "FinancialStatementAnalysis_images/share18-24_2.png",
+            "FinancialStatementAnalysis_images/share18-24_3.png"
+        ],
+        "options": {
+            "A": "A.NER1,375,000.",
+            "B": "B.NER1,380,252.",
+            "C": "C.NER1,434,783."
+        },
+        "answer": "B",
+        "explanation": "Using the temporal method, monetary assets (i.e., cash) are translated using the current exchange rate (as of 31 December 2016) of BRD1.20/NER (or NERO.8333/BRD), and non-monetary assets are translated using the historical exchange rate when acquired. Inventory is translated at its 2016 weighted-average rate of BRD1.19/NER (or NERO.8403/BRD). Therefore, the total assets for Triofind-B translated into Norvolt euros (Triofind\u2019s presentation currency) as of 31 December 2016 are calculated as follows:\n\n| Assets                   | 31 December 2016 (BRD) | Applicable Exchange Rate (NER/BRD) | Rate Used | NER    |\n|--------------------------|------------------------|------------------------------------|-----------|--------|\n| Cash                     | 900,000                | 0.8333                             | Current   | 750,000|\n| Inventory                | 750,000                | 0.8403                             | Average   | 630,252|\n| **Total**                | 1,650,000              |                                    |           | 1,380,252|",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign Currency Translation, Temporal Method, Exchange Rates",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services\nto various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's\npresentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has\ntwo wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary\n(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which\nwas converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie\nJanssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's\nfinancial statements using the temporal method. Non-monetary assets are measured at cost under\nthe lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and\nthe balance sheet for Triofind-B is presented in Exhibit 2.\nJanssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate\nmethod to translate its results into Norvolt euros. Triofind-A, which prices its goods in\nAbuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives\npayment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also\nreceived NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.\nJanssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine\nthe appropriate value for the warehouse in Triofind's presentation currency. She observes that\nthe cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and\ninflation data are presented in Exhibit 3.\nJanssen gathers corporate tax rate data and company disclosure information to include in\nTriofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and\nBorliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income\nof multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and\nTriofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in\ndifferent countries, presented in Exhibit 4.\n \n "
+        ],
+        "question_number": "19",
+        "question_text": "Based on Exhibits 1 and 2, the translation adjustment for Triofind-B's",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share18-24_1.png",
+            "FinancialStatementAnalysis_images/share18-24_2.png",
+            "FinancialStatementAnalysis_images/share18-24_3.png"
+        ],
+        "options": {
+            "A": "A.negative.",
+            "B": "B.zero.",
+            "C": "C.positive."
+        },
+        "answer": "A",
+        "explanation": "Temporal method\u4e0b\uff0cNotes payable\u7528\u671f\u672b\u6c47\u7387\uff0c2016\u5e746\u670830\u501f500000\uff0c\u5f53\u65f6\u7684\u6c47\u7387\u662f\n1.15\uff0c500000/1.15=434783\uff1b2016\u5e7412\u670831\u65e5\uff0c500000/1.2=416667\u3002\u8d1f\u503a\u4e0b\u964d\uff0c\u8d1f\u8c03\u6574\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Foreign currency translation, Temporal method, Exchange rates",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services\nto various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's\npresentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has\ntwo wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary\n(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which\nwas converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie\nJanssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's\nfinancial statements using the temporal method. Non-monetary assets are measured at cost under\nthe lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and\nthe balance sheet for Triofind-B is presented in Exhibit 2.\nJanssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate\nmethod to translate its results into Norvolt euros. Triofind-A, which prices its goods in\nAbuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives\npayment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also\nreceived NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.\nJanssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine\nthe appropriate value for the warehouse in Triofind's presentation currency. She observes that\nthe cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and\ninflation data are presented in Exhibit 3.\nJanssen gathers corporate tax rate data and company disclosure information to include in\nTriofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and\nBorliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income\nof multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and\nTriofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in\ndifferent countries, presented in Exhibit 4.\n \n "
+        ],
+        "question_number": "20",
+        "question_text": "Based on Exhibits 1 and 2 and Janssen's translation method, retained earnings",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share18-24_1.png",
+            "FinancialStatementAnalysis_images/share18-24_2.png",
+            "FinancialStatementAnalysis_images/share18-24_3.png"
+        ],
+        "options": {
+            "A": "A.NER150,225.",
+            "B": "B.NER170,940.",
+            "C": "C.NER172,414."
+        },
+        "answer": "A",
+        "explanation": "\u7528Temporar method\uff0c\u8d44\u4ea7=\u8d1f\u503a\uff0b\u6240\u6709\u8005\u6743\u76ca\uff0c\u8d44\u4ea7=\u8d1f\u503a\uff0b\u8d44\u672c\uff0b\u7559\u5b58\u6536\u76caCash\u5e94\u75282017\u5e74\n6\u670831\u53f7\u6c47\u7387\uff0c1.17\uff0c1350000/1.17Inventory\u75281.18\uff0c500000/1.18\u8d1f\u503a\u75281.17\uff0c500000/1.17\u666e\u901a\u80a1\u7528\u5386\u53f2\n\u6c47\u7387\uff0c1.15\uff0c1150000/1.15\u7559\u5b58\u6536\u76ca=1350000/1.17\uff0b500000/1.18-500000/1.17-1150000/1.15=150225\u3002",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign Exchange Risk, Translation Methods, Currency Valuation",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services\nto various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's\npresentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has\ntwo wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary\n(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which\nwas converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie\nJanssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's\nfinancial statements using the temporal method. Non-monetary assets are measured at cost under\nthe lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and\nthe balance sheet for Triofind-B is presented in Exhibit 2.\nJanssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate\nmethod to translate its results into Norvolt euros. Triofind-A, which prices its goods in\nAbuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives\npayment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also\nreceived NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.\nJanssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine\nthe appropriate value for the warehouse in Triofind's presentation currency. She observes that\nthe cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and\ninflation data are presented in Exhibit 3.\nJanssen gathers corporate tax rate data and company disclosure information to include in\nTriofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and\nBorliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income\nof multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and\nTriofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in\ndifferent countries, presented in Exhibit 4.\n \n "
+        ],
+        "question_number": "21",
+        "question_text": "The functional currency for Triofind-A's sale of mobile phones to a customer",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share18-24_1.png",
+            "FinancialStatementAnalysis_images/share18-24_2.png",
+            "FinancialStatementAnalysis_images/share18-24_3.png"
+        ],
+        "options": {
+            "A": "A.Certait real.",
+            "B": "B.Norvolt euro.",
+            "C": "C.Abuelio peso."
+        },
+        "answer": "C",
+        "explanation": "The functional currency is the currency of the primary economic environment in\nwhich an entity operates. Abuelio is Triofind-A's primary economic environment, and its\ncurrency is the Abuelio peso (ABP). Another important factor used to determine the functional\ncurrency is the currency that mainly influences sales prices for goods and services. The fact\nthat Triofind-A prices its goods in Abuelio pesos supports the case for the ABP to be the\nfunctional currency.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign exchange risk, Functional currency determination, Economic environment factors",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services\nto various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's\npresentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has\ntwo wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary\n(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which\nwas converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie\nJanssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's\nfinancial statements using the temporal method. Non-monetary assets are measured at cost under\nthe lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and\nthe balance sheet for Triofind-B is presented in Exhibit 2.\nJanssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate\nmethod to translate its results into Norvolt euros. Triofind-A, which prices its goods in\nAbuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives\npayment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also\nreceived NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.\nJanssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine\nthe appropriate value for the warehouse in Triofind's presentation currency. She observes that\nthe cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and\ninflation data are presented in Exhibit 3.\nJanssen gathers corporate tax rate data and company disclosure information to include in\nTriofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and\nBorliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income\nof multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and\nTriofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in\ndifferent countries, presented in Exhibit 4.\n \n "
+        ],
+        "question_number": "22",
+        "question_text": "Based on Exhibit 3, the value of the new warehouse in Abuelio on Triofind's",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share18-24_1.png",
+            "FinancialStatementAnalysis_images/share18-24_2.png",
+            "FinancialStatementAnalysis_images/share18-24_3.png"
+        ],
+        "options": {
+            "A": "A.NER31,452.",
+            "B": "B.NER47,964.",
+            "C": "C.NER50,000."
+        },
+        "answer": "B",
+        "explanation": "Triofind complies with IFRS, and Abuelio can be considered a highly inflationary\neconomy because its cumulative inflation rate exceeded 100% from 2015 to 2017. Thus, Triofind-\nA's financials must be restated to include local inflation rates and then translated using the\ncurrent exchange rate into Norvolt euros, which is Triofind's presentation currency. This\napproach reflects both the likely change in the local currency value of the warehouse as well\nas the actual change in the exchange rate. The original purchase price is ABP1,008,065\n(NER50,000/ABP0.0496). The value of the new warehouse in Abuelio as of 31 July 2017 is\nNER47,964, calculated as follows:",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "IFRS compliance, Hyperinflationary economies, Currency translation adjustments",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services\nto various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's\npresentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has\ntwo wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary\n(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which\nwas converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie\nJanssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's\nfinancial statements using the temporal method. Non-monetary assets are measured at cost under\nthe lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and\nthe balance sheet for Triofind-B is presented in Exhibit 2.\nJanssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate\nmethod to translate its results into Norvolt euros. Triofind-A, which prices its goods in\nAbuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives\npayment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also\nreceived NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.\nJanssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine\nthe appropriate value for the warehouse in Triofind's presentation currency. She observes that\nthe cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and\ninflation data are presented in Exhibit 3.\nJanssen gathers corporate tax rate data and company disclosure information to include in\nTriofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and\nBorliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income\nof multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and\nTriofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in\ndifferent countries, presented in Exhibit 4.\n \n "
+        ],
+        "question_number": "23",
+        "question_text": "Relative to its domestic tax rate, Triofind's effective tax rate is most",
+        "image": "FinancialStatementAnalysis_images/23u.png",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share18-24_1.png",
+            "FinancialStatementAnalysis_images/share18-24_2.png",
+            "FinancialStatementAnalysis_images/share18-24_3.png"
+        ],
+        "options": {
+            "A": "A.lower.",
+            "B": "B.the same.",
+            "C": "C.higher."
+        },
+        "answer": "A",
+        "explanation": "Norvolt exempts the non-domestic income of multinationals from taxation. Because\nNorvolt has a corporate tax rate of 34%, the 0% tax rate in Borliand and the fact that 25% of\nTriofind's net income comes from Borliand should result in a lower effective tax rate on\nTriofind's consolidated financial statements compared with Triofind's domestic tax rate.\nAbuelio's tax rate of 35% is very close to that of Norvolt, and it constitutes only 15% of\nTriofind's net income, so its effect is unlikely to be significant.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International taxation, Effective tax rate, Accounting for multinational corporations",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services\nto various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's\npresentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has\ntwo wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary\n(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which\nwas converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie\nJanssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's\nfinancial statements using the temporal method. Non-monetary assets are measured at cost under\nthe lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and\nthe balance sheet for Triofind-B is presented in Exhibit 2.\nJanssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate\nmethod to translate its results into Norvolt euros. Triofind-A, which prices its goods in\nAbuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives\npayment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also\nreceived NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.\nJanssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine\nthe appropriate value for the warehouse in Triofind's presentation currency. She observes that\nthe cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and\ninflation data are presented in Exhibit 3.\nJanssen gathers corporate tax rate data and company disclosure information to include in\nTriofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and\nBorliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income\nof multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and\nTriofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in\ndifferent countries, presented in Exhibit 4.\n \n "
+        ],
+        "question_number": "24",
+        "question_text": "Based on Exhibit 4, the country with the highest sustainable sales growth is:",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share18-24_1.png",
+            "FinancialStatementAnalysis_images/share18-24_2.png",
+            "FinancialStatementAnalysis_images/share18-24_3.png"
+        ],
+        "options": {
+            "A": "A.Norvolt.",
+            "B": "B.Abuelio.",
+            "C": "C.Borliand."
+        },
+        "answer": "B",
+        "explanation": "Although Borliand shows the highest growth in Norvolt euro terms, this result is\npartially because of currency fluctuations, which cannot be controlled. Abuelio had the highest\nchange in sales resulting from price and volume at 13% (excluding foreign currency exchange).\nThis growth is more sustainable than net sales growth, which includes currency fluctuations,\nbecause Triofind's management has more control over growth in sales resulting from greater\nvolume or higher prices.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Management, Financial Analysis, Currency Risk",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Mike Martinez is an equity analyst who has been asked to analyze Stellar, Inc. by his\nsupervisor, Dominic Anderson. Stellar exhibited strong earnings growth last year; however,\nAnderson is skeptical about the sustainability of the company's earnings. He wants Martinez to\nfocus on Stellar's financial reporting quality and earnings quality.After conducting a thorough\nreview of the company's financial statements, Martinez concludes the following:\u25cf Conclusion\n1Although Stellar's financial statements adhere to generally accepted accounting principles\n(GAAP), Stellar understates earnings in periods when the company is performing well and\noverstates earnings in periods when the company is struggling.\u25cf Conclusion 2Stellar most\nlikely understated the value of amortizable intangibles when recording the acquisition of\nSolar, Inc. last year. No goodwill impairment charges have been taken since the acquisition.\u25cf\nConclusion 3Over time, the accruals component of Stellar's earnings is large relative to the\ncash component.\u25cf Conclusion 4Stellar reported an unusually sharp decline in accounts\nreceivable in the current year, and an increase in long-term trade receivables.\n "
+        ],
+        "question_number": "25",
+        "question_text": "Based on Martinez's conclusions, Stellar's financial statements are best",
+        "image": "",
+        "options": {
+            "A": "A.non-GAAP compliant.",
+            "B": "B.GAAP compliant, but with earnings management.",
+            "C": "C.GAAP compliant and decision useful, with sustainable and adequate returns."
+        },
+        "answer": "B",
+        "explanation": "Stellar's financial statements are GAAP compliant (Conclusion 1) but cannot be\nrelied upon to assess earnings quality. There is evidence of earnings management: understating\nand overstating earnings depending upon the results of the period (Conclusion 1), understated\namortizable intangibles (Conclusion 2), and a high accruals component in the company's earnings\n(Conclusion 3).",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial reporting and analysis, Earnings management, Financial statement quality",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Mike Martinez is an equity analyst who has been asked to analyze Stellar, Inc. by his\nsupervisor, Dominic Anderson. Stellar exhibited strong earnings growth last year; however,\nAnderson is skeptical about the sustainability of the company's earnings. He wants Martinez to\nfocus on Stellar's financial reporting quality and earnings quality.After conducting a thorough\nreview of the company's financial statements, Martinez concludes the following:\u25cf Conclusion\n1Although Stellar's financial statements adhere to generally accepted accounting principles\n(GAAP), Stellar understates earnings in periods when the company is performing well and\noverstates earnings in periods when the company is struggling.\u25cf Conclusion 2Stellar most\nlikely understated the value of amortizable intangibles when recording the acquisition of\nSolar, Inc. last year. No goodwill impairment charges have been taken since the acquisition.\u25cf\nConclusion 3Over time, the accruals component of Stellar's earnings is large relative to the\ncash component.\u25cf Conclusion 4Stellar reported an unusually sharp decline in accounts\nreceivable in the current year, and an increase in long-term trade receivables.\n "
+        ],
+        "question_number": "26",
+        "question_text": "Based on Conclusion 2, after the acquisition of Solar, Stellar's earnings are",
+        "image": "",
+        "options": {
+            "A": "A.understated.",
+            "B": "B.fairly stated.",
+            "C": "C.overstated."
+        },
+        "answer": "C",
+        "explanation": "Martinez believes that Stellar most likely understated the value of amortizable\nintangibles when recording the acquisition of a rival company last year. Impairment charges\nhave not been taken since the acquisition (Conclusion 2). Consequently, the company's earnings\nare likely to be overstated because amortization expense is understated. This understatement\nhas not been offset by an impairment charge.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial statements analysis, Intangible assets accounting, Amortization and impairment",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Mike Martinez is an equity analyst who has been asked to analyze Stellar, Inc. by his\nsupervisor, Dominic Anderson. Stellar exhibited strong earnings growth last year; however,\nAnderson is skeptical about the sustainability of the company's earnings. He wants Martinez to\nfocus on Stellar's financial reporting quality and earnings quality.After conducting a thorough\nreview of the company's financial statements, Martinez concludes the following:\u25cf Conclusion\n1Although Stellar's financial statements adhere to generally accepted accounting principles\n(GAAP), Stellar understates earnings in periods when the company is performing well and\noverstates earnings in periods when the company is struggling.\u25cf Conclusion 2Stellar most\nlikely understated the value of amortizable intangibles when recording the acquisition of\nSolar, Inc. last year. No goodwill impairment charges have been taken since the acquisition.\u25cf\nConclusion 3Over time, the accruals component of Stellar's earnings is large relative to the\ncash component.\u25cf Conclusion 4Stellar reported an unusually sharp decline in accounts\nreceivable in the current year, and an increase in long-term trade receivables.\n "
+        ],
+        "question_number": "27",
+        "question_text": "In his follow-up analysis relating to Conclusion 3, Martinez should focus on",
+        "image": "",
+        "options": {
+            "A": "A.total accruals.",
+            "B": "B.discretionary accruals.",
+            "C": "C.non-discretionary accruals."
+        },
+        "answer": "B",
+        "explanation": "Martinez concluded that the accruals component of Stellar's earnings was large\nrelative to the cash component (Conclusion 3). Earnings with a larger component of accruals are\ntypically less persistent and of lower quality. An important distinction is between accruals\nthat arise from normal transactions in the period (called non-discretionary) and accruals that\nresult from transactions or accounting choices outside the normal (called discretionary\naccruals). The discretionary accruals are possibly made with the intent to distort reported\nearnings. Outlier discretionary accruals are an indicator of possibly manipulated\u2014and thus low\nquality earnings. Thus, Martinez is primarily focused on discretionary accruals, particularly\noutlier discretionary accruals (referred to as abnormal accruals).",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Earnings quality, Accruals, Earnings management",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Mike Martinez is an equity analyst who has been asked to analyze Stellar, Inc. by his\nsupervisor, Dominic Anderson. Stellar exhibited strong earnings growth last year; however,\nAnderson is skeptical about the sustainability of the company's earnings. He wants Martinez to\nfocus on Stellar's financial reporting quality and earnings quality.After conducting a thorough\nreview of the company's financial statements, Martinez concludes the following:\u25cf Conclusion\n1Although Stellar's financial statements adhere to generally accepted accounting principles\n(GAAP), Stellar understates earnings in periods when the company is performing well and\noverstates earnings in periods when the company is struggling.\u25cf Conclusion 2Stellar most\nlikely understated the value of amortizable intangibles when recording the acquisition of\nSolar, Inc. last year. No goodwill impairment charges have been taken since the acquisition.\u25cf\nConclusion 3Over time, the accruals component of Stellar's earnings is large relative to the\ncash component.\u25cf Conclusion 4Stellar reported an unusually sharp decline in accounts\nreceivable in the current year, and an increase in long-term trade receivables.\n "
+        ],
+        "question_number": "28",
+        "question_text": "What will be the impact on Stellar in the current year if Martinez's belief in",
+        "image": "",
+        "options": {
+            "A": "A.current ratio will increase.",
+            "B": "B.days sales outstanding (DSO) will decrease.",
+            "C": "C.accounts receivable turnover will decrease."
+        },
+        "answer": "B",
+        "explanation": "Because accounts receivable will be lower than reported in the past, Stellar's DSO\n[Accounts receivable/(Revenues/365)] will decrease. Stellar's accounts receivable turnover\n(365/days' sales outstanding) will increase with the lower DSO, giving the false impression of\na faster turnover. The company's current ratio will decrease (current assets will decrease with\nno change in current liabilities).",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Accounts receivable turnover, Days sales outstanding (DSO), Current ratio",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Consolidated Motors is a US-based corporation that sells mechanical engines and\ncomponents used by electric utilities. Its Canadian subsidiary, Consol-Can, operates solely in\nCanada. It was created on 31 December 20X1, and Consolidated Motors determined at that time\nthat it should use the US dollar as its functional currency.Chief Financial Officer Monica\nTempleton was asked to explain to the board of directors how exchange rates affect the\nfinancial statements of both Consol-Can and the consolidated financial statements of\nConsolidated Motors. For the presentation, Templeton collects Consol-Can's balance sheets for\nthe years ended 20X1 and 20X2 (Exhibit 1), as well as relevant exchange rate information\n(Exhibit 2).\n \nTempleton explains that Consol-Can uses the FIFO inventory accounting method and that purchases\nof C$300 million and the sell-through of that inventory occurred evenly throughout 20X2. Her\npresentation includes reporting the translated amounts in US dollars for each item, as well as\nassociated translation-related gains and losses. The board responds with several questions.\u25cf\nWould there be a reason to change the functional currency to the Canadian dollar?\u25cf Would there\nbe any translation effects for Consolidated Motors if the functional currency for Consol-Can\nwere changed to the Canadian dollar?\u25cf Would a change in the functional currency have any\nimpact on financial statement ratios for the parent company?\u25cf What would be the balance sheet\nexposure to translation effects if the functional currency were changed?\n "
+        ],
+        "question_number": "29",
+        "question_text": "After translating Consol-Can's inventory and long-term debt into the parent",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share29-34_1.png",
+            "FinancialStatementAnalysis_images/share29-34_2.png"
+        ],
+        "options": {
+            "A": "A.$71 for inventory and $161 for long-term debt.",
+            "B": "B.$71 for inventory and $166 for long-term debt.",
+            "C": "C.$73 for inventory and $166 for long-term debt."
+        },
+        "answer": "B",
+        "explanation": "When the parent company's currency is used as the functional currency, the temporal\nmethod must be used to translate the subsidiary's accounts. Under the temporal method, monetary\nassets and liabilities (e.g., debt) are translated at the current (year-end) rate, non-monetary\nassets and liabilities measured at historical cost (e.g., inventory) are translated at\nhistorical exchange rates, and non-monetary assets and liabilities measured at current value\nare translated at the exchange rate at the date when the current value was determined. Because\nbeginning inventory was sold first and sales and purchases were evenly acquired, the average\nrate is most appropriate for translating inventory and C$77 million \u00d7 0.92 = $71 million.\nLong-term debt is translated at the year-end rate of 0.95. C$175 million \u00d7 0.95 = $166\nmillion.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign currency translation, Temporal method, Monetary vs. non-monetary assets and liabilities",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Consolidated Motors is a US-based corporation that sells mechanical engines and\ncomponents used by electric utilities. Its Canadian subsidiary, Consol-Can, operates solely in\nCanada. It was created on 31 December 20X1, and Consolidated Motors determined at that time\nthat it should use the US dollar as its functional currency.Chief Financial Officer Monica\nTempleton was asked to explain to the board of directors how exchange rates affect the\nfinancial statements of both Consol-Can and the consolidated financial statements of\nConsolidated Motors. For the presentation, Templeton collects Consol-Can's balance sheets for\nthe years ended 20X1 and 20X2 (Exhibit 1), as well as relevant exchange rate information\n(Exhibit 2).\n \nTempleton explains that Consol-Can uses the FIFO inventory accounting method and that purchases\nof C$300 million and the sell-through of that inventory occurred evenly throughout 20X2. Her\npresentation includes reporting the translated amounts in US dollars for each item, as well as\nassociated translation-related gains and losses. The board responds with several questions.\u25cf\nWould there be a reason to change the functional currency to the Canadian dollar?\u25cf Would there\nbe any translation effects for Consolidated Motors if the functional currency for Consol-Can\nwere changed to the Canadian dollar?\u25cf Would a change in the functional currency have any\nimpact on financial statement ratios for the parent company?\u25cf What would be the balance sheet\nexposure to translation effects if the functional currency were changed?\n "
+        ],
+        "question_number": "30",
+        "question_text": "After translating Consol-Can's 31 December 20X2 balance sheet into the parent",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share29-34_1.png",
+            "FinancialStatementAnalysis_images/share29-34_2.png"
+        ],
+        "options": {
+            "A": "A.$41 million.",
+            "B": "B.$44 million.",
+            "C": "C.$46 million."
+        },
+        "answer": "B",
+        "explanation": "Translating the 20X2 balance sheet using the temporal method, as is required in\nthis instance, results in assets of US$369 million. The translated liabilities and common stock\nare equal to US$325 million, meaning that the value for 20X2 retained earnings is US$369\nmillion \u2013 US$325 million = US$44 million.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign currency translation, Temporal method, Balance sheet analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Consolidated Motors is a US-based corporation that sells mechanical engines and\ncomponents used by electric utilities. Its Canadian subsidiary, Consol-Can, operates solely in\nCanada. It was created on 31 December 20X1, and Consolidated Motors determined at that time\nthat it should use the US dollar as its functional currency.Chief Financial Officer Monica\nTempleton was asked to explain to the board of directors how exchange rates affect the\nfinancial statements of both Consol-Can and the consolidated financial statements of\nConsolidated Motors. For the presentation, Templeton collects Consol-Can's balance sheets for\nthe years ended 20X1 and 20X2 (Exhibit 1), as well as relevant exchange rate information\n(Exhibit 2).\n \nTempleton explains that Consol-Can uses the FIFO inventory accounting method and that purchases\nof C$300 million and the sell-through of that inventory occurred evenly throughout 20X2. Her\npresentation includes reporting the translated amounts in US dollars for each item, as well as\nassociated translation-related gains and losses. The board responds with several questions.\u25cf\nWould there be a reason to change the functional currency to the Canadian dollar?\u25cf Would there\nbe any translation effects for Consolidated Motors if the functional currency for Consol-Can\nwere changed to the Canadian dollar?\u25cf Would a change in the functional currency have any\nimpact on financial statement ratios for the parent company?\u25cf What would be the balance sheet\nexposure to translation effects if the functional currency were changed?\n "
+        ],
+        "question_number": "31",
+        "question_text": "In response to the board's first question, Templeton would most likely reply",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share29-34_1.png",
+            "FinancialStatementAnalysis_images/share29-34_2.png"
+        ],
+        "options": {
+            "A": "A.the inflation rate in the United States became hyperinflationary.",
+            "B": "B.management wanted to flow more of the gains through net income.",
+            "C": "C.Consol-Can were making autonomous decisions about operations, investing, and financing."
+        },
+        "answer": "C",
+        "explanation": "The Canadian dollar would be the appropriate reporting currency when substantially\nall operating, financing, and investing decisions are based on the local currency. The parent\ncountry's inflation rate is never relevant. Earnings manipulation is not justified, and at any\nrate changing the functional currency would take the gains off of the income statement.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Foreign Exchange Risk Management, Currency Translation, Financial Reporting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Consolidated Motors is a US-based corporation that sells mechanical engines and\ncomponents used by electric utilities. Its Canadian subsidiary, Consol-Can, operates solely in\nCanada. It was created on 31 December 20X1, and Consolidated Motors determined at that time\nthat it should use the US dollar as its functional currency.Chief Financial Officer Monica\nTempleton was asked to explain to the board of directors how exchange rates affect the\nfinancial statements of both Consol-Can and the consolidated financial statements of\nConsolidated Motors. For the presentation, Templeton collects Consol-Can's balance sheets for\nthe years ended 20X1 and 20X2 (Exhibit 1), as well as relevant exchange rate information\n(Exhibit 2).\n \nTempleton explains that Consol-Can uses the FIFO inventory accounting method and that purchases\nof C$300 million and the sell-through of that inventory occurred evenly throughout 20X2. Her\npresentation includes reporting the translated amounts in US dollars for each item, as well as\nassociated translation-related gains and losses. The board responds with several questions.\u25cf\nWould there be a reason to change the functional currency to the Canadian dollar?\u25cf Would there\nbe any translation effects for Consolidated Motors if the functional currency for Consol-Can\nwere changed to the Canadian dollar?\u25cf Would a change in the functional currency have any\nimpact on financial statement ratios for the parent company?\u25cf What would be the balance sheet\nexposure to translation effects if the functional currency were changed?\n "
+        ],
+        "question_number": "32",
+        "question_text": "In response to the board's second question, Templeton should reply that if the",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share29-34_1.png",
+            "FinancialStatementAnalysis_images/share29-34_2.png"
+        ],
+        "options": {
+            "A": "A.realized gains and losses on monetary assets and liabilities.",
+            "B": "B.realized gains and losses on non-monetary assets and liabilities.",
+            "C": "C.unrealized gains and losses on non-monetary assets and liabilities."
+        },
+        "answer": "C",
+        "explanation": "If the functional currency were changed from the parent currency (US dollar) to the\nlocal currency (Canadian dollar), the current rate method would replace the temporal method.\nThe temporal method ignores unrealized gains and losses on non-monetary assets and liabilities,\nbut the current rate method does not.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Currency translation methods, Unrealized gains and losses, Monetary vs non-monetary assets",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Consolidated Motors is a US-based corporation that sells mechanical engines and\ncomponents used by electric utilities. Its Canadian subsidiary, Consol-Can, operates solely in\nCanada. It was created on 31 December 20X1, and Consolidated Motors determined at that time\nthat it should use the US dollar as its functional currency.Chief Financial Officer Monica\nTempleton was asked to explain to the board of directors how exchange rates affect the\nfinancial statements of both Consol-Can and the consolidated financial statements of\nConsolidated Motors. For the presentation, Templeton collects Consol-Can's balance sheets for\nthe years ended 20X1 and 20X2 (Exhibit 1), as well as relevant exchange rate information\n(Exhibit 2).\n \nTempleton explains that Consol-Can uses the FIFO inventory accounting method and that purchases\nof C$300 million and the sell-through of that inventory occurred evenly throughout 20X2. Her\npresentation includes reporting the translated amounts in US dollars for each item, as well as\nassociated translation-related gains and losses. The board responds with several questions.\u25cf\nWould there be a reason to change the functional currency to the Canadian dollar?\u25cf Would there\nbe any translation effects for Consolidated Motors if the functional currency for Consol-Can\nwere changed to the Canadian dollar?\u25cf Would a change in the functional currency have any\nimpact on financial statement ratios for the parent company?\u25cf What would be the balance sheet\nexposure to translation effects if the functional currency were changed?\n "
+        ],
+        "question_number": "33",
+        "question_text": "In response to the board's third question, Templeton should note that the",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share29-34_1.png",
+            "FinancialStatementAnalysis_images/share29-34_2.png"
+        ],
+        "options": {
+            "A": "A.the cash ratio.",
+            "B": "B.fixed asset turnover.",
+            "C": "C.receivables turnover."
+        },
+        "answer": "B",
+        "explanation": "\u5982\u679cFunctional currency\u4ece\u7f8e\u5143\u53d8\u66f4\u4e3a\u52a0\u5143\uff0c\u5219Current rate method\u5c06\u53d6\u4ee3Temporal\nmethod\u3002Cash ratio\uff0cCurrent rate method\u4e0b\u5206\u5b50\u5206\u6bcd\u90fd\u7528\u671f\u672b\u6c47\u7387\uff1bTemporal method\u4e0b\u5206\u5b50\u662f\u8d27\u5e01\u6027\u8d44\n\u4ea7\uff0c\u5206\u6bcd\u662f\u8d27\u5e01\u6027\u8d1f\u503a\uff0c\u90fd\u7528\u671f\u672b\u6c47\u7387\u3002Fixed asset turnover=Sales/Fixed assets\uff0cCurrent rate\nmethod\u4e0b\u5206\u5b50\u7528\u5e73\u5747\u6c47\u7387\uff0c\u5206\u6bcd\u7528\u671f\u672b\u6c47\u7387\uff1bTemporal method\u4e0b\u5206\u5b50\u7528\u5e73\u5747\u6c47\u7387\uff0c\u5206\u6bcd\u7528\u5386\u53f2\u6c47\u7387\uff0c\u4e24\u8005\u4e0d\n\u4e00\u6837\u3002Receivables turnover=Sales/Accounts receivable\uff0cCurrent rate method\u4e0b\u5206\u5b50\u7528\u5e73\u5747\u6c47\u7387\uff0c\u5206\u6bcd\n\u7528\u671f\u672b\u6c47\u7387\uff1bTemporal method\u4e0b\u5206\u5b50\u7528\u5e73\u5747\u6c47\u7387\uff0c\u5206\u6bcd\u7528\u671f\u672b\u6c47\u7387\uff0c\u4e24\u8005\u4e00\u81f4\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency translation methods, Financial ratios, Temporal method",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Consolidated Motors is a US-based corporation that sells mechanical engines and\ncomponents used by electric utilities. Its Canadian subsidiary, Consol-Can, operates solely in\nCanada. It was created on 31 December 20X1, and Consolidated Motors determined at that time\nthat it should use the US dollar as its functional currency.Chief Financial Officer Monica\nTempleton was asked to explain to the board of directors how exchange rates affect the\nfinancial statements of both Consol-Can and the consolidated financial statements of\nConsolidated Motors. For the presentation, Templeton collects Consol-Can's balance sheets for\nthe years ended 20X1 and 20X2 (Exhibit 1), as well as relevant exchange rate information\n(Exhibit 2).\n \nTempleton explains that Consol-Can uses the FIFO inventory accounting method and that purchases\nof C$300 million and the sell-through of that inventory occurred evenly throughout 20X2. Her\npresentation includes reporting the translated amounts in US dollars for each item, as well as\nassociated translation-related gains and losses. The board responds with several questions.\u25cf\nWould there be a reason to change the functional currency to the Canadian dollar?\u25cf Would there\nbe any translation effects for Consolidated Motors if the functional currency for Consol-Can\nwere changed to the Canadian dollar?\u25cf Would a change in the functional currency have any\nimpact on financial statement ratios for the parent company?\u25cf What would be the balance sheet\nexposure to translation effects if the functional currency were changed?\n "
+        ],
+        "question_number": "34",
+        "question_text": "In response to the board's fourth question, the balance sheet exposure (in C$",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share29-34_1.png",
+            "FinancialStatementAnalysis_images/share29-34_2.png"
+        ],
+        "options": {
+            "A": "A.\u201319.",
+            "B": "B.148.",
+            "C": "C.400."
+        },
+        "answer": "B",
+        "explanation": "\u5982\u679cFunctional currency\u53d1\u751f\u53d8\u5316\uff0c\u4f7f\u7528Current rate method\uff0c\u8d44\u4ea7\u8d1f\u503a\u8868\u6298\u7b97\u655e\u53e3\u5c06\u7b49\u4e8e\n\u51c0\u8d44\u4ea7\uff08\u603b\u8d44\u4ea7-\u603b\u8d1f\u503a\uff09\u3002\u5728\u8fd9\u79cd\u60c5\u51b5\u4e0b\uff0c400\u201377\u2013175=148\u3002",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign exchange risk, Balance sheet exposure, Functional currency",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,\nthe firm's analyst responsible for the machinery industry, to discuss three established\ncompanies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd\nwith research notes for each company that reflect trends during the last three years:BIG\nIndustrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note\n2Accounts payable has increased, while accounts receivable and inventory have substantially\ndecreased.Note 3Although OCF was positive, it was just sufficient to cover capital\nexpenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have\nbeen relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in\nreceivables.Note 6OCF was stable and positive, close to its reported net income, and just\nsufficient to cover capital expenditures, dividends, and debt repayments.Dynamic\nProduction:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF\nhas fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks\nWebster about the use of quantitative tools to assess the likelihood of misreporting. Webster\ntells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company\nin Exhibit 1.\nWebster tells Dodd that Dynamic Production was required to restate its 2016 financial\nstatements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production\nwere encouraged to take excess product in 2016, and they were then allowed to return purchases\nin the subsequent period, without penalty.Webster's industry analysis leads her to believe that\ninnovations have caused some of the BIG Industrial's inventory to become obsolete. Webster\nexpresses concern to Dodd that although the notes to the financial statements for BIG\nIndustrial are informative about its inventory cost methods, its inventory is overstated.The\nBIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.\nWebster calculates the return on sales of BIG Industrial based on the reported income\nstatement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to\nuse a comparable method of calculating the return on sales for BIG Industrial.\n "
+        ],
+        "question_number": "35",
+        "question_text": "Which of Webster's notes about BIG Industrial provides an accounting warning",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share35-40_1.png"
+        ],
+        "options": {
+            "A": "A.Only Note 1",
+            "B": "B.Only Note 2",
+            "C": "C.Both Note 1 and Note 2"
+        },
+        "answer": "B",
+        "explanation": "\u53ea\u6709Note 2\u63d0\u4f9b\u4e86\u8b66\u544a\u6807\u5fd7\u3002\u5e94\u4ed8\u8d26\u6b3e\u7684\u589e\u52a0\u4e0e\u5e94\u6536\u8d26\u6b3e\u548c\u5b58\u8d27\u7684\u5927\u5e45\u51cf\u5c11\u76f8\u7ed3\u5408\uff0c\u662f\u4e00\u4e2a\u4f1a\n\u8ba1\u8b66\u544a\u4fe1\u53f7\uff0c\u8868\u660e\u7ba1\u7406\u5c42\u53ef\u80fd\u5938\u5927\u4e86\u7ecf\u8425\u6d3b\u52a8\u4ea7\u751f\u7684\u73b0\u91d1\u6d41\u91cf\u3002Note 1\u4e0d\u4e00\u5b9a\u63d0\u4f9b\u8b66\u544a\u6807\u5fd7\u3002\u8425\u4e1a\u6536\u5165\u5927\u4e8e\n\u8425\u4e1a\u73b0\u91d1\u6d41\u662f\u6f5c\u5728\u62a5\u544a\u95ee\u9898\u7684\u8b66\u544a\u4fe1\u53f7\u3002\u5728\u8fd9\u79cd\u60c5\u51b5\u4e0b\uff0cBIG\u7684\u8425\u4e1a\u6536\u5165\u4f4e\u4e8e\u5176\u8425\u4e1a\u73b0\u91d1\u6d41\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial Statement Analysis, Red Flags in Financial Reporting, Cash Flow Analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,\nthe firm's analyst responsible for the machinery industry, to discuss three established\ncompanies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd\nwith research notes for each company that reflect trends during the last three years:BIG\nIndustrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note\n2Accounts payable has increased, while accounts receivable and inventory have substantially\ndecreased.Note 3Although OCF was positive, it was just sufficient to cover capital\nexpenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have\nbeen relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in\nreceivables.Note 6OCF was stable and positive, close to its reported net income, and just\nsufficient to cover capital expenditures, dividends, and debt repayments.Dynamic\nProduction:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF\nhas fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks\nWebster about the use of quantitative tools to assess the likelihood of misreporting. Webster\ntells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company\nin Exhibit 1.\nWebster tells Dodd that Dynamic Production was required to restate its 2016 financial\nstatements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production\nwere encouraged to take excess product in 2016, and they were then allowed to return purchases\nin the subsequent period, without penalty.Webster's industry analysis leads her to believe that\ninnovations have caused some of the BIG Industrial's inventory to become obsolete. Webster\nexpresses concern to Dodd that although the notes to the financial statements for BIG\nIndustrial are informative about its inventory cost methods, its inventory is overstated.The\nBIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.\nWebster calculates the return on sales of BIG Industrial based on the reported income\nstatement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to\nuse a comparable method of calculating the return on sales for BIG Industrial.\n "
+        ],
+        "question_number": "36",
+        "question_text": "Do either of Webster's Notes 4 or 5 about Construction Supply describe an",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share35-40_1.png"
+        ],
+        "options": {
+            "A": "A.No",
+            "B": "B.Yes, Note 4 provides a warning sign",
+            "C": "C.Yes, Note 5 provides a warning sign"
+        },
+        "answer": "A",
+        "explanation": "Note 4\u548cNote 5\u5747\u672a\u63d0\u4f9b\u8425\u4e1a\u6536\u5165\u53ef\u80fd\u5b58\u5728\u591a\u62a5\u6216\u4e0d\u53ef\u6301\u7eed\u6027\u7684\u4f1a\u8ba1\u8b66\u544a\u8ff9\u8c61\u3002Note 5\u8bf4\u660e\u8fc7\n\u53bb\u4e09\u5e74\uff0cConstruction Supply\u7684\u8425\u4e1a\u5229\u6da6\u7387\u76f8\u5bf9\u7a33\u5b9a\u3002Note 5\u8868\u660e\u6536\u5165\u7684\u589e\u957f\u8d85\u8fc7\u5e94\u6536\u7684\u589e\u957f\uff0c\u8bc1\u660e\u66f4\u591a\u7684\n\u589e\u957f\u90e8\u5206\u662f\u73b0\u91d1\u6d41\u6536\u5165\u5e26\u6765\u7684\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Accounting Warning Signs, Revenue Sustainability, Financial Statement Analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,\nthe firm's analyst responsible for the machinery industry, to discuss three established\ncompanies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd\nwith research notes for each company that reflect trends during the last three years:BIG\nIndustrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note\n2Accounts payable has increased, while accounts receivable and inventory have substantially\ndecreased.Note 3Although OCF was positive, it was just sufficient to cover capital\nexpenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have\nbeen relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in\nreceivables.Note 6OCF was stable and positive, close to its reported net income, and just\nsufficient to cover capital expenditures, dividends, and debt repayments.Dynamic\nProduction:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF\nhas fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks\nWebster about the use of quantitative tools to assess the likelihood of misreporting. Webster\ntells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company\nin Exhibit 1.\nWebster tells Dodd that Dynamic Production was required to restate its 2016 financial\nstatements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production\nwere encouraged to take excess product in 2016, and they were then allowed to return purchases\nin the subsequent period, without penalty.Webster's industry analysis leads her to believe that\ninnovations have caused some of the BIG Industrial's inventory to become obsolete. Webster\nexpresses concern to Dodd that although the notes to the financial statements for BIG\nIndustrial are informative about its inventory cost methods, its inventory is overstated.The\nBIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.\nWebster calculates the return on sales of BIG Industrial based on the reported income\nstatement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to\nuse a comparable method of calculating the return on sales for BIG Industrial.\n "
+        ],
+        "question_number": "37",
+        "question_text": "Based on Webster's research notes, which company would most likely be",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share35-40_1.png"
+        ],
+        "options": {
+            "A": "A.BIG Industrial",
+            "B": "B.Construction Supply",
+            "C": "C.Dynamic Production"
+        },
+        "answer": "B",
+        "explanation": "B\u516c\u53f8Note2\u662f\u8b66\u544a\u4fe1\u53f7\uff0cNote1\u548cNote3\u4e0d\u662f\u8b66\u544a\u4fe1\u53f7\uff1bC\u516c\u53f8Note4\u30015\u30016\u90fd\u4e0d\u662f\u8b66\u544a\u4fe1\u53f7\uff1bD\u516c\n\u53f8Note7\u30018\u90fd\u4e0d\u662f\u8b66\u544a\u4fe1\u53f7\u3002Note3\u30016\u30017\u30018\u90fd\u662f\u8bb2\u7ecf\u8425\u73b0\u91d1\u6d41\u7684\u95ee\u9898\uff0c\u5176\u4e2dNote6\u8bf4\u660e\u7ecf\u8425\u73b0\u91d1\u6d41\u7a33\u5b9a\u4e14\u4e3a\n\u6b63\uff0c\u80fd\u591f\u652f\u4ed8\u8d44\u672c\u652f\u51fa\uff0c\u80a1\u5229\u548c\u507f\u8fd8\u503a\u52a1\uff1bNote3\u672a\u8bf4\u660e\u7a33\u5b9a\uff0c\u5219C\u516c\u53f8\u597d\u4e8eB\u516c\u53f8\u3002Note7\u548cNote8\u4e2d\u8bf4\u660e\u7ecf\u8425\n\u73b0\u91d1\u6d41\u6bd4\u540c\u884c\u5176\u4ed6\u516c\u53f8\u66f4\u6ce2\u52a8\uff0c\u4e0d\u80fd\u8986\u76d6\u8d44\u672c\u652f\u51fa\u7b49\uff0c\u5219C\u516c\u53f8\u597d\u4e8eD\u516c\u53f8\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial statement analysis, Cash flow analysis, Credit risk assessment",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,\nthe firm's analyst responsible for the machinery industry, to discuss three established\ncompanies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd\nwith research notes for each company that reflect trends during the last three years:BIG\nIndustrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note\n2Accounts payable has increased, while accounts receivable and inventory have substantially\ndecreased.Note 3Although OCF was positive, it was just sufficient to cover capital\nexpenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have\nbeen relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in\nreceivables.Note 6OCF was stable and positive, close to its reported net income, and just\nsufficient to cover capital expenditures, dividends, and debt repayments.Dynamic\nProduction:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF\nhas fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks\nWebster about the use of quantitative tools to assess the likelihood of misreporting. Webster\ntells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company\nin Exhibit 1.\nWebster tells Dodd that Dynamic Production was required to restate its 2016 financial\nstatements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production\nwere encouraged to take excess product in 2016, and they were then allowed to return purchases\nin the subsequent period, without penalty.Webster's industry analysis leads her to believe that\ninnovations have caused some of the BIG Industrial's inventory to become obsolete. Webster\nexpresses concern to Dodd that although the notes to the financial statements for BIG\nIndustrial are informative about its inventory cost methods, its inventory is overstated.The\nBIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.\nWebster calculates the return on sales of BIG Industrial based on the reported income\nstatement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to\nuse a comparable method of calculating the return on sales for BIG Industrial.\n "
+        ],
+        "question_number": "38",
+        "question_text": "Based on the Beneish model results for 2017 in Exhibit 1, which company has",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share35-40_1.png"
+        ],
+        "options": {
+            "A": "A.BIG Industrial",
+            "B": "B.Construction Supply",
+            "C": "C.Dynamic Production"
+        },
+        "answer": "A",
+        "explanation": "M-scores\u8d8a\u9ad8\uff0c\u8bf4\u660e\u76c8\u4f59\u64cd\u7eb5\u7684\u53ef\u80fd\u6027\u8d8a\u5927\u30022017\u5e74M-scores\u6700\u9ad8\u7684\u516c\u53f8\u662fB\u516c\u53f8\uff0cM\u5f97\u5206\u4e3a-\n1.54\u3002C\u5f97\u5206\u6700\u4f4e\uff0c\u4e3a-2.60\u5206\uff0cD\u4e5f\u8f83\u4f4e\uff0c\u4e3a-1.86\u5206\u3002B\u7684M\u5206\u6570\u9ad8\u4e8e\u76f8\u5173\u7684\u4e34\u754c\u503c-1.78\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial statement analysis, Forensic accounting, Earnings manipulation detection",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,\nthe firm's analyst responsible for the machinery industry, to discuss three established\ncompanies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd\nwith research notes for each company that reflect trends during the last three years:BIG\nIndustrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note\n2Accounts payable has increased, while accounts receivable and inventory have substantially\ndecreased.Note 3Although OCF was positive, it was just sufficient to cover capital\nexpenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have\nbeen relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in\nreceivables.Note 6OCF was stable and positive, close to its reported net income, and just\nsufficient to cover capital expenditures, dividends, and debt repayments.Dynamic\nProduction:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF\nhas fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks\nWebster about the use of quantitative tools to assess the likelihood of misreporting. Webster\ntells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company\nin Exhibit 1.\nWebster tells Dodd that Dynamic Production was required to restate its 2016 financial\nstatements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production\nwere encouraged to take excess product in 2016, and they were then allowed to return purchases\nin the subsequent period, without penalty.Webster's industry analysis leads her to believe that\ninnovations have caused some of the BIG Industrial's inventory to become obsolete. Webster\nexpresses concern to Dodd that although the notes to the financial statements for BIG\nIndustrial are informative about its inventory cost methods, its inventory is overstated.The\nBIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.\nWebster calculates the return on sales of BIG Industrial based on the reported income\nstatement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to\nuse a comparable method of calculating the return on sales for BIG Industrial.\n "
+        ],
+        "question_number": "39",
+        "question_text": "Based on the information related to its restatement, Dynamic Production",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share35-40_1.png"
+        ],
+        "options": {
+            "A": "A.inventories.",
+            "B": "B.net income.",
+            "C": "C.trade receivables."
+        },
+        "answer": "A",
+        "explanation": "\u9898\u4e2d\u8bf4\u5230\uff0cD\u516c\u53f8\u88ab\u8981\u6c42restate\u8d22\u62a5\uff0c\u539f\u56e0\u662f\u865a\u9ad8\u7684\u9500\u552e\u5229\u6da6\uff0cD\u516c\u53f8\u9f13\u52b1\u5ba2\u6237\u53ef\u4ee5\u65e0\u507f\u9000\u8d27\u3002\n\u5982\u679c\u662f\u4e0a\u8ff0\u8fd9\u79cd\u60c5\u51b5\uff0c\u5c31\u662f\u5b58\u8d27\u51cf\u5c0f\uff0c\u51c0\u5229\u6da6\u589e\u9ad8\uff0c\u8d38\u6613\u5e94\u6536\u589e\u9ad8\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial Statement Restatements, Earnings Management, Inventory Valuation",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,\nthe firm's analyst responsible for the machinery industry, to discuss three established\ncompanies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd\nwith research notes for each company that reflect trends during the last three years:BIG\nIndustrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note\n2Accounts payable has increased, while accounts receivable and inventory have substantially\ndecreased.Note 3Although OCF was positive, it was just sufficient to cover capital\nexpenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have\nbeen relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in\nreceivables.Note 6OCF was stable and positive, close to its reported net income, and just\nsufficient to cover capital expenditures, dividends, and debt repayments.Dynamic\nProduction:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF\nhas fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks\nWebster about the use of quantitative tools to assess the likelihood of misreporting. Webster\ntells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company\nin Exhibit 1.\nWebster tells Dodd that Dynamic Production was required to restate its 2016 financial\nstatements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production\nwere encouraged to take excess product in 2016, and they were then allowed to return purchases\nin the subsequent period, without penalty.Webster's industry analysis leads her to believe that\ninnovations have caused some of the BIG Industrial's inventory to become obsolete. Webster\nexpresses concern to Dodd that although the notes to the financial statements for BIG\nIndustrial are informative about its inventory cost methods, its inventory is overstated.The\nBIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.\nWebster calculates the return on sales of BIG Industrial based on the reported income\nstatement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to\nuse a comparable method of calculating the return on sales for BIG Industrial.\n "
+        ],
+        "question_number": "40",
+        "question_text": "Webster's concern about BIG Industrial's inventory suggests poor reporting",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share35-40_1.png"
+        ],
+        "options": {
+            "A": "A.completeness.",
+            "B": "B.clear presentation.",
+            "C": "C.unbiased measurement."
+        },
+        "answer": "C",
+        "explanation": "W\u62c5\u5fc3\uff0c\u521b\u65b0\u5df2\u7ecf\u4f7f\u4e00\u4e9bBIG\u7684\u5e93\u5b58\u8fc7\u671f\u3002\u4f46\u516c\u53f8\u6ca1\u6709\u51cf\u8bb0\uff0c\u5b58\u8d27\u504f\u9ad8\u3002\u5b58\u8d27\u4f59\u989d\u4e0d\u53cd\u6620\u65e0\u504f\u8ba1\n\u91cf\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial statement analysis, Inventory valuation, Accounting principles",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,\nthe firm's analyst responsible for the machinery industry, to discuss three established\ncompanies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd\nwith research notes for each company that reflect trends during the last three years:BIG\nIndustrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note\n2Accounts payable has increased, while accounts receivable and inventory have substantially\ndecreased.Note 3Although OCF was positive, it was just sufficient to cover capital\nexpenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have\nbeen relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in\nreceivables.Note 6OCF was stable and positive, close to its reported net income, and just\nsufficient to cover capital expenditures, dividends, and debt repayments.Dynamic\nProduction:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF\nhas fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks\nWebster about the use of quantitative tools to assess the likelihood of misreporting. Webster\ntells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company\nin Exhibit 1.\nWebster tells Dodd that Dynamic Production was required to restate its 2016 financial\nstatements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production\nwere encouraged to take excess product in 2016, and they were then allowed to return purchases\nin the subsequent period, without penalty.Webster's industry analysis leads her to believe that\ninnovations have caused some of the BIG Industrial's inventory to become obsolete. Webster\nexpresses concern to Dodd that although the notes to the financial statements for BIG\nIndustrial are informative about its inventory cost methods, its inventory is overstated.The\nBIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.\nWebster calculates the return on sales of BIG Industrial based on the reported income\nstatement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to\nuse a comparable method of calculating the return on sales for BIG Industrial.\n "
+        ],
+        "question_number": "41",
+        "question_text": "In response to Dodd's request, Webster's recalculated return on sales will",
+        "image": "",
+        "options": {
+            "A": "A.decrease.",
+            "B": "B.remain the same.",
+            "C": "C.increase."
+        },
+        "answer": "A",
+        "explanation": "Profitable 49% unconsolidated equity investment.\u6ca1\u6709\u5408\u5e76\u62a5\u8868\u6295\u8d44\uff0c\u7528Equity method\u3002\n\u5176\u4ed6\u516c\u53f8\u5408\u5e76\u62a5\u8868\u3002\u6743\u76ca\u6cd5\u6216\u5408\u5e76\u62a5\u8868\uff0c\u5176NI\u662f\u76f8\u540c\u7684\u3002\u4f46\u662f\u5408\u5e76\u62a5\u8868\u540e\uff0cSales\u662f\u5347\u9ad8\u7684\u3002\u90a3\u4e48\u5982\u679c\u4ece\u4e0d\u5408\n\u5e76\u62a5\u8868\uff0c\u8f6c\u4e3a\u5408\u5e76\u62a5\u8868\uff0c\u5bfc\u81f4\u5206\u5b50NI\u4e0d\u53d8\uff0c\u5206\u6bcdSales\u589e\u5927\uff0c\u6574\u4f53\u51cf\u5c0f\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial Statement Analysis, Corporate Finance, Accounting Methods",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BetterCare Hospitals, Inc. operates a chain of hospitals throughout the United States.\nThe company has been expanding by acquiring local hospitals. Its largest acquisition, that of\nStatewide Medical, was made in 2001 under the pooling of interests method.BetterCare complies\nwith US GAAP.BetterCare is currently forming a 50/50 joint venture with Supreme Healthcare\nunder which the companies will share control of several hospitals. BetterCare plans to use the\nequity method to account for the joint venture. Supreme Healthcare complies with IFRS and will\nuse the proportionate consolidation method to account for the joint venture.Erik Ohalin is an\nequity analyst who covers both companies. He has estimated the joint venture's financial\ninformation for 2018 in order to prepare his estimates of each company's earnings and financial\nperformance. This information is presented in Exhibit 1.\nSupreme Healthcare recently announced it had formed a special purpose entity through which it\nplans to sell up to $100 million of its accounts receivable. Supreme Healthcare has no voting\ninterest in the SPE, but it is expected to absorb any losses that it may incur. Ohalin wants to\nestimate the impact this will have on Supreme Healthcare's consolidated financial statements.\n "
+        ],
+        "question_number": "42",
+        "question_text": "Compared to accounting principles currently in use, the pooling method",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share42-47_1.png"
+        ],
+        "options": {
+            "A": "A.revenue to be higher.",
+            "B": "B.total equity to be lower.",
+            "C": "C.total assets to be higher."
+        },
+        "answer": "B",
+        "explanation": "Pooling method\u662f\u8fc7\u53bb\u5141\u8bb8\u7684\uff0c\u73b0\u5728\u5e94\u8be5\u7528Acquisition method\uff0c\u6b64\u9898\u5c31\u662f\u4e24\u79cd\u65b9\u6cd5\u5bf9\u6bd4\u3002\u7528\nPooling method\u6838\u7b97\uff0c\u6240\u6709\u8d44\u4ea7\u548c\u8d1f\u503a\u6309\u5386\u53f2\u8d26\u9762\u4ef7\u503c\u5217\u62a5\uff0c\u91c7\u7528\u5386\u53f2\u8d26\u9762\u4ef7\u503c\u6cd5\u7684\u8d44\u4ea7\u8d85\u8fc7\u8d1f\u503a\u7684\u90e8\u5206\n\uff08\u6743\u76ca\uff09\u901a\u5e38\u4f4e\u4e8e\u91c7\u7528\u516c\u5141\u4ef7\u503c\u6cd5\u7684\u90e8\u5206\u3002\u5bf9\u6536\u5165\u6ca1\u6709\u5f71\u54cd\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Acquisition method vs. Pooling method, Historical cost vs. Fair value accounting, Balance sheet items recognition",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BetterCare Hospitals, Inc. operates a chain of hospitals throughout the United States.\nThe company has been expanding by acquiring local hospitals. Its largest acquisition, that of\nStatewide Medical, was made in 2001 under the pooling of interests method.BetterCare complies\nwith US GAAP.BetterCare is currently forming a 50/50 joint venture with Supreme Healthcare\nunder which the companies will share control of several hospitals. BetterCare plans to use the\nequity method to account for the joint venture. Supreme Healthcare complies with IFRS and will\nuse the proportionate consolidation method to account for the joint venture.Erik Ohalin is an\nequity analyst who covers both companies. He has estimated the joint venture's financial\ninformation for 2018 in order to prepare his estimates of each company's earnings and financial\nperformance. This information is presented in Exhibit 1.\nSupreme Healthcare recently announced it had formed a special purpose entity through which it\nplans to sell up to $100 million of its accounts receivable. Supreme Healthcare has no voting\ninterest in the SPE, but it is expected to absorb any losses that it may incur. Ohalin wants to\nestimate the impact this will have on Supreme Healthcare's consolidated financial statements.\n "
+        ],
+        "question_number": "43",
+        "question_text": "Based on Ohalin's estimates, the amount of joint venture revenue (in $",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share42-47_1.png"
+        ],
+        "options": {
+            "A": "A.$0.",
+            "B": "B.$715.",
+            "C": "C.$1,430."
+        },
+        "answer": "A",
+        "explanation": "Equity method\u4e0b\uff0cBetterCare\u5c06\u5176\u5728\u5408\u8d44\u4f01\u4e1aNI\u7684\u6295\u8d44\u6536\u76ca\u5355\u9879\u8bb0\u5f55\uff0c\u4e0d\u4f1a\u9010\u884c\u663e\u793a\u5bf9\u6536\u5165\u6216\n\u8d39\u7528\u7684\u8d21\u732e\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity method, Joint venture accounting, Financial statement analysis",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BetterCare Hospitals, Inc. operates a chain of hospitals throughout the United States.\nThe company has been expanding by acquiring local hospitals. Its largest acquisition, that of\nStatewide Medical, was made in 2001 under the pooling of interests method.BetterCare complies\nwith US GAAP.BetterCare is currently forming a 50/50 joint venture with Supreme Healthcare\nunder which the companies will share control of several hospitals. BetterCare plans to use the\nequity method to account for the joint venture. Supreme Healthcare complies with IFRS and will\nuse the proportionate consolidation method to account for the joint venture.Erik Ohalin is an\nequity analyst who covers both companies. He has estimated the joint venture's financial\ninformation for 2018 in order to prepare his estimates of each company's earnings and financial\nperformance. This information is presented in Exhibit 1.\nSupreme Healthcare recently announced it had formed a special purpose entity through which it\nplans to sell up to $100 million of its accounts receivable. Supreme Healthcare has no voting\ninterest in the SPE, but it is expected to absorb any losses that it may incur. Ohalin wants to\nestimate the impact this will have on Supreme Healthcare's consolidated financial statements.\n "
+        ],
+        "question_number": "44",
+        "question_text": "Based on Ohalin's estimates, the amount of joint venture net income included",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share42-47_1.png"
+        ],
+        "options": {
+            "A": "A.higher for BetterCare.",
+            "B": "B.higher for Supreme Healthcare.",
+            "C": "C.the same for both BetterCare and Supreme Healthcare."
+        },
+        "answer": "C",
+        "explanation": "Net income will be the same under the equity method and proportional consolidation.\nHowever, sales, cost of sales, and expenses are different because under the equity method the\nnet effect of sales, cost of sales, and expenses is reflected in a single line.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity Method, Proportional Consolidation, Joint Venture Accounting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BetterCare Hospitals, Inc. operates a chain of hospitals throughout the United States.\nThe company has been expanding by acquiring local hospitals. Its largest acquisition, that of\nStatewide Medical, was made in 2001 under the pooling of interests method.BetterCare complies\nwith US GAAP.BetterCare is currently forming a 50/50 joint venture with Supreme Healthcare\nunder which the companies will share control of several hospitals. BetterCare plans to use the\nequity method to account for the joint venture. Supreme Healthcare complies with IFRS and will\nuse the proportionate consolidation method to account for the joint venture.Erik Ohalin is an\nequity analyst who covers both companies. He has estimated the joint venture's financial\ninformation for 2018 in order to prepare his estimates of each company's earnings and financial\nperformance. This information is presented in Exhibit 1.\nSupreme Healthcare recently announced it had formed a special purpose entity through which it\nplans to sell up to $100 million of its accounts receivable. Supreme Healthcare has no voting\ninterest in the SPE, but it is expected to absorb any losses that it may incur. Ohalin wants to\nestimate the impact this will have on Supreme Healthcare's consolidated financial statements.\n "
+        ],
+        "question_number": "45",
+        "question_text": "Based on Ohalin's estimates, the amount of the joint venture's 31 December",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share42-47_1.png"
+        ],
+        "options": {
+            "A": "A.$0.",
+            "B": "B.$750.",
+            "C": "C.$1,500."
+        },
+        "answer": "B",
+        "explanation": "Under the proportionate consolidation method, Supreme Healthcare's consolidated\nfinancial statements will include its 50 percent share of the joint venture's total assets.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial reporting, Joint ventures accounting, Proportionate consolidation method",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BetterCare Hospitals, Inc. operates a chain of hospitals throughout the United States.\nThe company has been expanding by acquiring local hospitals. Its largest acquisition, that of\nStatewide Medical, was made in 2001 under the pooling of interests method.BetterCare complies\nwith US GAAP.BetterCare is currently forming a 50/50 joint venture with Supreme Healthcare\nunder which the companies will share control of several hospitals. BetterCare plans to use the\nequity method to account for the joint venture. Supreme Healthcare complies with IFRS and will\nuse the proportionate consolidation method to account for the joint venture.Erik Ohalin is an\nequity analyst who covers both companies. He has estimated the joint venture's financial\ninformation for 2018 in order to prepare his estimates of each company's earnings and financial\nperformance. This information is presented in Exhibit 1.\nSupreme Healthcare recently announced it had formed a special purpose entity through which it\nplans to sell up to $100 million of its accounts receivable. Supreme Healthcare has no voting\ninterest in the SPE, but it is expected to absorb any losses that it may incur. Ohalin wants to\nestimate the impact this will have on Supreme Healthcare's consolidated financial statements.\n "
+        ],
+        "question_number": "46",
+        "question_text": "Based on Ohalin's estimates, the amount of joint venture shareholders' equity",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share42-47_1.png"
+        ],
+        "options": {
+            "A": "A.higher for BetterCare.",
+            "B": "B.higher for Supreme Healthcare.",
+            "C": "C.the same for both BetterCare and Supreme Healthcare."
+        },
+        "answer": "C",
+        "explanation": "The choice of equity method or proportionate consolidation does not affect reported\nshareholders' equity.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity Method, Proportionate Consolidation, Shareholders' Equity",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BetterCare Hospitals, Inc. operates a chain of hospitals throughout the United States.\nThe company has been expanding by acquiring local hospitals. Its largest acquisition, that of\nStatewide Medical, was made in 2001 under the pooling of interests method.BetterCare complies\nwith US GAAP.BetterCare is currently forming a 50/50 joint venture with Supreme Healthcare\nunder which the companies will share control of several hospitals. BetterCare plans to use the\nequity method to account for the joint venture. Supreme Healthcare complies with IFRS and will\nuse the proportionate consolidation method to account for the joint venture.Erik Ohalin is an\nequity analyst who covers both companies. He has estimated the joint venture's financial\ninformation for 2018 in order to prepare his estimates of each company's earnings and financial\nperformance. This information is presented in Exhibit 1.\nSupreme Healthcare recently announced it had formed a special purpose entity through which it\nplans to sell up to $100 million of its accounts receivable. Supreme Healthcare has no voting\ninterest in the SPE, but it is expected to absorb any losses that it may incur. Ohalin wants to\nestimate the impact this will have on Supreme Healthcare's consolidated financial statements.\n "
+        ],
+        "question_number": "47",
+        "question_text": "If Supreme Healthcare sells its receivables to the SPE, its consolidated",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share42-47_1.png"
+        ],
+        "options": {
+            "A": "A.a higher revenue for 2018.",
+            "B": "B.the same cash balance at 31 December 2018.",
+            "C": "C.the same accounts receivable balance at 31 December 2018."
+        },
+        "answer": "A",
+        "explanation": "Supreme Healthcare\u201c\u5b9e\u8d28\u4e0a\u201d\u63a7\u5236SPE\u5e76\u5c06\u5176\u5408\u5e76\u3002\u5728\u5408\u5e76\u8d44\u4ea7\u8d1f\u503a\u8868\u4e0a\uff0c\u5e94\u6536\u8d26\u6b3e\u4f59\u989d\u5c06\u76f8\n\u540c\uff0c\u56e0\u4e3a\u51fa\u552e\u7ed9SPE\u7684\u6b3e\u9879\u5c06\u5728\u5408\u5e76\u65f6\u8f6c\u56de\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Consolidation accounting, Special purpose entities (SPEs), Accounts receivable management",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "48",
+        "question_text": "Which transaction would generate foreign currency transaction exposure for",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.Transaction 1",
+            "B": "B.Transaction 2",
+            "C": "C.Transaction 3"
+        },
+        "answer": "C",
+        "explanation": "In Transaction 3, the payment for the inventory is due in Bindiar francs, a\ndifferent currency from the Norvoltian krone, which is Ambleu's presentation currency. Because\nthe import purchase (account payable) is under 45-day credit terms, Ambleu has foreign currency\ntransaction exposure. The payment is subject to fluctuations in the FB/NVK exchange rate during\nthe 45-day period between the sale and payment dates. Thus, Ambleu is exposed to potential\nforeign currency gains if the Bindiar franc weakens against the Norvoltian krone or foreign\ncurrency losses if the Bindiar franc strengthens against the Norvoltian krone.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Foreign currency transaction exposure, Exchange rate fluctuations, Accounts payable",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "49",
+        "question_text": "Yu's determination regarding Transaction 2 should be based on the currency of",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.loan.",
+            "B": "B.bank.",
+            "C": "C.borrower."
+        },
+        "answer": "C",
+        "explanation": "The currency of Ngcorp as the borrowing foreign subsidiary, relative to that of\nAmbleu, determines Ambleu's choice of translation method for Transaction 2. Because Ngcorp's\nfunctional currency is the Bindiar franc and Ambleu's presentation currency is the Norvoltian\nkrone, the current rate method rather than the temporal method should be used. Regardless of\nthe currency in which the loan is denominated, the loan is first recorded in Ngcorp's financial\nstatements. Then, Ngcorp's financial statements, which include the bank loan, are translated\ninto Ambleu's consolidated financial statements.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Currency translation methods, Functional currency, Financial statement consolidation",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "50",
+        "question_text": "Based on Exhibit 1, what is the foreign exchange gain resulting from",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.NVK1.70 per ton",
+            "B": "B.NVK90.75 per ton",
+            "C": "C.NVK248.54 per ton"
+        },
+        "answer": "A",
+        "explanation": "On Ambleu's balance sheet, the cost included in the inventory account is the\ntranslation of FB27,000/ton into Norvoltian krone on the purchase date. Ambleu could have paid\nthis amount on the purchase date but chose to wait 45 days to settle the account. The inventory\ncost is determined using the FB/NVK exchange rate of 4.1779 on the purchase date of 1 June\n2016.FB27,000/FB4.1779/NVK = NVK6,462.58/tonThe cash outflow is the amount exchanged from the\nNorvoltian krone to the Bindiar franc to pay the FB27,000/ton owed for the inventory 45 days\nafter the transaction date. This payment uses the FB/NVK exchange rate of 4.1790 on the\nsettlement date of 15 July 2016.FB 27,000/FB4.1790 per NVK = NVK6,460.88/tonForeign exchange\ngain = Inventory cost \u2013 Cash payment= NVK6,462.58 \u2013 NVK6,460.88= NVK1.70/tonThus, Ambleu's\ncash outflow is less than the cost included in the inventory account, and NVK1.70/ton is the\nrealized foreign exchange gain relating to this transaction. By deferring payment for 45 days,\nand because the Bindiar franc decreased in value during this period, Ambleu pays NVK1.70/ton\nless than the inventory cost on the purchase date of 1 June 2016. Thus, Ambleu will report a\nforeign exchange gain in its 2016 net income.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign exchange risk, Currency translation, Inventory accounting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "51",
+        "question_text": "What is the best response to Question 1?",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.Yes",
+            "B": "B.No, because it would reduce organic sales growth",
+            "C": "C.No, because it would reduce net price realization and mix"
+        },
+        "answer": "A",
+        "explanation": "Net sales growth equals organic sales growth plus or minus the effects of\nacquisitions, divestitures, and foreign exchange. A foreign currency translation loss would\nreduce net sales growth. Thus the answer to Question 1 is yes.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial metrics, Foreign exchange impact, Organic sales growth",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "52",
+        "question_text": "Based on Exhibit 1, the best response to Question 2 is that Ambleu should",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.a restatement for local inflation.",
+            "B": "B.that assets carried at historical cost are translated at historical rates.",
+            "C": "C.the amount of foreign exchange differences included in net income."
+        },
+        "answer": "C",
+        "explanation": "A.\u901a\u80c0\u7387\u4e3a2%\uff0c3%\uff0c\u4e0d\u662f\u6076\u6027\u901a\u80c0\uff0c\u6211\u4eec\u4e0d\u9700\u8981\u8c03\u6574\uff0c\u6240\u4ee5\u4e0d\u7528restatement\uff1bB.\u4e24\u4e2a\u5b50\u516c\u53f8\u7528\n\u7684\u5747\u4e3aCurrent method\uff0c\u4e0d\u7528historical rates\uff1b\u6392\u9664\u6cd5\uff0c\u7b54\u6848\u9009C\u3002C.the amount of foreign exchange\ndifference,\u5728\u6b64\u6307\u7684\u662fForeign currency transaction G/L\uff0c\u9700\u8981\u653e\u5728\u5229\u6da6\u8868\u4e2d\uff0c\u800c\u4e14\u9700\u8981\u62ab\u9732\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Foreign currency transaction gain/loss, Current method translation, Inflation adjustment",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "53",
+        "question_text": "Based on Exhibit 1 and Note 1 in Exhibit 2, the amount that Ambleu should",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.NVK10.60 million.",
+            "B": "B.NVK13.25 million.",
+            "C": "C.NVK19.73 million."
+        },
+        "answer": "A",
+        "explanation": "Crenland experienced hyperinflation from 31 December 2015 to 31 December 2017, as\nshown by the General Price Index, with cumulative inflation of 128.2% during this period.\nAccording to IFRS, Cendar\u00f3's financial statements must be restated for local inflation, then\ntranslated into Norvoltian kroner using the current exchange rate. The 2017 revenue from\nCendar\u00f3 that should be included in Ambleu's income statement is calculated as follows:Revenue\nin CRG \u00d7 (GPI 31 December 2017/GPI average 2017) = Inflation-adjusted revenue in CRGCRG125.23\nmillion \u00d7 (228.2/186.2) = CRG153.48 millionInflation-adjusted revenue in CRG/31 December 2017\nexchange rate (CRG/NVK) = Revenue in Norvoltian kronerCRG153.48 million/14.4810 = NVK10.60\nmillion",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Inflation Accounting, Foreign Exchange Translation, IFRS Compliance",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "54",
+        "question_text": "Based on Exhibit 2 and Note 2, the change in Ambleu's consolidated income tax",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.decrease in Ambleu's domestic tax rate.",
+            "B": "B.more profitable business mix in its subsidiaries.",
+            "C": "C.stronger Norvoltian krone relative to the currencies of its subsidiaries."
+        },
+        "answer": "B",
+        "explanation": "The consolidated income tax rate is calculated as income tax expense divided by\nprofit before tax. Note 2 shows that Ambleu's consolidated income tax rate decreases by 2.29%,\nfrom 34.94% (=94/269) in 2016 to 32.65% (=96/294) in 2017. The largest component of the\ndecrease stems from the 1.42% change in the effect of tax rates in non-domestic jurisdictions,\nwhich lowers Ambleu's consolidated income tax rate in 2016 by 3.34% (=9/269) and in 2017 by\n4.76% (=14/294). The decrease in 2017 could indicate that Ambleu's business mix shifted to\ncountries with lower marginal tax rates, resulting in a lower consolidated income tax rate and\nmore profit. (The change could also indicate that the marginal tax rates decreased in the\ncountries in which Ambleu earns profits.)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Income tax expense, Profit before tax, Marginal tax rates",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "55",
+        "question_text": "Based on Exhibit 1 and Note 3 in Exhibit 2, the cumulative translation loss",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.NVK0.39 million.",
+            "B": "B.NVK1.58 million",
+            "C": "C.NVK9.12 million."
+        },
+        "answer": "B",
+        "explanation": "IAS 29 indicates that a cumulative inflation rate approaching or exceeding 100\\% over three years would be an indicator of hyperinflation. Because the cumulative inflation rate for 2016 and 2017 in Crenland was 128.2\\%, Cendaro\u2019s accounts must first be restated for local inflation. Then, the inflation-restated Crenland guinea financial statements can be translated into Ambleu\u2019s presentation currency, the Norvoltian krone, using the current exchange rate. Using this approach, the cumulative translation loss on 31 December 2017 for the CRG85.17 million patent purchase is -NVK1.58 million, as shown in the following table.\n\n| Date               | Inflation Rate (\\%) | Restated Carrying Value (CRG/MM) | Current Exchange Rate (CRG/NVK) | Translated Amount (NVK/MM) | Annual Translation Gain/Loss (NVK/MM) | Cumulative Translation Gain/Loss (NVK/MM) |\n|--------------------|---------------------|----------------------------------|---------------------------------|----------------------------|---------------------------------------|---------------------------------------------|\n| 1 Jan 2016         | ---                 | 85.17                            | 5.6780                          | 15.00                      | N/A                                   | N/A                                         |\n| 31 Dec 2016        | 40.6                | 119.75                           | 8.6702                          | 13.81                      | -1.19                                 | -1.19                                       |\n| 31 Dec 2017        | 62.3                | 194.35                           | 14.4810                         | 13.42                      | -0.39                                 | -1.58                                       |",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hyperinflation accounting, Currency translation, International Financial Reporting Standards (IFRS)",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.\n(\u201cAmbleu\u201d), a multinational corporation, for a client presentation. Ambleu complies with\nIFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,\nNgcorp and Cendar\u00f3, have different functional currencies: Ngcorp uses the Bindiar franc (FB)\nand Cendar\u00f3 uses the Crenland guinea (CRG).Yu first analyzes the following three transactions\nto assess foreign currency transaction exposure:Transaction 1: Cendar\u00f3 sells goods to a non-\ndomestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a\nloan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its\npresentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit\nterms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2\nand 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31\nDecember 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that\nAmbleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15\nJuly 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.\nPrior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with\nher supervisor, who asks Yu the following two questions:Question 1Would a foreign currency\ntranslation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures\nshould be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To\ncomplete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017\nconsolidated financial statements, presented in Exhibit 2.\nNote 3: The parent company transferred NVK15 million to Cendar\u00f3 on 1 January 2016 to purchase a\npatent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet\nincludes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance\nsheet on 15 July 2016.\n "
+        ],
+        "question_number": "56",
+        "question_text": "Based on Exhibit 1 and Note 4 in Exhibit 2, the total intangible assets on",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share48-56_1.png",
+            "FinancialStatementAnalysis_images/share48-56_2.png"
+        ],
+        "options": {
+            "A": "A.FB12.54 million.",
+            "B": "B.FB12.71 million.",
+            "C": "C.FB13.04 million."
+        },
+        "answer": "B",
+        "explanation": "Because Ngcorp has a functional currency that is different from Ambleu's\npresentation currency, the intangible assets are translated into Norvoltian kroner using the\ncurrent rate method. The current FB/NVK exchange rate is 4.2374 as of 31 December 2016. Thus,\nthe intangible assets on Ngcorp's 2016 balance sheet are NVK3 million \u00d7 FB4.2374/NVK = FB12.71\nmillion.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Functional currency, Current rate method, Exchange rates",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "\nIn addition, Confabulated\u2019s annual report discusses a transaction under which receiv- ables\nwere securitized through a special purpose entity (SPE) for Confabulated\u2019s benefit.\n "
+        ],
+        "question_number": "57",
+        "question_text": "The balance sheet carrying value of Confabulated\u2019s investment portfolio (in",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share57-62_1.png"
+        ],
+        "options": {
+            "A": "A.112,000.",
+            "B": "B.115,000.",
+            "C": "C.118,000."
+        },
+        "answer": "B",
+        "explanation": "Under IFRS 9, FVPL and FVOCI securities are carried at market value, whereas\namortized cost securities are carried at historical cost. \u20ac28,000 + 37,000 + 50,000 =\n\u20ac115,000.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Balance sheet value, IFRS 9, Financial instruments valuation",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "\nIn addition, Confabulated\u2019s annual report discusses a transaction under which receiv- ables\nwere securitized through a special purpose entity (SPE) for Confabulated\u2019s benefit.\n "
+        ],
+        "question_number": "58",
+        "question_text": "The balance sheet carrying value of Confabulated\u2019s investment portfolio at 31",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share57-62_1.png"
+        ],
+        "options": {
+            "A": "A.Bugle.",
+            "B": "B.Cathay.",
+            "C": "C.Dumas."
+        },
+        "answer": "C",
+        "explanation": "If Dumas had been classified as a FVPL security, its carrying value would have been\nthe \u20ac55,000 fair value rather than the \u20ac50,000 historical cost.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial Instruments, Fair Value Accounting, Portfolio Valuation",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "\nIn addition, Confabulated\u2019s annual report discusses a transaction under which receiv- ables\nwere securitized through a special purpose entity (SPE) for Confabulated\u2019s benefit.\n "
+        ],
+        "question_number": "59",
+        "question_text": "Compared to Confabulated\u2019s reported interest income in 2018, if Dumas had",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share57-62_1.png"
+        ],
+        "options": {
+            "A": "A.lower.",
+            "B": "B.the same.",
+            "C": "C.higher."
+        },
+        "answer": "B",
+        "explanation": "The coupon payment is recorded as interest income whether securities are amortized\ncost or FVPL. No adjustment is required for amortization since the bonds were bought at par.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Income, Financial Instruments, Investment Accounting",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "\nIn addition, Confabulated\u2019s annual report discusses a transaction under which receiv- ables\nwere securitized through a special purpose entity (SPE) for Confabulated\u2019s benefit.\n "
+        ],
+        "question_number": "60",
+        "question_text": "Compared to Confabulated\u2019s reported earnings before taxes in 2018, if Dumas",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share57-62_1.png"
+        ],
+        "options": {
+            "A": "A.the same.",
+            "B": "B.\u20ac1,000 lower.",
+            "C": "C.\u20ac1,000 higher."
+        },
+        "answer": "C",
+        "explanation": "Unrealized gains and losses are included in income when securities are classified\nas FVPL. During 2018 there was an unrealized gain of \u20ac1,000.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial Reporting, IFRS Standards, Unrealized Gains/Losses",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "\nIn addition, Confabulated\u2019s annual report discusses a transaction under which receiv- ables\nwere securitized through a special purpose entity (SPE) for Confabulated\u2019s benefit.\n "
+        ],
+        "question_number": "61",
+        "question_text": "Confabulated\u2019s reported interest income would be lower if the cost was the",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share57-62_1.png"
+        ],
+        "options": {
+            "A": "A.Bugle was \u20ac28,000.",
+            "B": "B.Cathay was \u20ac37,000.",
+            "C": "C.Dumas was \u20ac55,000."
+        },
+        "answer": "B",
+        "explanation": "The difference between historical cost and par value must be amortized under the\neffective interest method. If the par value is less than the initial cost (stated interest rate\nis greater than the effective rate), the interest income would be lower than the interest\nreceived because of amortization of the premium.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Effective interest method, Amortization, Interest income.",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "\nIn addition, Confabulated\u2019s annual report discusses a transaction under which receiv- ables\nwere securitized through a special purpose entity (SPE) for Confabulated\u2019s benefit.\n "
+        ],
+        "question_number": "62",
+        "question_text": "Confabulated\u2019s special purpose entity is most likely to be:",
+        "image": "",
+        "share_image": [
+            "FinancialStatementAnalysis_images/share57-62_1.png"
+        ],
+        "options": {
+            "A": "A.held off-balance sheet.",
+            "B": "B.consolidated on Confabulated\u2019s financial statements.",
+            "C": "C.consolidated on Confabulated\u2019s financial statements only if it is a \u201cqualifying SPE.\u201d"
+        },
+        "answer": "B",
+        "explanation": "Under IFRS, SPEs must be consolidated if they are conducted for the benefit of the\nsponsoring entity. Further, under IFRS, SPEs cannot be classi- fied as qualifying. Under US\nGAAP, qualifying SPEs (a classification which has been eliminated) do not have to be\nconsolidated.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "IFRS, SPE consolidation rules, US GAAP",
+        "book label": "Financial Statement Analysis",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    }
+]

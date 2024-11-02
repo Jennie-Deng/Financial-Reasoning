@@ -1,0 +1,1783 @@
+ID,Question Number,Share Context,Share Image,Question Text,Image,Options,Answer,Explanation,人员,QA Type,Question Type,Level of Difficulty,Knowledge Topics,General Topics,Book Label
+13,6,,,"A two-year floating-rate note pays 6-month Libor plus 80 basis points. The floater is priced
+at 97 per 100 of par value. Current 6-month Libor is 1.00%. Assume a 30/360 day-count
+convention and evenly spaced periods. The discount margin for the floater in basis points (bps)
+is closest to:",,"{'A': '180 bps.', 'B': '236 bps.', 'C': '420 bps.'}",B,"B is correct. The discount or required margin is 236 basis points. Given the
+floater has a maturity of two years and is linked to 6-month Libor, the formula for calculating
+discount margin is:
+
+B是正确的。折现率差为236个基点。鉴于浮动利率的到期日为两年，且与6个月伦敦银行同业拆借利率挂钩
+，计算折现率差的公式为：
+
+Substituting given values in:
+
+$$
+97 = \frac{(0.01 + 0.0080) \times 100}{2 \left(1 + \frac{0.01 + DM}{2}\right)^1} + \frac{(0.01 + 0.0080) \times 100}{2 \left(1 + \frac{0.01 + DM}{2}\right)^2} + \dots + \frac{(0.01 + 0.0080) \times 100}{2 \left(1 + \frac{0.01 + DM}{2}\right)^4} + 100
+$$
+
+$$
+97 = \frac{0.90}{\left(1 + \frac{0.01 + DM}{2}\right)^1} + \frac{0.90}{\left(1 + \frac{0.01 + DM}{2}\right)^2} + \frac{0.90}{\left(1 + \frac{0.01 + DM}{2}\right)^3} + \frac{0.90 + 100}{\left(1 + \frac{0.01 + DM}{2}\right)^4}
+$$
+
+To calculate $DM$, begin by solving for the discount rate per period:
+
+$$
+97 = \frac{0.90}{(1+r)^1} + \frac{0.90}{(1+r)^2} + \frac{0.90}{(1+r)^3} + \frac{0.90 + 100}{(1+r)^4}
+$$
+
+$$
+r = 0.0168
+$$
+
+Now, solve for $DM$:
+
+$$
+\frac{0.01 + DM}{2} = 0.0168
+$$
+
+$$
+DM = 0.0236
+$$",嘉辰,Math reasoning QA,text+image,Easy,"Fixed Income Securities, Interest Rate Risk, Bond Valuation",Fixed Income,level1_固收
+127,120,,,"A bond has an annual modified duration of 7.140 and annual convexity of 66.200. The bond’s
+yield-to-maturity is expected to increase by 50 basis points. The expected percentage price
+change is closest to:",,"{'A': '–3.40%.', 'B': '–3.49%.', 'C': '–3.57%.'}",B,"B is correct. The expected percentage price change is closest to 3.49%. The
+convexity-adjusted percentage price change for a bond given a change in the yield-to-maturity
+is estimated by:
+这道题目问的是债券的修正久期为7.140，年凸性为66.200。该债券的到期收益率预计将增加50个基点。预期
+价格变动百分比最接近： B是正确的。预期价格变动百分比接近-3.49%。考虑到期收益率的变化，债券的凸
+性调整百分比价格变化估计如下：
+$$
+\% \Delta PV^{Full} \approx \left[ -\text{AnnModDur} \times \Delta \text{Yield} \right] + \left[ 0.5 \times \text{AnnConvexity} \times \left( \Delta \text{Yield} \right)^2 \right]
+$$
+
+$$
+\% \Delta PV^{Full} \approx \left[ -7.140 \times 0.005 \right] + \left[ 0.5 \times 66.200 \times \left( 0.005 \right)^2 \right] = -0.034873, \text{ or } -3.49\%
+$$
+",嘉辰,Math reasoning QA,text+image,Easy,"Bond Duration, Convexity, Yield-to-Maturity",Fixed Income,level1_固收
+315,73,,,"ABC Company, domiciled in a country with a strong legal system, is applying for a USD
+100,000 loan with an annual interest rate of 5% to be used exclusively on expanding its
+business and not to repay current debt. The loan will be secured by the company’s factory
+buildings, which have an appraised value of USD 200,000. The company has an annual operating
+profit of USD 3,000. Which of the following statements relating to the credit risk of this
+company can most likely be inferred from the given data?",,"{'A': 'The company’s capacity to pay is low.', 'B': 'The company’s willingness to pay is low.', 'C': 'The loan exhibits a high loss given default.', 'D': 'The loan’s exposure at default will increase.'}",A,"Since the company applied for a loan of 100,000 ($), the annual interest was 5,000
+($) and the value of the collateral was 200,000 ($), but the company's annual operating profit
+was only 3,000 ($), so the company's loan solvency was very low.由于公司所申请贷款为10万（美元
+），年利息为5000（美元），抵押物的价值为20万（美元），但公司的年营业利润仅3000（美元），因此该
+公司的贷款偿付能力很低。",醇厚,Knowledge reasoning QA,text only,Easy,"Credit risk assessment, Collateral evaluation, Debt servicing capability",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+329,87,,,"An investor holds a portfolio of two long assets X and Y, valued recently at USD 85 million
+and USD 112 million, respectively. The 1-year probability of default for assets X and Y is 12%
+and 14%, and the joint probability of default is 4.5%. The loss given default for both assets
+is 45%.Calculate the estimated expected loss on the investor’s portfolio due to credit
+defaults over the next year.",,"{'A': 'USD 3.9 million', 'B': 'USD 11.6 million', 'C': 'USD 14.2 million', 'D': 'USD 16.5 million'}",B,"```markdown
+| Scenario | Loss | Probability | Loss * Probability|
+|----------|------|-------------|
+| 0 | 0 | 0.785 | 0 |
+| X | 38.25 | 0.075 | 2.86875 |
+| Y | 50.4 | 0.095 | 4.788 |
+| X+Y | 88.65 | 0.045 | 3.98925 |
+|    |    | EL | 11.646 |
+```",醇厚,Math reasoning QA,text only,Easy,"Credit risk, Probability of default, Loss given default",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+333,91,,,"The cumulative probability of default for a note over two years is 3.8%. If the probability
+of default during the first year is 1.5%, the probability of default during the second year is
+closest to:",,"{'A': '2.96%', 'B': '2.34%', 'C': '3.17%', 'D': '3.28%'}",B,"$$
+c_2 = 1 - (1 - d_1)(1 - d_2)
+$$
+
+$$
+0.038 = 1 - (1 - 0.015)(1 - d_2)
+$$
+
+$$
+\Rightarrow d_2 = 0.0234
+$$",醇厚,Math reasoning QA,text only,Easy,"Credit Risk Modeling, Probability Theory, Default Probability Calculation",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+335,93,,,"The capital structure of ABC Corporation consists of two parts, one 5 year bond with face
+value of $100 million and the rest is equity. The current market value of the firm assets is
+$130 and the expected rate of change of the firm’s value is 25%. The volatility is 30%. The
+firm’s risk management division estimates the distance to default using Merton model. Given
+the distance to default, the estimated physical default probability is? (N(1.92) = 97.25%;
+N(2.58) = 99.52%)",,"{'A': '2.75%', 'B': '12.78%', 'C': '12.79%', 'D': '30.56%'}",A,"$$
+d_2 = \frac{\ln\left[\frac{130}{100} \times e^{-25\% \times 5}\right]}{0.3 \times \sqrt{5}} - \frac{1}{2} \times 0.3 \times \sqrt{5} = 1.92
+$$
+
+The physical default probability is $N(-d_2) = 2.75\%$",醇厚,Math reasoning QA,text only,Easy,"Merton Model, Default Probability, Capital Structure",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+345,103,,,"A firm has issued a single zero-coupon bond that matures in 5 years and has a face value of
+100. Assume that the volatility of the firm value is 0.5. Assume the risk-free rate is 0.04,
+and that firm value equal to 400. Using the Merton model, what is the value of the bond? In the
+following table, N(d) denotes the cumulative distribution function for a standard normal
+distribution evaluate at d.",,"{'A': '75.50', 'B': '324.47', 'C': '310.40', 'D': '89.60'}",A,"$$
+\begin{array}{ccc|ccc}
+d & N(d) & & d & N(d) \\
+-1.978 & 0.024 & & 0.681 & 0.752 \\
+-1.960 & 0.025 & & 0.860 & 0.805 \\
+-1.799 & 0.036 & & 0.995 & 0.840 \\
+-1.505 & 0.066 & & 1.505 & 0.934 \\
+-0.995 & 0.160 & & 1.799 & 0.964 \\
+-0.681 & 0.248 & & 1.960 & 0.975 \\
+-0.123 & 0.451 & & 1.978 & 0.976 \\
+\end{array}
+$$
+
+$V = 400, F = 100, r = 0.04, \sigma = 0.5, T - t = 5$
+
+$$
+Bond = V \times N(-d_1) + F \times e^{-r \times (T-t)} \times N(d_2)
+$$
+
+$$
+d_{1,2} = \frac{\ln [V / F \times e^{-r \times (T-t)}]}{\sigma \times \sqrt{T - t}} \pm \frac{1}{2} \times \sigma \times \sqrt{T - t}
+$$
+
+$d_1 = 1.978, d_2 = 0.860$
+
+Bond = 75.50",醇厚,Math reasoning QA,text only,Easy,"Credit Risk Modeling, Merton Model, Bond Valuation.",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+351,109,,,"Suppose a credit position has a correlation to the market factor of 0.5. What is the
+realized market value that is used to compute the probability of reaching a default threshold
+at the 99% confidence level?",,"{'A': '-0.2500.', 'B': '-0.4356.', 'C': '-0.5825.', 'D': '-0.6243.'}",D,"$$
+-2.33 = \frac{-2.33 - 0.5\overline{m}}{\sqrt{1 - 0.5^2}}
+$$
+
+$$
+-2.33 \times 0.86603 = -2.33 - 0.5\overline{m}
+$$
+
+$$
+-2.01785 + 2.33 = -0.5\overline{m}
+$$
+
+$$
+0.31215 = -0.5\overline{m}
+$$
+
+$$
+-0.62430 = \overline{m}
+$$",醇厚,Math reasoning QA,text only,Easy,"Credit risk, Market correlation, Default probability",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+356,114,,,"A corporate bond with a face value of $1,000 has a remaining maturity of 15 years. Using
+the Merton model, the current value of the bond is calculated at $650. Assuming that the risk-
+free rate is equal to 2%, what is the credit spread for this bond?",,"{'A': '23 bps.', 'B': '65 bps.', 'C': '87 bps.', 'D': '98 bps.'}",C,"$$
+\text{Credit Spread} = -\left( \frac{1}{T - t} \right) \ln \left( \frac{D}{F} \right) - r = - \left( \frac{1}{15}\right) * \ln \left(\frac{650}{1000}\right) - 0.02
+$$
+
+$$
+= 87 \text{bps}
+$$",醇厚,Math reasoning QA,text only,Easy,"Credit Risk, Bond Valuation, Merton Model",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+357,115,,,"The forward probability of default for years one and two is 0.5% and 1.1%, respectively. If
+the cumulative probability of default for the 3-year period is 4.45%, the forward probability
+of default for year three is closest to:",,"{'A': '2.8%', 'B': '3.2%', 'C': '2.9%', 'D': '2.7%'}",C,"$$
+c_2 = 1 - (1 - d_1)(1 - d_2)(1 - d_3)
+$$
+
+$$
+0.0445 = 1 - (1 - 0.005)(1 - 0.011)(1 - d_3) \\
+\Rightarrow d_3 = 2.9\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Credit Risk, Probability of Default, Cumulative Probability",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+358,116,,,"Peter, the municipal bond analyst observes that in recent years there have occurred only
+about 6 U.S. municipal defaults per year. If he makes the highly simplifying assumption that 6
+defaults per year is the average in a Poisson process (distribution), what is the probability
+that the next municipal default will occur within one month?",,"{'A': '8.42%', 'B': '17.00%', 'C': '39.35%', 'D': '60.65%'}",C,"$$
+\text{p[next default within one month]} = 1 - e^{-\lambda \text{T}} = 1 - e^{-0.5} = 39.35\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Probability distributions, Poisson process, Risk modeling",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+371,129,,,"Assume an MBS is composed of the following four different pools of mortgages: $2 million of
+mortgages that have a maturity of 90 days. $3 million of mortgages that have a maturity of 180
+days. $5 million of mortgages that have a maturity of 270 days, $10 million of mortgages that
+have a maturity of 360 days. What is the weighted average maturity (WAM) of these mortgage
+pools?",,"{'A': '167 days.', 'B': '225 days.', 'C': '252 days.', 'D': '284 days.'}",D,"$$
+WAC = \frac{[90 \ast 2 + 180 \ast 3 + 270 \ast 5 + 360 \ast 10]}{(2 + 3 + 5 + 10)}
+$$
+$$
+= \frac{(180 + 540 + 1,350 + 3,600)}{20}
+$$
+$$
+= 284 \text{天}
+$$",醇厚,Math reasoning QA,text only,Easy,"Weighted Average Maturity (WAM), Mortgage-Backed Securities (MBS), Financial Calculations",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+379,137,,,"Suppose the annual prepayment rate CPR for a mortgage-backed security is 6 percent. What is
+the corresponding single-monthly mortality rate SMM?",,"{'A': '0.514%', 'B': '0.334%', 'C': '0.500%', 'D': '1.355%'}",A,"$$
+\text{SMM} = 1 - (1 - \text{CPR})^{\frac{1}{12}} = \text{SMM} = 1 - (1 - 0.06)^{\frac{1}{12}} = 0.514\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Prepayment Models, Mortgage-Backed Securities, Quantitative Analysis",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+616,11,,,"It is currently August 2010, and the spot price of soybeans is $5.05/bushel. Storage costs
+for soybeans on a continuously compounded basis are $0.45/bushel annually. The appropriate
+continuously compounded interest rate is 8%. If a soybean farmer has just finished harvesting
+his crop but would like to sell half of the crop in February 2011 and half in May 2011 by going
+short futures contracts, which of the following statements is most accurate? The farmer should
+store his crop only if the:",,"{'A': 'February futures contract price is more than $5.50/bushel and the May futures contract price\nis more than $5.73/bushel.', 'B': 'February futures contract price is more than $5.73/bushel and the May futures contract price\nis more than $5.50/bushel.', 'C': '?February futures contract price is less than $5.73/bushel and the May futures contract price\nis less than $5.50/bushel.', 'D': '?February futures contract price is less than $5.50/bushel and the May futures contract price'}",D,"$$
+u = 0.45
+$$
+
+$$
+8.91\% = \frac{5.05}{5.05}
+$$
+
+$$
+2011\text{年}2\text{月期的期货合约合理价格为：}
+$$
+
+$$
+F = 5.05 \times (e^{(8.91\%)} \times 0.5) = 5.50
+$$
+
+$$
+2011\text{年}5\text{月期的期货合约合理价格为：}
+$$
+
+$$
+F = 5.05 \times (e^{(8.91\%)} \times 0.75) = 5.73
+$$
+
+$$
+所以，当2011\text{年}2\text{月期货合约合约市场价格低于} 5.50 \text{/bushel}，2011\text{年}5\text{月期货合约市场价格低于} 5.73 \text{/bushel}时，大豆种植者会储存大豆而不遭受订货合约的实赔。因此，选项D正确。
+$$",海州,Math reasoning QA,text only,Hard,"Commodity Futures Pricing, Continuous Compounding, Hedging Strategies",Financial Markets and Products,Financial Markets and Products2
+724,25,,,"Assume you purchase a share of stock for $50 at time t = 0 and another share at $65 at time
+t = 1, and at the end of year 1 and year 2, the stock paid a $2.00 dividend. Also at the end of
+year 2, you sold both shares for $70 each. The dollar-weighted rate of return on the investment
+is:",,"{'A': '10.77%', 'B': '15.45%', 'C': '15.79%', 'D': '18.02%'}",D,"$$
+50 + \frac{65}{1 + \text{IRR}} = \frac{2}{1 + \text{IRR}} + \frac{144}{(1 + \text{IRR})^2}
+$$
+
+$$
+\text{IRR} = 18.02\%
+$$
+
+$$
+50 + \frac{65}{1 + \text{IRR}} = \frac{2}{1 + \text{IRR}} + \frac{144}{(1 + \text{IRR})^2}
+$$
+
+$$
+\text{IRR} = 18.02\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Time-weighted return, Dollar-weighted return, Investment returns analysis",Risk Management and Investment Management,Risk Management and Investment Management1
+729,30,,,"Consider the following two asset portfolios:
+ 
+ 
+Calculate the component VaR of asset A and marginal VaR of asset B, respectively, at the 95%
+confidence level.",./dataset/images/RiskManagementandInvestmentManagement1_images/30u.png,"{'A': 'USD 21,773 and 0.1306', 'B': 'USD 21,773 and 0.1169', 'C': 'USD 27,268 and 0.1169', 'D': 'USD 27,268 and 0.1306'}",C,"$$
+MVaR_A = z_a \times \beta_{A,P} \times \sigma_P = 1.645 \times 0.7 \times 5.92\% = 0.0681688
+$$
+
+$$
+CVaR_A = MVaR_A \times V_A = 0.0681688 \times 400,000 = 27,268
+$$
+
+$$
+MVaR_B = z_a \times \beta_{B,P} \times \sigma_P = 1.645 \times 1.2 \times 5.92\% = 0.1169
+$$",醇厚,Math reasoning QA,text only,Easy,"Value at Risk (VaR), Component VaR, Marginal VaR",Risk Management and Investment Management,Risk Management and Investment Management1
+749,50,,,"A portfolio has USD 2 million invested in Stock A and USD 1 million invested in Stock B. The
+95% 1-day VaR for each individual position is USD 40,000. The correlation between the returns
+of Stock A and Stock B is 0.5. While rebalancing, the portfolio manager decides to sell USD 1
+million of Stock A to buy USD 1 million of Stock B. Assuming that returns are normally
+distributed and that the rebalancing does not affect the volatility of the individual stocks,
+what effect will this have on the 95% 1-day portfolio VaR?",,"{'A': 'There will be no effect.', 'B': 'It will increase by USD 20,370', 'C': 'It will increase by USD 21,370', 'D': 'It will increase by USD 22,370'}",D,"$$
+\sqrt{(40,000)^2 + (40,000)^2 + 2 \times 0.5 \times 40,000 \times 40,000} = 69,282
+$$
+
+The VaR of the new portfolio:
+
+$$
+\sqrt{(20,000)^2 + (80,000)^2 + 2 \times 0.5 \times 20,000 \times 80,000} = 91,652
+$$
+
+So the VaR will increase by USD 22,370",醇厚,Math reasoning QA,text only,Easy,"Value at Risk (VaR), Portfolio Risk Management, Correlation",Risk Management and Investment Management,Risk Management and Investment Management1
+761,62,,,"The following information is available for funds ABC, RST, JKL, and XYZ:
+ 
+ 
+The average risk-free rate was 5%. Rank the funds from best to worst according to their Treynor
+measure.",./dataset/images/RiskManagementandInvestmentManagement1_images/62u.png,"{'A': 'JKL, RST, ABC, XYZ', 'B': 'JKL, RST, XYZ, ABC', 'C': 'RST, JKL, ABC, XYZ', 'D': 'XYZ, ABC, RST, JKL'}",A,"$$
+T_{ABC} = \frac{0.15 - 0.05}{1.25} = 0.08
+$$
+
+$$
+T_{RST} = \frac{0.18 - 0.05}{1.00} = 0.13
+$$
+
+$$
+T_{JKL} = \frac{0.25 - 0.05}{1.20} = 0.1667
+$$
+
+$$
+T_{XYZ} = \frac{0.11 - 0.05}{1.36} = 0.0441
+$$",醇厚,Math reasoning QA,text only,Easy,"Performance measurement, Risk-adjusted returns, Treynor ratio",Risk Management and Investment Management,Risk Management and Investment Management1
+768,69,,,"When computing individual VaR, it is proper to:",,"{'A': 'Use the absolute value of the portfolio weight.', 'B': 'Use only positive weights.', 'C': 'Use only negative weights.', 'D': 'Compute VaR for each asset within the portfolio.'}",A,"$$
+VaR_{i} = z_{c} \sigma_{i} |P_{i}| = z_{c} \sigma_{i} |\omega_{i}| P
+$$
+
+The absolute value signs indicate that we need to measure the risk of both positive and negative positions, and risk cannot be negative.
+",醇厚,Knowledge reasoning QA,text only,Easy,"Value at Risk (VaR), Portfolio Risk Management, Risk Measurement Techniques",Risk Management and Investment Management,Risk Management and Investment Management1
+774,75,,,"In making allocations across active managers, which of the following represents the formula
+that gives the optimal weight to allocate to a manager denoted i, where IRi and IRp are the
+information ratios of the manager and the total portfolio respectively?",,"{'A': '', 'B': '', 'C': '', 'D': ''}",C,"$$
+\frac{\text{IR}_{i} \times (\text{portfolio's tracking error})}{\text{IR}_{p} \times (\text{manager's tracking error})}
+$$",醇厚,Knowledge reasoning QA,text only,Easy,"Portfolio Optimization, Information Ratio, Active Management",Risk Management and Investment Management,Risk Management and Investment Management1
+778,79,,,"A risk manager is evaluating a pairs trading strategy recently initiated by one of the
+firm’s traders. The strategy involves establishing a long position in Stock A and a short
+position in Stock B. The following information is also provided: ☆ 1-day 99% VaR of Stock A is
+USD 100 million ☆ 1-day 99% VaR of Stock B is USD 125 million ☆ The estimated correlation
+between long positions in Stock A and Stock B is 0.8 Assuming that the returns of Stock A and
+Stock B are jointly normally distributed, the 1-day 99% VaR of the combined positions is
+closest to?",,"{'A': 'USD 0 million', 'B': 'USD 75 million', 'C': 'USD 160 million', 'D': 'USD 214 million'}",B,"$$
+\sqrt{\text{VaR}_A^2 + \text{VaR}_B^2 + 2\rho \text{VaR}_A \text{VaR}_B} = \sqrt{100^2 + 125^2 + 2 \times (-0.8) \times 100 \times 125} = 75
+$$",醇厚,Math reasoning QA,text only,Easy,"Value at Risk (VaR), Correlation, Hedging Strategies",Risk Management and Investment Management,Risk Management and Investment Management1
+951,121,,,"A company incurs the followings costs related to its inventory during the year:
+ Theamount charged to inventory cost (in millions) is closest to:",./dataset/images/level1_cai_bao_images/121u.PNG,"{'A': '￥175,000.', 'B': '￥177,000.', 'C': '￥185,000.'}",A,"The costs to include in inventories are all costs of purchase, costs of conversion,
+and other costs incurred in bringing the inventories to their present location and condition.
+存货成本包括所有采购成本、转换成本以及将存货运至当前位置和状态所产生的其他成本。
+
+| **Cost**                                      | **¥ millions** |
+|-----------------------------------------------|----------------|
+| Purchase price                                | 100,000        |
+| Less Trade discounts                          | (5,000)        |
+| Import duties                                 | 20,000         |
+| Shipping of raw materials to manufacturing facility | 10,000   |
+| Manufacturing conversion costs                | 50,000         |
+| **Total inventory costs**                     | **175,000**    |",嘉辰,Knowledge reasoning QA,text+image,Easy,"Inventory accounting, Cost of goods sold (COGS), Financial reporting",Financial Reporting and Analysis,level1_财报
+966,136,,,"Using the information presented in Exhibit
+ 
+ The financial leverage ratio for SAP Group at 31 December 2017 is closest to:",./dataset/images/level1_cai_bao_images/136u.PNG,"{'A': '1.50.', 'B': '1.66.', 'C': '2.00.'}",B,"B is correct. The financial leverage ratio (Total assets ÷ Total equity) is
+1.66 (= €42,497 ÷ €25,540). ： 财务杠杆比率=总资产/总所有者权益=4242,497 ÷ 25,540=1.66 选择
+B 选项
+
+| **Description**                 | **2023** | **2024** |
+|----------------------------------|----------|----------|
+| Total non-current liabilities   | 6,747    | 8,205    |
+| Total liabilities               | 16,958   | 17,880   |
+| Total equity                    | 25,540   | 26,397   |
+| Total equity and liabilities    | 42,497   | 44,277   |",嘉辰,Math reasoning QA,text+image,Easy,"Financial Leverage, Balance Sheet Analysis, Ratio Analysis",Financial Reporting and Analysis,level1_财报
+979,149,,,"A company issues €10,000,000 face value of 10-year bonds dated 1 January 2015 when the
+market interest rate on bonds of comparable risk and terms is 6%. The bonds pay 7% interest
+annually on 31 December. Based on the effective interest rate method, the interest expense on
+31 December 2015 is closest to:",,"{'A': '€644,161.', 'B': '€700,000.', 'C': '€751,521.'}",A,"A is correct. The following illustrates the keystrokes for many financial
+calculators to calculate sales proceeds of €10,736,008.71:
+
+| **Calculator Notation** | **Numerical Value for This Problem** |
+|-------------------------|--------------------------------------|
+| N                       | 10                                   |
+| % i or I/Y              | 6                                    |
+| FV                      | $10,000,000.00                       |
+| PMT                     | $700,000.00                          |
+| PV compute              | X                                    |
+
+
+The interest expense is calculated by multiplying the carrying amount at the beginning of the
+year by the effective interest rate at issuance. As a result, the interest expense at 31
+December 2015 is €644,161 (€10,736,008.71 × 6%). ： 通过使用金融计算器，可以得到
+N=10，PMT=700,000，I/Y=6，FV=10,000,000 PV= 10,736,008.71 因此企业当期确认的利息费用为
+10,736,008.71*6%=644,161 选择A选项",嘉辰,Math reasoning QA,text+image,Easy,"Effective interest rate method, Bond valuation, Financial calculators.",Financial Reporting and Analysis,level1_财报
+992,162,,,"A company issues $1,000,000 face value of 10-year bonds on 1 January 2015 when the market
+interest rate on bonds of comparable risk and terms is 5%. The bonds pay 6% interest annually
+on 31 December. At the time of issue, the bonds payable reflected on the balance sheet is
+closest to:",,"{'A': '$926,399.', 'B': '$1,000,000.', 'C': '$1,077,217.'}",C,"C is correct. The bonds will be issued at a premium because the coupon rate is
+higher than the market interest rate. The following illustrates the keystrokes for many
+financial calculators to calculate sales proceeds of $1,077,217.35:
+
+| **Calculator Notation** | **Numerical Value for This Problem** |
+|-------------------------|--------------------------------------|
+| N                       | 10                                   |
+| % i or I/Y              | 5                                    |
+| FV                      | $1,000,000.00                        |
+| PMT                     | $60,000.00                           |
+| PV compute              | X                                    |
+
+
+Thus, the sales proceeds are reported on the balance sheet as an increase in long-term
+liability, bonds payable of $1,077,217. ： 根据题目信息，使用金融计算器可以求出对应结果 其中
+N=10，I/Y=5，PMT=1,000,000*6%=60,000，FV=1,000,000，CPT，PV=1,077,217 选择C选项。 或者根据题目
+信息可知，有效利率为5%而息票率为6%，因此这个债券为溢价债券，三个选项中得到的结果只有C选项为溢价
+债券。",嘉辰,Math reasoning QA,text+image,Easy,"Bond Valuation, Financial Statement Analysis, Market Interest Rate",Financial Reporting and Analysis,level1_财报
+1013,183,,,"Company AAA issues 10-year bonds on 1 January 2013, the bonds are priced at ￡107,306 with
+face value 100,000, market interest rates are 6%, coupon rates are 7%, interest paid annually
+on 31 December. The carrying value of the bonds as of 31 December 2013 will be closest to:",,"{'A': '￡107,306.', 'B': '￡106,801.', 'C': '￡107,919.'}",B,"There are two ways to determine the value of the bonds on 31 December 2014.
+| **Year** | **Carrying Amount at Start of Year** | **Interest Expense at EAI(6%)** | **Interest Payment at Coupon Rate(7%)** | **Amortization of Premium** | **Carrying Amount at End of Year** |
+|----------|--------------------------------------|---------------------------------|----------------------------------------|-----------------------------|----------------------------------|
+| 2013     | 107,360                              | 6,441                           | 7,000                                  | 559                         | 106,801                          |",嘉辰,Math reasoning QA,text+image,Easy,"Bond Pricing, Amortization of Bond Discount/Premium, Carrying Amount of Bonds",Financial Reporting and Analysis,level1_财报
+1024,194,,,"Lesp Industries issues five-year bonds dated 1 January 2015 with a face value of $2,000,
+000 and 3% coupon rate paid annually on 31 December. The market interest rate on bonds of
+comparable risk and term is 4%. The sales proceeds of the bonds are $1,910,964. Under the
+effective interest rate method, the interest expense in 2017 is closest to:",,"{'A': '$77,096.', 'B': '$77,780.', 'C': '77,807.'}",B,"B is correct. The interest expense for a given year is equal to the carrying
+amount at the beginning of the year times the effective interest of 4%. Under the effective
+interest rate method, the difference between the interest expense and the interest payment
+(based on the coupon rate and face value) is the discount amortized in the period, which
+increases the carrying amount annually. For 2017, the interest expense is the beginning
+carrying amount ($1,944,499) times the effective interest of 4%. ：
+
+| **Year** | **Carrying Amount (beginning)** | **Interest Expense (at effective interest of 4%)** | **Interest Payment (at coupon rate of 3%)** | **Amortization of Discount** | **Carrying Amount (end of year)** |
+|----------|---------------------------------|--------------------------------------------------|--------------------------------------------|------------------------------|----------------------------------|
+| 2015     | $1,910,964                      | $76,439                                          | $60,000.00                                 | $16,439                      | $1,927,403                      |
+| 2016     | $1,927,403                      | $77,096                                          | $60,000.00                                 | $17,096                      | $1,944,499                      |
+| 2017     | $1,944,499                      | $77,780                                          | $60,000.00                                 | $17,780                      | $1,962,279                      |
+
+通过使用金融计算器，可以得到N=5，PMT=60,000，I/Y=4，FV=2,000,000?PV= 1,910,964 根据BASE法则 因
+此17年记录的利息费用为77,780，选择B选项。",嘉辰,Math reasoning QA,text+image,Easy,"Effective interest rate method, Bond pricing and valuation, Market interest rate impact on bonds",Financial Reporting and Analysis,level1_财报
+1025,195,,,"A company issues $30,000,000 face value of five-year bonds dated 1 January 2015 when the
+market interest rate on bonds of comparable risk and terms is 5%. The bonds pay 4% interest
+annually on 31 December. Based on the effective interest rate method, the carrying amount of
+the bonds on 31 December 2015 is closest to:",,"{'A': '$28,466,099.', 'B': '$28,800,000.', 'C': '$28,936,215.'}",C,"C is correct. The following illustrates the keystrokes for many financial
+calculators to calculate sales proceeds of $28,701,157.00:
+The following table illustrates interest expense, premium amortization, and carrying amount
+(amortized cost) for 2015.
+
+| **Calculator Notation** | **Numerical Value for This Problem** |
+|-------------------------|--------------------------------------|
+| N                       | 5                                    |
+| % i or I/Y              | 5                                    |
+| FV                      | $30,000,000.00                       |
+| PMT                     | $1,200,000.00                        |
+| PV compute              | X                                    |
+
+
+| **Year** | **Carrying Amount (beginning of year)** | **Interest Expense (at effective interest rate of 5%)** | **Interest Payment (at coupon rate of 4%)** | **Amortization of Discount** | **Carrying Amount (end of year)** |
+|----------|-----------------------------------------|--------------------------------------------------------|--------------------------------------------|------------------------------|----------------------------------|
+| 2015     | $28,701,157.00                          | $1,435,057.85                                          | $1,200,000.00                              | $235,057.85                  | $28,936,214.85                  |
+
+
+The carrying amount at the end of the year is found by adding the amortization of the discount
+to the carrying amount at the beginning of the year. As a result, the carrying amount on 31
+December 2015 is $28,936,215. Alternatively, the following illustrates the keystrokes for many
+financial calculators to calculate the carrying value at the end of first year of $28,936, 215:
+
+| **Calculator Notation** | **Numerical Value for This Problem** |
+|-------------------------|--------------------------------------|
+| N                       | 4                                    |
+| % i or I/Y              | 5                                    |
+| FV                      | $30,000,000.00                       |
+| PMT                     | $1,200,000.00                        |
+| PV compute              | X                                    |
+
+
+通过使用金融计算器，可以得到N=5，PMT=1,200,000，I/Y=5，FV=30,000,000?PV= 28,701,157 根据BASE法
+则，B=28,701,157，A=28,701,157 *5%=$1,435,057.85，S=1,200,000，得到E=28,936,214.85 选择C选项。",嘉辰,Math reasoning QA,text+image,Easy,"Bond Valuation, Discount Amortization, Effective Interest Rate Method",Financial Reporting and Analysis,level1_财报
+1083,7,,,"Happy Resorts Company currently has 1.2 million common shares of stock outstanding and the
+stock has a beta of 2.2. It also has $10 million face value of bonds that have five years
+remaining to maturity and 8 percent coupon with semi-annual payments, and are priced to yield
+13.65 percent. If Happy issues up to $2.5 million of new bonds, the bonds will be priced at par
+and have a yield of 13.65 percent; if it issues bonds beyond $2.5 million, the expected yield
+on the entire issuance will be 16 percent. Happy has learned that it can issue new common stock
+at $10 a share. The current risk-free rate of interest is 3 percent and the expected market
+return is 10 percent. Happy's marginal tax rate is 30 percent. If Happy raises $7.5 million of
+new capital while maintaining the same debt-to-equity ratio, its weighted average cost of
+capital is closest to:",,"{'A': '14.5 percent.', 'B': '15.5 percent.', 'C': '16.5 percent.'}",B,"Answer: BMarket value of debt: FV = $10,000,000, PMT = $400,000, N = 10, I/Y =
+6.825%. Solving for PV gives the answer $7.999,688.Market value equity: 1.2 million shares
+outstanding at $10 = $12,000,000
+ 
+
+ | **Description**           | **Amount**    | **Percentage** |
+|---------------------------|---------------|----------------|
+| Market value of debt      | $7,999,688    | 40%            |
+| Market value of equity    | $12,000,000   | 60%            |
+| Total capital             | $19,999,688   | 100%           |
+
+ 
+To raise $7.5 million of new capital while maintaining the same capital structure, the company
+would issue $7.5 million x 40% = $3.0 million in bonds, which results in a before-tax rate of
+16 percent.rd(1-t)= 0.16(1-0.3) = 0.112 or 11.2%re = 0.03 2.2 (0.10 - 0.03) = 0.184 or
+18.4%WACC = [0.40(0.112)]＋ [0.6(0.184)]=0.0448 ＋0.1104 =0.1552 or 15.52%
+这道题目问的是Happy公司目前发行了1.2million股普通股，贝塔系数为2.2。该公司还有10million美元票面
+价值的债券，还有五年到期，票面利率为8%，每半年支付一次，收益率为13.65%。如果Happy发行至多
+2.5million美元的新债券，这些债券将按面值定价，收益率为13.65%;如果发行超过2.5million美元的债券
+，整个发行的预期收益率将为16%。Happy已经了解到，它可以以每股10美元的价格发行新的普通股。目前的
+无风险利率为3%，预期市场回报率为10%。Happy的边际税率是30%。如果Happy在保持相同的负债权益比率的
+情况下筹集7.5million美元的新资本，其加权平均资本成本最接近于: 首先要求出公司的资本结构： 债券市
+场价值: FV = $10,000,000, PMT = $400,000, N = 10, I/Y = 6.825%.求解PV:$7,999,688. 股权市场价值:
+1.2 million shares outstanding at $10 = $12,000,000 债券和股票总市值$19,999,688，债券占比
+40%，股票占比60% 为了筹集7.5million美元的新资本，同时保持相同的资本结构，公司将发行7.5×40% =
+3million 美元的债券，其税前收益率为16%。rd(1 - t) = 0.16(1 - 0.3) = 0.112 or 11.2% re = 0.03
+2.2 (0.10 - 0.03) = 0.184 or 18.4% WACC = [0.40(0.112)]＋ [0.6(0.184)] = 0.0448＋ 0.1104 =
+0.1552 or 15.52% 因此B选项正确",嘉辰,Math reasoning QA,text+image,Easy,"Cost of Debt, Cost of Equity, Weighted Average Cost of Capital (WACC)",Corporate Finance,level1_公司金融
+1110,34,,,"An analyst is examining the cash conversion cycles and their components for three companies
+that she covers in the leisure products industry. She believes that changes in the investments
+in these working capital accounts can reveal liquidity stresses on a company.
+ 
+Which company’s operating cycle appears to have caused the most liquidity stress?",./dataset/images/level1_gong_si_jin_rong_images/34u.PNG,"{'A': 'Company H’s', 'B': 'Company J’s', 'C': 'Company S’s'}",C,"C is correct. 
+
+|               | **2021** | **2020** | **2019** | **2018** | **2017** | **2016** |
+|---------------|----------|----------|----------|----------|----------|----------|
+| **Company J** |          |          |          |          |          |          |
+| Days of Inventory on Hand | 105.6 | 101.4 | 96.3 | 105.2 | 103.2 | 101.4 |
+| + Days of Receivables     | 27.7  | 29.4  | 32.9  | 36.3  | 37.8  | 38.0  |
+| – Days of Payables Outstanding | 36.6  | 38.5  | 35.3  | 39.3  | 37.8  | 40.2  |
+| = Cash Conversion Cycle   | 96.7  | 92.3  | 93.9  | 102.2 | 103.2 | 99.2  |
+|                           |        |        |        |        |        |        |
+| **Company S** |          |          |          |          |          |          |
+| Days of Inventory on Hand | 135.8 | 131.0 | 118.9 | 69.2  | 63.4  | 81.7  |
+| + Days of Receivables     | 49.1  | 42.5  | 54.2  | 36.2  | 29.1  | 38.3  |
+| – Days of Payables Outstanding | 30.9  | 27.9  | 34.6  | 29.8  | 31.8  | 35.9  |
+| = Cash Conversion Cycle   | 154.0 | 145.6 | 138.5 | 75.6  | 60.7  | 84.1  |
+
+
+Company S’s cash conversion cycle nearly doubled over recent years,
+while the cash conversion cycles for Companies H and J are nearly unchanged. The days of
+inventory on hand and days of receivables both increased substantially for Company S, and its
+days of payables outstanding decreased very slightly. The net effect was the large increase in
+the cash conversion cycle. Although changes occurred in the components of the cash conversion
+cycles for Companies H and J, the net effect on their cash conversion cycles was small. C是正确
+的。近年来，S公司的现金转换周期几乎翻了一番，而H和J公司的现金转换周期几乎没有变化。S公司的库存
+天数和应收账款天数均大幅增加，其未付应付账款天数略有减少。虽然H和J公司的现金转换周期的组成部分
+发生了变化，但对其现金转换周期的净影响很小。",嘉辰,Knowledge reasoning QA,text+image,Easy,"Liquidity risk, Cash conversion cycle, Working capital management",Corporate Finance,level1_公司金融
+1120,44,,,"Fran McClure of Alba Advisers is estimating the cost of capital of Frontier Corporation as
+part of her valuation analysis of Frontier. McClure will be using this estimate, along with
+projected cash flows from Frontier's new projects, to estimate the effect of these new projects
+on the value of Frontier. McClure has gathered the following information on Frontier
+Corporation:
+ 
+The weights that McClure should apply in estimating Frontier’s cost of capital for debt and
+equity are, respectively:",,"{'A': 'wd = 0.200; we = 0.800.', 'B': 'wd = 0.185; we = 0.815.', 'C': 'wd = 0.223; we = 0.777.'}",C,"wd = $63/($220 ＋ 63) = 0.223.we = $220/($220 ＋ 63) = 0.777.Market values should
+be used in cost of capital calculations, and forecasted market values should be used in this
+case given that the cost of capital will be applied to projected cash flows in McClure’s
+analysis. wd=63美元/（220 63美元）=0.223。we=$220/（$220＋63）=0.777。在资本成本计算中应使用市
+场价值，在这种情况下应使用预测市场价值，因为资本成本将应用于McClure分析中的预测现金流。
+
+| **Description**                          | **Current Year ($)** | **Forecasted for Next Year ($)** |
+|------------------------------------------|----------------------|----------------------------------|
+| Book value of debt                       | 50                   | 50                               |
+| Market value of debt                     | 62                   | 63                               |
+| Book value of shareholders’ equity       | 55                   | 58                               |
+| Market value of shareholders’ equity     | 210                  | 220                              |",嘉辰,Math reasoning QA,text+image,Easy,"Cost of capital, Market value weights, Valuation analysis",Corporate Finance,level1_公司金融
+1137,7,"Megan Beade and Hanna Müller are senior analysts for a large, multi-divisional money
+management firm. Beade supports the institutional portfolio managers, and Müller does the same
+for the private wealth portfolio managers.Beade reviews the asset allocation in Exhibit 1,
+derived from a mean–variance optimization (MVO) model for an institutional client, noting that
+details of the MVO are lacking.
+The firm’s policy is to rebalance a portfolio when the asset class weight falls outside of a
+corridor around the target allocation. The width of each corridor is customized for each client
+and proportional to the target allocation. Beade recommends wider corridor widths for high-risk
+asset classes, narrower corridor widths for less liquid asset classes, and narrower corridor
+widths for taxable clients with high capital gains tax rates.One client sponsors a defined
+benefit pension plan where the present value of the liabilities is $241 million and the market
+value of plan assets is $205 million. Beade expects interest rates to rise and both the present
+value of plan liabilities and the market value of plan assets to decrease by $25 million,
+changing the pension plan’s funding ratio.Beade uses a surplus optimization approach to
+liability-relative asset allocation based on the objective functionU_m^LR=E(Rs,m) -
+0.005λσ2(Rs,m)where E(Rs,m) is the expected surplus return for portfolio m, λ is the risk
+aversion coefficient, and σ2(Rs,m) is the variance of the surplus return. Beade establishes
+the expected surplus return and surplus variance for three different asset allocations, shown
+in Exhibit 2. Given λ = 1.50, she chooses the optimal asset mix.
+Client Haunani Kealoha has a large fixed obligation due in 10 years. Beade assesses that
+Kealoha has substantially more funds than are required to meet the fixed obligation. The client
+wants to earn a competitive risk-adjusted rate of return while maintaining a high level of
+certainty that there will be sufficient assets to meet the fixed obligation.In the private
+wealth area, the firm has designed five subportfolios with differing asset allocations that are
+used to fund different client goals over a five-year horizon. Exhibit 3 shows the expected
+returns and volatilities of the subportfolios and the probabilities that the subportfolios will
+exceed an expected minimum return. Client Luis Rodríguez wants to satisfy two goals. Goal 1
+requires a conservative portfolio providing the highest possible minimum return that will be
+met at least 95% of the time. Goal 2 requires a riskier portfolio that provides the highest
+minimum return that will be exceeded at least 85% of the time.
+Müller uses a risk parity asset allocation approach with a client’s four–asset class
+portfolio. The expected return of the domestic bond asset class is the lowest of the asset
+classes, and the returns of the domestic bond asset class have the lowest covariance with other
+asset class returns. Müller estimates the weight that should be placed on domestic bonds.Müller
+and a client discuss other approaches to asset allocation that are not based on optimization
+models or goals-based models. Müller makes the following comments to the client:
+Comment 1：An advantage of the “120 minus your age” heuristic over the 60/40 stock/bond
+heuristic is that it incorporates an age-based stock/bond allocation.
+Comment 2:The Yale model emphasizes traditional investments and a commitment to active
+management.
+Comment 3:A client’s asset allocation using the 1/N rule depends on the investment
+characteristics of each asset class.
+ ","['./dataset/images/AssetAllocation_images/share1-8_1.png', './dataset/images/AssetAllocation_images/share1-8_2.png', './dataset/images/AssetAllocation_images/share1-8_3.png']","In the risk parity asset allocation approach that Müller uses, the weight that",,"{'A': 'less than 25%.', './dataset/images/B': 'equal to 25%.', './dataset/images/C': 'greater than 25%.'}",C,"$$
+w_i \times \text{Cov}(r_i, r_p) = \frac{1}{n} \sigma_p^2
+$$
+
+where
+$$
+w_i = \text{weight of asset } i
+$$
+$$
+\text{Cov}(r_i, r_p) = \text{covariance of asset } i \text{ with the portfolio}
+$$
+$$
+n = \text{number of assets}
+$$
+$$
+\sigma_p^2 = \text{variance of the portfolio}
+$$
+
+In this example, there are four asset classes, and the variance of the total portfolio is assumed to be 25%; therefore, using a risk parity approach, the allocation to each asset class is expected to contribute $ (1/4 \times 25\%) = 6.25\% $ of the total variance. Because bonds have the lowest covariance, they must have a higher relative weight to achieve the same contribution to risk as the other asset classes.",卓衡,Knowledge reasoning QA,text+image,Easy,"Risk parity, Asset allocation, Portfolio variance",Asset Allocation,Asset Allocation
+1154,1,"Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant
+portfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and
+institutional investors. Chen asks Garcia to analyze certain information relating to Aycrig
+Fund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under
+management (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer
+coefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen
+directs Garcia to determine the maximum position size that Manager A can hold in shares of
+Pasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of
+0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A
+has the following position size policy constraints:
+■Allocation: No investment in any security may represent more than 3% of total AUM.
+■Liquidity: No position size may represent more than 10% of the dollar value of the security's
+ADV.
+■Index weight: The maximum position weight must be less than or equal to 10 times the
+security's weight in the index.Manager B holds a highly diversified portfolio that has balanced
+exposures to rewarded risk factors, high active share, and a relatively low active risk
+target.Selected data on Manager C's portfolio, which contains three assets, is presented in
+Exhibit 1.
+Chen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios
+X, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha
+skills, and their factor exposures align with both Aycrig's and investors' expectations and
+constraints. The portfolio factor exposures, risk contributions, and risk characteristics are
+presented in Exhibits 2 and 3.
+ 
+Chen and Garcia next discuss characteristics of long–short and long-only investing. Garcia
+makes the following statements about investing with long–short and long-only managers:
+Statement 1: A long–short portfolio allows for a gross exposure of 100%.
+Statement 2: A long-only portfolio generally allows for greater investment capacity than other
+approaches, particularly when using strategies that focus on large-cap stocks.
+Chen and Garcia then turn their attention to portfolio management approaches. Chen prefers an
+approach that emphasizes security-specific factors, engages in factor timing, and typically
+leads to portfolios that are generally more concentrated than those built using a systematic
+approach.
+ ","['./dataset/images/EquityPortfolioManagement_images/share1-7_1.png', './dataset/images/EquityPortfolioManagement_images/share1-7_2.png', './dataset/images/EquityPortfolioManagement_images/share1-7_3.png']",The number of truly independent decisions Manager A would need to make in order,,"{'A': '8', './dataset/images/B': '11', './dataset/images/C': '69'}",C,"$$
+E(R_A) = IC \times \sqrt{BR} \times \sigma_{RA} \times TC
+$$
+
+$$
+E(R_A) = 0.15 \times \sqrt{BR} \times 5\% \times 0.40 = 2.5\%
+$$
+
+$$
+2.5\% = 0.15 \times \sqrt{BR} \times 5\% \times 0.40
+$$
+
+$$
+\sqrt{BR} = \frac{2.5\%}{0.3\%} = 8.33
+$$
+
+$$
+BR = 69.44
+$$",卓衡,Knowledge reasoning QA,text+image,Easy,"Monte Carlo simulations, Risk and decision analysis, Independence & correlation in decision-making",Equity Portfolio Management,Equity Portfolio Management
+1177,24,"The Mackenzie Education Foundation funds educational projects in a four-state region of
+the United States. Because of the investment portfolio’s poor benchmark-relative returns, the
+foundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and
+provide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive
+director, to review the existing asset allocation strategy. Laubach believes the portfolio’s
+underperformance is attributable to the equity holdings, which are allocated 55% to a US large-
+capitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively
+managed developed international fund.Laubach states that the board is interested in following a
+passive approach for some or all of the equity allocation. In addition, the board is open to
+approaches that could generate returns in excess of the benchmark for part of the equity
+allocation. McMahon suggests that the board consider following a passive factor-based momentum
+strategy for the allocation to international stocks.McMahon observes that the benchmark used
+for the US large-cap equity component is a price-weighted index containing 150 stocks. The
+benchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution
+analysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to
+the benchmark.
+The board decides to consider adding a mid-cap manager. McMahon presents candidates for the
+mid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index
+fund.
+ 
+ ","['./dataset/images/EquityPortfolioManagement_images/share21-26_1.png', './dataset/images/EquityPortfolioManagement_images/share21-26_2.png']","Based on its HHI, the initial US large-cap benchmark most likely has:",,"{'A': 'a concentration level of 4.29.', './dataset/images/B': 'an effective number of stocks of approximately 35.', './dataset/images/C': 'individual stocks held in approximately equal weights.'}",B,"$$
+HHI = \sum_{i=1}^{n} w_i^2
+$$
+
+Using the HHI, one can estimate the effective number of stocks, held in equal weights, that would mimic the concentration level of the respective index. The effective number of stocks for a portfolio is calculated as the reciprocal of the HHI. The HHI is 0.0286; the reciprocal (1/0.0286) is 34.97. Therefore, the effective number of stocks to mimic the US large-cap benchmark is approximately 35.",卓衡,Math reasoning QA,text+image,Easy,"Concentration Measurement, Effective Number of Stocks, Herfindahl-Hirschman Index (HHI)",Equity Portfolio Management,Equity Portfolio Management
+1417,4,,,"Using the Merton model, calculate the current value of a firm's equity and debt given that
+the current value of the firm is $100 million, the principal amount due in five years on the
+zero-coupon bond is $100 million, the annual interest rate is 10%, and the volatility of the
+firm is 20%.",,"{'A': '$100 million in\\ndebt and $0 in equity.', 'B': '$60.65 million\\nin debt and $39.35 million in equity.', 'C': '$58.38 million\\nin debt and $41.62 million in equity.', 'D': '\xa0$32.59 million\\nin debt and $67.41 million in equity.'}",C,"$$
+S_t = 100N(d) - (100)(0.6065)N\left(d - \sigma\sqrt{T - t}\right)
+$$
+
+$$
+d = \frac{\ln\left(\frac{100}{(100)(0.6065)}\right)}{(0.20)\sqrt{5 - 0}} + \frac{1}{2}(0.20)\sqrt{5 - 0} = \frac{\ln(1.6488)}{0.4472} + \frac{1}{2}(0.4472) = 1.3418
+$$
+
+$$
+S_t = 100N(1.3418) - (100)(0.6065)N(1.3418 - 0.4472)
+$$
+
+$$
+S_t = 100(0.9101) - (60.65)(0.8144)
+$$
+
+$$
+S_t = 91.01 - 49.39 = 41.62
+$$
+
+Therefore, the value of equity of the firm is $41.62$ million. Since the value of debt must be the difference between the firm’s value of $100$ million and the value of equity, the value of debt is $58.38$ million.",海州,Math reasoning QA,text only,Hard,"Merton Model, Valuation of Debt and Equity, Volatility Measurement",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1441,28,,,"Lin Ping is valuing a 1-year credit default swap (CDS) contract which will pay the buyer 75%
+of the face value of a bond issued by Xiao Corp, immediately after a default by Xiao. To
+purchase this CDS, the buyer will pay the CDS spread, which is a percentage of the face value,
+once at the end of the year. Lin estimates that the risk-neutral default probability for Xiao
+is 5% per year. The risk-free rate is 3% per year. Assuming defaults can only occur halfway
+through the year and that the accrued premium is paid immediately after a default, what is the
+estimate for the CDS spread?",,"{'A': '380 basis points', 'B': '385 basis points', 'C': '390 basis points', 'D': '400 basis points'}",C,"$$
+\pi = \text{probability of default during year 1} = 5\% 
+$$
+
+$$
+C = \text{contingent payment in case of default} = 75\%
+$$
+
+$$
+d = \text{discount factor} = e^{-0.05} \text{ for 1-year and } e^{-0.03} \text{ for half a year} = 0.97044 \text{ and } 0.98511
+$$
+
+$$
+s = \text{CDS spread (to be solved)}
+$$
+
+The premium leg, which includes the spread payment and accrual, is:
+
+$$
+s^* (0.5d_\pi) + d_\pi (1-\pi) = s^*(0.02463 + 0.92192) = s^*0.94655 
+$$
+
+The payoff leg is:
+
+$$
+C^*(d_\pi) = 0.03694
+$$
+
+Solving for the spread: 
+
+$$
+s^*0.94655 = 0.03694 \rightarrow s = 0.03902 \text{ or a spread of 390 basis points.}
+$$",海州,Math reasoning QA,text only,Hard,"Credit Default Swaps, Risk-Neutral Valuation, Default Probability",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1442,29,,,"You are the risk manager at Vision, a small fixed-income hedge fund that specializes in bank
+debt. Vision's strategy uilizes both relative valueand long-only trades using credit default
+swaps (CDS) and bonds. One of the new traders has the positions described in the table below:
+ 
+Some of Vision's newest clients are restricted from withdrawing their funds for three years.
+You are currently evaluating the impact of variousdefault scenarios to estimate future asset
+liquidity. You have estimated that the marginal probility of default of the Stanos bond is 5%
+in Year 1,10% in Year 2, and 15% in Year 3. What is the probability that the bond makes coupon
+payments for 3 years and then default at the end of Year3?",./dataset/images/CreditRiskMeasurementandManagement2_images/29u.png,"{'A': '小于13%', 'B': '15%', 'C': '27%', 'D': '73%'}",A,"$$
+P \text{ (Default at end of year 3)} = (1 - MP^{\text{year 1 default}}) \cdot (1 - MP^{\text{year 2 default}}) \cdot MP^{\text{year 3 default}}
+$$
+
+$$
+= (1 - 0.05) \cdot (1 - 0.10) \cdot 0.15 = 0.1283 \text{ or } 12.83\%.
+$$",海州,Math reasoning QA,text only,Hard,"Credit Risk, Probability of Default, Valuation of Fixed Income Securities",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1448,35,,,"You are evaluating the credit risk in a portfolio comprised of Loan A and Loan B. In
+particular, you are interested in the risk contribution of each of the loans to the unexpected
+loss of the portfolio. Given the information in the table below, and assuming that the
+correlation of default between Loan A and Loan B is 20%, what is the risk contribution of Loan
+A to the risk of the portfolio?",./dataset/images/CreditRiskMeasurementandManagement2_images/35u.png,"{'A': 'USD 39,587', 'B': 'USD 62,184', 'C': 'USD 96,794', 'D': 'USD 120,285'}",B,"$$
+RCA = \frac{(UL_A^2 + p \times UL_A \times UL_B)}{UL_p}
+$$
+
+$$
+UL = A \times \sqrt{EDF \times VAR_{LGD} + LGD^2 \times VAR_{EDF}} \text{ Therefore:}
+$$
+
+$$
+UL_A = 3,000,000 \times \sqrt{(1.5\% \times 20\%)^2 + (30\% \times 7\%)^2} = 96,793.59
+$$
+
+$$
+UL_B = 2,000,000 \times \sqrt{(3.5\% \times 30\%)^2 + (45\% \times 12\%)^2} = 155,769.06
+$$
+
+$$
+UL_p = \sqrt{(96,793.59^2 + 155,769.06^2 + 2 \times 96,793.59 \times 155,769.06)} = 199,158.17
+$$
+
+$$
+RCA = \frac{(96,793.59^2 + 20\% \times 96,793.59 \times 155,769.06)}{199,158.17} = 62,184.19
+$$",海州,Math reasoning QA,text only,Hard,"Credit risk, Portfolio risk, Correlation of default",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1449,36,,,"An analyst is using Moody’s KMV model to estimate the distance to default of a large public
+firm, Shoos Inc., a firm that designs, manufactures and sells athletic shoes. The firm’s
+capital structure consists of USD 40 million in short-term debt, USD 20 million in long-term
+debt, and there are one million shares of stock currently trading at USD 10 per share. The
+asset volatility is 20% per year. What is the normalized distance to default for Shoos Inc.?",,"{'A': '0.714', 'B': '1.430', 'C': '2.240', 'D': '5.000'}",B,"$$
+DD = \frac{A - K}{A \sigma_A}
+$$
+
+where: “$K$” (floor) is defined as the value of all short term liabilities (one year $A \sigma A$ and under) plus one half of the book value of all long term debt: 40 million + 0.5 \times 20 million = 50 million. ‘$A$’ is the value of assets: Market value of equity (1 million shares \times 10/share = 10 million) plus the book value of all debt (60 million) = 70 million. Thus $A \sigma A = 20\% \times 70 million = 14 million$. DD = $\frac{(70 million - 50 million)}{14 million} = 1.429$ standard deviations.",海州,Math reasoning QA,text only,Hard,"Credit Risk Modeling, Distance to Default, Moody's KMV Model",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1451,38,,,"Suppose XYZ Corp. has two bonds paying semiannually according to the following table. The
+recovery rate for each in the event of default is 50%. For simplicity, assume that each bond
+will default only at the end of a coupon period. The market-implied risk-neutral probability of
+default for XYZ Corp. is:",./dataset/images/CreditRiskMeasurementandManagement2_images/38u.png,"{'A': 'Greater in the first six-month period than in the second', 'B': 'Equal between the two coupon periods', 'C': 'Greater in the second six-month period than in the first', 'D': 'Cannot be determined from the information provided'}",A,"First, we compute the current yield on the six-monthbond, which is selling at a
+discount. We solve for y such that 99 = 104/(1 + y /2) and find y  = 10.10%. Thus, the yield
+spread for the first bond is 10.1  5.5 = 4.6%. The second bond is at par, so the yield is y  =
+9%. The spread for the second bond is 9  6 = 3%. The default rate for thefirst period must be
+greater. The recovery rate is the same for the twoperiods, so it does not matter for this
+problem",海州,Math reasoning QA,text only,Hard,"Yield Spread Analysis, Risk-neutral Probability of Default, Bond Valuation",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1466,4,,,"A risk manager is evaluating the risk profile for a portfolio of stocks. Currently, the
+portfolio is valued at JPY 128 billion and contains JPY 25 billion in stock XYZ. The standard
+deviation of returns of stock XYZ is 11% annually and that of the overall portfolio is 18%
+annually. The correlation of returns between stock XYZ and the portfolio is 0.6. Assuming the
+risk analyst uses a 1-year 95% VaR and that returns are normally distributed, what is the
+estimated component VaR of stock XYZ?",,"{'A': 'JPY 2.714 billion', 'B': 'JPY 3.838 billion', 'C': 'JPY 4.524 billion', 'D': 'JPY 6.397 billion'}",A,"$$
+VaR_{XYZ} = w_{XYZ} * \sigma_{XYZ} * \alpha(95\%) = \text{JPY } 25 \text{ million } \times 0.11 \times 1.645 = \text{JPY } 4.524 \text{ billion}
+$$
+
+$$
+\text{Component } VaR_{XYZ} = p * VaR_{XYZ} = 0.6 \times 4.524 = \text{JPY } 2.714 \text{ billion}
+$$",海州,Math reasoning QA,text only,Hard,"Value at Risk (VaR), Portfolio Risk Management, Correlation and Standard Deviation",Risk Management and Investment Management,RiskManagement and Investment Management2
+1468,6,,,"A portfolio manager wants to invest a small amount of new money that has recently come into a
+fund. The fund is benchmarked to an index and, rather than adding a new holding, the manager is
+considering increasing the holdings of one of the four assets described in the following
+table: 
+ 
+ 
+The portfolio manager wants to select the asset that has the lowest marginal VaR as long as its
+Treynor ratio is at least 0.1. Assuming the risk free rate is 2%, which asset should the
+portfolio manager select?",./dataset/images/RiskManagementandInvestmentManagement2_images/6u.png,"{'A': 'Asset A', 'B': 'Asset B', 'C': 'Asset C', 'D': 'Asset D'}",C,"| Asset | Portfolio Weight | Expected Return | Beta to the Index | Beta to the Portfolio | Correct Treynor | Incorrect Treynor |
+|-------|------------------|-----------------|--------------------|-----------------------|------------------|-------------------|
+| A     | 1.2%             | 12%             | 1.2                | 0.90                  | 0.083            | 0.111             |
+| B     | 0.8%             | 10%             | 0.7                | 0.90                  | 0.114            | 0.089             |
+| C     | 0.75%            | 10%             | 0.6                | 0.85                  | 0.133            | 0.094             |
+| D     | 0.35%            | 8%              | 0.3                | 1.10                  | 0.200            | 0.055             |",海州,Math reasoning QA,text only,Hard,"Marginal VaR, Treynor ratio, Portfolio management strategies",Risk Management and Investment Management,RiskManagement and Investment Management2
+1478,16,,,"A portfolio is composed of two securities ans has the following
+characteristics:  Investment in X:   USD 1.8 million  Investment in Y:  USD 3.2 million
+ Volatility of X:  8%  Volatility of Y: 4%  Correlation between X and Y: 15%  The
+portfolio diversified VAR at the 95% confidence level is closest to:",,"{'A': '1', 'B': '$14,074', 'C': '$206,500', 'D': '$404,740'}",D,"$$
+Variance_{x,y} = w_{x}^2 \sigma_{x}^2 + w_{y}^2 \sigma_{y}^2 + 2 \times w_{x} \times w_{y} \times \sigma_{x} \times \sigma_{y} \times Corr_{x,y}
+$$
+
+$$
+Variance_{x,y} = 0.36^2 \times 0.08^2 + 0.64^2 \times 0.04^2 + 2 \times 0.36 \times 0.64 \times 0.08 \times 0.04 \times 0.15
+$$
+
+$$
+Variance_{x,y} = 0.00082944 + 0.00065536 + 0.000221184
+$$
+
+$$
+Variance_{x,y} = 0.001705984
+$$
+
+$$
+Standard \ deviation = \sqrt{0.001705984} = 4.13\%
+$$
+
+Step 2: Calculate the VAR $VAR = 1.65 \times volatility \times portfolio \ value \quad VAR = 1.65 \times 0.0413 \times \$5m$",海州,Math reasoning QA,text only,Hard,"Value at Risk (VaR), Portfolio Volatility, Correlation",Risk Management and Investment Management,RiskManagement and Investment Management2
+1480,18,,,"SkyLine Airways has a defined benefit pension scheme with assets of $165 million and
+liability of $150 million. The annual growth of the liabilities is expected to be 4.5% with
+2.4% volatility. The annual return on the pension assets has an expected value of 7.8% with 12%
+volatility. The correlation between asset return and liability growth is 0.35. What is the 95%
+surplus at risk for SkyLine?",,"{'A': '$24.97million', 'B': '$54.81million', 'C': '$18.84million', 'D': '$6.12million'}",A,"$$
+Var_{A\&L} = 165^2 \times 0.12^2 + 150^2 \times 0.024^2 - 2 \times 165 \times 150 \times 0.12 \times 0.024 \times 0.35
+$$
+
+$$
+Var_{A\&L} = 392.04 + 12.96 - 49.896
+$$
+
+$$
+Var_{A\&L} = 355.104
+$$
+
+$$
+\text{Standard deviation} = \sqrt{355.104} = 18.84m
+$$
+
+Step 3: Calculate VAR of the assets. $VAR = Z\text{-score} \times \text{volatility} \; VAR = 1.65 \times 18.84m \; VAR = 31,086,000$. Surplus at risk = expected growth in surplus - VAR. Surplus at risk = $6.12m - 31.086m = -24.97m$. Note: Although it is a negative, it is usually expressed as a positive figure as it is assumed that it is a shortfall. (1)",海州,Math reasoning QA,text only,Hard,"Value at Risk (VaR), Defined Benefit Pension Scheme, Volatility",Risk Management and Investment Management,RiskManagement and Investment Management2
+1497,35,,,"The Westover Fund is a portfolio consisting of 42% fixed-income investments and 58% equity
+investments. The manager of the Westover Fund recently estimated that the annual VaR (5%),
+assuming a 250-day year, for the entire portfolio was $1,367,000 based on the portfolio's
+market value of $12,428,000 and a correlation coefficient between stocks and bonds of zero. If
+the annual loss in the equity position is only expected to exceed $1,153,000 five percent of
+the time, then the daily expected loss in the bond position that will be exceeded five percent
+of the time is closest to:",,"{'A': '46445', 'B': '72623', 'C': '55171', 'D': '21163'}",A,"$$
+VaR^{2}_{portfolio} = VaR^{2}_{Stocks} + VaR^{2}_{Bonds} + 2VaR_{Stocks} VaR_{Bonds} \rho_{Stocks,Bonds}
+$$
+
+$$(1,367,000)^{2} = (1,153,000)^{2} + VaR^{2}_{Bonds} + 2(1,153,000) VaR_{Bonds}(0)$$
+
+$$
+VaR_{Bonds} = [(1,367,000)^{2} - (1,153,000)^{2}]^{0.5} = 734,357
+$$
+
+Next convert the annual $VaR_{Bonds}$ to daily $VaR_{Bonds}$: 
+
+$$
+734,357 \cdot \frac{1}{(250)^{0.5}} = 46,445
+$$",海州,Math reasoning QA,text only,Hard,"Value at Risk (VaR), Portfolio management, Risk measurement methods",Risk Management and Investment Management,RiskManagement and Investment Management2
+1505,44,,,"A risk manager assumes that the joint distribution of returns is multivariate normal and
+calculates the following risk measures for a 2-asset portfolio: 
+ 
+ 
+ Let βi = ρip*σi/σp where ρip denotes the correlation between the return of asset I and
+the return of the portfolio, σi is the volatility of the return of asset i and σp is the
+volatility of the return of the portfolio. What is β2?",./dataset/images/RiskManagementandInvestmentManagement2_images/44u.png,"{'A': '0.714', 'B': '1.429', 'C': '1.513', 'D': 'Cannot determine from information provided.'}",B,"Marginal VaRi = βi*PortfolioVaR/Portfolio ValueSo, βi = Marginal
+VaRi*PortfolioValue/Portfolio VaRβ2 = 0.44*200/61.6 = 1.429 (1)",海州,Math reasoning QA,text only,Hard,"Multivariate normal distribution, Portfolio risk measures, Beta calculation",Risk Management and Investment Management,RiskManagement and Investment Management2
+1506,45,,,"You are evaluating the performance of Valance, an equity fund designed to mimic the
+performance of the Russell 2000 Index. Based upon the information provided below. what is the
+best estimate of the tracking error of Valance relative to the Russell 2000 Index?
+·       Annual volatility of Valance:                      35%
+·       Annual volatility of Russell 2000 Index:      40%
+·       Correlation between Valance and the Russell 2000 Index: 0.90",,"{'A': '3.1%', 'B': '17.5%', 'C': '39.6%', 'D': '53.2%'}",B,"$$
+\omega^2 = \sigma(p - B)^2
+$$
+
+$$
+= \sigma(p)^2 + \sigma(B)^2 - 2 \times \sigma(p) \times \sigma(B) \times \rho
+$$
+
+$$
+= 0.35^2 + 0.4^2 - 2 \times 0.35 \times 0.4 \times 0.9 = 0.0305
+$$
+
+$$
+\omega = 17.5\%
+$$
+
+Where, $p$ = portfolio returns, $B$ = benchmark returns, $P$ = correlation between benchmark and portfolio.",海州,Math reasoning QA,text only,Hard,"Tracking Error, Portfolio Volatility, Correlation Coefficient",Risk Management and Investment Management,RiskManagement and Investment Management2
+1507,46,,,"Consider a USD 1 million portfolio with an equal investment in two funds. Alpha and Omega,
+with the following annual return distributions: 
+ 
+ 
+ Assuming the returns follow the normal distribution and that there are 252 trading days per
+year, what is the maximum possible daily 95% Value-at-Risk (VaR) estimate for the portfolio?",./dataset/images/RiskManagementandInvestmentManagement2_images/46u.png,"{'A': 'USD 16,587', 'B': 'USD 23,316', 'C': 'USD 23,459', 'D': 'USD 32,973'}",B,"This question teststhat the candidates understands correlation in calculating
+portfolio VaR. fromthe table, we can get daily volatility for each fund:Fund Alpha volatility:
+0.20/2520.5=1.260%Fund Omega volatility: 0.25/2520.5=1.575%Portfolio
+variance:0.52*0.012592+0.52*0.015472+2*0.5*0.5*0.01259*0.01574*ρPortfolio volatility =
+(portfolio variance)0.5Portfolio volatility is least when ρ=-1 →      portfolio
+volatility = 0.1575%Portfolio volatility is greatest when ρ=1 → portfoliovolatility =
+1.4175%Therefore, 95% VaR maximum is 1.645*0.014175*1,000,000 =USD 23,316(5)",海州,Math reasoning QA,text only,Hard,"Value-at-Risk (VaR), Portfolio Volatility, Correlation",Risk Management and Investment Management,RiskManagement and Investment Management2
+1510,49,,,"A portfolio has USD 2 million invested in Stock A and USD 1 million invested in Stock B. The
+95% 1-day VaR for each individual position is USD 40,000. The correlation between the returns
+of Stock A and Stock B is 0.5. While rebalancing, the portfolio manager decides to sell USD 1
+million of Stock A to buy USD 1 million of Stock B. Assuming that returns are normally
+distributed and that the rebalancing does not affect the volatility of the individual stocks,
+what effect will this have on the 95% 1-day portfolio VaR?",,"{'A': 'There will be no effect.', 'B': 'It will increase by USD 20,370.', 'C': 'It will increase by USD 21,370.', 'D': 'It will increase by USD 22,370.'}",D,"$$
+VaR_{port}(A,B) = \sqrt{(VaR_A^2 + VaR_B^2 + (2 \rho \cdot VaR_A \cdot VaR_B))}
+$$
+
+$$
+\sqrt{40000^2 + 40000^2 + (2 \cdot 0.5 \cdot 40000 \cdot 40000)} = \text{USD } 69,282.
+$$
+
+After the rebalance, the market value of the position in Stock A is halved, so $VaR(A)$ is now equal to $20,000$. Meanwhile, the market value for the position in B has doubled so that $VaR(B)$ is now $80,000$. Hence we can now calculate the VaR of the new portfolio as follows:
+
+$$
+PortfolioVaR (after) = \sqrt{20000^2 + 80000^2 + (2 \cdot 0.5 \cdot 20000 \cdot 80000)} = \text{USD } 91,652.
+$$
+
+So the VaR will increase by $(91,652 - 69,282)$, or $\text{USD } 22,370. (1)$",海州,Math reasoning QA,text only,Hard,"Value at Risk (VaR), Portfolio Management, Correlation",Risk Management and Investment Management,RiskManagement and Investment Management2
+1636,4,,,"Assume the following continuously compounded zero rates: 1.0% at 0.5 years; 1.6% at 1.0 year;
+1.9% at 1.5 years; and 2.5% at 2.0 years. What is the theoretical price of a bond with a $100
+principal that pays coupons at the rate of 2.0% semiannually?",,"{'A': '$98.03', 'B': '$99.03', 'C': '$100.03', 'D': '$101.03'}",B,"$$
+1 \times e^{-1.0\% \times 0.5} + 1 \times e^{-1.6\% \times 1} + 1 \times e^{-1.9\% \times 1.5} + 101 \times e^{-2.5\% \times 2} = \$99.03
+$$",醇厚,Math reasoning QA,text only,Easy,"Bond pricing, Zero-coupon rates, Continuously compounded interest rates",Financial Markets and Products,Financial Markets and Products1
+1639,7,,,"Consider the following, a 7-year zero-coupon bond carries an annual yield of 6.75% and a 6-
+year zero coupon bond carries an annual yield of 5.87%. Calculate the 1 year forward rate 6
+years from now. Assume annual compounding.",,"{'A': '6.31%', 'B': '12.03%', 'C': '12.19%', 'D': '12.62%'}",C,"$$
+(1 + 6.75\%)^7 = (1 + 5.87\%)^6 \times (1 + F_{6,7}) \Rightarrow F_{6,7} = 12.19\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Yield Curve, Forward Rates, Zero-Coupon Bonds",Financial Markets and Products,Financial Markets and Products1
+1690,58,,,"A trader executes a $200 million 5-year pay fixed swap with one client (duration 4.36) and a
+$100 million 10-year receive fixed swap with another client (duration 7.66) shortly afterwards.
+Assuming that the 5-year rate is 4.75% and 10-year rate is 5.15% and that all contracts are
+transacted at par, how can the trader hedge his net delta position?",,"{'A': 'Sell 424 Eurodollar future contracts', 'B': 'Buy 424 Eurodollar future contracts', 'C': 'Sell 6,552 Eurodollar future contracts', 'D': 'Buy 6,552 Eurodollar future contracts'}",B,"$$
+DVBP_{5-year} = 200 \times 4.36 \times 0.0001 = 0.0872m
+$$
+
+$$
+DVBP_{10-year} = 100 \times 7.66 \times 0.0001 = 0.0766m
+$$
+
+$$
+\text{Net DVBP} = -0.0106m = -10600
+$$
+
+$$
+N^* = -(\text{DS} \times S) / (\text{DF} \times F) = 10600 / 25 = 424
+$$
+
+(The DVBP or a Eurodollar future is 25) 这个题是对冲的问题，但是有一些复杂，一般用duration就可以直接对冲，但是这里面给的不是直接的portfolio的duration。而且每个资产的资金量都是不一样的，这种时候我们一般都用DV01来做。所以第一步就是算出两个资产各自的DV01，然后直接相加减，得出整个组合的DV01。然后用欧洲美元期货的DV01来进行对冲，一般把欧洲美元期货的DV01看做是25。",醇厚,Math reasoning QA,text only,Easy,"Interest Rate Risk, Duration, Hedging Strategies",Financial Markets and Products,Financial Markets and Products1
+1707,75,,,"The current spot price of cotton is USD 0.7409 per pound. The cost of storing and insuring
+cotton is USD 0.0042 per pound per month payable at the beginning of every month. The risk-free
+rate is 5%. A 3-month forward contract trades at USD 0.7415 per pound. If there is an arbitrage
+opportunity, how would you capitalize on it to make a profit? Assume there are no restrictions
+on short selling cotton.I Short the futures contractII Borrow at the risk-free rateIII Buy
+cotton at the spot priceIV Go long in the futures contractV Invest at the risk-free rateVI Sell
+cotton at the spot price",,"{'A': 'There is no arbitrage opportunity here.', 'B': 'The arbitrage opportunity involves I, II, and III.', 'C': 'The arbitrage opportunity involves IV, V, and VI.', 'D': 'The arbitrage opportunity involves II, IV, and VI.'}",C,"$$
+PV(\text{cost of storing}) = 0.0042 + 0.0042e^{-0.05 \times 1/12} + 0.0042e^{-0.05 \times 2/12} = 0.0125
+$$
+
+$$
+F = (0.7409 + 0.0125)e^{0.05 \times \frac{3}{12}} = 0.7628
+$$
+
+While the futures price is 0.7415, which is lower than 0.7628, you need to buy the futures, sell cotton spot and invest the funds in a risk-free bond so as to obtain a riskless profit.",醇厚,Math reasoning QA,text only,Easy,"Arbitrage opportunities, Forward contracts, Cost of carry",Financial Markets and Products,Financial Markets and Products1
+1738,106,,,"The S&P 500 index is trading at 1,025. The S&P 500 pays an expected continuously dividend
+yield of 1.2% and the current continuously compounded risk-free rate is 2.75%. The price of a
+3-month futures contract on the S&P 500 index is closest to:",,"{'A': '1,028.98', 'B': '1,108.59', 'C': '984.86', 'D': '1,025.00'}",A,"$$
+F = Se^{(r-\delta)t} = 1025e^{(0.0275-0.012) \times 0.25} = 1028.98
+$$",醇厚,Math reasoning QA,text only,Easy,"Futures pricing, Dividend yield, Continuously compounded interest rate",Financial Markets and Products,Financial Markets and Products1
+1973,60,,,"Geofinancial Bank currently has the following (very) simplified balance sheet:
+ 
+ 
+Further, the maturities of these accounts are as follows: ●Assets: The bonds ($30.0 million)
+expire in one year. In regard to the loans ($70.0),$40.0 million expire in five (5) years,
+$10.0 million expire in seven (7) years, and $20.0 million expire in ten (10) years.
+●Liabilities: In regard to the deposits ($20.0 million), $10.0 million expire in one (1) year,
+and $20.0 million expire in two (2) years. In regard to the bonds ($50.0 million), $10.0
+million expire in five (5) years, $30.0 million expire in seven (7) years, and $10.0 million
+expire in beyond ten (>10) years. ●Equity ($20.0 million) is presumed to expire in ten (10)
+years Which term structure of expected cash flows is accurate for Geofinancial Bank?",./dataset/images/LiquidityandTreasuryRiskMeasurementandMan1_images/60u.png,"{'A': 'Series A', 'B': 'Series B', 'C': 'Series C', 'D': 'Series D'}",C,"\begin{array}{|c|c|c|c|c|}
+\hline
+\text{Maturity} & \text{Assets} & \text{Liabilities} & \Delta & \text{Net} \\ 
+\hline
+1 & 30 & 10 & 20 & 20 \\ 
+2 &    & 20 & -20 & 0 \\ 
+5 & 40 & 10 & 30 & 30 \\ 
+7 & 10 & 30 & -20 & 10 \\ 
+10 & 20 & 20 & 0 & 10 \\ 
+>10 &    & 10 & -10 & 0 \\ 
+\hline
+\text{Sum} & 100 & 100 &     &   \\ 
+\hline
+\end{array}",醇厚,Math reasoning QA,text only,Easy,"Interest Rate Risk, Balance Sheet Management, Liquidity Risk",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1
+2014,16,"Silvia Abram and Walter Edgarton are analysts with Cefrino Investments, which sponsors
+the Cefrino Sovereign Bond Fund (the Fund). Abram and Edgarton recently attended an investment
+committee meeting where interest rate expectations for the next 12 months were discussed. The
+Fund’s mandate allows its duration to fluctuate ±0.30 per year from the benchmark duration.
+The Fund’s duration is currently equal to its benchmark. Although the Fund is presently
+invested entirely in annual coupon sovereign bonds, its investment policy also allows
+investments in mortgage-backed securities (MBS) and call options on government bond futures.
+The Fund’s current holdings of on-the-run bonds are presented in Exhibit 1.
+Over the next 12 months, Abram expects a stable yield curve; however, Edgarton expects a
+steepening yield curve, with short-term yields rising by 1.00% and long-term yields rising by
+more than 1.00%.Based on her yield curve forecast, Abram recommends to her supervisor changes
+to the Fund’s holdings using the following three strategies:Strategy 1: Sell the 3-year
+bonds, and use the proceeds to buy 10-year bonds.Strategy 2: Sell the 5-year bonds, and use
+the proceeds to buy 30-year MBS with an effective duration of 4.75.Strategy 3: Sell the 10-
+year bonds, and buy call options on 10-year government bond futures.Abram’s supervisor
+disagrees with Abram’s yield curve outlook. The supervisor develops two alternative portfolio
+scenarios based on her own yield curve outlook:Scenario 1 Sell all bonds in the Fund except
+the 2-year and 30-year bonds, and increase positions in these two bonds while keeping duration
+neutral to the benchmark.Scenario 2 Construct a condor to benefit from less curvature in the
+5-year to 10-year area of the yield curve. The condor will utilize the same 1-year, 5-year, 10-
+year, and 30-year bonds held in the Fund. The maximum allowable position in the 30-year bond in
+the condor is $17million,and the bonds must have equal (absolute value) money duration.Edgarton
+evaluates the Fund’s positions from Exhibit 1 along with two of his pro forma portfolios,
+which are summarized in Exhibit 2:
+Lastly, Edgarton reviews a separate account for Cefrino’s US clients that invest in Australian
+government bonds. He expects a stable Australian yield curve over the next 12 months. He
+evaluates the return from buying and holding a 1-year Australian government bond versus buying
+the 2-year Australian government bond and selling it in one year.
+ 
+ ","['./dataset/images/Fixed-IncomePortfolioManagement_images/share14-21_1.png', './dataset/images/Fixed-IncomePortfolioManagement_images/share14-21_2.png', './dataset/images/Fixed-IncomePortfolioManagement_images/share14-21_3.png']","Based on Exhibit 1 and Abram’s interest rate expectations, which of the",,"{'A': 'Strategy 1', './dataset/images/B': 'Strategy 2', './dataset/images/C': 'Strategy 3'}",B,"In a stable yield curve environment, holding bonds with higher convexity negatively
+affects portfolio performance. These bonds have lower yields than bonds with lower convexity,
+all else being equal. The 5-year US Treasury has higher convexity than the negative convexity
+30-year MBS bond. So, by selling the 5-year Treasury and purchasing the 30-year MBS, Abram will
+reduce the portfolio’s convexity and enhance its yield without violating the duration mandate
+versus the benchmark.",卓衡,Knowledge reasoning QA,text+image,Easy,"Interest Rate Risk, Yield Curve, Convexity",Fixed-Income Portfolio Management,Fixed-Income Portfolio Management
+2027,29,"Sanober Hirji is a junior analyst with Northco Securities, which is based in Canada.
+The institutional clients of Northco are active investors in Canadian coupon-bearing government
+bonds. Client portfolios are benchmarked to a Canadian government bond index, which is a
+diverse maturity index portfolio. After reviewing the portfolio of a French institutional
+client, Hirji evaluates yield curve strategies for Canadian government bond portfolios under
+various interest rate scenarios. Hirji’s supervisor, éliane Prégent, forecasts that Canadian
+long-term rates will rise and short-term rates will fall over the next 12 months.In contrast,
+Northco’s chief economist forecasts that Canadian interest rates will increase or decrease by
+100 basis points over the next 12 months. Based on the chief economist’s forecast, Hirji
+suggests increasing the convexity of the French institutional client’s portfolio by selling
+10-year bonds and investing the proceeds in a duration-matched barbell position of Canadian
+government 3-year and long-term bonds. She notes that the duration of the 10-year bonds, along
+with the durations of the other portfolio bonds, aligns the portfolio’s effective duration
+with that of the benchmark. Selected data on Canadian government bonds are presented in Exhibit
+1.
+(* There is no single convention for how convexity numbers are presented; for example,
+Bloomberg has historically followed a convention of dividing the “raw” convexity number by
+100 (as presented here). However, it is important to use the raw convexity number when
+estimating returns.)Hirji then considers a strategy to sell some long-term bonds from the
+French institutional client’s portfolio and purchase short maturity at-the-money options on
+long-term bond futures. The portfolio’s duration would remain unchanged. Prégent asks:“How
+would portfolio performance be affected by this strategy if the yield curve were to remain
+stable?”Hirji also proposes the following duration-neutral trades for the French institutional
+client:
+Long/short trade on 1-year and 3-year Canadian government bonds
+Short/long trade on 10-year and long-term Canadian government bonds
+Six months later, Hirji reviews Canadian government bonds for a Malaysian institutional client.
+Prégent and Hirji expect changes in the curvature of the yield curve but are not sure whether
+curvature will increase or decrease. Hirji first analyzes positions that would profit from an
+increase in the curvature of the yield curve. The positions must be duration neutral, and the
+maximum position that the Malaysian client can take in long-term bonds is C$150 million. Hirji
+notes that interest rates have increased by 100 basis points over the past six months. Selected
+data for on-the-run Canadian government bonds are shown in Exhibit 2.
+Hirji then considers the scenario where the yield curve will lose curvature for the Malaysian
+institutional client. She notes that a 7-year Canadian government bond is also available in the
+market. Hirji proposes a duration-neutral portfolio comprised of 47% in 5-year bonds and 53% in
+7-year bonds.Finally, Hirji uses the components of expected returns to compare the performance
+of a bullet portfolio and a barbell portfolio for a British institutional client.
+Characteristics of these portfolios are shown in Exhibit 3.
+ 
+ ","['./dataset/images/Fixed-IncomePortfolioManagement_images/share22-29_1.png', './dataset/images/Fixed-IncomePortfolioManagement_images/share22-29_2.png', './dataset/images/Fixed-IncomePortfolioManagement_images/share22-29_3.png']","Based on Exhibit 3, the total expected return of Hirji’s barbell portfolio is",,"{'A': '–2.30%.', './dataset/images/B': '0.07%.', './dataset/images/C': '4.60%.'}",C,"The total expected return is calculated as follows:
+
+| Return Component                         | Formula                                                                          | Barbell Return(C)                               | Distractor A                                     | Distractor B                                     |
+|------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| Yield income                             | Annual coupon payment/Current bond price                                         | 1.84/100.00 = 1.84%                             | 1.84/100.00 =1.84%                               | 1.84/100.00 =1.84%                               |
+| +Rolldown return                         | (Bond price$_{0}$-Bond price$_{1}$)/Bond price$_{1}$                             | (100.46−100.00)/100.00 = 0.46%                  | (100.46−100.00)/100.00 = 0.46%                   | (100.46−100.00)/100.00 = 0.46%                   |
+| =Rolling yield                           | Yield income+Rolldown return                                                     | =2.30%                                         | =2.30%                                           | =2.30%                                           |
+| +E(change in price based on yield view)  | ($- \text{MD}_{0} \times \Delta \text{yield}) + [\frac{1}{2} \times \text{Convexity} \times (\Delta \text{yield})^2]$     | $[-4.12 \times-0.55%] + [\frac{1}{2} \times24.98 \times(-0.55%)^2] =2.30\%$           | $[-4.12 \times-0.55%] + \left[ \frac{1}{2} \times 24.98 \times(-0.55%) \right] =-4.60\%$   | $[4.12 \times-0.55%] + \left[ \frac{1}{2} \times 24.98 \times(-0.55%)^2 \right] =2.23\%$  |
+| =Total expected return                   |                                                                                  | =4.60%                                         | =-2.30%                                          | =0.07%                                           |
+
+In LaTeX:
+
+```
+The total expected return is calculated as follows:
+
+\begin{tabular}{|c|c|c|c|c|}
+  \hline
+  Return Component & Formula & Barbell Return(C) & Distractor A & Distractor B \\
+  \hline
+  Yield income & Annual coupon payment/Current bond price & 1.84/100.00 = 1.84\% & 1.84/100.00 =1.84\% & 1.84/100.00 =1.84\% \\
+  \hline
+  +Rolldown return & (Bond price$_{0}$-Bond price$_{1}$)/Bond price$_{1}$ & (100.46−100.00)/100.00 = 0.46\% & (100.46−100.00)/100.00 = 0.46\% & (100.46−100.00)/100.00 = 0.46\% \\
+  \hline
+  =Rolling yield & Yield income+Rolldown return & =2.30\% & =2.30\% & =2.30\% \\
+  \hline
+  +E(change in price based on yield view) & $(- \text{MD}_{0} \times \Delta \text{yield}) + \left[ \frac{1}{2} \times \text{Convexity} \times (\Delta \text{yield})^2 \right]$ & $[-4.12 \times-0.55\%] + \left[ \frac{1}{2} \times 24.98 \times(-0.55\%)^2 \right] =2.30\%$ & $[-4.12 \times-0.55\%] + \left[ \frac{1}{2} \times 24.98 \times(-0.55\%) \right] =-4.60\%$ & $[4.12 \times-0.55\%] + \left[ \frac{1}{2} \times 24.98 \times(-0.55\%)^2 \right] =2.23\%$ \\
+  \hline
+  =Total expected return & & =4.60\% & =-2.30\% & =0.07\% \\
+ ",卓衡,Math reasoning QA,text+image,Easy,"Fixed Income Securities, Portfolio Management, Investment Strategies",Fixed-Income Portfolio Management,Fixed-Income Portfolio Management
+2046,48,"Celia Deveraux is chief investment officer for the Topanga Investors Fund, which
+invests in equities and fixed income. The clients in the fund are all taxable investors. The
+fixed-income allocation includes a domestic (US) bond portfolio and an externally managed
+global bond portfolio.The domestic bond portfolio has a total return mandate, which specifies a
+long-term return objective of 25 basis points (bps) over the benchmark index. Relative to the
+benchmark, small deviations in sector weightings are permitted, such risk factors as duration
+must closely match, and tracking error is expected to be less than 50 bps per year.The
+objectives for the domestic bond portfolio include the ability to fund future liabilities,
+protect interest income from short-term inflation, and minimize the correlation with the
+fund’s equity portfolio. The correlation between the fund’s domestic bond portfolio and
+equity portfolio is currently 0.14. Deveraux plans to reduce the fund’s equity allocation and
+increase the allocation to the domestic bond portfolio. She reviews two possible investment
+strategies.Strategy 1 Purchase AAA rated fixed-coupon corporate bonds with a modified duration
+of two years and a correlation coefficient with the equity portfolio of –0.15.Strategy
+2 Purchase US government agency floating-coupon bonds with a modified duration of one month
+and a correlation coefficient with the equity portfolio of –0.10Deveraux realizes that the
+fund’s return may decrease if the equity allocation of the fund is reduced. Deveraux decides
+to liquidate $20 million of US Treasuries that are currently owned and to invest the proceeds
+in the US corporate bond sector. To fulfill this strategy, Deveraux asks Dan Foster, a newly
+hired analyst for the fund, to recommend Treasuries to sell and corporate bonds to
+purchase.Foster recommends Treasuries from the existing portfolio that he believes are
+overvalued and will generate capital gains. Deveraux asks Foster why he chose only overvalued
+bonds with capital gains and did not include any bonds with capital losses. Foster responds
+with two statements.Statement 1 Taxable investors should prioritize selling overvalued bonds
+and always sell them before selling bonds that are viewed as fairly valued or
+undervalued.Statement 2 Taxable investors should never intentionally realize capital
+losses.Regarding the purchase of corporate bonds, Foster collects relevant data, which are
+presented in Exhibit 1
+Deveraux and Foster review the total expected 12-month return (assuming no reinvestment income)
+for the global bond portfolio. Selected financial data are presented in Exhibit 2.
+Deveraux contemplates adding a new manager to the global bond portfolio. She reviews three
+proposals and determines that each manager uses the same index as its benchmark but pursues a
+different total return approach, as presented in Exhibit 3.
+ 
+ ","['./dataset/images/Fixed-IncomePortfolioManagement_images/share44-49_1.png', './dataset/images/Fixed-IncomePortfolioManagement_images/share44-49_2.png', './dataset/images/Fixed-IncomePortfolioManagement_images/share44-49_3.png']","Based on Exhibit 2, the total expected return of the fund’s global bond",,"{'A': '0.90%.', './dataset/images/B': '2.20%.', './dataset/images/C': '3.76%.'}",B,"| Return Component                                      | Formula                                                                                                                                                 | Calculation                            |
+|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
+| Yield income                                          | Annual coupon payment/Current bond price                                                                                                                | €2.25/€98.45 = 2.29%                  |
+| + Rolldown return                                     | $$ \frac{ \text{Bond price}_{\text{End-of-horizon period}} - \text{Bond price}_{\text{beginning-of-horizon period}} }{ \text{Bond price}_{\text{beginning-of-horizon period}} } $$           | (€98.62 - €98.45)/€98.45 = 0.17%      |
+| = Rolling yield                                       | Yield income + Rolldown return                                                                                                                          | 2.29% + 0.17% = 2.46%                 |
+| + $$E(\text{Change in price based on investor's yield and yield spread view})$$  | $$ [- \text{MD} \times \Delta \text{Yield}] + [ \frac{1}{2} \times \text{Convexity} \times (\text{Yield})^2 ] $$                                         | $$ [-5.19 \times 0.0015] + [ \frac{1}{2} \times 22 \times (0.0015)^2] = - 0.78% $$ |
+| - $$ E(\text{Credit losses}) $$                       | Given                                                                                                                                                   | - 0.13%                               |
+| + $$ E(\text{Currency gains or losses}) $$           | Given                                                                                                                                                   | 0.65%                                 |
+| = Total expected return                               |                                                                                                                                                         | **2.20%**                              |",卓衡,Knowledge reasoning QA,text+image,Easy,"Portfolio Performance Measurement, Expected Return Calculation, Fixed Income Investments",Fixed-Income Portfolio Management,Fixed-Income Portfolio Management
+2130,26,,,"Major Investments is an asset management firm with USD 25 billion under management. It owns
+20% of the stock of a company. Major Investments’ risk manager is concerned that, in the event
+the entire position needs to be sold, its size would affect the market price. His estimate of
+the price elasticity of demands is -0.5. What is the increase in Major Investments’ Value-at-
+Risk estimate for this position if a liquidity adjustment is made?",,"{'A': '4%', 'B': '10%', 'C': '15%', 'D': '20%'}",B,"$$
+\frac{LVaR}{VaR} = 1 - \frac{\Delta P}{P} = 1 - \eta \frac{\Delta N}{N}
+$$
+
+The ratio of LVaR to VaR depends on the elasticity of demand $\eta$ and the size of the trade, relative to the size of the market. $(\Delta N/N)$ We are given; $dN/N = 0.2$ and that the price elasticity is $-0.5$. Thus $dP/P =$ elasticity $\ast dN/N = -0.1$. Therefore $\frac{LVaR}{VaR} = 1- \frac{dP}{P} = 1+0.1 = 1.1$. The liquidity adjustment increases the VaR, by 10%. (1)",海州,Math reasoning QA,text only,Hard,"Liquidity Risk, Value-at-Risk (VaR), Price Elasticity",Operational Risk,Operational Riskand Resiliency2
+2145,42,,,"A firm has determined that the risk-adjusted return on capital (RAROC) for a particular
+project is 14%. To evaluate whether the firm should accept the project, an analyst determines
+that the firm’s beta is 1.3, the expected market return is 13%, and the risk-free interest
+rate is 5.5%. If the analyst uses the adjusted RAROC (ARAROC) methodology to make an
+accept/reject decision, should the project be accepted?",,"{'A': 'No, because the computed ARAROC is approximately 1 % less than the market\\nrisk premium.', 'B': 'No, because the RAROC is 1.25% less than the return predicted by the CAPM.', 'C': 'Yes, because the computed ARAROC is approximately 1 % more than the market\\nrisk premium.', 'D': 'Yes, because the ARAROC is approximately 4% more than the return predicted\\nby the CAPM.'}",A,"$$\nARAROC = \frac{(RARAOC - R_F)}{\beta_E} = \frac{0.14 - 0.055}{1.3} = 0.06538 \text{, or 6.54\%}.\n$$",海州,Math reasoning QA,text only,Hard,"Capital Asset Pricing Model (CAPM), Risk-Adjusted Return on Capital (RAROC), Adjusted RAROC (ARAROC)",Operational Risk,Operational Riskand Resiliency2
+2220,54,,,"Consider below the multifactor (APT) model of security returns for a particular stock. In addition to factor betas and risk premiums, two of the factors experience 'surprises.' Specifically, while interest rates change as expected, actual inflation is +2.0% (compared to expected +1.0%) and actual GDP growth is +1.5% (compared to expected +0.5%):",./dataset/images/Foundationofriskmanagement1_images/54u.png,"{'A': ' 6.8%', 'B': ' 7.2%', 'C': ' 9.10%', 'D': ' 11.5%'}",C,"$$
+E(r) = 2.0\% + 0.80 \cdot 2.0\% - 0.50 \cdot 1.0\% + 1.30 \cdot 3.0\% = 7.00\%
+$$
+
+$$
+\text{Unexpected return} = 0.80 \cdot (2.0 - 1.0\%) - 0.50 \cdot (1.0\% - 1.0\%) + 1.30 \cdot (1.5\% - 0.5\%)
+$$
+
+$$
+= 0.80\% + 1.30\% = 2.10\%
+$$
+
+$$
+\text{Revised } E(r) = 7.00\% + 2.10\% = 9.10\%
+$$",醇厚,Math reasoning QA,text+image,Easy,"APT model, expected return, factor surprises",Foundation of Risk Management,foundation of risk management1
+2231,66,,,"The ST Fund is a mutual fund that is benchmarked to the S&P 500 index. It contains equally weighted holdings of 10 stocks from the index, with an average annual portfolio return of 11% and a volatility of returns of 16%. Over the same time period, the average annual return on the S&P 500 has been 12%, with a volatility of returns of 9%. The annual risk-free rate is 3%. ST Fund’s portfolio manager is planning to diversify the fund by increasing its holdings to 100 stocks in the S&P 500, all equally weighted. Because of this change, ST Fund’s Sharpe ratio will most likely:",./dataset/images/Foundationofriskmanagement1_images/66u.png,"{'A': ' Decrease toward 0', 'B': ' Decrease toward 1', 'C': ' Increase toward 1', 'D': ' Increase above 1'}",C,"$$
+\frac{11\% - 3\%}{16\%} = 0.5
+$$
+
+The sharp ratio of S&P 500 is: $ \frac{12\% - 3\%}{9\%} = 1 $",醇厚,Math reasoning QA,text+image,Easy,"Sharpe ratio, diversification",Foundation of Risk Management,foundation of risk management1
+2383,27,,,"An investment analyst takes a random sample of 100 aggressive equity funds and calculates
+the average beta as 1.7. The sample betas have a standard deviation of 0.4. Using a 95%
+confidence interval and a z-statistic, which of the following statements about the confidence
+interval and its interpretation is most likely accurate? The analyst can be confident at the
+95% level that the interval:",,"{'A': 'from 0.916 to 2.484 includes the mean of the sample betas.', 'B': 'from 1.622 to 1.778 includes the mean of the sample betas.', 'C': 'from 0.916 to 2.484 includes the mean of the population beta.', 'D': 'from 1.622 to 1.778 includes the mean of the population beta.'}",D,"$$
+\hat{\mu} \pm \frac{\sigma}{\sqrt{n}} \times Z_{\frac{\alpha}{2}} = 1.7 \pm \frac{0.4}{\sqrt{100}} \times 1.96 = [1.622, 1.778]
+$$
+
+在95%的置信水平下，总体beta会落在区间$[1.622, 1.778]$中。 因此，正确选项为D。",海州,Knowledge reasoning QA,text only,Hard,"Hypothesis Testing, Confidence Intervals, Central Limit Theorem",Quantitative Methods,Quantitative Analysis2
+2433,23,,,"The value today of an option-free, 12% annual coupon bond with two years remaining until
+maturity is closest to:",./dataset/images/MarketRiskMeasurementandManagement2_images/23u.png,"{'A': '109.927', 'B': '111.485.', 'C': '112.282.', 'D': '113.394.'}",C,"$$
+V_{1,U} = \frac{1}{2} \times \left( \frac{100 + 12}{1.071826} + \frac{100 + 12}{1.071826} \right) = 104.495
+$$
+
+$$
+V_{1,L} = \frac{1}{2} \times \left( \frac{100 + 12}{1.053210} + \frac{100 + 12}{1.053210} \right) = 106.342
+$$
+
+$$
+V_0 = \frac{1}{2} \times \left( \frac{104.495 + 12}{1.045749} + \frac{106.342 + 12}{1.045749} \right) = 112.282
+$$",海州,Math reasoning QA,text only,Hard,"Bond Valuation, Coupon Bonds, Present Value Calculation",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2434,25,,,"Suppose an investor expects that the 1-year rate will remain at 5% for the first year for a
+2-year zero-coupon bond. In addition, the investor estimates a 50% probability that 1-year spot
+rates will be 6% in one year and a 50% probability that 1-year spot rates will be 4% in one
+year. Which of the following inequalities most accurately reflects the convexity effect for
+this 2-year bond using Jensen's inequality formula?",,"{'A': '$0.95247 >\\n$0.95238.', 'B': '$0.91584 >\\n$0.91575.', 'C': '$0.90711 >\\n$0.90703.', 'D': '$0.89856 >\\n$0.89847.'}",C,"$$
+E\left[\frac{\$1}{(1+r)} \right] = 0.5 \times \frac{\$1}{(1.06)} + 0.5 \times \frac{\$1}{(1.04)} = 0.5 \times \$0.94340 + 0.5 \times \$0.96154 = \$0.95247
+$$
+
+$$
+\frac{\$1}{0.5 \times 1.06 + 0.5 \times 1.04} = \frac{\$1}{1.05} = 0.95238
+$$
+
+$$
+\left(\frac{1}{(1.05)^2}\right) = 0.90703
+$$
+
+Thus, Jensen’s inequality reveals that $0.90711 > 0.90703$.",海州,Math reasoning QA,text only,Hard,"Bond Pricing, Jensen's Inequality, Convexity Effect",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2438,29,,,"A portfolio manager owns a portfolio of options on a non-dividend paying stock RTX. The
+portfolio is made up of 10,000 deep in-the-money call options on RTX and 50,000 deep out-of-
+money call options on RTX. The portfolio also contains 20,000 forward contracts on RTX. RTX is
+trading at USD 100. If the volatility of RTX is 30% per year, which of the following amounts
+would be closest to the 1-day VaR of the portfolio at the 95 percent confidence level, assuming
+252 trading days in a year?",,"{'A': 'USD 932', 'B': 'USD 92,263', 'C': 'USD 111,122', 'D': 'USD 131,892'}",B,"$$
+\alpha \times S \times \Delta \times \sigma \times \text{sqrt}(1/T) = 1.645 \times 100 \times 30,000 \times 0.30 \times \text{sqrt}(1/252) = 93,263
+$$",海州,Math reasoning QA,text only,Hard,"Value at Risk (VaR) calculations, Option pricing and Greeks, Portfolio risk management",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2447,38,,,"A trader has an option position in crude oil with a delta of 100000 barrels and gamma of -
+50000 barrels per dollar move in price. Using the delta-gamma methodology, compute the VaR on
+this position, assuming the extreme move on crude oil is $2.00 per barrel.",,"{'A': '$100,000', 'B': '$200,000', 'C': '$300,000', 'D': '$400,000'}",C,"$$
+VAR(df) = \Delta \times VAR(dS) + (1 / 2) \Gamma \times VAR(dS)^2
+$$
+
+$$
+VAR(df) = 100000 \times (-2.00) + (1 / 2) (-50000) \times (-2.00)^2 = -\$300{,}000
+$$
+",海州,Math reasoning QA,text only,Hard,"Delta-Gamma VaR, Option Greeks, Extreme Value Theory",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2449,40,,,"The following decision tree of expected 1-year rates is for a 2-year zero-coupon bond with a
+face value of $1. 
+ 
+ 
+Suppose that investors are risk averse and require a risk premium of 30 basis points for each
+year of interest rate risk. What is the investor's expected or required return for a 2-year
+zero-coupon bond with a face value of $1 using the expected 1-year rates in the decision tree?",./dataset/images/MarketRiskMeasurementandManagement2_images/40u.png,"{'A': '2.7%.', 'B': '3.0%.', 'C': '3.3%.', 'D': '3.6%.'}",C,"$$
+\$0.93995 = \frac{\left[\frac{\$1}{1.043} + \frac{\$1}{1.023}\right]/2}{1.03} = \frac{[\$0.95877 + \$0.97752]/2}{1.03}
+$$
+
+$$
+\left[ \frac{\$1}{1.04} - \frac{\$1}{1.02} \right] - \$0.93995 = \frac{0.96154 + 0.98039}{2} - \$0.93995 = \frac{0.97097 - 0.93995}{0.93995} = 0.033
+$$",海州,Math reasoning QA,text only,Hard,"Interest Rate Risk, Risk Premium, Decision Tree Analysis",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2450,41,,,"An analyst is modeling spot rate changes using short rate term structure models. The current
+short-term interest rate is 5% with a volatility of 80 bps. After one month passes the
+realization of dω, a normally distributed random variable with mean 0 and standard deviation 
+, is -0.5. Assume a constant interest rate drift, λ, of 0.36%. What should the analyst compute
+as the new spot rate?",,"{'A': '5.37%', 'B': '4.63%', 'C': '5.76%', 'D': '0.0424'}",B,"$$
+dr = \lambda dt + \sigma d\omega
+$$
+
+The function is: $dr = (0.36\%/12) + (0.8*(-0.5)) = -0.37\% = -37\,\text{bps}$.
+
+Since the initial short-term rate was $5\%$ and $dr$ is $-0.37\%$, the new spot rate in one month is: $5\% - 0.37\% = 4.63\%$ (1).",海州,Math reasoning QA,text only,Hard,"Short Rate Models, Term Structure of Interest Rates, Stochastic Processes",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2454,45,,,"A European put option has two years to expiration and a strike price of $101.00. The
+underlying is a 7% annual coupon bond with three years to maturity. Assume that the risk-
+neutral probability of an up move is 0.76 in year 1 and 0.60 in year 2. The current interest
+rate is 3.00%. At the end of year 1, the rate will either be 5.99% or 4.44%. If the rate in
+year 1 is 5.99%, it will either rise to 8.56% or rise to 6.34% in year 2. If the rate in one
+year is 4.44%, it will either rise to 6.34% or rise to 4.70%. The value of the put option today
+is closet to:",,"{'A': '$1.17', 'B': '$1.30', 'C': '$1.49', 'D': '$1.98'}",A,"$$
+\frac{(2.44 \times 0.6) + (0.38 \times 0.4)}{1.0599} = 1.52
+$$
+
+$$
+\frac{(0.38 \times 0.6) + (0.00 \times 0.4)}{1.0444} = 0.22
+$$
+
+$$
+\frac{(1.52 \times 0.76) + (0.22 \times 0.24)}{1.0300} = 1.17
+$$",海州,Math reasoning QA,text only,Hard,"Binomial interest rate tree models, European options pricing, Bond valuation",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2455,46,,,"An six-monthn analyst is using the delta-normal method to determine the VaR of a fixed
+income portfolio. The portfolio contains a long position in 1-year bonds with a $1 million face
+value and a 6% coupon that is paid semi-annually. The interest rates and twelve-month maturity
+zero-coupon bonds are, respectively, 2% and 2.5%. Mapping the long position to standard
+positions in the six-month and twelve-month zeros, respectively, provides which of the
+following mapped positions?",,"{'A': '$30,000 and 1,030,000', 'B': '$29,500 and 975,610', 'C': '$29,703 and 1,004,878', 'D': '$30,300 and 1,035,000'}",C,"$$
+X_{\text{six}} = \frac{30,000}{1 + (0.02 / 2)} = 29,703
+$$
+
+$$
+X_{\text{twelve}} = \frac{1,030,000}{1 + (0.025)} = 1,004,878
+$$",海州,Math reasoning QA,text only,Hard,"Value-at-Risk (VaR), Delta-normal method, Fixed income instruments",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2459,50,,,"The peaks-over-threshold (POT) approach is used by a firm to apply extreme value theory
+(EVT) to the distribution of excess losses over a high threshold. The firm estimated the
+following parameter values: distribution scale parameter = 0.90, distribution shape parameter =
+0.15, threshold = 1%, and number of observations that exceed threshold / threshold = 5%.
+Compute the 1% VaR in percentage terms and the corresponding expected shortfall measure.",,"{'A': 'VaR = 2.64%, and ES = 3.98%.', 'B': 'VaR = 2.51%, and ES = 3.54%.', 'C': 'VaR = 2.27%, and ES = 3.21%.', 'D': 'VaR = 2.19%, and ES = 3.12%.'}",A,"$$
+VaR = 1 + \frac{0.9}{0.15} \left[ \left( \frac{1}{0.05} (1 - 0.99) \right)^{0.15} - 1 \right] = 2.638\%
+$$
+
+$$
+ES = \frac{2.638}{1 - 0.15} + \frac{0.9 - 0.15 \times 1}{1 - 0.15} = 3.98\%
+$$",海州,Math reasoning QA,text only,Hard,"Peaks-over-threshold (POT) approach, Extreme value theory (EVT), Value at Risk (VaR) and Expected Shortfall (ES)",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2536,20,,,"Bonds rated B have a 25% chance of default in five years. Bonds rated CCC have a 40% chance of default in five years. A portfolio consists of 30% B and 70% CCC-rated bonds. If a randomly selected bond defaults in a five-year period, what is the probability that it was a B-rated bond?",,"{'A': ' 0.625', 'B': ' 0.211', 'C': ' 0.429', 'D': ' 0.250'}",B,"$$P(B|\text{default}) = \frac{P(\text{default}|B) \times P(B)}{P(\text{default})} 
+
+ where: 
+ P(\text{default}|B) = 0.250, 
+ P(B) = 0.300, 
+ P(\text{default}|CCC) = 0.400, 
+ P(CCC) = 0.700. 
+
+ P(\text{default}) = P(\text{default}|B) \times P(B) + P(\text{default}|CCC) \times P(CCC) = 0.075 + 0.280 = 0.355$$ 
+
+ Finally, P(B|\text{default}) = \frac{0.075}{0.355} = 0.211$$.",醇厚,Math reasoning QA,text only,Easy,"Bayes' theorem, probability, default risk, bonds",Quantitative Methods,Quantitative Analysis1
+2555,39,,,The return on a portfolio is normally distributed with an expected rate of return of 10% and a standard deviation of 20%. What is the probability that the return will be between 0% and 5%?,,"{'A': ' 7%', 'B': ' 9%', 'C': ' 11%', 'D': ' 13%'}",B,"$$ With a mean of 10% and standard deviation of 20%, the value of 0% would be: 
+
+\frac{0\% - 10\%}{20\%} = -0.5 standard deviations from the mean. The value of 5% would be: 
+
+\frac{5\% - 10\%}{20\%} = -0.25 standard deviations from the mean. Referring to the normal distribution tables, the area between the mean (10%) and 0% is approximately 0.1915, and the area between the mean and 5% is approximately 0.0987. The difference is approximately 0.0928 or 9.28%, which rounds to 9%. $$",醇厚,Math reasoning QA,text only,Easy,"normal distribution, portfolio returns, probability",Quantitative Methods,Quantitative Analysis1
+2873,17,,,"An analyst gathers the following information for a market-capitalization-weighted index
+comprised of securities MNO, QRS, and XYZ:
+The total return of the index is:",,"{'A': '1.04%.', 'B': '–5.35%.', 'C': '–10.23%.'}",B,"B is correct. 
+
+| **Security** | **Beginning of Period Price (¥)** | **End of Period Price (¥)** | **Dividends per Share (¥)** | **Shares Outstanding** |
+|--------------|-----------------------------------|-----------------------------|-----------------------------|------------------------|
+| MNO          | 2,500                             | 2,700                       | 100                         | 5,000                  |
+| QRS          | 3,500                             | 2,500                       | 150                         | 7,500                  |
+| XYZ          | 1,500                             | 1,600                       | 100                         | 10,000                 |
+
+The total return of the market-capitalization-weighted index is
+calculated below:
+
+| **Security** | **Beginning of Period Value (¥)** | **End of Period Value (¥)** | **Total Dividends (¥)** | **Total Return (%)** |
+|--------------|-----------------------------------|-----------------------------|-------------------------|----------------------|
+| MNO          | 12,500,000                        | 13,500,000                  | 500,000                 | 12.00                |
+| QRS          | 26,250,000                        | 18,750,000                  | 1,125,000               | -24.29               |
+| XYZ          | 15,000,000                        | 16,000,000                  | 1,000,000               | 13.33                |
+| **Total**    | 53,750,000                        | 48,250,000                  | 2,625,000               | -5.35                |
+
+ 
+中文： B是正确的，总回报率计算的时候需要加上期间收益。 将MNO,ORS,XYZ三者的期初市值，期末市值以
+及期间的股利都分别求和。 期末-期初＋股利/期初=（48250000-53750000＋2625000）/53750000= -5.35%",嘉辰,Math reasoning QA,text+image,Easy,"Market-Capitalization-Weighted Index, Total Return Calculation, Index Performance Evaluation",Equity Investments,level1_权益
+3001,145,,,"An analyst has prepared a table of the average trailing twelve-month price-to-earning
+(P/E), price-to-cash flow (P/CF), and price-to-sales (P/S) for the Tanaka Corporation for the
+years 2014 to 2017.
+As of the date of the valuation in 2018, the trailing twelve-month P/E, P/CF, and P/S are,
+respectively, 9.2, 8.0, and 2.5. Based on the information provided, the analyst may reasonably
+conclude that Tanaka shares are most likely:",,"{'A': 'overvalued.', 'B': 'undervalued.', 'C': 'fairly valued.'}",A,"A is correct. Tanaka shares are most likely overvalued. As the table below shows,
+all the 2018 multiples are currently above their 2014–2017 averages.
+ A是正确的。Tanaka的股票很可能被高估了。所有2018年的倍数目前均高于2014-2017年的平均值。
+
+| **Year** | **P/E** | **P/CF** | **P/S** |
+|----------|---------|----------|---------|
+| 2014     | 4.9     | 5.4      | 1.2     |
+| 2015     | 6.1     | 8.6      | 1.5     |
+| 2016     | 8.3     | 7.3      | 1.9     |
+| 2017     | 9.2     | 7.9      | 2.3     |
+
+
+| **Year**  | **P/E** | **P/CF** | **P/R** |
+|-----------|---------|----------|---------|
+| 2014      | 4.9     | 5.4      | 1.2     |
+| 2015      | 6.1     | 8.6      | 1.5     |
+| 2016      | 8.3     | 7.3      | 1.9     |
+| 2017      | 9.2     | 7.9      | 2.3     |
+| **Average** | 7.1     | 7.3      | 1.7     |",嘉辰,Knowledge reasoning QA,text+image,Easy,"Financial Ratios Analysis, Equity Valuation, Market Indicators",Equity Investments,level1_权益
+3004,148,,,"Hideki Corporation has just paid a dividend of ￥450 per share. Annual dividends are
+expected to grow at the rate of 4 percent per year over the next four years. At the end of four
+years, shares of Hideki Corporation are expected to sell for ￥9000. If the required rate of
+return is 12 percent, the intrinsic value of a share of Hideki Corporation is closest to:",,"{'A': '￥5,850.', 'B': '￥7,220.', 'C': '￥7,670.'}",B,"$
+V_0 = \frac{D_1}{(1 + r)} + \frac{D_2}{(1 + r)^2} + \frac{D_3}{(1 + r)^3} + \frac{D_4}{(1 + r)^4} + \frac{P_4}{(1 + r)^4}
+$
+
+$
+= \frac{468}{(1.12)} + \frac{486.72}{(1.12)^2} + \frac{506.19}{(1.12)^3} + \frac{526.44}{(1.12)^4} + \frac{9000}{(1.12)^4}
+$
+
+$
+= ¥7,220
+$",嘉辰,Math reasoning QA,text+image,Easy,"Dividend Discount Model (DDM), Time Value of Money, Required Rate of Return",Equity Investments,level1_权益
+3013,157,,,"An analyst gathers the following information about similar companies in the banking sector:
+ 
+ Which of the companies is most likely to be undervalued?",,"{'A': 'First Bank.', 'B': 'Prime Bank.', 'C': 'Pioneer Trust.'}",C,"英文 C is correct. Relative to the others, Pioneer Trust has the lowest P/E
+multiple and the P/B multiple is tied for the lowest with Prime Bank. Given the law of one
+price, similar companies should trade at similar P/B and P/E levels. Thus, based on the
+information presented, Pioneer is most likely to be undervalued. 中文 C是正确的。Pioneer信托的
+市盈率最低，与Prime Bank的市盈率相同。考虑到一价定律，类似的公司应该在相似的市净率和市盈率水平
+上进行交易。因此，根据所提供的信息，Pioneer最有可能被低估。
+
+|        | **First Bank** | **Prime Bank** | **Pioneer Trust** |
+|--------|----------------|----------------|-------------------|
+| **P/B**| 1.10           | 0.60           | 0.60              |
+| **P/E**| 8.40           | 11.10          | 8.30              |",嘉辰,Knowledge reasoning QA,text+image,Easy,"Law of One Price, Price-to-Earnings Ratio (P/E), Price-to-Book Ratio (P/B)",Equity Investments,level1_权益
+3025,4,,,"Suppose an investor expects that the 1-year rate will remain at 6% for the first year for a
+2-year zero-coupon bond. The investor also projects a 50% probability that the 1-year spot rate
+will be 8% in one year and a 50% probability that the 1-year spot rate will be 4% in one year.
+Which of the following inequalities most accurately reflects the convexity effect for this 2-
+year bond using Jensen’s inequality formula?",,"{'A': '$0.89031 > $0.89000', 'B': '$0.89000 > $0.80000', 'C': '$0.94340 > $0.89031', 'D': '$0.94373 > $0.94340'}",A,"$$
+E \left( \frac{1}{1+r} \right) > \frac{1}{E(1+r)}
+$$
+
+$$
+E \left( \frac{1}{1+r} \right) = 0.5 \times \frac{1}{1.08} + 0.5 \times \frac{1}{1.04} = 0.94373 \implies \frac{0.94373}{1.06} = 0.89031
+$$
+
+$$
+\frac{1}{E(1+r)} = \frac{1}{0.5 \times 1.08 + 0.5 \times 1.04} = 0.94340 \implies \frac{0.94340}{1.06} = 0.89000
+$$",醇厚,Math reasoning QA,text only,Easy,"Term Structure of Interest Rates, Convexity, Jensen's Inequality",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3026,5,,,"A risk-free zero-coupon bond with a face value of USD 1,000 and a maturity of one year is
+being traded at a price of USD 941. The current risk-free 6-month interest rate is 6%. An
+analyst uses a simple two-period risk-neutral binomial pricing model that assumes the risk-free
+6-month interest rate in 6 months will be either 6.5% or 5.5%. The risk-neutral probability
+model suggests that:",,"{'A': 'The 6-month risk-free interest rate is equally likely to decrease to 5.5%', 'B': 'The 6-month risk-free interest rate is more likely to decrease to 5.5% than to increases to\n6.5%.', 'C': 'The 6-month risk-free interest rate is less likely to decrease to 5.5% than to increase to\n6.5%.', 'D': 'There is insufficient information to determine the risk-neutral probabilities.'}",C,"$$
+\frac{1000}{\left(1 + \frac{6.5\%}{2}\right)} \times p + \frac{1000}{\left(1 + \frac{5.5\%}{2}\right)} \times (1 - p) = 941 \times \left(1 + \frac{6\%}{2}\right)
+$$
+
+$$
+p = 85\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Binomial pricing model, Risk-neutral valuation, Interest rate modeling.",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3027,6,,,"An investor expects the current 1-year rate for a zero-coupon bond to remain at 6%, the 1-
+year rate next year to be 8%, and the 1-year rate in two years to be 10%. What is the 3-year
+spot rate for a zero-coupon bond with a face value of $1, assuming all investors have the same
+expectations of future 1-year rates for zero-coupon bonds?",,"{'A': '7.888%', 'B': '7.988%', 'C': '8.000%', 'D': '8.088%'}",B,"$$ 
+\frac{\$1}{1.06 \times 1.08 \times 1.10} = \frac{\$1}{(1 + r_3)^3} 
+$$
+
+$$ 
+\Rightarrow r_3 = \sqrt[3]{\frac{1}{1.06 \times 1.08 \times 1.10}} - 1 = 7.988\% 
+$$",醇厚,Math reasoning QA,text only,Easy,"Term Structure of Interest Rates, Yield Curve, Spot Rates",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3029,8,,,"An analyst is employing the Cox-Ingersoll-Ross model for the short-term rate process. His
+assumptions include:
+Ⅰ. t = 1/12
+Ⅱ. r0 = 1.00%
+Ⅲ. σ=2.50%
+Ⅳ. central tendency = 8.00%
+Ⅴ. speed of mean reversion = 0.60
+Ⅵ. For the first month, dω=0.160
+ 
+What is the short-rate in the first month under this CIR process?",,"{'A': '-0.250%', 'B': '0.444%', 'C': '1.390%', 'D': '2.172%'}",C,"$$
+r_0 + k(\theta - r)dt + \sigma\sqrt{r}d\omega = 1\% + 0.6 \times \frac{8\% - 1\%}{12} + 2.5\% \times \sqrt{1\%} \times 0.16 = 1.39\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Interest Rate Models, Stochastic Processes, Mean Reversion",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3032,11,,,"Suppose investors have interest rate expectations as illustrated in the decision tree below
+where the 1-year rate is expected to be 8%, 6%, or 4% in the second year and either 7% or 5% in
+the first year for a zero-coupon bond.
+ 
+If investors are risk-neutral, what is the price of a $1 face value 2-year zero-coupon bond
+today?",./dataset/images/MarketRiskMeasurementandManagement1_images/11u.png,"{'A': '$0.88113.', 'B': '$0.88634.', 'C': '$0.89007.', 'D': '$0.89032'}",C,"$$
+p = \left( \frac{1}{1.07} \times 0.5 + \frac{1}{1.05} \times 0.5 \right) / 1.06 = 0.89007
+$$",醇厚,Math reasoning QA,text only,Easy,"Interest Rate Expectations, Zero-Coupon Bonds, Risk-Neutral Pricing",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3035,14,,,"Using Model 1, assume the current short-term interest rate is 5%, annual volatility is
+80bps, and dω, a normally distribution random variable with mean 0 and standard deviation
+√dt, has an expected value of zero. After one month, the realization of dω is -0.5. What is
+the change in the spot rate and the new spot rate?",,"{'A': '0.40% （Change in Spot）； 5.40%（New Spot Rate）', 'B': '-0.40%（Change in Spot） ； 4.60%（New Spot Rate）', 'C': '0.80% （Change in Spot）； 5.80%（New Spot Rate）', 'D': '-0.80%（Change in Spot） ； 4.20%（New Spot Rate）'}",B,"$$
+dr = \sigma dw = 0.8\% \times (-0.5) = -0.4\%
+$$
+
+$$
+r_1 = r_0 + dr = 5\% - 0.04\% = 4.6\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Interest Rate Models, Stochastic Processes, Volatility",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3037,16,,,"Using the Vasicek model, assume a current short-term rate of 6.2% and an annual volatility
+of the interest rate process of 2.5%. Also assume that the long-run mean-reverting level is
+13.2% with a speed of adjustment of 0.4. Within a binomial interest rate tree, what are the
+upper and lower node rates after the first month?",,"{'A': '(Upper node)6.67%,(Lower node)5.71%', 'B': '(Upper node)6.67%,(Lower node)6.24%', 'C': '(Upper node)7.16%,(Lower node)6.24%', 'D': '(Upper node)7.16%\\t\\t,(Lower node)5.71%'}",D,"$$
+\text{upper node} = 6.2\% + \frac{(0.4)(13.2\% - 6.2\%)}{12} + \frac{2.5\%}{\sqrt{12}} = 7.16\%
+$$
+
+$$
+\text{lower node} = 6.2\% + \frac{(0.4)(13.2\% - 6.2\%)}{12} - \frac{2.5\%}{\sqrt{12}} = 5.71\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Interest Rate Modeling, Binomial Interest Rate Trees, Vasicek Model",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3044,23,,,"An analyst is building a short-term interest rate tree according to the Vasicek Model which
+is characterized by mean reversion. t = 1/12. The current short-term rate is 8.00%. The annual
+volatility is 200bps. The central tendency is 3.00%. The speed of mean reversion is equal to
+0.60. Here is his rate tree:
+ 
+ 
+ 
+ 
+What is the value in the Vasicek tree for Rud?",./dataset/images/MarketRiskMeasurementandManagement1_images/23u.png,"{'A': '6.833%', 'B': '7.513%', 'C': '8.019%', 'D': '9.225%'}",B,"$$
+r_{ud} = r_{u} + k(\theta - r_{u}) dt - \sigma \sqrt{dt} = 8.3274\% + 0.6 \times \frac{3\% - 8.3274\%}{12} - 0.02 \times \sqrt{\frac{1}{12}} = 7.484\%
+$$
+
+$$
+r_{du} = r_{d} + k(\theta - r_{d}) dt + \sigma \sqrt{dt} = 7.1726\% + 0.6 \times \frac{3\% - 7.1726\%}{12} + 0.02 \times \sqrt{\frac{1}{12}} = 7.541\%
+$$
+
+$$
+\Rightarrow \frac{7.484\% + 7.541\%}{2} = 7.513\%
+$$",醇厚,Math reasoning QA,text only,Easy,"Mean Reversion, Vasicek Model, Interest Rate Volatility",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3055,34,,,"Suppose a creditor makes a $4 million loan to company X and a $4 million loan to company Y.
+Based on historical information of companies in this industry, companies X and Y each have a 7%
+default probability and a default correlation coefficient of 0.6. The expected loss for this
+creditor under the worst case scenario assuming loss given default is 100% is closest to:",,"{'A': '$280,150.', 'B': '$351,680.', 'C': '$439,600.', 'D': '$560,430.'}",B,"$$
+P(AB) = 0.6\sqrt{0.07(0.93) \times 0.07(0.93)} + 0.07 \times 0.07 
+$$
+
+$$
+ = 0.6\sqrt{0.00424} + 0.0049 = 0.04396 
+$$
+
+Thus, the expected loss for the worst case scenario for the creditor is:
+$EL = 0.04396 \times 8,000,000 = 351,680$",醇厚,Math reasoning QA,text only,Easy,"Credit Risk, Default Correlation, Expected Loss Calculation",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3065,44,,,"Suppose an individual buys a correlation swap with a fixed correlation of 0.2 and a notional
+value of $1 million for one year. The realized pairwise correlations of the daily log returns
+at maturity for three assets are ρ1,2= 0.7, ρ3,1 = 0.2, and ρ3,2 = 0.3. What is the
+correlation swap buyer's payoff at maturity?",,"{'A': '$100,000.', 'B': '$200,000.', 'C': '$300,000.', 'D': '$400,000.'}",B,"$$
+\rho_{realized} = \frac{2}{3^2 - 3} \times (0.7 + 0.2 + 0.3) = 0.4
+$$
+
+The payoff for the correlation buyer is then calculated as: $1,000,000 * (0.4 - 0.2) = $200,000",醇厚,Math reasoning QA,text only,Easy,"Correlation derivatives, Derivative pricing, Financial instruments",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3068,47,,,"Assume that a trader is making a relative value trade, selling a U.S. Treasury bond and
+correspondingly purchasing a U.S. Treasury TIPS. Based on the current spread between the two
+securities, the trader shorts $100 million of the nominal bond and purchases $89.8 million of
+TIPS. The trader then starts to question the amount of the hedge due to changes in yields on
+TIPS in relation to nominal bonds. He runs a regression and determines from the output that the
+nominal yield changes by 1.0274 basis points per basis point change in the real yield. Would
+the trader adjust the hedge, and if so, by how much?",,"{'A': 'No', 'B': 'Yes, by $2.46 million (purchase additional TIPS)', 'C': 'Yes, by $2.5 million (sell a portion of the TIPS)', 'D': 'Yes, by $2.11 million (Purchase additional TIPS)'}",B,"$$
+MD_n \ast P_n \ast \Delta y_n = MD_r \ast P_r \ast \Delta y_r
+$$
+
+$$
+MD_n \ast 100 \ast \Delta y_n = MD_r \ast 89.8 \ast \Delta y_r
+$$
+
+$$
+\Delta y_n = \Delta y_r
+$$
+
+$$
+\rightarrow MD_n = \frac{89.8}{100} \ast MD_r
+$$
+
+The nominal yield changes by 1.0274 basis points per basis point change in the real yield
+
+$$
+\rightarrow \frac{\Delta y_n}{1.0274} = \frac{\Delta y_r}{1}
+$$
+
+$$
+MD_n \ast 100 \ast \Delta y_n = MD_r \ast x \ast \Delta y_r
+$$
+
+$$
+\frac{89.8}{100} \ast MD_r \ast 100 \ast \Delta y_n = MD_r \ast x \ast \frac{\Delta y_n}{1.0274}
+$$
+
+So, $x = 92.26$ million
+
+$$
+92.26 \text{ million} - 89.8 \text{ million} = 2.46 \text{ million}
+$$
+
+The trader would need to adjust the hedge as follows: \\
+$89.8 \text{ million} \times 1.0274 = 92.26 \text{ million}$ \\
+Thus, the trader needs to purchase additional TIPS worth $2.46$ million.",醇厚,Math reasoning QA,text only,Easy,"Bond Hedging, Relative Value Trading, Regression Analysis",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3073,52,,,"A risk manager is analyzing a 1-day 98% VaR model. Assuming 252 days in a year, what is the
+maximum number of daily losses exceeding the 1-day 98% VaR that is acceptable in a 1-year
+backtest to conclude, at a 95% confidence level, that the model is calibrated correctly?",,"{'A': '5', 'B': '9', 'C': '10', 'D': '12'}",B,"$$
+\frac{x - pT}{\sqrt{p(1 - p)T}} > 1.96
+$$
+
+$$
+\Rightarrow X > 1.96 \times \sqrt{2\% \times 98\% \times 252} + P \times T = 9.40
+$$
+
+So the maximum number of exceedances would be 9 to conclude that the model is calibrated correctly.",醇厚,Math reasoning QA,text only,Easy,"Value-at-Risk (VaR), Backtesting, Confidence Intervals",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3091,70,,,"A risk manager is backtesting a sample at the 95% confidence level to see if a VaR model
+needs to be recalibrated. He is using 252 daily returns for the sample and discovered 17
+exceptions. What is the Z-Score for this sample when conducting VaR model verification?",,"{'A': '0.62', 'B': '1.27', 'C': '1.64', 'D': '2.86'}",B,"$$
+Z = \frac{17 - 0.05(252)}{\sqrt{0.05 \times 0.95 \times 252}} = \frac{17 - 12.6}{\sqrt{11.97}} = 1.27
+$$",醇厚,Math reasoning QA,text only,Easy,"Quantitative Risk Management, Value at Risk (VaR), Backtesting Models",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3093,72,,,"Which of the following statements most likely increases standard errors from coherent risk
+measures?",,"{'A': 'Increasing sample size and increasing the left tail probability.', 'B': 'Increasing sample size and decreasing the left tail probability.', 'C': 'Decreasing sample size and increasing the left tail probability.', 'D': 'Decreasing sample size and decreasing the left tail probability.'}",C,"$$
+se(q) = \frac{\sqrt{\frac{(p(1-p))}{n}}} {f(q)}
+$$
+
+As the left tail probability, $p$, increases, the probability of tail events increases, which also increases the standard error. Mathematically, $p(1- p)$ increases as $p$ increases until $p = 0.5$. Small values of $p$ imply smaller standard errors.",醇厚,Knowledge reasoning QA,text only,Easy,"Sample Size, Left Tail Probability, Standard Errors",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3100,79,,,"An analyst is using the delta-normal method to determine the VAR of a fixed income
+portfolio. The portfolio contains a long position in 1-year bonds with a $1 million face value
+and a 6% coupon that is paid semiannually. The interest rates on 6- and 12-month maturity zero-
+coupon bonds are 2% and 2.5%, respectively. Mapping the long position to standard positions in
+the 6- and 12-month zeros, respectively, provides which of the following mapped positions?",,"{'A': '$29,703 and $1,004,878.', 'B': '$30,000 and $1,030,000.', 'C': '$29,500 and $975,610.', 'D': '$30,300 and $1,035,000.'}",A,"$$
+X_6 = \frac{30000}{1 + \frac{0.02}{2}} = 29703
+$$
+
+$$
+X_{12} = \frac{1030000}{1 + 0.025} = 1004878
+$$",醇厚,Math reasoning QA,text only,Easy,"Value at Risk (VaR), Delta-normal method, Fixed income portfolio management",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3115,1,,,"The present value (PV) of an investment with the following year-end cash flows (CF) and a 12%
+required annual rate of return is closest to:
+CF1=100,000 euro dollar for year 1; CF2=150,000 euro dollar for year 2; CF3=CF4=0 euro dollar
+for year 3&4; CF5=-10,000 euro dollar for year 5.",,"{'A': '€201,747.', 'B': '€203,191.', 'C': '€227,573.'}",B,"B is correct, as shown in the following table.
+
+| **Year** | **Cash Flow (€)** | **Formula** (CF × (1 + r)<sup>t</sup>) | **PV at Year 0** |
+|----------|--------------------|----------------------------------------|------------------|
+| 1        | 100,000            | 100,000 × (1.12)<sup>−1</sup>          | 89,285.71        |
+| 2        | 150,000            | 150,000 × (1.12)<sup>−2</sup>          | 119,579.08       |
+| 5        | −10,000            | −10,000 × (1.12)<sup>−5</sup>          | −5,674.27        |
+| **Total**|                    |                                        | **203,190.52**   |
+
+
+B正确。BAII Plus计算器，CF页面下，2ND CE/C清楚历史记录，依次按
+：CFo=0C01=100,000F01=1C02=150,000F02=1C03=0F03=2（表示第三笔现金流为0，分别发生在第三年和第四
+年末，一共两笔）C04=-10,000F04=1 NPV页面下：I=12CPT NPV=203,190.52 ",嘉辰,Math reasoning QA,text+image,Easy,"Present Value (PV) calculation, Discounted Cash Flow (DCF) analysis, Time Value of Money (TVM)",Quantitative Methods,level1_数量
+3170,56,,,"At a 5% interest rate per year compounded annually, the present value (PV) of a 10-year
+ordinary annuity with annual payments of $2,000 is $15,443.47. The PV of a 10-year annuity due
+with the same interest rate and payments is closest to:",,"{'A': '$14,708.', 'B': '$16,216.', 'C': '$17,443.'}",B,"B is correct. The present value of a 10-year annuity (A) due with payments of
+$2,000 at a 5% discount rate is calculated as follows:
+
+$
+PV = A \left[ \frac{1 - \frac{1}{(1 + r)^N}}{r} \right] + 2,000
+$
+
+$
+PV = 2,000 \left[ \frac{1 - \frac{1}{(1 + 0.05)^9}}{0.05} \right] + 2,000
+$
+
+$
+PV = 16,215.64
+$
+
+Alternatively, the PV of a 10-year annuity due is simply the PV of the ordinary annuity
+multiplied by 1.05:
+
+$
+PV = 15,443.47 \times 1.05
+$
+
+$
+PV = 16,215.64
+$
+
+
+原版书的公式比较复杂，如果计算器在手边的话，可以用计算器求解：N=10, I/Y=5, FV=0, PMT=-2,000
+[END] CPT PV=15,443.46986 N=10, I/Y=5, FV=0, PMT=-2,000 [BGN] CPT PV=16,215.64335
+15,443.46986*1.05=16,215.64335 ",嘉辰,Math reasoning QA,text+image,Easy,"Time Value of Money, Present Value Calculations, Annuity Valuation",Quantitative Methods,level1_数量
+3185,71,,,"An investment of €500,000 today that grows to €800,000 after six years has a stated annual
+interest rate closest to:",,"{'A': '7.5% compounded continuously.', 'B': '7.7% compounded daily.', 'C': '8.0% compounded semiannually.'}",C,"C is correct, as shown in the following (where FV is future value and PV is present
+value):
+ 
+C正确。 FV=PV*(1＋rs/m)^(m*N) 500,000*(1＋EAR)^6=800,000 求得EAR=8.148375%，选择ABC中EAR与之最
+接近的。 A中EAR=e^7.5%-1=7.7884% BAII Plus计算器，2ND 2页面下，2ND CE/C清楚历史记录，分别求：
+B中的EAR：NOM=7.7，C/Y=365，CPT EFF=8.003331（计算结果没有带%） C中的EAR：NOM=8，C/Y=2，CPT
+EFF=8.16（计算结果没有带%）
+
+If:
+$$
+FV_N = PV \left(1 + \frac{r_s}{m}\right)^{mN}
+$$
+
+Then:
+$$
+\left( \frac{FV_N}{PV} \right)^{\frac{1}{mN}} - 1 = \frac{r_s}{m}
+$$
+
+$$
+\left( \frac{800,000}{500,000} \right)^{\frac{1}{2 \times 6}} - 1 = \frac{r_s}{2}
+$$
+
+$$
+r_s = 0.07988 \, (\text{rounded to } 8.0\%)
+$$",嘉辰,Math reasoning QA,text+image,Easy,"Time Value of Money, Interest Rates, Financial Calculations",Quantitative Methods,level1_数量
+3209,96,,,"An analyst wants to forecast the company’s net profit margin (NPM) based on its research
+and development expenditures scaled by revenues (RDR), using the model provided in following
+Exhibit.
+The regression model was estimated using data on eight companies as:
+with a standard error of the estimate (s<sub>e</sub>) of 1.8618987 and variance of RDR,
+, of 4.285714, as given.What is the standard error of the forecast (sf) if the forecasted value
+of RDR is 5?",,"{'A': '2.1499.', 'B': '15.2608.', 'C': '3 2249.'}",A,"To derive the standard error of the forecast (s<sub>f</sub>), we first have to
+calculate the variation of RDR. Then, we have the all the pieces to calculate s<sub>f:</sub>
+
+#### Exhibit 9: Details of Calculation of Slope of NPM Regressed on RDR
+
+| **Company** | **NPM (Yᵢ) (%)** | **RDR (Xᵢ) (%)** | **Yᵢ − Ȳ** | **Xᵢ − X̄** | **(Yᵢ − Ȳ)²** | **(Xᵢ − X̄)²** | **(Yᵢ − Ȳ)(Xᵢ − X̄)** |
+|-------------|------------------|------------------|-------------|-------------|----------------|----------------|---------------------|
+| 1           | 4                | 8                | -2.8        | 0.5         | 7.5625         | 0.25           | -1.375              |
+| 2           | 5                | 10               | -1.8        | 2.5         | 3.0625         | 6.25           | -4.375              |
+| 3           | 10               | 6                | 3.3         | -1.5        | 10.5625        | 2.25           | -4.875              |
+| 4           | 9                | 5                | 2.3         | -2.5        | 5.0625         | 6.25           | -5.625              |
+| 5           | 5                | 7                | -1.8        | -0.5        | 3.0625         | 0.25           | 0.875               |
+| 6           | 6                | 9                | -0.8        | 1.5         | 0.5625         | 2.25           | -1.125              |
+| 7           | 12               | 5                | 5.3         | -2.5        | 27.5625        | 6.25           | -13.125             |
+| 8           | 3                | 10               | -3.8        | 2.5         | 14.0625        | 6.25           | -9.375              |
+| **Sum**     | 54.0             | 60.0             | 0.0         | 0.0         | 71.5000        | 30.00          | -39.0               |
+| **Average** | 6.75             | 7.5              |             |             |                |                |                     |
+
+
+题目中告诉我们，standard error of the estimate，也就是SEE =se= 1.8618987 根据基础班讲义中的
+Sf的公式，如下图:
+
+$
+\sum_{i=1}^{n} (X_i - \bar{X})^2 = 4.285714 \times 7 = 30.
+$
+
+$
+s_f = 1.8618987 \sqrt{1 + \frac{1}{8} + \frac{(5 - 7.5)^2}{30}} = 2.1499.
+$
+
+因此，只需要计算出根号部分的数值后，带入SEE即可求出Sf 
+
+题目中还告诉了variance
+of RDR=[Σ(Xi－X拔 )^2 ]/(n-1)=4.285714，n=8，因此可以得出：Σ(Xi－X拔 )^2=4.285714×7=30所以
+Sf=1.8618987×根号下（1＋1/8＋(5-7.5)^2/30）=1.8618987×1.154701=2.149936",嘉辰,Math reasoning QA,text+image,Easy,"Statistical Analysis, Regression Analysis, Forecasting",Quantitative Methods,level1_数量
+3222,109,,,"A call option on a stock index is valued using a three-step binomial tree with an up move
+that equals 1.05 and a down move that equals 0.95. The current level of the index is $190, and
+the option exercise price is $200. If the option value is positive when the stock price exceeds
+the exercise price at expiration and $0 otherwise, the number of terminal nodes with a positive
+payoff is:",,"{'A': 'one.', 'B': 'two.', 'C': 'three.'}",A,"A is correct. Only the top node value of $219.9488 exceeds $200.
+
+
+
+A正确。只有顶部节点值$219.9488超过$200。",嘉辰,Math reasoning QA,text+image,Easy,"Binomial Tree Model, Options Pricing, Derivatives",Quantitative Methods,level1_数量
+3252,139,,,"The weekly closing prices of Mordice Corporation shares are as follows:
+The continuously compounded return of Mordice Corporation shares for the period August 1 to
+August 15 is closest to:",,"{'A': '6.90%', 'B': '7.14%', 'C': '8.95%'}",A,"A is correct. The continuously compounded return of an asset over a period is
+equal to the natural log of period’s change. In this case: ln(120/112) = 6.90% 
+
+| **Date**     | **Closing Price (€)** |
+|--------------|-----------------------|
+| 1 August     | 112                   |
+| 8 August     | 160                   |
+| 15 August    | 120                   |
+
+A正确。 资产在一段时期内的连续复利收益等于期间变化的自然对数。在这种情况下: ln (120/112) = 6.90%",嘉辰,Math reasoning QA,text+image,Easy,"Continuously Compounded Returns, Natural Logarithm, Calculation of Returns",Quantitative Methods,level1_数量
+3278,11,,,"A deposit institution has accepted $30 million qualified loan request. The management is
+considering issuing $30 million negotiable CDs with current interest rate of 6% to finance
+funds, the noninterest cost in the form of flotation cost in 0.2%, and legal reserve
+requirements is 5% of the total loan amount. What is the effective financing cost rate by
+issuing negotiable CDs?",,"{'A': '6.2%', 'B': '6.53%', 'C': '6.6%', 'D': '5.8%'}",B,"$$
+\text{cost of rate} = \frac{30M * (6\% + 0.2\%)}{30(1 - 5\%)} \approx 6.53\%
+$$",海州,Math reasoning QA,text only,Hard,"Effective Financing Cost Calculation, Flotation Costs, Reserve Requirements",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2
+3335,26,,,"The price of a six-month zero-coupon bond is $99.90 and the price of a one-year zero-coupon bond is $98.56. What is the implied six-month forward rate, under semi-annual compounding?",,"{'A': 'A. 1.30%', 'B': 'B. 2.95%', 'C': 'C. 2.72%', 'D': 'D. 3.08%'}",C,"$$
+\frac{100}{\left(1 + \frac{Z_{0.5}}{2}\right)} = 99.9
+$$
+
+$$
+\frac{100}{\left(1 + \frac{Z_{1}}{2}\right)^2} = 98.56
+$$
+
+$$
+\left(1 + \frac{Z_{0.5}}{2}\right)\left(1 + \frac{f_{0.5-1}}{2}\right) = \left(1 + \frac{Z_{1}}{2}\right)^2
+$$
+
+$$
+f_{0.5-1} = 2.72\% 
+$$",醇厚,Math reasoning QA,text only,Easy,"Forward rate, Zero-coupon bond pricing",Valuation and Risk Models,Validation and Risk Models1
+3438,75,,,"What is correct in the following description of pressure VaR? I Under the Basel II.5
+framework, Banks can pick the year they consider to be the worst performing as a source of data
+for measuring VaR of market risk pressures. II In the calculation of market risk capital,
+Stressed VaR replaced VaR in the original internal model method. III In the Basel II. 5
+framework, market risk capital requirements is at least two time of that in the Basel II within
+the framework of market risk capital requirements. IV When calculating pressure VaR, Banks can
+choose confidence level according to their own scale. V The penalty multiplier in the market
+risk capital formula is determined by the Basel committee and has a minimum value of 3.",,"{'A': 'I and IV', 'B': 'I and III', 'C': 'I、III and IV', 'D': 'I、III and V'}",B,"$$
+巴塞尔II.5颁布初，监管层要求银行必须使用2008年的金融环境作为压力测试中的压力环境，但这一规定在后来的商讨中被取消，现在银行可以使用自己认为表现最糟糕的一年的情景作为压力环境。
+$$
+
+$$
+\text{max}(\text{VaR}_{t-1}, M_c \times \text{VaR}_{\text{avg}}) + \text{max}(\text{SVaR}_{t-1}, M_s \times \text{SVaR}_{\text{avg}}) + \text{SRC} + \text{IRC}
+$$
+
+$$
+由于 \text{max}(\text{SVaR}_{t-1}, M_s \times \text{SVaR}_{\text{avg}}) \geq \text{max}(\text{VaR}_{t-1}, M_c \times \text{VaR}_{\text{avg}})，因此，在巴塞尔II.5的框架下，市场风险资本需求至少是在巴塞尔II框架下市场风险资本 \text{max}(\text{VaR}_{t-1}, M_c \times \text{VaR}_{\text{avg}}) 的两倍。
+$$
+
+$$
+压力VaR的计算是基于99\%的置信水平下的，而非银行自行选择的置信水平；市场风险资本计算公式中的惩罚系数由VaR模型回测结果和监管机构决定且最小值等于3。
+$$",醇厚,Knowledge reasoning QA,text only,Easy,"Basel II.5 framework, Stressed Value at Risk (VaR), market risk capital requirements",Operational Risk and Resiliency,Operational Riskand Resiliency1

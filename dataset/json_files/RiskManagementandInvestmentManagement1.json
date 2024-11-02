@@ -1,0 +1,1496 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Peter the aspiring FRM candidate is estimating the alpha for his firm's (Martingale's) new\nlow-volatility fund. His naive benchmark is the Russel 1000 large-cap index. He has collected\nthe following (ex ante) statistics over the historical sample where the period returns are\nmonthly: ● The regression slope coefficient, β, is 0.40 ● The portfolio's average excess\nreturn is 3.15% per month ● The Russel index's average excess return is 0.65% per month Excess\nreturns refer to returns above the risk-free rate. Which of the following is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.The portfolio's alpha is about +289 basis points",
+            "B": "B.He should assume a beta (aka, slope) coefficient, β, of 1.0 such that the portfolio's alpha\nis about +250 basis points; this is a lower alpha due to the implicit risk-adjustment",
+            "C": "C.The Russel is NOT an appropriate benchmark because the low beta, β, implies that the Russel\n1000 cannot be combined with another asset in order to generate a market adjusted portfolio",
+            "D": "D.The Russel is NOT an appropriate benchmark because it represents a tradeable, low cost"
+        },
+        "answer": "A",
+        "explanation": "The portfolio's alpha is about +289 basis points. Because the regression line must\npass through the averages, alpha, α = 0.0315 - 0.40*0.0065 = 0.02890 or 2.890%. Specifically,\nbecause P(avg) = α+β*B(avg) --> α = P(avg) - β*B(avg).α = 0.0315 - 0.40*0.0065 = 0.02890\nor 2.890%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Regression Analysis in Finance, Portfolio Performance Evaluation, Excess Returns Calculation",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "Which of the following statements about tracking error and value at risk (VaR) is least\naccurate?",
+        "image": "",
+        "options": {
+            "A": "A.Tracking error and VaR are complementary measures of risk.",
+            "B": "B.Both tracking error and VaR may assume a normal distribution of returns.",
+            "C": "C.Tracking error is the standard deviation of the excess of portfolio returns over the return\nof the peer group.",
+            "D": "D.VaR can be defined as the maximum loss over a given time period."
+        },
+        "answer": "C",
+        "explanation": "All of the statements are accurate with the exception of the one relating to the\npeer group. Tracking error is the standard deviation of the excess of portfolio returns over\nthe return of an appropriate benchmark, not peer group.Tracking error 是和benchmark进行比较的\n，不是和peer group比较的",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Tracking Error, Value at Risk (VaR), Risk Measurement",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "Andrew Ang introduces factors and divides them primarily into two types: macro, fundamental-\nbased factors versus investment-style factors. He writes, \"Factors drive risk premiums. One set\nof factors describes fundamental, economy wide variables like growth, inflation, volatility,\nproductivity, and demographic risk. Another set consists of tradeable investment styles like\nthe market portfolio, value-growth investing, and momentum investing.\" Ang also claims that the\nthree most important macro factors are growth, inflation, and volatility. His evaluation of\nthese macro factors is based on a long-term historical sample (specifically, 1952:Q1 to\n2011:Q4). It is important to qualify the sample window because we cannot be sure that past is\nprologue; e.g., interest rates experienced two long-term secular trends during this window. In\nregard to his historical analysis, each of the following statements is true EXCEPT which is\nfalse?",
+        "image": "",
+        "options": {
+            "A": "A.Government and investment-grade bonds performed BETTER during economic recessions than during\nexpansions",
+            "B": "B.Both large and small (cap) stocks perform significantly BETTER during economic expansions\nthan during recessions",
+            "C": "C.During periods of high inflation, all five asset classes perform significantly BETTER than\nduring periods of low inflation",
+            "D": "D.All five assets classes are much MORE VOLATILE during recessions (or periods of low GDP"
+        },
+        "answer": "C",
+        "explanation": "To be true, this should instead read: During periods of high inflation, all five\nasset classes perform significantly WORSE than during periods of low inflation.实际上，这应该是\n这样表述的:在高通胀时期，所有五种资产类别的表现都明显逊于低通胀时期。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Macro Factors, Historical Analysis, Investment Styles",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "During the last fifteen years, Norma, a portfolio manager, earned excess returns (over risk-\nfree rate) of 16% with a standard deviation of 12%. During the same time period, excess returns\n(over risk-free rate) and standard deviation of a benchmark portfolio were 11% and 14%\nrespectively. Norma claims to have beaten the benchmark portfolio at 95% confidence level.\nBased on our estimation: I. We reject her claim. II. We fail to reject her claim. Which of the\nabove statements is (are) correct given that the t-statistic for the Sharpe ratio is 1.5?",
+        "image": "",
+        "options": {
+            "A": "A.II only.",
+            "B": "B.I only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor II."
+        },
+        "answer": "B",
+        "explanation": "t = 1.5 ＜ 2 (critical t at 95%), so we fail to reject the null hypothesis: H0:\ndifference in Sharpe ratios is zero. Thus, we can reject her claim to have beaten the benchmark\nportfolio at 95% confidence level.t = 1.5 ＜ 2 ，所以不能拒绝原假设",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Sharpe Ratio, Confidence Intervals",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "Jamie Chen, FRM, is considering investing a client into distressed hedge funds. Which of the\nfollowing investments would serve as the best proxy for the types of returns to expect?",
+        "image": "",
+        "options": {
+            "A": "A.Convertible bonds.",
+            "B": "B.Small-cap equities.",
+            "C": "C.Managed futures.",
+            "D": "D.High-yield bonds."
+        },
+        "answer": "D",
+        "explanation": "Distressed hedge funds have long exposure to credit risk of corporations with low\ncredit ratings. Publicly traded high-yield bonds are a good proxy for the returns to expect.专\n注困境证券投资的对冲基金长期暴露在信用评级较低的公司的信用风险敞口下。D选项最符合题意",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit Risk, Hedge Funds, Fixed Income Investments",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "Samantha Moore manages a hedge fund for a mid-sized money management firm. The fund\nfrequently changes styles according to identified profit opportunities. At the beginning of the\nyear, the fund took a long position in 10-year subordinated 8% coupon debt issued by a firm\nexpected to undergo reorganization under Chapter 11. Moore felt that analysts had been paying\ntoo little attention to the issuer. Six months later, the fund completed a second transaction\ninvolving a long position in Swiss Francs and a short position in Japanese Yen based on\nforecasted movements in interest rates in the two countries. What two hedge fund strategies are\nmost likely being employed by Moore’s hedge funds?",
+        "image": "",
+        "options": {
+            "A": "A.Distressed securities strategy and equity long\\/short strategy.",
+            "B": "B.Fixed-income arbitrage and global macro strategy.",
+            "C": "C.Distressed securities strategy and global macro strategy.",
+            "D": "D.Fixed-income arbitrage and equity long\\/short strategy."
+        },
+        "answer": "C",
+        "explanation": "In a distressed securities strategy, the manager takes a long position in the\nfinancial securities of a financially troubled company, holding the securities through the\nrestructuring or bankruptcy process to capture value that is unrecognized by the market. The\nmanager may also utilize short positions, but this is not a necessary element of the strategy.\nGlobal macro strategies take long and short positions in financial instruments (such as\ncurrencies, interest rates, debt, equities, and commodities) based on expected changes in\nglobal capital markets.困境证券会投资目前股价比较低的股票，全球宏观则是在多个国家之间进行交易",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Distressed Securities, Global Macro, Hedge Fund Strategies",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "The AT&T pension fund invested in equities. Assume a normal distribution and volatility of\n15% per annum. The fund measures absolute risk with a 95%, one-year VaR, which gives $3.2\nbillion. The pension plan wants to allocate this risk to two equity managers, each with the\nsame VaR budget. Given that the correlation between managers is 0.5, the VaR budget for each\nshould be",
+        "image": "",
+        "options": {
+            "A": "A.$3.2 billion",
+            "B": "B.$2.4 billion",
+            "C": "C.$1.9 billion",
+            "D": "D.$1.6 billion"
+        },
+        "answer": "C",
+        "explanation": "如下：X2 ＋X2 ＋2ρXX=3.22,x = $1.85≈1.9",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR) calculations, Portfolio correlation, Risk allocation",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "In a portfolio consisting of three currency positions, the relationship between the component\nVAR of each position and the individual VAR of each position is likely to be which of the\nfollowing?",
+        "image": "",
+        "options": {
+            "A": "A.The component VAR is likely to be less than the individual VAR.",
+            "B": "B.The component VAR is likely to be greater than the individual VAR.",
+            "C": "C.The component and individual VAR are the same for currency positions.",
+            "D": "D.There is no predictable relationship between the component VAR and the individual VAR."
+        },
+        "answer": "A",
+        "explanation": "The component VAR is likely to be less than the individual VAR because of the\neffects of diversification.成分VAR是有可能小于边际VAR值的，成分VAR值考虑了分散化效果",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VAR), Portfolio Risk Management, Diversification Benefits",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Simply adding the VaRs for each security in a portfolio to compute the portfolio value at\nrisk (VaR) implies the assumption of:",
+        "image": "",
+        "options": {
+            "A": "A.Perfect and positive correlation.",
+            "B": "B.Perfect and negative correlation.",
+            "C": "C.Imperfect and positive correlation.",
+            "D": "D.Imperfect and negative correlation"
+        },
+        "answer": "A",
+        "explanation": "Simply adding the VaRs of individual securities to compute the portfolio VaR\nassumes that there is a correlation of “1” between all the securities. A correlation value of\n“1”, is perfect and positive. This is called the undiversified VaR.单个资产VAR值线性加总得到\n组合VAR值的算法背后默认资产之间的相关系数为1",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Correlation, Portfolio VaR, Diversified VaR",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "Joan Berkeley is an investment analyst for a U.S.-based pension fund that considers adding a\nlarge capitalization equity mutual fund to its asset mix. To assess these funds better, Joan\nconducts detailed quantitative analysis on four mutual funds that claim to be large-\ncapitalization funds. The quantitative results are shown in Exhibits 1 and 2. \n \n \n Based on the above results, Joan made several comments. Which of the following statements is\nleast likely to be correct?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/10u.png",
+        "options": {
+            "A": "A.Andromeda is a passively managed fund.",
+            "B": "B.The pension fund should invest in the Borealis fund because it has the highest Sharpe ratio.",
+            "C": "C.Crux's investment style has drifted to small-capitalization",
+            "D": "D.Draco has the highest Information Ratio."
+        },
+        "answer": "B",
+        "explanation": "Choice A: The high R2 indicate low residuals, and the fund is probably being\npassively managed.Choice B: The Sharpe Ratio is not the right metric in this context because a\nfund is added to an existing portfolio and the fund has to be a large cap fund.Choice C:\nAlthough Crux claims to be large-capitalization fund, its weight in Russell 2000 Value Index\nand Russell 2000 Growth Index sum up to over 60%. So style drifting occurs.Choice D:\nInformation ration = (fund return – S&P return)/tracking error. Draco has the highest IR.A:\nR2高表示残差低，基金可能是被动管理的。B:在这种情况下，夏普比率不是正确的衡量标准。C: Crux虽然自\n称是大盘股基金，但其在Russell 2000 Value Index和Russell 2000 Growth Index中的权重合计超过60%。\n所以风格漂移发生了。D:信息比率=(基金回报-标准普尔回报)/追踪误差。Draco有最高的IR。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Investment Performance Evaluation, Risk-adjusted Performance Metrics, Style Analysis",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "Matt James is assessing the performance of his portfolio over the last four years. In\ncomputing the average return, he decides to use the geometric average return since it provides\na more conservative return than the arithmetic mean. The annual returns on his portfolio over\neach of the last four years were 50%, 30%,-25%, and -15%. The geometric average return is then\nclosest to:",
+        "image": "",
+        "options": {
+            "A": "A.5.44%.",
+            "B": "B.5.59%.",
+            "C": "C.8.56%.",
+            "D": "D.10.00%."
+        },
+        "answer": "B",
+        "explanation": "如下：gp =[(1.50)×(1.30)×(0.75)×(0.85)]1/4-1=5.59%",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Geometric Average Return Calculation, Performance Measurement, Portfolio Management",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "With respect to marginal VaR (MVaR), which of the following is false?",
+        "image": "",
+        "options": {
+            "A": "A.MVaR is an approximation based upon a small change in a fund’s portfolio weight.",
+            "B": "B.MVaR can be positive or negative.",
+            "C": "C.MVaR is the amount of risk a fund contributes to a portfolio.",
+            "D": "D.MVaR is a rate of change measure."
+        },
+        "answer": "C",
+        "explanation": "MVaR is defined as the change in the portfolio VaR per unit change in the weight in\na fund. The amount of risk a fund contributes to a portfolio is the definition of component VaR\n(CVaR).成分VAR衡量的是风险贡献度，因此C选项不对",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Marginal VaR (MVaR), Component VaR (CVaR), Risk contribution",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Which of the following best describes marginal risk for a portfolio? It is the:",
+        "image": "",
+        "options": {
+            "A": "A.Dollar change in portfolio VaR from an additional investment.",
+            "B": "B.Dollar change in portfolio beta from an additional investment.",
+            "C": "C.Risk level at which no additional investment will be made in an asset of insufficient\nexpected utility.",
+            "D": "D.per unit change in portfolio risk from an additional investment."
+        },
+        "answer": "D",
+        "explanation": "Marginal risk is the per unit change in portfolio risk from an additional\ninvestment. Component VaR is the dollar change in portfolio VaR from an additional\ninvestment.边际风险衡量的是额外1单位的投资对投资组合风险的单位变化。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Marginal risk, Component VaR, Portfolio risk",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Identify the risks in a fixed-income arbitrage strategy that takes long positions in\ninterest rate swaps hedged with short positions in Treasuries.",
+        "image": "",
+        "options": {
+            "A": "A.The strategy could lose from decreases in the swap-Treasury spread.",
+            "B": "B.The strategy could lose from increases in the Treasury rate, all else fixed.",
+            "C": "C.The payoff in the strategy has negative skewness.",
+            "D": "D.The payoff in the strategy has positive skewness."
+        },
+        "answer": "A",
+        "explanation": "The strategy has no exposure to the level of rates but is exposed to a widening of\nthe swap-Treasury spread. Assume, for instance, that the swap and Treasury rates are initially\n5.5% and 5%. If these rates change to 5.3% and 4.5%, for example, values for the swap and the\nTreasury bond would increase. Because the drop in the Treasury rate is larger, however, the\nprice of the Treasury bond would fall more than the swap, leading to a net loss on the\nposition. The strategy should gain from decreases in the swap-Treasury spread, so a) is wrong.\nThe strategy should gain from increases in the Treasury rate, all else equal, so B) is wrong.\nFinally, the distribution of the payoff depends on the distribution of the swap-Treasury\nspread. Because this cannot go below zero, there is a limit on the upside. The position has\nnegative skewness, so C) is correct.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest rate risk, Spread risk, Skewness in returns",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "Which of the following statements most correctly describes a consideration that complicates\nthe incorporation of transaction costs into the portfolio construction process?",
+        "image": "",
+        "options": {
+            "A": "A.The transaction costs and the benefits always occur in two distinct time periods.",
+            "B": "B.The transaction costs are uncertain while the benefits are relatively certain.",
+            "C": "C.There are no complicating factors from the introduction of transaction costs.",
+            "D": "D.The transaction costs must be amortized over the horizon of the benefit from the trade."
+        },
+        "answer": "D",
+        "explanation": "A challenge is to correctly assign the transaction costs to projected future\nbenefits. The transaction costs must be amortized over the horizon of the benefit from the\ntrade. The benefits (e.g., the increase in alpha) occur over time while the transaction costs\ngenerally occur at a specific time when the portfolio is adjusted.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Transaction Cost Analysis, Portfolio Construction, Cost-Benefit Analysis",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Which of the following investment strategies stabilizes asset prices?",
+        "image": "",
+        "options": {
+            "A": "A.A value investment strategy.",
+            "B": "B.A momentum investment strategy.",
+            "C": "C.A size investment strategy.",
+            "D": "D.Value, momentum, and size strategies all stabilize asset prices"
+        },
+        "answer": "A",
+        "explanation": "Value and momentum are opposite each other in that value investing is inherently\nstabilizing. It is a negative feedback strategy where stocks that have fallen in value\neventually are priced low enough to become value investments, pushing prices back up. Momentum\nis inherently destabilizing. It is a positive feedback strategy where stocks that have been\nincreasing in value are attractive to investors, so investors buy them, and prices increase\neven more.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value Investing, Momentum Investing, Feedback Strategies",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "The low-risk anomaly is a combination of each of the following three true effects EXCEPT\nwhich is false (and not technically included in the low-risk anomaly)?",
+        "image": "",
+        "options": {
+            "A": "A.Both contemporaneous and lagged volatility are inversely (aka, negatively) related to returns",
+            "B": "B.Contemporaneous beta is inversely (aka, negatively) related to raw returns",
+            "C": "C.Lagged beta is inversely (aka, negatively) related to risk-adjusted returns",
+            "D": "D.Minimum variance portfolios do better than the market"
+        },
+        "answer": "B",
+        "explanation": "The true statement is that contemporaneous beta is positively related to raw\nreturns, consistent with CAPM.此题中考察的均为实证结论。其中正确的说法是：同期的beta与当前收益\n率呈正相关。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Low-risk anomaly, Beta and returns, Minimum variance portfolios",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "The difference between marginal value at risk (MVaR) and incremental value at risk (IVaR) is\nthat:",
+        "image": "",
+        "options": {
+            "A": "A.Incremental VaR only captures changes over small increments.",
+            "B": "B.Marginal VaR captures non-linear changes in the portfolio.",
+            "C": "C.Incremental VaR computes actual changes in VaR for any additions of securities.",
+            "D": "D.Marginal VaR only captures changes over large increments."
+        },
+        "answer": "C",
+        "explanation": "Marginal VAR is an approximation of the changes in the VaR of the portfolio, in\nresponse to the addition of one unit (dollar) of a security, and is based on a linear\nrelationship. Like duration, this linear relationship is only accurate for small additions.\nIncremental VaR computes the actual changes in portfolio VaR for any size additions to the\nportfolio. Incremental VaR involves the calculation of an entirely new VaR for the portfolio\nand is used when the changes in VaR cannot be described by a linear function.边际VAR衡量的是1美\n元的投入，增量VAR衡量的是单个资产的投入",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Marginal VaR (MVaR), Incremental VaR (IVaR)",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "In performing due diligence on a potential investment manager, which of the following\nfactors is the least important for the investor to consider?",
+        "image": "",
+        "options": {
+            "A": "A.Risk controls.",
+            "B": "B.Business model.",
+            "C": "C.Past performance.",
+            "D": "D.Investment process."
+        },
+        "answer": "C",
+        "explanation": "Investors should assess potential managers and their investment strategies with an\nobjective and unbiased mind. They should not be unduly concerned with a manager's past\nsuccesses given that past performance is not always indicative of future performance. Risk\ncontrols, the business model, and the investment process are all fundamental parts of the due\ndiligence process.投资者应以客观和公正的心态评估潜在的管理者及其投资策略。鉴于过去的表现并不总\n是表明未来的表现，他们不应过分关注基金经理过去的成功。风险控制、业务模式和投资流程都是尽职调查\n流程的基本组成部分。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Due diligence, Investment management, Performance evaluation",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "Given the following information, what is the percent of contribution to VaR from Asset A?\nThere are two assets in a portfolio: A and B.",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/20u.png",
+        "options": {
+            "A": "A.64.04%",
+            "B": "B.24.27%",
+            "C": "C.35.94%",
+            "D": "D.63.64%"
+        },
+        "answer": "C",
+        "explanation": "The component VaR factors in both the marginal VaR and the asset value.For Asset A:\n0.05687×$7,000,000 = $398,090For Asset B: 0.17741×$4,000,000 = $709,640Asset A’s percent of\ncontribution to VaR is A's component VaR as a percent of total VaR:$398,090/($398,090 $709,640)\n= 35.94%A资产的CVaR: 0.05687×$7,000,000 = $398,090B资产的CVaR: 0.17741×$4,000,000 =\n$709,640A资产的贡献度：$398,090/($398,090 $709,640) = 35.94%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Component VaR, Percent Contribution to VaR",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "Marginal VaR is best described as the change in VaR that results from:",
+        "image": "",
+        "options": {
+            "A": "A.Subtracting idiosyncratic VaR from total VaR.",
+            "B": "B.Changing the weight on an existing position by one unit.",
+            "C": "C.Removing an existing asset from a fund.",
+            "D": "D.Adding a new asset to a fund."
+        },
+        "answer": "B",
+        "explanation": "Marginal VaR is the change in the portfolio VaR per unit change in the weight in\nFund i.边际VAR值指的是额外1美元的投入，引起整体投资组合VAR值的改变量",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Marginal VaR, Portfolio Risk Management",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "Assume you purchase a share of stock for $50 at time t = 0 and another share at $65 at time\nt = 1, and at the end of year 1 and year 2, the stock paid a $2.00 dividend. Also at the end of\nyear 2, you sold both shares for $70 each. The time-weighted rate of return on the investment\nis:",
+        "image": "",
+        "options": {
+            "A": "A.18.04%",
+            "B": "B.18.27%",
+            "C": "C.20.13%",
+            "D": "D.21.83%"
+        },
+        "answer": "D",
+        "explanation": "如下:HPR1 = (65＋2)/50 – 1 = 34%HPR2 = (70＋2)/65 – 1 = 10.77%TWR=\n[(1.34)(1.1077)]0.5 – 1 = 21.83%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio Performance Measurement, Time-Weighted Rate of Return, Holding Period Return",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "Which of the following characteristics is a potential explanation for the risk anomaly?",
+        "image": "",
+        "options": {
+            "A": "A.Investor preferences.",
+            "B": "B.The presence of highly leveraged retail investors.",
+            "C": "C.Lack of short selling constraints for institutional investors.",
+            "D": "D.Lack of tracking error constraints for institutional investors."
+        },
+        "answer": "A",
+        "explanation": "Potential explanations for the risk anomaly include: the preferences of investors,\nleverage constraints on retail investors that drive them to buy pre-leveraged investments in\nthe form of high-beta stocks, and institutional investor constraints like prohibitions against\nshort selling and tracking error tolerance bands.风险异象指的是低风险对应高收益，对应的解释有数\n据挖掘，杠杆限制，代理人问题，以及投资者偏好。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Behavioral finance, Market inefficiencies, Leverage constraints",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "An investment manager is given the task of beating a benchmark. Hence the risk should be\nmeasured",
+        "image": "",
+        "options": {
+            "A": "A.In terms of loss relative to the initial investment",
+            "B": "B.In terms of loss relative to the expected portfolio value",
+            "C": "C.In terms of loss relative to the benchmark",
+            "D": "D.In terms of loss attributed to the benchmark"
+        },
+        "answer": "C",
+        "explanation": "This is an example of risk measured in terms of deviations of the active portfolio\nrelative to the benchmark. Answers A and B are incorrect because they refer to absolute risk.\nAnswer D is incorrect because it refers to the absolute risk of the benchmark.是否打败\nbenchmark，要和benchmark进行比较才合理",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Active Risk, Benchmarking, Relative Risk",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "Assume you purchase a share of stock for $50 at time t = 0 and another share at $65 at time\nt = 1, and at the end of year 1 and year 2, the stock paid a $2.00 dividend. Also at the end of\nyear 2, you sold both shares for $70 each. The dollar-weighted rate of return on the investment\nis:",
+        "image": "",
+        "options": {
+            "A": "A.10.77%",
+            "B": "B.15.45%",
+            "C": "C.15.79%",
+            "D": "D.18.02%"
+        },
+        "answer": "D",
+        "explanation": "$$\n50 + \\frac{65}{1 + \\text{IRR}} = \\frac{2}{1 + \\text{IRR}} + \\frac{144}{(1 + \\text{IRR})^2}\n$$\n\n$$\n\\text{IRR} = 18.02\\%\n$$\n\n$$\n50 + \\frac{65}{1 + \\text{IRR}} = \\frac{2}{1 + \\text{IRR}} + \\frac{144}{(1 + \\text{IRR})^2}\n$$\n\n$$\n\\text{IRR} = 18.02\\%\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Time-weighted return, Dollar-weighted return, Investment returns analysis",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "A risk management unit (RMU) is most likely to be active in which of the following contexts?",
+        "image": "",
+        "options": {
+            "A": "A.Risk monitoring.",
+            "B": "B.Risk measurement.",
+            "C": "C.Risk budgeting.",
+            "D": "D.Risk planning."
+        },
+        "answer": "A",
+        "explanation": "A RMU monitors an investment management firm's portfolio risk exposure and\nascertains that the exposures are authorized and consistent with the risk budgets previously\nset.RMU监控投资管理公司的投资组合风险敞口，并确定这些敞口是经过授权的，并且与之前设定的风险预算\n相一致。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk monitoring, Risk management, Portfolio risk exposure",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "Which of the following types of VaR is best described as the amount of risk that a\nparticular fund contributes to a portfolio of funds?",
+        "image": "",
+        "options": {
+            "A": "A.Incremental VaR.",
+            "B": "B.Component VaR.",
+            "C": "C.Individual VaR.",
+            "D": "D.Marginal VaR."
+        },
+        "answer": "B",
+        "explanation": "Component VaR will generally be less than individual VaR because of the\ndiversification benefits at the portfolio level. In a large portfolio with many positions, the\napproximation is simply the marginal VaR multiplied by the dollar weight in the position.\nIncremental VaR is the change in VaR from the addition of a new position in a portfolio.\nIndividual VaR is the VaR of an individual position in isolation. Marginal VaR applies to a\nparticular position in a portfolio and it is the per unit change in a portfolio VaR that occurs\nfrom an additional investment in that position.成分VAR衡量的是单个资产的风险贡献度",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR) types, Portfolio risk contribution, Diversification benefits",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "In regard to the capital asset pricing model (CAPM), which of the following assumptions (or\nimplications) of the CAPM is a genuine success such that it is both true in practice and useful\nto us?",
+        "image": "",
+        "options": {
+            "A": "A.Information is costless and available to all investors: technology has reduced information\nfriction to roughly zero",
+            "B": "B.Risk is factor exposure: The risk of an individual asset is measured in terms of the factor\nexposure of that asset",
+            "C": "C.Investors have mean-variance utility: asset owners care only about means (which they like)\nand variances (which they dislike)",
+            "D": "D.Investors have homogeneous expectations: investors have identical expectations with respect"
+        },
+        "answer": "B",
+        "explanation": "Risk is factor exposure: The risk of an individual asset is measured in terms of\nthe factor exposure of that asset.CAPM其实也是因子理论，在CAPM模型里，我们承担的风险就是系统性\n风险",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "CAPM Assumptions, Factor Models, Systematic Risk",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "A risk manager runs a performance attribution analysis on an actively managed portfolio\nusing a selected benchmark. The weights and performance of the different market sectors within\nthe portfolio and the benchmark are given below:\n \n \nWhat conclusion can be drawn from the data above by using common performance attribution\nanalysis?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/29u.png",
+        "options": {
+            "A": "A.The portfolio outperforms the benchmark primarily because of the contribution of asset\nallocation.",
+            "B": "B.The portfolio outperforms the benchmark primarily because of the contribution of security\nselection within market sectors.",
+            "C": "C.The portfolio underperforms the benchmark primarily because of the contribution of asset\nallocation.",
+            "D": "D.The portfolio underperforms the benchmark primarily because of the contribution of security"
+        },
+        "answer": "A",
+        "explanation": "```markdown\n| Asset Class   | Portfolio Weight | Benchmark Weight | Active/Excess Weight | Benchmark Performance | Contribution |\n|--------------|------------------|------------------|----------------------|-----------------------|--------------|\n| Equity       | 40%              | 20%              | 20%                  | 8.00%                 | 0.016        |\n| Fixed Income | 55%              | 50%              | 5%                   | 4.00%                 | 0.002        |\n| Cash         | 5%               | 30%              | -25%                 | 2.00%                 | -0.005       |\n| **Total**    |                  |                  |                      |                       | 0.013        |\n\nContribution of Selection to Performance\n\n| Asset Class   | Portfolio Performance | Benchmark | Portfolio Weight | Excess Performance | Contribution |\n|--------------|-----------------------|-----------|------------------|--------------------|--------------|\n| Equity       | 6%                    | 8%        | 40%              | -2%                | -0.008       |\n| Fixed Income | 5%                    | 4%        | 55%              | 1%                 | 0.0055       |\n| Cash         | 3%                    | 2%        | 5%               | 1%                 | 0.0005       |\n| **Total**    |                       |           |                  |                    | -0.002       |\n```",        
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Performance Attribution, Security Selection, Asset Allocation",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "Consider the following two asset portfolios:\n \n \nCalculate the component VaR of asset A and marginal VaR of asset B, respectively, at the 95%\nconfidence level.",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/30u.png",
+        "options": {
+            "A": "A.USD 21,773 and 0.1306",
+            "B": "B.USD 21,773 and 0.1169",
+            "C": "C.USD 27,268 and 0.1169",
+            "D": "D.USD 27,268 and 0.1306"
+        },
+        "answer": "C",
+        "explanation": "$$\nMVaR_A = z_a \\times \\beta_{A,P} \\times \\sigma_P = 1.645 \\times 0.7 \\times 5.92\\% = 0.0681688\n$$\n\n$$\nCVaR_A = MVaR_A \\times V_A = 0.0681688 \\times 400,000 = 27,268\n$$\n\n$$\nMVaR_B = z_a \\times \\beta_{B,P} \\times \\sigma_P = 1.645 \\times 1.2 \\times 5.92\\% = 0.1169\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Component VaR, Marginal VaR",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "In contrast to absolute risk, relative risk is measured by:",
+        "image": "",
+        "options": {
+            "A": "A.Tracking error, and VaR techniques can apply to tracking error if it is normally distributed.",
+            "B": "B.Total variance, and VaR techniques cannot apply under any circumstances.",
+            "C": "C.Total variance, and VaR techniques can apply to tracking error if it is normally distributed.",
+            "D": "D.Tracking error, and VaR techniques cannot apply under any circumstances."
+        },
+        "answer": "A",
+        "explanation": "Absolute risk refers to the total possible losses over a horizon. Relative risk is\nmeasured by tracking error, which is the dollar loss relative to a benchmark return. VaR\ntechniques can apply to tracking error if it is normally distributed.绝对风险是指在一段时间内可\n能发生的全部损失。相对风险是通过跟踪误差来衡量的。如果跟踪误差是正态分布的，VaR技术可以应用于跟\n踪误差。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Relative risk, Tracking error, VaR techniques",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "Every year Business Week reports the performance of a group of existing equity mutual funds,\nselected for their popularity. Taking the average performance of this group of funds will\ncreate",
+        "image": "",
+        "options": {
+            "A": "A.Survivorship bias only",
+            "B": "B.Selection bias only",
+            "C": "C.Both survivorship and selection bias",
+            "D": "D.Instant-history bias only"
+        },
+        "answer": "C",
+        "explanation": "The publication lists existing funds, so it must be subject to survivorship bias,\nbecause dead funds are not considered. In addition, there is selection bias because the\npublication focuses on just the popular funds, which are large and likely to have done well.\nAnswers a) and b) are incomplete. Answer d) is also incomplete.只考虑存活的基金，这是幸存者偏差\n只播报好的业绩，这是选择偏差",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Survivorship bias, Selection bias, Mutual funds",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "Hedge fund managers following a convertible arbitrage strategy are said to be:",
+        "image": "",
+        "options": {
+            "A": "A.long gamma and short vega",
+            "B": "B.short gamma and short vega",
+            "C": "C.long gamma and long vega",
+            "D": "D.short gamma and long vega"
+        },
+        "answer": "C",
+        "explanation": "Convertible arbitrage managers hedge their equity exposure by shorting stocks using\nthe delta hedge ratio. Because they are exposed to changes in the hedge ratio, they are said to\nbe long gamma. They are also exposed to changes in the price volatility of the stock underlying\nthe option embedded in the convertible security, so they are said to be long Vega.买入可转债相\n当于long gamma，vega, 因此D选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Convertible arbitrage, Gamma exposure, Vega exposure",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "A due diligence specialist is evaluating the risk management process of a hedge fund in\nwhich his company is considering making an investment. Which of the following statements best\ndescribes criteria used for such an evaluation?",
+        "image": "",
+        "options": {
+            "A": "A.Because of the overwhelming importance of tail risk, the company should not invest in the\nfund unless it fully accounts for fat tails using extreme value theory at the 99.99% level when\nestimating VaR.",
+            "B": "B.Today's best practices in risk management require that a fund employ independent risk service\nproviders and that these service providers play important roles in risk-related decisions.",
+            "C": "C.When considering a leveraged fund, the specialist should assess how the fund estimates risks\nrelated to leverage, including funding liquidity risks during periods of market stress.",
+            "D": "D.It is crucial to assess the fund's valuation policy, and in general if more than 10% of asset"
+        },
+        "answer": "C",
+        "explanation": "Generally speaking, with a leveraged fund, an investor will need to evaluate\nhistorical and current changes in leverage, as well as the level of liquidity of the portfolio,\nparticularly during times of market stress. Certain strategies may in fact expose an investor\nto tail risk, so while an investor should inquire whether the manager believes that tail risk\nexists, and whether or not it is hedged, it is then up to the investor to decide whether to\naccept the risk unhedged or hedge it on their own. Many funds employ independent risk service\nproviders to report risks to investors, but these firms do not get involved in risk related\ndecision making. And finally, while it is important to know what percentage of the assets is\nexchange-traded and marked to market, what might be acceptable may differ depending on the\nstrategy of the fund.只有C选项的表述是正确的，当考虑杠杆基金的时候，我们应该考虑压力时期该基金\n的流动性风险状况是什么样的",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Leverage Risks, Liquidity Risk, Risk Assessment Criteria",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "Risk budgeting is a:",
+        "image": "",
+        "options": {
+            "A": "A.Bottom-up process and is forward looking.",
+            "B": "B.Top-down process and is backward looking.",
+            "C": "C.Top-down process and is forward looking.",
+            "D": "D.Bottom-up process and is backward looking."
+        },
+        "answer": "C",
+        "explanation": "Risk budgeting is a top-down process that involves choosing and managing exposures\nto risk. It builds upon the VaR measure, is forward-looking, and can apply to asset managers,\nclasses of assets, and individual securities.风险预算是一个自上而下的过程，并且具有前瞻性",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk budgeting, Top-down process, Forward-looking analysis",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "Which of the following is not a primary factor affecting the risk of a portfolio?",
+        "image": "",
+        "options": {
+            "A": "A.The degree to which assets within the portfolio move together.",
+            "B": "B.A high degree of concentration in one asset within the portfolio.",
+            "C": "C.Total risk for a large portfolio of diversified assets.",
+            "D": "D.The volatility of individual assets held within the portfolio."
+        },
+        "answer": "C",
+        "explanation": "In a diversified portfolio with a large number of assets, the most relevant risk is\nsystematic risk since the unsystematic (i.e., firm-specific risk) gets diversified away. In\nother words, the unsystematic risks of the individual assets offset each other.在一个拥有大量资\n产的多元化投资组合中，最相关的风险是系统性风险。单个资产的非系统性风险会相互抵消。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio diversification, Systematic risk, Unsystematic risk",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "Below is the regression output of a portfolio's excess returns against its benchmark's\nexcess return over the last three months (n = 60 trading days). Excess return is defined as\nreturn above the risk-free rate.\n \n \nKey output from the regression includes:The sample size is 60 trading daysWith respect to the\nportfolio, its average excess return is 3.29% (in excess of the risk free rate) with volatility\nof 3.67%With respect to the benchmark, its average excess return is 0.98% (in excess of the\nrisk free rate) with volatility of 1.99%The average difference in return between the portfolio\nand the benchmark, avg (P-M), is 2.31%; this is also called the active returnThe regression\nintercept is 0.0180 and the regression slope is 1.5231 (as displayed on plot)The tracking error\n(standard error of the regression) is 2.10% Which of the following is nearest to the\ninformation ratio (IR) if we measure the IR as residual return per unit of residual risk?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/37u.png",
+        "options": {
+            "A": "A.0.357",
+            "B": "B.0.630",
+            "C": "C.0.857",
+            "D": "D.1.102"
+        },
+        "answer": "C",
+        "explanation": "Residual IR = 0.857 = alpha/SER = 0.0180/0.0210 = 0.85714. Alpha is the regression\nintercept; this is a very high beta portfolio! (Note: the portfolio's Sharpe ratio is\n0.0329/0.0367 = 0.8949).IR = 0.857 = alpha/SER = 0.0180/0.0210 = 0.85714Alpha是回归方程的截距",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "1. Regression Analysis, \n2. Tracking Error, \n3. Information Ratio",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "What critical shift occurred in the hedge fund industry following the collapse of Long-Term\nCapital Management (LTCM) in 1998 and the dot-com bubble burst in 2001?",
+        "image": "",
+        "options": {
+            "A": "A.There was a significant drop in assets under management in the hedge fund industry.",
+            "B": "B.There was a large influx of institutional investors investing in hedge funds.",
+            "C": "C.Reporting within the hedge fund industry became more regulated than mutual funds.",
+            "D": "D.There was a significant increase in hedge fund failures."
+        },
+        "answer": "B",
+        "explanation": "During the time period following the dot-com collapse, hedge funds outperformed the\nS&P 500 with a lower standard deviation, which attracted institutional investment.这是一个客观\n事实",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Fund Regulation, Institutional Investment in Hedge Funds, Hedge Fund Performance",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "The Fama-French three-factor model is given by the following formula\n \n \nWhich of the following statements about this Fama-French model is TRUE?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/39u.png",
+        "options": {
+            "A": "A.Unlike the size factor, the value premium is robust and outperforms over the long-run",
+            "B": "B.Since 1965 to roughly the present, the size factor (size effect) in Fama-French has been\nsignificant and robust",
+            "C": "C.Although the size effect continues to be robust and significant, small stocks do NOT have\nhigher returns, on average, than large stocks",
+            "D": "D.The salient feature of value stocks is their tendency, both in theory and in the data, to"
+        },
+        "answer": "A",
+        "explanation": "Unlike the size factor, the value premium is robust and outperforms over the long-\nrun与规模因素不同，价值因素是稳健的，并在长期表现良好",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Asset Pricing Models, Factor Models, Empirical Finance",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Grinold’s fundamental law of active management suggests that:",
+        "image": "",
+        "options": {
+            "A": "A.Investors should focus on increasing only their predictive ability relative to stock price\nmovements.",
+            "B": "B.Sector allocation is the most important factor in active management.",
+            "C": "C.A small number of investment bets decreases the chances of making a mistake and, therefore,\nincreases the expected investment performance.",
+            "D": "D.To maximize the information ratio, active investors need to either have high-quality"
+        },
+        "answer": "D",
+        "explanation": "Grinold's fundamental law of active management focuses on the tradeoff of high\nquality predictions relative to placing a large number of investment bets. Investors can focus\non either action to maximize their information ratio, which is a measure of risk-adjusted\nperformance. While sector allocation is a very important component of the asset allocation\ndecision, Grinold focused only on the quality of predictions and the number of investment bets\nmade.格林罗德的主动管理基本定律关注于高质量预测与大量投资之间的权衡。投资者可以专注于其中一个行\n动，以最大化他们的信息比率，这是一个衡量风险调整后业绩的指标。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Active Management, Predictive Quality, Information Ratio",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "The following data has been collected to appraise funds A, B, C, and D\n \n \nThe risk-free rate of return for the relevant period was 4% Calculate and rank the funds from\nbest to worst using Jensen's alpha.",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/41u.png",
+        "options": {
+            "A": "A.B,D,A,C",
+            "B": "B.A,C,D,B",
+            "C": "C.C,A,D,B",
+            "D": "D.C,D,A,B"
+        },
+        "answer": "C",
+        "explanation": "如下:RA = 4%   (8.6% – 4%)×0.91 = 8.19%RB = 4%   (8.6% – 4%)×0.84 = 7.86%RC =\n4%   (8.6% – 4%)×1.02 = 8.69%RD = 4%   (8.6% – 4%)×1.34 = 10.16%AlphaA = 8.25% - 8.19% =\n0.06%AlphaB = 7.21% - 7.86% = -0.65%AlphaC = 9.44% - 8.69% = 0.75%AlphaD = 10.12% - 10.16% = -\n0.04%",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Jensen's Alpha, Risk and Return, Performance Measurement",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "Which of the following statements about the risk anomaly is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.The primary argument against the risk anomaly, with respect to either low volatility or low\nbeta, is that economists have generally demonstrated that markets are efficient; i.e.,\nefficient market hypothesis (EMH) is true",
+            "B": "B.Due to time-varying reality, it is theoretically intractable (ie, not possible) to create a\nreproducible benchmark for either the low beta or low volatility risk anomalies such that\nempirical tests of the risk anomalies are not robust and the discussion remains \\\"largely\ntheoretical\\\"",
+            "C": "C.The risk anomaly might be explained by investors who are leveraged constrained (i.e., who\ncannot borrow so instead bid up high beta stocks) and\\/or have an \\\"agency problem\\\" created by\na need to minimize tracking error with the benchmark (e.g., they cannot short low volatility or\nshort low beta)",
+            "D": "D.The presence of the low-risk anomaly (aka, low-risk effect) in several different contexts--"
+        },
+        "answer": "C",
+        "explanation": "The low-risk anomaly violates the CAPM and suggests that low beta stocks will\noutperform high-beta stocks. This has been empirically proven with several studies. The CAPM\npoints to a positive relationship) between risk and reward, but the low-risk anomaly suggests\nan inverse relationship.风险异象指的是低风险对应高收益，对应的解释有数据挖掘，杠杆限制，代理人\n问题，以及投资者偏好。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis (EMH), Capital Asset Pricing Model (CAPM), Leverage Constraints",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Market efficiency can be described with the efficient market hypothesis (EMH). Regarding the\ndefinition of EMH and the rational and behavioral explanations for this approach, the EMH\nsuggests that:",
+        "image": "",
+        "options": {
+            "A": "A.Speculative trading is costless.",
+            "B": "B.Active managers cannot generally beat the market.",
+            "C": "C.Under the behavioral explanation, losses during bad times are compensated for by high\nreturns.",
+            "D": "D.Under the rational explanation, it is agents, under- or overreactions to news that generates"
+        },
+        "answer": "B",
+        "explanation": "The EMH implies that speculative trading is costly, and active managers cannot\ngenerally beat the market. Under the rational explanation of behavioral biases, losses during\nbad times are compensated for by high returns. Under the behavioral explanation, it is agents,\nunder- or overreactions to news that generates high returns. Market barriers may make it\ndifficult to take advantage of mispricings.有效市场假设所有信息都是被充分反应的，任何人都不能打\n败市场，因此投机交易所付出的成本都是费用",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis (EMH), Market Efficiency, Active vs. Passive Management",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Which of the following statements about risk management in the pension fund industry is\ncorrect?",
+        "image": "",
+        "options": {
+            "A": "A.A pension plan's total VaR is equal to the sum of its policy-mix VaR and active-management\nVaR.",
+            "B": "B.Pension fund risk analysis does not consider performance relative to a benchmark.",
+            "C": "C.In most defined-benefit pension plans, if liabilities exceed assets, the shortfall does not\ncreate a risk for the plan sponsor.",
+            "D": "D.From the plan sponsor's perspective, nominal pension obligations are similar to a short"
+        },
+        "answer": "D",
+        "explanation": "Nominal pension obligations are similar to a short position in a bond.养老金负债相\n当于养老金公司在长期债券上的空头头寸",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Pension fund risk management, Defined-benefit pension plans, Risk analysis and benchmarks",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "Compared to policy risk, which of the following is not a reason that management risk is not\nmuch of a problem?",
+        "image": "",
+        "options": {
+            "A": "A.There will be diversification effects across the deviations.",
+            "B": "B.Managers tend to make the same style shifts at the same time.",
+            "C": "C.For well-managed funds, it is usually fairly small for each of the individual funds.",
+            "D": "D.There can be diversification with the policy mix VaR to actually lower the total portfolio"
+        },
+        "answer": "B",
+        "explanation": "If managers make the same style shifts, then that would actually increase\nmanagement risk. All the other reasons are valid.如果管理者做出同样的风格转变，那么实际上会增加\n管理风险。其他的理由都是合理的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio Management, Diversification, Value at Risk (VaR)",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "A portfolio management firm manages the fixed-rate corporate bond portfolio owned by a\ndefined-benefit pension fund. The duration of the bond portfolio is 5 years; the duration of\nthe pension fund's liabilities is 7 years. Assume that the fund sponsor strongly believes that\nrates will decline over the next six months and is concerned about the duration mismatch\nbetween portfolio assets and pension liabilities. Which of the following strategies would be\nthe best way to eliminate the duration mismatch?",
+        "image": "",
+        "options": {
+            "A": "A.Enter into a swap transaction in which the firm pays fixed and receives floating.",
+            "B": "B.Enter into a swap transaction in which the firm receives fixed and pays floating.",
+            "C": "C.Purchase an interest rate cap expiring in six months.",
+            "D": "D.Sell Eurodollar futures contracts."
+        },
+        "answer": "B",
+        "explanation": "A is incorrect. Entering into a pay fixed swap will further reduce the duration of\nthe assets. This will exacerbate the interest rate risk arising from the duration mismatch. B\nis correct. Because the duration of the pension liabilities exceeds the duration of the bond\nportfolio (assets), the pension plan is at risk if interest rates fall. Specifically, in a\nfalling rate environment, the value of the liabilities will increase by more than will the\nvalue of the assets, thereby eroding the pension surplus. The duration of a swap equals the\ndifference between the duration of the fixed leg and the duration of the floating leg. By\nentering into a receive-fixed swap, the pension plan can increase the portfolio duration to\nequal that of the pension liabilities and consequently reduce interest rate risk. C is\nincorrect. The duration of the option is only six months and would therefore not offset the\nduration mismatch. D is incorrect. Selling futures will reduce the portfolio duration and\naugment the duration mismatch.进行互换交易，公司接收固定收益，支付浮动收益。可以在利率下降时获\n得好处。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk Management, Duration Matching, Interest Rate Swaps",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "At the end of 2007, Chad & Co.’s pension had USD 350 million worth of assets that were\nfully invested in equities and USD 180 million in fixed-income liabilities with a modified\nduration of 14. In 2008, the wide spread effects of the subprime crisis hit the pension fund,\ncausing its investment in equities to loss 50% of their market value. In addition, the\nimmediate response from the government – cutting interest rates – to salvage the situation,\ncaused bond yields to decline by 2%. What was the change in the pension fund’s surplus in\n2008?",
+        "image": "",
+        "options": {
+            "A": "A.USD -55.4 million",
+            "B": "B.USD -124.6 million",
+            "C": "C.USD -225.4 million",
+            "D": "D.USD -230.4 million"
+        },
+        "answer": "C",
+        "explanation": "The change in the pension fund’s surplus for the year 2008 is equal to the initial\nsurplus S0 at the end of 2007 less the ending surplus S1 at the end of 2008.The initial surplus\nis calculated as S0 = 350 – 180 = 170.Next we have to calculate the surplus at the end of",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "pension fund management, interest rate risk, market risk",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "Which of the following statements least likely represents a limitation of the capital asset\npricing model (CAPM)?",
+        "image": "",
+        "options": {
+            "A": "A.All investors are price takers.",
+            "B": "B.Information is costless to obtain.",
+            "C": "C.All investors have the same expectations.",
+            "D": "D.There are uniform taxes and transaction costs."
+        },
+        "answer": "D",
+        "explanation": "The CAPM does not assume uniform taxes and transaction costs; it assumes there are\nno taxes or transaction costs (i.e., frictionless markets).The other limiting assumptions of\nthe CAPM include:1. Investors only have financial wealth。2. Investors have mean-variance\nutility.3. Investors have a single period investment horizon.4. Investors have homogeneous\n(identical) expectations.5. All investors are price takers.CAPM模型假没有税收，没有交易成本",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Assumptions of CAPM, Frictionless Markets, Homogeneous Expectations",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "A portfolio has an equal amount invested in two positions, X and Y. The expected excess\nreturn of X is 9% and that of Y is 12%. Their marginal VaRs are 0.06 and 0.075, respectively.\nTo move toward the optimal portfolio, the manger will probably:",
+        "image": "",
+        "options": {
+            "A": "A.Increase the allocation in Y and\\/or lower that in X.",
+            "B": "B.Increase the allocation in X and\\/or lower that in Y.",
+            "C": "C.Do noting because the information is insufficient.",
+            "D": "D.Not change the portfolio because it is already optimal."
+        },
+        "answer": "A",
+        "explanation": "The expected excess-return-to-MVaR ratios for X and Y are 1.5 and 1.6,\nrespectively. Therefore, the portfolio weight in Y should increase to move the portfolio toward\nthe optimal portfolio.X和Y的预期超额回报率与mvar之比分别为1.5和1.6。因此，应该增加Y中的投资组合\n权重，使投资组合向最优投资组合移动。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Optimal portfolio allocation, Marginal Value at Risk (MVaR), Return-to-risk ratio",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "A portfolio has USD 2 million invested in Stock A and USD 1 million invested in Stock B. The\n95% 1-day VaR for each individual position is USD 40,000. The correlation between the returns\nof Stock A and Stock B is 0.5. While rebalancing, the portfolio manager decides to sell USD 1\nmillion of Stock A to buy USD 1 million of Stock B. Assuming that returns are normally\ndistributed and that the rebalancing does not affect the volatility of the individual stocks,\nwhat effect will this have on the 95% 1-day portfolio VaR?",
+        "image": "",
+        "options": {
+            "A": "A.There will be no effect.",
+            "B": "B.It will increase by USD 20,370",
+            "C": "C.It will increase by USD 21,370",
+            "D": "D.It will increase by USD 22,370"
+        },
+        "answer": "D",
+        "explanation": "$$\n\\sqrt{(40,000)^2 + (40,000)^2 + 2 \\times 0.5 \\times 40,000 \\times 40,000} = 69,282\n$$\n\nThe VaR of the new portfolio:\n\n$$\n\\sqrt{(20,000)^2 + (80,000)^2 + 2 \\times 0.5 \\times 20,000 \\times 80,000} = 91,652\n$$\n\nSo the VaR will increase by USD 22,370",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Risk Management, Correlation",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "Which of the following concepts would least likely meet the definition of a factor?",
+        "image": "",
+        "options": {
+            "A": "A.Market.",
+            "B": "B.Volatility.",
+            "C": "C.Hedge funds.",
+            "D": "D.Momentum investing style."
+        },
+        "answer": "C",
+        "explanation": "Assets, including corporate bonds, private equity, and hedge funds, are not\nconsidered factors themselves, but contain many factors, such as equity risk, interest rate\nrisk, volatility risk, and default risk. Some assets, like equities and government bonds, can\nbe thought of as factors themselves. Factors may also include the market (a tradable investment\nfactor), interest rates, or investing styles (including value/ growth, low volatility, or\nmomentum).对冲基金可继续往下分解，它不是因子",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Factor Models, Asset Classes, Investment Styles",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "Lisa Tahara, FRM, is considering an institutional investment in a hedge fund that has\nexperienced volatile and generally positive returns in the past. Which of the following\nconsiderations about the fund's track record is least relevant for consideration in her\ninvestment decision?",
+        "image": "",
+        "options": {
+            "A": "A.Size of investment assets.",
+            "B": "B.Absolute level of past returns.",
+            "C": "C.Verification of returns by a third party.",
+            "D": "D.Employment continuity of the investment team."
+        },
+        "answer": "B",
+        "explanation": "The absolute level of past returns is least relevant here given the volatile\nreturns in the past. Also, past returns are not an assurance of similar returns in the future.\nThe relative level of returns is more important than the absolute level. Verification of\nreturns by a third party provides assurance that the return calculations were computed fairly\nand accurately by the fond. It is relevant to ascertain whether most or all of the staff on the\ninvestment team that generated the past results are still currently employed by the fund. It\nprovides some (but not absolute) assurance that similar returns may be generated in the\nfuture.过去的业绩不重要，过去并不能代表未来",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Return analysis, Performance attribution, Due diligence",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "Sharpe's style analysis, used to evaluate an active portfolio manager's performance,\nmeasures performance relative to:",
+        "image": "",
+        "options": {
+            "A": "A.A passive benchmark of the same style.",
+            "B": "B.Broad-based market indices.",
+            "C": "C.The performance of an equity index fund.",
+            "D": "D.An average of similar actively managed investment funds."
+        },
+        "answer": "A",
+        "explanation": "Sharpe's style analysis measures performance relative to a passive benchmark of the\nsame style.夏普的风格分析比较的是同一风格的被动基准。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Sharpe's style analysis, Performance evaluation, Passive benchmarks",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "Which of the following is correct with respect to adjusting the optimal portfolio for\nportfolio constraints?",
+        "image": "",
+        "options": {
+            "A": "A.No reliable method exists.",
+            "B": "B.By refining the alphas and then optimizing, it is possible to include constraints of both the\ninvestor and the manger.",
+            "C": "C.By refining the alphas and then optimizing, it is possible to include constraints of the\ninvestor, but not the manager.",
+            "D": "D.By optimizing and then refining the alphas, it is possible to include constraints of both the"
+        },
+        "answer": "B",
+        "explanation": "The approach of first refining alphas and then optimizing can replace even the most\nsophisticated portfolio construction process. With this technique both the investor and manager\nconstraints are considered.达到最优组合前要先修正，修正完了再优化",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Optimal Portfolio Construction, Portfolio Constraints, Alpha Refinement Techniques",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "A portfolio manager produced an alpha of 3% based on monthly returns over a 6 year period.\nUnder the assumption of a normal distribution, the portfolio manager claims that the\nprobability of observing such a large alpha by chance is only 2%. To test her claim, one would\nuse a t-test using which level of confidence?",
+        "image": "",
+        "options": {
+            "A": "A.90%.",
+            "B": "B.95%.",
+            "C": "C.98%.",
+            "D": "D.99%."
+        },
+        "answer": "C",
+        "explanation": "Confidence level = 1 - significance level = 1-0.02 = 98% This means that we are 98%\nconfident that superior performance was not due to chance.凭运气产生大的alpha概率是2%，所以用\n98%的置信水平检验就可以了",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis testing, Significance level, Confidence level",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "56",
+        "question_text": "Suppose a portfolio consists of a USD 3 million investment in Euros and a USD 2 million\ninvestment in Mexican Pesos. Additional information is given below: ☆ Portfolio beta of Euro =\n0.90 ☆ Portfolio beta of Peso = 1.15 ☆ Diversified Portfolio VaR = USD 324,700 Based on the\ngiven information, the marginal VaR and the component VaR of the Euro position are closest to:",
+        "image": "",
+        "options": {
+            "A": "A.USD 0.058\\t USD 175,338",
+            "B": "B.USD 0.292\\t USD 292,230",
+            "C": "C.USD 0.084\\t USD 337,688",
+            "D": "D.USD 0.106\\t USD 422,110"
+        },
+        "answer": "A",
+        "explanation": "Marginal VaR of Euro = (USD 324,700 / USD 5,000,000)×0.90 = USD 0.058Component VaR\nof Euro = USD 324,700 × 0.90 × (3,000,000 / 5,000,000) = USD 175,338Euro的边际VaR = (USD\n324,700 / USD 5,000,000)×0.90 = USD 0.058Euro的成分VaR = USD 324,700 × 0.90 × (3,000,000 /\n5,000,000) = USD 175,338",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Management, Beta",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "What would be an ideal approach for a hedge fund investor who is concerned about the problem\nof risk sharing asymmetry between principals and agents within the hedge fund industry?",
+        "image": "",
+        "options": {
+            "A": "A.Focus on investing in funds for which the fund managers have a good portion of their own\nwealth invested.",
+            "B": "B.Focus on diversifying among the various niche hedge fund strategies.",
+            "C": "C.Focus on funds with improved operational efficiency and transparent corporate governance.",
+            "D": "D.Focus on large funds from the \\\"foresight-assisted\\\" group."
+        },
+        "answer": "A",
+        "explanation": "The incentive fee structure within the hedge fund industry has not really changed\nover the years, and there is incentive for managers to take undue risks in order to earn fees.\nThus, there should be a focus on investing in funds for which the fund managers have a good\nportion of their own wealth invested.多年来，对冲基金行业内部的奖励费结构并没有真正改变，基金经\n理有动机为了赚取费用而承担不必要的风险。因此，可以让基金经理将自己一部分的财富投入到基金里面\n，来防止基金经理承担不必要的风险。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Principal-agent problem, Incentive alignment, Hedge fund investment strategies",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "58",
+        "question_text": "In performing due diligence on a potential investment manager, which of the following\nfactors is the least important for the investor to consider?",
+        "image": "",
+        "options": {
+            "A": "A.Risk controls.",
+            "B": "B.Business model.",
+            "C": "C.Past performance.",
+            "D": "D.Investment process."
+        },
+        "answer": "C",
+        "explanation": "Investors should assess potential managers and their investment strategies with an\nobjective and unbiased mind. They should not be unduly concerned with a manager’s past\nsuccesses given that past performance is not always indicative of future performance. Risk\ncontrols, the business model, and the investment process are all fundamental parts of the due\ndiligence process.投资者应以客观和公正的心态评估潜在的管理者及其投资策略。鉴于过去的表现并不总\n是表明未来的表现，他们不应过分关注基金经理过去的成功。风险控制、业务模式和投资流程都是尽职调查\n流程的基本组成部分。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Due Diligence, Investment Process, Risk Management",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Identify the risks in a convertible arbitrage strategy that takes long positions in\nconvertible bonds hedged with short positions in Treasuries and the underlying stock.",
+        "image": "",
+        "options": {
+            "A": "A.Short implied volatility",
+            "B": "B.Long duration",
+            "C": "C.Long stock delta",
+            "D": "D.Positive gamma"
+        },
+        "answer": "D",
+        "explanation": "This position is hedged against interest rate risk, so B) is wrong. It is also\nhedged against directional movements in the stock, so C) is wrong. The position is long an\noption (the option to convert the bond into the stock) and so is long implied volatility, so A)\nis wrong. Long options positions have positive gamma.买入可转债相当于long gamma，vega, delta通\n过股票对冲，所以delta为0，因此D选项正确",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Convertible arbitrage risk management, Hedging strategies, Options Greeks",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "Which of the following is true with respect to computing incremental VaR? Compared to using\nmarginal VaRs, computing with full revaluation is:",
+        "image": "",
+        "options": {
+            "A": "A.More costly, but less accurate.",
+            "B": "B.Less costly, but more accurate.",
+            "C": "C.Less costly, but also less accurate.",
+            "D": "D.More costly, but also more accurate."
+        },
+        "answer": "D",
+        "explanation": "Full revaluation means recalculating the VaR of the entire portfolio. The marginal\nVaRs are probably already known, so using them is probably less costly, but will not be as\naccurate.完全估计法比较精准，但是耗费的成本也会比较大",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Full revaluation, Marginal VaR",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "A portfolio manager creates alpha relative to a benchmark by making bets that deviate from\nthat benchmark. The more successful these bets, the higher the manager's alpha. Grinold’s\nFundamental Law of Active Management formalizes this intuition by asserting that the maximum\nattainable information ratio is given by IR ≈ IC * BR^0.5, where IR is the information ratio,\nIC is the information coefficient (the correlation of the manager’s forecast with the actual\nreturns) and BR is the breadth of the strategy. Breadth is the number of securities that can be\ntraded and how frequently they can be traded. Each of the following statements about the\nFundamental Law is true EXCEPT which is false?",
+        "image": "",
+        "options": {
+            "A": "A.The empirical evidence suggests that, on average, IC tends to fall as BR increases",
+            "B": "B.A compelling advantage of the fundamental law is that it successfully incorporates downside\nrisk and higher moment risk; specifically, it adjusts for skew and excess kurtosis",
+            "C": "C.If we require an IR of 0.50, this can be achieved either by a highly skilled stock timer with\nan IC of 0.25 making only four bets a year; or the same IR can be achieved by a manager with\nonly a slight edge, IC of 0.025, who makes fully 400 bets a year",
+            "D": "D.A crucial assumption is that the forecasts are independent of each other. But due to"
+        },
+        "answer": "B",
+        "explanation": "Grinold’s fundamental law is derived under mean-variance utility, and so all the\nshortcomings of mean-variance utility apply. In particular, by using mean-variance utility, the\nGrinold–Kahn framework ignores downside risk and other higher moment risk while assuming that\nall information is used optimally.格林罗德基本定律是在均值-方差效用下导出的，因此均值-方差效用\n的所有缺点都适用。特别地，通过使用均值-方差效用，该框架忽略了下行风险和其他更高阶矩的风险，同时\n假设所有信息都得到了最优利用。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Grinold’s Fundamental Law of Active Management, Information Ratio (IR), Mean-Variance Utility",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "The following information is available for funds ABC, RST, JKL, and XYZ:\n \n \nThe average risk-free rate was 5%. Rank the funds from best to worst according to their Treynor\nmeasure.",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/62u.png",
+        "options": {
+            "A": "A.JKL, RST, ABC, XYZ",
+            "B": "B.JKL, RST, XYZ, ABC",
+            "C": "C.RST, JKL, ABC, XYZ",
+            "D": "D.XYZ, ABC, RST, JKL"
+        },
+        "answer": "A",
+        "explanation": "$$\nT_{ABC} = \\frac{0.15 - 0.05}{1.25} = 0.08\n$$\n\n$$\nT_{RST} = \\frac{0.18 - 0.05}{1.00} = 0.13\n$$\n\n$$\nT_{JKL} = \\frac{0.25 - 0.05}{1.20} = 0.1667\n$$\n\n$$\nT_{XYZ} = \\frac{0.11 - 0.05}{1.36} = 0.0441\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Performance measurement, Risk-adjusted returns, Treynor ratio",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "Which of the following statements is correct concerning the relationship between the low-\nrisk anomaly and the capital asset pricing model (CAPM)?",
+        "image": "",
+        "options": {
+            "A": "A.The low-risk anomaly provides support for the CAPM.",
+            "B": "B.The notion that the low-risk anomaly violates the CAPM has not been proven empirically.",
+            "C": "C.The low-risk anomaly violates the CAPM and suggests that low-beta stocks will outperform\nhigh-beta stocks.",
+            "D": "D.Both CAPM and the low-risk anomaly point to a positive relationship between risk and reward."
+        },
+        "answer": "C",
+        "explanation": "An appropriate benchmark should be well-defined, replicable, tradeable, and risk-\nadjusted. If the benchmark is not on the same risk scale as the assets under review, then there\nis an unfair comparison.低风险异常违背了CAPM，表明低贝塔股票的表现将优于高贝塔股票",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "CAPM (Capital Asset Pricing Model), Low-risk anomaly, Risk and return relationships",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "You are given the following information about a portfolio and are asked to make a\nrecommendation about how to reallocate the portfolio to improve the risk/return tradeoff.\n \nWhich of the following the recommendations will improve the risk/return tradeoff of the\nportfolio?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/64u.png",
+        "options": {
+            "A": "A.Increase the allocations to assets 1 and 3 and decrease the allocations to assets 2 and 4.",
+            "B": "B.Increase the allocations to assets 1 and 2 and decrease the allocations to assets 3 and 4.",
+            "C": "C.Increase the allocations to assets 2 and 3 and decrease the allocations to assets 1 and 4.",
+            "D": "D.Increase the allocations to assets 1 and 4 and decrease the allocations to assets 2 and 3."
+        },
+        "answer": "D",
+        "explanation": "A. Incorrect. Asset 3 should be decreased since it has the lowest marginal return-\nto-marginal risk ratio.B. Incorrect. Asset 4 should be increased since it has the highest\nmarginal return-to-marginal risk ratio.C. Incorrect. Asset 4 should be increased since it has\nthe highest marginal return-to-marginal risk ratio.D. Correct. A portfolio optimizing the risk-\nreward tradeoff has the property that the ratio of the marginal return to marginal risk of each\nasset is equal. Therefore, this option is the only recommendation that will move the ratios in\nthe right direction.A:不正确的。资产3应该减少，因为它的边际收益率与边际风险比最低。 B不正确的。\n资产4应该增加，因为它的边际收益率与边际风险比最高。 C不正确的。资产4应该增加，因为它的边际收益\n率与边际风险比最高。 D.正确。优化风险收益权衡的投资组合具有各资产的边际收益与边际风险之比相等的\n性质。因此，这个选项正确",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Portfolio Optimization, Marginal Return-to-Marginal Risk Ratio, Risk/Return Tradeoff",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "A company's pension fund is established as a defined benefit plan, and therefore the board\nmust consider funding risk. Which of the following statements about the pension fund’s funding\nrisk is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The longer the horizon for expected payouts, the lower the funding risk.",
+            "B": "B.Decreases in interest rates will reduce funding risk.",
+            "C": "C.The funding risk has been effectively transferred to the employees.",
+            "D": "D.Funding risk represents the true long-term risk to the plan sponsor."
+        },
+        "answer": "D",
+        "explanation": "In regard to A. Longer maturities do not reduce funding risk In regard to B. In a\nlow interest rate environment, the value of liabilities is likely to increase, increasing\nfunding risk. In regard to C. Funding risk will not be transferred to employees.In regard to D.\nRetirees receive their pension on a regular basis, which is equivalent to buying a long-term\nbond, which is a long-term liability for pension plan sponsors, and funding risk is crucial.A选\n项，到期时间不会使得融资风险减少。B选项，在低利率环境下，负债价值可能会增加，从而加剧融资风险。\nC选项，融资风险会转移给具有固定缴款计划的员工。D选项，退休员工定期会拿到养老金，就相当购买了一\n张长期债券，这对养老金计划的发起人来说是长期负债，融资风险至关重要。D选项正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Pension Fund Risk Management, Interest Rate Risk, Long-term Liabilities",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "66",
+        "question_text": "Why would an investor include multiple factors in a regression study? I. To attempt to\nimprove the adjusted R2 measure. II. To reduce the f-stat value on the respective regression\ncoefficients.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor II."
+        },
+        "answer": "A",
+        "explanation": "An investor should consider adding multiple factors to the regression analysis to\npotentially improve the adjusted R2 measurement, potentially increase the tests of statistical\nsignificance, and to search for a benchmark that is more representative of a portfolio’s\ninvestment style.投资者应该考虑在回归分析中添加多个因素，以潜在地改进调整后的R2度量，潜在地增加\n统计显著性检验，并寻找更能代表投资组合投资风格的基准。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regression Analysis, Adjusted R-Squared, Statistical Significance",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "67",
+        "question_text": "With respect to the buy side and sell side of the investment industry: I. the buy side uses\nmore leverage. II. the sell side has relied more on VaR measures.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor II."
+        },
+        "answer": "B",
+        "explanation": "Compared to banks on the “sell side,” investors on the “buy side” have a longer\nhorizon, slower turnover, and lower leverage. Banks use forward-looking VaR risk measures and\nVaR limits.与“出售方”的银行相比，“购买方”的投资者拥有更长的投资期限、更低的周转率和更低的杠\n杆率。银行使用前瞻性的VaR风险度量和VaR限制。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Management Techniques, Leverage in Investment, Buy Side vs. Sell Side",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "68",
+        "question_text": "An incremental VaR is the measurement of the change in portfolio VaR as the result of:",
+        "image": "",
+        "options": {
+            "A": "A.The removal of one position.",
+            "B": "B.A percentage reduction in all assets.",
+            "C": "C.The addition of one position or security.",
+            "D": "D.An increase in the number of positions equal to N\\/10 or more."
+        },
+        "answer": "C",
+        "explanation": "An incremental VAR is the actual measurement of the change in portfolio VaR\nfollowing the addition of a position or security.C选项是正确的定义",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Incremental VaR (IVaR), Portfolio Risk Management",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "69",
+        "question_text": "When computing individual VaR, it is proper to:",
+        "image": "",
+        "options": {
+            "A": "A.Use the absolute value of the portfolio weight.",
+            "B": "B.Use only positive weights.",
+            "C": "C.Use only negative weights.",
+            "D": "D.Compute VaR for each asset within the portfolio."
+        },
+        "answer": "A",
+        "explanation": "$$\nVaR_{i} = z_{c} \\sigma_{i} |P_{i}| = z_{c} \\sigma_{i} |\\omega_{i}| P\n$$\n\nThe absolute value signs indicate that we need to measure the risk of both positive and negative positions, and risk cannot be negative.\n",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Portfolio Risk Management, Risk Measurement Techniques",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "70",
+        "question_text": "Volatility is one of the three most important macro factors. Each of the following\nstatements about volatility, as a macroeconomic factor, is true EXCEPT which is false?",
+        "image": "",
+        "options": {
+            "A": "A.There is a negative correlation between stock returns and the VIX index",
+            "B": "B.Volatility has a negative \\\"price of risk\\\" in aggregate markets including equities, fixed\nincome, currency, and commodity markets",
+            "C": "C.Due to volatility's negative \\\"price of risk,\\\" an increase in volatility implies higher\nsubsequent stock returns because there is a natural upper limit on volatility somewhere around\n100%",
+            "D": "D.The \\\"leverage effect\\\" refers an increase in stock volatility (riskier equities) due to a"
+        },
+        "answer": "C",
+        "explanation": "There is an inverse relationship volatility and stock returns per true choice (A).\nThis statement would be true if it were written, instead, as follows: The time-varying risk\npremium narrative refers to a decline in stock prices due to the increase in required return\ndemanded by investors when volatility increases.相反，如果这样写的话，这种说法是正确的:时变风险\n溢价的说法是指当波动率增加时，投资者所要求的回报增加，导致股价下跌。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Volatility, Stock returns, Risk premium",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "71",
+        "question_text": "Based upon 60 monthly returns, you estimate an actively managed portfolio alpha of 1.28% and\na standard error of alpha of 0.1365%. The portfolio manager wants to get due credit for\nproducing positive alpha and believes that the probability of observing such a large alpha by\nchance is only 1%. Calculate the t-statistic, and state whether you would accept or reject the\nclaim made by the portfolio manager based on the estimated t-value.",
+        "image": "",
+        "options": {
+            "A": "A.t-statistic: 9.377; Conclusion: Accept",
+            "B": "B.t-statistic: 9.377; Conclusion: Reject",
+            "C": "C.t-statistic: 10.66; Conclusion: Reject",
+            "D": "D.t-statistic: 10.66; Conclusion: Accept"
+        },
+        "answer": "A",
+        "explanation": "如下：T统计量 =阿尔法/阿尔法的标准误 = 1.28%/0.1365% = 9.377 ，我们可以拒绝原假设\n，并得出结论，认为这个基金经理应该产生显著的阿尔法值。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hypothesis testing, T-statistics, Portfolio performance evaluation",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "72",
+        "question_text": "The Peyton Formika Fund is a global macro asset allocation hedge fund designed to provide\nlow correlations with U.S. assets. Dominic James is a fund of hedge funds manager that is\nanalyzing the Peyton Formika Fund for signs of style drift. James makes note of the following\nfindings about the fund: I. The R2 of the fund versus the global macro peer group has changed\nfrom 0.72 to 0.78 over the past 12 months. II. Due to outstanding returns, assets in the fund\nhave increased from $70 million to $430 million over the past 12 months. III. The fund made a\nmajor shift in allocation by moving 40 percent of its holdings from Eastern European equities\nto Asian equities. IV. After a recent trip to India, the fund manager gained confidence in his\nexisting Indian equity holdings and levered his existing 5% weighting in India only by a 10 to\n1 ratio. Which of James’ findings are indicators that the Peyton Formika Fund is at risk for\nstyle drift?",
+        "image": "",
+        "options": {
+            "A": "A.II and IV only",
+            "B": "B.I and II only",
+            "C": "C.II and III only",
+            "D": "D.I, III and IV only"
+        },
+        "answer": "A",
+        "explanation": "Hedge fund style drift occurs when there are changes in the risk factor exposures\nof the fund or changes in the overall risk of the fund, notably through leverage. Using\nleverage only for his Indian equity position would definitely be an indicator of style drift.\nEven though the initial position is small, a 10 to 1 leverage ratio would significantly change\nthe risk of the fund. Excessive cash inflows which may be more money than the manager can\nsustain is also a potential indicator of style drift. The change in allocation from Eastern\nEuropean equities to Asian equities is within the objectives of a global allocation fund, so\nthat would not indicate style drift. Also, style drift would be a concern with a decrease, not\nan increase in the R-squared measure against the peer group.风格的转变主要包含两个部分，一个是\n承担风险的量，另一个是承担风险的类型",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Fund Style Drift, Risk Factor Exposures, Leverage",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "73",
+        "question_text": "Based on historical evidence, which of the following factors is least likely to result in\nthe eventual failure of a hedge fund?",
+        "image": "",
+        "options": {
+            "A": "A.Excessive controls in place.",
+            "B": "B.Taking on more systematic risk.",
+            "C": "C.Making decisions in a committee setting.",
+            "D": "D.Materially misstated financial statements."
+        },
+        "answer": "B",
+        "explanation": "●If a fund takes on more systematic risk (i.e., regular market risk), it is less\nlikely to result in a failure unless there is a significant market downturn. Taking on more\nunsystematic risk, however, is more likely to result in a failure. Excessive controls to reduce\noperational risk may be a good idea but may also result in excessive expenses and insufficient\nreturns, thereby leading to a possible failure of the fund.●In a committee-style decision-\nmaking process, there may be a dominant member who sways the decision and/or members who are\nafraid to voice any valid concerns. Materially misstated financial statements are a form of\naccounting fraud, which significantly increases the risk of the eventual failure of a fund.如果\n基金承担更大的系统性风险，那么它不太可能导致失败，除非有一个重大的市场下行",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Fund Risks, Systematic vs. Unsystematic Risk, Operational Risk",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "74",
+        "question_text": "Which statement about risk control in portfolio construction is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Quadratic programming allows for risk control through parameter estimation but generally\nrequires many more inputs estimated from market data than other methods require.",
+            "B": "B.The screening technique provides superior risk control by concentrating stocks in selected\nsectors based on expected alpha.",
+            "C": "C.When using the stratification technique, risk control is implemented by overweighting the\ncategories with lower risks and underweighting the categories with higher risks.",
+            "D": "D.When using the linear programming technique, risk is controlled by selecting the portfolio"
+        },
+        "answer": "A",
+        "explanation": "Quadratic programming requires many more inputs than other portfolio construction\ntechniques because it entails estimating volatilities and pair-wise correlations between all\nassets in a portfolio. Quadratic programming is a powerful process, but given the large number\nof inputs it introduces the potential for noise and poor calibration given the less than\nperfect nature of most data.此题的正确答案为A选项，二次规划法是所有方式中需要输入变量最多的方式\n。B选项，筛选法是根据α的大小来筛选资产的，但是这种方式有很多缺陷，不是一个完美的风险控制。C选\n项，使用分层筛选法时，不论风险较高还是风险较低都是等权重的。D选项，线性规划法侧重于通过设置额条\n件，在已经构建完成的投资组合中剔除不符合要求的资产，条件是主观条件，是基金经理根据投资者的风险\n偏好等因素而设定的，是定制化的条件。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Quadratic Programming, Portfolio Construction, Risk Control Methods",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "75",
+        "question_text": "In making allocations across active managers, which of the following represents the formula\nthat gives the optimal weight to allocate to a manager denoted i, where IRi and IRp are the\ninformation ratios of the manager and the total portfolio respectively?",
+        "image": "",
+        "options": {
+            "A": "A.",
+            "B": "B.",
+            "C": "C.",
+            "D": "D."
+        },
+        "answer": "C",
+        "explanation": "$$\n\\frac{\\text{IR}_{i} \\times (\\text{portfolio's tracking error})}{\\text{IR}_{p} \\times (\\text{manager's tracking error})}\n$$",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Portfolio Optimization, Information Ratio, Active Management",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "76",
+        "question_text": "In order to evaluate the performance of its funds, the Risk Committee at your investment\nfirm currently uses the three-factor Fama-French benchmark as a basis for static factor\nregressions. There has been a proposal to consider conducting \"style analysis.\" In a\npresentation to the Committee, the following style-based benchmark is given as an illustration\n \n \nThe Committee members discuss the various advantages and disadvantages of shifting from a\nstatic benchmark to a style-based benchmark. Each of the following drawbacks/advantages\nmentioned is true EXCEPT which is false?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/76u.png",
+        "options": {
+            "A": "A.A drawback of style analysis (relative to static benchmarks) is that we cannot introduce\nshort positions into the benchmark",
+            "B": "B.A drawback of style analysis (relative to static benchmarks) is that it is harder to detect\nstatistical significance due to larger standard errors",
+            "C": "C.An advantage of style analysis is that factor loadings can vary over time, as reflected in\nfactor loadings denoted by β(SPY, t) rather than β(SPY)",
+            "D": "D.An advantage of style analysis is the ability to use actual tradeable funds in the factor"
+        },
+        "answer": "A",
+        "explanation": "Style analysis with shorting is allowed, as long as the factor loading sum to\none.风格分析卖空是允许的，只要权重总和为1。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Performance Evaluation, Style Analysis, Factor Models",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "77",
+        "question_text": "An analyst reports the following fund information to the advisor of a pension fund that\ncurrently invests in government and corporate bonds and carries a surplus of USD 10 million:\n \n \nTo evaluate the sufficiency of the fund’s surplus, the advisor estimates the possible surplus\nvalues at the end of one year. The advisor assumes that annual returns on assets and the annual\ngrowth of liabilities are jointly normally distributed and their correlation coefficient is\n0.8. The advisor can report that, with a confidence level of 95%, the surplus value will be\ngreater than or equal to:",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/RiskManagementandInvestmentManagement_images/77u.png",
+        "options": {
+            "A": "A.USD -11.4 million",
+            "B": "B.USD -8.3 million",
+            "C": "C.USD -1.73 million",
+            "D": "D.USD 0 million"
+        },
+        "answer": "C",
+        "explanation": "The lower bound of the 95% confidence interval is equal to: Expected Surplus –\n(95% confidence factor × volatility of surplus). The required variables can be calculated as\nfollows:Variance of the surplus = 1002×10%2 902×5%2 – 2×100×90×10%×5%×0.8 =\n48.25Volatility of the surplus = sqrt (48.25) = 6.94The expected surplus = 100×1.06 –\n90×1.07 = 9.7Therefore, the lower bound of the 95% confidence interval = 9.7 – 1.645×6.94 =\n-1.725盈余的方差=1002×10%2 ＋902×5%2 – 2×100×90×10%×5%×0.8 = 48.25盈余的波动率=sqrt\n(48.25) = 6.94预期的盈余= 100×1.06 – 90×1.07 = 9.7因此，95%置信水平下的盈余= 9.7 –\n1.645×6.94 = -1.725",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio Management, Risk Measurement, Confidence Intervals",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "78",
+        "question_text": "VaR can be used to compose better guidelines for investment companies by: I. relying less on\nnotionals. II. focusing more on overall risk.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor II."
+        },
+        "answer": "C",
+        "explanation": "Investment companies have been focusing on limits on notionals, which is cumbersome\nand has proved to be ineffective.投资公司一直把重点放在投资金额的限制上，这种做法既繁琐，也被证\n明是无效的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Investment risk management, Risk measurement techniques",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "79",
+        "question_text": "A risk manager is evaluating a pairs trading strategy recently initiated by one of the\nfirm’s traders. The strategy involves establishing a long position in Stock A and a short\nposition in Stock B. The following information is also provided: ☆ 1-day 99% VaR of Stock A is\nUSD 100 million ☆ 1-day 99% VaR of Stock B is USD 125 million ☆ The estimated correlation\nbetween long positions in Stock A and Stock B is 0.8 Assuming that the returns of Stock A and\nStock B are jointly normally distributed, the 1-day 99% VaR of the combined positions is\nclosest to?",
+        "image": "",
+        "options": {
+            "A": "A.USD 0 million",
+            "B": "B.USD 75 million",
+            "C": "C.USD 160 million",
+            "D": "D.USD 214 million"
+        },
+        "answer": "B",
+        "explanation": "$$\n\\sqrt{\\text{VaR}_A^2 + \\text{VaR}_B^2 + 2\\rho \\text{VaR}_A \\text{VaR}_B} = \\sqrt{100^2 + 125^2 + 2 \\times (-0.8) \\times 100 \\times 125} = 75\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Correlation, Hedging Strategies",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "80",
+        "question_text": "Which of the following hedge fund strategies would be characterized as an \"asset allocation\"\nstrategy that performs best during extreme moves in the currency markets?",
+        "image": "",
+        "options": {
+            "A": "A.Global macro.",
+            "B": "B.Risk arbitrage.",
+            "C": "C.Dedicated short bias.",
+            "D": "D.Long\\/short equity."
+        },
+        "answer": "A",
+        "explanation": "A global macro fund does better if there are extreme moves in the currency markets.\nAlong with managed fixtures, global macro is an asset allocation strategy. Managers take\nopportunistic bets in different markets. The strategy has a low correlation to equities.题干描\n述的对应的是全球宏观的投资策略\n \n81.\"Factors are to assets what nutrients are to food.\" The theory of factor risk premiums\nincludes each of the following three ideas EXCEPT which is not in the theory?\nA.Assets are bundles of factors (just as most foods are combinations of nutrients)\nB.Factors do matter but asset classes do not (just as healthy eating is about the nutrients not\nthe labels)\nC.Different investors prefer and\\/or need different factors (just as different people have\ndifferent nutritional needs)\nD.Because factors represent different good times, most investors should seek exposure to most\ninvestable factors (just as most people should seek a balanced diet of most nutrients)\n参考答案：D\n【莽学解析】It is thematic in Ang that factors compensate investors for exposure to the effects\nof \"bad times.\" This book is wonderfully about risk! The preface begins \"The two most important\nwords in investing are bad times.\" Further, just as choice (C) is true, unlike descriptive CAPM\n(wherein all informed investors hold the same market portfolio), his theory does not advocate\n(normatively) that all investors should hold the market's entire (or predominant) set of\nfactors.因子理论有3种展述：1.资产是由一系列的因子组成2.因子是重要的，而不是资产本身3.不同投资者\n对因子有不同的需求",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Fund Strategies, Asset Allocation, Currency Markets",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "82",
+        "question_text": "Using VaR to monitor risk is important for a large firm with many types of managers because:",
+        "image": "",
+        "options": {
+            "A": "A.It can help catch rogue traders and it can detect changes in risk from changes in benchmark\ncharacteristics.",
+            "B": "B.Although it cannot help catch rogue traders, it can detect changes in risk from changes in\nbenchmark characteristics.",
+            "C": "C.Although it cannot detect changes in risk from changes in benchmark characteristics, it can\nhelp detect rogue traders.",
+            "D": "D.Of no reason. VaR is not useful for monitoring risk in large firms."
+        },
+        "answer": "A",
+        "explanation": "Both of these are reasons large firms find VaR and risk monitoring useful.这些都是\n大公司发现风险价值和风险监控有用的原因。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Risk Monitoring, Rogue Traders Detection",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "83",
+        "question_text": "The process of defining risk and allocating that risk across a portfolio is known as:",
+        "image": "",
+        "options": {
+            "A": "A.Tactical allocation.",
+            "B": "B.Asset allocation.",
+            "C": "C.Risk budgeting.",
+            "D": "D.Market timing."
+        },
+        "answer": "C",
+        "explanation": "The process of defining risk and allocating that risk across a portfolio is known\nas risk budgeting. The risk budgeting process allows a manager to set target risk levels across\nher portfolio.定义风险并在投资组合中分配风险的过程称为风险预算。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk budgeting, Portfolio management, Risk management",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "84",
+        "question_text": "Melvin Brown manages a long portfolio of debt and equity investments for an insurance\ncompany and has been trying to implement a new risk management program based on estimating and\nreporting the daily value at risk (VAR) for each manager’s portfolio. Brown is writing a\nreport to gain support for his proposal. If Brown determines that daily VAR (10%) for his\nportfolio is equal to $20,000, which of the following statements should he include in his\nreport? I. Computationally, delta-normal VAR is more complex than standard deviation but easier\nto interpret from a risk management perspective. II. VAR was developed specifically for the\npurpose of measuring the economic capital required to protect bank portfolios against losses.\nIII. The risk of losing more than $20,000 in Brown’s portfolio value in any given week is 10%.\nIV. Portfolio diversification is fully accounted for using the VAR methodology.",
+        "image": "",
+        "options": {
+            "A": "A.I, III, and IV.",
+            "B": "B.I and III only.",
+            "C": "C.III and IV only.",
+            "D": "D.II and IV."
+        },
+        "answer": "D",
+        "explanation": "VAR was developed as a way for banks to track the economic capital requirements\nwhile taking into account the effects of diversification on the risk of the portfolio. Delta-\nnormal VAR is computationally simpler than portfolio standard deviation. In addition, VAR\n(unlike beta) does not rely on a theoretical relationship with the overall market. The correct\ninterpretation of Brown’s daily VAR (10%) is that there is a 10% chance that on any given day,\nthe portfolio will bit more than $20,000 in value.在险价值是银行追踪经济资本需求的一种方式，同\n时考虑到多样化对投资组合风险的影响。delta-normal VAR在计算上比投资组合标准差简单。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value at Risk (VAR), Economic Capital, Portfolio Diversification",
+        "book label": "Risk Management and Investment Management1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

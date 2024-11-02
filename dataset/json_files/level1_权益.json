@@ -1,0 +1,2807 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "The Standard & Poor’s Depositary Receipts (SPDRs) is an investment that tracks the S&P 500\nstock market index. Purchases and sales of SPDRs during an average trading day are best\ndescribed as:",
+        "image": "",
+        "options": {
+            "A": "A.primary market transactions in a pooled investment.",
+            "B": "B.secondary market transactions in a pooled investment.",
+            "C": "C.secondary market transactions in an actively managed investment."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. SPDRs trade in the secondary market and are a pooled investment\nvehicle. ： B是正确的。SPDR在二级市场交易，因为是指数投资，所以是被动投资的方式。同时这是一种集\n合投资工具。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "ETFs, Secondary markets, Passive investment",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 2,
+        "question_text": "An investor primarily invests in stocks of publicly traded companies. The investor wants to\nincrease the diversification of his portfolio. A friend has recommended investing in real\nestate properties. The purchase of real estate would best be characterized as a transaction in\nthe:",
+        "image": "",
+        "options": {
+            "A": "A.derivative investment market.",
+            "B": "B.traditional investment market.",
+            "C": "C.alternative investment market."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The purchase of real estate properties is a transaction in the\nalternative investment market. ： C是正确的。购买不动产是另类投资市场中的一种交易。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Alternative Investments, Portfolio Diversification, Real Estate Investments",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 3,
+        "question_text": "A hedge fund holds its excess cash in 90-day commercial paper and negotiable certificates of\ndeposit. The cash management policy of the hedge fund is best described as using:",
+        "image": "",
+        "options": {
+            "A": "A.capital market instruments.",
+            "B": "B.money market instruments.",
+            "C": "C.intermediate-term debt instruments."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The 90-day commercial paper and negotiable certificates of deposit\nare money market instruments. ： B是正确的。90天商业票据和可转让存款证是货币市场工具。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Money Market Instruments, Cash Management Policy, Short-term Investments",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 4,
+        "question_text": "Which of the following regulations will most likely contribute to market efficiency?\nRegulatory restrictions on:",
+        "image": "",
+        "options": {
+            "A": "A.short selling.",
+            "B": "B.foreign traders.",
+            "C": "C.insiders trading with nonpublic information."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Regulation to restrict unfair use of nonpublic information\nencourages greater participation in the market, which increases market efficiency. Regulators\n(e.g., US SEC) discourage illegal insider trading by issuing penalties to violators of their\ninsider trading rules. 中文 C是正确的。限制非公开信息不正当使用的法规鼓励更多人参与市场，从而提\n高市场效率。监管者（如美国证券交易委员会）通过对违反内幕交易规则的人进行处罚来阻止非法内幕交易\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market efficiency, Insider trading regulations, Regulatory compliance",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 5,
+        "question_text": "A market has the following limit orders standing on its book for a particular stock:\nIan submits a day order to sell 1,000 shares, limit ￡19.83. Assuming that no more buy orders\nare submitted on that day after Ian submits his order, what would be Ian’s average trade\nprice?",
+        "image": "",
+        "options": {
+            "A": "A.￡19.70.",
+            "B": "B.￡19.92.",
+            "C": "C.￡20.05."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Ian’s average trade price is:\nIan’s sell order first fills with the most aggressively priced buy order, which is Mary’s\norder for 300 shares at ￡20.02. Ian still has 700 shares for sale. The next most aggressively\npriced buy order is Ann’s order for 400 shares at ￡19.89. This order is filled. Ian still has\n300 shares for sale. The next most aggressively priced buy order is Paul’s order for 200\nshares at ￡19.84. A third trade takes place. Ian still has 100 shares for sale.The next buy\norder is Keith’s order for 1,000 shares at ￡19.70. However, this price is below Ian’s limit\nprice of ￡19.83. Therefore, no more trade is possible.\n$$\n£19.92 = \\frac{300 \\times £20.02 + 400 \\times £19.89 + 200 \\times £19.84}{300 + 400 + 200}\n$$\n 中文： B是正确的。这道题目说Ian想要买1000股股票，限价19.83卖出。限价卖出的意思是说以不低于这个\n价格卖出。因此通过下面的表格（买单），能成交的是200*19.84＋400*19.89＋300*20.02共成交900股因此\n除以900.就是平均成交价格19.92。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Order Matching, Limit Orders, Average Trade Price Calculation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 6,
+        "question_text": "Fixed-income indexes are least likely constructed on the basis of:",
+        "image": "",
+        "options": {
+            "A": "A.maturity.",
+            "B": "B.type of issuer.",
+            "C": "C.coupon frequency."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Coupon frequency is not a dimension on which fixed-income\nindexes are based. 中文 C是正确的。息票频率不是固定收益指数所依据的标准，其他两者都是。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fixed-income indexes, Coupon frequency, Index construction criteria",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 7,
+        "question_text": "With respect to the efficient market hypothesis, if security prices reflect only past prices\nand trading volume information, then the market is:",
+        "image": "",
+        "options": {
+            "A": "A.weak-form efficient.",
+            "B": "B.strong-form efficient.",
+            "C": "C.semi-strong-form efficient."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. The weak-form efficient market hypothesis is defined as a market\nwhere security prices fully reflect all market data, which refers to all past price and trading\nvolume information. 中文 A是正确的。弱势有效市场假说是指证券价格充分反映所有市场数据的市场，它\n是指所有过去的价格和交易量信息。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis, Weak-form Efficiency, Security Prices Interpretation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 8,
+        "question_text": "An investor, who wants to increase the diversification of his portfolio, primarily invests in\nstocks of publicly traded companies. A friend has recommended investing in real estate\nproperties. The purchase of real estate would best be characterized as a transaction in the:",
+        "image": "",
+        "options": {
+            "A": "A.Derivative investment market.",
+            "B": "B.Alternative investment market.",
+            "C": "C.Traditional investment market."
+        },
+        "answer": "B",
+        "explanation": "The purchase of real estate properties is a transaction in the alternative\ninvestment market.购买不动产是另类投资市场中的一种交易。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Alternative investments, Portfolio diversification, Real estate investments",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 9,
+        "question_text": "Which of the following is not a real estate index category?",
+        "image": "",
+        "options": {
+            "A": "A.Appraisal index.",
+            "B": "B.Initial sales index.",
+            "C": "C.Repeat sales index."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. It is not a real estate index category. 中文 B是正确的，房地产指\n数有Appraisal index、Repeat sales (transaction-based) index、REIT index。B不属于房地产指数。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Real estate index categories, Appraisal index, Repeat sales index",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 10,
+        "question_text": "With respect to efficient market theory, when a market allows short selling, the efficiency\nof the market is most likely to:",
+        "image": "",
+        "options": {
+            "A": "A.increase.",
+            "B": "B.decrease.",
+            "C": "C.remain the same."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. According to theory, reducing the restrictions on trading will\nallow for more arbitrage trading, thereby promoting more efficient pricing. Although regulators\nargue that short selling exaggerates downward price movements, empirical research indicates\nthat short selling is helpful in price discovery. 中文 A是正确的。根据理论，减少交易限制将允许\n更多的套利交易，从而促进更有效的定价。尽管监管机构认为卖空加剧了价格向下的波动，但实证研究表明\n卖空有助于价格发现。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis (EMH), Arbitrage, Price Discovery",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 11,
+        "question_text": "The Standard & Poor’s Depositary Receipts (SPDRs) is an exchange-traded fund in the United\nStates that is designed to track the S&P 500 stock market index. The latest price of a share of\nSPDRs is $290. A trader has just bought call options on shares of SPDRs for a premium of $3 per\nshare. The call options expire in six months and have an exercise price of $305 per share. On\nthe expiration date, the trader will exercise the call options (ignore any transaction costs)\nif and only if the shares of SPDRs are trading:",
+        "image": "",
+        "options": {
+            "A": "A.below $305 per share.",
+            "B": "B.above $305 per share.",
+            "C": "C.above $308 per share."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The holder of the call option will exercise the call options if\nthe price is above the exercise price of $305 per share. Note that if the stock price is above\n$305 but less than $308, the option would be exercised even though the net result for the\noption buyer after considering the premium is a loss. For example, if the stock price is $307,\nthe option buyer would exercise the option to make $2 = $307 – $305 per share, resulting in a\nloss of $1 = $3 – $2 after considering the premium. It is better to exercise and have a loss\nof only $1, however, rather than not exercise and lose the entire $3 premium. ： B是正确的。如\n果价格高于每股305美元的行使价格，认购期权持有人将行使认购期权。请注意，如果股票价格高于305美元\n但低于308美元，即使期权买方在考虑期权费后的净收益是损失，也会行使期权。例如，如果股票价格为\n307美元，期权买方将行使期权，使每股收益为$2=$307-$305，在考虑期权费后，导致损失$1=$3-$2。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options Pricing, Exchange-Traded Funds (ETFs), Financial Derivatives",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 12,
+        "question_text": "Caroline Rogers believes the price of Gamma Corp. stock will go down in the near future. She\nhas decided to sell short 200 shares of Gamma Corp. at the current market price of €47. The\ninitial margin requirement is 40 percent. Which of the following is an appropriate statement\nregarding the margin requirement that Rogers is subject to on this short sale?",
+        "image": "",
+        "options": {
+            "A": "A.She will need to contribute €3,760 as margin.",
+            "B": "B.She will need to contribute €5,640 as margin.",
+            "C": "C.She will only need to leave the proceeds from the short sale as deposit and does not need to"
+        },
+        "answer": "A",
+        "explanation": "英文： A is correct. She will need to contribute €3,760 as margin. In view of the\npossibility of a loss, if the stock price goes up, she will need to contribute €3,760 = 40% of\n€9,400 as the initial margin. Rogers will need to leave the proceeds from the short sale\n(€9,400 = 200 × €47) on deposit. 中文： 需要支付保证金: 200×47×40%= €3760 因此需要存入\n3760保证金。选择A",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Short Selling, Margin Requirements, Stock Price Movement",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 13,
+        "question_text": "Which of the following index weighting methods requires an adjustment to the divisor after a\nstock split?",
+        "image": "",
+        "options": {
+            "A": "A.Price weighting.",
+            "B": "B.Fundamental weighting.",
+            "C": "C.Market-capitalization weighting."
+        },
+        "answer": "A",
+        "explanation": "英文： A is correct. In the price weighting method, the divisor must be adjusted so\nthe index value immediately after the split is the same as the index value immediately prior to\nthe split. 中文： A是正确的。在价格加权法中，必须调整除数，使拆分后的指数值与拆分前的指数值相同\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Index Weighting Methods, Stock Splits, Financial Indices Calculation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 14,
+        "question_text": "Jason Schmidt works for a hedge fund and he specializes in finding profit opportunities that\nare the result of inefficiencies in the market for convertible bonds—bonds that can be\nconverted into a predetermined amount of a company’s common stock. Schmidt tries to find\nconvertibles that are priced inefficiently relative to the underlying stock. The trading\nstrategy involves the simultaneous purchase of the convertible bond and the short sale of the\nunderlying common stock. The above process could best be described as:",
+        "image": "",
+        "options": {
+            "A": "A.hedging.",
+            "B": "B.arbitrage.",
+            "C": "C.securitization."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The process can best be described as arbitrage because it involves\nbuying and selling instruments, whose values are closely related, at different prices in\ndifferent markets. ： B是正确的。这个过程可以最好地描述为套利，因为它涉及在不同市场以不同价格买\n卖价值密切相关的工具。可转债的交易全称叫convertible bond arbitrage本质上就是一种套利。套利就是\n在不同的市场按不同的价格买卖同一种产品，通过低买高卖来赚取买卖价差。比如说可转债可以以10元转成\n普通股，相当于可以以10元买入股通股而股票市场中，普通股价格是12元。此时，1，买入可转债，以10元转\n股，相当于以10元买入股通股2，到二级市场上以12元卖出不考虑交易成本，不考虑初始投资，投资者可以无\n风险赚取2元的利润，这个过程属于套利。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Convertible Bond Arbitrage, Market Inefficiencies, Arbitrage",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 15,
+        "question_text": "If markets are semi-strong efficient, standard fundamental analysis will yield abnormal\ntrading profits that are:",
+        "image": "",
+        "options": {
+            "A": "A.negative.",
+            "B": "B.equal to zero.",
+            "C": "C.positive."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. If all public information should already be reflected in the\nmarket price, then the abnormal trading profit will be equal to zero when fundamental analysis\nis used. 中文 B是正确的。强式有效市场假说假定所有信息，无论是公共信息还是私人信息，都已经反映在\n价格中。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market Efficiency, Semi-Strong Form Efficiency, Fundamental Analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 16,
+        "question_text": "Which of the following index weighting methods requires the most frequent rebalancing?",
+        "image": "",
+        "options": {
+            "A": "A.Price weighting.",
+            "B": "B.Equal weighting.",
+            "C": "C.Market-capitalization weighting."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. Changing market prices will cause weights that were initially\nequal to become unequal, thus requiring rebalancing. 中文： B是正确的。不断变化的市场价格将导致\n最初相等的权重变得不平等，因此需要重新平衡。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Index weighting methods, Portfolio rebalancing, Market price fluctuations",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 17,
+        "question_text": "An analyst gathers the following information for a market-capitalization-weighted index\ncomprised of securities MNO, QRS, and XYZ:\nThe total return of the index is:",
+        "image": "",
+        "options": {
+            "A": "A.1.04%.",
+            "B": "B.–5.35%.",
+            "C": "C.–10.23%."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The total return of the market-capitalization-weighted index is\ncalculated below:\n \n中文： B是正确的，总回报率计算的时候需要加上期间收益。 将MNO,ORS,XYZ三者的期初市值，期末市值以\n及期间的股利都分别求和。 期末-期初＋股利/期初=（48250000-53750000＋2625000）/53750000= -5.35%\n \\begin{tabular}{|l|c|c|c|c|}\n\\hline\nSecurity & Beginning of Period Price (¥) & End of Period Price (¥) & Dividends per Share (¥) & Shares Outstanding \\\\\n\\hline\nMNO & 2,500 & 2,700 & 100 & 5,000 \\\\\nQRS & 3,500 & 2,500 & 150 & 7,500 \\\\\nXYZ & 1,500 & 1,600 & 100 & 10,000 \\\\\n\\hline\n\\end{tabular}\n\nCalculated below:\n\n\\begin{tabular}{|l|c|c|c|c|}\n\\hline\nSecurity & Beginning of Period Value (¥) & End of Period Value (¥) & Total Dividends (¥) & Total Return (\\%) \\\\\n\\hline\nMNO & 12,500,000 & 13,500,000 & 500,000 & 12.00 \\\\\nQRS & 26,250,000 & 18,750,000 & 1,125,000 & -24.29 \\\\\nXYZ & 15,000,000 & 16,000,000 & 1,000,000 & 13.33 \\\\\n\\hline\nTotal & 53,750,000 & 48,250,000 & 2,625,000 & -5.35 \\\\\n\\hline\n\\end{tabular}",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Market-Capitalization-Weighted Index, Total Return Calculation, Index Performance Evaluation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 18,
+        "question_text": "One month after inception, the price return version and total return version of a single\nindex (consisting of identical securities and weights) will be equal if:",
+        "image": "",
+        "options": {
+            "A": "A.market prices have not changed.",
+            "B": "B.capital gains are offset by capital losses.",
+            "C": "C.the securities do not pay dividends or interest."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. The difference between a price return index and a total return\nindex consisting of identical securities and weights is the income generated over time by the\nunderlying securities. If the securities in the index do not generate income, both indexes will\nbe identical in value. 中文： C是正确的。价格回报指数和由相同证券和权重组成的总回报指数之间的差\n额是标的证券的期间收入。如果指数中的证券不产生收益，两个指数的价值将相同。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Index Types, Income Generation, Total Return vs. Price Return",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 19,
+        "question_text": "A market has the following limit orders standing on its book for a particular stock. The bid\nand ask sizes are number of shares in hundreds.\nWhat is the market?\n\\begin{array}{ccc}\n\\text{Bid Size} & \\text{Limit Price (€)} & \\text{Offer Size} \\\\\n\\hline\n5 & 9.73 & \\\\\n12 & 9.81 & \\\\\n4 & 9.84 & \\\\\n6 & 9.95 & \\\\\n & 10.02 & 5 \\\\\n & 10.10 & 12 \\\\\n & 10.14 & 8 \\\\\n\\end{array}",
+        "image": "",
+        "options": {
+            "A": "A.9.73 bid, offered at 10.14.",
+            "B": "B.9.81 bid, offered at 10.10.",
+            "C": "C.9.95 bid, offered at 10.02."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. The market is 9.95 bid, offered at 10.02. The best bid is at\n€9.95 and the best offer is €10.02. 中文： C是正确的，根据上图最优买入和最优卖出分别为9.95和\n10.02。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Order Book Analysis, Bid-Ask Spread, Limit Orders",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 20,
+        "question_text": "If a market is weak-form efficient but semi-strong-form inefficient, then which of the\nfollowing types of portfolio management is most likely to produce abnormal returns?",
+        "image": "",
+        "options": {
+            "A": "A.Passive portfolio management.",
+            "B": "B.Active portfolio management based on technical analysis.",
+            "C": "C.Active portfolio management based on fundamental analysis."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. If markets are not semi-strong-form efficient, then fundamental\nanalysts are able to use publicly available information to estimate a security’s intrinsic\nvalue and identify misvalued securities. Technical analysis is not able to earn abnormal\nreturns if markets are weak-form efficient. Passive portfolio managers outperform fundamental\nanalysis if markets are semi-strong-form efficient. 中文 C是正确的。如果市场的形式不是半强有效\n的，那么基本面分析师就能够利用公开的信息来估计证券的内在价值，并识别出估值错误的证券。如果市场\n是弱式有效的，技术分析就不能获得异常收益。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Efficiency, Fundamental Analysis, Portfolio Management",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 21,
+        "question_text": "The intrinsic value of an undervalued asset is:",
+        "image": "",
+        "options": {
+            "A": "A.less than the asset’s market value.",
+            "B": "B.greater than the asset’s market value.",
+            "C": "C.the value at which the asset can currently be bought or sold."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The intrinsic value of an undervalued asset is greater than the\nmarket value of the asset, where the market value is the transaction price at which an asset\ncan be currently bought or sold. 中文 B是正确的。被低估资产的内在价值大于该资产的市场价值，其中\n市场价值是资产当前可以买卖的交易价格。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Valuation, Market Efficiency, Intrinsic Value Analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 22,
+        "question_text": "The values of a price return index and a total return index consisting of identical equal-\nweighted dividend-paying equities will be equal:",
+        "image": "",
+        "options": {
+            "A": "A.only at inception.",
+            "B": "B.at inception and on rebalancing dates.",
+            "C": "C.at inception and on reconstitution dates."
+        },
+        "answer": "A",
+        "explanation": "英文： A is correct. At inception, the values of the price return and total return\nversions of an index are equal. 中文： A是正确的。价格回报指数和由相同证券和权重组成的总回报指\n数之间的差额是标的证券的期间收入。所以在开始时，指数的价格回报和总回报版本的值是相等的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Index types, Total return indices, Price return indices",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 23,
+        "question_text": "An aggregate fixed-income index:",
+        "image": "",
+        "options": {
+            "A": "A.comprises corporate and asset-backed securities.",
+            "B": "B.represents the market of government-issued securities.",
+            "C": "C.can be subdivided by market or economic sector to create more narrowly defined indexes."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. An aggregate fixed-income index can be subdivided by market\nsector (government, government agency, collateralized, corporate), style (maturity, credit\nquality), economic sector, or some other characteristic to create more narrowly defined\nindexes. 中文 题目问所有的固定收益指数以下正确的是，C的意思是说固定收益指数可以有很多细分的市场\n（政府，有无抵押的，公司），风格方面细分（到期时间，信用质量）等，也可根据其他特性进行细分。C是\n正确的。A错在不全面，B错在所有的固定收益指数可以代表市场，但不能代表政府发行的，因为有的不是政\n府发行的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fixed-income indices, Market segmentation, Credit quality",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 24,
+        "question_text": "Lisa Smith owns a manufacturing company in the United States. Her company has sold goods to\na customer in Brazil and will be paid in Brazilian real (BRL) in three months. Smith is\nconcerned about the possibility of the BRL depreciating more than expected against the US\ndollar (USD). Therefore, she is planning to sell three-month futures contracts on the BRL. The\nseller of such contracts generally gains when the BRL depreciates against the USD. If Smith\nwere to sell these future contracts, she would most appropriately be described as a(n):",
+        "image": "",
+        "options": {
+            "A": "A.hedger.",
+            "B": "B.investor.",
+            "C": "C.information-motivated trader."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Smith is a hedger. The short position on the BRL futures contract\noffsets the BRL long position in three months. She is hedging the risk of the BRL depreciating\nagainst the USD. If the BRL depreciates, the value of the cash inflow goes down in USD terms\nbut there is a gain on the futures contracts. ： A是正确的。Smith是个对冲者。BRL期货合约的空头\n头寸抵消了三个月内BRL的多头头寸。她正在对冲BRL对美元贬值的风险。如果BRL贬值，现金流入的价值以美\n元计下降，但期货合约有收益。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Currency Risk Management, Futures Contracts, Hedging Strategies",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 25,
+        "question_text": "Which of the following statements regarding sector indexes is most accurate? Sector indexes:",
+        "image": "",
+        "options": {
+            "A": "A.track different economic sectors and cannot be aggregated to represent the equivalent of a\nbroad market index.",
+            "B": "B.provide a means to determine whether an active investment manager is more successful at stock\nselection or sector allocation.",
+            "C": "C.apply a universally agreed upon sector classification system to identify the constituent"
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Sector indexes provide a means to determine whether a portfolio\nmanager is more successful at stock selection or sector allocation. 中文 B是正确的。行业指数提\n供了一种方法来确定投资组合经理在股票选择或行业配置方面是否更成功。A错在所有的分支集合汇集在一起\n是可以等同于大盘指数的。C错在板块指数可以基于全国性的，地区性的，或全球基础。因为不同的经济部门\n在商业周期的进程不同。并不是普遍相同的部门分类制度。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Sector indexes, Portfolio management, Stock selection",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 26,
+        "question_text": "Jim White has sold short 100 shares of Super Stores at a price of $42 per share. He has also\nsimultaneously placed a “good-till-cancelled, stop 50, limit 55 buy” order. Assume that if\nthe stop condition specified by White is satisfied and the order becomes valid, it will get\nexecuted. Excluding transaction costs, what is the maximum possible loss that White can have?",
+        "image": "",
+        "options": {
+            "A": "A.$800.",
+            "B": "B.$1,300.",
+            "C": "C.Unlimited."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. The maximum possible loss is $1,300. If the stock price\ncrosses $50, the stop buy order will become valid and will get executed at a maximum limit\nprice of $55. The maximum loss per share is $13 = $55 – $42, or $1,300 for 100 shares. 中文：\ngood-till-cancelled, stop 50, limit 55 buy的意思是说50开始止损指令生效，50到55是成交区间，到\n55元为止。因此最大的损失是55-42=13，13×1000=1300。因此选择B。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Short selling, Stop-loss orders, Limit orders",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 27,
+        "question_text": "Security market indexes are used as:",
+        "image": "",
+        "options": {
+            "A": "A.measures of investment returns.",
+            "B": "B.proxies to measure unsystematic risk.",
+            "C": "C.proxies for specific asset classes in asset allocation models."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Security market indexes play a critical role as proxies for\nasset classes in asset allocation models. C是正确的。市场指数可以近似（proxy）衡量资产大类的表\n现 A选项错误，证券市场是衡量的是整个市场的收益率，而且是一种近似替代（proxy），不能精确衡量某一\n个投资品（investment）。 B选项错误，证券市场指数，挑选一些可以代表市场走势的股票组成一个组合\n，是代表整体市场走势的。因此作为衡量系统性风险而不是非系统性风险的指标。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Security market indexes, Asset allocation models, Systematic risk",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 28,
+        "question_text": "Consider a mutual fund that invests primarily in fixed-income securities that have been\ndetermined to be appropriate given the fund’s investment goal. Which of the following is least\nlikely to be a part of this fund?",
+        "image": "",
+        "options": {
+            "A": "A.Warrants.",
+            "B": "B.Commercial paper.",
+            "C": "C.Repurchase agreements."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Warrants are least likely to be part of the fund. Warrant holders\nhave the right to buy the issuer’s common stock. Thus, warrants are typically classified as\nequity and are least likely to be a part of a fixed-income mutual fund. Commercial paper and\nrepurchase agreements are short-term fixed-income securities. ： A是正确的。认股权证最不可能成\n为基金的一部分。权证持有人有权购买发行人的普通股。 因此，认股权证通常被归类为股权，最不可能成为\n固定收益共同基金的一部分。商业票据和回购协议是短期固定收益证券。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fixed-Income Securities, Mutual Funds, Equity Instruments",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 29,
+        "question_text": "An oil and gas exploration and production company announces that it is offering 30 million\nshares to the public at $45.50 each. This transaction is most likely a sale in the:",
+        "image": "",
+        "options": {
+            "A": "A.futures market.",
+            "B": "B.primary market.",
+            "C": "C.secondary market."
+        },
+        "answer": "B",
+        "explanation": "：B is correct. This transaction is a sale in the primary market. It is a sale of\nshares from the issuer to the investor and funds flow to the issuer of the security from the\npurchaser. ： B是正确的。这项交易是在一级市场上进行的出售。它是指股票从发行人向投资者出售，资金\n从购买人流向证券发行人。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Primary market, Issuance of shares, Capital raising",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 30,
+        "question_text": "A market has the following limit orders standing on its book for a particular stock. The bid\nand ask sizes are number of shares in hundreds.\nWhat is the market?",
+        "image": "",
+        "options": {
+            "A": "A.7.1%.",
+            "B": "B.11.0%.",
+            "C": "C.21.4%."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. It is the percentage change in the market value over the\nperiod:Market value at beginning of period: (20 × 300) + (50 × 300) + (26 × 2,000) =\n73,000Market value at end of period: (22 × 300) + (48 × 300) + (30 × 2,000) =\n81,000Percentage change is 81,000/73,000 – 1 = 0.1096 or 11.0 percent with rounding. 中文：\nB是正确的。这是该期间市值变动的百分比： 期初市值：（20×300） ＋（50×300）\n＋（26×2000）=73000 期末市值：（22×300） ＋（48×300） ＋（30×2000）=81000 百分比变化为\n81000/73000-1=0.1096或11.0%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Market Value Calculation, Percentage Change, Stock Market Analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 31,
+        "question_text": "Which of the following statements is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Commodity indexes all share similar weighting methods.",
+            "B": "B.Commodity indexes containing the same underlying commodities offer similar returns.",
+            "C": "C.The performance of commodity indexes can be quite different from that of the underlying"
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. The performance of commodity indexes can be quite different from\nthat of the underlying commodities because the indexes consist of futures contracts on the\ncommodities rather than the actual commodities. 中文 C是正确的。商品指数的表现可能与标的商品的\n表现大不相同，因为指数由商品的期货合约而不是实际商品组成。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Commodity Indexes, Futures Contracts, Underlying Commodity Performance",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 32,
+        "question_text": "An investor purchased 5,000 stocks at 57 dollars on margin. The initial margin he deposited\nto his broker is 40%. The broker will make a margin call when the margin account is less than\n25%. The price that will cause a margin call is closest to:\n | Bid Size | Limit Price (€) | Offer Size |\n|----------|-----------------|------------|\n| 5        | 9.73            |            |\n| 12       | 9.81            |            |\n| 4        | 9.84            |            |\n| 6        | 9.95            |            |\n|          | 10.02           | 5          |\n|          | 10.10           | 12         |\n|          | 10.14           | 8          |",
+        "image": "",
+        "options": {
+            "A": "A.30.0.",
+            "B": "B.45.6.",
+            "C": "C.23.0."
+        },
+        "answer": "B",
+        "explanation": "A market has the following limit orders standing on its book for a particular\nstock. The bid and ask sizes are number of shares in hundreds.\nWhat is the market?",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Margin trading, Margin call, Initial margin requirements",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 33,
+        "question_text": "Which one of the following statements best describes the semi-strong form of market\nefficiency?",
+        "image": "",
+        "options": {
+            "A": "A.Empirical tests examine the historical patterns in security prices.",
+            "B": "B.Security prices reflect all publicly known and available information.",
+            "C": "C.Semi-strong-form efficient markets are not necessarily weak-form efficient."
+        },
+        "answer": "B",
+        "explanation": "B is correct. In semi-strong-form efficient markets, security prices reflect all\npublicly available information. B是正确的。在半强有效市场中，证券价格反映了所有公开信息。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis, Semi-Strong Form Efficiency, Publicly Available Information",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 34,
+        "question_text": "A German company that exports machinery is expecting to receive $10 million in three months.\nThe firm converts all its foreign currency receipts into euros. The chief financial officer of\nthe company wishes to lock in a minimum fixed rate for converting the $10 million to euro but\nalso wants to keep the flexibility to use the future spot rate if it is favorable. What hedging\ntransaction is most likely to achieve this objective?",
+        "image": "",
+        "options": {
+            "A": "A.Selling dollars forward.",
+            "B": "B.Buying put options on the dollar.",
+            "C": "C.Selling futures contracts on dollars."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Buying a put option on the dollar will ensure a minimum exchange\nrate but does not have to be exercised if the exchange rate moves in a favorable direction.\nForward and futures contracts would lock in a fixed rate but would not allow for the\npossibility to profit in case the value of the dollar three months later in the spot market\nturns out to be greater than the value in the forward or futures contract. 一家德国公司未来3个\n月要收取美元，问怎么锁定欧元和美元的汇率？ 德国公司未来收美元，所以害怕未来美元贬值（因为美元贬\n值后，收取的钱就少了）。对冲的逻辑是：害怕美元贬值，就要购买衍生品，从美元贬值中获利，此时就能\n够用衍生品赚到的收益来对冲未来美元贬值的损失。所以要从美元贬值中获利，应该卖出forward或future是\n，或者买入看跌期（put）。 其次，投资者要保证可以用未来的即期汇率交易（keep flexibitliy），如果\n签订的是远期或者期货合约。投资者必须要按照合约中的forward rate交易，只有option给了投资者权利\n，所以如果未来合同上的执行价格对投资者不利，投资者才保留了用未来的即期汇率交易的权利。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency Risk Management, Derivative Instruments, Hedging Strategies",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 35,
+        "question_text": "If a researcher conducting empirical tests of a trading strategy using time series of\nreturns finds statistically significant abnormal returns, then the researcher has most likely\nfound:",
+        "image": "",
+        "options": {
+            "A": "A.a market anomaly.",
+            "B": "B.evidence of market inefficiency.",
+            "C": "C.a strategy to produce future abnormal returns."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Finding significant abnormal returns does not necessarily\nindicate that markets are inefficient or that abnormal returns can be realized by applying the\nstrategy to future time periods. Abnormal returns are considered market anomalies because they\nmay be the result of the model used to estimate the expected returns or may be the result of\nunderestimating transaction costs or other expenses associated with implementing the strategy,\nrather than because of market inefficiency. empirical test就是实验验证。就是用一组数据分析以检\n验或证明某个结论。这道题目的意思是说如果研究者使用时间序列对交易策略进行实证检验发现统计上显著\n的异常收益，然后研究者最有可能发现什么。那最有可能发生的是市场异常情况，因为市场异常通常是偶发\n现象，并不能推翻有效市场的假设。所以发现超额收益并不能说明市场不是有效的， B错误。因为这种超额\n收益不一定可持续consistent，只有持续赚取abnormal return，才能说明市场无效。如果是临时获取了超额\n收益，这部分超额收益会随着市场行为快速修正，此时，市场依旧是有效的。 C错误。因为异常不可持续\n，所以future未来不一定可以赚取超额收益。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Efficiency, Abnormal Returns, Empirical Testing",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 36,
+        "question_text": "The market value of an undervalued asset is:",
+        "image": "",
+        "options": {
+            "A": "A.greater than the asset’s intrinsic value.",
+            "B": "B.the value at which the asset can currently be bought or sold.",
+            "C": "C.equal to the present value of all the asset’s expected cash flows."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The market value is the transaction price at which an asset can\nbe currently bought or sold. 中文 B是正确的。市场价值是指一项资产目前可以买卖的交易价格。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market valuation, Market efficiency, Asset pricing",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 37,
+        "question_text": "Technical analysts assume that markets are:",
+        "image": "",
+        "options": {
+            "A": "A.weak-form efficient.",
+            "B": "B.weak-form inefficient.",
+            "C": "C.semi-strong-form efficient."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Technical analysts use past prices and volume to predict future\nprices, which is inconsistent with the weakest form of market efficiency (i.e., weak-form\nmarket efficiency). Weak-form market efficiency states that investors cannot earn abnormal\nreturns by trading on the basis of past trends in price and volume. 中文 B是正确的。技术分析师\n利用过去的价格和成交量来预测未来的价格，这与弱势有效市场不一致。弱势市场效率表明，投资者不能根\n据过去的价格和成交量趋势通过交易获得异常回报。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Technical analysis, Market efficiency, Abnormal returns",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 38,
+        "question_text": "Zhenhu Li has submitted an immediate-or-cancel buy order for 500 shares of a company at a\nlimit price of CNY 74.25. There are two sell limit orders standing in that stock’s order book\nat that time. One is for 300 shares at a limit price of CNY 74.30 and the other is for 400\nshares at a limit price of CNY 74.35. How many shares in Li’s order would get cancelled?",
+        "image": "",
+        "options": {
+            "A": "A.None (the order would remain open but unfilled).",
+            "B": "B.200 (300 shares would get filled).",
+            "C": "C.500 (there would be no fill)."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. The order for 500 shares would get cancelled; there would be\nno fill. Li is willing to buy at CNY 74.25 or less but the minimum offer price in the book is\nCNY 74.30; therefore, no part of the order would be filled. Because Li’s order is immediate-\nor-cancel, it would be cancelled. 中文： C是正确的。500股的定单将被取消。李先生愿意以74.25元或\n更低的价格购买，但市场中的最低报价为74.30元，因此订单中的任何部分都不会成交。因为李的订单是该订\n单只要无法立刻成交就会被取消，因此就没有成交。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Order types, Market orders, Limit orders",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 39,
+        "question_text": "An analyst gathers the following information for a price-weighted index comprised of\nsecurities ABC, DEF, and GHI:\nThe price return of the index is:",
+        "image": "",
+        "options": {
+            "A": "A.–4.6%.",
+            "B": "B.–9.3%.",
+            "C": "C.–13.9%."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The price return of the price-weighted index is the percentage change\nin price of the index: (68 – 75)/75 = –9.33%.\n B是正确的。价格加权指数的价格回报率是指数价格变化的百分比：（68-75）/75=-9.33%。\n \\begin{array}{|c|c|c|}\n\\hline\n\\text{Security} & \\text{Beginning of Period Price (£)} & \\text{End of Period Price (£)} \\\\\n\\hline\n\\text{ABC} & 25.00 & 27.00 \\\\\n\\text{DEF} & 35.00 & 25.00 \\\\\n\\text{GHI} & 15.00 & 16.00 \\\\\n\\hline\n\\text{TOTAL} & 75.00 & 68.00 \\\\\n\\hline\n\\end{array}",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Index Calculation, Price-Weighted Index, Price Return",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 40,
+        "question_text": "Uses of market indexes do not include serving as a:",
+        "image": "",
+        "options": {
+            "A": "A.measure of systemic risk.",
+            "B": "B.basis for new investment products.",
+            "C": "C.benchmark for evaluating portfolio performance."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Security market indexes are used as proxies for measuring market\nor systematic risk, not as measures of systemic risk. A是正确的。在资产配置模型中，证券市场指数\n作为资产类别的代表指标起着至关重要的作用。 A错在指数是个proxies指标，而不是度量工具。如果前面加\n了个proxies就是正确的。 B说指数可以作为新投资产品的基准，这个说法是正确的，市场指数可以作为基准\n使用。 C说指数可以作为基准来衡量业绩，这说法也是正确的。比如说，我们要做积极管理，此时，可以偏\n离基准指数做主动配置，如果积极管理效果好，基金经理自己的收益率会大于指数收益率，产生超额收益。\n此时基准指数收益率，一般就用指数的收益率来替代。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market indexes, Systematic risk, Security market indexes",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 41,
+        "question_text": "An analyst gathers the following data for an equally-weighted index:\nThe return on the index over the period is:",
+        "image": "",
+        "options": {
+            "A": "A.4.2%.",
+            "B": "B.6.8%.",
+            "C": "C.7.1%."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. With an equal-weighted index, the same amount is invested in\neach security. Assuming $1,000 is invested in each of the three stocks, the index value is\n$3,000 at the beginning of the period and the following number of shares is purchased for each\nstock: Security A: 50 shares Security B: 20 shares Security C: 38.46 shares. Using the prices\nat the beginning of the period for each security, the index value at the end of the period is\n$3,213.8: ($22 × 50)＋($48 × 20) ＋($30 × 38.46). The price return is $3,213.8/$3,000 – 1 =\n7.1%. 中文： C是正确的。A、B、C三只股票等权重构成。因此分别计算这三只股票的收益率即可。\nA：（22-20）/20=0.1 B：（48-50）/50=-0.04 C：（30-26）/26=0.1538 （0.1-0.04＋ 0.1538）/3=7.13%",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Index Calculation, Equal-Weighted Index, Return Calculation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 42,
+        "question_text": "A friend has asked you to explain the differences between open-end and closed-end funds.\nWhich of the following will you most likely include in your explanation?",
+        "image": "",
+        "options": {
+            "A": "A.Closed-end funds are unavailable to new investors.",
+            "B": "B.When investors sell the shares of an open-end fund, they can receive a discount or a premium\nto the fund’s net asset value.",
+            "C": "C.When selling shares, investors in an open-end fund sell the shares back to the fund whereas"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. When investors want to sell their shares, investors of an open-end\nfund sell the shares back to the fund whereas investors of a closed-end fund sell the shares to\nothers in the secondary market. Closed-end funds are available to new investors but they must\npurchase shares in the fund in the secondary market. The shares of a closed-end fund trade at a\npremium or discount to net asset value. ： C是正确的。当投资者想出售其股票时，开放式基金的投资\n者将股票出售回基金，而封闭式基金的投资者将股票出售给二级市场上的其他人。新投资者可以使用封闭式\n基金，但他们必须在二级市场购买基金份额。封闭式基金的股票以资产净值的溢价或折价进行交易。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Investment vehicles, Secondary market trading, Net asset value (NAV)",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 43,
+        "question_text": "If the price return of an equal-weighted index exceeds that of a market-capitalization-\nweighted index comprised of the same securities, the most likely explanation is:",
+        "image": "",
+        "options": {
+            "A": "A.stock splits.",
+            "B": "B.dividend distributions.",
+            "C": "C.outperformance of small-market-capitalization stocks."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. The main source of return differences arises from\noutperformance of small-cap securities or underperformance of large-cap securities. In an\nequal-weighted index, securities that constitute the largest fraction of the market are\nunderrepresented and securities that constitute only a small fraction of the market are\noverrepresented. Thus, higher equal-weighted index returns will occur if the smaller-cap\nequities outperform the larger-cap equities. 中文： C是正确的。回报差异的主要来源是小盘证券的表\n现优于大盘证券。在等权重指数中，占市场份额最大的证券表现不足，占市场份额很小的证券表现过高。因\n此，如果小盘股的表现优于大盘股，那么将出现更高的等权重指数回报。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Index Weights, Small-Cap Securities, Large-Cap Securities",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 44,
+        "question_text": "Which of the following statements regarding fixed-income indexes is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Liquidity issues make it difficult for investors to easily replicate fixed-income indexes.",
+            "B": "B.Rebalancing and reconstitution are the only sources of turnover in fixed-income indexes.",
+            "C": "C.Fixed-income indexes representing the same target market hold similar numbers of bonds."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. The large number of fixed-income securities—combined with the\nlack of liquidity of some securities—makes it costly and difficult for investors to replicate\nfixed-income indexes. 中文 A是正确的。固定收益证券数量庞大，加上部分证券缺乏流动性，使得投资者\n复制固定收益指数成本高昂，难度较大。 B是错误的。turnover就是指数的换手率，也就是说如果指数中买\n卖了债券，就会发生换手。除了rebalancing和reconstitution之外，因为债券天然会有到期日，比如说一张\n债券到期，就要卖掉，换一张新的债券进入指数，这种做法也会产生turnover，所以这里说rebalancing和\nreconstitution是唯一的turnover的来源，这个说法是错误的。C错在固定收益证券种类繁多，从零息债券到\n具有嵌入期权的债券（即可赎回或可计算债券），导致有不同类型的固定收益指数。所以有相同的目标市场\n和相似的数量肯定是不对的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fixed-income securities, Fixed-income indexes, Index replication challenges",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 45,
+        "question_text": "With respect to rational and irrational investment decisions, the efficient market\nhypothesis requires:",
+        "image": "",
+        "options": {
+            "A": "A.only that the market is rational.",
+            "B": "B.that all investors make rational decisions.",
+            "C": "C.that some investors make irrational decisions."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. The efficient market hypothesis and asset-pricing models only\nrequire that the market is rational. Behavioral finance is used to explain some of the market\nanomalies as irrational decisions. A正确。有效市场只要保证整体市场是理性的，也就是平均来看，市\n场理性即可。 B说所有投资者是理性的，这个说法不对，市场上可以有理性和非理性的行为，只要非理性的\n行为互相抵消，比如说你是过度乐观，我是过度悲观，市场整体来看还是理性的。有效市场假说只要求平均\n来看是理性的，不要求每一个个体投资者都要理性，所以B错误。C说有些人不理性，这不是requires，有效\n市场假说不一定需要（要求）有些人不理性，而是说允许有些人不理性；所有人都理性最好，但是如果有些\n人不理性，只要保证整体市场是理性的，有效市场假说依然可以成立。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis, Behavioral Finance, Rational and Irrational Investment Decisions",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 46,
+        "question_text": "The usefulness of a forward contract is limited by some problems. Which of the following is\nmost likely one of those problems?",
+        "image": "",
+        "options": {
+            "A": "A.Once you have entered into a forward contract, it is difficult to exit from the contract.",
+            "B": "B.Entering into a forward contract requires the long party to deposit an initial amount with\nthe short party.",
+            "C": "C.If the price of the underlying asset moves adversely from the perspective of the long party,"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Once you have entered into a forward contract, it is difficult to\nexit from the contract. As opposed to a futures contract, trading out of a forward contract is\nquite difficult. There is no exchange of cash at the origination of a forward contract. There\nis no exchange on a forward contract until the maturity of the contract. ： A是正确的。一旦你签\n订了远期合同，就很难退出合同。与期货合约相反，远期合约的交易相当困难。远期合同的订立不进行现金\n交换。在合同到期之前，远期合同是不需要支付的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Liquidity Risk, Derivatives Markets",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 47,
+        "question_text": "An analyst gathers the following information for an equal-weighted index comprised of assets\nAble, Baker, and Charlie:\nThe total return of the index is:",
+        "image": "",
+        "options": {
+            "A": "A.5.0%.",
+            "B": "B.7.9%.",
+            "C": "C.11.4%."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. The total return of an index is calculated on the basis of the\nchange in price of the underlying securities plus the sum of income received or the sum of the\nweighted total returns of each security. The total return of Able is 27.5 percent; of Baker is\n0 percent; and of Charlie is 6.7 percent:Able: (12 – 10＋0.75)/10 = 27.5% Baker: (19 –\n20＋1)/20 = 0% Charlie: (30 – 30＋ 2)/30 = 6.7% An equal-weighted index applies the same\nweight (1/3) to each security’s return; therefore, the total return = 1/3 × (27.5% ＋0%\n＋6.7%) = 11.4%. 中文： C是正确的。指数的总回报率是根据标的证券的价格变动加上每种证券的期间收入\n总额或计算的。 Able: (12 – 10＋ 0.75)/10 = 27.5% Baker: (19 – 20 ＋1)/20 = 0% Charlie: (30 –\n30 ＋2)/30 = 6.7% 总收益率 = 1/3 × (27.5%＋ 0%＋ 6.7%) = 11.4%.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Index Calculation, Total Return, Equal-Weighted Index",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 48,
+        "question_text": "A trader has purchased 200 shares of a non-dividend-paying firm on margin at a price of $50\nper share. The leverage ratio is 2.5. Six months later, the trader sells these shares at $60\nper share. Ignoring the interest paid on the borrowed amount and the transaction costs, what\nwas the return to the trader during the six-month period?",
+        "image": "",
+        "options": {
+            "A": "A.20 percent.",
+            "B": "B.33.33 percent.",
+            "C": "C.50 percent."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The return is 50 percent. If the position had been unleveraged,\nthe return would be 20% = (60 – 50)/50. Because of leverage, the return is 50% = 2.5 ×\n20%.Another way to look at this problem is that the equity contributed by the trader (the\nminimum margin requirement) is 40% = 100% ÷ 2.5. The trader contributed $20 = 40% of $50 per\nshare. The gain is $10 per share, resulting in a return of 50% = 10/20. ： C是正确的。回报率是\n50%。 如果该头寸无杠杆，回报率将为20%=（60-50）/50。由于杠杆作用，收益率被放大为50%=2.5*20%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Leverage, Margin Trading, Return on Investment (ROI)",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 49,
+        "question_text": "A unique feature of hedge fund indexes is that they:",
+        "image": "",
+        "options": {
+            "A": "A.are frequently equal weighted.",
+            "B": "B.are determined by the constituents of the index.",
+            "C": "C.reflect the value of private rather than public investments."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Hedge funds are not required to report their performance to any\nparty other than their investors. Therefore, each hedge fund decides to which database（　） it\nwill report its performance. Thus, for a hedge fund index, constituents determine the index\nrather than index providers determining the constituents. 中文 B是正确的。对冲基金无需向投资者\n以外的任何一方报告业绩。因此，每个对冲基金都会决定向哪个数据库报告其业绩。因此，对于一个对冲基\n金指数，组成部分决定指数，而不是指数提供者决定组成部分。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge fund index construction, Hedge fund performance reporting, Index constituents selection",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 50,
+        "question_text": "A British company listed on AIM (formerly the Alternative Investment Market) of the London\nStock Exchange announced the sale of 6,686,665 shares to a small group of qualified investors\nat ￡0.025 per share. Which of the following best describes this sale?",
+        "image": "",
+        "options": {
+            "A": "A.Shelf registration.",
+            "B": "B.Private placement.",
+            "C": "C.Initial public offering."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. This sale is a private placement. As the company is already\npublicly traded, the share sale is clearly not an initial public offering. The sale also does\nnot involve a shelf registration because the company is not selling shares to the public on a\npiecemeal basis. 中文： B是正确的。这次出售是非公开配售。由于该公司已经上市交易，出售股份显然不\n是首次公开募股。出售也不涉及上架登记，因为该公司没有出售股票给公众。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Private Placement, Initial Public Offering (IPO), Shelf Registration",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 51,
+        "question_text": "An analyst gathers the following information for an equal-weighted index comprised of assets\nAble, Baker, and Charlie:\nThe price return of the index is:",
+        "image": "",
+        "options": {
+            "A": "A.1.7%.",
+            "B": "B.5.0%.",
+            "C": "C.11.4%."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. The price return is the sum of the weighted returns of each\nsecurity. The return of Able is 20 percent [(12 – 10)/10]; of Baker is –5 percent [(19 –\n20)/20]; and of Charlie is 0 percent [(30 – 30)/30]. The price return index assigns a weight\nof 1/3 to each asset; therefore, the price return is 1/3 × [20%＋ (–5%) ＋ 0%] = 5%. 中文：\nB是正确的。 三只股票是等权重的。因此分别计算每只股票的收益率。 Able 的收益率是20% = [(12 –\n10)/10]; Baker的收益率是–5 % = [(19 – 20)/20]; Charlie 的收益率是 0% = [(30 – 30)/30]. 价格\n收益是1/3 × [20%＋(–5%) ＋0%] = 5%.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Index Calculation, Price Return, Equal-Weighted Index",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 52,
+        "question_text": "Pierre-Louis Robert just purchased a call option on shares of the Michelin Group. A few days\nago he wrote a put option on Michelin shares. The call and put options have the same exercise\nprice, expiration date, and number of shares underlying. Considering both positions, Robert’s\nexposure to the risk of the stock of the Michelin Group is:",
+        "image": "",
+        "options": {
+            "A": "A.long.",
+            "B": "B.short.",
+            "C": "C.neutral."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Robert’s exposure to the risk of the stock of the Michelin Group\nis long. The exposure as a result of the long call position is long. The exposure as a result\nof the short put position is also long. Therefore, the combined exposure is long. A是正确的。\n这里说投资者purchased call相当于买入看涨期权，买入看涨期权会随着股价上涨而获利，所以属于long 方\n。 投资者wrote a put的意思是卖出看跌期权，卖出看跌，说明不看跌，所以依旧是看涨的意思，还是属于\nlong方。 所以两个头寸组合起来依旧是long方。 或者可以如图，横坐标代表股票的市场价格，纵坐标代表\n的使投资者获得的收益（payoff）。这两部分组合起来，得到红色笔的payoff，因为是斜向上45度线，所以\n整体是随着股票价格的上涨（X增加），投资者收益（Y）增加，所以整体是从股价上涨中获利，类似股票的\n多头方（long exposure）。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options Strategies, Market Exposure, Derivatives",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 53,
+        "question_text": "Rebalancing an index is the process of periodically adjusting the constituent:",
+        "image": "",
+        "options": {
+            "A": "A.securities’ weights to optimize investment performance.",
+            "B": "B.securities to maintain consistency with the target market.",
+            "C": "C.securities’ weights to maintain consistency with the index’s weighting method."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. Rebalancing refers to adjusting the weights of constituent\nsecurities in an index to maintain consistency with the index’s weighting method. 中文： C是正\n确的。再平衡是指调整指数中组成证券的权重，以保持与指数权重方法的一致性。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Portfolio Management, Index Construction, Rebalancing Techniques",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 54,
+        "question_text": "Which of the following is not a function of the financial system?",
+        "image": "",
+        "options": {
+            "A": "A.To regulate arbitrageurs’ profits (excess returns).",
+            "B": "B.To help the economy achieve allocational efficiency.",
+            "C": "C.To facilitate borrowing by businesses to fund current operations."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Regulation of arbitrageurs’ profits is not a function of the\nfinancial system. The financial system facilitates the allocation of capital to the best uses\nand the purposes for which people use the financial system, including borrowing money. ： A是正\n确的。对套利者利润的监管不是金融体系的职能。金融系统有助于将资本分配达到最佳用途，以及帮助人们\n实现使用金融系统的目的，包括借款。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial system functions, Capital allocation, Borrowing mechanisms",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 55,
+        "question_text": "If markets are efficient, the difference between the intrinsic value and market value of a\ncompany’s security is:",
+        "image": "",
+        "options": {
+            "A": "A.negative.",
+            "B": "B.zero.",
+            "C": "C.positive."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. A security’s intrinsic value and market value should be equal\nwhen markets are efficient. 中文 B是正确的。当市场有效时，证券的内在价值和市场价值应该相等。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis, Intrinsic Value, Market Value",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 56,
+        "question_text": "An analyst gathers the following information for a market-capitalization-weighted index\ncomprised of securities MNO, QRS, and XYZ:\nThe price return of the index is:",
+        "image": "",
+        "options": {
+            "A": "A.–9.33%.",
+            "B": "B.–10.23%.",
+            "C": "C.–13.90%."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. The price return of the index is (48,250,000 –\n53,750,000)/53,750,000 = –10.23%. 中文： B是正确的。该指数的价格回报率为（48250000-\n53750000）/53750000=-10.23%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Index calculation, Price return, Market-capitalization-weighted index",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 57,
+        "question_text": "An online brokerage firm has set the minimum margin requirement at 55 percent. What is the\nmaximum leverage ratio associated with a position financed by this minimum margin requirement?",
+        "image": "",
+        "options": {
+            "A": "A.1.55.",
+            "B": "B.1.82.",
+            "C": "C.2.22."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The maximum leverage ratio is 1.82 = 100% position ÷ 55% equity.\nThe maximum leverage ratio associated with a position financed by the minimum margin\nrequirement is one divided by the minimum margin requirement. ： B是正确的。最低保证金要求是\n55%，最大杠杆比率为1.82=100%÷55%。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Margin Requirements, Leverage Ratios, Brokerage Firms",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 58,
+        "question_text": "Consider the following limit order book for a stock. The bid and ask sizes are number of\nshares in hundreds.\n \nA new buy limit order is placed for 300 shares at ￥123.40. This limit order is said to:",
+        "image": "",
+        "options": {
+            "A": "A.take the market.",
+            "B": "B.make the market.",
+            "C": "C.make a new market."
+        },
+        "answer": "C",
+        "explanation": "C is correct. This order is said to make a new market. The new buy order is at\n￥123.40, which is better than the current best bid of ￥123.35. Therefore, the buy order is\nmaking a new market. Had the new order been at ￥123.35, it would be said to make the market.\nBecause the new buy limit order is at a price less than the best offer of ￥123.80, it will not\nimmediately execute and is not taking the market. 中文： C是正确的。这一订单将成为新的最优价格\n。新的购买订单是123.40，比目前123.35的最高买入价更高，且低于最优卖出价，所以是make a new\nmarket。\n \\[\n\\begin{array}{|c|c|c|}\n\\hline\n\\text{Bid Size} & \\text{Limit Price (¥)} & \\text{Offer Size} \\\\\n\\hline\n3 & 122.80 & \\\\\n8 & 123.00 & \\\\\n4 & 123.35 & \\\\\n & 123.80 & 7 \\\\\n & 124.10 & 6 \\\\\n & 124.50 & 7 \\\\\n\\hline\n\\end{array}\n\\]",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Limit order book, Best bid and ask prices, Market making",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 59,
+        "question_text": "Tony Harris is planning to start trading in commodities. He has heard about the use of\nfutures contracts on commodities and is learning more about them. Which of the following is\nHarris least likely to find associated with a futures contract?",
+        "image": "",
+        "options": {
+            "A": "A.Existence of counterparty risk.",
+            "B": "B.Standardized contractual terms.",
+            "C": "C.Payment of an initial margin to enter into a contract."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Harris is least likely to find counterparty risk associated with a\nfutures contract. There is limited counterparty risk in a futures contract because the\nclearinghouse is on the other side of every contract. ： A是正确的。哈里斯最不可能发现与期货合\n约相关的是交易对手风险。期货合约中是没有对手方风险的，因为清算所是每一合约的双方的对手方。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Futures contracts, Clearinghouse function, Counterparty risk",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 60,
+        "question_text": "Which of the following is least likely to explain the January effect anomaly?",
+        "image": "",
+        "options": {
+            "A": "A.Tax-loss selling.",
+            "B": "B.Release of new information in January.",
+            "C": "C.Window dressing of portfolio holdings."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The excess returns in January are not attributed to any new\ninformation or news; however, research has found that part of the seasonal pattern can be\nexplained by tax-loss selling and portfolio window dressing. 中文 B是正确的。1月份的超额回报率\n并非来自任何新的信息或新闻；然而，研究发现，部分季节性原因可以通过抵税、投资组合粉饰来解释。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market anomalies, Tax-loss selling, Portfolio window dressing",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 61,
+        "question_text": "An analyst gathers following information for an equal-weighted index comprised of securities\nABC, DEF, and GHI:\nThe price return of the index for this period is closet to:",
+        "image": "",
+        "options": {
+            "A": "A.-4.6%.",
+            "B": "B.-9.3%.",
+            "C": "C.-13.9%."
+        },
+        "answer": "A",
+        "explanation": "The price return of the equal-weighted index is the mean of sum of each return:\n(2/25-10/35 ＋1/15)/3=-4.6344%.等权重指数的价格回报率是各回报率之和的平均值：(2/25-10/35＋\n1/15)/3=-4.6344%.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Index Calculation, Price Return, Equal-Weighted Index",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 62,
+        "question_text": "You have placed a sell market-on-open order—a market order that would automatically be\nsubmitted at the market’s open tomorrow and would fill at the market price. Your instruction,\nto sell the shares at the market open, is a(n):",
+        "image": "",
+        "options": {
+            "A": "A.execution instruction.",
+            "B": "B.validity instruction.",
+            "C": "C.clearing instruction."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. An instruction regarding when to fill an order is considered a\nvalidity instruction. 中文： B是正确的。有关何时完成订单的指令被视为有效指令。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Order Types, Validity Instructions, Market Orders",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 63,
+        "question_text": "Fundamental analysts assume that markets are:",
+        "image": "",
+        "options": {
+            "A": "A.weak-form inefficient.",
+            "B": "B.semi-strong-form efficient.",
+            "C": "C.semi-strong-form inefficient."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Fundamental analysts use publicly available information to estimate a\nsecurity’s intrinsic value to determine if the security is mispriced, which is inconsistent\nwith the semi-strong form of market efficiency. Semi-strong-form market efficiency states that\ninvestors cannot earn abnormal returns by trading based on publicly available information. C是\n正确的。基本面分析师使用公开的信息来估计证券的内在价值，以确定证券是否定价错误，这与半强有效市\n场不一致。半强有效市场是指投资者不能根据公开信息通过交易获得异常收益。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market efficiency, Intrinsic value estimation, Fundamental analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 64,
+        "question_text": "Consider an order-driven system that allows hidden orders. The following four sell orders on\na particular stock are currently in the system’s limit order book. Based on the commonly used\norder precedence hierarchy, which of these orders will have precedence over others?",
+        "image": "",
+        "options": {
+            "A": "A.Order I (time of arrival of 9:52:01).",
+            "B": "B.Order II (time of arrival of 9:52:08).",
+            "C": "C.Order III (time of arrival of 9:53:04)."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. Order III (time of arrival of 9:53:04) has precedence. In the\norder precedence hierarchy, the first rule is price priority. Based on this rule, sell orders\nII, III, and IV get precedence over order I. The next rule is display precedence at a given\nprice. Because order II is a hidden order, orders III and IV get precedence. Finally, order III\ngets precedence over order IV based on time priority at same price and same display status. 中\n文： C是正确的。交易遵循价格优先时间优先的原则。价格上来说2,3,4相同并高于1.时间上，2是最优先的\n，但是这是个隐藏订单。只遵循价格优先，不遵循时间优先。因此对于2,3,4来说，能优先成交的就是3。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Order-driven systems, Order precedence hierarchy, Limit order book",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 65,
+        "question_text": "A float-adjusted market-capitalization-weighted index weights each of its constituent\nsecurities by its price and:",
+        "image": "",
+        "options": {
+            "A": "A.its trading volume.",
+            "B": "B.the number of its shares outstanding.",
+            "C": "C.the number of its shares available to the investing public."
+        },
+        "answer": "C",
+        "explanation": "英文： C is correct. “Float” is the number of shares available for public\ntrading. 中文： C是正确的。“流通股”是指可供公开交易的股票数量。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Float-adjusted indexes, Market capitalization weighting, Public float",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 66,
+        "question_text": "When creating a security market index, the target market:",
+        "image": "",
+        "options": {
+            "A": "A.determines the investment universe.",
+            "B": "B.is usually a broadly defined asset class.",
+            "C": "C.determines the number of securities to be included in the index."
+        },
+        "answer": "A",
+        "explanation": "英文： A is correct. The target market determines the investment universe and the\nsecurities available for inclusion in the index. 中文： A是正确的。目标市场决定了投资范围和可纳\n入指数的证券。 B选项说目标市场总是广泛定义的资产，错误。比如说股票作为一个资产，可以细分为很多\n目标市场，按照行业或者市值进行划分。所以构建指数的目标市场不一定是大类资产。 C说目标市场决定了\n纳入指数的证券数目。这句话的意思是说，如果消费行业公司多，消费行业指数中就应该多纳入一点公司。\n这个说法很显然的是错误的，因为指数中没有对公司的数目进行规定，可以是指数编制者自己规定的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Target market, Investment universe, Security market index",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 67,
+        "question_text": "Which of the following market regulations will most likely impede market efficiency?",
+        "image": "",
+        "options": {
+            "A": "A.Restricting traders’ ability to short sell.",
+            "B": "B.Allowing unrestricted foreign investor trading.",
+            "C": "C.Penalizing investors who trade with nonpublic information."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Restricting short selling will reduce arbitrage trading, which\npromotes market efficiency. Permitting foreign investor trading increases market participation,\nwhich makes markets more efficient. Penalizing insider trading encourages greater market\nparticipation, which increases market efficiency. 中文 A是正确的。限制卖空将减少套利交易，套利\n交易是可以提高市场效率的。允许外国投资者交易可以增加市场参与度，从而提高市场效率。惩罚内幕交易\n会鼓励更多的市场参与，从而提高市场效率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market efficiency, Arbitrage trading, Short selling regulations",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 68,
+        "question_text": "In an underwritten offering, the risk that the entire issue may not be sold to the public at\nthe stipulated offering price is borne by the:",
+        "image": "",
+        "options": {
+            "A": "A.issuer.",
+            "B": "B.investment bank.",
+            "C": "C.buyers of the part of the issue that is sold."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The investment bank bears the risk thatthe issue may be\nundersubscribed at the offering price. If the entire issue isnot sold, the investment bank\nunderwriting the issue will buy the unsoldsecurities at the offering price. 中文： B是正确的。\n包销的模式下，投资银行承担着发行价可能认购不足的风险。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Underwriting process, Investment banking, Securities issuance",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 69,
+        "question_text": "A German publicly traded company, to raise new capital, gave its existing shareholders the\nopportunity to subscribe for new shares. The existing shareholders could purchase two new\nshares at a subscription price of €4.58 per share for every 15 shares held. This is an example\nof a(n):",
+        "image": "",
+        "options": {
+            "A": "A.rights offering.",
+            "B": "B.private placement.",
+            "C": "C.initial public offering."
+        },
+        "answer": "A",
+        "explanation": "英文： A is correct. This offering is a rights offering. The company is\ndistributing rights to buy stock at a fixed price to existing shareholders in proportion to\ntheir holdings. 中文： A是正确的。本次发行为配股发行。该公司正在按持股比例向现有股东分配以固定\n价格购买股票的权利。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Rights offering, Shareholder subscription, Capital raising",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 70,
+        "question_text": "Which of the following statements about exchange-traded funds is most correct?",
+        "image": "",
+        "options": {
+            "A": "A.Exchange-traded funds are not backed by any assets.",
+            "B": "B.The investment companies that create exchange-traded funds are financial intermediaries.",
+            "C": "C.The transaction costs of trading shares of exchange-traded funds are substantially greater"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The investment companies that create exchange-traded funds (ETFs)\nare financial intermediaries. ETFs are securities that represent ownership in the assets held\nby the fund. The transaction costs of trading shares of ETFs are substantially lower than the\ncombined costs of trading the underlying assets of the ETF. ： B是正确的。创建交易所交易基金\nETF的投资公司是金融中介机构。ETF的标的资产是一揽子的股票因此A是错误的。交易所买卖基金股票的交易\n成本大大低于交易所买卖基金标的资产的交易成本因此C是错误的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Exchange-Traded Funds (ETFs), Financial Intermediaries, Transaction Costs",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 71,
+        "question_text": "Jason Williams purchased 500 shares of a company at $32 per share. The stock was bought on\n75 percent margin. One month later, Williams had to pay interest on the amount borrowed at a\nrate of 2 percent per month. At that time, Williams received a dividend of $0.50 per share.\nImmediately after that he sold the shares at $28 per share. He paid commissions of $10 on the\npurchase and $10 on the sale of the stock. What was the rate of return on this investment for\nthe one-month period?",
+        "image": "",
+        "options": {
+            "A": "A.–12.5 percent.",
+            "B": "B.–15.4 percent.",
+            "C": "C.–50.1 percent."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The return is –15.4 percent. Total cost of the purchase = $16,000 =\n500 × $32 Equity invested = $12,000 = 0.75 × $16,000 Amount borrowed = $4,000 = 16,000 –\n12,000 Interest paid at month end = $80 = 0.02 × $4,000 Dividend received at month end = $250\n= 500 × $0.50 Proceeds on stock sale = $14,000 = 500 × $28 Total commissions paid = $20 =\n$10＋$10 Net gain/loss = –$1,850 = –16,000 – 80＋250 ＋14,000 – 20 Initial investment\nincluding commission on purchase =$12,010 Return = –15.4% =–$1,850/$12,010 B是正确的。 买入总\n费用= $16,000 = 500 × $32 自有资金 = $12,000 = 0.75 × $16,000 借入金额 = $4,000 = 16,000 –\n12,000 月末支付利息 = $80 = 0.02 × $4,000 月末收到股利 = $250 = 500 × $0.50 卖出股票收入 =\n$14,000 = 500 × $28 总佣金 = $20 = $10＋ $10 净损失 = –$1,850 = –16,000– 80 ＋250＋\n14,000– 20 包含初始佣金的初始投入 = $12,010 回报率= –15.4% = –$1,850/$12,010",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Margin Trading, Rate of Return Calculation, Dividend Income",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 72,
+        "question_text": "A book publisher requires substantial quantities of paper. The publisher and a paper\nproducer have entered into an agreement for the publisher to buy and the producer to supply a\ngiven quantity of paper four months later at a price agreed upon today. This agreement is a:",
+        "image": "",
+        "options": {
+            "A": "A.futures contract.",
+            "B": "B.forward contract.",
+            "C": "C.commodity swap."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The agreement between the publisher and the paper supplier to\nrespectively buy and supply paper in the future at a price agreed upon today is a forward\ncontract. ： B是正确的。出版商和纸张供应商之间的协议，即以今天商定的价格分别在未来购买和供应纸\n张，这是一项远期合同。期货合约是在交易所进行的。本题也不存在互换。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Derivatives, Financial Contracts",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 73,
+        "question_text": "Which of the following market anomalies is inconsistent with weak-form market efficiency?",
+        "image": "",
+        "options": {
+            "A": "A.Earnings surprise.",
+            "B": "B.Momentum pattern.",
+            "C": "C.Closed-end fund discount."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Trading based on historical momentum indicates that price patterns\nexist and can be exploited by using historical price information. A momentum trading strategy\nthat produces abnormal returns contradicts the weak form of the efficient market hypothesis,\nwhich states that investors cannot earn abnormal returns on the basis of past trends in prices.\n这里首先要知道，弱势有效的结论。弱势有效市场是反映了所有量价信息。技术分析是不能获得超额收益的\n。 B选项是指股票的收益率有延续原来的运动方向的趋势，即过去一段时间收益率较高的股票在未来获得的\n收益率仍会高于过去收益率较低的股票。也就是利用量价信息来判断未来走势。那么这与若有效市场假设相\n违背。 A所得是未被市场所预料到的收益，这是基本面方面的信息，不能检验弱有效市场。 C说的是一种市\n场异常，封闭式基金通常交易低于其净值。市场异常不能推翻有效市场假设。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market Efficiency, Efficient Market Hypothesis, Market Anomalies",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 74,
+        "question_text": "When creating a security market index, an index provider must first determine the:",
+        "image": "",
+        "options": {
+            "A": "A.target market.",
+            "B": "B.appropriate weighting method.",
+            "C": "C.number of constituent securities."
+        },
+        "answer": "A",
+        "explanation": "英文： A is correct. The first decision is identifying the target market that the\nindex is intended to represent because the target market determines the investment universe and\nthe securities available for inclusion in the index. 中文： A是正确的。第一个决定是确定指数打算\n代表的目标市场，因为目标市场决定了投资范围和可纳入指数的证券。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Index Construction, Target Market Identification, Investment Universe",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 75,
+        "question_text": "Currently, the market in a stock is “$54.62 bid, offered at $54.71.” A new sell limit\norder is placed at $54.62. This limit order is said to:",
+        "image": "",
+        "options": {
+            "A": "A.take the market.",
+            "B": "B.make the market.",
+            "C": "C.make a new market."
+        },
+        "answer": "A",
+        "explanation": "英文： A is correct. This order is said to take the market. The new sell order is\nat $54.62, which is at the current best bid. Therefore, the new sell order will immediately\ntrade with the current best bid and is taking the market. 中文： A是正确的，新的卖出订单刚好等\n于市场买价。可以直接成交，因此是take the market。 B 错误。 take the market是可以成交的。make\nthe market是落在市场最优的best bid 和 bset ask上，但是是不能成交的。 这道题目里面，sell是按照\nbest bid下单的。bid是买价，也就是说卖房出价，立刻有买方愿意买，订单立刻成交，属于take the\nmarket。但是如果sell是按照best ask下单，相当于我自己是最优的卖价，但是离买方愿意买入的价格还是\n有距离的，此时订单无法成交，属于make the market。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Orders and Limit Orders, Bid-Ask Spread, Order Execution",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 76,
+        "question_text": "If prices reflect all public and private information, the market is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.weak-form efficient.",
+            "B": "B.strong-form efficient.",
+            "C": "C.semi-strong-form efficient."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The strong-form efficient market hypothesis assumes all\ninformation, public or private, has already been reflected in the prices. 中文 B是正确的。强式\n有效市场假说假定所有信息，无论是公共信息还是私人信息，都已经反映在价格中。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis, Market Efficiency, Information Asymmetry",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 77,
+        "question_text": "Commodity index values are based on:",
+        "image": "",
+        "options": {
+            "A": "A.futures contract prices.",
+            "B": "B.the market price of the specific commodity.",
+            "C": "C.the average market price of a basket of similar commodities."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Commodity indexes consist of futures contracts on one or more\ncommodities. 中文 A是正确的。商品指数由一种或多种商品的期货合约组成。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Commodity indexes, Futures contracts, Financial derivatives",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 78,
+        "question_text": "Researchers have found that value stocks have consistently outperformed growth stocks. An\ninvestor wishing to exploit the value effect should purchase the stock of companies with above-\naverage:",
+        "image": "",
+        "options": {
+            "A": "A.dividend yields.",
+            "B": "B.market-to-book ratios.",
+            "C": "C.price-to-earnings ratios."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Higher than average dividend yield is a characteristic of a value\nstock, along with low price-to-earnings and low market-to-book ratios. Growth stocks are\ncharacterized by low dividend yields and high price-to-earnings and high market-to-book ratios.\n这里要找到价值股。价值股的特点是股息率高，所以本题选A。 对于价值股各类价格乘数\nP/E，P/B，P/CF，P/S等都低，B选项指P/B高，C选型指P/E都高，都是错误的，不属于value价值股的特点\n，而是成长股的特点。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Value Stocks, Growth Stocks, Dividend Yield",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 79,
+        "question_text": "You own shares of a company that are currently trading at $30 a share. Your technical\nanalysis of the shares indicates a support level of $27.50. That is, if the price of the shares\nis going down, it is more likely to stay above this level rather than fall below it. If the\nprice does fall below this level, however, you believe that the price may continue to decline.\nYou have no immediate intent to sell the shares but are concerned about the possibility of a\nhuge loss if the share price declines below the support level. Which of the following types of\norders could you place to most appropriately address your concern?",
+        "image": "",
+        "options": {
+            "A": "A.Short sell order.",
+            "B": "B.Good-till-cancelled stop sell order.",
+            "C": "C.Good-till-cancelled stop buy order."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. The most appropriate order is a good-till-cancelled stop sell\norder. This order will be acted on if the stock price declines below a specified price (in this\ncase, $27.50). This order is sometimes referred to as a good-till-cancelled stop loss sell\norder. You are generally bullish about the stock, as indicated by no immediate intent to sell,\nand would expect a loss on short selling the stock. A stop buy order is placed to buy a stock\nwhen the stock is going up. 中文： 你拥有一家目前每股30美元的公司的股票。你对股票的技术分析显示\n支持水平为27.50美元。也就是说，如果股价下跌，它更有可能保持在这个水平之上，而不是跌破这个水平。\n但是，如果价格确实低于这个水平，你认为价格可能会继续下降。如果股价跌破支撑水平，可能出现巨额亏\n损。以下哪种类型的订单能最恰当地解决问题？因此最恰当的做法是当股票跌破27.5的时候，卖出止损。选\nB。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Stop Orders, Technical Analysis, Risk Mitigation Strategies",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 80,
+        "question_text": "Which of the following index weighting methods is most likely subject to a value tilt?",
+        "image": "",
+        "options": {
+            "A": "A.Equal weighting.",
+            "B": "B.Fundamental weighting.",
+            "C": "C.Market-capitalization weighting."
+        },
+        "answer": "B",
+        "explanation": "英文： B is correct. Fundamental weighting leads to indexes that have a value tilt.\n中文： B是正确的。基本面加权导致指数具有价值倾斜。价值倾斜是指指数中通常使用账面价值价格比、盈\n利价格比等基本面要素确定权重。而通常价值股的以上几种比率都会更高，导致其权重也偏高。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Index Weighting Methods, Fundamental Weighting, Value Tilt",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 81,
+        "question_text": "An increase in the time between when an order to trade a security is placed and when the\norder is executed most likely indicates that market efficiency has:",
+        "image": "",
+        "options": {
+            "A": "A.decreased.",
+            "B": "B.remained the same.",
+            "C": "C.increased."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Operating inefficiencies reduce market efficiency. 中文 A是正确\n的。这道题目说交易从下单到被执行的时间延长了。说明市场流动性下降。从而说明市场有效性下降。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Efficiency, Liquidity, Trading Mechanisms",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 82,
+        "question_text": "If markets are semi-strong-form efficient, then passive portfolio management strategies are\nmost likely to:",
+        "image": "",
+        "options": {
+            "A": "A.earn abnormal returns.",
+            "B": "B.outperform active trading strategies.",
+            "C": "C.underperform active trading strategies."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Costs associated with active trading strategies would be difficult to\nrecover; thus, such active trading strategies would have difficulty outperforming passive\nstrategies on a consistent after-cost basis. B是正确的。 消极管理不能赚取超额收益，只能获得和市\n场差不多的normal return，所以A错误 半强有效市场中，价格已经反映了所有历史和公开（基本面）信息\n，所以通过分析历史信息获利的技术分析，和分析公开财务数据获利的基本面分析都失效。投资者只能通过\n内幕消息赚取超额收益。 但是因为内幕消息是无法使用的，所以在半强有效市场中，积极管理者不能赚取超\n额收益，但是因为积极管理的管理费比较高，所以扣除了管理费之后，积极管理的净收益低于消极管理。C错\n误，B正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis (EMH), Passive vs. Active Portfolio Management, Market Efficiency Types",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 83,
+        "question_text": "If a market is semi-strong-form efficient, the risk-adjusted returns of a passively managed\nportfolio relative to an actively managed portfolio are most likely:",
+        "image": "",
+        "options": {
+            "A": "A.lower.",
+            "B": "B.higher.",
+            "C": "C.the same."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. In a semi-strong-form efficient market, passive portfolio\nstrategies should outperform active portfolio strategies on a risk-adjusted basis. 中文 B是正确\n的。在半强有效市场中，在风险调整的基础上，被动投资组合策略应优于主动投资组合策略。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Efficient Market Hypothesis, Active vs. Passive Management, Market Efficiency",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 84,
+        "question_text": "Which of the following statements about peer groups is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Constructing a peer group for a company follows a standardized process.",
+            "B": "B.Commercial industry classification systems often provide a starting point for constructing a\npeer group.",
+            "C": "C.A peer group is generally composed of all the companies in the most narrowly defined category"
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Constructing a peer group is a subjective process, and a logical\nstarting point is to begin with a commercially available classification system. This system\nwill identify a group of companies that may have properties comparable to the business activity\nof interest. 这题问以下哪一个有关peer group的说法是正确的？ peer group是站在公司高管的角度，判\n断行业中哪些是我同类的公司，或者说主要竞争对手，这个过程没有标准化的流程，是依赖主观判断的。所\n以A说standardized不对。构建同类组是一个主观的过程，逻辑起点是从一个商用分类系统开始。比如说我看\n大家在市场上都属于教育行业，同一行业中，我再找销售规模，利润增长，研发能力和我自己差不多的公司\n。B正确。C说是从商用的最小单位的分类中，选定所有公司作为peer group，C错误。一般商业分类中有很多\n分类方法，有大类有小类。比如说，大类分为周期性的股票、再细分，分为汽车或大宗原材料，再进一步\n，细分为钢铁和煤炭。这里商业分类中的最小的类别（narrowly defined）就是钢铁或者煤炭行业。C的意思\n就是把所有钢铁行业的公司作为peer group这个说法是错误的。因为钢铁行业中还分为国有大企业和私企\n，他们两者的市场规模不同，整体成本和财务杠杆都有可能不同，这个时候不能作为peer group。所以最小\n的类别不能作为peer group的划分基础。所以本题选B。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Industry classification, Peer group analysis, Subjective judgment",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 85,
+        "question_text": "An analyst is attempting to value shares of the Dominion Company. The company has just paid\na dividend of $0.58 per share. Dividends are expected to grow by 20 percent next year and 15\npercent the year after that. From the third year onward, dividends are expected to grow at 5.6\npercent per year indefinitely. If the required rate of return is 8.3 percent, the intrinsic\nvalue of the stock is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$26.00.",
+            "B": "B.$27.00.",
+            "C": "C.$28.00."
+        },
+        "answer": "C",
+        "explanation": "C is correct.\n D1 = 0.58(1.20) = 0.70, D2 = 0.58(1.20)(1.15) = 0.80, and P2 = D3/(k – g) =\n0.80(1.056)/(0.083 – 0.056) = 31.29 C是正确的，如。\n $$\nV_0 = \\frac{D_1}{(1+r)} + \\frac{D_2}{(1+r)^2} + \\frac{P_2}{(1+r)^2}\n$$\n\n$$\n= \\frac{0.70}{(1.083)} + \\frac{0.80}{(1.083)^2} + \\frac{31.29}{(1.083)^2}\n$$\n\n$$\n= \\$28.01\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Dividend Discount Model (DDM), Growth Rates, Required Rate of Return",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 86,
+        "question_text": "Which of the following factors would most likely be a limitation of applying business-cycle\nanalysis to global industry analysis?",
+        "image": "",
+        "options": {
+            "A": "A.Some industries are relatively insensitive to the business cycle.",
+            "B": "B.Correlations of security returns between different world markets are relatively low.",
+            "C": "C.One region or country of the world may experience recession while another region experiences"
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Varying conditions of recession or expansion around the world\nwould affect the comparisons of companies with sales in different regions of the world. 中文\nC是正确的。全球范围内经济衰退或扩张的不同情况，将影响全球不同地区销售的比较。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Economic cycles, Global industry analysis, Regional economic conditions",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 87,
+        "question_text": "Industry consolidation and high barriers to entry most likely characterize which life-cycle\nstage?",
+        "image": "",
+        "options": {
+            "A": "A.Mature",
+            "B": "B.Growth",
+            "C": "C.Embryonic"
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Industry consolidation and relatively high barriers to entry are\ntwo characteristics of a mature-stage industry. 中文 A是正确的。产业整合和相对较高的进入壁垒是\n成熟阶段产业的两大特征。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Industry Life-Cycle Stages, Barriers to Entry, Industry Consolidation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 88,
+        "question_text": "An analyst is attempting to calculate the intrinsic value of a company and has gathered the\nfollowing company data: EBITDA, total market value, and market value of cash and short-term\ninvestments, liabilities, and preferred shares. The analyst is least likely to use:",
+        "image": "",
+        "options": {
+            "A": "A.a multiplier model.",
+            "B": "B.a discounted cash flow model.",
+            "C": "C.an asset-based valuation model."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. To use a discounted cash flow model, the analyst will require\nFCFE or dividend data. In addition, the analyst will need data to calculate an appropriate\ndiscount rate. 中文 B是正确的。要使用贴现现金流模型，分析师需要FCFE或股息数据。此外，分析师需要\n数据来计算适当的贴现率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Discounted Cash Flow (DCF) Analysis, Free Cash Flow to Equity (FCFE), Dividend Discount Model",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 89,
+        "question_text": "Calculate the total return on a share of equity using the following data: Purchase price:\n$50 Sale price: $42 Dividend paid during holding period: $2",
+        "image": "",
+        "options": {
+            "A": "A.–12.0%",
+            "B": "B.–14.3%",
+            "C": "C.–16.0%"
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. The formula states Rt=（Pt-Pt-1＋Dt）/Pt-1.Therefore, total\nreturn =（42-50＋2）/50=-12.0%。 中文 A是正确的。Rt=（Pt-Pt-1＋Dt）/Pt-1。因此，总回报率=（42-\n50＋2）/50=-12.0%。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Total return calculation, Equity valuation, Investment performance measurement",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 90,
+        "question_text": "An analyst who bases the calculation of intrinsic value on dividend-paying capacity rather\nthan expected dividends will most likely use the:",
+        "image": "",
+        "options": {
+            "A": "A.dividend discount model.",
+            "B": "B.free cash flow to equity model.",
+            "C": "C.cash flow from operations model."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The FCFE model assumes that dividend-paying capacity is\nreflected in FCFE. 中文 B是正确的。FCFE模型假设股利支付能力反映在FCFE中。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Dividend Discount Models, Free Cash Flow to Equity (FCFE) Model, Equity Valuation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 91,
+        "question_text": "An analyst has determined that the appropriate EV/EBITDA for Rainbow Company is 10.2. The\nanalyst has also collected the following forecasted information for Rainbow Company: EBITDA =\n$22,000,000 Market value of debt = $56,000,000 Cash = $1,500,000The value of equity for Rainbow\nCompany is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$169 million.",
+            "B": "B.$224 million.",
+            "C": "C.$281 million."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct.EV = 10.2 × 22,000,000 = $224,400,000Equity value = EV – Debt +\nCash = 224,400,000 – 56,000,000 + 1,500,000 = $169,900,000 中文 A是正确的 企业价值=10.2 ×\n22,000,000 = $224,400,000 权益价值= EV – Debt＋Cash = 224,400,000 – 56,000,000 ＋1,500,000 =\n$169,900,000",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Valuation Metrics, Enterprise Value (EV), EBITDA",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 92,
+        "question_text": "When selecting companies for inclusion in a peer group, a company operating in three\ndifferent business segments would:",
+        "image": "",
+        "options": {
+            "A": "A.be in only one peer group.",
+            "B": "B.possibly be in more than one peer group.",
+            "C": "C.not be included in any peer group."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The company could be in more than one peer group depending on\nthe demand drivers for the business segments, although the multiple business segments may make\nit difficult to classify the company. 中文 B是正确的。根据业务部门的不同的需求，公司可能在多个\n同类组中，尽管多个业务部门可能使公司难以分类。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Peer Group Selection, Business Segmentation, Demand Drivers",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 93,
+        "question_text": "The primary difference between P/E multiples based on comparables and P/E multiples based on\nfundamentals is that fundamentals-based P/Es take into account:",
+        "image": "",
+        "options": {
+            "A": "A.future expectations.",
+            "B": "B.the law of one price.",
+            "C": "C.historical information."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Multiples based on comparables are grounded in the law of one\nprice and take into account historical multiple values. In contrast, P/E multiples based on\nfundamentals can be based on the Gordon growth model, which takes into account future expected\ndividends. A是正确的。 本题问基本面和可比乘数两者的区别是什么？基本面有什么特点？ 用价格乘数法\n估值主要基于一价定律，也就是如果两个标的整体规模和业务类似，此时，他们的市盈率等价格乘数，也应\n该保持一致。 价格乘数分为两类，可比乘数和基本面乘数。 基于可比数据的是使用可比公司的历史价格计\n算市盈率再乘以自家公司的每股收益（EPS），因此是考虑了历史数据。所以Ｃ是可比乘数的特点，题目问基\n本面乘数，不能选。 基于基本面的市盈率倍数主要用股利贴现模型计算内在价值，而贴现模型是基于未来预\n期股息折现求和，所以考虑的是未来的情况。选A。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Comparable Analysis, Fundamental Analysis, Gordon Growth Model",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 94,
+        "question_text": "An analyst gathers or estimates the following information about a stock:\nBased on a dividend discount model, the stock is most likely:",
+        "image": "",
+        "options": {
+            "A": "A.undervalued.",
+            "B": "B.fairly valued.",
+            "C": "C.overvalued."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The current price of €22.56 is less than the intrinsic value (V0) of\n€24.64; therefore, the stock appears to be currently undervalued. According to the two-stage\ndividend discount model:\n A是正确的。目前22.56欧元的价格低于24.64欧元的内在价值（V0）；因此，该股票目前被低估。根据两阶\n段股利贴现模型（如上）\n $$\nV_0 = \\sum_{t=1}^{n} \\frac{D_0 (1 + g_S)^t}{(1 + r)^t} + \\frac{V_n}{(1 + r)^n} \\quad \\text{and} \\quad V_n = \\frac{D_{n+1}}{r - g_L}\n$$\n$$\nD_{n+1} = D_0 (1 + g_S)^n (1 + g_L) \n$$\n$$\nD_1 = €1.60 \\times 1.09 = €1.744 \n$$\n$$\nD_2 = €1.60 \\times (1.09)^2 = €1.901 \n$$\n$$\nD_3 = €1.60 \\times (1.09)^3 = €2.072 \n$$\n$$\nD_4 = €1.60 \\times (1.09)^4 = €2.259 \n$$\n$$\nD_5 = [€1.60 \\times (1.09)^4](1.04) = €2.349 \n$$\n$$\nV_4 = \\frac{€2.349}{0.12 - 0.04} = €29.363 \n$$\n$$\nV_0 = \\frac{1.744}{(1.12)^1} + \\frac{1.901}{(1.12)^2} + \\frac{2.072}{(1.12)^3} + \\frac{2.259}{(1.12)^4} + \\frac{29.363}{(1.12)^4} \n$$\n$$\n= 1.557 + 1.515 + 1.475 + 1.436 +18.661 \n$$\n$$\n= €24.64 \\, (\\text{which is greater than the current price of} \\, €22.56)\n$$",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Dividend Discount Model, Intrinsic Value Calculation, Stock Valuation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 95,
+        "question_text": "An analyst gathers the following information about two companies:\n Which of the following statements is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Delta has the higher trailing P/E multiple and lower current estimated P/E multiple.",
+            "B": "B.Alpha has the higher trailing P/E multiple and lower current estimated P/E multiple.",
+            "C": "C.Alpha has the higher trailing P/E multiple and higher current estimated P/E multiple."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. P/E = Current price/EPS, and Estimated P/E = Current\nprice/Estimated EPS. Alpha P/E = $57.32/$3.82 = 15.01 Alpha estimated P/E = $57.32/4.75 = 12.07\nDelta P/E = $18.93/$1.35 = 14.02 Delta estimated P/E = $18.93/$1.40 = 13.52 中文 B是正确的。 分\n别使用历史数据和预测数据计算。 P/E = Current price/EPS, and Estimated P/E = Current\nprice/Estimated EPS. Alpha P/E = $57.32/$3.82 = 15.01 Alpha estimated P/E = $57.32/4.75 = 12.07\nDelta P/E = $18.93/$1.35 = 14.02 Delta estimated P/E = $18.93/$1.40 = 13.52",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Price/Earnings Ratio (P/E), Earnings Per Share (EPS), Price Analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 96,
+        "question_text": "Which of the following statements about commercial and government industry classification\nsystems is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Many commercial classification systems include private for-profit companies.",
+            "B": "B.Both commercial and government classification systems exclude not-for-profit companies.",
+            "C": "C.Commercial classification systems are generally updated more frequently than government"
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Commercial systems are generally updated more frequently than\ngovernment systems, and include only publicly traded for-profit companies. 中文 C是正确的。商业\n系统通常比政府系统更新得更频繁，而且只包括公开交易的营利性公司。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic classification systems, Financial regulation, Public vs. private sector analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 97,
+        "question_text": "With respect to Level III sponsored ADRs, which of the following is least likely to be\naccurate? They:",
+        "image": "",
+        "options": {
+            "A": "A.have low listing fees.",
+            "B": "B.are traded on the NYSE, NASDAQ, and AMEX.",
+            "C": "C.are used to raise equity capital in US markets."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The listing fees on Level III sponsored ADRs are high. A是正确的。三\n级的美国存托凭证的上市费用很高。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "American Depositary Receipts (ADRs), Financial instruments, Equity markets",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 98,
+        "question_text": "Venture capital investments:",
+        "image": "",
+        "options": {
+            "A": "A.can be publicly traded.",
+            "B": "B.do not require a long-term commitment of funds.",
+            "C": "C.provide mezzanine financing to early-stage companies."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Venture capital investments can be used to provide mezzanine\nfinancing to companies in their early stage of development. 中文 C是正确的。风险资本投资可用于\n为处于发展初期的公司提供夹层融资。这里不要将夹层融资方式和夹层融资阶段混淆。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Venture Capital, Mezzanine Financing, Early Stage Investment",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 99,
+        "question_text": "Which of the following is not a primary goal of raising equity capital?",
+        "image": "",
+        "options": {
+            "A": "A.To finance the purchase of long-lived assets.",
+            "B": "B.To finance the company’s revenue-generating activities.",
+            "C": "C.To ensure that the company continues as a going concern."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Capital is raised to ensure the company’s existence only when\nit is required. It is not a typical goal of raising capital. 中文 C是正确的。 筹资的首要目的是\n为了公司生存，只有在公司需要时才筹集资金以确保公司的存在。因此C这不是一个典型的筹资首要目标。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Corporate Finance, Equity Capital Raising, Financial Strategy",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 100,
+        "question_text": "The best model to use when valuing a young dividend-paying company that is just entering\nthe growth phase is most likely the:",
+        "image": "",
+        "options": {
+            "A": "A.Gordon growth model.",
+            "B": "B.two-stage dividend discount model.",
+            "C": "C.three-stage dividend discount model."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. The Gordon growth model is best suited to valuing mature\ncompanies. The two-stage model is best for companies that are transitioning from a growth stage\nto a mature stage. The three-stage model is appropriate for young companies just entering the\ngrowth phase. 中文 C是正确的。高登增长模型最适合评估成熟公司。两阶段模型最适合从成长阶段过渡到\n成熟阶段的公司。三阶段模式适合刚进入成长期的年轻公司。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Valuation Models for Companies in Different Growth Stages, Dividend Discount Models, Three-Stage Dividend Discount Model",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 101,
+        "question_text": "Which factor is most likely associated with stable market share?",
+        "image": "",
+        "options": {
+            "A": "A.Low switching costs.",
+            "B": "B.Low barriers to entry.",
+            "C": "C.Slow pace of product innovation."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. A slow pace of product innovation often means that customers\nprefer to stay with suppliers they know, implying stable market shares. 中文 C是正确的。缓慢的\n产品创新步伐往往意味着客户会一只选择原有的供应商，这意味着稳定的市场份额。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market competition, Product innovation, Consumer loyalty",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 102,
+        "question_text": "Which of the following is not a limitation of the cyclical/non-cyclical descriptive\napproach to classifying companies?",
+        "image": "",
+        "options": {
+            "A": "A.A cyclical company may have a growth component in it.",
+            "B": "B.Business-cycle sensitivity is a discrete phenomenon rather than a continuous spectrum.",
+            "C": "C.A global company can experience economic expansion in one part of the world while"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Business-cycle sensitivity falls on a continuum and is not a discrete\n“either–or” phenomenon. B是正确的。 本题考察关于周期和非周期行业的局限性。以下哪一项不属于周\n期与非周期行业划分的局限性? 我们知道非周期行业有两类，一类是成长性行业，一类是防御性行业。那么\n如果一个周期性行业的公司中有一个部门或者说一项业务是正处在成长期的，那么对于划分这个公司属于周\n期和非周期行业就带来了困难，所以说这是周期和非周期行业划分的局限性。A正确，不能选。 商业周期敏\n感性属于一个连续现象，不是一个离散的“非此即彼”现象。所以B错误，选B。 如果一家公司一部分处于成\n长期，一部分处于衰退期，也无法简单把公司按照周期性分类，所以C也是属于这种分类方法的缺点，不能选\n。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Classification of industries, Business cycle sensitivity, Continuum vs discrete concepts",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 103,
+        "question_text": "The market value of equity for a company can be calculated as enterprise value:",
+        "image": "",
+        "options": {
+            "A": "A.minus market value of debt, preferred stock, and short-term investments.",
+            "B": "B.plus market value of debt and preferred stock minus short-term investments.",
+            "C": "C.minus market value of debt and preferred stock plus short-term investments."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Enterprise value is calculated as the market value of equity\nplus the market value of debt and preferred stock minus short-term investments. Therefore, the\nmarket value of equity is enterprise value minus the market value of debt and preferred stock\nplus short-term investments. 中文 C是正确的。企业价值按权益市值加上债务和优先股市值减去短期投资\n计算。因此，股权的市场价值是企业价值减去债务和优先股的市场价值再加上短期投资。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Enterprise Value, Market Value of Equity, Capital Structure",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 104,
+        "question_text": "In asset-based valuation models, the intrinsic value of a common share of stock is based on\nthe:",
+        "image": "",
+        "options": {
+            "A": "A.estimated market value of the company’s assets.",
+            "B": "B.estimated market value of the company’s assets plus liabilities.",
+            "C": "C.estimated market value of the company’s assets minus liabilities."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Asset-based valuation models calculate the intrinsic value of\nequity by subtracting liabilities from the market value of assets. 中文 C是正确的。基于资产的估\n值模型通过从资产的市场价值中减去负债来计算权益的内在价值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Asset-based valuation, Intrinsic value, Financial statement analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 105,
+        "question_text": "In which sector would a manufacturer of personal care products be classified?",
+        "image": "",
+        "options": {
+            "A": "A.Health care.",
+            "B": "B.Consumer staples.",
+            "C": "C.Consumer discretionary."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Personal care products are classified as consumer staples in the\n“Description of Representative Sectors.” 中文 B是正确的。在“代表性行业说明”中，个人护理产品\n被列为消费者必需品。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Industry Classification, Consumer Staples, Sector Analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 106,
+        "question_text": "If a US-based investor purchases a euro-denominated ETF and the euro subsequently\ndepreciates in value relative to the dollar, the investor will have a total return that is:",
+        "image": "",
+        "options": {
+            "A": "A.lower than the ETF’s total return.",
+            "B": "B.higher than the ETF’s total return.",
+            "C": "C.the same as the ETF’s total return."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. The depreciated value of the euro will create an additional loss\nin the form of currency return that is lower than the ETF’s return. 中文 A是正确的。欧元贬值\n，因此会造成由于货币贬值带来的额外损失。总的收益就低于ETF本身的收益。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Currency Risk, Foreign Exchange Risk, Investment Return",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 107,
+        "question_text": "Which of the following companies most likely has the greatest ability to quickly increase\nits capacity to offer goods or services?",
+        "image": "",
+        "options": {
+            "A": "A.A restaurant",
+            "B": "B.A steel producer",
+            "C": "C.An insurance company"
+        },
+        "answer": "C",
+        "explanation": "Capacity increases in providing insurance services would not involve several\nfactors that would be important to the other two industries, including the need for substantial\nfixed capital investments or, in the case of a restaurant, outfitting rental or purchased\nspace. These requirements would tend to slow down, respectively, steel production and\nrestaurant expansion. 提供保险服务的能力增加不会涉及对其他两个行业很重要的几个因素，包括需要大\n量的固定资本投资，或者在餐馆的情况下，需要家具租赁或购买空间。这些需求将分别放缓钢铁生产和餐厅\n扩张。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Operational Risk, Industry Analysis, Capacity Management",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 108,
+        "question_text": "A basket of listed depository receipts, or an exchange-traded fund, would most likely be\nused for:",
+        "image": "",
+        "options": {
+            "A": "A.gaining exposure to a single equity.",
+            "B": "B.hedging exposure to a single equity.",
+            "C": "C.gaining exposure to multiple equities."
+        },
+        "answer": "C",
+        "explanation": "C is correct. An ETF is used to gain exposure to a basket of securities (equity,\nfixed income, commodity futures, etc.). C是正确的。ETF和一篮子的DR是对应多重的风险敞口而不是单\n一的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Diversification, Exchange-Traded Funds (ETFs), Depository Receipts",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 109,
+        "question_text": "Which of the following industries is most likely to be characterized as concentrated with\nstrong pricing power?\n ```\nExhibit 8    A Two-Factor Analysis of Industries\n\nConcentrated with Strong Pricing Power    Concentrated with Weak Pricing Power\n---------------------------------------------------------------------------\nOrthopedic Devices (Zimmer, Smith & Nephew)    Commercial Aircraft (Boeing, Airbus)\nBiotech (Amgen, Genzyme)    Automobiles (General Motors, Toyota, Daimler)\nPharmaceuticals (Merck & Co., Novartis)    Memory (DRAM & Flash Product, Samsung, Hynix)\nIndustrial Gases (Praxair, Air Products and Chemicals)    Semiconductor Equipment (Applied Materials, Tokyo Electron)\nEnterprise Networking (Cisco Systems)    Generic Drugs (Teva Pharmaceutical Industries, Sandoz)\nUS Defense (General Dynamics)    Printers/Office Machines (HP, Lexmark)\nHeavy Construction Equipment (Caterpillar, Komatsu)    Refiners (Valero, Marathon Oil)\nCredit Card Networks (MasterCard, Visa)    Major Integrated Oil (BP, ExxonMobil)\nInvestment Banking/Mergers & Acquisitions (Goldman Sachs, UBS)    \nFutures Exchanges (Chicago Mercantile Exchange, Intercontinental Exchange)    \nTobacco (Philip Morris, British American Tobacco)    \nAlcoholic Beverages (Diageo, Pernod Ricard)    \n\nFragmented with Strong Pricing Power    Fragmented with Weak Pricing Power\n---------------------------------------------------------------------------\nFor-Profit Education (Apollo Group, DeVry University)    Consumer Packaged Goods (Procter & Gamble, Unilever)\nAnalog Chips (Texas Instruments, STMicroelectronics)    Apparel (HanesBrands)\nIndustrial Distribution (Fastenal, W.W. Grainger)    Retail (Walmart, Carrefour Group)\nPropane Distribution (AmeriGas, Ferrellgas)    Marine Transportation (Maersk Line, Frontline)\nPrivate Banking (Northern Trust, Credit Suisse)    Solar Panels\n    Airlines\n    Restaurants\n    Life Insurance\n\nSource: Adapted from Morningstar Equity Research.\n```",
+        "image": "",
+        "options": {
+            "A": "A.Asset management.",
+            "B": "B.Alcoholic beverages.",
+            "C": "C.Household and personal products."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The alcoholic beverage industry is concentrated and possesses\nstrong pricing power.\n 中文 B是正确的。酒精饮料行业在集中行业中拥有强大的定价能力。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Structure, Pricing Power, Industry Concentration",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 110,
+        "question_text": "Which of the following statements regarding the calculation of the enterprise value\nmultiple is most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Operating income may be used instead of EBITDA.",
+            "B": "B.EBITDA may not be used if company earnings are negative.",
+            "C": "C.Book value of debt may be used instead of market value of debt."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Operating income may be used in place of EBITDA when calculating the\nenterprise value multiple. EBITDA may be used when company earnings are negative because EBITDA\nis usually positive. The book value of debt cannot be used in place of market value of debt.\nA是正确的。在计算企业价值倍数时，营业收入可代替息税折旧摊销前利润。当公司收益为负时，可以使用息\n税折旧摊销前利润，因为息税折旧摊销前利润通常为正。债务的账面价值不能代替债务的市场价值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Valuation Methods, Enterprise Value Calculation, Financial Ratios",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 111,
+        "question_text": "Which of the following industry characteristics is generally least likely to produce high\nreturns on capital?",
+        "image": "",
+        "options": {
+            "A": "A.High barriers to entry",
+            "B": "B.High degree of concentration",
+            "C": "C.Short lead time to build new plants"
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. With short lead times, industry capacity can be rapidly\nincreased to satisfy demand, but it may also lead to overcapacity and lower profits. 中文 C是正\n确的。由于建造新工厂的时间短，行业产能可以迅速增加以满足需求，但也可能导致产能过剩和利润下降。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Industry Analysis, Return on Capital, Capacity Management",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 112,
+        "question_text": "A company’s cost of equity is often used as a proxy for investors’:",
+        "image": "",
+        "options": {
+            "A": "A.average required rate of return.",
+            "B": "B.minimum required rate of return.",
+            "C": "C.maximum required rate of return."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Companies try to raise funds at the lowest possible cost.\nTherefore, cost of equity is used as a proxy for the minimum required rate of return. B是正确的\n。公司试图以尽可能低的成本筹集资金。因此，权益成本被用作最低要求回报率的代理。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cost of equity, Required rate of return, Capital raising",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 113,
+        "question_text": "Asset-based valuation models are best suited to companies where the capital structure does\nnot have a high proportion of:",
+        "image": "",
+        "options": {
+            "A": "A.Debt.",
+            "B": "B.Intangible assets.",
+            "C": "C.Current assets and liabilities."
+        },
+        "answer": "B",
+        "explanation": "Intangible assets are hard to value. Therefore, asset-based valuation models work\nbest for companies that do not have a high proportion of intangible assets.无形资产很难估价。因\n此，基于资产的估值模型最适合那些无形资产比例不高的公司。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Asset-based Valuation, Intangible Assets, Capital Structure",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 114,
+        "question_text": "Enterprise value is most often determined as market capitalization of common equity and\npreferred stock minus the value of cash equivalents plus the:",
+        "image": "",
+        "options": {
+            "A": "A.book value of debt.",
+            "B": "B.market value of debt.",
+            "C": "C.market value of long-term debt."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The market value of debt must be calculated and taken out of the\nenterprise value. Enterprise value, sometimes known as the cost of a takeover, is the cost of\nthe purchase of the company, which would include the assumption of the company’s debts at\nmarket value. B是正确的。债务的市场价值必须从企业价值中扣除。企业价值，有时被称为收购成本，是指\n购买公司的成本，包括以市场价值承担公司债务。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Enterprise Valuation, Market Capitalization, Market Value of Debt",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 115,
+        "question_text": "A population that is rapidly aging would most likely cause the growth rate of the industry\nproducing eye glasses and contact lenses to:",
+        "image": "",
+        "options": {
+            "A": "A.decrease.",
+            "B": "B.increase.",
+            "C": "C.not change."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Vision typically deteriorates at advanced ages. An increased number\nof older adults implies more eyewear products will be purchased. B是正确的。视力在老年时通常会\n退化。越来越多的老年人意味着将购买更多的眼镜产品。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Demographic trends, Industry growth, Market demand analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 116,
+        "question_text": "Book value is least likely to be considered when using:",
+        "image": "",
+        "options": {
+            "A": "A.a multiplier model.",
+            "B": "B.an asset-based valuation model.",
+            "C": "C.a present value model."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Multiplier valuation models (in the form of P/B) and asset-based\nvaluation models (in the form of adjustments to book value) use book value, whereas present\nvalue models typically discount future expected cash flows. 中文 C是正确的。乘数估值模型（比如\nP/B，市净率）和基于资产的估值模型（以账面价值调整的形式）都使用账面价值，而现值模型通常贴现未来\n预期现金流.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity Valuation Models, Multiplier Valuation Models, Asset-based Valuation Models",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 117,
+        "question_text": "An investor expects to purchase shares of common stock today and sell them after two years.\nThe investor has estimated dividends for the next two years, D1 and D2, and the selling price\nof the stock two years from now, P2. According to the dividend discount model, the intrinsic\nvalue of the stock today is the present value of:",
+        "image": "",
+        "options": {
+            "A": "A.next year’s dividend, D1.",
+            "B": "B.future expected dividends, D1 and D2.",
+            "C": "C.future expected dividends and price—D1, D2 and P2."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. According to the dividend discount model, the intrinsic value of\na stock today is the present value of all future dividends. In this case, the intrinsic value\nis the present value of D1, D2, and P2. Note that P2 is the present value at Period 2 of all\nfuture dividends from Period 3 to infinity. 中文 C是正确的。根据股利贴现模型，股票的内在价值是\n所有未来股利的现值。在这种情况下，内在值是D1、D2和P2的现值。请注意，P2是从第3期到无限期的所有未\n来股息在第2期的现值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Dividend Discount Model (DDM), Intrinsic Value Calculation, Present Value of Cash Flows",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 118,
+        "question_text": "A company that is sensitive to the business cycle would most likely:",
+        "image": "",
+        "options": {
+            "A": "A.not have growth opportunities.",
+            "B": "B.experience below-average fluctuation in demand.",
+            "C": "C.sell products that the customer can purchase at a later date if necessary."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Customers’ flexibility as to when they purchase the product\nmakes the product more sensitive to the business cycle. 中文 C是正确的。客户在购买产品时的灵活\n性使产品对商业周期更加敏感。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Business Cycle Sensitivity, Consumer Behavior, Economic Indicators",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 119,
+        "question_text": "Which of the following statements about private equity securities is incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.They cannot be sold on secondary markets.",
+            "B": "B.They have market-determined quoted prices.",
+            "C": "C.They are primarily issued to institutional investors."
+        },
+        "answer": "B",
+        "explanation": "Private equity securities do not have market-determined quoted prices.私募股权证券\n没有市场决定的报价。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Private equity, Securities valuation, Market efficiency",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 120,
+        "question_text": "An automotive manufacturer is most likely classified in which of the following industry\nsectors?",
+        "image": "",
+        "options": {
+            "A": "A.Consumer staples",
+            "B": "B.Industrial durables",
+            "C": "C.Consumer discretionary"
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Automotive manufacturers are classified as consumer\ndiscretionary. Consumer discretionary companies derive a majority of revenue from the sale of\nconsumer-related products for which demand tends to exhibit a high degree of economic\nsensitivity—that is, high demand during periods of economic expansion and low demand during\nperiods of contraction. 中文 C是正确的。汽车制造商被归类为非必需消费品。非必需消费品公司的产品\n的需求往往表现出高度的经济敏感性，即经济扩张期间的高需求和收缩期间的低需求。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Industry Classification, Consumer Discretionary Sector, Economic Sensitivity",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 121,
+        "question_text": "The Beasley Corporation has just paid a dividend of $1.75 per share. If the required rate\nof return is 12.3 percent per year and dividends are expected to grow indefinitely at a\nconstant rate of 9.2 percent per year, the intrinsic value of Beasley Corporation stock is\nclosest to:",
+        "image": "",
+        "options": {
+            "A": "A.$15.54.",
+            "B": "B.$56.45.",
+            "C": "C.$61.65."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. P0 = D1/(r – g) = 1.75(1.092)/(0.123 – 0.092) = $61.65. 中文\nC是正确的。P0 = D1/(r – g) = 1.75(1.092)/(0.123 – 0.092) = $61.65.美元。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Dividend Discount Model (DDM), Intrinsic Value Calculation, Growth Rate",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 122,
+        "question_text": "An equity analyst has been asked to estimate the intrinsic value of the common stock of\nOmega Corporation, a leading manufacturer of automobile seats. Omega is in a mature industry,\nand both its earnings and dividends are expected to grow at a rate of 3 percent annually. Which\nof the following is most likely to be the best model for determining the intrinsic value of an\nOmega share?",
+        "image": "",
+        "options": {
+            "A": "A.Gordon growth model.",
+            "B": "B.Free cash flow to equity model.",
+            "C": "C.Multistage dividend discount model."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. The company is a mature company with a steadily growing dividend\nrate. The two-stage (or multistage) model is unnecessary because the dividend growth rate is\nexpected to remain stable. Although an FCFE model could be used, that model is more often\nchosen for companies that currently pay no dividends. 中文 A是正确的。公司是一家成熟的公司，股\n息率稳步增长。两阶段（或多阶段）模型是不必要的，因为股息增长率预计将保持稳定。FCFE模型通常用语\n目前不支付股息的公司。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity Valuation Models, Dividend Discount Model, Free Cash Flow to Equity Model",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 123,
+        "question_text": "A cyclical company is most likely to:",
+        "image": "",
+        "options": {
+            "A": "A.have low operating leverage.",
+            "B": "B.sell relatively inexpensive products.",
+            "C": "C.experience wider-than-average fluctuations in demand."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Cyclical companies are sensitive to the business cycle, with low\nproduct demand during periods of economic contraction and high product demand during periods of\neconomic expansion. They, therefore, experience wider-than-average fluctuations in product\ndemand. 中文 C是正确的。周期性公司对商业周期很敏感，经济收缩期产品需求低，经济扩张期产品需求高\n。因此，它们的产品需求波动比平均水平更大。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cyclical companies, Business cycle, Economic contraction and expansion",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 124,
+        "question_text": "A price earnings ratio that is derived from the Gordon growth model is inversely related to\nthe:",
+        "image": "",
+        "options": {
+            "A": "A.growth rate.",
+            "B": "B.dividend payout ratio.",
+            "C": "C.required rate of return."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. The justified forward P/E is calculated as follows: P0/E1=\n(D1/E1)/r-gP/E is inversely related to the required rate of return, r, and directly related to\nthe growth rate, g, and the dividend payout ratio, D/E. 中文 C是正确的。市盈率计算如下\n：P0/E1=（D1/E1）/r-g 市盈率与要求的回报率r成反比，与增长率g和股利支付率D/E成正比关系。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Gordon Growth Model, Price-Earnings Ratio, Required Rate of Return",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 125,
+        "question_text": "Which of the following is most likely a reason for using asset-based valuation?",
+        "image": "",
+        "options": {
+            "A": "A.The analyst is valuing a privately held company.",
+            "B": "B.The company has a relatively high level of intangible assets.",
+            "C": "C.The market values of assets and liabilities are different from the balance sheet values."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Asset-based valuations are most often used when an analyst is\nvaluing private enterprises. Both B and C are considerations in asset-based valuations but are\nmore likely to be reasons to avoid that valuation model rather than reasons to use it. 中文 A是\n正确的。当分析师对私营企业进行估值时，最常用的是基于资产的估值。 因为asset-based valuation中\nequity的价值=资产的公允价值-负债的公允价值。这两个价值都是现在资产的价值，不考虑未来的增长。而\n传统的现金流折现模型，用未来现金流折现求和，要考虑未来的增长。所以asset-based作为不考虑增长的模\n型，估计出来的价值是更保守的价值，对于非上市公司来说，因为风险更高，所以用更保险的方法估值，是\n更合适的。 在基于资产的估值中，B和C都是考虑因素，但更可能是避免使用该估值模型的理由，而不是使用\n该模型的理由。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Private company valuation, Asset-based valuation, Valuation methods",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 126,
+        "question_text": "A disadvantage of the EV method for valuing equity is that the following information may be\ndifficult to obtain:",
+        "image": "",
+        "options": {
+            "A": "A.Operating income.",
+            "B": "B.Market value of debt.",
+            "C": "C.Market value of equity."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. According to the reading, analysts may have not have access to\nmarket quotations for company debt. 中文 B是正确的。分析师可能无法获得公司债务的市场报价。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Valuation Methods, Market Quotations, Equity Valuation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 127,
+        "question_text": "In which of the following life-cycle phases are price wars most likely to be absent?",
+        "image": "",
+        "options": {
+            "A": "A.Mature.",
+            "B": "B.Decline.",
+            "C": "C.Growth."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The growth phase is not likely to experience price wars because\nexpanding industry demand provides companies the opportunity to grow even without increasing\nmarket share. When industry growth is stagnant, companies may only be able to grow by\nincreasing market share, e.g., by engaging in price competition. C是正确的。增长阶段不太可能经\n历价格战，即使没有增加市场份额,不断扩大的行业需求为企业提供了增长的机会。当行业增长停滞不前时\n，企业可能只能通过增加市场份额（如参与价格竞争）来实现增长。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Industry life cycle, Market competition, Growth phase",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 128,
+        "question_text": "The Gordon growth model can be used to value dividend-paying companies that are:",
+        "image": "",
+        "options": {
+            "A": "A.expected to grow very fast.",
+            "B": "B.in a mature phase of growth.",
+            "C": "C.very sensitive to the business cycle."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The Gordon growth model (also known as the constant growth\nmodel) can be used to value dividend-paying companies in a mature phase of growth. A stable\ndividend growth rate is often a plausible assumption for such companies. 中文 B是正确的。高登增\n长模型（也称为持续增长模型）可用于评估处于成熟增长阶段的派息公司。对于这些公司来说，稳定的股息\n增长率通常是一个合理的假设。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Valuation Models, Dividend Discount Model, Stable Growth Companies",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 129,
+        "question_text": "Which of the following statements most accurately describes one difference between private\nand public equity firms?",
+        "image": "",
+        "options": {
+            "A": "A.Private equity firms are focused more on short-term results than public firms.",
+            "B": "B.Private equity firms’ regulatory and investor relations operations are less costly than\nthose of public firms.",
+            "C": "C.Private equity firms are incentivized to be more open with investors about governance and"
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Regulatory and investor relations costs are lower for private\nequity firms than for public firms. There are no stock exchange, regulatory, or shareholder\ninvolvements with private equity, whereas for public firms these costs can be high. 中文 B是正\n确的。私募股权公司的监管和投资者关系成本低于上市公司。私募股权不涉及证券交易所、监管机构或股东\n参与，而对于上市公司来说，这些成本可能很高。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Private Equity, Public Equity, Regulatory Costs",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 130,
+        "question_text": "An analyst makes the following statement: “Use of P/E and other multiples for analysis is\nnot effective because the multiples are based on historical data and because not all companies\nhave positive accounting earnings.” The analyst’s statement is most likely:",
+        "image": "",
+        "options": {
+            "A": "A.inaccurate with respect to both historical data and earnings.",
+            "B": "B.accurate with respect to historical data and inaccurate with respect to earnings.",
+            "C": "C.inaccurate with respect to historical data and accurate with respect to earnings."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The statement is inaccurate in both respects. Although multiples can\nbe calculated from historical data, forecasted values can be used as well. For companies\nwithout accounting earnings, several other multiples can be used. These multiples are often\nspecific to a company’s industry or sector and include price-to-sales and price-to-cash flow.\nA是正确的。这句话在两方面都不准确。虽然倍数可以从历史数据中计算出来，但也可以使用预测值。对于没\n有会计盈余的公司，可以使用其他几个倍数。包括市现率市销率等。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Valuation Multiples, Earnings Forecasting, Industry-Specific Multiples",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 131,
+        "question_text": "With regard to forming a company’s peer group, which of the following statements is not\ncorrect?",
+        "image": "",
+        "options": {
+            "A": "A.Comments from the management of the company about competitors are generally not used when\nselecting the peer group.",
+            "B": "B.The higher the proportion of revenue and operating profit of the peer company derived from\nbusiness activities similar to the subject company, the more meaningful the comparison.",
+            "C": "C.Comparing the company’s performance measures with those for a potential peer-group company"
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct because it is a false statement. Reviewing the annual report to\nfind management’s discussion about the competitive environment and specific competitors is a\nsuggested step in the process of constructing a peer group. 中文 A是正确的，因为它是一个错误的\n陈述。回顾年度报告，找出管理层对竞争环境和特定竞争对手的讨论，是构建同类小组的建议步骤",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Peer group analysis, Competitive environment, Annual report analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 132,
+        "question_text": "Which of the following is most likely a characteristic of a concentrated industry?",
+        "image": "",
+        "options": {
+            "A": "A.Infrequent, tacit coordination.",
+            "B": "B.Difficulty in monitoring other industry members.",
+            "C": "C.Industry members attempting to avoid competition on price."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. The relatively few members of the industry generally try to\navoid price competition. 中文 行业中相对较少的成员通常试图避免价格竞争。相比之下，在集中的行业\n中，每个参与者都可以相对容易地跟踪其竞争对手在做什么，这使得默契协作更加可行。所以A应该是\nfrequent而不是infrequent.B是easier。 集中度高的市场比如寡头垄断的行业，会尽可能的去避免打价格战\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Structures, Oligopoly, Industry Concentration",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 133,
+        "question_text": "An investor is considering the purchase of a common stock with a $2.00 annual dividend. The\ndividend is expected to grow at a rate of 4 percent annually. If the investor’s required rate\nof return is 7 percent, the intrinsic value of the stock is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$50.00.",
+            "B": "B.$66.67.",
+            "C": "C.$69.33."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. According to the Gordon growth model, V0 = D1/(r – g). In this\ncase, D1 = $2.00 × 1.04 = $2.08, so V0 = $2.08/(0.07 – 0.04) = $69.3333 = $69.33. 中文 C是正\n确的。根据高登增长模型，V0=D1/（r-g）。这道题目中，D1=$2.00×1.04=$2.08，所以V0 = $2.08/(0.07\n– 0.04) = $69.3333 = $69.33.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Gordon Growth Model, Dividend Discount Model, Intrinsic Value Calculations",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 134,
+        "question_text": "Which of the following life-cycle phases is typically characterized by high prices?",
+        "image": "",
+        "options": {
+            "A": "A.Mature.",
+            "B": "B.Growth.",
+            "C": "C.Embryonic."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. The embryonic stage is characterized by slow growth and high\nprices. 中文 C是正确的。胚胎期的特点是生长缓慢，价格高。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Business Life Cycle Phases, Pricing Strategies, Market Dynamics",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 135,
+        "question_text": "Calculate the return on equity (ROE) of a stable company using the following data:",
+        "image": "",
+        "options": {
+            "A": "A.10.0%.",
+            "B": "B.13.3%.",
+            "C": "C.16.7%."
+        },
+        "answer": "B",
+        "explanation": "B is correct. A company’s ROE is calculated as (NIt/BVEt–1). The BVEt–1 is equal\nto the beginning total assets minus the beginning total liabilities, which equals ￡50,000,000\n– ￡35,000,000 = ￡15,000,000. Therefore, ROE = ￡2,000,000/￡15,000,000 = 13.3%. B 是正确的\n，本题没有给出期末的账面净值。因此用期初账面净值代替平均。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Return on Equity (ROE) calculation, Balance Sheet interpretation, Financial ratio analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 136,
+        "question_text": "A Canadian life insurance company has an issue of 4.80 percent, $25 par value, perpetual,\nnon-convertible, non-callable preferred shares outstanding. The required rate of return on\nsimilar issues is 4.49 percent. The intrinsic value of a preferred share is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$25.00.",
+            "B": "B.$26.75.",
+            "C": "C.$28.50."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The expected annual dividend is 4.80% × $25 = $1.20. The value\nof a preferred share is $1.20/0.0449 = $26.73. 中文 B是正确的。预期年度股息为4.80%×25美元\n=1.20美元。优先股价值为1.20美元/0.0449 =26.73美元。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Preferred stock valuation, Dividend yield calculation, Discount rate application",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 137,
+        "question_text": "From an investor’s point of view, which of the following equity securities is the least\nrisky?",
+        "image": "",
+        "options": {
+            "A": "A.Putable preference shares.",
+            "B": "B.Callable preference shares.",
+            "C": "C.Non-callable preference shares."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Putable shares, whether common or preference, give the investor\nthe option to sell the shares back to the issuer at a pre-determined price. This pre-determined\nprice creates a floor for the share’s price that reduces the uncertainty of future cash flows\nfor the investor (i.e., lowers risk relative to the other two types of shares listed). 中文 A是\n正确的。可售回的股票，无论是普通股还是优先股，都给予投资者以预先确定的价格将股票售回给发行人的\n选择权。这一预先确定的价格为股票价格创造了一个下限，降低了投资者未来现金流的不确定性（即相对于\n其他两种上市股票而言，降低了风险）。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Equity securities, Risk management, Option strategies",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 138,
+        "question_text": "Participating preference shares entitle shareholders to:",
+        "image": "",
+        "options": {
+            "A": "A.participate in the decision-making process of the company.",
+            "B": "B.convert their shares into a specified number of common shares.",
+            "C": "C.receive an additional dividend if the company’s profits exceed a pre-determined level."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Participating preference shares entitle shareholders to receive\nan additional dividend if the company’s profits exceed a pre-determined level. 中文 C是正确的\n。如果公司利润超过预定水平，参与优先股使股东有权获得额外股息。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Corporate finance, Equity instruments, Dividend policy",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 139,
+        "question_text": "When graphically depicting the life-cycle model for an industry as a curve, the variables\non the axes are:",
+        "image": "",
+        "options": {
+            "A": "A.price and time.",
+            "B": "B.demand and time.",
+            "C": "C.demand and stage of the life cycle."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The industry life-cycle model shows how demand evolves through\ntime as an industry passes from the embryonic stage through the stage of decline. 中文 B是正确\n的。产业生命周期模型显示了当一个产业从萌芽阶段进入衰退阶段时，需求是如何随时间演变的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Industry life-cycle analysis, Demand evolution stages, Graphical analysis of market trends",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 140,
+        "question_text": "Which of the following is incorrect about the risk of an equity security? The risk of an\nequity security is:",
+        "image": "",
+        "options": {
+            "A": "A.based on the uncertainty of its cash flows.",
+            "B": "B.based on the uncertainty of its future price.",
+            "C": "C.measured using the standard deviation of its dividends."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Some equity securities do not pay dividends, and therefore the\nstandard deviation of dividends cannot be used to measure the risk of all equity securities. 这\n道题目要求选择错误的，也就是以下哪一项不能描述股票的风险？ A依据现金流的波动。公司现金流的波动\n可以反应公司的收益变化，这种不确定性会影响股价变化，所以可以描述股票风险。 B价格波动可以充分反\n应股票投资的不确定性，体现收益的波动，所以也可以描述股票风险 但是C只衡量股利的波动，但是股票收\n益率既包括了股利的收益和资本利得收益，而资本利得收益本身波动更大，所以只考虑股利收益的波动可能\n会低估整体股票投资的风险。 所以本题选C。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Equity security risk, Dividend yield variability, Capital gains volatility",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 141,
+        "question_text": "Which of the following is most likely used in a present value model?",
+        "image": "",
+        "options": {
+            "A": "A.Enterprise value.",
+            "B": "B.Price to free cash flow.",
+            "C": "C.Free cash flow to equity."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. FCFE can be used in a form of present value, or discounted cash\nflow, model. Both EV and price to free cash flow are forms of multiplier models. 中文 C是正确的\n。股东自有现金流可以用于现金流折现模型。EV和价格自由现金流比率都是乘数模型的形式。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Discounted Cash Flow (DCF), Free Cash Flow to Equity (FCFE), Multiplier Models",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 142,
+        "question_text": "Which industry classification system uses a three-tier classification system?",
+        "image": "",
+        "options": {
+            "A": "A.Russell Global Sectors.",
+            "B": "B.Industry Classification Benchmark.",
+            "C": "C.Global Industry Classification Standard."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The Russell system uses three tiers, whereas the other two systems\nare based on four tiers or levels. A是正确的。Russell系统使用三层，而其他两个系统基于四层。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Industry classification systems, Russell system, Tier structures",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 143,
+        "question_text": "An industry with high barriers to entry and weak pricing power most likely has:",
+        "image": "",
+        "options": {
+            "A": "A.high barriers to exit.",
+            "B": "B.stable market shares.",
+            "C": "C.significant numbers of issued patents."
+        },
+        "answer": "A",
+        "explanation": "A is correct. An industry that has high barriers to entry generally requires\nsubstantial physical capital and/or financial investment. With weak pricing power in the\nindustry, finding a buyer for excess capacity (i.e., to exit the industry) may be difficult.中\n文A是正确的。我们上课的时候说过要有高的定价能力除了进入壁垒高，退出壁垒要低。本题中进入壁垒高\n，需要大量的实物资本和/或金融投资。但是由于该行业定价能力较弱，说明该行业的退出壁垒也高，退出可\n能很困难，所以只能留在行业中竞争造成产能过剩。因此定价能力就差。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Barriers to entry, Pricing power, Industry analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 144,
+        "question_text": "Which of the following is least likely to be a reason for a company to issue equity\nsecurities on the primary market?",
+        "image": "",
+        "options": {
+            "A": "A.To raise capital.",
+            "B": "B.To increase liquidity.",
+            "C": "C.To increase return on equity."
+        },
+        "answer": "B",
+        "explanation": null,
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Primary Markets, Equity Securities, Corporate Financing",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 145,
+        "question_text": "An analyst has prepared a table of the average trailing twelve-month price-to-earning\n(P/E), price-to-cash flow (P/CF), and price-to-sales (P/S) for the Tanaka Corporation for the\nyears 2014 to 2017.\nAs of the date of the valuation in 2018, the trailing twelve-month P/E, P/CF, and P/S are,\nrespectively, 9.2, 8.0, and 2.5. Based on the information provided, the analyst may reasonably\nconclude that Tanaka shares are most likely:",
+        "image": "",
+        "options": {
+            "A": "A.overvalued.",
+            "B": "B.undervalued.",
+            "C": "C.fairly valued."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Tanaka shares are most likely overvalued. As the table below shows,\nall the 2018 multiples are currently above their 2014–2017 averages.\n A是正确的。Tanaka的股票很可能被高估了。所有2018年的倍数目前均高于2014-2017年的平均值。\n \\begin{table}[ht]\n\\centering\n\\begin{tabular}{cccc}\n\\hline\nYear & P/E & P/CF & P/S \\\\\n\\hline\n2014 & 4.9 & 5.4 & 1.2 \\\\\n2015 & 6.1 & 8.6 & 1.5 \\\\\n2016 & 8.3 & 7.3 & 1.9 \\\\\n2017 & 9.2 & 7.9 & 2.3 \\\\\n\\hline\n\\end{tabular}\n\\end{table}\n\n\\begin{table}[ht]\n\\centering\n\\begin{tabular}{cccc}\n\\hline\nYear & P/E & P/CF & P/R \\\\\n\\hline\n2014 & 4.9 & 5.4 & 1.2 \\\\\n2015 & 6.1 & 8.6 & 1.5 \\\\\n2016 & 8.3 & 7.3 & 1.9 \\\\\n2017 & 9.2 & 7.9 & 2.3 \\\\\n\\hline\nAverage & 7.1 & 7.3 & 1.7 \\\\\n\\hline\n\\end{tabular}\n\\end{table}",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial Ratios Analysis, Equity Valuation, Market Indicators",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 146,
+        "question_text": "If over a long period of time a country’s average level of educational accomplishment\nincreases, this development would most likely lead to the country’s amount of income spent on\nconsumer discretionary goods to:",
+        "image": "",
+        "options": {
+            "A": "A.decrease.",
+            "B": "B.increase.",
+            "C": "C.not change."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. As their educational level increases, workers are able to\nperform more skilled tasks, earn higher wages, and as a result, have more income left for\ndiscretionary expenditures. 中文 B是正确的。随着受教育程度的提高，工人能够完成更多的技能性工作\n，赚取更高的工资，因此，他们有更多的收入可用于自由支配的支出。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Human Capital, Consumer Behavior, Economic Development",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 147,
+        "question_text": "Two analysts estimating the value of a non-convertible, non-callable, perpetual preferred\nstock with a constant dividend arrive at different estimated values. The most likely reason for\nthe difference is that the analysts used different:",
+        "image": "",
+        "options": {
+            "A": "A.time horizons.",
+            "B": "B.required rates of return.",
+            "C": "C.estimated dividend growth rates."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. The required rate of return, r, can vary widely depending on the\ninputs and is not unique. A preferred stock with a constant dividend would not have a growth\nrate to estimate, and the investor’s time horizon would have no effect on the calculation of\nintrinsic value. 中文 B是正确的。所需的回报率r可以根据输入数据的不同而有很大的差异，并且不是唯\n一的。股息不变的优先股不会有增长率可估计，投资者的时间范围也不会影响内在价值的计算。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Capital budgeting and valuation, Dividend discount model, Required rate of return",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 148,
+        "question_text": "Hideki Corporation has just paid a dividend of ￥450 per share. Annual dividends are\nexpected to grow at the rate of 4 percent per year over the next four years. At the end of four\nyears, shares of Hideki Corporation are expected to sell for ￥9000. If the required rate of\nreturn is 12 percent, the intrinsic value of a share of Hideki Corporation is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.￥5,850.",
+            "B": "B.￥7,220.",
+            "C": "C.￥7,670."
+        },
+        "answer": "B",
+        "explanation": "$$\nV_0 = \\frac{D_1}{(1 + r)} + \\frac{D_2}{(1 + r)^2} + \\frac{D_3}{(1 + r)^3} + \\frac{D_4}{(1 + r)^4} + \\frac{P_4}{(1 + r)^4}\n$$\n\n$$\n= \\frac{468}{(1.12)} + \\frac{486.72}{(1.12)^2} + \\frac{506.19}{(1.12)^3} + \\frac{526.44}{(1.12)^4} + \\frac{9000}{(1.12)^4}\n$$\n\n$$\n= ¥7,220\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Dividend Discount Model (DDM), Time Value of Money, Required Rate of Return",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 149,
+        "question_text": "An analyst has gathered the following information for the Oudin Corporation: Expected\nearnings per share = €5.70 Expected dividends per share = €2.70 Dividends are expected to\ngrow at 2.75 percent per year indefinitely The required rate of return is 8.35 percent Based on\nthe information provided, the price/earnings multiple for Oudin is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.5.7.",
+            "B": "B.8.5.",
+            "C": "C.9.4."
+        },
+        "answer": "B",
+        "explanation": "B is correct.\n $$\n\\frac{P_0}{E_1} = \\frac{\\frac{D_1}{E_1}}{r - g} = \\frac{\\frac{2.7}{5.7}}{0.0835 - 0.0275} = 8.5\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Equity valuation, Dividend discount model, Price/Earnings multiple",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 150,
+        "question_text": "With respect to present value models, which of the following statements is most accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Present value models can be used only if a stock pays a dividend.",
+            "B": "B.Present value models can be used only if a stock pays a dividend or is expected to pay a\ndividend.",
+            "C": "C.Present value models can be used for stocks that currently pay a dividend, are expected to"
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Dividend discount models can be used for a stock that pays a\ncurrent dividend or a stock that is expected to pay a dividend. FCFE can be used for both of\nthose stocks and for stocks that do not, or are not expected to, pay dividends in the near\nfuture. Both of these models are forms of present value models. 中文 C是正确的。股利贴现模型可\n用于支付当期股利的股票或预期支付股利的股票。FCFE既可用于上述股票，也可用于近期内不派息或预期不\n会派息的股票。这两种模型都是现值模型的形式。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Dividend Discount Models, Free Cash Flow to Equity (FCFE), Present Value Models",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 151,
+        "question_text": "An industry that most likely has both high barriers to entry and high barriers to exit is\nthe:",
+        "image": "",
+        "options": {
+            "A": "A.restaurant industry.",
+            "B": "B.advertising industry.",
+            "C": "C.automobile industry."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. For the automobile industry, the high capital requirements and\nother elements mentioned in the reading provide high barriers to entry, and recognition that\nauto factories are generally only of use for manufacturing cars implies a high barrier to exit.\n中文 C是正确的。对于汽车行业来说，题干中提到的高资本要求和其他因素提供了很高的进入壁垒，而生产\n汽车的制造型企业意味着很高的退出壁垒。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Barriers to entry, Barriers to exit, Industry analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 152,
+        "question_text": "When graphically depicting the life-cycle model for an industry as a curve, the variables\non the axes are:",
+        "image": "",
+        "options": {
+            "A": "A.Price and time.",
+            "B": "B.Demand and time.",
+            "C": "C.Demand and stage of the life cycle."
+        },
+        "answer": "B",
+        "explanation": "The industry life-cycle model shows how demand evolves through time as an industry\npasses from the embryonic stage through the stage of decline.产业生命周期模型显示了当一个产业从\n萌芽阶段进入衰退阶段时，需求是如何随时间演变的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Industry life-cycle model, Demand evolution, Graphical representation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 153,
+        "question_text": "Asset-based valuation models are best suited to companies where the capital structure does\nnot have a high proportion of:",
+        "image": "",
+        "options": {
+            "A": "A.debt.",
+            "B": "B.intangible assets.",
+            "C": "C.current assets and liabilities."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Intangible assets are hard to value. Therefore, asset-based valuation\nmodels work best for companies that do not have a high proportion of intangible assets.B是正确\n的。无形资产很难估价。因此，基于资产的估值模型最适合那些无形资产比例不高的公司。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Intangible Assets, Asset-Based Valuation Models, Capital Structure",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 154,
+        "question_text": "If the technology for an industry involves high fixed capital investment, then one way to\nseek higher profit growth is by pursuing:",
+        "image": "",
+        "options": {
+            "A": "A.economies of scale.",
+            "B": "B.diseconomies of scale.",
+            "C": "C.removal of features that differentiate the product or service provided."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Seeking economies of scale would tend to reduce per-unit costs\nand increase profit. 中文 A是正确的。寻求规模经济往往会降低单位成本，增加利润。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Economies of scale, Fixed capital investment, Profit growth strategies",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 155,
+        "question_text": "Calculate the book value of a company using the following information:",
+        "image": "",
+        "options": {
+            "A": "A.4,500,000.",
+            "B": "B.€5,200,000.",
+            "C": "C.€6,500,000."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. The book value of the company is equal to total assets minus\ntotal liabilities, which is €12,000,000 – €7,500,000 = €4,500,000. 中文 A是正确的。 公司的\n账面价值等于总资产减去总负债。€12,000,000 – €7,500,000 = €4,500,000",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Book Value Calculation, Financial Statements, Balance Sheet Analysis",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 156,
+        "question_text": "With respect to competitive strategy, a company with a successful cost leadership strategy\nis most likely characterized by:",
+        "image": "",
+        "options": {
+            "A": "A.a low cost of capital.",
+            "B": "B.reduced market share.",
+            "C": "C.the ability to offer products at higher prices than competitors."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. Companies with low cost strategies must be able to invest in\nproductivity-improving equipment and finance that investment at a low cost of capital. Market\nshare and pricing depend on whether the strategy is pursued defensively or offensively. 中文\nA是正确的。具有低成本战略的公司必须有能力投资于提高生产率的设备，并以低成本的资本为投资提供资金\n。市场份额和定价取决于战略是防御性的还是进攻性的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Competitive Strategy, Cost Leadership, Investment in Productivity",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 157,
+        "question_text": "An analyst gathers the following information about similar companies in the banking sector:\n \n Which of the companies is most likely to be undervalued?",
+        "image": "",
+        "options": {
+            "A": "A.First Bank.",
+            "B": "B.Prime Bank.",
+            "C": "C.Pioneer Trust."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Relative to the others, Pioneer Trust has the lowest P/E\nmultiple and the P/B multiple is tied for the lowest with Prime Bank. Given the law of one\nprice, similar companies should trade at similar P/B and P/E levels. Thus, based on the\ninformation presented, Pioneer is most likely to be undervalued. 中文 C是正确的。Pioneer信托的\n市盈率最低，与Prime Bank的市盈率相同。考虑到一价定律，类似的公司应该在相似的市净率和市盈率水平\n上进行交易。因此，根据所提供的信息，Pioneer最有可能被低估。\n \\begin{array}{lccc}\n& \\text{First Bank} & \\text{Prime Bank} & \\text{Pioneer Trust} \\\\\n\\hline\n\\text{P/B} & 1.10 & 0.60 & 0.60 \\\\\n\\text{P/E} & 8.40 & 11.10 & 8.30 \\\\\n\\end{array}",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Law of One Price, Price-to-Earnings Ratio (P/E), Price-to-Book Ratio (P/B)",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": 158,
+        "question_text": "The type of equity voting right that grants one vote for each share of equity owned is\nreferred to as:",
+        "image": "",
+        "options": {
+            "A": "A.Proxy voting.",
+            "B": "B.Statutory voting.",
+            "C": "C.Cumulative voting."
+        },
+        "answer": "B",
+        "explanation": "Statutory voting is the type of equity voting right that grants one vote per share\nowned.法定表决权是授予所持股份一票表决权的一种股权表决权。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity voting rights, Corporate governance, Shareholder rights",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 159,
+        "question_text": "Which of the following information about a company would most likely depend on an industry\nanalysis? The company’s:",
+        "image": "",
+        "options": {
+            "A": "A.treatment\\nof long-lived assets on its financial statements.",
+            "B": "B.competitive environment.",
+            "C": "C.trends in corporate expenses."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Determination of a company’s competitive environment depends on\nunderstanding its industry. 中文 B是正确的。企业竞争环境的确定取决于对行业的了解。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Industry analysis, Competitive environment, Company evaluation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 160,
+        "question_text": "Which of the following statements is most accurate in describing a company’s book value?",
+        "image": "",
+        "options": {
+            "A": "A.Book value increases when a company retains its net income.",
+            "B": "B.Book value is usually equal to the company’s market value.",
+            "C": "C.The ultimate goal of management is to maximize book value."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. A company’s book value increases when a company retains its net\nincome. 中文 A是正确的。 当公司保留净利润时，公司的账面价值会增加。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial statement analysis, Equity valuation, Corporate finance",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 161,
+        "question_text": "All of the following are characteristics of preference shares except:",
+        "image": "",
+        "options": {
+            "A": "A.They are either callable or putable.",
+            "B": "B.They generally do not have voting rights.",
+            "C": "C.They do not share in the operating performance of the company."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Preference shares do not have to be either callable or putable. A是正\n确的。Either or的意思是说要么是可赎回要么是可售回。优先股不必是可赎回或可售回的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Equity Securities, Corporate Finance, Financial Instruments",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 162,
+        "question_text": "In the free cash flow to equity (FCFE) model, the intrinsic value of a share of stock is\ncalculated as:",
+        "image": "",
+        "options": {
+            "A": "A.the present value of future expected FCFE.",
+            "B": "B.the present value of future expected FCFE plus net borrowing.",
+            "C": "C.the present value of future expected FCFE minus fixed capital investment."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. In the FCFE model, the intrinsic value of stock is calculated by\ndiscounting expected future FCFE to present value. No further adjustments are required. 中文\nA是正确的。在FCFE模型中，股票的内在价值是通过将预期未来FCFE折现为现值来计算的。无需进一步调整。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Free Cash Flow to Equity (FCFE), Intrinsic Value, Discounting Cash Flows",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 163,
+        "question_text": "Economic value is created for an industry’s shareholders when the industry earns a return:",
+        "image": "",
+        "options": {
+            "A": "A.below the cost of capital.",
+            "B": "B.equal to the cost of capital.",
+            "C": "C.above the cost of capital."
+        },
+        "answer": "C",
+        "explanation": "英文 C is correct. Economic profit is earned and value created for shareholders\nwhen the company earns returns above the company’s cost of capital. 中文 C是正确的。当获得高于\n公司资本的成本时，公司为股东创造经济利润和价值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cost of Capital, Economic Profit, Shareholder Value Creation",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 164,
+        "question_text": "Which of the following statements about private equity securities is incorrect?",
+        "image": "",
+        "options": {
+            "A": "A.They cannot be sold on secondary markets.",
+            "B": "B.They have market-determined quoted prices.",
+            "C": "C.They are primarily issued to institutional investors."
+        },
+        "answer": "B",
+        "explanation": "英文 B is correct. Private equity securities do not have market-determined quoted\nprices. 中文 B是正确的。私募股权证券是非上市的。因此没有市场决定的报价。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Private Equity, Market Quotation, Securities Pricing",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 165,
+        "question_text": "When investing in unsponsored depository receipts, the voting rights to the shares in the\ntrust belong to:",
+        "image": "",
+        "options": {
+            "A": "A.the depository bank.",
+            "B": "B.the investors in the depository receipts.",
+            "C": "C.the issuer of the shares held in the trust."
+        },
+        "answer": "A",
+        "explanation": "英文 A is correct. In an unsponsored DR, the depository bank owns the voting rights\nto the shares. The bank purchases the shares, places them into a trust, and then sells shares\nin the trust—not the underlying shares—in other markets. 中文 A是正确的。在非托管存托凭证中\n，存托银行拥有股票的投票权。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Depository receipts, Voting rights, Investment vehicles",
+        "book label": "level1_权益",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

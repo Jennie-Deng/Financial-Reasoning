@@ -1,0 +1,749 @@
+[
+    {
+        "share_context": [
+            "Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant\nportfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and\ninstitutional investors. Chen asks Garcia to analyze certain information relating to Aycrig\nFund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under\nmanagement (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer\ncoefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen\ndirects Garcia to determine the maximum position size that Manager A can hold in shares of\nPasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of\n0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A\nhas the following position size policy constraints:\n■Allocation: No investment in any security may represent more than 3% of total AUM.\n■Liquidity: No position size may represent more than 10% of the dollar value of the security's\nADV.\n■Index weight: The maximum position weight must be less than or equal to 10 times the\nsecurity's weight in the index.Manager B holds a highly diversified portfolio that has balanced\nexposures to rewarded risk factors, high active share, and a relatively low active risk\ntarget.Selected data on Manager C's portfolio, which contains three assets, is presented in\nExhibit 1.\nChen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios\nX, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha\nskills, and their factor exposures align with both Aycrig's and investors' expectations and\nconstraints. The portfolio factor exposures, risk contributions, and risk characteristics are\npresented in Exhibits 2 and 3.\n \nChen and Garcia next discuss characteristics of long–short and long-only investing. Garcia\nmakes the following statements about investing with long–short and long-only managers:\nStatement 1: A long–short portfolio allows for a gross exposure of 100%.\nStatement 2: A long-only portfolio generally allows for greater investment capacity than other\napproaches, particularly when using strategies that focus on large-cap stocks.\nChen and Garcia then turn their attention to portfolio management approaches. Chen prefers an\napproach that emphasizes security-specific factors, engages in factor timing, and typically\nleads to portfolios that are generally more concentrated than those built using a systematic\napproach.\n "
+        ],
+        "question_number": "1",
+        "question_text": "The number of truly independent decisions Manager A would need to make in order",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share1-7_1.png",
+            "EquityPortfolioManagement_images/share1-7_2.png",
+            "EquityPortfolioManagement_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.8",
+            "B": "B.11",
+            "C": "C.69"
+        },
+        "answer": "C",
+        "explanation": "$$\nE(R_A) = IC \\times \\sqrt{BR} \\times \\sigma_{RA} \\times TC\n$$\n\n$$\nE(R_A) = 0.15 \\times \\sqrt{BR} \\times 5\\% \\times 0.40 = 2.5\\%\n$$\n\n$$\n2.5\\% = 0.15 \\times \\sqrt{BR} \\times 5\\% \\times 0.40\n$$\n\n$$\n\\sqrt{BR} = \\frac{2.5\\%}{0.3\\%} = 8.33\n$$\n\n$$\nBR = 69.44\n$$",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Monte Carlo simulations, Risk and decision analysis, Independence & correlation in decision-making",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant\nportfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and\ninstitutional investors. Chen asks Garcia to analyze certain information relating to Aycrig\nFund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under\nmanagement (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer\ncoefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen\ndirects Garcia to determine the maximum position size that Manager A can hold in shares of\nPasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of\n0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A\nhas the following position size policy constraints:\n■Allocation: No investment in any security may represent more than 3% of total AUM.\n■Liquidity: No position size may represent more than 10% of the dollar value of the security's\nADV.\n■Index weight: The maximum position weight must be less than or equal to 10 times the\nsecurity's weight in the index.Manager B holds a highly diversified portfolio that has balanced\nexposures to rewarded risk factors, high active share, and a relatively low active risk\ntarget.Selected data on Manager C's portfolio, which contains three assets, is presented in\nExhibit 1.\nChen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios\nX, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha\nskills, and their factor exposures align with both Aycrig's and investors' expectations and\nconstraints. The portfolio factor exposures, risk contributions, and risk characteristics are\npresented in Exhibits 2 and 3.\n \nChen and Garcia next discuss characteristics of long–short and long-only investing. Garcia\nmakes the following statements about investing with long–short and long-only managers:\nStatement 1: A long–short portfolio allows for a gross exposure of 100%.\nStatement 2: A long-only portfolio generally allows for greater investment capacity than other\napproaches, particularly when using strategies that focus on large-cap stocks.\nChen and Garcia then turn their attention to portfolio management approaches. Chen prefers an\napproach that emphasizes security-specific factors, engages in factor timing, and typically\nleads to portfolios that are generally more concentrated than those built using a systematic\napproach.\n "
+        ],
+        "question_number": "2",
+        "question_text": "Which of the following position size policy constraints is the most restrictive",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share1-7_1.png",
+            "EquityPortfolioManagement_images/share1-7_2.png",
+            "EquityPortfolioManagement_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.Liquidity",
+            "B": "B.Allocation",
+            "C": "C.Index weight"
+        },
+        "answer": "A",
+        "explanation": "A is correct. The maximum position size in shares of Pasliant Corporation (PC) is\ndetermined by the constraint with the lowest dollar amount. The maximum position size for PC\nunder each constraint is calculated as follows:Liquidity ConstraintDollar value of PC traded\ndaily = PC market cap × Average daily trading volumeDollar value of PC traded daily = $3\nbillion × 1.0% = $30 millionLiquidity constraint = Dollar value of PC traded daily ×\nLiquidity % thresholdLiquidity constraint = $30 million × 10% = $3 millionAllocation\nConstraintAllocation constraint = AUM × Maximum position size thresholdAllocation constraint =\n$250 million × 3.0% = $7.5 millionIndex Weight ConstraintIndex weight constraint = AUM ×\n(Index weight × 10)Index weight constraint = $250 million × (0.20% × 10) = $5.0 millionThe\nliquidity constraint of $3.0 million is less than both the $5.0 million index weight constraint\nand the $7.5 million allocation constraint. Therefore, the maximum allowable position size that\nManager A may take in PC is $3.0 million.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity constraints, Allocation constraints, Index weight constraints",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant\nportfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and\ninstitutional investors. Chen asks Garcia to analyze certain information relating to Aycrig\nFund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under\nmanagement (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer\ncoefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen\ndirects Garcia to determine the maximum position size that Manager A can hold in shares of\nPasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of\n0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A\nhas the following position size policy constraints:\n■Allocation: No investment in any security may represent more than 3% of total AUM.\n■Liquidity: No position size may represent more than 10% of the dollar value of the security's\nADV.\n■Index weight: The maximum position weight must be less than or equal to 10 times the\nsecurity's weight in the index.Manager B holds a highly diversified portfolio that has balanced\nexposures to rewarded risk factors, high active share, and a relatively low active risk\ntarget.Selected data on Manager C's portfolio, which contains three assets, is presented in\nExhibit 1.\nChen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios\nX, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha\nskills, and their factor exposures align with both Aycrig's and investors' expectations and\nconstraints. The portfolio factor exposures, risk contributions, and risk characteristics are\npresented in Exhibits 2 and 3.\n \nChen and Garcia next discuss characteristics of long–short and long-only investing. Garcia\nmakes the following statements about investing with long–short and long-only managers:\nStatement 1: A long–short portfolio allows for a gross exposure of 100%.\nStatement 2: A long-only portfolio generally allows for greater investment capacity than other\napproaches, particularly when using strategies that focus on large-cap stocks.\nChen and Garcia then turn their attention to portfolio management approaches. Chen prefers an\napproach that emphasizes security-specific factors, engages in factor timing, and typically\nleads to portfolios that are generally more concentrated than those built using a systematic\napproach.\n "
+        ],
+        "question_number": "3",
+        "question_text": "Manager B's portfolio is most likely consistent with the characteristics of a:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share1-7_1.png",
+            "EquityPortfolioManagement_images/share1-7_2.png",
+            "EquityPortfolioManagement_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.pure indexer.",
+            "B": "B.sector rotator.",
+            "C": "C.multi-factor manager."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Most multi-factor products are diversified across factors and\nsecurities and typically have high active share but have reasonably low active risk (tracking\nerror), often in the range of 3%. Most multi-factor products have a low concentration among\nsecurities in order to achieve a balanced exposure to risk factors and minimize idiosyncratic\nrisks. Manager B holds a highly diversified portfolio that has balanced exposures to rewarded\nrisk factors, a high active share, and a relatively low target active risk—consistent with the\ncharacteristics of a multi-factor manager.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio diversification, Active share, Risk factors",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant\nportfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and\ninstitutional investors. Chen asks Garcia to analyze certain information relating to Aycrig\nFund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under\nmanagement (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer\ncoefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen\ndirects Garcia to determine the maximum position size that Manager A can hold in shares of\nPasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of\n0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A\nhas the following position size policy constraints:\n■Allocation: No investment in any security may represent more than 3% of total AUM.\n■Liquidity: No position size may represent more than 10% of the dollar value of the security's\nADV.\n■Index weight: The maximum position weight must be less than or equal to 10 times the\nsecurity's weight in the index.Manager B holds a highly diversified portfolio that has balanced\nexposures to rewarded risk factors, high active share, and a relatively low active risk\ntarget.Selected data on Manager C's portfolio, which contains three assets, is presented in\nExhibit 1.\nChen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios\nX, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha\nskills, and their factor exposures align with both Aycrig's and investors' expectations and\nconstraints. The portfolio factor exposures, risk contributions, and risk characteristics are\npresented in Exhibits 2 and 3.\n \nChen and Garcia next discuss characteristics of long–short and long-only investing. Garcia\nmakes the following statements about investing with long–short and long-only managers:\nStatement 1: A long–short portfolio allows for a gross exposure of 100%.\nStatement 2: A long-only portfolio generally allows for greater investment capacity than other\napproaches, particularly when using strategies that focus on large-cap stocks.\nChen and Garcia then turn their attention to portfolio management approaches. Chen prefers an\napproach that emphasizes security-specific factors, engages in factor timing, and typically\nleads to portfolios that are generally more concentrated than those built using a systematic\napproach.\n "
+        ],
+        "question_number": "4",
+        "question_text": "Based on Exhibit 1, the contribution of Asset 2 to Manager C's portfolio",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share1-7_1.png",
+            "EquityPortfolioManagement_images/share1-7_2.png",
+            "EquityPortfolioManagement_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.0.0025.",
+            "B": "B.0.0056.",
+            "C": "C.0.0088."
+        },
+        "answer": "B",
+        "explanation": "Contribution of each asset to portfolio variance = $CV_i = \\sum_{j=1}^{n} x_i x_j C_{ij}$\n\n|                                                                                  | Result          |\n|----------------------------------------------------------------------------------|-----------------|\n| Weight of Asset 2 × Weight of Asset 1 × Covariance of asset 2 with Asset 1, plus | 0.45 × 0.30 × 0.01050 |\n| Weight of Asset 2 × Weight of Asset 2 × Covariance of Asset 2 with Asset 2, plus | 0.45 × 0.45 × 0.01960 |\n| Weight of Asset 2 × Weight of Asset 3 × Covariance of Asset 2 with Asset 3       | 0.45 × 0.25 × 0.00224 |\n| = Asset 2’s contribution to total portfolio variance                             | 0.005639        |",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Portfolio contribution analysis, Performance attribution, Risk-adjusted returns",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant\nportfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and\ninstitutional investors. Chen asks Garcia to analyze certain information relating to Aycrig\nFund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under\nmanagement (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer\ncoefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen\ndirects Garcia to determine the maximum position size that Manager A can hold in shares of\nPasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of\n0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A\nhas the following position size policy constraints:\n■Allocation: No investment in any security may represent more than 3% of total AUM.\n■Liquidity: No position size may represent more than 10% of the dollar value of the security's\nADV.\n■Index weight: The maximum position weight must be less than or equal to 10 times the\nsecurity's weight in the index.Manager B holds a highly diversified portfolio that has balanced\nexposures to rewarded risk factors, high active share, and a relatively low active risk\ntarget.Selected data on Manager C's portfolio, which contains three assets, is presented in\nExhibit 1.\nChen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios\nX, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha\nskills, and their factor exposures align with both Aycrig's and investors' expectations and\nconstraints. The portfolio factor exposures, risk contributions, and risk characteristics are\npresented in Exhibits 2 and 3.\n \nChen and Garcia next discuss characteristics of long–short and long-only investing. Garcia\nmakes the following statements about investing with long–short and long-only managers:\nStatement 1: A long–short portfolio allows for a gross exposure of 100%.\nStatement 2: A long-only portfolio generally allows for greater investment capacity than other\napproaches, particularly when using strategies that focus on large-cap stocks.\nChen and Garcia then turn their attention to portfolio management approaches. Chen prefers an\napproach that emphasizes security-specific factors, engages in factor timing, and typically\nleads to portfolios that are generally more concentrated than those built using a systematic\napproach.\n "
+        ],
+        "question_number": "5",
+        "question_text": "Based on Exhibits 2 and 3, which portfolio best exhibits the risk",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share1-7_1.png",
+            "EquityPortfolioManagement_images/share1-7_2.png",
+            "EquityPortfolioManagement_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.Portfolio X",
+            "B": "B.Portfolio Y",
+            "C": "C.Portfolio Z"
+        },
+        "answer": "A",
+        "explanation": "A is correct. Well-constructed portfolios should have low idiosyncratic\n(unexplained) risk relative to total risk. Portfolio Y exhibits extremely high unexplained risk\nrelative to total risk, and Portfolios X and Z have low unexplained risk relative to total\nrisk. Therefore, Portfolio Y may be eliminated.Portfolios X and Z have comparable factor\nexposures. In comparing portfolios with comparable factor exposures, the portfolio with lower\nabsolute volatility and lower active risk will likely be preferred, assuming similar costs.\nPortfolio X has lower absolute volatility and lower active risk than Portfolio Z, although both\nhave similar costs.Finally, for managers with similar costs, fees, and alpha skills, if two\nproducts have similar active and absolute risks, the portfolio having a higher active share is\npreferred. Portfolio X has lower absolute volatility, lower active risk, and higher active\nshare than Portfolio Z. As a result, Portfolio X best exhibits the risk characteristics of a\nwell-constructed portfolio.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio risk management, Active risk management, Factor exposure analysis.",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant\nportfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and\ninstitutional investors. Chen asks Garcia to analyze certain information relating to Aycrig\nFund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under\nmanagement (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer\ncoefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen\ndirects Garcia to determine the maximum position size that Manager A can hold in shares of\nPasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of\n0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A\nhas the following position size policy constraints:\n■Allocation: No investment in any security may represent more than 3% of total AUM.\n■Liquidity: No position size may represent more than 10% of the dollar value of the security's\nADV.\n■Index weight: The maximum position weight must be less than or equal to 10 times the\nsecurity's weight in the index.Manager B holds a highly diversified portfolio that has balanced\nexposures to rewarded risk factors, high active share, and a relatively low active risk\ntarget.Selected data on Manager C's portfolio, which contains three assets, is presented in\nExhibit 1.\nChen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios\nX, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha\nskills, and their factor exposures align with both Aycrig's and investors' expectations and\nconstraints. The portfolio factor exposures, risk contributions, and risk characteristics are\npresented in Exhibits 2 and 3.\n \nChen and Garcia next discuss characteristics of long–short and long-only investing. Garcia\nmakes the following statements about investing with long–short and long-only managers:\nStatement 1: A long–short portfolio allows for a gross exposure of 100%.\nStatement 2: A long-only portfolio generally allows for greater investment capacity than other\napproaches, particularly when using strategies that focus on large-cap stocks.\nChen and Garcia then turn their attention to portfolio management approaches. Chen prefers an\napproach that emphasizes security-specific factors, engages in factor timing, and typically\nleads to portfolios that are generally more concentrated than those built using a systematic\napproach.\n "
+        ],
+        "question_number": "6",
+        "question_text": "Which of Garcia's statements regarding investing with long–short and long-only",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share1-7_1.png",
+            "EquityPortfolioManagement_images/share1-7_2.png",
+            "EquityPortfolioManagement_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.Only Statement 1",
+            "B": "B.Only Statement 2",
+            "C": "C.Both Statement 1 and Statement 2"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Both Statement 1 and Statement 2 are correct.Statement 1 is correct\nbecause, similar to a long-only portfolio, a long–short portfolio can be structured to have a\ngross exposure of 100%. Gross exposure of the portfolio is calculated as the sum of the long\npositions and the absolute value of the short positions, expressed as percentages of the\nportfolio’s capital.Gross exposure = Long positions |Short positions|Gross exposure long-only\nportfolio = 100% (Long positions) 0% (Short positions) = 100%Gross exposure long–short\nportfolio = 50% (Long positions) |–50%| (Short positions) = 100%Statement 2 is correct because\nlong-only investing generally offers greater investment capacity than other approaches,\nparticularly when using strategies that focus on large-cap stocks. For large institutional\ninvestors such as pension plans, there are no effective capacity constraints in terms of the\ntotal market cap available for long-only investing.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Portfolio Construction, Investment Strategies, Capacity Constraints",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant\nportfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and\ninstitutional investors. Chen asks Garcia to analyze certain information relating to Aycrig\nFund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under\nmanagement (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer\ncoefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen\ndirects Garcia to determine the maximum position size that Manager A can hold in shares of\nPasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of\n0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A\nhas the following position size policy constraints:\n■Allocation: No investment in any security may represent more than 3% of total AUM.\n■Liquidity: No position size may represent more than 10% of the dollar value of the security's\nADV.\n■Index weight: The maximum position weight must be less than or equal to 10 times the\nsecurity's weight in the index.Manager B holds a highly diversified portfolio that has balanced\nexposures to rewarded risk factors, high active share, and a relatively low active risk\ntarget.Selected data on Manager C's portfolio, which contains three assets, is presented in\nExhibit 1.\nChen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios\nX, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha\nskills, and their factor exposures align with both Aycrig's and investors' expectations and\nconstraints. The portfolio factor exposures, risk contributions, and risk characteristics are\npresented in Exhibits 2 and 3.\n \nChen and Garcia next discuss characteristics of long–short and long-only investing. Garcia\nmakes the following statements about investing with long–short and long-only managers:\nStatement 1: A long–short portfolio allows for a gross exposure of 100%.\nStatement 2: A long-only portfolio generally allows for greater investment capacity than other\napproaches, particularly when using strategies that focus on large-cap stocks.\nChen and Garcia then turn their attention to portfolio management approaches. Chen prefers an\napproach that emphasizes security-specific factors, engages in factor timing, and typically\nleads to portfolios that are generally more concentrated than those built using a systematic\napproach.\n "
+        ],
+        "question_number": "7",
+        "question_text": "Chen's preferred portfolio management approach would be best described as:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share1-7_1.png",
+            "EquityPortfolioManagement_images/share1-7_2.png",
+            "EquityPortfolioManagement_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.top down.",
+            "B": "B.systematic.",
+            "C": "C.discretionary."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Chen prefers an approach that emphasizes security-specific factors,\nengages in factor timing, and typically leads to portfolios that are generally more\nconcentrated than those built using a systematic approach.",
+        "QA type": "Knowledge reasoning QA.",
+        "knowledge topics": "Discretionary portfolio management, Factor timing, Security-specific analysis",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "8",
+        "question_text": "The Barboa Fund can be best described as a fund segmented by:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.size/style.",
+            "B": "B.geography.",
+            "C": "C.economic activity."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The Barboa Fund invests solely in the equity of companies in the oil\nproduction and transportation industries in many countries. The fund’s description is\nconsistent with the production-oriented approach, which groups companies that manufacture\nsimilar products or use similar inputs in their manufacturing processes.A is incorrect because\nthe fund description does not mention the firms’ size or style (i.e., value, growth, or\nblend). Size is typically measured by market capitalization and often categorized as large cap,\nmid-cap, or small cap. Style is typically classified as value, growth, or a blend of value and\ngrowth. In addition, style is often determined through a “scoring” system that incorporates\nmultiple metrics or ratios, such as price-to-book ratios, price-to-earnings ratios, earnings\ngrowth, dividend yield, and book value growth. These metrics are then typically “scored”\nindividually for each company, assigned certain weights, and then aggregated.B is incorrect\nbecause the fund is invested across many countries, which indicates that the fund is not\nsegmented by geography. Segmentation by geography is typically based upon the stage of\ncountries’ macroeconomic development and wealth. Common geographic categories are developed\nmarkets, emerging markets, and frontier markets.",
+        "QA type": "Knowledge Reasoning QA",
+        "knowledge topics": "Equity investments, Sector allocation, Investment appraisal",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "9",
+        "question_text": "The Caribou Fund is most likely classified as a:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.large-cap value fund.",
+            "B": "B.small-cap value fund.",
+            "C": "C.small-cap growth fund."
+        },
+        "answer": "C",
+        "explanation": "C is correct because the fund focuses on new funds that are generally classified as\nsmall firms, and the fund has a style classified as aggressive. A widely used approach to\nsegment the equity universe incorporates two factors: size and style. Size is typically\nmeasured by market capitalization and often categorized as large cap, mid-cap, or small cap.\nStyle is typically classified as value, growth, or a blend of value and growth.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity classification, Market capitalization, Investment style",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "10",
+        "question_text": "The DoGood Fund’s approach to the aerospace and defense industry is best",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.positive screening.",
+            "B": "B.negative screening.",
+            "C": "C.thematic investing."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The DoGood fund excludes companies based on specified activities\n(e.g., aerospace and defense), which is a process of negative screening. Negative or\nexclusionary screening refers to the practice of excluding certain sectors or companies that\ndeviate from accepted standards in areas such as human rights or environmental concernsA is\nincorrect because positive screening attempts to identify companies or sectors that score most\nfavorably regarding ESG-related risks and/or opportunities. The restrictions on investing\nindicates that a negative screen is established.C is incorrect because thematic investing\nfocuses on investing in companies within a specific sector or following a specific theme, such\nas energy efficiency or climate change. The DoGood Fund’s investment universe includes all\ncompanies and sectors that have favorable ESG (no specific sectors or screens) but with\nspecific exclusions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Negative Screening, Positive Screening, Thematic Investing",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "11",
+        "question_text": "The Elmer fund’s management strategy is:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.active.",
+            "B": "B.passive.",
+            "C": "C.blended."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The fund is managed assuming that the market is efficient, and\ninvestments are selected to mimic an index. Compared with active strategies, passive strategies\ngenerally have lower turnover and generate a higher percentage of long-term gains. An index\nfund that replicates its benchmark can have minimal rebalancing.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Efficiency, Passive Investment Strategies, Index Funds",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "12",
+        "question_text": "Based on Note 1, the fee on the Caribou Fund is best described as a:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.performance fee.",
+            "B": "B.management fee.",
+            "C": "C.administrative fee."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Performance fees serve as an incentive for portfolio managers to\nachieve or outperform return objectives, to the benefit of both the manager and investors.\nSeveral performance fee structures exist, although performance fees tend to be “upward\nonly”—that is, fees are earned by the manager when performance objectives are met, but fund\ninvestors are not reimbursed when performance is negative. Performance fees could be reduced\nfollowing a period of poor performance, however. Fee calculations also reflect high-water\nmarks. As described in Note 1, the fee for the Caribou Fund is a 15% share of any capital\nappreciation above a 7% threshold, with the use of a high-water mark, and is therefore a\nperformance fee.B is incorrect because management fees include direct costs of research (such\nas remuneration and expenses for investment analysts and portfolio managers) and the direct\ncosts of portfolio management (e.g., software, trade processing costs, and compliance).\nManagement fees are typically determined as a percentage of the funds under management.C is\nincorrect because administrative fees include the processing of corporate actions such as\nrights issues and optional stock dividends, the measurement of performance and risk of a\nportfolio, and voting at company meetings. Generally, these functions are provided by an\ninvestment management firm itself and are included as part of the management fee.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Performance Fees, Management Fees, Administrative Fees",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "13",
+        "question_text": "Which of the following notes about the DoGood Fund is correct?",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.Only Note 2",
+            "B": "B.Only Note 3",
+            "C": "C.Both Note 2 and Note 3"
+        },
+        "answer": "B",
+        "explanation": "B is correct because the fund becomes a free-rider if it allows other shareholders\nto engage in actions that benefit the fund, and therefore Note 3 is correct. In theory, some\ninvestors could benefit from the shareholder engagement of others under the so-called “free\nrider problem.” Specifically, assume that a portfolio manager using an active strategy\nactively engages with a company to improve its operations and was successful in increasing the\ncompany’s stock price. The manager’s actions in this case improved the value of his portfolio\nand also benefitted other investors that own the same stock in their portfolios. Those\ninvestors that did not participate in shareholder engagement benefit from improved performance\nbut without the costs necessary for engagement.Note 2 is incorrect because a conflict of\ninterest arises on the part of the DoGood Fund if it owns shares of a company that invests in\nthe fund. Conflicts of interest can result for a company. For example, a portfolio manager\ncould engage with a company that also happens to be an investor in the manager’s portfolio. In\nsuch a situation, a portfolio manager may be unduly influenced to support the company’s\nmanagement so as not to jeopardize the company’s investment mandate with the portfolio\nmanager.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Conflict of interest, Free rider problem, Shareholder engagement",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "14",
+        "question_text": "Which of the notes regarding the Elmer Fund is correct?",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.Only Note 4",
+            "B": "B.Only Note 5",
+            "C": "C.Both Note 4 and Note 5"
+        },
+        "answer": "A",
+        "explanation": "A is correct. For passively managed portfolios, management fees are typically low\nbecause of lower direct costs of research and portfolio management relative to actively managed\nportfolios. Therefore, Note 4 is correct. Note 5 is incorrect because the predictability of\ncorrelations is uncertain.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio Management, Passive vs. Active Management, Management Fees",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Three years ago, the Albright Investment Management Company (Albright) added four new\nfunds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing\nfund offering. Albright’s new funds are described in Exhibit 1.\nHans Smith, an Albright portfolio manager, makes the following notes after examining these\nfunds:\nNote 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%\nthreshold and the use of a high-water mark.\nNote 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG\nspace, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This\ndynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not\nfor the DoGood Fund.\nNote 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does\nnot engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the\nactivism by these shareholders.\nNote 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to\nminimize fees and believe that the market is efficient.\nNote 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-\nterm risk.\nSmith discusses means of enhancing income for the three funds with the junior analyst, Kolton\nFrey, including engaging in securities lending or writing covered calls. Frey tells Smith the\nfollowing:\nStatement 1: Securities lending would increase income through reinvestment of the cash\ncollateral but would require the fund to miss out on dividend income from the lent securities.\nStatement 2: Writing covered calls would generate income, but doing so would limit the upside\nshare price appreciation for the underlying shares.\n "
+        ],
+        "question_number": "15",
+        "question_text": "Which of Frey’s statements about securities lending and covered call writing",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share8-15_1.png"
+        ],
+        "options": {
+            "A": "A.Only Statement 1",
+            "B": "B.Only Statement 2",
+            "C": "C.Both Statement 1 and Statement 2"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Writing covered calls also generates additional income for an equity\nportfolio, but doing so limits the upside from share price appreciation of the underlying\nshares. Therefore, Statement 2 is correct. A is incorrect because dividends on loaned stock are\n“manufactured” by the stock borrower for the stock lender—that is, the stock borrower\nensures that the stock lender is compensated for any dividends that the lender would have\nreceived had the stock not been loaned. Therefore, Statement 1 is incorrect. Frey is incorrect\nin stating that the funds would miss out on dividend income on lent securities.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Securities Lending, Covered Call Writing, Dividend Compensation",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Jack Dewey is managing partner of DC&H, an investment management firm, and Supriya\nSardar is an equity analyst with the firm. Dewey recently took over management of the firm’s\nPurity Fund. He is developing a fundamental active investment process for managing this fund\nthat emphasizes financial strength and demonstrated profitability of portfolio companies. At\nhis previous employer, Dewey managed a fund for which his investment process involved taking\nactive exposures in sectors based on the macroeconomic environment and demographic trends.Dewey\nand Sardar meet to discuss developing a fundamental active investment process for the Purity\nFund. They start by defining the investment universe and market opportunity for the fund, and\nthen they pre-screen the universe to obtain a manageable set of securities for further, more\ndetailed analysis. Next, Dewey notes that industry and competitive analysis of the list of\nsecurities must be performed. He then asks Sardar to recommend the next step in development of\nthe fundamental active management process.During the next few months, Dewey rebalances the\nPurity Fund to reflect his fundamental active investment process. Dewey and Sardar meet again\nto discuss potential new investment opportunities for the fund. Sardar recommends the purchase\nof AZ Industrial, which she believes is trading below its intrinsic value, despite its high\nprice-to-book value (P/B) relative to the industry average.Dewey asks Sardar to perform a\nbottom-up style analysis of the Purity Fund based on the aggregation of attributes from\nindividual stocks in the portfolio. Dewey plans to include the results of this style analysis\nin a profile he is preparing for the fund.\n "
+        ],
+        "question_number": "16",
+        "question_text": "In managing the fund at his previous employer, Dewey's investment process can",
+        "image": "",
+        "options": {
+            "A": "A.an activist strategy.",
+            "B": "B.a top-down strategy.",
+            "C": "C.a bottom-up strategy."
+        },
+        "answer": "B",
+        "explanation": "At his previous firm, Dewey managed a fund for which his investment process\ninvolved taking active exposures in sectors based on the macroeconomic environment and\ndemographic trends. An investment process that begins at a top, or macro level, is a top-down\nstrategy. Top-down portfolio strategies study variables affecting many companies or whole\nsectors, such as the macroeconomic environment, demographic trends, and government policies.\nThis approach differs from bottom-up strategies, which focus on individual company variables in\nmaking investment decisions. It also differs from activist strategies, which take stakes in\nlisted companies and advocate changes for the purpose of producing a gain on the investment.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Investment strategies, Macroeconomic analysis, Portfolio management",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Jack Dewey is managing partner of DC&H, an investment management firm, and Supriya\nSardar is an equity analyst with the firm. Dewey recently took over management of the firm’s\nPurity Fund. He is developing a fundamental active investment process for managing this fund\nthat emphasizes financial strength and demonstrated profitability of portfolio companies. At\nhis previous employer, Dewey managed a fund for which his investment process involved taking\nactive exposures in sectors based on the macroeconomic environment and demographic trends.Dewey\nand Sardar meet to discuss developing a fundamental active investment process for the Purity\nFund. They start by defining the investment universe and market opportunity for the fund, and\nthen they pre-screen the universe to obtain a manageable set of securities for further, more\ndetailed analysis. Next, Dewey notes that industry and competitive analysis of the list of\nsecurities must be performed. He then asks Sardar to recommend the next step in development of\nthe fundamental active management process.During the next few months, Dewey rebalances the\nPurity Fund to reflect his fundamental active investment process. Dewey and Sardar meet again\nto discuss potential new investment opportunities for the fund. Sardar recommends the purchase\nof AZ Industrial, which she believes is trading below its intrinsic value, despite its high\nprice-to-book value (P/B) relative to the industry average.Dewey asks Sardar to perform a\nbottom-up style analysis of the Purity Fund based on the aggregation of attributes from\nindividual stocks in the portfolio. Dewey plans to include the results of this style analysis\nin a profile he is preparing for the fund.\n "
+        ],
+        "question_number": "17",
+        "question_text": "Sardar's recommendation for the next step should be to:",
+        "image": "",
+        "options": {
+            "A": "A.review results from back-testing the strategy.",
+            "B": "B.make recommendations for rebalancing the portfolio.",
+            "C": "C.forecast companies' performances and convert those forecasts into valuations."
+        },
+        "answer": "C",
+        "explanation": "The steps to developing a fundamental active investment process are as follows:1\nDefine the investment universe and the market opportunity—the perceived opportunity to earn a\npositive risk-adjusted return to active investing, net of costs—in accordance with the\ninvestment mandate. The market opportunity is also known as the investment thesis.2 Prescreen\nthe investment universe to obtain a manageable set of securities for further, more detailed\nanalysis.3 Understand the industry and business for this screened set by performing industry\nand competitive analysis and analyzing financial reports.4 Forecast company performance, most\ncommonly in terms of cash flows or earnings.5 Convert forecasts to valuations and identify ex\nante profitable investments.6 Construct a portfolio of these investments with the desired risk\nprofile.7 Rebalance the portfolio with buy and sell disciplines.So, Sardar should recommend\nthat the next step in the development of the fundamental active management process be\nforecasting companies' performances and converting those forecasts into valuations.",
+        "QA type": "Knowledge reasoning QA.",
+        "knowledge topics": "Investment Analysis, Portfolio Management, Fundamental Analysis",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Jack Dewey is managing partner of DC&H, an investment management firm, and Supriya\nSardar is an equity analyst with the firm. Dewey recently took over management of the firm’s\nPurity Fund. He is developing a fundamental active investment process for managing this fund\nthat emphasizes financial strength and demonstrated profitability of portfolio companies. At\nhis previous employer, Dewey managed a fund for which his investment process involved taking\nactive exposures in sectors based on the macroeconomic environment and demographic trends.Dewey\nand Sardar meet to discuss developing a fundamental active investment process for the Purity\nFund. They start by defining the investment universe and market opportunity for the fund, and\nthen they pre-screen the universe to obtain a manageable set of securities for further, more\ndetailed analysis. Next, Dewey notes that industry and competitive analysis of the list of\nsecurities must be performed. He then asks Sardar to recommend the next step in development of\nthe fundamental active management process.During the next few months, Dewey rebalances the\nPurity Fund to reflect his fundamental active investment process. Dewey and Sardar meet again\nto discuss potential new investment opportunities for the fund. Sardar recommends the purchase\nof AZ Industrial, which she believes is trading below its intrinsic value, despite its high\nprice-to-book value (P/B) relative to the industry average.Dewey asks Sardar to perform a\nbottom-up style analysis of the Purity Fund based on the aggregation of attributes from\nindividual stocks in the portfolio. Dewey plans to include the results of this style analysis\nin a profile he is preparing for the fund.\n "
+        ],
+        "question_number": "18",
+        "question_text": "Based upon Dewey's chosen investment process for the management of the Purity",
+        "image": "",
+        "options": {
+            "A": "A.at regular intervals.",
+            "B": "B.in response to changes in company-specific information.",
+            "C": "C.in response to updated output from optimization models."
+        },
+        "answer": "B",
+        "explanation": "Managers using an active fundamental investment process, like Dewey's, usually\nmonitor the portfolio's holdings continuously and may rebalance at any time. In contrast,\nportfolios using a quantitative approach are usually rebalanced at regular intervals, such as\nmonthly or quarterly, or in response to updated output from optimization models. A is incorrect\nbecause portfolios using a quantitative (not fundamental) active approach are usually\nrebalanced at regular intervals, such as monthly or quarterly. C is incorrect because\nconstruction of a quantitative portfolio (not a fundamental portfolio) typically involves using\na portfolio optimizer, which controls for risk at the portfolio level in arriving at individual\nstock weights and leads to rebalancing decisions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Active fundamental investment process, Portfolio management, Rebalancing strategies",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Jack Dewey is managing partner of DC&H, an investment management firm, and Supriya\nSardar is an equity analyst with the firm. Dewey recently took over management of the firm’s\nPurity Fund. He is developing a fundamental active investment process for managing this fund\nthat emphasizes financial strength and demonstrated profitability of portfolio companies. At\nhis previous employer, Dewey managed a fund for which his investment process involved taking\nactive exposures in sectors based on the macroeconomic environment and demographic trends.Dewey\nand Sardar meet to discuss developing a fundamental active investment process for the Purity\nFund. They start by defining the investment universe and market opportunity for the fund, and\nthen they pre-screen the universe to obtain a manageable set of securities for further, more\ndetailed analysis. Next, Dewey notes that industry and competitive analysis of the list of\nsecurities must be performed. He then asks Sardar to recommend the next step in development of\nthe fundamental active management process.During the next few months, Dewey rebalances the\nPurity Fund to reflect his fundamental active investment process. Dewey and Sardar meet again\nto discuss potential new investment opportunities for the fund. Sardar recommends the purchase\nof AZ Industrial, which she believes is trading below its intrinsic value, despite its high\nprice-to-book value (P/B) relative to the industry average.Dewey asks Sardar to perform a\nbottom-up style analysis of the Purity Fund based on the aggregation of attributes from\nindividual stocks in the portfolio. Dewey plans to include the results of this style analysis\nin a profile he is preparing for the fund.\n "
+        ],
+        "question_number": "19",
+        "question_text": "Which investment approach is the most likely basis for Sardar's buy",
+        "image": "",
+        "options": {
+            "A": "A.Relative value",
+            "B": "B.High-quality value",
+            "C": "C.Deep-value investing"
+        },
+        "answer": "B",
+        "explanation": "Dewey has developed a fundamental active investment process for the Purity Fund\nthat emphasizes financial strength and demonstrated profitability. High-quality value investors\nfocus on companies' intrinsic values that are supported by attractive valuation metrics, with\nan emphasis on financial strength and demonstrated profitability. In their view, investors\nsometimes behave irrationally, making stocks trade at prices very different from intrinsic\nvalue based on company fundamentals. A is incorrect because investors who pursue a relative\nvalue strategy evaluate companies by comparing their value indicators (e.g., P/E or P/B\nmultiples) with the average valuation of companies in the same industry sector, in an effort to\nidentify stocks that offer value relative to their sector peers. AZ Industrial is trading at a\nhigh P/B relative to the industry average, which is contrary to relative value and suggests\nthat the relative value approach was not the basis for Sardar's buy recommendation. C is\nincorrect because a deep-value investing approach focuses on undervalued companies that are\navailable at extremely low valuation relative to their assets. Such companies are often those\nin financial distress, which is not reflective of financial strength or demonstrated\nprofitability. Therefore, Sardar's buy recommendation was not based on a deep-value investing\norientation.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fundamental analysis, Intrinsic value, Valuation metrics",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Jack Dewey is managing partner of DC&H, an investment management firm, and Supriya\nSardar is an equity analyst with the firm. Dewey recently took over management of the firm’s\nPurity Fund. He is developing a fundamental active investment process for managing this fund\nthat emphasizes financial strength and demonstrated profitability of portfolio companies. At\nhis previous employer, Dewey managed a fund for which his investment process involved taking\nactive exposures in sectors based on the macroeconomic environment and demographic trends.Dewey\nand Sardar meet to discuss developing a fundamental active investment process for the Purity\nFund. They start by defining the investment universe and market opportunity for the fund, and\nthen they pre-screen the universe to obtain a manageable set of securities for further, more\ndetailed analysis. Next, Dewey notes that industry and competitive analysis of the list of\nsecurities must be performed. He then asks Sardar to recommend the next step in development of\nthe fundamental active management process.During the next few months, Dewey rebalances the\nPurity Fund to reflect his fundamental active investment process. Dewey and Sardar meet again\nto discuss potential new investment opportunities for the fund. Sardar recommends the purchase\nof AZ Industrial, which she believes is trading below its intrinsic value, despite its high\nprice-to-book value (P/B) relative to the industry average.Dewey asks Sardar to perform a\nbottom-up style analysis of the Purity Fund based on the aggregation of attributes from\nindividual stocks in the portfolio. Dewey plans to include the results of this style analysis\nin a profile he is preparing for the fund.\n "
+        ],
+        "question_number": "20",
+        "question_text": "The analysis performed by Sardar on the Purity Fund can be best described as",
+        "image": "",
+        "options": {
+            "A": "A.a holdings-based approach.",
+            "B": "B.manager self-identification.",
+            "C": "C.a returns-based style analysis."
+        },
+        "answer": "A",
+        "explanation": "Dewey asks Sardar to perform a bottom-up style analysis of the Purity Fund based on\nthe aggregation of attributes from individual stocks in the portfolio, which describes a\nholdings-based approach to style analysis. The overall equity investment style is an\naggregation of attributes from individual stocks in the portfolio, weighted by their positions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Holdings-Based Style Analysis, Bottom-Up Analysis, Equity Investment Style",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "The Mackenzie Education Foundation funds educational projects in a four-state region of\nthe United States. Because of the investment portfolio’s poor benchmark-relative returns, the\nfoundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and\nprovide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive\ndirector, to review the existing asset allocation strategy. Laubach believes the portfolio’s\nunderperformance is attributable to the equity holdings, which are allocated 55% to a US large-\ncapitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively\nmanaged developed international fund.Laubach states that the board is interested in following a\npassive approach for some or all of the equity allocation. In addition, the board is open to\napproaches that could generate returns in excess of the benchmark for part of the equity\nallocation. McMahon suggests that the board consider following a passive factor-based momentum\nstrategy for the allocation to international stocks.McMahon observes that the benchmark used\nfor the US large-cap equity component is a price-weighted index containing 150 stocks. The\nbenchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution\nanalysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to\nthe benchmark.\nThe board decides to consider adding a mid-cap manager. McMahon presents candidates for the\nmid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index\nfund.\n \n "
+        ],
+        "question_number": "21",
+        "question_text": "Compared with broad-market-cap weighting, the international equity strategy",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share21-26_1.png",
+            "EquityPortfolioManagement_images/share21-26_2.png"
+        ],
+        "options": {
+            "A": "A.concentrate risk exposure.",
+            "B": "B.be based on the efficient market hypothesis.",
+            "C": "C.overweight stocks that recently experienced large price decreases."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Compared with broad-market-cap weighting, passive factor-based\nstrategies tend to concentrate risk exposure, leaving investors vulnerable during periods when\nthe risk factor (e.g., momentum) is out of favor.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Concentration, Passive Investment Strategies, Market-Capitalization Weighting",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "The Mackenzie Education Foundation funds educational projects in a four-state region of\nthe United States. Because of the investment portfolio’s poor benchmark-relative returns, the\nfoundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and\nprovide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive\ndirector, to review the existing asset allocation strategy. Laubach believes the portfolio’s\nunderperformance is attributable to the equity holdings, which are allocated 55% to a US large-\ncapitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively\nmanaged developed international fund.Laubach states that the board is interested in following a\npassive approach for some or all of the equity allocation. In addition, the board is open to\napproaches that could generate returns in excess of the benchmark for part of the equity\nallocation. McMahon suggests that the board consider following a passive factor-based momentum\nstrategy for the allocation to international stocks.McMahon observes that the benchmark used\nfor the US large-cap equity component is a price-weighted index containing 150 stocks. The\nbenchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution\nanalysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to\nthe benchmark.\nThe board decides to consider adding a mid-cap manager. McMahon presents candidates for the\nmid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index\nfund.\n \n "
+        ],
+        "question_number": "22",
+        "question_text": "The international strategy suggested by McMahon is most likely characterized",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share21-26_1.png",
+            "EquityPortfolioManagement_images/share21-26_2.png"
+        ],
+        "options": {
+            "A": "A.risk based.",
+            "B": "B.return oriented.",
+            "C": "C.diversification oriented."
+        },
+        "answer": "B",
+        "explanation": "B is correct. McMahon suggests that the foundation follow a passive factor-based\nmomentum strategy, which is generally defined by the amount of a stock’s excess price return\nrelative to the market during a specified period. Factor-based momentum strategies are\nclassified as return oriented.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Investment Strategies, Momentum Strategies, Factor-Based Investing",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "The Mackenzie Education Foundation funds educational projects in a four-state region of\nthe United States. Because of the investment portfolio’s poor benchmark-relative returns, the\nfoundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and\nprovide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive\ndirector, to review the existing asset allocation strategy. Laubach believes the portfolio’s\nunderperformance is attributable to the equity holdings, which are allocated 55% to a US large-\ncapitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively\nmanaged developed international fund.Laubach states that the board is interested in following a\npassive approach for some or all of the equity allocation. In addition, the board is open to\napproaches that could generate returns in excess of the benchmark for part of the equity\nallocation. McMahon suggests that the board consider following a passive factor-based momentum\nstrategy for the allocation to international stocks.McMahon observes that the benchmark used\nfor the US large-cap equity component is a price-weighted index containing 150 stocks. The\nbenchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution\nanalysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to\nthe benchmark.\nThe board decides to consider adding a mid-cap manager. McMahon presents candidates for the\nmid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index\nfund.\n \n "
+        ],
+        "question_number": "23",
+        "question_text": "The initial benchmark used for the US large-cap allocation:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share21-26_1.png",
+            "EquityPortfolioManagement_images/share21-26_2.png"
+        ],
+        "options": {
+            "A": "A.is unaffected by stocks splits.",
+            "B": "B.is essentially a liquidity-weighted index.",
+            "C": "C.holds the same number of shares in each component stock."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The initial benchmark used for the US large-cap allocation is a\nprice-weighted index. In a price-weighted index, the weight of each stock is its price per\nshare divided by the sum of all the share prices in the index. As a result, a price-weighted\nindex can be interpreted as a portfolio composed of one share of each constituent security.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Indices, Portfolio Weighting Methods, Equity Investment Benchmarking",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "The Mackenzie Education Foundation funds educational projects in a four-state region of\nthe United States. Because of the investment portfolio’s poor benchmark-relative returns, the\nfoundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and\nprovide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive\ndirector, to review the existing asset allocation strategy. Laubach believes the portfolio’s\nunderperformance is attributable to the equity holdings, which are allocated 55% to a US large-\ncapitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively\nmanaged developed international fund.Laubach states that the board is interested in following a\npassive approach for some or all of the equity allocation. In addition, the board is open to\napproaches that could generate returns in excess of the benchmark for part of the equity\nallocation. McMahon suggests that the board consider following a passive factor-based momentum\nstrategy for the allocation to international stocks.McMahon observes that the benchmark used\nfor the US large-cap equity component is a price-weighted index containing 150 stocks. The\nbenchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution\nanalysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to\nthe benchmark.\nThe board decides to consider adding a mid-cap manager. McMahon presents candidates for the\nmid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index\nfund.\n \n "
+        ],
+        "question_number": "24",
+        "question_text": "Based on its HHI, the initial US large-cap benchmark most likely has:",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share21-26_1.png",
+            "EquityPortfolioManagement_images/share21-26_2.png"
+        ],
+        "options": {
+            "A": "A.a concentration level of 4.29.",
+            "B": "B.an effective number of stocks of approximately 35.",
+            "C": "C.individual stocks held in approximately equal weights."
+        },
+        "answer": "B",
+        "explanation": "$$\nHHI = \\sum_{i=1}^{n} w_i^2\n$$\n\nUsing the HHI, one can estimate the effective number of stocks, held in equal weights, that would mimic the concentration level of the respective index. The effective number of stocks for a portfolio is calculated as the reciprocal of the HHI. The HHI is 0.0286; the reciprocal (1/0.0286) is 34.97. Therefore, the effective number of stocks to mimic the US large-cap benchmark is approximately 35.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Concentration Measurement, Effective Number of Stocks, Herfindahl-Hirschman Index (HHI)",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "The Mackenzie Education Foundation funds educational projects in a four-state region of\nthe United States. Because of the investment portfolio’s poor benchmark-relative returns, the\nfoundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and\nprovide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive\ndirector, to review the existing asset allocation strategy. Laubach believes the portfolio’s\nunderperformance is attributable to the equity holdings, which are allocated 55% to a US large-\ncapitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively\nmanaged developed international fund.Laubach states that the board is interested in following a\npassive approach for some or all of the equity allocation. In addition, the board is open to\napproaches that could generate returns in excess of the benchmark for part of the equity\nallocation. McMahon suggests that the board consider following a passive factor-based momentum\nstrategy for the allocation to international stocks.McMahon observes that the benchmark used\nfor the US large-cap equity component is a price-weighted index containing 150 stocks. The\nbenchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution\nanalysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to\nthe benchmark.\nThe board decides to consider adding a mid-cap manager. McMahon presents candidates for the\nmid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index\nfund.\n \n "
+        ],
+        "question_number": "25",
+        "question_text": "Using a sector attribution analysis based on Exhibit 1, which US large-cap",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share21-26_1.png",
+            "EquityPortfolioManagement_images/share21-26_2.png"
+        ],
+        "options": {
+            "A": "A.Utilities",
+            "B": "B.Consumer staples",
+            "C": "C.Information technology"
+        },
+        "answer": "C",
+        "explanation": "Based on this analysis, the US large-cap portfolio’s information technology sector is the\nprimary contributor to the portfolio’s disappointing equity returns because it provided the\nlargest negative differential relative to the benchmark, with a differential of –0.04%.\nAlthough the information technology sector had a positive return, this sector was underweighted\nrelative to the benchmark, resulting in a negative contribution to the portfolio’s returns.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Sector Attribution Analysis, Equity Returns, Portfolio Benchmark Comparison",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "The Mackenzie Education Foundation funds educational projects in a four-state region of\nthe United States. Because of the investment portfolio’s poor benchmark-relative returns, the\nfoundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and\nprovide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive\ndirector, to review the existing asset allocation strategy. Laubach believes the portfolio’s\nunderperformance is attributable to the equity holdings, which are allocated 55% to a US large-\ncapitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively\nmanaged developed international fund.Laubach states that the board is interested in following a\npassive approach for some or all of the equity allocation. In addition, the board is open to\napproaches that could generate returns in excess of the benchmark for part of the equity\nallocation. McMahon suggests that the board consider following a passive factor-based momentum\nstrategy for the allocation to international stocks.McMahon observes that the benchmark used\nfor the US large-cap equity component is a price-weighted index containing 150 stocks. The\nbenchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution\nanalysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to\nthe benchmark.\nThe board decides to consider adding a mid-cap manager. McMahon presents candidates for the\nmid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index\nfund.\n \n "
+        ],
+        "question_number": "26",
+        "question_text": "Based on Exhibit 2, which portfolio will most likely have the lowest tracking",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share21-26_1.png",
+            "EquityPortfolioManagement_images/share21-26_2.png"
+        ],
+        "options": {
+            "A": "A.Portfolio 1",
+            "B": "B.Portfolio 2",
+            "C": "C.Portfolio 3"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Of the three portfolios, Portfolio 3 has the lowest cash holding and\nthe lowest fees. As a result, Portfolio 3 has the potential for the lowest tracking error\ncompared with the other proposed portfolios.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Tracking Error, Portfolio Management, Investment Fees",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "James Leonard is a fund-of-funds manager with Future Generation, a large sovereign\nfund. He is considering whether to pursue more in-depth due diligence processes with three\nlarge-cap long-only funds proposed by his analysts. Although the funds emphasize different\nfinancial metrics and use different implementation methodologies, they operate in the same\nmarket segment and are evaluated against the same benchmark. The analysts prepared a short\ndescription of each fund, presented in Exhibit 1.Exhibit 1. Description of Each Candidate\nFundFurlings: Furlings Investment Partners combines sector views and security selection. The\nfirm’s head manager uses several industry and economic indicators identified from his own\nexperience during the last two decades, as well as his personal views on market flow dynamics,\nto determine how to position the fund on a sector basis. Sector deviations from the benchmark\nof 10% or more are common and are usually maintained for 12 to 24 months. At the same time,\nsector managers at Furlings use their expertise in dissecting financial statements and their\nunderstanding of the corporate branding and competitive landscape within sectors to build\nequally weighted baskets of securities within sectors. Each basket contains their 7 to 10\nhighest-conviction securities, favoring firms that have good governance, strong growth\npotential, competitive advantages such as branding, and attractive relative valuations. The\nFurlings master fund holds approximately 90 securities.Asgard: Asgard Investment Partners is a\nvery large asset manager. It believes in investing in firms that have a strong business model\nand governance, reasonable valuations, solid capital structures with limited financial\nleverage, and above-average expected earnings growth for the next three years. Although the\nAsgard master fund invests in fewer than 125 securities, each sector analyst builds financial\nmodels that track as many as 50 firms. To support them in their task, analysts benefit from\nsoftware developed by the Asgard research and technology group that provides access to detailed\nmarket and accounting information on 5,000 global firms, allowing for the calculation of many\nvaluation and growth metrics and precise modeling of sources of cash-flow strengths and\nweaknesses within each business. Asgard analysts can also use the application to back-test\nstrategies and build their own models to rank securities’ attractiveness according to their\npreferred characteristics. Security allocation is determined by a management team but depends\nheavily on a quantitative risk model developed by Asgard. Asgard has a low portfolio\nturnover.Tokra: Tokra Capital uses a factor-based strategy to rank securities from most\nattractive to least attractive. Each security is scored based on three metrics: price to book\nvalue (P/B), 12-month increase in stock price, and return on assets. Tokra’s managers have a\nstrong risk management background. Their objective is to maximize their exposure to the most\nattractive securities using a total scoring approach subject to limiting single-security\nconcentration below 2%, sector deviations below 3%, active risk below 4%, and annual turnover\nless than 40%, while having a market beta close to 1. The master fund holds approximately 400\npositions out of a possible universe of more than 2,000 securities evaluated.\nWhen Leonard’s analysts met with Asgard, they inquired whether its managers engage in activist\ninvesting because Asgard’s portfolio frequently holds significant positions, because of their\nlarge asset size, and because of their emphasis on strong governance and their ability to model\nsources of cash-flow strengths and weaknesses within each business. The manager indicated that\nAsgard engages with companies from a long-term shareholder’s perspective, which is consistent\nwith the firm’s low portfolio turnover, and uses its voice, and its vote, on matters that can\ninfluence companies’ long-term value.Leonard wants to confirm that each manager’s portfolios\nare consistent with its declared style. To this end, Exhibit 2 presents key financial\ninformation associated with each manager’s portfolio and also with the index that all three\nmanagers use.\n \n "
+        ],
+        "question_number": "27",
+        "question_text": "Which fund manager’s investing approach is most consistent with fundamental",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share27-32_1.png",
+            "EquityPortfolioManagement_images/share27-32_2.png"
+        ],
+        "options": {
+            "A": "A.Furlings",
+            "B": "B.Asgard",
+            "C": "C.Tokra"
+        },
+        "answer": "A",
+        "explanation": "A is correct. Furlings combines a top-down and bottom-up approach, but in both\ncases, the allocation process is significantly determined according to the managers’\ndiscretion and judgement. There is a strong emphasis on understanding financial reporting, and\nthe sector managers focus on a relatively small number for firms. They also extend their\nanalysis to other areas associated with fundamental management, such as valuation, competitive\nadvantages, and governance. Finally, Furlings’s top-down process depends largely on the views\nand experience of its head manager.B is incorrect. Asgard has many of the attributes associated\nwith a fundamental manager. It invests in a relatively small number of securities and focuses\non the companies’ business model, valuations, and future growth prospects. Because of the\nscope of the securities coverage by each manager, however, Asgard depends heavily on technology\nand tools to support screening and ranking of securities attractiveness. Each manager can use\nhis judgement to build his own quantitative models. Furthermore, the allocation process,\nalthough overlaid by a management team, also depends heavily on technology. Asgard has\ncharacteristics of both fundamental and quantitative managers.C is incorrect. Tokra exhibits\nthe characteristics of a quantitative manager. The firm uses quantitative metrics to rank\nsecurities based on valuation, profitability, and momentum criteria and uses portfolio\noptimization to determine the final allocation. Tokra holds many positions typical of\nquantitative approaches.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fundamental analysis, Investment strategies, Portfolio management",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "James Leonard is a fund-of-funds manager with Future Generation, a large sovereign\nfund. He is considering whether to pursue more in-depth due diligence processes with three\nlarge-cap long-only funds proposed by his analysts. Although the funds emphasize different\nfinancial metrics and use different implementation methodologies, they operate in the same\nmarket segment and are evaluated against the same benchmark. The analysts prepared a short\ndescription of each fund, presented in Exhibit 1.Exhibit 1. Description of Each Candidate\nFundFurlings: Furlings Investment Partners combines sector views and security selection. The\nfirm’s head manager uses several industry and economic indicators identified from his own\nexperience during the last two decades, as well as his personal views on market flow dynamics,\nto determine how to position the fund on a sector basis. Sector deviations from the benchmark\nof 10% or more are common and are usually maintained for 12 to 24 months. At the same time,\nsector managers at Furlings use their expertise in dissecting financial statements and their\nunderstanding of the corporate branding and competitive landscape within sectors to build\nequally weighted baskets of securities within sectors. Each basket contains their 7 to 10\nhighest-conviction securities, favoring firms that have good governance, strong growth\npotential, competitive advantages such as branding, and attractive relative valuations. The\nFurlings master fund holds approximately 90 securities.Asgard: Asgard Investment Partners is a\nvery large asset manager. It believes in investing in firms that have a strong business model\nand governance, reasonable valuations, solid capital structures with limited financial\nleverage, and above-average expected earnings growth for the next three years. Although the\nAsgard master fund invests in fewer than 125 securities, each sector analyst builds financial\nmodels that track as many as 50 firms. To support them in their task, analysts benefit from\nsoftware developed by the Asgard research and technology group that provides access to detailed\nmarket and accounting information on 5,000 global firms, allowing for the calculation of many\nvaluation and growth metrics and precise modeling of sources of cash-flow strengths and\nweaknesses within each business. Asgard analysts can also use the application to back-test\nstrategies and build their own models to rank securities’ attractiveness according to their\npreferred characteristics. Security allocation is determined by a management team but depends\nheavily on a quantitative risk model developed by Asgard. Asgard has a low portfolio\nturnover.Tokra: Tokra Capital uses a factor-based strategy to rank securities from most\nattractive to least attractive. Each security is scored based on three metrics: price to book\nvalue (P/B), 12-month increase in stock price, and return on assets. Tokra’s managers have a\nstrong risk management background. Their objective is to maximize their exposure to the most\nattractive securities using a total scoring approach subject to limiting single-security\nconcentration below 2%, sector deviations below 3%, active risk below 4%, and annual turnover\nless than 40%, while having a market beta close to 1. The master fund holds approximately 400\npositions out of a possible universe of more than 2,000 securities evaluated.\nWhen Leonard’s analysts met with Asgard, they inquired whether its managers engage in activist\ninvesting because Asgard’s portfolio frequently holds significant positions, because of their\nlarge asset size, and because of their emphasis on strong governance and their ability to model\nsources of cash-flow strengths and weaknesses within each business. The manager indicated that\nAsgard engages with companies from a long-term shareholder’s perspective, which is consistent\nwith the firm’s low portfolio turnover, and uses its voice, and its vote, on matters that can\ninfluence companies’ long-term value.Leonard wants to confirm that each manager’s portfolios\nare consistent with its declared style. To this end, Exhibit 2 presents key financial\ninformation associated with each manager’s portfolio and also with the index that all three\nmanagers use.\n \n "
+        ],
+        "question_number": "28",
+        "question_text": "Which of the following statements about the approaches and styles of either",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share27-32_1.png",
+            "EquityPortfolioManagement_images/share27-32_2.png"
+        ],
+        "options": {
+            "A": "A.Furlings is a top-down sector rotator with a value orientation within sectors.",
+            "B": "B.Asgard is a bottom-up manager with a GARP (growth at a reasonable price) style.",
+            "C": "C.Tokra is a factor-based manager using value, growth, and profitability metrics."
+        },
+        "answer": "C",
+        "explanation": "C is an incorrect statement. Although Tokra is a factor manager, and although it\nuses a value proxy such as P/B and a profitability proxy such as return on assets, it does not\nuse a growth proxy such as earnings growth over the last 12 or 36 months but rather a price\nmomentum proxy.A is a correct statement. Furlings is a top-down manager. It makes significant\nsector bets based on industry and economic indicators derived from the head manager’s\nexperience, and it does select its securities within sectors while considering relative\nvaluation.B is a correct statement. Asgard favors securities that have reasonable valuations\nand above-average growth prospects. It has a bottom-up approach and builds its portfolio\nstarting at the security level.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Investment styles and strategies, Top-down vs. bottom-up approaches, Factor-based investing",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "James Leonard is a fund-of-funds manager with Future Generation, a large sovereign\nfund. He is considering whether to pursue more in-depth due diligence processes with three\nlarge-cap long-only funds proposed by his analysts. Although the funds emphasize different\nfinancial metrics and use different implementation methodologies, they operate in the same\nmarket segment and are evaluated against the same benchmark. The analysts prepared a short\ndescription of each fund, presented in Exhibit 1.Exhibit 1. Description of Each Candidate\nFundFurlings: Furlings Investment Partners combines sector views and security selection. The\nfirm’s head manager uses several industry and economic indicators identified from his own\nexperience during the last two decades, as well as his personal views on market flow dynamics,\nto determine how to position the fund on a sector basis. Sector deviations from the benchmark\nof 10% or more are common and are usually maintained for 12 to 24 months. At the same time,\nsector managers at Furlings use their expertise in dissecting financial statements and their\nunderstanding of the corporate branding and competitive landscape within sectors to build\nequally weighted baskets of securities within sectors. Each basket contains their 7 to 10\nhighest-conviction securities, favoring firms that have good governance, strong growth\npotential, competitive advantages such as branding, and attractive relative valuations. The\nFurlings master fund holds approximately 90 securities.Asgard: Asgard Investment Partners is a\nvery large asset manager. It believes in investing in firms that have a strong business model\nand governance, reasonable valuations, solid capital structures with limited financial\nleverage, and above-average expected earnings growth for the next three years. Although the\nAsgard master fund invests in fewer than 125 securities, each sector analyst builds financial\nmodels that track as many as 50 firms. To support them in their task, analysts benefit from\nsoftware developed by the Asgard research and technology group that provides access to detailed\nmarket and accounting information on 5,000 global firms, allowing for the calculation of many\nvaluation and growth metrics and precise modeling of sources of cash-flow strengths and\nweaknesses within each business. Asgard analysts can also use the application to back-test\nstrategies and build their own models to rank securities’ attractiveness according to their\npreferred characteristics. Security allocation is determined by a management team but depends\nheavily on a quantitative risk model developed by Asgard. Asgard has a low portfolio\nturnover.Tokra: Tokra Capital uses a factor-based strategy to rank securities from most\nattractive to least attractive. Each security is scored based on three metrics: price to book\nvalue (P/B), 12-month increase in stock price, and return on assets. Tokra’s managers have a\nstrong risk management background. Their objective is to maximize their exposure to the most\nattractive securities using a total scoring approach subject to limiting single-security\nconcentration below 2%, sector deviations below 3%, active risk below 4%, and annual turnover\nless than 40%, while having a market beta close to 1. The master fund holds approximately 400\npositions out of a possible universe of more than 2,000 securities evaluated.\nWhen Leonard’s analysts met with Asgard, they inquired whether its managers engage in activist\ninvesting because Asgard’s portfolio frequently holds significant positions, because of their\nlarge asset size, and because of their emphasis on strong governance and their ability to model\nsources of cash-flow strengths and weaknesses within each business. The manager indicated that\nAsgard engages with companies from a long-term shareholder’s perspective, which is consistent\nwith the firm’s low portfolio turnover, and uses its voice, and its vote, on matters that can\ninfluence companies’ long-term value.Leonard wants to confirm that each manager’s portfolios\nare consistent with its declared style. To this end, Exhibit 2 presents key financial\ninformation associated with each manager’s portfolio and also with the index that all three\nmanagers use.\n \n "
+        ],
+        "question_number": "29",
+        "question_text": "Which manager is most likely to get caught in a value trap?",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share27-32_1.png",
+            "EquityPortfolioManagement_images/share27-32_2.png"
+        ],
+        "options": {
+            "A": "A.Furlings",
+            "B": "B.Asgard",
+            "C": "C.Tokra"
+        },
+        "answer": "C",
+        "explanation": "C is the correct answer. A value trap occurs when a stock that appears to have an\nattractive valuation because of a low P/E and/or P/B multiple (or other relevant value proxies)\nappears cheap only because of its worsening growth prospects. Although a pitfall such as value\ntrap is more common in fundamental investing, a quantitative process that relies on historical\ninformation and does not integrate future expectations about cash flows or profitability may be\nunable to detect a value trap.A is an incorrect answer. Although Furlings is a top-down\nmanager, its sector portfolios are built through investing in a small number of high-conviction\nsecurities after its analysts have dissected the financial statements and analyzed the\ncompetitive landscape and growth prospects. Managers at Furlings are more likely than managers\nat Tokra to be aware of the significant deteriorating prospects of a security they are\nconsidering for investment.B is an incorrect answer. One of Asgard’s investment criteria is\nidentifying firms that have good potential cash flow growth over the next three years. The firm\nhas access to database and support tools, allowing its analysts to evaluate many potential\ngrowth metrics. Managers at Asgard are more likely than managers at Tokra to be aware of the\nsignificant deteriorating prospects of a security they are considering for investment.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Value Trap, Fundamental Investing, Quantitative Process",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "James Leonard is a fund-of-funds manager with Future Generation, a large sovereign\nfund. He is considering whether to pursue more in-depth due diligence processes with three\nlarge-cap long-only funds proposed by his analysts. Although the funds emphasize different\nfinancial metrics and use different implementation methodologies, they operate in the same\nmarket segment and are evaluated against the same benchmark. The analysts prepared a short\ndescription of each fund, presented in Exhibit 1.Exhibit 1. Description of Each Candidate\nFundFurlings: Furlings Investment Partners combines sector views and security selection. The\nfirm’s head manager uses several industry and economic indicators identified from his own\nexperience during the last two decades, as well as his personal views on market flow dynamics,\nto determine how to position the fund on a sector basis. Sector deviations from the benchmark\nof 10% or more are common and are usually maintained for 12 to 24 months. At the same time,\nsector managers at Furlings use their expertise in dissecting financial statements and their\nunderstanding of the corporate branding and competitive landscape within sectors to build\nequally weighted baskets of securities within sectors. Each basket contains their 7 to 10\nhighest-conviction securities, favoring firms that have good governance, strong growth\npotential, competitive advantages such as branding, and attractive relative valuations. The\nFurlings master fund holds approximately 90 securities.Asgard: Asgard Investment Partners is a\nvery large asset manager. It believes in investing in firms that have a strong business model\nand governance, reasonable valuations, solid capital structures with limited financial\nleverage, and above-average expected earnings growth for the next three years. Although the\nAsgard master fund invests in fewer than 125 securities, each sector analyst builds financial\nmodels that track as many as 50 firms. To support them in their task, analysts benefit from\nsoftware developed by the Asgard research and technology group that provides access to detailed\nmarket and accounting information on 5,000 global firms, allowing for the calculation of many\nvaluation and growth metrics and precise modeling of sources of cash-flow strengths and\nweaknesses within each business. Asgard analysts can also use the application to back-test\nstrategies and build their own models to rank securities’ attractiveness according to their\npreferred characteristics. Security allocation is determined by a management team but depends\nheavily on a quantitative risk model developed by Asgard. Asgard has a low portfolio\nturnover.Tokra: Tokra Capital uses a factor-based strategy to rank securities from most\nattractive to least attractive. Each security is scored based on three metrics: price to book\nvalue (P/B), 12-month increase in stock price, and return on assets. Tokra’s managers have a\nstrong risk management background. Their objective is to maximize their exposure to the most\nattractive securities using a total scoring approach subject to limiting single-security\nconcentration below 2%, sector deviations below 3%, active risk below 4%, and annual turnover\nless than 40%, while having a market beta close to 1. The master fund holds approximately 400\npositions out of a possible universe of more than 2,000 securities evaluated.\nWhen Leonard’s analysts met with Asgard, they inquired whether its managers engage in activist\ninvesting because Asgard’s portfolio frequently holds significant positions, because of their\nlarge asset size, and because of their emphasis on strong governance and their ability to model\nsources of cash-flow strengths and weaknesses within each business. The manager indicated that\nAsgard engages with companies from a long-term shareholder’s perspective, which is consistent\nwith the firm’s low portfolio turnover, and uses its voice, and its vote, on matters that can\ninfluence companies’ long-term value.Leonard wants to confirm that each manager’s portfolios\nare consistent with its declared style. To this end, Exhibit 2 presents key financial\ninformation associated with each manager’s portfolio and also with the index that all three\nmanagers use.\n \n "
+        ],
+        "question_number": "30",
+        "question_text": "Which activist investing tactic is Asgard least likely to use?",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share27-32_1.png",
+            "EquityPortfolioManagement_images/share27-32_2.png"
+        ],
+        "options": {
+            "A": "A.Engaging with management by writing letters to management, calling for and explaining\nsuggested changes, and participating in management discussions with analysts or meeting the\nmanagement team privately",
+            "B": "B.Launching legal proceedings against existing management for breach of fiduciary duties",
+            "C": "C.Proposing restructuring of the balance sheet to better utilize capital and potentially"
+        },
+        "answer": "B",
+        "explanation": "B is the correct answer. Asgard invests in firms that have strong business models\nand good governance. Also, it approaches investing as a long-term investor looking to use its\nvoice to improve the company’s asset management. Asgard is unlikely to use an aggressive\nposturing or to invest or stay invested in companies with weak governance or where managers may\nbe in breach of fiduciary duties.A is an incorrect answer. Engaging in positive conversations\nwith management of companies with which Asgard has invested reflects a use of its voice to\nimprove these companies’ long-term value.C is an incorrect answer. Because Asgard is strong at\nmodeling sources of cash flows and is known for investing in companies with a strong capital\nstructure, it would be consistent for Asgard to propose ways to optimize the capital structure\nand shareholders’ compensation.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Activist Investing Strategies, Corporate Governance, Fiduciary Duties",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "James Leonard is a fund-of-funds manager with Future Generation, a large sovereign\nfund. He is considering whether to pursue more in-depth due diligence processes with three\nlarge-cap long-only funds proposed by his analysts. Although the funds emphasize different\nfinancial metrics and use different implementation methodologies, they operate in the same\nmarket segment and are evaluated against the same benchmark. The analysts prepared a short\ndescription of each fund, presented in Exhibit 1.Exhibit 1. Description of Each Candidate\nFundFurlings: Furlings Investment Partners combines sector views and security selection. The\nfirm’s head manager uses several industry and economic indicators identified from his own\nexperience during the last two decades, as well as his personal views on market flow dynamics,\nto determine how to position the fund on a sector basis. Sector deviations from the benchmark\nof 10% or more are common and are usually maintained for 12 to 24 months. At the same time,\nsector managers at Furlings use their expertise in dissecting financial statements and their\nunderstanding of the corporate branding and competitive landscape within sectors to build\nequally weighted baskets of securities within sectors. Each basket contains their 7 to 10\nhighest-conviction securities, favoring firms that have good governance, strong growth\npotential, competitive advantages such as branding, and attractive relative valuations. The\nFurlings master fund holds approximately 90 securities.Asgard: Asgard Investment Partners is a\nvery large asset manager. It believes in investing in firms that have a strong business model\nand governance, reasonable valuations, solid capital structures with limited financial\nleverage, and above-average expected earnings growth for the next three years. Although the\nAsgard master fund invests in fewer than 125 securities, each sector analyst builds financial\nmodels that track as many as 50 firms. To support them in their task, analysts benefit from\nsoftware developed by the Asgard research and technology group that provides access to detailed\nmarket and accounting information on 5,000 global firms, allowing for the calculation of many\nvaluation and growth metrics and precise modeling of sources of cash-flow strengths and\nweaknesses within each business. Asgard analysts can also use the application to back-test\nstrategies and build their own models to rank securities’ attractiveness according to their\npreferred characteristics. Security allocation is determined by a management team but depends\nheavily on a quantitative risk model developed by Asgard. Asgard has a low portfolio\nturnover.Tokra: Tokra Capital uses a factor-based strategy to rank securities from most\nattractive to least attractive. Each security is scored based on three metrics: price to book\nvalue (P/B), 12-month increase in stock price, and return on assets. Tokra’s managers have a\nstrong risk management background. Their objective is to maximize their exposure to the most\nattractive securities using a total scoring approach subject to limiting single-security\nconcentration below 2%, sector deviations below 3%, active risk below 4%, and annual turnover\nless than 40%, while having a market beta close to 1. The master fund holds approximately 400\npositions out of a possible universe of more than 2,000 securities evaluated.\nWhen Leonard’s analysts met with Asgard, they inquired whether its managers engage in activist\ninvesting because Asgard’s portfolio frequently holds significant positions, because of their\nlarge asset size, and because of their emphasis on strong governance and their ability to model\nsources of cash-flow strengths and weaknesses within each business. The manager indicated that\nAsgard engages with companies from a long-term shareholder’s perspective, which is consistent\nwith the firm’s low portfolio turnover, and uses its voice, and its vote, on matters that can\ninfluence companies’ long-term value.Leonard wants to confirm that each manager’s portfolios\nare consistent with its declared style. To this end, Exhibit 2 presents key financial\ninformation associated with each manager’s portfolio and also with the index that all three\nmanagers use.\n \n "
+        ],
+        "question_number": "31",
+        "question_text": "Based on the information provided in Exhibits 1 and 2, which manager’s",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share27-32_1.png",
+            "EquityPortfolioManagement_images/share27-32_2.png"
+        ],
+        "options": {
+            "A": "A.Furlings",
+            "B": "B.Asgard",
+            "C": "C.Tokra"
+        },
+        "answer": "C",
+        "explanation": "C is the correct answer. Tokra indicates that it emphasizes three metrics: P/B, 12-\nmonth price momentum, and return on assets. Although the portfolio consists of securities that\nhave stronger momentum than those of the index on average, and although the ratio of net income\nto assets is also favorable, the average P/B is somehow higher than that of the index. Although\nthis scenario could normally be explained by an emphasis on specific sectors with a higher P/B\nthan other sectors, the low level of sector deviation tolerated within the strategy weakens\nthat explanation. This should be explored with Tokra’s managers.A is an incorrect answer.\nFurlings is a top-down sector rotator with a value orientation within sectors. The lower P/B\nand P/E and higher net income over assets are consistent with a relative value orientation.\nBecause Furlings can take significant positions in specific sectors, however, there could be\nother circumstances in which the portfolio would have a higher P/B and/or P/E and or a lower\nnet income /assets than the index if the fund were to emphasize sectors having such\ncharacteristics. Yet, this would not necessarily imply that the firm does not favor the most\nattractive relative valuations within sectors.B is an incorrect answer. Asgard invests in firms\nthat offer reasonable valuations and above-average expected cash flow growth during the next\nthree years. The data, such as P/B and average expected three-year profit growth, are\nconsistent with its declared style. Again, it is not necessarily inconsistent to emphasize\nthese aspects while investing in a portfolio that has a lower dividend yield, slightly higher\nP/E, and lower price momentum.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio metrics analysis, Investment styles, Sector deviation analysis",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "James Leonard is a fund-of-funds manager with Future Generation, a large sovereign\nfund. He is considering whether to pursue more in-depth due diligence processes with three\nlarge-cap long-only funds proposed by his analysts. Although the funds emphasize different\nfinancial metrics and use different implementation methodologies, they operate in the same\nmarket segment and are evaluated against the same benchmark. The analysts prepared a short\ndescription of each fund, presented in Exhibit 1.Exhibit 1. Description of Each Candidate\nFundFurlings: Furlings Investment Partners combines sector views and security selection. The\nfirm’s head manager uses several industry and economic indicators identified from his own\nexperience during the last two decades, as well as his personal views on market flow dynamics,\nto determine how to position the fund on a sector basis. Sector deviations from the benchmark\nof 10% or more are common and are usually maintained for 12 to 24 months. At the same time,\nsector managers at Furlings use their expertise in dissecting financial statements and their\nunderstanding of the corporate branding and competitive landscape within sectors to build\nequally weighted baskets of securities within sectors. Each basket contains their 7 to 10\nhighest-conviction securities, favoring firms that have good governance, strong growth\npotential, competitive advantages such as branding, and attractive relative valuations. The\nFurlings master fund holds approximately 90 securities.Asgard: Asgard Investment Partners is a\nvery large asset manager. It believes in investing in firms that have a strong business model\nand governance, reasonable valuations, solid capital structures with limited financial\nleverage, and above-average expected earnings growth for the next three years. Although the\nAsgard master fund invests in fewer than 125 securities, each sector analyst builds financial\nmodels that track as many as 50 firms. To support them in their task, analysts benefit from\nsoftware developed by the Asgard research and technology group that provides access to detailed\nmarket and accounting information on 5,000 global firms, allowing for the calculation of many\nvaluation and growth metrics and precise modeling of sources of cash-flow strengths and\nweaknesses within each business. Asgard analysts can also use the application to back-test\nstrategies and build their own models to rank securities’ attractiveness according to their\npreferred characteristics. Security allocation is determined by a management team but depends\nheavily on a quantitative risk model developed by Asgard. Asgard has a low portfolio\nturnover.Tokra: Tokra Capital uses a factor-based strategy to rank securities from most\nattractive to least attractive. Each security is scored based on three metrics: price to book\nvalue (P/B), 12-month increase in stock price, and return on assets. Tokra’s managers have a\nstrong risk management background. Their objective is to maximize their exposure to the most\nattractive securities using a total scoring approach subject to limiting single-security\nconcentration below 2%, sector deviations below 3%, active risk below 4%, and annual turnover\nless than 40%, while having a market beta close to 1. The master fund holds approximately 400\npositions out of a possible universe of more than 2,000 securities evaluated.\nWhen Leonard’s analysts met with Asgard, they inquired whether its managers engage in activist\ninvesting because Asgard’s portfolio frequently holds significant positions, because of their\nlarge asset size, and because of their emphasis on strong governance and their ability to model\nsources of cash-flow strengths and weaknesses within each business. The manager indicated that\nAsgard engages with companies from a long-term shareholder’s perspective, which is consistent\nwith the firm’s low portfolio turnover, and uses its voice, and its vote, on matters that can\ninfluence companies’ long-term value.Leonard wants to confirm that each manager’s portfolios\nare consistent with its declared style. To this end, Exhibit 2 presents key financial\ninformation associated with each manager’s portfolio and also with the index that all three\nmanagers use.\n \n "
+        ],
+        "question_number": "32",
+        "question_text": "Leonard is looking at the style classification from Asgard as reported by",
+        "image": "",
+        "share_image": [
+            "EquityPortfolioManagement_images/share27-32_1.png",
+            "EquityPortfolioManagement_images/share27-32_2.png"
+        ],
+        "options": {
+            "A": "A.Although the Morningstar methodology classifies securities as either value, growth, or core,\nthe Lipper methodology assumes a stock can have the characteristics of many styles. This\napproach can result in a different classification for the same portfolio.",
+            "B": "B.The Lipper methodology can only lead to a value or growth classification. It does not offer a\ncore/blend component.",
+            "C": "C.The Morningstar methodology classifies securities as either value, growth, or core by looking"
+        },
+        "answer": "C",
+        "explanation": "C is a correct answer. Morningstar calculates a score for value and growth on a\nscale of 0 to 100 using five proxy measures for each. The value score is subtracted from the\ngrowth score. A strongly positive net score leads to a growth classification, and a strongly\nnegative score leads to a value classification. A score relatively close to zero indicates a\ncore classification. To achieve a blend classification, the portfolio must have a balanced\nexposure to stocks classified as value and growth, a dominant exposure to stocks classified as\ncore, or a combination of both.A is an incorrect answer. Both Morningstar and Lipper classify\nindividual stocks in a specific style category. Neither assumes a security can belong to\nseveral styles in specific proportion. B is an incorrect answer. The Lipper methodology does\nhave a core classification. It sums the Z-score of six portfolio characteristics over several\nyears to determine an overall Z-score that determines either a value, core, or growth\nclassification.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Equity style classification, Morningstar methodology, Lipper methodology",
+        "book label": "Equity Portfolio Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    }
+]

@@ -1,0 +1,881 @@
+[
+    {
+        "share_context": [
+            "Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho\nasks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,\nand Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a\nmeaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides\nselected financial information for the three companies.\nSilveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of\nBRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share\nbasis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of\nBRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost\nof BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay\nsemiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates\nfor the three companies, which are presented in Exhibit 2.\nPinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the\nrelative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected\nby revenue recognition practices.Statement 2The P/S is less subject to distortion from expense\naccounting than is the P/E.\nPinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity\nmarket. Silveira states:Statement 3The Fed model concludes that the market is undervalued when\nthe market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement\n4The Yardeni model includes the consensus five-year earnings growth rate forecast for the\nmarket index.\nSilveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA\nmultiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560\nmillion and gathers other selected information on Gesticular, which is presented in Exhibit 4.\nPinho asks Silveira about the use of momentum indicators in assessing the shares of the three\ncompanies. Silveira states:Statement 5Relative-strength indicators compare an equity’s\nperformance during a period with the performance of some group of equities or its own past\nperformance.Statement 6In the calculation of standardized unexpected earnings (SUE), the\nmagnitude of unexpected earnings is typically scaled by the standard deviation of analysts’\nearnings forecasts.\n "
+        ],
+        "question_number": "1",
+        "question_text": "Based on Pinho’s directive and the data from the last four quarters presented",
+        "image": "",
+        "share_image": [
+            "Equity_images/share1-7_1.png",
+            "Equity_images/share1-7_2.png",
+            "Equity_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.price-to-earnings ratio (P/E).",
+            "B": "B.production-to-demand ratio (P/D).",
+            "C": "C.earnings-to-price ratio (E/P)."
+        },
+        "answer": "C",
+        "explanation": "The E/P based on trailing earnings would offer the most meaningful ranking of the\nshares. Using E/P places Gesticular’s negative EPS in the numerator rather than the\ndenominator, leading to a more meaningful ranking.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Financial Ratios, Earnings Analysis, Equity Valuation",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho\nasks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,\nand Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a\nmeaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides\nselected financial information for the three companies.\nSilveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of\nBRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share\nbasis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of\nBRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost\nof BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay\nsemiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates\nfor the three companies, which are presented in Exhibit 2.\nPinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the\nrelative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected\nby revenue recognition practices.Statement 2The P/S is less subject to distortion from expense\naccounting than is the P/E.\nPinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity\nmarket. Silveira states:Statement 3The Fed model concludes that the market is undervalued when\nthe market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement\n4The Yardeni model includes the consensus five-year earnings growth rate forecast for the\nmarket index.\nSilveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA\nmultiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560\nmillion and gathers other selected information on Gesticular, which is presented in Exhibit 4.\nPinho asks Silveira about the use of momentum indicators in assessing the shares of the three\ncompanies. Silveira states:Statement 5Relative-strength indicators compare an equity’s\nperformance during a period with the performance of some group of equities or its own past\nperformance.Statement 6In the calculation of standardized unexpected earnings (SUE), the\nmagnitude of unexpected earnings is typically scaled by the standard deviation of analysts’\nearnings forecasts.\n "
+        ],
+        "question_number": "2",
+        "question_text": "Based on Exhibit 1 and the note to Adesivo’s financial statements, the",
+        "image": "",
+        "share_image": [
+            "Equity_images/share1-7_1.png",
+            "Equity_images/share1-7_2.png",
+            "Equity_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.17.7.",
+            "B": "B.18.2.",
+            "C": "C.18.4."
+        },
+        "answer": "C",
+        "explanation": "The EPS figure that Silveira should use is diluted trailing EPS of R$0.81, adjusted\nas follows:\n 1. Subtract the BRL0.04 non-recurring legal gain.\n 2. Add BRL0.03 for the non-recurring factory integration charge.\nNo adjustment needs to be made for the BRL0.01 charge related to depreciation because it is a\nrecurring charge.\nTherefore, underlying trailing EPS = BRL0.81 – BRL0.04 ＋ BRL0.03 = BRL0.80 and trailing P/E\nusing underlying trailing EPS = BRL14.72/BRL0.80 = 18.4.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Earnings Per Share (EPS), Non-recurring Items, Price/Earnings (P/E) Ratio",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho\nasks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,\nand Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a\nmeaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides\nselected financial information for the three companies.\nSilveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of\nBRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share\nbasis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of\nBRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost\nof BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay\nsemiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates\nfor the three companies, which are presented in Exhibit 2.\nPinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the\nrelative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected\nby revenue recognition practices.Statement 2The P/S is less subject to distortion from expense\naccounting than is the P/E.\nPinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity\nmarket. Silveira states:Statement 3The Fed model concludes that the market is undervalued when\nthe market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement\n4The Yardeni model includes the consensus five-year earnings growth rate forecast for the\nmarket index.\nSilveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA\nmultiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560\nmillion and gathers other selected information on Gesticular, which is presented in Exhibit 4.\nPinho asks Silveira about the use of momentum indicators in assessing the shares of the three\ncompanies. Silveira states:Statement 5Relative-strength indicators compare an equity’s\nperformance during a period with the performance of some group of equities or its own past\nperformance.Statement 6In the calculation of standardized unexpected earnings (SUE), the\nmagnitude of unexpected earnings is typically scaled by the standard deviation of analysts’\nearnings forecasts.\n "
+        ],
+        "question_number": "3",
+        "question_text": "Based on Exhibits 1 and 2, which company’s shares are the most attractively",
+        "image": "",
+        "share_image": [
+            "Equity_images/share1-7_1.png",
+            "Equity_images/share1-7_2.png",
+            "Equity_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.Adesivo",
+            "B": "B.Enviado",
+            "C": "C.Gesticular"
+        },
+        "answer": "A",
+        "explanation": "The forward PEG for the three companies are calculated as follows:\nForward P/E = Stock’s Current Price/Forecasted EPS\nForward PEG = Forward P/E /Expected earnings growth rate (in percentage terms)\nAdesivo forward P/E = BRL14.72/ BRL0.91 = 16.18\nAdesivo forward PEG = 16.18/16.67 = 0.97\nEnviado forward P/E = BRL72.20/ BRL3.10 = 23.29\nEnviado forward PEG = 23.29/21.91 = 1.06\nGesticular forward P/E = BRL132.16/ BRL2.85 = 46.37\nGesticular forward PEG = 46.37/32.33 = 1.43\nAdesivo has the lowest forward PEG of 0.97, indicating that it is the most undervalued of the\nthree equities based on the forward PEG ratio.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Valuation Ratios, Equity Analysis, Financial Metrics",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho\nasks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,\nand Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a\nmeaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides\nselected financial information for the three companies.\nSilveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of\nBRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share\nbasis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of\nBRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost\nof BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay\nsemiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates\nfor the three companies, which are presented in Exhibit 2.\nPinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the\nrelative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected\nby revenue recognition practices.Statement 2The P/S is less subject to distortion from expense\naccounting than is the P/E.\nPinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity\nmarket. Silveira states:Statement 3The Fed model concludes that the market is undervalued when\nthe market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement\n4The Yardeni model includes the consensus five-year earnings growth rate forecast for the\nmarket index.\nSilveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA\nmultiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560\nmillion and gathers other selected information on Gesticular, which is presented in Exhibit 4.\nPinho asks Silveira about the use of momentum indicators in assessing the shares of the three\ncompanies. Silveira states:Statement 5Relative-strength indicators compare an equity’s\nperformance during a period with the performance of some group of equities or its own past\nperformance.Statement 6In the calculation of standardized unexpected earnings (SUE), the\nmagnitude of unexpected earnings is typically scaled by the standard deviation of analysts’\nearnings forecasts.\n "
+        ],
+        "question_number": "4",
+        "question_text": "Which of Silveira’s statements concerning the use of the P/S is correct?",
+        "image": "",
+        "share_image": [
+            "Equity_images/share1-7_1.png",
+            "Equity_images/share1-7_2.png",
+            "Equity_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.Statement 1 only",
+            "B": "B.Statement 2 only",
+            "C": "C.Both Statement 1 and Statement 2"
+        },
+        "answer": "B",
+        "explanation": "Statement 2 is correct because sales, as the top line of the income statement, are\nless subject to accounting distortion or manipulation than are other fundamentals, such as\nearnings. Statement 1 is incorrect because sales figures can be distorted by revenue\nrecognition practices, in particular those tending to speed up the recognition of revenues.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Financial statement analysis, Earnings quality, Revenue recognition practices",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho\nasks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,\nand Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a\nmeaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides\nselected financial information for the three companies.\nSilveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of\nBRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share\nbasis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of\nBRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost\nof BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay\nsemiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates\nfor the three companies, which are presented in Exhibit 2.\nPinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the\nrelative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected\nby revenue recognition practices.Statement 2The P/S is less subject to distortion from expense\naccounting than is the P/E.\nPinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity\nmarket. Silveira states:Statement 3The Fed model concludes that the market is undervalued when\nthe market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement\n4The Yardeni model includes the consensus five-year earnings growth rate forecast for the\nmarket index.\nSilveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA\nmultiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560\nmillion and gathers other selected information on Gesticular, which is presented in Exhibit 4.\nPinho asks Silveira about the use of momentum indicators in assessing the shares of the three\ncompanies. Silveira states:Statement 5Relative-strength indicators compare an equity’s\nperformance during a period with the performance of some group of equities or its own past\nperformance.Statement 6In the calculation of standardized unexpected earnings (SUE), the\nmagnitude of unexpected earnings is typically scaled by the standard deviation of analysts’\nearnings forecasts.\n "
+        ],
+        "question_number": "5",
+        "question_text": "Which of Silveira’s statements concerning the Fed and Yardeni models is",
+        "image": "",
+        "share_image": [
+            "Equity_images/share1-7_1.png",
+            "Equity_images/share1-7_2.png",
+            "Equity_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.Statement 3 only",
+            "B": "B.Statement 4 only",
+            "C": "C.Both Statement 3 and Statement 4"
+        },
+        "answer": "C",
+        "explanation": "The Fed model considers the equity market to be undervalued when the market’s\ncurrent earnings yield is greater than the 10-year Treasury bond yield. The Yardeni model\nincorporates the consensus five-year earnings growth rate forecast for the market index, a\nvariable missing in the Fed model.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Equity Valuation Models, Fed Model, Yardeni Model",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho\nasks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,\nand Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a\nmeaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides\nselected financial information for the three companies.\nSilveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of\nBRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share\nbasis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of\nBRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost\nof BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay\nsemiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates\nfor the three companies, which are presented in Exhibit 2.\nPinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the\nrelative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected\nby revenue recognition practices.Statement 2The P/S is less subject to distortion from expense\naccounting than is the P/E.\nPinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity\nmarket. Silveira states:Statement 3The Fed model concludes that the market is undervalued when\nthe market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement\n4The Yardeni model includes the consensus five-year earnings growth rate forecast for the\nmarket index.\nSilveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA\nmultiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560\nmillion and gathers other selected information on Gesticular, which is presented in Exhibit 4.\nPinho asks Silveira about the use of momentum indicators in assessing the shares of the three\ncompanies. Silveira states:Statement 5Relative-strength indicators compare an equity’s\nperformance during a period with the performance of some group of equities or its own past\nperformance.Statement 6In the calculation of standardized unexpected earnings (SUE), the\nmagnitude of unexpected earnings is typically scaled by the standard deviation of analysts’\nearnings forecasts.\n "
+        ],
+        "question_number": "6",
+        "question_text": "Based on Exhibit 4, Gesticular’s EV/EBITDA multiple is closest to:",
+        "image": "",
+        "share_image": [
+            "Equity_images/share1-7_1.png",
+            "Equity_images/share1-7_2.png",
+            "Equity_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.11.4.",
+            "B": "B.13.7.",
+            "C": "C.14.6."
+        },
+        "answer": "B",
+        "explanation": "The EV for Gesticular is calculated as follows:\nEV = Market value of debt ＋ Market value of common equity ＋ Market value of preferred equity\n– Cash and short-term investments\nEV = BRL1,733 million ＋ BRL6,766 million ＋ BRL275 million – BRL581 million – BRL495 million\n= BRL7,698 million\nEV/EBITDA = BRL7,698 million/ BRL560 million = 13.7",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Valuation multiples, Enterprise value (EV), Earnings before interest, taxes, depreciation, and amortization (EBITDA)",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho\nasks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,\nand Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a\nmeaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides\nselected financial information for the three companies.\nSilveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of\nBRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share\nbasis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of\nBRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost\nof BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay\nsemiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates\nfor the three companies, which are presented in Exhibit 2.\nPinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the\nrelative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected\nby revenue recognition practices.Statement 2The P/S is less subject to distortion from expense\naccounting than is the P/E.\nPinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity\nmarket. Silveira states:Statement 3The Fed model concludes that the market is undervalued when\nthe market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement\n4The Yardeni model includes the consensus five-year earnings growth rate forecast for the\nmarket index.\nSilveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA\nmultiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560\nmillion and gathers other selected information on Gesticular, which is presented in Exhibit 4.\nPinho asks Silveira about the use of momentum indicators in assessing the shares of the three\ncompanies. Silveira states:Statement 5Relative-strength indicators compare an equity’s\nperformance during a period with the performance of some group of equities or its own past\nperformance.Statement 6In the calculation of standardized unexpected earnings (SUE), the\nmagnitude of unexpected earnings is typically scaled by the standard deviation of analysts’\nearnings forecasts.\n "
+        ],
+        "question_number": "7",
+        "question_text": "Which of Silveira’s statements concerning momentum indicators is correct?",
+        "image": "",
+        "share_image": [
+            "Equity_images/share1-7_1.png",
+            "Equity_images/share1-7_2.png",
+            "Equity_images/share1-7_3.png"
+        ],
+        "options": {
+            "A": "A.Statement 5 only",
+            "B": "B.Statement 6 only",
+            "C": "C.Both Statement 5 and Statement 6"
+        },
+        "answer": "A",
+        "explanation": "Relative-strength indicators compare an equity’s performance with the performance\nof a group of equities or with its own past performance. SUE is unexpected earnings scaled by\nthe standard deviation in past unexpected earnings (not the standard deviation of analysts’\nearnings forecasts, which is used in the calculation of the scaled earnings surprise).",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Momentum Indicators, Relative Strength Indicators (RSI), Scaled Earnings Surprise (SUE)",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Bruno Santos is an equity analyst with a regional investment bank. Santos reviews the\ngrowth prospects and quality of earnings for Phoneutria Enterprises, one of the companies he\nfollows. He has developed a stock valuation model for this firm based on its forecasted\nfundamentals. His revenue growth rate estimate is less than that implied by the market\nprice.Phoneutria’s financial statements over the past five years show strong performance, with\nabove average growth. Santos has decided to use a lower forecasted growth rate in his models,\nreflecting the effect of “regression to the mean” over time. He notes two reasons for his\nlower growth rate forecast:Reason 1 Successful companies tend to draw more competition, putting\ntheir high profits under pressure.Reason 2 Phoneutria’s intellectual property and franchise\nagreements will be weakening over time.Santos meets with Walter Hartmann, a newly hired\nassociate in his department. In their conversation, Hartmann states, “Security analysts\nforecast company performance using both top-down and bottom-up analysis. I can think of three\nexamples:1 A restaurant chain forecasts its sales to be its market share times forecast\nindustry sales.2 An electric utility company forecasts that its sales will grow proportional to\nincreases in GDP.3 A retail furniture company forecasts next year’s sales by assuming that the\nsales in its newly built stores will have similar sales per square meter to that of its\nexisting stores.”Hartmann is reviewing some possible trades for three stocks in the health\ncare industry based on a pairs-trading strategy. Hartmann’s evaluations are as follows:● HG\nHealth is 15% overvalued.● Corgent Cell Sciences is 10% overvalued.● Johnson Labs is 15%\nundervalued.\n "
+        ],
+        "question_number": "8",
+        "question_text": "Based on Santos’s revenue growth rate estimate, the shares of Phoneutria are",
+        "image": "",
+        "options": {
+            "A": "A.undervalued.",
+            "B": "B.fairly valued.",
+            "C": "C.overvalued."
+        },
+        "answer": "C",
+        "explanation": "If the revenue growth rate inferred by the market price exceeds the growth rate\nthat the firm could reasonably expect, Santos should conclude that the market price is too high\nand thus that the firm is overvalued.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Valuation, Market Efficiency, Revenue Growth Forecasting",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Bruno Santos is an equity analyst with a regional investment bank. Santos reviews the\ngrowth prospects and quality of earnings for Phoneutria Enterprises, one of the companies he\nfollows. He has developed a stock valuation model for this firm based on its forecasted\nfundamentals. His revenue growth rate estimate is less than that implied by the market\nprice.Phoneutria’s financial statements over the past five years show strong performance, with\nabove average growth. Santos has decided to use a lower forecasted growth rate in his models,\nreflecting the effect of “regression to the mean” over time. He notes two reasons for his\nlower growth rate forecast:Reason 1 Successful companies tend to draw more competition, putting\ntheir high profits under pressure.Reason 2 Phoneutria’s intellectual property and franchise\nagreements will be weakening over time.Santos meets with Walter Hartmann, a newly hired\nassociate in his department. In their conversation, Hartmann states, “Security analysts\nforecast company performance using both top-down and bottom-up analysis. I can think of three\nexamples:1 A restaurant chain forecasts its sales to be its market share times forecast\nindustry sales.2 An electric utility company forecasts that its sales will grow proportional to\nincreases in GDP.3 A retail furniture company forecasts next year’s sales by assuming that the\nsales in its newly built stores will have similar sales per square meter to that of its\nexisting stores.”Hartmann is reviewing some possible trades for three stocks in the health\ncare industry based on a pairs-trading strategy. Hartmann’s evaluations are as follows:● HG\nHealth is 15% overvalued.● Corgent Cell Sciences is 10% overvalued.● Johnson Labs is 15%\nundervalued.\n "
+        ],
+        "question_number": "9",
+        "question_text": "Which of the reasons given by Santos most likely justifies a reduction in",
+        "image": "",
+        "options": {
+            "A": "A.Reason 1 only",
+            "B": "B.Reason 2 only",
+            "C": "C.Both Reason 1 and Reason 2"
+        },
+        "answer": "C",
+        "explanation": "Increased competition for successful firms can cause a regression to the mean of a\ncompany’s growth rate. Expiring and weakening intellectual property and franchise agreements\ncan also reduce potential growth.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Regression to the Mean, Intellectual Property, Franchise Agreements",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Bruno Santos is an equity analyst with a regional investment bank. Santos reviews the\ngrowth prospects and quality of earnings for Phoneutria Enterprises, one of the companies he\nfollows. He has developed a stock valuation model for this firm based on its forecasted\nfundamentals. His revenue growth rate estimate is less than that implied by the market\nprice.Phoneutria’s financial statements over the past five years show strong performance, with\nabove average growth. Santos has decided to use a lower forecasted growth rate in his models,\nreflecting the effect of “regression to the mean” over time. He notes two reasons for his\nlower growth rate forecast:Reason 1 Successful companies tend to draw more competition, putting\ntheir high profits under pressure.Reason 2 Phoneutria’s intellectual property and franchise\nagreements will be weakening over time.Santos meets with Walter Hartmann, a newly hired\nassociate in his department. In their conversation, Hartmann states, “Security analysts\nforecast company performance using both top-down and bottom-up analysis. I can think of three\nexamples:1 A restaurant chain forecasts its sales to be its market share times forecast\nindustry sales.2 An electric utility company forecasts that its sales will grow proportional to\nincreases in GDP.3 A retail furniture company forecasts next year’s sales by assuming that the\nsales in its newly built stores will have similar sales per square meter to that of its\nexisting stores.”Hartmann is reviewing some possible trades for three stocks in the health\ncare industry based on a pairs-trading strategy. Hartmann’s evaluations are as follows:● HG\nHealth is 15% overvalued.● Corgent Cell Sciences is 10% overvalued.● Johnson Labs is 15%\nundervalued.\n "
+        ],
+        "question_number": "10",
+        "question_text": "Which of Hartmann’s examples of company performance forecasting best",
+        "image": "",
+        "options": {
+            "A": "A.Restaurant chain",
+            "B": "B.Electric utility company",
+            "C": "C.Retail furniture company"
+        },
+        "answer": "C",
+        "explanation": "The retail furniture company forecasting sales based on sales per square meter is\nan example of bottom-up forecasting because it aggregates forecasts at a micro level to larger-\nscale forecasts.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Bottom-up forecasting, Sales forecasting, Micro-level data aggregation",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Bruno Santos is an equity analyst with a regional investment bank. Santos reviews the\ngrowth prospects and quality of earnings for Phoneutria Enterprises, one of the companies he\nfollows. He has developed a stock valuation model for this firm based on its forecasted\nfundamentals. His revenue growth rate estimate is less than that implied by the market\nprice.Phoneutria’s financial statements over the past five years show strong performance, with\nabove average growth. Santos has decided to use a lower forecasted growth rate in his models,\nreflecting the effect of “regression to the mean” over time. He notes two reasons for his\nlower growth rate forecast:Reason 1 Successful companies tend to draw more competition, putting\ntheir high profits under pressure.Reason 2 Phoneutria’s intellectual property and franchise\nagreements will be weakening over time.Santos meets with Walter Hartmann, a newly hired\nassociate in his department. In their conversation, Hartmann states, “Security analysts\nforecast company performance using both top-down and bottom-up analysis. I can think of three\nexamples:1 A restaurant chain forecasts its sales to be its market share times forecast\nindustry sales.2 An electric utility company forecasts that its sales will grow proportional to\nincreases in GDP.3 A retail furniture company forecasts next year’s sales by assuming that the\nsales in its newly built stores will have similar sales per square meter to that of its\nexisting stores.”Hartmann is reviewing some possible trades for three stocks in the health\ncare industry based on a pairs-trading strategy. Hartmann’s evaluations are as follows:● HG\nHealth is 15% overvalued.● Corgent Cell Sciences is 10% overvalued.● Johnson Labs is 15%\nundervalued.\n "
+        ],
+        "question_number": "11",
+        "question_text": "Based on his trading strategy, which of the following should Hartmann",
+        "image": "",
+        "options": {
+            "A": "A.Short HG Health and Corgent Cell Sciences",
+            "B": "B.Buy Johnson Labs and Corgent Cell Sciences",
+            "C": "C.Buy Johnson Labs and short Corgent Cell Sciences"
+        },
+        "answer": "C",
+        "explanation": "Pairs trading involves buying an undervalued stock and shorting an overvalued stock\nin the same industry. Hartmann should buy Johnson Labs (15% undervalued) and short Corgent Cell\nSciences (10% overvalued).",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Pairs trading, Market valuation, Trading strategy",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ryan Leigh is preparing a presentation that analyzes the valuation of the common stock\nof two companies under consideration as additions to his firm’s recommended list, Emerald\nCorporation and Holt Corporation. Leigh has prepared preliminary valuations of both companies\nusing an FCFE model and is also preparing a value estimate for Emerald using a dividend\ndiscount model. Holt’s 2019 and 2020 financial statements, contained in Exhibits 1 and 2, are\nprepared in accordance with US GAAP.\nLeigh presents his valuations of the common stock of Emerald and Holt to his supervisor, Alice\nSmith. Smith has the following questions and comments:1 “I estimate that Emerald’s long-term\nexpected dividend payout rate is 20% and its return on equity is 10% over the long term.”2\n“Why did you use an FCFE model to value Holt’s common stock? Can you use a DDM instead?”3\n“How did Holt’s FCFE for 2020 compare with its FCFF for the same year? I recommend you use an\nFCFF model to value Holt’s common stock instead of using an FCFE model because Holt has had a\nhistory of leverage changes in the past.”4 “In the last three years, about 5% of Holt’s\ngrowth in FCFE has come from decreases in inventory.”Leigh responds to each of Smith’s points\nas follows:1 “I will use your estimates and calculate Emerald’s long-term, sustainable\ndividend growth rate.”2 “There are two reasons why I used the FCFE model to value Holt’s\ncommon stock instead of using a DDM. The first reason is that Holt’s dividends have differed\nsignificantly from its capacity to pay dividends. The second reason is that Holt is a takeover\ntarget and once the company is taken over, the new owners will have discretion over the uses of\nfree cash flow.”3 “I will calculate Holt’s FCFF for 2020 and estimate the value of Holt’s\ncommon stock using an FCFF model.”4 “Holt is a growing company. In forecasting either Holt’s\nFCFE or FCFF growth rates, I will not consider decreases in inventory to be a long-term source\nof growth.”\n "
+        ],
+        "question_number": "12",
+        "question_text": "Which of the following long-term FCFE growth rates is most consistent with the",
+        "image": "",
+        "share_image": [
+            "Equity_images/share12-17_1.png",
+            "Equity_images/share12-17_2.png"
+        ],
+        "options": {
+            "A": "A.5% or lower.",
+            "B": "B.2% or higher.",
+            "C": "C.8% or higher."
+        },
+        "answer": "C",
+        "explanation": "The sustainable growth rate is return on equity (ROE) multiplied by the retention\nratio. ROE is 10%, and the retention ratio is 1 – Payout ratio, or 1.0 – 0.2 = 0.8. The\nsustainable growth rate is 0.8 × 10% = 8%. FCFE growth should be at least 8% per year in the\nlong term.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Free Cash Flow to Equity (FCFE), Sustainable Growth Rate, Return on Equity (ROE)",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ryan Leigh is preparing a presentation that analyzes the valuation of the common stock\nof two companies under consideration as additions to his firm’s recommended list, Emerald\nCorporation and Holt Corporation. Leigh has prepared preliminary valuations of both companies\nusing an FCFE model and is also preparing a value estimate for Emerald using a dividend\ndiscount model. Holt’s 2019 and 2020 financial statements, contained in Exhibits 1 and 2, are\nprepared in accordance with US GAAP.\nLeigh presents his valuations of the common stock of Emerald and Holt to his supervisor, Alice\nSmith. Smith has the following questions and comments:1 “I estimate that Emerald’s long-term\nexpected dividend payout rate is 20% and its return on equity is 10% over the long term.”2\n“Why did you use an FCFE model to value Holt’s common stock? Can you use a DDM instead?”3\n“How did Holt’s FCFE for 2020 compare with its FCFF for the same year? I recommend you use an\nFCFF model to value Holt’s common stock instead of using an FCFE model because Holt has had a\nhistory of leverage changes in the past.”4 “In the last three years, about 5% of Holt’s\ngrowth in FCFE has come from decreases in inventory.”Leigh responds to each of Smith’s points\nas follows:1 “I will use your estimates and calculate Emerald’s long-term, sustainable\ndividend growth rate.”2 “There are two reasons why I used the FCFE model to value Holt’s\ncommon stock instead of using a DDM. The first reason is that Holt’s dividends have differed\nsignificantly from its capacity to pay dividends. The second reason is that Holt is a takeover\ntarget and once the company is taken over, the new owners will have discretion over the uses of\nfree cash flow.”3 “I will calculate Holt’s FCFF for 2020 and estimate the value of Holt’s\ncommon stock using an FCFF model.”4 “Holt is a growing company. In forecasting either Holt’s\nFCFE or FCFF growth rates, I will not consider decreases in inventory to be a long-term source\nof growth.”\n "
+        ],
+        "question_number": "13",
+        "question_text": "Do the reasons provided by Leigh support his use of the FCFE model to value",
+        "image": "",
+        "share_image": [
+            "Equity_images/share12-17_1.png",
+            "Equity_images/share12-17_2.png"
+        ],
+        "options": {
+            "A": "A.Yes.",
+            "B": "B.No, because Holt’s dividend situation argues in favor of using the DDM.",
+            "C": "C.No, because FCFE is not appropriate for investors taking a control perspective."
+        },
+        "answer": "A",
+        "explanation": "Justifications for choosing the FCFE model over the DDM include the following:●\nThe company pays dividends, but its dividends differ significantly from the company’s capacity\nto pay dividends (the first reason given by Leigh).\n● The investor takes a control perspective (the second reason given by Leigh)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Dividend Discount Model (DDM), Free Cash Flow to Equity (FCFE), Control Perspective in Valuation",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ryan Leigh is preparing a presentation that analyzes the valuation of the common stock\nof two companies under consideration as additions to his firm’s recommended list, Emerald\nCorporation and Holt Corporation. Leigh has prepared preliminary valuations of both companies\nusing an FCFE model and is also preparing a value estimate for Emerald using a dividend\ndiscount model. Holt’s 2019 and 2020 financial statements, contained in Exhibits 1 and 2, are\nprepared in accordance with US GAAP.\nLeigh presents his valuations of the common stock of Emerald and Holt to his supervisor, Alice\nSmith. Smith has the following questions and comments:1 “I estimate that Emerald’s long-term\nexpected dividend payout rate is 20% and its return on equity is 10% over the long term.”2\n“Why did you use an FCFE model to value Holt’s common stock? Can you use a DDM instead?”3\n“How did Holt’s FCFE for 2020 compare with its FCFF for the same year? I recommend you use an\nFCFF model to value Holt’s common stock instead of using an FCFE model because Holt has had a\nhistory of leverage changes in the past.”4 “In the last three years, about 5% of Holt’s\ngrowth in FCFE has come from decreases in inventory.”Leigh responds to each of Smith’s points\nas follows:1 “I will use your estimates and calculate Emerald’s long-term, sustainable\ndividend growth rate.”2 “There are two reasons why I used the FCFE model to value Holt’s\ncommon stock instead of using a DDM. The first reason is that Holt’s dividends have differed\nsignificantly from its capacity to pay dividends. The second reason is that Holt is a takeover\ntarget and once the company is taken over, the new owners will have discretion over the uses of\nfree cash flow.”3 “I will calculate Holt’s FCFF for 2020 and estimate the value of Holt’s\ncommon stock using an FCFF model.”4 “Holt is a growing company. In forecasting either Holt’s\nFCFE or FCFF growth rates, I will not consider decreases in inventory to be a long-term source\nof growth.”\n "
+        ],
+        "question_number": "14",
+        "question_text": "Holt's FCFF (in millions) for 2020 is closest to:",
+        "image": "",
+        "share_image": [
+            "Equity_images/share12-17_1.png",
+            "Equity_images/share12-17_2.png"
+        ],
+        "options": {
+            "A": "A.$308.",
+            "B": "B.$370.",
+            "C": "C.$422."
+        },
+        "answer": "A",
+        "explanation": "FCFF = NI + NCC + Interest expense (1 - Tax rate) - FCInv - WCInv. In this case:\n\n$$\n\\text{NI} = \\$485 \\text{ million}\n$$\n\n$$\n\\text{NCC} = \\text{Depreciation expense} = \\$270 \\text{ million}\n$$\n\n$$\n\\text{Interest expense (1 - Tax rate)} = 195 (1 - 0.32) = \\$132.6 \\text{ million}\n$$\n\n$$\n\\text{FCInv} = \\text{Net purchase of fixed assets} = \\text{Increase in gross fixed assets} = 4,275 - 3,752 = \\$523 \\text{ million}\n$$\n\n$$\n\\text{WCInv} = \\text{Increase in accounts receivable} + \\text{Increase in inventory} - \\text{Increase in accounts payable} - \\text{Increase in accrued liabilities}\n$$\n\n$$\n= (770 - 711) + (846 - 780) - (476 - 443) - (149 - 114)\n$$\n\n$$\n= \\$57 \\text{ million}\n$$\n\n$$\n\\text{FCFF} = 485 + 270 + 132.6 - 523 - 57 = 307.6, \\text{ or } 308 \\text{ million}\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Financial statements analysis, Cash flow estimation methods, Valuation techniques",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ryan Leigh is preparing a presentation that analyzes the valuation of the common stock\nof two companies under consideration as additions to his firm’s recommended list, Emerald\nCorporation and Holt Corporation. Leigh has prepared preliminary valuations of both companies\nusing an FCFE model and is also preparing a value estimate for Emerald using a dividend\ndiscount model. Holt’s 2019 and 2020 financial statements, contained in Exhibits 1 and 2, are\nprepared in accordance with US GAAP.\nLeigh presents his valuations of the common stock of Emerald and Holt to his supervisor, Alice\nSmith. Smith has the following questions and comments:1 “I estimate that Emerald’s long-term\nexpected dividend payout rate is 20% and its return on equity is 10% over the long term.”2\n“Why did you use an FCFE model to value Holt’s common stock? Can you use a DDM instead?”3\n“How did Holt’s FCFE for 2020 compare with its FCFF for the same year? I recommend you use an\nFCFF model to value Holt’s common stock instead of using an FCFE model because Holt has had a\nhistory of leverage changes in the past.”4 “In the last three years, about 5% of Holt’s\ngrowth in FCFE has come from decreases in inventory.”Leigh responds to each of Smith’s points\nas follows:1 “I will use your estimates and calculate Emerald’s long-term, sustainable\ndividend growth rate.”2 “There are two reasons why I used the FCFE model to value Holt’s\ncommon stock instead of using a DDM. The first reason is that Holt’s dividends have differed\nsignificantly from its capacity to pay dividends. The second reason is that Holt is a takeover\ntarget and once the company is taken over, the new owners will have discretion over the uses of\nfree cash flow.”3 “I will calculate Holt’s FCFF for 2020 and estimate the value of Holt’s\ncommon stock using an FCFF model.”4 “Holt is a growing company. In forecasting either Holt’s\nFCFE or FCFF growth rates, I will not consider decreases in inventory to be a long-term source\nof growth.”\n "
+        ],
+        "question_number": "15",
+        "question_text": "Holt's FCFE (in millions) for 2020 is closest to:",
+        "image": "",
+        "share_image": [
+            "Equity_images/share12-17_1.png",
+            "Equity_images/share12-17_2.png"
+        ],
+        "options": {
+            "A": "A.$175.",
+            "B": "B.$250.",
+            "C": "C.$364."
+        },
+        "answer": "B",
+        "explanation": "FCFE = NI + NCC – FCInv – WCInv + Net borrowing. In this case:NI=$485\nmillionNCC=Depreciation expense = $270 millionFCInv = Net purchase of fixed assets = Increase\nin gross fixed assets = 4,275 – 3,752=$523 millionWCInv = Increase in accounts\nreceivable+Increase in inventory – Increase in accounts payable – Increase in accrued\nliabilities=(770 – 711)+(846 – 780) – (476 – 443)-(149 – 114)= $57 millionNet borrowing\n=Increase in notes payable + Increase in long–term debt=(465 – 450)+(1,575 – 1,515)=$75\nmillionFCFE = 485+270 – 523 – 57+75 = $250millionAn alternative calculation isFCFE = FCFF –\nInt(1 – Tax rate) + Net borrowingFCFE = 307.6 – 195(1 – 0.32) + (15 +60) = $250 million",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Free Cash Flow to Equity (FCFE), Financial Statement Analysis, Net Borrowing",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ryan Leigh is preparing a presentation that analyzes the valuation of the common stock\nof two companies under consideration as additions to his firm’s recommended list, Emerald\nCorporation and Holt Corporation. Leigh has prepared preliminary valuations of both companies\nusing an FCFE model and is also preparing a value estimate for Emerald using a dividend\ndiscount model. Holt’s 2019 and 2020 financial statements, contained in Exhibits 1 and 2, are\nprepared in accordance with US GAAP.\nLeigh presents his valuations of the common stock of Emerald and Holt to his supervisor, Alice\nSmith. Smith has the following questions and comments:1 “I estimate that Emerald’s long-term\nexpected dividend payout rate is 20% and its return on equity is 10% over the long term.”2\n“Why did you use an FCFE model to value Holt’s common stock? Can you use a DDM instead?”3\n“How did Holt’s FCFE for 2020 compare with its FCFF for the same year? I recommend you use an\nFCFF model to value Holt’s common stock instead of using an FCFE model because Holt has had a\nhistory of leverage changes in the past.”4 “In the last three years, about 5% of Holt’s\ngrowth in FCFE has come from decreases in inventory.”Leigh responds to each of Smith’s points\nas follows:1 “I will use your estimates and calculate Emerald’s long-term, sustainable\ndividend growth rate.”2 “There are two reasons why I used the FCFE model to value Holt’s\ncommon stock instead of using a DDM. The first reason is that Holt’s dividends have differed\nsignificantly from its capacity to pay dividends. The second reason is that Holt is a takeover\ntarget and once the company is taken over, the new owners will have discretion over the uses of\nfree cash flow.”3 “I will calculate Holt’s FCFF for 2020 and estimate the value of Holt’s\ncommon stock using an FCFF model.”4 “Holt is a growing company. In forecasting either Holt’s\nFCFE or FCFF growth rates, I will not consider decreases in inventory to be a long-term source\nof growth.”\n "
+        ],
+        "question_number": "16",
+        "question_text": "Leigh's comment about not considering decreases in inventory to be a source of",
+        "image": "",
+        "share_image": [
+            "Equity_images/share12-17_1.png",
+            "Equity_images/share12-17_2.png"
+        ],
+        "options": {
+            "A": "A.inconsistent with a forecasting perspective.",
+            "B": "B.mistaken because decreases in inventory are a use rather than a source of cash.",
+            "C": "C.consistent with a forecasting perspective because inventory reduction has a limit,"
+        },
+        "answer": "C",
+        "explanation": "Inventory cannot be reduced below zero. Furthermore, sales growth tends to increase\ninventory.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cash Flow Forecasting, Inventory Management, Financial Analysis",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ryan Leigh is preparing a presentation that analyzes the valuation of the common stock\nof two companies under consideration as additions to his firm’s recommended list, Emerald\nCorporation and Holt Corporation. Leigh has prepared preliminary valuations of both companies\nusing an FCFE model and is also preparing a value estimate for Emerald using a dividend\ndiscount model. Holt’s 2019 and 2020 financial statements, contained in Exhibits 1 and 2, are\nprepared in accordance with US GAAP.\nLeigh presents his valuations of the common stock of Emerald and Holt to his supervisor, Alice\nSmith. Smith has the following questions and comments:1 “I estimate that Emerald’s long-term\nexpected dividend payout rate is 20% and its return on equity is 10% over the long term.”2\n“Why did you use an FCFE model to value Holt’s common stock? Can you use a DDM instead?”3\n“How did Holt’s FCFE for 2020 compare with its FCFF for the same year? I recommend you use an\nFCFF model to value Holt’s common stock instead of using an FCFE model because Holt has had a\nhistory of leverage changes in the past.”4 “In the last three years, about 5% of Holt’s\ngrowth in FCFE has come from decreases in inventory.”Leigh responds to each of Smith’s points\nas follows:1 “I will use your estimates and calculate Emerald’s long-term, sustainable\ndividend growth rate.”2 “There are two reasons why I used the FCFE model to value Holt’s\ncommon stock instead of using a DDM. The first reason is that Holt’s dividends have differed\nsignificantly from its capacity to pay dividends. The second reason is that Holt is a takeover\ntarget and once the company is taken over, the new owners will have discretion over the uses of\nfree cash flow.”3 “I will calculate Holt’s FCFF for 2020 and estimate the value of Holt’s\ncommon stock using an FCFF model.”4 “Holt is a growing company. In forecasting either Holt’s\nFCFE or FCFF growth rates, I will not consider decreases in inventory to be a long-term source\nof growth.”\n "
+        ],
+        "question_number": "17",
+        "question_text": "Smith's recommendation to use a FCFF model to value Holt is:",
+        "image": "",
+        "share_image": [
+            "Equity_images/share12-17_1.png",
+            "Equity_images/share12-17_2.png"
+        ],
+        "options": {
+            "A": "A.logical, given the prospect of Holt changing capital structure.",
+            "B": "B.not logical because a FCFF model is used only to value the total firm.",
+            "C": "C.not logical because FCFE represents a more direct approach to free cash flow valuation."
+        },
+        "answer": "A",
+        "explanation": "The FCFF model is often selected when the capital structure is expected to change\nbecause FCFF estimation may be easier than FCFE estimation in the presence of changing\nfinancial leverage.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Capital Structure, FCFF Model, FCFE Model",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Nigel French, an analyst at Taurus Investment Management, is analyzing Archway\nTechnologies, a manufacturer of luxury electronic auto equipment, at the request of his\nsupervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past\nfive years relative to its two main competitors, which are located in different countries with\nsignificantly different tax structures.French begins by assessing Archway’s competitive\nposition within the luxury electronic auto equipment industry using Porter’s five forces\nframework. A summary of French’s industry analysis is presented in Exhibit 1.\nFrench notes that for the year just ended (2019), Archway’s cost of goods sold was 30% of\nsales. To forecast Archway’s income statement for 2020, French assumes that all companies in\nthe industry will experience an inflation rate of 8% on the cost of goods sold. Exhibit 2 shows\nFrench’s forecasts relating to Archway’s price and volume changes.\nAfter putting together income statement projections for Archway, French forecasts Archway’s\nbalance sheet items; He uses Archway’s historical efficiency ratios to forecast the company’s\nworking capital accounts.Based on his financial forecast for Archway, French estimates a\nterminal value using a valuation multiple based on the company’s average price-to-earnings\nmultiple (P/E) over the past five years. Wright discusses with French how the terminal value\nestimate is sensitive to key assumptions about the company’s future prospects. Wright asks\nFrench:“What change in the calculation of the terminal value would you make if a technological\ndevelopment that would adversely affect Archway was forecast to occur sometime beyond your\nfinancial forecast horizon?”\n "
+        ],
+        "question_number": "18",
+        "question_text": "Which return metric should French use to assess Archway’s five-year historic",
+        "image": "",
+        "share_image": [
+            "Equity_images/share18-23_1.png",
+            "Equity_images/share18-23_2.png"
+        ],
+        "options": {
+            "A": "A.Return on equity",
+            "B": "B.Return on invested capital",
+            "C": "C.Return on capital employed"
+        },
+        "answer": "C",
+        "explanation": "The return on capital employed (ROCE) is a pre-tax return measure that can be\nuseful in the peer comparison of companies in countries with different tax structures.\nArchway’s two main competitors are located in different countries with significantly different\ntax structures, and therefore, a pre-tax measure of return on capital employed is better than\nan after-tax measure.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Return metrics, Pre-tax return measures, Peer comparison in different tax structures",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Nigel French, an analyst at Taurus Investment Management, is analyzing Archway\nTechnologies, a manufacturer of luxury electronic auto equipment, at the request of his\nsupervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past\nfive years relative to its two main competitors, which are located in different countries with\nsignificantly different tax structures.French begins by assessing Archway’s competitive\nposition within the luxury electronic auto equipment industry using Porter’s five forces\nframework. A summary of French’s industry analysis is presented in Exhibit 1.\nFrench notes that for the year just ended (2019), Archway’s cost of goods sold was 30% of\nsales. To forecast Archway’s income statement for 2020, French assumes that all companies in\nthe industry will experience an inflation rate of 8% on the cost of goods sold. Exhibit 2 shows\nFrench’s forecasts relating to Archway’s price and volume changes.\nAfter putting together income statement projections for Archway, French forecasts Archway’s\nbalance sheet items; He uses Archway’s historical efficiency ratios to forecast the company’s\nworking capital accounts.Based on his financial forecast for Archway, French estimates a\nterminal value using a valuation multiple based on the company’s average price-to-earnings\nmultiple (P/E) over the past five years. Wright discusses with French how the terminal value\nestimate is sensitive to key assumptions about the company’s future prospects. Wright asks\nFrench:“What change in the calculation of the terminal value would you make if a technological\ndevelopment that would adversely affect Archway was forecast to occur sometime beyond your\nfinancial forecast horizon?”\n "
+        ],
+        "question_number": "19",
+        "question_text": "Based on the current competitive landscape presented in 1, French should",
+        "image": "",
+        "share_image": [
+            "Equity_images/share18-23_1.png",
+            "Equity_images/share18-23_2.png"
+        ],
+        "options": {
+            "A": "A.pass along price increases is high.",
+            "B": "B.demand lower input prices from suppliers is low.",
+            "C": "C.generate above-average returns on invested capital is low."
+        },
+        "answer": "A",
+        "explanation": "Porter’s five forces framework in Exhibit 1 describes an industry with high\nbarriers to entry, high customer switching costs (suggesting a low threat of substitutes), and\na specialized product (suggesting low bargaining power of buyers). Furthermore, the primary\nproduction inputs from the large group of suppliers are considered basic commodities\n(suggesting low bargaining power of suppliers). These favorable industry characteristics will\nlikely enable Archway to pass along price increases and generate above-average returns on\ninvested capital.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Porter’s Five Forces, Competitive Landscape, Industry Analysis",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Nigel French, an analyst at Taurus Investment Management, is analyzing Archway\nTechnologies, a manufacturer of luxury electronic auto equipment, at the request of his\nsupervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past\nfive years relative to its two main competitors, which are located in different countries with\nsignificantly different tax structures.French begins by assessing Archway’s competitive\nposition within the luxury electronic auto equipment industry using Porter’s five forces\nframework. A summary of French’s industry analysis is presented in Exhibit 1.\nFrench notes that for the year just ended (2019), Archway’s cost of goods sold was 30% of\nsales. To forecast Archway’s income statement for 2020, French assumes that all companies in\nthe industry will experience an inflation rate of 8% on the cost of goods sold. Exhibit 2 shows\nFrench’s forecasts relating to Archway’s price and volume changes.\nAfter putting together income statement projections for Archway, French forecasts Archway’s\nbalance sheet items; He uses Archway’s historical efficiency ratios to forecast the company’s\nworking capital accounts.Based on his financial forecast for Archway, French estimates a\nterminal value using a valuation multiple based on the company’s average price-to-earnings\nmultiple (P/E) over the past five years. Wright discusses with French how the terminal value\nestimate is sensitive to key assumptions about the company’s future prospects. Wright asks\nFrench:“What change in the calculation of the terminal value would you make if a technological\ndevelopment that would adversely affect Archway was forecast to occur sometime beyond your\nfinancial forecast horizon?”\n "
+        ],
+        "question_number": "20",
+        "question_text": "Based on the current competitive landscape presented in 1, Archway’s",
+        "image": "",
+        "share_image": [
+            "Equity_images/share18-23_1.png",
+            "Equity_images/share18-23_2.png"
+        ],
+        "options": {
+            "A": "A.decrease.",
+            "B": "B.remain constant.",
+            "C": "C.increase."
+        },
+        "answer": "A",
+        "explanation": "The current favorable characteristics of the industry (high barriers to entry, low\nbargaining power of suppliers and buyers, low threat of substitutes), coupled with Archway’s\ndominant market share position, will likely lead to Archway’s profit margins being at least\nequal to or greater than current levels over the forecast horizon.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Structure, Competitive Advantage, Barriers to Entry",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Nigel French, an analyst at Taurus Investment Management, is analyzing Archway\nTechnologies, a manufacturer of luxury electronic auto equipment, at the request of his\nsupervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past\nfive years relative to its two main competitors, which are located in different countries with\nsignificantly different tax structures.French begins by assessing Archway’s competitive\nposition within the luxury electronic auto equipment industry using Porter’s five forces\nframework. A summary of French’s industry analysis is presented in Exhibit 1.\nFrench notes that for the year just ended (2019), Archway’s cost of goods sold was 30% of\nsales. To forecast Archway’s income statement for 2020, French assumes that all companies in\nthe industry will experience an inflation rate of 8% on the cost of goods sold. Exhibit 2 shows\nFrench’s forecasts relating to Archway’s price and volume changes.\nAfter putting together income statement projections for Archway, French forecasts Archway’s\nbalance sheet items; He uses Archway’s historical efficiency ratios to forecast the company’s\nworking capital accounts.Based on his financial forecast for Archway, French estimates a\nterminal value using a valuation multiple based on the company’s average price-to-earnings\nmultiple (P/E) over the past five years. Wright discusses with French how the terminal value\nestimate is sensitive to key assumptions about the company’s future prospects. Wright asks\nFrench:“What change in the calculation of the terminal value would you make if a technological\ndevelopment that would adversely affect Archway was forecast to occur sometime beyond your\nfinancial forecast horizon?”\n "
+        ],
+        "question_number": "21",
+        "question_text": "Based on Exhibit 2, Archway’s forecasted gross profit margin for 2020 is",
+        "image": "",
+        "share_image": [
+            "Equity_images/share18-23_1.png",
+            "Equity_images/share18-23_2.png"
+        ],
+        "options": {
+            "A": "A.62.7%.",
+            "B": "B.67.0%.",
+            "C": "C.69.1%."
+        },
+        "answer": "C",
+        "explanation": "The calculation of Archway’s gross profit margin for 2020, which reflects the industry-wide 8% inflation on cost of goods sold (COGS), is calculated as follows:\n\n| Revenue growth | 1.85% |\n| --- | --- |\n| Cost of goods sold increase | 4.76% |\n| Forecasted revenue (Base revenue = 100) | 101.85 |\n| Forecasted COGS (Base COGS = 30) | 31.43 |\n| Forecasted gross profit | 70.42 |\n| Forecasted gross profit margin | 69.14% |\n\nRevenue growth = (1 + Price increase for revenue) × (1 + Volume growth) - 1\n\nRevenue growth = (1.05) × (0.97) - 1 = 1.85%\n\nCOGS increase = (1 + Price increase for COGS) × (1 + Volume growth) - 1\n\nCOGS increase = (1.08) × (0.97) - 1 = 4.76%\n\nForecasted revenue = Base revenue × Revenue growth increase\n\nForecasted revenue = 100 × 1.0185 = 101.85\n\nForecasted COGS = Base COGS × COGS increase\n\nForecasted COGS = 30 × 1.0476 = 31.43\n\nForecasted gross profit = Forecasted revenue - Forecasted COGS\n\nForecasted gross profit = 101.85 - 31.43 = 70.42\n\nForecasted gross profit margin = Forecasted gross profit / Forecasted revenue\n\nForecasted gross profit margin = 70.42 / 101.85 = 69.14%\n",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Financial analysis, Forecasting, Profit margin calculation",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Nigel French, an analyst at Taurus Investment Management, is analyzing Archway\nTechnologies, a manufacturer of luxury electronic auto equipment, at the request of his\nsupervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past\nfive years relative to its two main competitors, which are located in different countries with\nsignificantly different tax structures.French begins by assessing Archway’s competitive\nposition within the luxury electronic auto equipment industry using Porter’s five forces\nframework. A summary of French’s industry analysis is presented in Exhibit 1.\nFrench notes that for the year just ended (2019), Archway’s cost of goods sold was 30% of\nsales. To forecast Archway’s income statement for 2020, French assumes that all companies in\nthe industry will experience an inflation rate of 8% on the cost of goods sold. Exhibit 2 shows\nFrench’s forecasts relating to Archway’s price and volume changes.\nAfter putting together income statement projections for Archway, French forecasts Archway’s\nbalance sheet items; He uses Archway’s historical efficiency ratios to forecast the company’s\nworking capital accounts.Based on his financial forecast for Archway, French estimates a\nterminal value using a valuation multiple based on the company’s average price-to-earnings\nmultiple (P/E) over the past five years. Wright discusses with French how the terminal value\nestimate is sensitive to key assumptions about the company’s future prospects. Wright asks\nFrench:“What change in the calculation of the terminal value would you make if a technological\ndevelopment that would adversely affect Archway was forecast to occur sometime beyond your\nfinancial forecast horizon?”\n "
+        ],
+        "question_number": "22",
+        "question_text": "French’s approach to forecasting Archway’s working capital accounts would be",
+        "image": "",
+        "share_image": [
+            "Equity_images/share18-23_1.png",
+            "Equity_images/share18-23_2.png"
+        ],
+        "options": {
+            "A": "A.hybrid approach.",
+            "B": "B.top-down approach.",
+            "C": "C.top-down approach."
+        },
+        "answer": "C",
+        "explanation": "French is using a bottom-up approach to forecast Archway’s working capital\naccounts by using the company’s historical efficiency ratios to project future performance.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Working Capital Management, Forecasting Models, Financial Analysis",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Nigel French, an analyst at Taurus Investment Management, is analyzing Archway\nTechnologies, a manufacturer of luxury electronic auto equipment, at the request of his\nsupervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past\nfive years relative to its two main competitors, which are located in different countries with\nsignificantly different tax structures.French begins by assessing Archway’s competitive\nposition within the luxury electronic auto equipment industry using Porter’s five forces\nframework. A summary of French’s industry analysis is presented in Exhibit 1.\nFrench notes that for the year just ended (2019), Archway’s cost of goods sold was 30% of\nsales. To forecast Archway’s income statement for 2020, French assumes that all companies in\nthe industry will experience an inflation rate of 8% on the cost of goods sold. Exhibit 2 shows\nFrench’s forecasts relating to Archway’s price and volume changes.\nAfter putting together income statement projections for Archway, French forecasts Archway’s\nbalance sheet items; He uses Archway’s historical efficiency ratios to forecast the company’s\nworking capital accounts.Based on his financial forecast for Archway, French estimates a\nterminal value using a valuation multiple based on the company’s average price-to-earnings\nmultiple (P/E) over the past five years. Wright discusses with French how the terminal value\nestimate is sensitive to key assumptions about the company’s future prospects. Wright asks\nFrench:“What change in the calculation of the terminal value would you make if a technological\ndevelopment that would adversely affect Archway was forecast to occur sometime beyond your\nfinancial forecast horizon?”\n "
+        ],
+        "question_number": "23",
+        "question_text": "The most appropriate response to Wright’s question about the technological",
+        "image": "",
+        "share_image": [
+            "Equity_images/share18-23_1.png",
+            "Equity_images/share18-23_2.png"
+        ],
+        "options": {
+            "A": "A.increase the required return.",
+            "B": "B.decrease the price-to-earnings multiple.",
+            "C": "C.decrease the perpetual growth rate."
+        },
+        "answer": "B",
+        "explanation": "If the future growth or profitability of a company is likely to be lower than the\nhistorical average (in this case, because of a potential technological development), then the\ntarget multiple should reflect a discount to the historical multiple to reflect this difference\nin growth and/or profitability. If a multiple is used to derive the terminal value of a\ncompany, the choice of the multiple should be consistent with the long-run expectations for\ngrowth and required return. French tells Wright he believes that such a technological\ndevelopment may have an adverse impact on Archway beyond the forecast horizon.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Valuation techniques, Future growth estimation, Terminal value calculation",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo\nmeets with her investment team to discuss potential investments in three companies: Company A,\nCompany B, and Company C. Statements of cash flow for the three companies are presented in\nExhibit 1.\nIzzo’s team first discusses key characteristics of Company A. The company has a history of\npaying modest dividends relative to FCFE, has a stable capital structure, and is owned by a\ncontrolling investor.The team also considers the impact of Company A’s three non-cash\ntransactions in the most recent year on its FCFE, including the following:● Transaction 1: A\n$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400\nmillion● Transaction 3: A $300 million reversal of a previously recorded restructuring\nchargeIn addition, Company A’s annual report indicates that the firm expects to incur\nadditional non-cash charges related to restructuring over the next few years.To value the three\ncompanies’ shares, one team member suggests valuing the companies’ shares using net income as\na proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology\nbased on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s\nteam ultimately decides to use actual free cash flow to value the three companies’ shares.\nSelected data and assumptions are provided in Exhibit 2.\nThe team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth\nrates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before\ndeclining to a constant 6% starting in the fifth year.To calculate the intrinsic value of\nCompany C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF\nis expected to grow at 5% indefinitely.\n "
+        ],
+        "question_number": "24",
+        "question_text": "Based on Company A’s key characteristics, which discounted cash flow model",
+        "image": "",
+        "share_image": [
+            "Equity_images/share24-30_1.png",
+            "Equity_images/share24-30_2.png"
+        ],
+        "options": {
+            "A": "A.DDM",
+            "B": "B.FCFE",
+            "C": "C.FCFF"
+        },
+        "answer": "B",
+        "explanation": "Company A has a history of paying modest dividends relative to FCFE. An FCFF or\nFCFE model provides a better estimate of value over a DDM model when dividends paid differ\nsignificantly from the company’s capacity to pay dividends. Also, Company A has a controlling\ninvestor; with control comes discretion over the uses of free cash flow. Therefore, there is\nthe possibility that the controlling shareholder could change the dividend policy. Finally,\nCompany A has a stable capital structure; using FCFE is a more direct and simpler method to\nvalue a company’s equity than using FCFF when a company’s capital structure is stable.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Discounted Cash Flow Models, Free Cash Flow to Equity (FCFE), Dividend Discount Model (DDM)",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo\nmeets with her investment team to discuss potential investments in three companies: Company A,\nCompany B, and Company C. Statements of cash flow for the three companies are presented in\nExhibit 1.\nIzzo’s team first discusses key characteristics of Company A. The company has a history of\npaying modest dividends relative to FCFE, has a stable capital structure, and is owned by a\ncontrolling investor.The team also considers the impact of Company A’s three non-cash\ntransactions in the most recent year on its FCFE, including the following:● Transaction 1: A\n$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400\nmillion● Transaction 3: A $300 million reversal of a previously recorded restructuring\nchargeIn addition, Company A’s annual report indicates that the firm expects to incur\nadditional non-cash charges related to restructuring over the next few years.To value the three\ncompanies’ shares, one team member suggests valuing the companies’ shares using net income as\na proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology\nbased on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s\nteam ultimately decides to use actual free cash flow to value the three companies’ shares.\nSelected data and assumptions are provided in Exhibit 2.\nThe team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth\nrates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before\ndeclining to a constant 6% starting in the fifth year.To calculate the intrinsic value of\nCompany C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF\nis expected to grow at 5% indefinitely.\n "
+        ],
+        "question_number": "25",
+        "question_text": "Which non-cash transaction should be subtracted from net income in arriving at",
+        "image": "",
+        "share_image": [
+            "Equity_images/share24-30_1.png",
+            "Equity_images/share24-30_2.png"
+        ],
+        "options": {
+            "A": "A.Transaction 1",
+            "B": "B.Transaction 2",
+            "C": "C.Transaction 3"
+        },
+        "answer": "C",
+        "explanation": "The applicable non-cash adjustments to net income in arriving at FCFE are as follows:\n\n| Non-Cash Item                            | Adjustment to Net Income | Amount (millions) |\n|------------------------------------------|--------------------------|-------------------|\n| Transaction 1: Loss on sale of equipment | Added back               | +900              |\n| Transaction 2: Impairment of intangibles | Added back               | +400              |\n| Transaction 3: Reversal of restructuring charge | Subtracted       | -300              |\n\nIn the case of Transaction 1, a loss reduces net income and thus must be added back in arriving at FCFE. Similarly, an impairment of intangibles (Transaction 2) reduces net income and thus must be added back in arriving at FCFE. Transaction 3 (reversal of a restructuring charge) would increase net income and thus must be subtracted in arriving at FCFE.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Free Cash Flow to Equity (FCFE) adjustments, Non-cash transactions, Financial statement analysis",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo\nmeets with her investment team to discuss potential investments in three companies: Company A,\nCompany B, and Company C. Statements of cash flow for the three companies are presented in\nExhibit 1.\nIzzo’s team first discusses key characteristics of Company A. The company has a history of\npaying modest dividends relative to FCFE, has a stable capital structure, and is owned by a\ncontrolling investor.The team also considers the impact of Company A’s three non-cash\ntransactions in the most recent year on its FCFE, including the following:● Transaction 1: A\n$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400\nmillion● Transaction 3: A $300 million reversal of a previously recorded restructuring\nchargeIn addition, Company A’s annual report indicates that the firm expects to incur\nadditional non-cash charges related to restructuring over the next few years.To value the three\ncompanies’ shares, one team member suggests valuing the companies’ shares using net income as\na proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology\nbased on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s\nteam ultimately decides to use actual free cash flow to value the three companies’ shares.\nSelected data and assumptions are provided in Exhibit 2.\nThe team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth\nrates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before\ndeclining to a constant 6% starting in the fifth year.To calculate the intrinsic value of\nCompany C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF\nis expected to grow at 5% indefinitely.\n "
+        ],
+        "question_number": "26",
+        "question_text": "Based on Exhibit 1, Company A’s FCFE for the most recent year is closest to:",
+        "image": "",
+        "share_image": [
+            "Equity_images/share24-30_1.png",
+            "Equity_images/share24-30_2.png"
+        ],
+        "options": {
+            "A": "A.$5,318 million.",
+            "B": "B.$6,126 million.",
+            "C": "C.$7,126 million."
+        },
+        "answer": "C",
+        "explanation": "FCFE for Company A for the most recent year is calculated as follows:\n\n$$\n\\begin{array}{lr}\n\\text{Net income} & \\$4,844 \\\\\n\\text{Plus: Net non-cash charges} & 1,500 \\\\\n\\text{Less: Investment in working capital} & 122 \\\\\n\\text{Plus: Proceeds from sale of fixed capital} & 2,379 \\\\\n\\text{Less: Net borrowing repayment} & 1,475 \\\\\n\\hline\n\\text{FCFE (millions)} & \\$7,126 \\\\\n\\end{array}\n$$\n\nNet non-cash charges are found by adding depreciation to other non-cash expenses: $500 \\text{ million} + \\$1,000 \\text{ million} = \\$1,500 \\text{ million}$. Investment in working capital is calculated by netting the increase in accounts receivable, the decrease in accounts payable, and the increase in other current liabilities: $- \\$452 \\text{ million} - \\$210 \\text{ million} + \\$540 \\text{ million} = - \\$122 \\text{ million}$ (outflow). Net borrowing repayment is calculated by netting the increase in notes payable and the decrease in long-term debt: $25 \\text{ million} - \\$1,500 \\text{ million} = - \\$1,475 \\text{ million}$ (outflow).",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Free Cash Flow to Equity (FCFE) Calculation, Working Capital Investment, Net Non-Cash Charges",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo\nmeets with her investment team to discuss potential investments in three companies: Company A,\nCompany B, and Company C. Statements of cash flow for the three companies are presented in\nExhibit 1.\nIzzo’s team first discusses key characteristics of Company A. The company has a history of\npaying modest dividends relative to FCFE, has a stable capital structure, and is owned by a\ncontrolling investor.The team also considers the impact of Company A’s three non-cash\ntransactions in the most recent year on its FCFE, including the following:● Transaction 1: A\n$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400\nmillion● Transaction 3: A $300 million reversal of a previously recorded restructuring\nchargeIn addition, Company A’s annual report indicates that the firm expects to incur\nadditional non-cash charges related to restructuring over the next few years.To value the three\ncompanies’ shares, one team member suggests valuing the companies’ shares using net income as\na proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology\nbased on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s\nteam ultimately decides to use actual free cash flow to value the three companies’ shares.\nSelected data and assumptions are provided in Exhibit 2.\nThe team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth\nrates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before\ndeclining to a constant 6% starting in the fifth year.To calculate the intrinsic value of\nCompany C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF\nis expected to grow at 5% indefinitely.\n "
+        ],
+        "question_number": "27",
+        "question_text": "Based on Exhibit 1, using net income as a proxy for Company B’s FCFE would",
+        "image": "",
+        "share_image": [
+            "Equity_images/share24-30_1.png",
+            "Equity_images/share24-30_2.png"
+        ],
+        "options": {
+            "A": "A.lower than the intrinsic value if actual FCFE were used.",
+            "B": "B.equal to the intrinsic value if actual FCFE were used.",
+            "C": "C.higher than the intrinsic value if actual FCFE were used."
+        },
+        "answer": "A",
+        "explanation": "FCFE is significantly higher than net income for Company B: Net income = $1,212 million. FCFE for Company B is calculated as:\n\n|                       |         |\n|-----------------------|---------|\n| Net income            | $1,212  |\n| Plus: Net non-cash charges   | 288     |\n| Less: Investment in WC       | 236     |\n| Less: Investment in fixed assets          | 1,000   |\n| Plus: Net borrowing          | 2,000   |\n| **FCFE (millions)**          | **$2,264**  |\n\nInvestment in working capital is calculated by adding the increase in accounts receivable, the increase in inventories, the increase in accounts payable, and the increase in other current liabilities:\n$-150 \\text{ million} - 200 \\text{ million} + 100 \\text{ million} + 14 \\text{ million} = -236 \\text{ million}.$ \nNet borrowing is calculated by adding the increase in notes payable to the decrease in long-term debt: $3,000 \\text{ million} - 1,000 \\text{ million} = 2,000 \\text{ million}$. Therefore, using net income of $1,212 million as a proxy for FCFE ($2,264 million) for Company B would result in a much lower valuation estimate than if actual FCFE were used.\n",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Free Cash Flow to Equity (FCFE), Net Income, Valuation Techniques",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo\nmeets with her investment team to discuss potential investments in three companies: Company A,\nCompany B, and Company C. Statements of cash flow for the three companies are presented in\nExhibit 1.\nIzzo’s team first discusses key characteristics of Company A. The company has a history of\npaying modest dividends relative to FCFE, has a stable capital structure, and is owned by a\ncontrolling investor.The team also considers the impact of Company A’s three non-cash\ntransactions in the most recent year on its FCFE, including the following:● Transaction 1: A\n$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400\nmillion● Transaction 3: A $300 million reversal of a previously recorded restructuring\nchargeIn addition, Company A’s annual report indicates that the firm expects to incur\nadditional non-cash charges related to restructuring over the next few years.To value the three\ncompanies’ shares, one team member suggests valuing the companies’ shares using net income as\na proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology\nbased on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s\nteam ultimately decides to use actual free cash flow to value the three companies’ shares.\nSelected data and assumptions are provided in Exhibit 2.\nThe team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth\nrates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before\ndeclining to a constant 6% starting in the fifth year.To calculate the intrinsic value of\nCompany C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF\nis expected to grow at 5% indefinitely.\n "
+        ],
+        "question_number": "28",
+        "question_text": "Based on Exhibit 1, using the proposed sales-based methodology to forecast",
+        "image": "",
+        "share_image": [
+            "Equity_images/share24-30_1.png",
+            "Equity_images/share24-30_2.png"
+        ],
+        "options": {
+            "A": "A.Company A",
+            "B": "B.Company B",
+            "C": "C.Company C"
+        },
+        "answer": "A",
+        "explanation": "In addition to significant non-cash charges other than depreciation in the most\nrecent year, the annual report indicates that Company A expects to recognize additional non-\ncash charges related to restructuring over the next few years. The given equation for\nforecasting assumes that the only non-cash charge is depreciation. When the company being\nanalyzed has significant non-cash charges other than depreciation expense, this sales-based\nmethodology will result in a less accurate estimate of FCFE than one obtained by forecasting\nall the individual components of FCFE.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forecasting, Free Cash Flow to Equity (FCFE), Non-Cash Charges",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo\nmeets with her investment team to discuss potential investments in three companies: Company A,\nCompany B, and Company C. Statements of cash flow for the three companies are presented in\nExhibit 1.\nIzzo’s team first discusses key characteristics of Company A. The company has a history of\npaying modest dividends relative to FCFE, has a stable capital structure, and is owned by a\ncontrolling investor.The team also considers the impact of Company A’s three non-cash\ntransactions in the most recent year on its FCFE, including the following:● Transaction 1: A\n$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400\nmillion● Transaction 3: A $300 million reversal of a previously recorded restructuring\nchargeIn addition, Company A’s annual report indicates that the firm expects to incur\nadditional non-cash charges related to restructuring over the next few years.To value the three\ncompanies’ shares, one team member suggests valuing the companies’ shares using net income as\na proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology\nbased on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s\nteam ultimately decides to use actual free cash flow to value the three companies’ shares.\nSelected data and assumptions are provided in Exhibit 2.\nThe team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth\nrates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before\ndeclining to a constant 6% starting in the fifth year.To calculate the intrinsic value of\nCompany C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF\nis expected to grow at 5% indefinitely.\n "
+        ],
+        "question_number": "29",
+        "question_text": "Based on Exhibits 1 and 2 and the proposed two-stage FCFE model, the intrinsic",
+        "image": "",
+        "share_image": [
+            "Equity_images/share24-30_1.png",
+            "Equity_images/share24-30_2.png"
+        ],
+        "options": {
+            "A": "A.$70,602 million.",
+            "B": "B.$73,588 million.",
+            "C": "C.$79,596 million."
+        },
+        "answer": "C",
+        "explanation": "The required rate of return on equity for Company B is $r = E(R_{i}) = R_{FX} + \\beta_{i}[E(R_{MK}) - R_{FX}] = 3\\% + 0.90(7\\%) = 9.3\\%$. FCFE for the most recent year for Company B is:\n\n$$\n\\begin{array}{ll}\n\\text{Net income} & \\$1,212 \\\\\n\\text{Plus: Net non-cash charges} & 288 \\\\\n\\text{Less: Investment in WC} & 236 \\\\\n\\text{Less: Investment in fixed assets} & 1,000 \\\\\n\\text{Plus: Net borrowing} & 2,000 \\\\\n\\hline\n\\text{FCFE (millions)} & \\$2,264 \\\\\n\\end{array}\n$$\n\n$\\beta_{i}[E(R_{MK}) - R_{FX}] = 3\\% \\cdot 0.90(7\\%) = 9.3\\%$. The most recent FCFE grows for the next four years at annual growth rates of 10\\%, 9\\%, 8\\%, and 7\\%, respectively, and then 6\\% thereafter:\n\n$$\n\\begin{array}{ccc}\nt & g & \\text{Calculation} & \\text{FCFE (millions)} \\\\\n\\hline\n1 & 10\\% & \\$2,264.00 \\times 1.10 & \\$2,490.40 \\\\\n2 & 9\\% & \\$2,490.40 \\times 1.09 & \\$2,714.54 \\\\\n3 & 8\\% & \\$2,714.54 \\times 1.08 & \\$2,931.70 \\\\\n4 & 7\\% & \\$2,931.70 \\times 1.07 & \\$3,136.92 \\\\\n5 & 6\\% & \\$3,136.92 \\times 1.06 & \\$3,325.13 \\\\\n\\end{array}\n$$\n\nThe present value of FCFE for the first four years is calculated as follows:\n$$\nPV = \\frac{2,490.40}{1.093} + \\frac{2,714.54}{(1.093)^2} + \\frac{2,931.70}{(1.093)^3} + \\frac{3,136.92}{(1.093)^4} = 2,278.50 + 2,272.25 + 2,245.22 + 2,197.97 = 8,993.94\n$$\n\nThe present value of the terminal value is calculated as follows:\n$$\nPV \\text{ of TV}_4 = \\frac{3,325.13}{(0.093 - 0.06) (1.093)^4} = 70,601.58\n$$\n\nSo, the estimated total market value of the equity is:\n$$\n8,993.94 + 70,601.58 = 79,595.52 \\approx \\$79,596 \\text{ million}.\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Equity Valuation, Free Cash Flow to Equity (FCFE) Model, Required Rate of Return",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo\nmeets with her investment team to discuss potential investments in three companies: Company A,\nCompany B, and Company C. Statements of cash flow for the three companies are presented in\nExhibit 1.\nIzzo’s team first discusses key characteristics of Company A. The company has a history of\npaying modest dividends relative to FCFE, has a stable capital structure, and is owned by a\ncontrolling investor.The team also considers the impact of Company A’s three non-cash\ntransactions in the most recent year on its FCFE, including the following:● Transaction 1: A\n$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400\nmillion● Transaction 3: A $300 million reversal of a previously recorded restructuring\nchargeIn addition, Company A’s annual report indicates that the firm expects to incur\nadditional non-cash charges related to restructuring over the next few years.To value the three\ncompanies’ shares, one team member suggests valuing the companies’ shares using net income as\na proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology\nbased on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s\nteam ultimately decides to use actual free cash flow to value the three companies’ shares.\nSelected data and assumptions are provided in Exhibit 2.\nThe team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth\nrates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before\ndeclining to a constant 6% starting in the fifth year.To calculate the intrinsic value of\nCompany C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF\nis expected to grow at 5% indefinitely.\n "
+        ],
+        "question_number": "30",
+        "question_text": "Based on Exhibits 1 and 2 and the proposed single-stage FCFF model, the",
+        "image": "",
+        "share_image": [
+            "Equity_images/share24-30_1.png",
+            "Equity_images/share24-30_2.png"
+        ],
+        "options": {
+            "A": "A.$277,907 million.",
+            "B": "B.$295,876 million.",
+            "C": "C.$306,595 million."
+        },
+        "answer": "C",
+        "explanation": "The required rate of return on equity for Company C is\n\n$$\nr = E(R_i) = R_F + \\beta_i[E(R_M) - R_F] = 3\\% + 1.1(7\\%) = 10.7\\%.\n$$\n\n$$\n\\text{WACC} = \\frac{\\text{MV(Debt)}}{\\text{MV(Debt)} + \\text{MV(Equity)}} r_d (1 - \\text{Tax rate}) + \\frac{\\text{MV(Equity)}}{\\text{MV(Debt)} + \\text{MV(Equity)}} r_e.\n$$\n\n$$\n\\text{WACC} = 0.40(6\\%)(1 - 0.30) + 0.60(10.7\\%) = 1.68\\% + 6.42\\% = 8.10\\%.\n$$\n\nFCFF for the most recent year for Company C is calculated as follows:\n\n|                                  |                      |\n|---------------------------------|----------------------|\n| Net income                      | $15,409.00           |\n| Plus: Net noncash charges       | 3,746.00             |\n| Less: Investment in working capital | 992.00           |\n| Less: Investment in fixed capital | 3,463.00           |\n| Plus: Interest expense × (1 – Tax rate) | 386.40       |\n| FCFF (in millions)              | $15,086.40           |\n\nInvestment in working capital is found by adding the increase in accounts receivable, the increase in inventories, the decrease in accounts payable, and the increase in other current liabilities: \n\n$$\n -536 \\text{ million} - 803 \\text{ million} - 3 \\text{ million} + 350 \\text{ million} = - 992 \\text{ million}.\n$$\n\nFCFF is expected to grow at 5.0\\% indefinitely. Thus,\n\n$$\n\\text{Firm value} = \\frac{\\text{FCFF}_1}{\\text{WACC} - g} = \\frac{\\text{FCFF}_0 (1 + g)}{\\text{WACC} - g} = \\frac{15,086.4(1.05)}{0.081 - 0.05} = \\$510,990.97 \\text{ million}.\n$$\n\nThe value of equity is the value of the firm minus the value of debt. The value of debt is found by multiplying the target debt ratio by the total firm value:\n\n$$\n\\text{Debt value} = 0.40(\\$510,990.97) = \\$204,396.39.\n$$\n\nTherefore, equity value = $510,990.97 – $204,396.39 = $306,594.58 million.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Equity Valuation, Free Cash Flow to the Firm (FCFF), Financial Modeling",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BJL Financial provides clients with professional investment management services that\nare tailored to the specific needs of each client. The firm's portfolio manager, Angelique\nKwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly\nrebalancing of three client portfolios. The valuation model used in the analyses is the\ndiscounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-\npaying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client\n3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)\nfor possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate\nof 7% for both common stocks.\nKwaza asks Khan to investigate the most appropriate models for valuing utility companies. She\ntells Khan about the following points mentioned in various research reports on the utilities\nsector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm\ngrowth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases\nare expected to increase. The report expresses confidence in the forecasts regarding the\nmagnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of\n4.5%. The key growth drivers are increases in population and business creation associated with\nstable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable\nperpetual preferred stocks of Standard Company and Main Company.● The Standard Company's\npreferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a\nmarket price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50\nper share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The\ncurrent market price of Main Company preferred stock is $42.Finally, Khan has identified three\nstocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.\n \n "
+        ],
+        "question_number": "31",
+        "question_text": "Based on the Gordon growth model, the justified leading P /E for ABC stock is",
+        "image": "",
+        "share_image": [
+            "Equity_images/share31-37_1.png",
+            "Equity_images/share31-37_2.png"
+        ],
+        "options": {
+            "A": "A.17.1.",
+            "B": "B.17.7.",
+            "C": "C.20.0."
+        },
+        "answer": "A",
+        "explanation": "The justified leading P/E is calculated as\n\n$$\n\\frac{P_0}{E_1} = \\frac{(1 - b)}{(r - g)}\n$$\n\nwhere $b$ is the retention ratio, $1 - b$ is the dividend payout ratio, $r$ is the discount rate, and $g$ is the long-term growth rate. ABC’s dividend payout rate, $1 - b$, is given as 0.60. For Company ABC, the justified leading P/E is\n\n$$\n\\frac{P_0}{E_1} = \\frac{(1 - b)}{(r - g)} = \\frac{(0.60)}{(0.07 - 0.035)} \\approx 17.1\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Gordon growth model, Justified P/E ratio, Dividend payout ratio",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BJL Financial provides clients with professional investment management services that\nare tailored to the specific needs of each client. The firm's portfolio manager, Angelique\nKwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly\nrebalancing of three client portfolios. The valuation model used in the analyses is the\ndiscounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-\npaying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client\n3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)\nfor possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate\nof 7% for both common stocks.\nKwaza asks Khan to investigate the most appropriate models for valuing utility companies. She\ntells Khan about the following points mentioned in various research reports on the utilities\nsector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm\ngrowth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases\nare expected to increase. The report expresses confidence in the forecasts regarding the\nmagnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of\n4.5%. The key growth drivers are increases in population and business creation associated with\nstable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable\nperpetual preferred stocks of Standard Company and Main Company.● The Standard Company's\npreferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a\nmarket price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50\nper share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The\ncurrent market price of Main Company preferred stock is $42.Finally, Khan has identified three\nstocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.\n \n "
+        ],
+        "question_number": "32",
+        "question_text": "Based on its justified leading P /E and the Gordon growth model, XYZ stock is:",
+        "image": "",
+        "share_image": [
+            "Equity_images/share31-37_1.png",
+            "Equity_images/share31-37_2.png"
+        ],
+        "options": {
+            "A": "A.undervalued.",
+            "B": "B.fairly valued.",
+            "C": "C.overvalued."
+        },
+        "answer": "B",
+        "explanation": "The justified leading P/E is calculated as\n\n$$\n\\frac{P_0}{E_1} = \\frac{(1-b)}{(r-g)}\n$$\n\nwhere b is the retention ratio, 1 - b is the dividend payout ratio, r is the discount rate, and g is the long-term growth rate. The justified leading P/E is\n\n$$\n\\frac{P_0}{E_1} = \\frac{0.8}{(0.07 - 0.03)} = 20\n$$\n\nXYZ's actual leading P/E is\n\n$$\n\\frac{P_0}{E_1} = \\frac{\\$10}{\\$0.50} = 20\n$$\n\nBecause the justified leading P/E equals the actual leading P/E, the stock is fairly valued.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Justified P/E ratio, Gordon growth model, Stock valuation",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BJL Financial provides clients with professional investment management services that\nare tailored to the specific needs of each client. The firm's portfolio manager, Angelique\nKwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly\nrebalancing of three client portfolios. The valuation model used in the analyses is the\ndiscounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-\npaying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client\n3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)\nfor possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate\nof 7% for both common stocks.\nKwaza asks Khan to investigate the most appropriate models for valuing utility companies. She\ntells Khan about the following points mentioned in various research reports on the utilities\nsector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm\ngrowth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases\nare expected to increase. The report expresses confidence in the forecasts regarding the\nmagnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of\n4.5%. The key growth drivers are increases in population and business creation associated with\nstable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable\nperpetual preferred stocks of Standard Company and Main Company.● The Standard Company's\npreferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a\nmarket price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50\nper share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The\ncurrent market price of Main Company preferred stock is $42.Finally, Khan has identified three\nstocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.\n \n "
+        ],
+        "question_number": "33",
+        "question_text": "Which sector report best describes a situation in which the Gordon growth",
+        "image": "",
+        "share_image": [
+            "Equity_images/share31-37_1.png",
+            "Equity_images/share31-37_2.png"
+        ],
+        "options": {
+            "A": "A.Report 1",
+            "B": "B.Report 2",
+            "C": "C.Report 3"
+        },
+        "answer": "B",
+        "explanation": "Because the Gordon growth model can accurately value companies that are\nrepurchasing shares when the analyst can appropriately adjust the dividend growth rate for the\nimpact of share repurchases.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Valuation Models, Dividend Discount Model, Equity Valuation Techniques",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BJL Financial provides clients with professional investment management services that\nare tailored to the specific needs of each client. The firm's portfolio manager, Angelique\nKwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly\nrebalancing of three client portfolios. The valuation model used in the analyses is the\ndiscounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-\npaying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client\n3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)\nfor possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate\nof 7% for both common stocks.\nKwaza asks Khan to investigate the most appropriate models for valuing utility companies. She\ntells Khan about the following points mentioned in various research reports on the utilities\nsector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm\ngrowth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases\nare expected to increase. The report expresses confidence in the forecasts regarding the\nmagnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of\n4.5%. The key growth drivers are increases in population and business creation associated with\nstable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable\nperpetual preferred stocks of Standard Company and Main Company.● The Standard Company's\npreferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a\nmarket price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50\nper share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The\ncurrent market price of Main Company preferred stock is $42.Finally, Khan has identified three\nstocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.\n \n "
+        ],
+        "question_number": "34",
+        "question_text": "Based on Khan's estimate of the capitalization rate, Main Company's preferred",
+        "image": "",
+        "share_image": [
+            "Equity_images/share31-37_1.png",
+            "Equity_images/share31-37_2.png"
+        ],
+        "options": {
+            "A": "A.undervalued.",
+            "B": "B.fairly valued.",
+            "C": "C.overvalued."
+        },
+        "answer": "A",
+        "explanation": "The value of a share of Main Company's preferred stock is \n$$\nV_0 = \\frac{D}{r} = \\frac{\\$50 \\times 0.055}{0.06} = \\frac{\\$2.75}{0.06} = \\$45.83\n$$\n\nThe current price of a share of Main Company's preferred stock is \\$42, so the stock is currently undervalued.",
+        "QA type": "Knowledge reasoning QA.",
+        "knowledge topics": "Valuation of securities, Capitalization rate, Preferred stock analysis",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BJL Financial provides clients with professional investment management services that\nare tailored to the specific needs of each client. The firm's portfolio manager, Angelique\nKwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly\nrebalancing of three client portfolios. The valuation model used in the analyses is the\ndiscounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-\npaying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client\n3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)\nfor possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate\nof 7% for both common stocks.\nKwaza asks Khan to investigate the most appropriate models for valuing utility companies. She\ntells Khan about the following points mentioned in various research reports on the utilities\nsector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm\ngrowth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases\nare expected to increase. The report expresses confidence in the forecasts regarding the\nmagnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of\n4.5%. The key growth drivers are increases in population and business creation associated with\nstable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable\nperpetual preferred stocks of Standard Company and Main Company.● The Standard Company's\npreferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a\nmarket price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50\nper share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The\ncurrent market price of Main Company preferred stock is $42.Finally, Khan has identified three\nstocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.\n \n "
+        ],
+        "question_number": "35",
+        "question_text": "The capitalization rate of the preferred stock of Standard Company is closest",
+        "image": "",
+        "share_image": [
+            "Equity_images/share31-37_1.png",
+            "Equity_images/share31-37_2.png"
+        ],
+        "options": {
+            "A": "A.2.75%.",
+            "B": "B.4.96%.",
+            "C": "C.5.54%."
+        },
+        "answer": "C",
+        "explanation": "The value of non-callable fixed-rate perpetual preferred stock is calculated as\n\n$$\nV_0=\\frac{D}{r} \\Rightarrow r=\\frac{D}{V_0}\n$$\n\nwhere $D$ is the constant dividend per share and $r$ is the discount rate. The discount rate of a perpetuity is often called the capitalization rate. For Standard Company, the dividend is $D = 2.75\\% \\times \\$100 = \\$2.75$. Therefore,\n\n$$\nr=\\frac{\\$2.75}{\\$49.60}=5.54\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Capitalization Rate, Perpetual Preferred Stock, Discount Rate",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BJL Financial provides clients with professional investment management services that\nare tailored to the specific needs of each client. The firm's portfolio manager, Angelique\nKwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly\nrebalancing of three client portfolios. The valuation model used in the analyses is the\ndiscounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-\npaying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client\n3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)\nfor possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate\nof 7% for both common stocks.\nKwaza asks Khan to investigate the most appropriate models for valuing utility companies. She\ntells Khan about the following points mentioned in various research reports on the utilities\nsector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm\ngrowth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases\nare expected to increase. The report expresses confidence in the forecasts regarding the\nmagnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of\n4.5%. The key growth drivers are increases in population and business creation associated with\nstable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable\nperpetual preferred stocks of Standard Company and Main Company.● The Standard Company's\npreferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a\nmarket price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50\nper share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The\ncurrent market price of Main Company preferred stock is $42.Finally, Khan has identified three\nstocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.\n \n "
+        ],
+        "question_number": "36",
+        "question_text": "Based on Exhibit 2, which stock can most appropriately be valued using a",
+        "image": "",
+        "share_image": [
+            "Equity_images/share31-37_1.png",
+            "Equity_images/share31-37_2.png"
+        ],
+        "options": {
+            "A": "A.BIOK",
+            "B": "B.CCAX",
+            "C": "C.HLTY"
+        },
+        "answer": "A",
+        "explanation": "Because the dividend growth is declining linearly during the second stage of a\nthree-stage DDM used to value BIOIK. As noted in the text, a three-stage valuation clearly has\nan H-model process in the second and third stages. In contrast, abrupt-rather than linearly\ndeclining-dividend growth rates are implied for CCAX and HLTV.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Dividend Discount Model, Three-Stage DDM, H-Model",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "BJL Financial provides clients with professional investment management services that\nare tailored to the specific needs of each client. The firm's portfolio manager, Angelique\nKwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly\nrebalancing of three client portfolios. The valuation model used in the analyses is the\ndiscounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-\npaying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client\n3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)\nfor possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate\nof 7% for both common stocks.\nKwaza asks Khan to investigate the most appropriate models for valuing utility companies. She\ntells Khan about the following points mentioned in various research reports on the utilities\nsector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm\ngrowth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases\nare expected to increase. The report expresses confidence in the forecasts regarding the\nmagnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of\n4.5%. The key growth drivers are increases in population and business creation associated with\nstable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable\nperpetual preferred stocks of Standard Company and Main Company.● The Standard Company's\npreferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a\nmarket price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50\nper share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The\ncurrent market price of Main Company preferred stock is $42.Finally, Khan has identified three\nstocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.\n \n "
+        ],
+        "question_number": "37",
+        "question_text": "Which of the following models is most appropriate for valuing HLTV?",
+        "image": "",
+        "share_image": [
+            "Equity_images/share31-37_1.png",
+            "Equity_images/share31-37_2.png"
+        ],
+        "options": {
+            "A": "A.H-model",
+            "B": "B.Three-stage DDM",
+            "C": "C.Gordon growth model"
+        },
+        "answer": "B",
+        "explanation": "Because HLTV is forecast to have three growth stages: the growth phase (2 years at\n27%), the transition phase (10 years at 12%), and the mature phase. Because the earnings growth\nhas three stages and the dividend payout ratio is stable, a three-stage DDM is appropriate.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Valuation models, Dividend Discount Model (DDM), Multi-stage growth models",
+        "book label": "Equity",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    }
+]

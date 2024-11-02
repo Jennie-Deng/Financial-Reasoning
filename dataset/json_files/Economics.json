@@ -1,0 +1,652 @@
+[
+    {
+        "share_context": [
+            "Hans Schmidt, CFA, is a portfolio manager with a boutique investment firm that\nspecializes in sovereign credit analysis. Schmidt's supervisor asks him to develop estimates\nfor GDP growth for three countries. Information on the three countries is provided in Exhibit\n1.\nAfter gathering additional data on the three countries, Schmidt shares his findings with\ncolleague, Sean O'Leary. After reviewing the data, O'Leary notes the following\nobservations:Observation 1:The stock market of Country A has appreciated considerably over the\npast several years. Also, the ratio of corporate profits to GDP for Country A has been trending\nupward over the past several years and is now well above its historical average.Observation\n2:The government of Country C is working hard to bridge the gap between its standard of living\nand that of developed countries. Currently, the rate of potential GDP growth in Country C is\nhigh.Schmidt knows that a large part of the analysis of sovereign credit is to develop a\nthorough understanding of what the potential GDP growth rate is for a particular country and\nthe region in which the country is located. Schmidt is also doing research on Country D for a\nclient of the firm. Selected economic facts on Country D are provided in Exhibit 2.\nPrior to wrapping up his research, Schmidt schedules a final meeting with O'Leary to see if he\ncan provide any other pertinent information. O'Leary makes the following statements to\nSchmidt:Statement 1:Many countries that have the same population growth rate, savings rate, and\nproduction function will have growth rates that converge over time.Statement 2:Convergence\nbetween countries can occur more quickly if economies are open and there is free trade and\ninternational borrowing and lending; however, there is no permanent increase in the rate of\ngrowth in an economy from a more open trade policy.\n "
+        ],
+        "question_number": "1",
+        "question_text": "Based upon Exhibit 1, the factor that would most likely have the greatest",
+        "image": "",
+        "share_image": [
+            "Economics_images/share1-6_1.png",
+            "Economics_images/share1-6_2.png"
+        ],
+        "options": {
+            "A": "A.free trade.",
+            "B": "B.technology.",
+            "C": "C.saving and investment."
+        },
+        "answer": "B",
+        "explanation": "Country A is a developed country with a high level of capital per worker.\nTechnological progress and/or more intensive use of existing technology can help developed\ncountries increase productivity and thereby increase per capita GDP. Most developed countries\nhave reasonably low trade barriers; thus, somewhat freer trade is likely to have only an\nincremental, and probably transitory, impact on per capita GDP growth. Also, since the country\nalready has a high capital-to-labor ratio, increased saving/investment is unlikely to increase\nthe growth rate substantially unless it embodies improved technology.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Economic growth factors, Impact of technology on productivity, Capital-to-labor ratio",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Hans Schmidt, CFA, is a portfolio manager with a boutique investment firm that\nspecializes in sovereign credit analysis. Schmidt's supervisor asks him to develop estimates\nfor GDP growth for three countries. Information on the three countries is provided in Exhibit\n1.\nAfter gathering additional data on the three countries, Schmidt shares his findings with\ncolleague, Sean O'Leary. After reviewing the data, O'Leary notes the following\nobservations:Observation 1:The stock market of Country A has appreciated considerably over the\npast several years. Also, the ratio of corporate profits to GDP for Country A has been trending\nupward over the past several years and is now well above its historical average.Observation\n2:The government of Country C is working hard to bridge the gap between its standard of living\nand that of developed countries. Currently, the rate of potential GDP growth in Country C is\nhigh.Schmidt knows that a large part of the analysis of sovereign credit is to develop a\nthorough understanding of what the potential GDP growth rate is for a particular country and\nthe region in which the country is located. Schmidt is also doing research on Country D for a\nclient of the firm. Selected economic facts on Country D are provided in Exhibit 2.\nPrior to wrapping up his research, Schmidt schedules a final meeting with O'Leary to see if he\ncan provide any other pertinent information. O'Leary makes the following statements to\nSchmidt:Statement 1:Many countries that have the same population growth rate, savings rate, and\nproduction function will have growth rates that converge over time.Statement 2:Convergence\nbetween countries can occur more quickly if economies are open and there is free trade and\ninternational borrowing and lending; however, there is no permanent increase in the rate of\ngrowth in an economy from a more open trade policy.\n "
+        ],
+        "question_number": "2",
+        "question_text": "Based upon Observation 1, in the long run the ratio of profits to GDP in",
+        "image": "",
+        "share_image": [
+            "Economics_images/share1-6_1.png",
+            "Economics_images/share1-6_2.png"
+        ],
+        "options": {
+            "A": "A.remain near its current level.",
+            "B": "B.increase from its current level.",
+            "C": "C.decrease from its current level."
+        },
+        "answer": "C",
+        "explanation": "The ratio of profits to GDP for Country A has been trending upward over the past\nseveral years, and is now well above its historical average. The ratio of profits to GDP cannot\nrise forever. At some point stagnant labor income would make workers unwilling to work without\nan increase in wages and would also undermine demand, making further expansion of profit\nmargins unsustainable. Thus, it is likely that the ratio of profits to GDP will decline in the\nlong run toward its historical average.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic Indicators, Business Cycles, Profit Margins",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Hans Schmidt, CFA, is a portfolio manager with a boutique investment firm that\nspecializes in sovereign credit analysis. Schmidt's supervisor asks him to develop estimates\nfor GDP growth for three countries. Information on the three countries is provided in Exhibit\n1.\nAfter gathering additional data on the three countries, Schmidt shares his findings with\ncolleague, Sean O'Leary. After reviewing the data, O'Leary notes the following\nobservations:Observation 1:The stock market of Country A has appreciated considerably over the\npast several years. Also, the ratio of corporate profits to GDP for Country A has been trending\nupward over the past several years and is now well above its historical average.Observation\n2:The government of Country C is working hard to bridge the gap between its standard of living\nand that of developed countries. Currently, the rate of potential GDP growth in Country C is\nhigh.Schmidt knows that a large part of the analysis of sovereign credit is to develop a\nthorough understanding of what the potential GDP growth rate is for a particular country and\nthe region in which the country is located. Schmidt is also doing research on Country D for a\nclient of the firm. Selected economic facts on Country D are provided in Exhibit 2.\nPrior to wrapping up his research, Schmidt schedules a final meeting with O'Leary to see if he\ncan provide any other pertinent information. O'Leary makes the following statements to\nSchmidt:Statement 1:Many countries that have the same population growth rate, savings rate, and\nproduction function will have growth rates that converge over time.Statement 2:Convergence\nbetween countries can occur more quickly if economies are open and there is free trade and\ninternational borrowing and lending; however, there is no permanent increase in the rate of\ngrowth in an economy from a more open trade policy.\n "
+        ],
+        "question_number": "3",
+        "question_text": "Based upon Observation 2, Country C is most likely to have:",
+        "image": "",
+        "share_image": [
+            "Economics_images/share1-6_1.png",
+            "Economics_images/share1-6_2.png"
+        ],
+        "options": {
+            "A": "A.relatively low real asset returns.",
+            "B": "B.a relatively low real interest rate.",
+            "C": "C.a relatively high real interest rate."
+        },
+        "answer": "C",
+        "explanation": "A high growth rate of potential GDP would cause real incomes to rise more rapidly\nand also translate into higher real interest rates and higher expected/required real asset\nreturns. The real interest rate is essentially the real return that consumers/savers demand in\nexchange for postponing consumption. Faster growth in potential GDP means that consumers expect\ntheir real income to rise more rapidly. This implies that an extra unit of future\nincome/consumption is less valuable than it would be if income were expected to grow more\nslowly. All else the same, the real interest rate will have to be relatively high in order to\ninduce the savings required to fund required/desired capital accumulation.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Macroeconomic analysis, Real interest rates, Economic growth theory",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Hans Schmidt, CFA, is a portfolio manager with a boutique investment firm that\nspecializes in sovereign credit analysis. Schmidt's supervisor asks him to develop estimates\nfor GDP growth for three countries. Information on the three countries is provided in Exhibit\n1.\nAfter gathering additional data on the three countries, Schmidt shares his findings with\ncolleague, Sean O'Leary. After reviewing the data, O'Leary notes the following\nobservations:Observation 1:The stock market of Country A has appreciated considerably over the\npast several years. Also, the ratio of corporate profits to GDP for Country A has been trending\nupward over the past several years and is now well above its historical average.Observation\n2:The government of Country C is working hard to bridge the gap between its standard of living\nand that of developed countries. Currently, the rate of potential GDP growth in Country C is\nhigh.Schmidt knows that a large part of the analysis of sovereign credit is to develop a\nthorough understanding of what the potential GDP growth rate is for a particular country and\nthe region in which the country is located. Schmidt is also doing research on Country D for a\nclient of the firm. Selected economic facts on Country D are provided in Exhibit 2.\nPrior to wrapping up his research, Schmidt schedules a final meeting with O'Leary to see if he\ncan provide any other pertinent information. O'Leary makes the following statements to\nSchmidt:Statement 1:Many countries that have the same population growth rate, savings rate, and\nproduction function will have growth rates that converge over time.Statement 2:Convergence\nbetween countries can occur more quickly if economies are open and there is free trade and\ninternational borrowing and lending; however, there is no permanent increase in the rate of\ngrowth in an economy from a more open trade policy.\n "
+        ],
+        "question_number": "4",
+        "question_text": "Based upon Exhibit 2, the least likely reason for the current pace of GDP",
+        "image": "",
+        "share_image": [
+            "Economics_images/share1-6_1.png",
+            "Economics_images/share1-6_2.png"
+        ],
+        "options": {
+            "A": "A.a persistently strong currency.",
+            "B": "B.strong manufacturing exports.",
+            "C": "C.strong natural resource exports."
+        },
+        "answer": "B",
+        "explanation": "Country D is a country with abundant resources and has developed the economic\ninstitutions necessary for growth, yet the country is experiencing slow economic growth. It is\nlikely that Country D is experiencing the Dutch Disease, where currency appreciation driven by\nstrong export demand for natural resources makes other segments of the economy, in particular\nmanufacturing, globally uncompetitive. Strong manufacturing exports would indicate that Country\nD is globally competitive and likely to have adopted leading edge technology. Thus, it is\nunlikely that the slow growth reflects inability to maintain productivity growth. Similarly,\nstrong exports would suggest adequate demand for its products. Thus, strong exports are\nunlikely to be the cause of slow growth.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Dutch Disease, currency appreciation, economic competitiveness",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Hans Schmidt, CFA, is a portfolio manager with a boutique investment firm that\nspecializes in sovereign credit analysis. Schmidt's supervisor asks him to develop estimates\nfor GDP growth for three countries. Information on the three countries is provided in Exhibit\n1.\nAfter gathering additional data on the three countries, Schmidt shares his findings with\ncolleague, Sean O'Leary. After reviewing the data, O'Leary notes the following\nobservations:Observation 1:The stock market of Country A has appreciated considerably over the\npast several years. Also, the ratio of corporate profits to GDP for Country A has been trending\nupward over the past several years and is now well above its historical average.Observation\n2:The government of Country C is working hard to bridge the gap between its standard of living\nand that of developed countries. Currently, the rate of potential GDP growth in Country C is\nhigh.Schmidt knows that a large part of the analysis of sovereign credit is to develop a\nthorough understanding of what the potential GDP growth rate is for a particular country and\nthe region in which the country is located. Schmidt is also doing research on Country D for a\nclient of the firm. Selected economic facts on Country D are provided in Exhibit 2.\nPrior to wrapping up his research, Schmidt schedules a final meeting with O'Leary to see if he\ncan provide any other pertinent information. O'Leary makes the following statements to\nSchmidt:Statement 1:Many countries that have the same population growth rate, savings rate, and\nproduction function will have growth rates that converge over time.Statement 2:Convergence\nbetween countries can occur more quickly if economies are open and there is free trade and\ninternational borrowing and lending; however, there is no permanent increase in the rate of\ngrowth in an economy from a more open trade policy.\n "
+        ],
+        "question_number": "5",
+        "question_text": "The type of convergence described by O'Leary in Statement 1 is best described",
+        "image": "",
+        "share_image": [
+            "Economics_images/share1-6_1.png",
+            "Economics_images/share1-6_2.png"
+        ],
+        "options": {
+            "A": "A.club convergence.",
+            "B": "B.absolute convergence.",
+            "C": "C.conditional convergence."
+        },
+        "answer": "C",
+        "explanation": "Conditional convergence means that convergence is conditional on the countries\nhaving the same savings rate, population growth rate, and production function. If these\nconditions hold, the neoclassical model implies convergence to the same level of per capita\noutput as well as the same steady state growth rate.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Economic Growth Theory, Convergence Theory, Neoclassical Growth Model",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Hans Schmidt, CFA, is a portfolio manager with a boutique investment firm that\nspecializes in sovereign credit analysis. Schmidt's supervisor asks him to develop estimates\nfor GDP growth for three countries. Information on the three countries is provided in Exhibit\n1.\nAfter gathering additional data on the three countries, Schmidt shares his findings with\ncolleague, Sean O'Leary. After reviewing the data, O'Leary notes the following\nobservations:Observation 1:The stock market of Country A has appreciated considerably over the\npast several years. Also, the ratio of corporate profits to GDP for Country A has been trending\nupward over the past several years and is now well above its historical average.Observation\n2:The government of Country C is working hard to bridge the gap between its standard of living\nand that of developed countries. Currently, the rate of potential GDP growth in Country C is\nhigh.Schmidt knows that a large part of the analysis of sovereign credit is to develop a\nthorough understanding of what the potential GDP growth rate is for a particular country and\nthe region in which the country is located. Schmidt is also doing research on Country D for a\nclient of the firm. Selected economic facts on Country D are provided in Exhibit 2.\nPrior to wrapping up his research, Schmidt schedules a final meeting with O'Leary to see if he\ncan provide any other pertinent information. O'Leary makes the following statements to\nSchmidt:Statement 1:Many countries that have the same population growth rate, savings rate, and\nproduction function will have growth rates that converge over time.Statement 2:Convergence\nbetween countries can occur more quickly if economies are open and there is free trade and\ninternational borrowing and lending; however, there is no permanent increase in the rate of\ngrowth in an economy from a more open trade policy.\n "
+        ],
+        "question_number": "6",
+        "question_text": "Which of the following growth models is most consistent with O'Leary's",
+        "image": "",
+        "share_image": [
+            "Economics_images/share1-6_1.png",
+            "Economics_images/share1-6_2.png"
+        ],
+        "options": {
+            "A": "A.Classical",
+            "B": "B.Endogenous",
+            "C": "C.Neoclassical"
+        },
+        "answer": "C",
+        "explanation": "According to the neoclassical model, convergence should occur more quickly if\neconomies are open and there is free trade and international borrowing and lending. Opening up\nthe economy should increase the rate at which the capital-to-labor ratio converges among\ncountries. However, in the neoclassical Solow model, after the reallocation of world savings,\nthere is no permanent increase in the rate of growth in an economy. Both the developed and\ndeveloping countries eventually grow at the same steady-state rate.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Neoclassical growth model, Solow model, Convergence theory",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cate Stephenson is an analyst in the economics research division of an international\nsecurities firm. She is conducting research on the regulatory environment in certain European\ncountries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new\naccounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le\nregulateur is not a self-regulating organization (SRO). There is also an SRO –\n“L'organisation.” L'organisation is not an independent regulator.In her research report,\nStephenson makes the following statements:Statement 1:Le regulateur has been given legal\nauthority by the government to enforce the new statute.Statement 2:L'organisation issues\nadministrative regulations related to the new statute using government funding.Statement\n3:L'organisation has member companies that accept the authorization of L'organisation to set\nand enforce rules and standards. Stephenson and her supervisor discuss the intended and\nunintended effects of implementing the new statute, and Stephenson makes two comments.Comment\n1:It is likely that some unintended consequences will be identified in regulatory filings prior\nto implementation of the new legislation.Comment 2:Indirect costs arise because of unintended\nconsequences and may result in high unanticipated costs.Stephenson reads a report titled\n\"International Trade;' which has three sections about Genovia's policies and regulations.The\nfirst section of the report discusses policies that legislators may implement to accomplish\nGenovia's objective of promoting free trade on industrial goods.The second section of the\nreport covers corporate domicile. Stephenson learns that regulators in Genovia recently amended\nregulations to encourage foreign businesses to move their corporate domicile to Genovia.The\nthird section of the report reviews the regulation of commerce. Genovia's goal is to establish\nan environment that encourages foreign businesses to increase trade with domestic businesses.\nStephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court\ndecisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in\nplace governing contracts and each party's rights.Stephenson then reviews two initiatives by\nGenovia to improve domestic policies and regulations.The first initiative by Genovia is its\npassage of conflict of interest regulations. Regulators implement regulatory restrictions and\nregulatory mandates that apply to employees of securities firms. One of Stephenson's research\ncolleagues writes reports on a company in which he owns shares.The second initiative by Genovia\nis to reduce pollution and promote renewable electricity generation. Two years ago, the\ngovernment implemented taxes on fossil fuels and subsidies on hydropower and other renewables.\nStephenson reviews the changes in sources of electricity production since the policies were\nintroduced, shown in Exhibit 1.\n \n "
+        ],
+        "question_number": "7",
+        "question_text": "Which of Stephenson's statements regarding Le regulateur and L'organisation is",
+        "image": "",
+        "share_image": [
+            "Economics_images/share7-13_1.png"
+        ],
+        "options": {
+            "A": "A.Only Statement 1 is correct.",
+            "B": "B.Only Statement 2 is correct.",
+            "C": "C.Both Statement 1 and Statement 2 are correct."
+        },
+        "answer": "A",
+        "explanation": "Le regulateur, as an independent regulator but not an SRO, has legal authority from\nthe Genovia government to regulate. Therefore, Le regulateur both enacts and enforces\nregulations related to the new accounting statue in Genovia.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regulatory frameworks, Legal authority of regulators, Self-regulatory organizations (SROs)",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cate Stephenson is an analyst in the economics research division of an international\nsecurities firm. She is conducting research on the regulatory environment in certain European\ncountries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new\naccounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le\nregulateur is not a self-regulating organization (SRO). There is also an SRO –\n“L'organisation.” L'organisation is not an independent regulator.In her research report,\nStephenson makes the following statements:Statement 1:Le regulateur has been given legal\nauthority by the government to enforce the new statute.Statement 2:L'organisation issues\nadministrative regulations related to the new statute using government funding.Statement\n3:L'organisation has member companies that accept the authorization of L'organisation to set\nand enforce rules and standards. Stephenson and her supervisor discuss the intended and\nunintended effects of implementing the new statute, and Stephenson makes two comments.Comment\n1:It is likely that some unintended consequences will be identified in regulatory filings prior\nto implementation of the new legislation.Comment 2:Indirect costs arise because of unintended\nconsequences and may result in high unanticipated costs.Stephenson reads a report titled\n\"International Trade;' which has three sections about Genovia's policies and regulations.The\nfirst section of the report discusses policies that legislators may implement to accomplish\nGenovia's objective of promoting free trade on industrial goods.The second section of the\nreport covers corporate domicile. Stephenson learns that regulators in Genovia recently amended\nregulations to encourage foreign businesses to move their corporate domicile to Genovia.The\nthird section of the report reviews the regulation of commerce. Genovia's goal is to establish\nan environment that encourages foreign businesses to increase trade with domestic businesses.\nStephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court\ndecisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in\nplace governing contracts and each party's rights.Stephenson then reviews two initiatives by\nGenovia to improve domestic policies and regulations.The first initiative by Genovia is its\npassage of conflict of interest regulations. Regulators implement regulatory restrictions and\nregulatory mandates that apply to employees of securities firms. One of Stephenson's research\ncolleagues writes reports on a company in which he owns shares.The second initiative by Genovia\nis to reduce pollution and promote renewable electricity generation. Two years ago, the\ngovernment implemented taxes on fossil fuels and subsidies on hydropower and other renewables.\nStephenson reviews the changes in sources of electricity production since the policies were\nintroduced, shown in Exhibit 1.\n \n "
+        ],
+        "question_number": "8",
+        "question_text": "Is Stephenson's Statement 3 correct?",
+        "image": "",
+        "share_image": [
+            "Economics_images/share7-13_1.png"
+        ],
+        "options": {
+            "A": "A.Yes",
+            "B": "B.No, because L'organisation is given the authority to enforce regulations by a government\nagency",
+            "C": "C.No, because pressure from its member companies prevents L'organisation from enforcing its"
+        },
+        "answer": "A",
+        "explanation": "L'organisation is an SRO but not an independent regulator, so it is a private\nentity that is not affiliated with Genovia's government. SRO's that are not independent\nregulators receive authority from their members who agree to comply with the organization's\nrules and standards and its enforcement of these.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Self-regulatory organizations (SROs), Independence and authority of SROs, Regulatory frameworks",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cate Stephenson is an analyst in the economics research division of an international\nsecurities firm. She is conducting research on the regulatory environment in certain European\ncountries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new\naccounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le\nregulateur is not a self-regulating organization (SRO). There is also an SRO –\n“L'organisation.” L'organisation is not an independent regulator.In her research report,\nStephenson makes the following statements:Statement 1:Le regulateur has been given legal\nauthority by the government to enforce the new statute.Statement 2:L'organisation issues\nadministrative regulations related to the new statute using government funding.Statement\n3:L'organisation has member companies that accept the authorization of L'organisation to set\nand enforce rules and standards. Stephenson and her supervisor discuss the intended and\nunintended effects of implementing the new statute, and Stephenson makes two comments.Comment\n1:It is likely that some unintended consequences will be identified in regulatory filings prior\nto implementation of the new legislation.Comment 2:Indirect costs arise because of unintended\nconsequences and may result in high unanticipated costs.Stephenson reads a report titled\n\"International Trade;' which has three sections about Genovia's policies and regulations.The\nfirst section of the report discusses policies that legislators may implement to accomplish\nGenovia's objective of promoting free trade on industrial goods.The second section of the\nreport covers corporate domicile. Stephenson learns that regulators in Genovia recently amended\nregulations to encourage foreign businesses to move their corporate domicile to Genovia.The\nthird section of the report reviews the regulation of commerce. Genovia's goal is to establish\nan environment that encourages foreign businesses to increase trade with domestic businesses.\nStephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court\ndecisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in\nplace governing contracts and each party's rights.Stephenson then reviews two initiatives by\nGenovia to improve domestic policies and regulations.The first initiative by Genovia is its\npassage of conflict of interest regulations. Regulators implement regulatory restrictions and\nregulatory mandates that apply to employees of securities firms. One of Stephenson's research\ncolleagues writes reports on a company in which he owns shares.The second initiative by Genovia\nis to reduce pollution and promote renewable electricity generation. Two years ago, the\ngovernment implemented taxes on fossil fuels and subsidies on hydropower and other renewables.\nStephenson reviews the changes in sources of electricity production since the policies were\nintroduced, shown in Exhibit 1.\n \n "
+        ],
+        "question_number": "9",
+        "question_text": "Which of Stephenson's comment to her supervisor is most likely correct?",
+        "image": "",
+        "share_image": [
+            "Economics_images/share7-13_1.png"
+        ],
+        "options": {
+            "A": "A.Only Comment 1 is correct.",
+            "B": "B.Only Comment 2 is correct.",
+            "C": "C.Both Comment 1 and Comment 2 are correct."
+        },
+        "answer": "C",
+        "explanation": "Comment 1 is correct because regulatory filings, in response to proposed\nregulations, often identify at least some of the unintended consequences prior to the\nimplementation of the regulation. Comment 2 is correct because the cost of unintended\nconsequences, including both indirect costs and unanticipated implementation costs, can be\nhigh.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regulatory compliance, Unintended consequences, Cost management",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cate Stephenson is an analyst in the economics research division of an international\nsecurities firm. She is conducting research on the regulatory environment in certain European\ncountries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new\naccounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le\nregulateur is not a self-regulating organization (SRO). There is also an SRO –\n“L'organisation.” L'organisation is not an independent regulator.In her research report,\nStephenson makes the following statements:Statement 1:Le regulateur has been given legal\nauthority by the government to enforce the new statute.Statement 2:L'organisation issues\nadministrative regulations related to the new statute using government funding.Statement\n3:L'organisation has member companies that accept the authorization of L'organisation to set\nand enforce rules and standards. Stephenson and her supervisor discuss the intended and\nunintended effects of implementing the new statute, and Stephenson makes two comments.Comment\n1:It is likely that some unintended consequences will be identified in regulatory filings prior\nto implementation of the new legislation.Comment 2:Indirect costs arise because of unintended\nconsequences and may result in high unanticipated costs.Stephenson reads a report titled\n\"International Trade;' which has three sections about Genovia's policies and regulations.The\nfirst section of the report discusses policies that legislators may implement to accomplish\nGenovia's objective of promoting free trade on industrial goods.The second section of the\nreport covers corporate domicile. Stephenson learns that regulators in Genovia recently amended\nregulations to encourage foreign businesses to move their corporate domicile to Genovia.The\nthird section of the report reviews the regulation of commerce. Genovia's goal is to establish\nan environment that encourages foreign businesses to increase trade with domestic businesses.\nStephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court\ndecisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in\nplace governing contracts and each party's rights.Stephenson then reviews two initiatives by\nGenovia to improve domestic policies and regulations.The first initiative by Genovia is its\npassage of conflict of interest regulations. Regulators implement regulatory restrictions and\nregulatory mandates that apply to employees of securities firms. One of Stephenson's research\ncolleagues writes reports on a company in which he owns shares.The second initiative by Genovia\nis to reduce pollution and promote renewable electricity generation. Two years ago, the\ngovernment implemented taxes on fossil fuels and subsidies on hydropower and other renewables.\nStephenson reviews the changes in sources of electricity production since the policies were\nintroduced, shown in Exhibit 1.\n \n "
+        ],
+        "question_number": "10",
+        "question_text": "Which of the following policies would best address Genovia's objective of",
+        "image": "",
+        "share_image": [
+            "Economics_images/share7-13_1.png"
+        ],
+        "options": {
+            "A": "A.Imposing tariffs on foreign-produced goods",
+            "B": "B.Allowing a floating currency",
+            "C": "C.Providing subsidies to domestic companies"
+        },
+        "answer": "B",
+        "explanation": "A floating currency allows international trade in Genovia to be market-based.\nInternational disputes about whether a country is manipulating or fixing its currency price\noften center on issues related to conpetitiveness.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign Exchange Risk Management, International Trade Policy, Currency Market Dynamics",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cate Stephenson is an analyst in the economics research division of an international\nsecurities firm. She is conducting research on the regulatory environment in certain European\ncountries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new\naccounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le\nregulateur is not a self-regulating organization (SRO). There is also an SRO –\n“L'organisation.” L'organisation is not an independent regulator.In her research report,\nStephenson makes the following statements:Statement 1:Le regulateur has been given legal\nauthority by the government to enforce the new statute.Statement 2:L'organisation issues\nadministrative regulations related to the new statute using government funding.Statement\n3:L'organisation has member companies that accept the authorization of L'organisation to set\nand enforce rules and standards. Stephenson and her supervisor discuss the intended and\nunintended effects of implementing the new statute, and Stephenson makes two comments.Comment\n1:It is likely that some unintended consequences will be identified in regulatory filings prior\nto implementation of the new legislation.Comment 2:Indirect costs arise because of unintended\nconsequences and may result in high unanticipated costs.Stephenson reads a report titled\n\"International Trade;' which has three sections about Genovia's policies and regulations.The\nfirst section of the report discusses policies that legislators may implement to accomplish\nGenovia's objective of promoting free trade on industrial goods.The second section of the\nreport covers corporate domicile. Stephenson learns that regulators in Genovia recently amended\nregulations to encourage foreign businesses to move their corporate domicile to Genovia.The\nthird section of the report reviews the regulation of commerce. Genovia's goal is to establish\nan environment that encourages foreign businesses to increase trade with domestic businesses.\nStephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court\ndecisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in\nplace governing contracts and each party's rights.Stephenson then reviews two initiatives by\nGenovia to improve domestic policies and regulations.The first initiative by Genovia is its\npassage of conflict of interest regulations. Regulators implement regulatory restrictions and\nregulatory mandates that apply to employees of securities firms. One of Stephenson's research\ncolleagues writes reports on a company in which he owns shares.The second initiative by Genovia\nis to reduce pollution and promote renewable electricity generation. Two years ago, the\ngovernment implemented taxes on fossil fuels and subsidies on hydropower and other renewables.\nStephenson reviews the changes in sources of electricity production since the policies were\nintroduced, shown in Exhibit 1.\n \n "
+        ],
+        "question_number": "11",
+        "question_text": "By amending regulations to encourage foreign businesses to change their",
+        "image": "",
+        "share_image": [
+            "Economics_images/share7-13_1.png"
+        ],
+        "options": {
+            "A": "A.capture.",
+            "B": "B.arbitrage.",
+            "C": "C.competition."
+        },
+        "answer": "C",
+        "explanation": "Regulatory competition describes actions by regulators to encourage behaviors.\nRegulators may compete to provide a regulatory environment designed to attract certain entities\n(regulatory competition). By amending regulations, Genovia's regulators seek to encourage\nforeign companies to change their corporate domicile.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regulatory competition, Regulatory environment, Corporate domicile",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cate Stephenson is an analyst in the economics research division of an international\nsecurities firm. She is conducting research on the regulatory environment in certain European\ncountries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new\naccounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le\nregulateur is not a self-regulating organization (SRO). There is also an SRO –\n“L'organisation.” L'organisation is not an independent regulator.In her research report,\nStephenson makes the following statements:Statement 1:Le regulateur has been given legal\nauthority by the government to enforce the new statute.Statement 2:L'organisation issues\nadministrative regulations related to the new statute using government funding.Statement\n3:L'organisation has member companies that accept the authorization of L'organisation to set\nand enforce rules and standards. Stephenson and her supervisor discuss the intended and\nunintended effects of implementing the new statute, and Stephenson makes two comments.Comment\n1:It is likely that some unintended consequences will be identified in regulatory filings prior\nto implementation of the new legislation.Comment 2:Indirect costs arise because of unintended\nconsequences and may result in high unanticipated costs.Stephenson reads a report titled\n\"International Trade;' which has three sections about Genovia's policies and regulations.The\nfirst section of the report discusses policies that legislators may implement to accomplish\nGenovia's objective of promoting free trade on industrial goods.The second section of the\nreport covers corporate domicile. Stephenson learns that regulators in Genovia recently amended\nregulations to encourage foreign businesses to move their corporate domicile to Genovia.The\nthird section of the report reviews the regulation of commerce. Genovia's goal is to establish\nan environment that encourages foreign businesses to increase trade with domestic businesses.\nStephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court\ndecisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in\nplace governing contracts and each party's rights.Stephenson then reviews two initiatives by\nGenovia to improve domestic policies and regulations.The first initiative by Genovia is its\npassage of conflict of interest regulations. Regulators implement regulatory restrictions and\nregulatory mandates that apply to employees of securities firms. One of Stephenson's research\ncolleagues writes reports on a company in which he owns shares.The second initiative by Genovia\nis to reduce pollution and promote renewable electricity generation. Two years ago, the\ngovernment implemented taxes on fossil fuels and subsidies on hydropower and other renewables.\nStephenson reviews the changes in sources of electricity production since the policies were\nintroduced, shown in Exhibit 1.\n \n "
+        ],
+        "question_number": "12",
+        "question_text": "Which feature discussed in the third section of \"International Trade\" will",
+        "image": "",
+        "share_image": [
+            "Economics_images/share7-13_1.png"
+        ],
+        "options": {
+            "A": "A.Only Feature 1",
+            "B": "B.Only Feature 2",
+            "C": "C.Both Feature 1 and Feature 2"
+        },
+        "answer": "C",
+        "explanation": "Genovia needs unambiguous laws concerning financial liability and bankruptcy to\nencourage foreign businesses to enter into contracts, particularly those that are long term and\nmay involve sunk costs. The court decisions help Genovia achieve its goal. Also, clearly\ndefined rules governing contracts, their interpretation, and each party's legal rights under a\ncontract are necessary. Thus, both features help Genovia achieve its goal.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "International Trade, Legal and Regulatory Environment, Risk Management",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Cate Stephenson is an analyst in the economics research division of an international\nsecurities firm. She is conducting research on the regulatory environment in certain European\ncountries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new\naccounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le\nregulateur is not a self-regulating organization (SRO). There is also an SRO –\n“L'organisation.” L'organisation is not an independent regulator.In her research report,\nStephenson makes the following statements:Statement 1:Le regulateur has been given legal\nauthority by the government to enforce the new statute.Statement 2:L'organisation issues\nadministrative regulations related to the new statute using government funding.Statement\n3:L'organisation has member companies that accept the authorization of L'organisation to set\nand enforce rules and standards. Stephenson and her supervisor discuss the intended and\nunintended effects of implementing the new statute, and Stephenson makes two comments.Comment\n1:It is likely that some unintended consequences will be identified in regulatory filings prior\nto implementation of the new legislation.Comment 2:Indirect costs arise because of unintended\nconsequences and may result in high unanticipated costs.Stephenson reads a report titled\n\"International Trade;' which has three sections about Genovia's policies and regulations.The\nfirst section of the report discusses policies that legislators may implement to accomplish\nGenovia's objective of promoting free trade on industrial goods.The second section of the\nreport covers corporate domicile. Stephenson learns that regulators in Genovia recently amended\nregulations to encourage foreign businesses to move their corporate domicile to Genovia.The\nthird section of the report reviews the regulation of commerce. Genovia's goal is to establish\nan environment that encourages foreign businesses to increase trade with domestic businesses.\nStephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court\ndecisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in\nplace governing contracts and each party's rights.Stephenson then reviews two initiatives by\nGenovia to improve domestic policies and regulations.The first initiative by Genovia is its\npassage of conflict of interest regulations. Regulators implement regulatory restrictions and\nregulatory mandates that apply to employees of securities firms. One of Stephenson's research\ncolleagues writes reports on a company in which he owns shares.The second initiative by Genovia\nis to reduce pollution and promote renewable electricity generation. Two years ago, the\ngovernment implemented taxes on fossil fuels and subsidies on hydropower and other renewables.\nStephenson reviews the changes in sources of electricity production since the policies were\nintroduced, shown in Exhibit 1.\n \n "
+        ],
+        "question_number": "13",
+        "question_text": "Based on Exhibit 1, which government policy has been most effective in helping",
+        "image": "",
+        "share_image": [
+            "Economics_images/share7-13_1.png"
+        ],
+        "options": {
+            "A": "A.Tax on fossil fuels",
+            "B": "B.Subsidy on hydropower",
+            "C": "C.Subsidy on other renewables"
+        },
+        "answer": "C",
+        "explanation": "At the end of Year 2, the compound annual growth rate (CAGR) for each sector is\ncalculated as follows: (Year 2/Year 0) 0.5 - 1Fossil fuels = (426/462)0.5 - 1 = -4%Hydropower =\n(273/186)0.5 - 1 = 21%Other renewables = (154/97)0.5 - 1 = 26%.The CAGR indicates that the 26%\nincrease in production from the subsidy on other renewables has been more effective than the 4%\ndecrease in production from the tax on fossil fuels or the 21% increase in production from the\nsubsidy on hydropower. Thus, the subsidy on other renewables of 26% is the highest, indicating\nthat this policy has been the most effective in helping Genovia achieve its second initiative.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Government policy effectiveness, Compound Annual Growth Rate (CAGR), Renewable energy subsidies",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ed Smith is a new trainee in the foreign exchange (FX) services department of a major\nglobal bank. Smith’s focus is to assist senior FX trader Feliz Mehmet, CFA. Mehmet mentions\nthat an Indian corporate client exporting to the United Kingdom wants to estimate the potential\nhedging cost for a sale closing in one year. Smith is to determine the premium/discount for an\nannual (360-day) forward contract using the exchange rate data presented in Exhibit 1.\nMehmet is also looking at two possible trades to determine their profit potential. The first\ntrade involves a possible triangular arbitrage trade using the Swiss, US, and Brazilian\ncurrencies, to be executed based on a dealer’s bid/offer rate quote of 0.2355/0.2358 in\nCHF/BRL and the interbank spot rate quotes presented in Exhibit 2.\nMehmet is also considering a carry trade involving the USD and the euro. He anticipates it will\ngenerate a higher return than buying a one-year domestic note at the current market quote due\nto low US interest rates and his predictions of exchange rates in one year. To help Mehmet\nassess the carry trade, Smith provides Mehmet with selected current market data and his one-\nyear forecasts in Exhibit 3.\nFinally, Mehmet asks Smith to assist with a trade involving a US multinational customer\noperating in Europe and Japan. The customer is a very cost-conscious industrial company with an\nAA credit rating and strives to execute its currency trades at the most favorable bid–offer\nspread. Because its Japanese subsidiary is about to close on a major European acquisition in\nthree business days, the client wants to lock in a trade involving the Japanese yen and the\neuro as early as possible the next morning, preferably by 8:05 a.m. New York time.\nAt lunch, Smith and other FX trainees discuss how best to analyze currency market volatility\nfrom ongoing financial crises. The group agrees that a theoretical explanation of exchange rate\nmovements, such as the framework of the international parity conditions, should be applicable\nacross all trading environments. They note such analysis should enable traders to anticipate\nfuture spot exchange rates. But they disagree on which parity condition best predicts exchange\nrates, voicing several different assessments. Smith concludes the discussion on parity\nconditions by stating to the trainees,\nI believe that in the current environment both covered and uncovered interest rate parity\nconditions are in effect.\n "
+        ],
+        "question_number": "14",
+        "question_text": "Based upon Exhibit 1, the forward premium (discount) for a 360-day INR/GBP",
+        "image": "",
+        "share_image": [
+            "Economics_images/share14-18_1.png",
+            "Economics_images/share14-18_2.png",
+            "Economics_images/share14-18_3.png"
+        ],
+        "options": {
+            "A": "A.-1.546",
+            "B": "B.1.546",
+            "C": "C.1.576"
+        },
+        "answer": "C",
+        "explanation": "The equation to calculate the forward premium (discount) is: $S_{\\text{f/d}}$ is the spot rate with GBP the base currency or d, and INR the foreign currency or f. $S_{\\text{f/d}}$ per Exhibit 1 is 79.5093, $i_{\\text{f}}$ is equal to 7.52% and $i_{\\text{d}}$ is equal to 5.43%. With GBP as the base currency (i.e. the “domestic” currency) in the INR/GBP quote, substituting in the relevant base currency values from Exhibit 1 yields the following:\n\n$$\nF_{\\text{f/d}} - S_{\\text{f/d}} = S_{\\text{f/d}} \\left( \\frac{\\left( \\frac{\\text{Actual}}{360} \\right) (i_r - i_d)}{1 + i_d \\left( \\frac{\\text{Actual}}{360} \\right)} \\right)\n$$\n\n$$\nF_{\\text{f/d}} - S_{\\text{f/d}} = 79.5093 \\left( \\frac{\\left( \\frac{360}{360} \\right) (0.0752 - 0.0543)}{1 + 0.0543 \\left( \\frac{360}{360} \\right)} \\right)\n$$\n\n$$\nF_{\\text{f/d}} - S_{\\text{f/d}} = 79.5093 \\left( \\frac{1}{1.0543} (0.0752 - 0.0543) \\right)\n$$\n\n$$\nF_{\\text{f/d}} - S_{\\text{f/d}} = 1.576\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Foreign Exchange Rate Calculations, Forward Premium/Discount Calculation, Interest Rate Parity",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ed Smith is a new trainee in the foreign exchange (FX) services department of a major\nglobal bank. Smith’s focus is to assist senior FX trader Feliz Mehmet, CFA. Mehmet mentions\nthat an Indian corporate client exporting to the United Kingdom wants to estimate the potential\nhedging cost for a sale closing in one year. Smith is to determine the premium/discount for an\nannual (360-day) forward contract using the exchange rate data presented in Exhibit 1.\nMehmet is also looking at two possible trades to determine their profit potential. The first\ntrade involves a possible triangular arbitrage trade using the Swiss, US, and Brazilian\ncurrencies, to be executed based on a dealer’s bid/offer rate quote of 0.2355/0.2358 in\nCHF/BRL and the interbank spot rate quotes presented in Exhibit 2.\nMehmet is also considering a carry trade involving the USD and the euro. He anticipates it will\ngenerate a higher return than buying a one-year domestic note at the current market quote due\nto low US interest rates and his predictions of exchange rates in one year. To help Mehmet\nassess the carry trade, Smith provides Mehmet with selected current market data and his one-\nyear forecasts in Exhibit 3.\nFinally, Mehmet asks Smith to assist with a trade involving a US multinational customer\noperating in Europe and Japan. The customer is a very cost-conscious industrial company with an\nAA credit rating and strives to execute its currency trades at the most favorable bid–offer\nspread. Because its Japanese subsidiary is about to close on a major European acquisition in\nthree business days, the client wants to lock in a trade involving the Japanese yen and the\neuro as early as possible the next morning, preferably by 8:05 a.m. New York time.\nAt lunch, Smith and other FX trainees discuss how best to analyze currency market volatility\nfrom ongoing financial crises. The group agrees that a theoretical explanation of exchange rate\nmovements, such as the framework of the international parity conditions, should be applicable\nacross all trading environments. They note such analysis should enable traders to anticipate\nfuture spot exchange rates. But they disagree on which parity condition best predicts exchange\nrates, voicing several different assessments. Smith concludes the discussion on parity\nconditions by stating to the trainees,\nI believe that in the current environment both covered and uncovered interest rate parity\nconditions are in effect.\n "
+        ],
+        "question_number": "15",
+        "question_text": "Based on Exhibit 2, the most appropriate recommendation regarding the",
+        "image": "",
+        "share_image": [
+            "Economics_images/share14-18_1.png",
+            "Economics_images/share14-18_2.png",
+            "Economics_images/share14-18_3.png"
+        ],
+        "options": {
+            "A": "A.decline the trade, no arbitrage profits are possible.",
+            "B": "B.execute the trade, buy BRL in the interbank market and sell it to the dealer.",
+            "C": "C.execute the trade, buy BRL from the dealer and sell it in the interbank market."
+        },
+        "answer": "B",
+        "explanation": "The dealer is posting a bid rate to buy BRL at a price that is too high. This\noverpricing is determined by calculating the interbank implied cross rate for the CHF/BRL using\nthe intuitive equation-based approach:CHF/BRL = CHF/USD × (BRL/USD)–1, orCHF/BRL = CHF/USD ×\nUSD/BRLInverting the BRL/USD given the quotes in Exhibit 2 determines the USD/BRL bid–offer\nrates of 0.23980/0.23982. (The bid of 0.23980 is the inverse of the BRL/USD offer, calculated\nas 1/4.1702; the offer of 0.23982 is the inverse of the BRL/USD bid, calculated as 1/4.1698.)\nMultiplying the CHF/USD and USD/BRL bid–offer rates then leads to the interbank implied\nCHF/BRL cross rate:\nBid: 0.9799 × 0.23980 = 0.2349\nOffer: 0.9801 × 0.23982 = 0.23505\nSince the dealer is willing to buy BRL at 0.2355 but BRL can be purchased from the interbank\nmarket at 0.23505, there is an arbitrage opportunity to buy BRL in the interbank market and\nsell BRL to the dealer for a profit of 0.0045 CHF (0.2355 – 0.23505) per BRL transacted.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Arbitrage opportunities, Currency cross rates, Bid-offer spread",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ed Smith is a new trainee in the foreign exchange (FX) services department of a major\nglobal bank. Smith’s focus is to assist senior FX trader Feliz Mehmet, CFA. Mehmet mentions\nthat an Indian corporate client exporting to the United Kingdom wants to estimate the potential\nhedging cost for a sale closing in one year. Smith is to determine the premium/discount for an\nannual (360-day) forward contract using the exchange rate data presented in Exhibit 1.\nMehmet is also looking at two possible trades to determine their profit potential. The first\ntrade involves a possible triangular arbitrage trade using the Swiss, US, and Brazilian\ncurrencies, to be executed based on a dealer’s bid/offer rate quote of 0.2355/0.2358 in\nCHF/BRL and the interbank spot rate quotes presented in Exhibit 2.\nMehmet is also considering a carry trade involving the USD and the euro. He anticipates it will\ngenerate a higher return than buying a one-year domestic note at the current market quote due\nto low US interest rates and his predictions of exchange rates in one year. To help Mehmet\nassess the carry trade, Smith provides Mehmet with selected current market data and his one-\nyear forecasts in Exhibit 3.\nFinally, Mehmet asks Smith to assist with a trade involving a US multinational customer\noperating in Europe and Japan. The customer is a very cost-conscious industrial company with an\nAA credit rating and strives to execute its currency trades at the most favorable bid–offer\nspread. Because its Japanese subsidiary is about to close on a major European acquisition in\nthree business days, the client wants to lock in a trade involving the Japanese yen and the\neuro as early as possible the next morning, preferably by 8:05 a.m. New York time.\nAt lunch, Smith and other FX trainees discuss how best to analyze currency market volatility\nfrom ongoing financial crises. The group agrees that a theoretical explanation of exchange rate\nmovements, such as the framework of the international parity conditions, should be applicable\nacross all trading environments. They note such analysis should enable traders to anticipate\nfuture spot exchange rates. But they disagree on which parity condition best predicts exchange\nrates, voicing several different assessments. Smith concludes the discussion on parity\nconditions by stating to the trainees,\nI believe that in the current environment both covered and uncovered interest rate parity\nconditions are in effect.\n "
+        ],
+        "question_number": "16",
+        "question_text": "Based on Exhibit 3, the potential all-in USD return on the carry trade is",
+        "image": "",
+        "share_image": [
+            "Economics_images/share14-18_1.png",
+            "Economics_images/share14-18_2.png",
+            "Economics_images/share14-18_3.png"
+        ],
+        "options": {
+            "A": "A.0.83%.",
+            "B": "B.1.23%.",
+            "C": "C.1.63%."
+        },
+        "answer": "A",
+        "explanation": "The carry trade involves borrowing in a lower-yielding currency to invest in a\nhigher-yielding\none and netting any profit after allowing for borrowing costs and exchange rate movements. The\nrelevant trade is to borrow USD and lend in euros. To calculate the all-in USD return from a\none-year EUR Libor deposit, first determine the current and one-year-later USD/EUR exchange\nrates. Because one USD buys CAD 1.3200 today and one CAD buys EUR 0.6506 today, today’s\nEUR/USD rate is the product of these two numbers: 1.3200 × 0.6506 = 0.8588. The projected rate\none year later is 1.3151 × 0.6567 = 0.8636. Accordingly, measured in dollars, the investment\nreturn for the unhedged EUR Libor deposit is equal to\n(1.3200 × 0.6506) × (1＋0.022) × [1/(1.3151 × 0.6567)] –1\n= 0.8588 × (1.022) × (1/0.8636) –1 = 1.01632 – 1 = 1.632%\nHowever, the borrowing costs must be charged against this gross return to fund the carry trade\ninvestment (one-year USD Libor was 0.80%). The net return on the carry trade is therefore\n1.632% – 0.80% = 0.832%.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Carry Trade, Exchange Rates, Interest Rate Differentials",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ed Smith is a new trainee in the foreign exchange (FX) services department of a major\nglobal bank. Smith’s focus is to assist senior FX trader Feliz Mehmet, CFA. Mehmet mentions\nthat an Indian corporate client exporting to the United Kingdom wants to estimate the potential\nhedging cost for a sale closing in one year. Smith is to determine the premium/discount for an\nannual (360-day) forward contract using the exchange rate data presented in Exhibit 1.\nMehmet is also looking at two possible trades to determine their profit potential. The first\ntrade involves a possible triangular arbitrage trade using the Swiss, US, and Brazilian\ncurrencies, to be executed based on a dealer’s bid/offer rate quote of 0.2355/0.2358 in\nCHF/BRL and the interbank spot rate quotes presented in Exhibit 2.\nMehmet is also considering a carry trade involving the USD and the euro. He anticipates it will\ngenerate a higher return than buying a one-year domestic note at the current market quote due\nto low US interest rates and his predictions of exchange rates in one year. To help Mehmet\nassess the carry trade, Smith provides Mehmet with selected current market data and his one-\nyear forecasts in Exhibit 3.\nFinally, Mehmet asks Smith to assist with a trade involving a US multinational customer\noperating in Europe and Japan. The customer is a very cost-conscious industrial company with an\nAA credit rating and strives to execute its currency trades at the most favorable bid–offer\nspread. Because its Japanese subsidiary is about to close on a major European acquisition in\nthree business days, the client wants to lock in a trade involving the Japanese yen and the\neuro as early as possible the next morning, preferably by 8:05 a.m. New York time.\nAt lunch, Smith and other FX trainees discuss how best to analyze currency market volatility\nfrom ongoing financial crises. The group agrees that a theoretical explanation of exchange rate\nmovements, such as the framework of the international parity conditions, should be applicable\nacross all trading environments. They note such analysis should enable traders to anticipate\nfuture spot exchange rates. But they disagree on which parity condition best predicts exchange\nrates, voicing several different assessments. Smith concludes the discussion on parity\nconditions by stating to the trainees,\nI believe that in the current environment both covered and uncovered interest rate parity\nconditions are in effect.\n "
+        ],
+        "question_number": "17",
+        "question_text": "The factor least likely to lead to a narrow bid/offer spread for the",
+        "image": "",
+        "share_image": [
+            "Economics_images/share14-18_1.png",
+            "Economics_images/share14-18_2.png",
+            "Economics_images/share14-18_3.png"
+        ],
+        "options": {
+            "A": "A.timing of its trade.",
+            "B": "B.company's credit rating.",
+            "C": "C.pair of currencies involved."
+        },
+        "answer": "B",
+        "explanation": "While credit ratings can affect spreads, the trade involves spot settlement (i.e.,\ntwo business days after the trade date), so the spread quoted to this highly rated (AA) firm is\nnot likely to be much tighter than the spread that would be quoted to a somewhat lower-rated\n(but still high-quality) firm. The relationship between the bank and the client, the size of\nthe trade, the time of day the trade is initiated, the currencies involved, and the level of\nmarket volatility are likely to be more significant factors in determining the spread for this\ntrade.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market liquidity, Currency markets, Credit risk",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Ed Smith is a new trainee in the foreign exchange (FX) services department of a major\nglobal bank. Smith’s focus is to assist senior FX trader Feliz Mehmet, CFA. Mehmet mentions\nthat an Indian corporate client exporting to the United Kingdom wants to estimate the potential\nhedging cost for a sale closing in one year. Smith is to determine the premium/discount for an\nannual (360-day) forward contract using the exchange rate data presented in Exhibit 1.\nMehmet is also looking at two possible trades to determine their profit potential. The first\ntrade involves a possible triangular arbitrage trade using the Swiss, US, and Brazilian\ncurrencies, to be executed based on a dealer’s bid/offer rate quote of 0.2355/0.2358 in\nCHF/BRL and the interbank spot rate quotes presented in Exhibit 2.\nMehmet is also considering a carry trade involving the USD and the euro. He anticipates it will\ngenerate a higher return than buying a one-year domestic note at the current market quote due\nto low US interest rates and his predictions of exchange rates in one year. To help Mehmet\nassess the carry trade, Smith provides Mehmet with selected current market data and his one-\nyear forecasts in Exhibit 3.\nFinally, Mehmet asks Smith to assist with a trade involving a US multinational customer\noperating in Europe and Japan. The customer is a very cost-conscious industrial company with an\nAA credit rating and strives to execute its currency trades at the most favorable bid–offer\nspread. Because its Japanese subsidiary is about to close on a major European acquisition in\nthree business days, the client wants to lock in a trade involving the Japanese yen and the\neuro as early as possible the next morning, preferably by 8:05 a.m. New York time.\nAt lunch, Smith and other FX trainees discuss how best to analyze currency market volatility\nfrom ongoing financial crises. The group agrees that a theoretical explanation of exchange rate\nmovements, such as the framework of the international parity conditions, should be applicable\nacross all trading environments. They note such analysis should enable traders to anticipate\nfuture spot exchange rates. But they disagree on which parity condition best predicts exchange\nrates, voicing several different assessments. Smith concludes the discussion on parity\nconditions by stating to the trainees,\nI believe that in the current environment both covered and uncovered interest rate parity\nconditions are in effect.\n "
+        ],
+        "question_number": "18",
+        "question_text": "If Smith's statement on parity conditions is correct, future spot exchange",
+        "image": "",
+        "share_image": [
+            "Economics_images/share14-18_1.png",
+            "Economics_images/share14-18_2.png",
+            "Economics_images/share14-18_3.png"
+        ],
+        "options": {
+            "A": "A.current spot rates.",
+            "B": "B.forward exchange rates.",
+            "C": "C.inflation rate differentials."
+        },
+        "answer": "B",
+        "explanation": "By rearranging the terms of the equation defining covered interest rate parity, and assuming that uncovered interest rate parity is in effect, the forward exchange rate is equal to the expected future spot exchange rate, \n\n$$\nF_{f/d} = S_{e f/d}\n$$\n\n, with the expected percentage change in the spot rate equal to the interest rate differential. Thus, the forward exchange rate is an unbiased forecast of the future spot exchange rate.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Covered Interest Rate Parity, Uncovered Interest Rate Parity, Forward Exchange Rates",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Connor Wagener, a student at the University of Canterbury in New Zealand, has been\nasked to prepare a presentation on foreign exchange rates for his International Business\ncourse. Wagener has a basic understanding of exchange rates, but would like a practitioner's\nperspective, and he has arranged an interview with currency trader Hannah McFadden. During the\ninterview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as\nto why our New Zealand dollar was affected by the European debt crisis in 2011 and what other\nfactors impact it.”In response, McFadden begins with a general discussion of exchange rates.\nShe notes that international parity conditions illustrate how exchange rates are linked to\nexpected inflation, interest rate differences, and forward exchange rates as well as current\nand expected future spot rates. McFadden makes the following statement:Statement 1:\n“Fortunately, the international parity condition most relevant for FX carry trades does not\nalways hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-\nyield currencies and fund their position by shorting, that is borrowing in, low-yield\ncurrencies. Unfortunately, crashes in currency values can occur which create financial crises\nas traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively\nimpacted when highly leveraged carry trades were unwound. In addition to investors, consumers\nand business owners can also affect currency exchange rates through their impact on their\ncountry's balance of payments. For example, if New Zealand consumers purchase more goods from\nChina than New Zealand businesses sell to China, New Zealand will run a trade account deficit\nwith China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the\ncurrency of the country in surplus to appreciate while a deficit will cause currency\ndepreciation. Exchange rate changes will result in immediate adjustments in the prices of\ntraded goods as well as in the demand for imports and exports. These changes will immediately\ncorrect the trade imbalance.”McFadden next addresses the influence of monetary and fiscal\npolicy on exchange rates:“Countries also exert significant influence on exchange rates through\nboth the initial mix of their fiscal and monetary policies, and also by subsequent adjustments\nto those policies. Various models have been developed to identify how these policies affect\nexchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary\npolicies affect interest rates and ultimately exchange rates in the short-term.”McFadden\ndescribes monetary models by stating:Statement 3:“Monetary models of exchange rate\ndetermination focus on the effects of inflation, price level changes, and risk premium\nadjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments\nand monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal\npolicy on exchange rates. I must take a client call, but will return shortly. In the meantime,\nhere is some relevant literature on the models I mentioned along with a couple of questions for\nyou to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and\nfiscal policies under low capital mobility conditions. Are these policies likely to lead to\ncurrency appreciation, currency depreciation, or to have no impact?Question 2:Assume a\ndeveloped market (DM) country has an expansive fiscal policy under high capital mobility\nconditions. Why is its currency most likely to depreciate in the long-run under an integrated\nMundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review\nthe questions. McFadden notes that capital flows can have a significant impact on exchange\nrates and have contributed to currency crises in both EM and DM countries. She explains that\ncentral banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to\nmanage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central\nbanks tend to be more effective in using exchange rate intervention than DM central banks,\nprimarily because of one important factor.”McFadden continues her discussion:Statement 5:“I\nmentioned that capital inflows could cause a currency crisis, leaving fund managers with\nsignificant losses. In the period leading up to a currency crisis, I would predict that an\naffected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad\nmoney growth in nominal and real terms will increase.Prediction 3: real exchange rate will be\nsubstantially higher than its mean level during tranquil periods.After the interview, McFadden\nagrees to meet the following week to discuss more recent events on the New Zealand dollar.\n "
+        ],
+        "question_number": "19",
+        "question_text": "The international parity condition McFadden is referring to in Statement 1 is:",
+        "image": "",
+        "options": {
+            "A": "A.purchasing power parity.",
+            "B": "B.covered interest rate parity.",
+            "C": "C.uncovered interest rate parity."
+        },
+        "answer": "C",
+        "explanation": "The carry trade strategy is dependent upon the fact that uncovered interest rate\nparity does not hold in the short or medium term. If uncovered interest rate parity held, it\nwould mean that investors would receive identical returns from either an unhedged foreign\ncurrency investment or a domestic currency investment because the appreciation/depreciation of\nthe exchange rate would offset the yield differential. However, during periods of low\nvolatility, evidence shows that high yield currencies do not depreciate enough and low yield\ncurrencies do not appreciate enough to offset the yield differential.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Uncovered interest rate parity, Carry trade strategy, Exchange rate volatility",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Connor Wagener, a student at the University of Canterbury in New Zealand, has been\nasked to prepare a presentation on foreign exchange rates for his International Business\ncourse. Wagener has a basic understanding of exchange rates, but would like a practitioner's\nperspective, and he has arranged an interview with currency trader Hannah McFadden. During the\ninterview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as\nto why our New Zealand dollar was affected by the European debt crisis in 2011 and what other\nfactors impact it.”In response, McFadden begins with a general discussion of exchange rates.\nShe notes that international parity conditions illustrate how exchange rates are linked to\nexpected inflation, interest rate differences, and forward exchange rates as well as current\nand expected future spot rates. McFadden makes the following statement:Statement 1:\n“Fortunately, the international parity condition most relevant for FX carry trades does not\nalways hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-\nyield currencies and fund their position by shorting, that is borrowing in, low-yield\ncurrencies. Unfortunately, crashes in currency values can occur which create financial crises\nas traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively\nimpacted when highly leveraged carry trades were unwound. In addition to investors, consumers\nand business owners can also affect currency exchange rates through their impact on their\ncountry's balance of payments. For example, if New Zealand consumers purchase more goods from\nChina than New Zealand businesses sell to China, New Zealand will run a trade account deficit\nwith China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the\ncurrency of the country in surplus to appreciate while a deficit will cause currency\ndepreciation. Exchange rate changes will result in immediate adjustments in the prices of\ntraded goods as well as in the demand for imports and exports. These changes will immediately\ncorrect the trade imbalance.”McFadden next addresses the influence of monetary and fiscal\npolicy on exchange rates:“Countries also exert significant influence on exchange rates through\nboth the initial mix of their fiscal and monetary policies, and also by subsequent adjustments\nto those policies. Various models have been developed to identify how these policies affect\nexchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary\npolicies affect interest rates and ultimately exchange rates in the short-term.”McFadden\ndescribes monetary models by stating:Statement 3:“Monetary models of exchange rate\ndetermination focus on the effects of inflation, price level changes, and risk premium\nadjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments\nand monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal\npolicy on exchange rates. I must take a client call, but will return shortly. In the meantime,\nhere is some relevant literature on the models I mentioned along with a couple of questions for\nyou to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and\nfiscal policies under low capital mobility conditions. Are these policies likely to lead to\ncurrency appreciation, currency depreciation, or to have no impact?Question 2:Assume a\ndeveloped market (DM) country has an expansive fiscal policy under high capital mobility\nconditions. Why is its currency most likely to depreciate in the long-run under an integrated\nMundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review\nthe questions. McFadden notes that capital flows can have a significant impact on exchange\nrates and have contributed to currency crises in both EM and DM countries. She explains that\ncentral banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to\nmanage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central\nbanks tend to be more effective in using exchange rate intervention than DM central banks,\nprimarily because of one important factor.”McFadden continues her discussion:Statement 5:“I\nmentioned that capital inflows could cause a currency crisis, leaving fund managers with\nsignificant losses. In the period leading up to a currency crisis, I would predict that an\naffected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad\nmoney growth in nominal and real terms will increase.Prediction 3: real exchange rate will be\nsubstantially higher than its mean level during tranquil periods.After the interview, McFadden\nagrees to meet the following week to discuss more recent events on the New Zealand dollar.\n "
+        ],
+        "question_number": "20",
+        "question_text": "In Statement 2, McFadden is most likely failing to consider the:",
+        "image": "",
+        "options": {
+            "A": "A.initial gap between the country's imports and exports.",
+            "B": "B.price elasticity of export demand versus import demand.",
+            "C": "C.lag in the response of import and export demand to price changes."
+        },
+        "answer": "C",
+        "explanation": "McFadden states that exchange rates will immediately correct the trade imbalance.\nShe is describing the Flow Supply/Demand Channel, which assumes that trade imbalances will be\ncorrected as the deficit country's currency depreciates, causing its exports to become more\ncompetitive and its imports to become more expensive. Studies indicate that there can be long\nlags between exchange rate changes, changes in the prices of traded goods and changes in the\ntrade balance. In the short-run, exchange rates tend to be more responsive to investment and\nfinancing decisions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Exchange Rate Dynamics, Trade Balance Adjustments, Price Elasticity",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Connor Wagener, a student at the University of Canterbury in New Zealand, has been\nasked to prepare a presentation on foreign exchange rates for his International Business\ncourse. Wagener has a basic understanding of exchange rates, but would like a practitioner's\nperspective, and he has arranged an interview with currency trader Hannah McFadden. During the\ninterview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as\nto why our New Zealand dollar was affected by the European debt crisis in 2011 and what other\nfactors impact it.”In response, McFadden begins with a general discussion of exchange rates.\nShe notes that international parity conditions illustrate how exchange rates are linked to\nexpected inflation, interest rate differences, and forward exchange rates as well as current\nand expected future spot rates. McFadden makes the following statement:Statement 1:\n“Fortunately, the international parity condition most relevant for FX carry trades does not\nalways hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-\nyield currencies and fund their position by shorting, that is borrowing in, low-yield\ncurrencies. Unfortunately, crashes in currency values can occur which create financial crises\nas traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively\nimpacted when highly leveraged carry trades were unwound. In addition to investors, consumers\nand business owners can also affect currency exchange rates through their impact on their\ncountry's balance of payments. For example, if New Zealand consumers purchase more goods from\nChina than New Zealand businesses sell to China, New Zealand will run a trade account deficit\nwith China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the\ncurrency of the country in surplus to appreciate while a deficit will cause currency\ndepreciation. Exchange rate changes will result in immediate adjustments in the prices of\ntraded goods as well as in the demand for imports and exports. These changes will immediately\ncorrect the trade imbalance.”McFadden next addresses the influence of monetary and fiscal\npolicy on exchange rates:“Countries also exert significant influence on exchange rates through\nboth the initial mix of their fiscal and monetary policies, and also by subsequent adjustments\nto those policies. Various models have been developed to identify how these policies affect\nexchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary\npolicies affect interest rates and ultimately exchange rates in the short-term.”McFadden\ndescribes monetary models by stating:Statement 3:“Monetary models of exchange rate\ndetermination focus on the effects of inflation, price level changes, and risk premium\nadjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments\nand monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal\npolicy on exchange rates. I must take a client call, but will return shortly. In the meantime,\nhere is some relevant literature on the models I mentioned along with a couple of questions for\nyou to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and\nfiscal policies under low capital mobility conditions. Are these policies likely to lead to\ncurrency appreciation, currency depreciation, or to have no impact?Question 2:Assume a\ndeveloped market (DM) country has an expansive fiscal policy under high capital mobility\nconditions. Why is its currency most likely to depreciate in the long-run under an integrated\nMundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review\nthe questions. McFadden notes that capital flows can have a significant impact on exchange\nrates and have contributed to currency crises in both EM and DM countries. She explains that\ncentral banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to\nmanage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central\nbanks tend to be more effective in using exchange rate intervention than DM central banks,\nprimarily because of one important factor.”McFadden continues her discussion:Statement 5:“I\nmentioned that capital inflows could cause a currency crisis, leaving fund managers with\nsignificant losses. In the period leading up to a currency crisis, I would predict that an\naffected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad\nmoney growth in nominal and real terms will increase.Prediction 3: real exchange rate will be\nsubstantially higher than its mean level during tranquil periods.After the interview, McFadden\nagrees to meet the following week to discuss more recent events on the New Zealand dollar.\n "
+        ],
+        "question_number": "21",
+        "question_text": "The least appropriate factor used to describe the type of models mentioned in",
+        "image": "",
+        "options": {
+            "A": "A.inflation.",
+            "B": "B.price level changes.",
+            "C": "C.risk premium adjustments."
+        },
+        "answer": "C",
+        "explanation": "Risk premiums are more closely associated with the portfolio-balance approach. The\nportfolio balance approach addresses the impact of a country's net foreign asset/liability\nposition. Under the portfolio balance approach, investors are assumed to hold a diversified\nportfolio of assets including foreign and domestic bonds. Investors will hold a country's bonds\nas long as they are compensated appropriately. Compensation may come in the form of higher\ninterest rates and/or higher risk premium.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Portfolio-balance approach, Net foreign asset/liability position, Compensation in financial instruments.",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Connor Wagener, a student at the University of Canterbury in New Zealand, has been\nasked to prepare a presentation on foreign exchange rates for his International Business\ncourse. Wagener has a basic understanding of exchange rates, but would like a practitioner's\nperspective, and he has arranged an interview with currency trader Hannah McFadden. During the\ninterview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as\nto why our New Zealand dollar was affected by the European debt crisis in 2011 and what other\nfactors impact it.”In response, McFadden begins with a general discussion of exchange rates.\nShe notes that international parity conditions illustrate how exchange rates are linked to\nexpected inflation, interest rate differences, and forward exchange rates as well as current\nand expected future spot rates. McFadden makes the following statement:Statement 1:\n“Fortunately, the international parity condition most relevant for FX carry trades does not\nalways hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-\nyield currencies and fund their position by shorting, that is borrowing in, low-yield\ncurrencies. Unfortunately, crashes in currency values can occur which create financial crises\nas traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively\nimpacted when highly leveraged carry trades were unwound. In addition to investors, consumers\nand business owners can also affect currency exchange rates through their impact on their\ncountry's balance of payments. For example, if New Zealand consumers purchase more goods from\nChina than New Zealand businesses sell to China, New Zealand will run a trade account deficit\nwith China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the\ncurrency of the country in surplus to appreciate while a deficit will cause currency\ndepreciation. Exchange rate changes will result in immediate adjustments in the prices of\ntraded goods as well as in the demand for imports and exports. These changes will immediately\ncorrect the trade imbalance.”McFadden next addresses the influence of monetary and fiscal\npolicy on exchange rates:“Countries also exert significant influence on exchange rates through\nboth the initial mix of their fiscal and monetary policies, and also by subsequent adjustments\nto those policies. Various models have been developed to identify how these policies affect\nexchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary\npolicies affect interest rates and ultimately exchange rates in the short-term.”McFadden\ndescribes monetary models by stating:Statement 3:“Monetary models of exchange rate\ndetermination focus on the effects of inflation, price level changes, and risk premium\nadjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments\nand monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal\npolicy on exchange rates. I must take a client call, but will return shortly. In the meantime,\nhere is some relevant literature on the models I mentioned along with a couple of questions for\nyou to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and\nfiscal policies under low capital mobility conditions. Are these policies likely to lead to\ncurrency appreciation, currency depreciation, or to have no impact?Question 2:Assume a\ndeveloped market (DM) country has an expansive fiscal policy under high capital mobility\nconditions. Why is its currency most likely to depreciate in the long-run under an integrated\nMundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review\nthe questions. McFadden notes that capital flows can have a significant impact on exchange\nrates and have contributed to currency crises in both EM and DM countries. She explains that\ncentral banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to\nmanage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central\nbanks tend to be more effective in using exchange rate intervention than DM central banks,\nprimarily because of one important factor.”McFadden continues her discussion:Statement 5:“I\nmentioned that capital inflows could cause a currency crisis, leaving fund managers with\nsignificant losses. In the period leading up to a currency crisis, I would predict that an\naffected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad\nmoney growth in nominal and real terms will increase.Prediction 3: real exchange rate will be\nsubstantially higher than its mean level during tranquil periods.After the interview, McFadden\nagrees to meet the following week to discuss more recent events on the New Zealand dollar.\n "
+        ],
+        "question_number": "22",
+        "question_text": "The best response to Question 1 is that the policies will:",
+        "image": "",
+        "options": {
+            "A": "A.have no impact.",
+            "B": "B.lead to currency appreciation.",
+            "C": "C.lead to currency depreciation."
+        },
+        "answer": "B",
+        "explanation": "The currency is likely to appreciate. The emerging market country has both a\nrestrictive monetary policy and restrictive fiscal policy under conditions of low capital\nmobility. Low capital mobility indicates that interest rate changes induced by monetary and\nfiscal policy will not cause large changes in capital flows. Implementation of restrictive\npolicies should result in an improvement in the trade balance, which will result in currency\nappreciation.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monetary Policy, Fiscal Policy, Exchange Rates",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Connor Wagener, a student at the University of Canterbury in New Zealand, has been\nasked to prepare a presentation on foreign exchange rates for his International Business\ncourse. Wagener has a basic understanding of exchange rates, but would like a practitioner's\nperspective, and he has arranged an interview with currency trader Hannah McFadden. During the\ninterview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as\nto why our New Zealand dollar was affected by the European debt crisis in 2011 and what other\nfactors impact it.”In response, McFadden begins with a general discussion of exchange rates.\nShe notes that international parity conditions illustrate how exchange rates are linked to\nexpected inflation, interest rate differences, and forward exchange rates as well as current\nand expected future spot rates. McFadden makes the following statement:Statement 1:\n“Fortunately, the international parity condition most relevant for FX carry trades does not\nalways hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-\nyield currencies and fund their position by shorting, that is borrowing in, low-yield\ncurrencies. Unfortunately, crashes in currency values can occur which create financial crises\nas traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively\nimpacted when highly leveraged carry trades were unwound. In addition to investors, consumers\nand business owners can also affect currency exchange rates through their impact on their\ncountry's balance of payments. For example, if New Zealand consumers purchase more goods from\nChina than New Zealand businesses sell to China, New Zealand will run a trade account deficit\nwith China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the\ncurrency of the country in surplus to appreciate while a deficit will cause currency\ndepreciation. Exchange rate changes will result in immediate adjustments in the prices of\ntraded goods as well as in the demand for imports and exports. These changes will immediately\ncorrect the trade imbalance.”McFadden next addresses the influence of monetary and fiscal\npolicy on exchange rates:“Countries also exert significant influence on exchange rates through\nboth the initial mix of their fiscal and monetary policies, and also by subsequent adjustments\nto those policies. Various models have been developed to identify how these policies affect\nexchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary\npolicies affect interest rates and ultimately exchange rates in the short-term.”McFadden\ndescribes monetary models by stating:Statement 3:“Monetary models of exchange rate\ndetermination focus on the effects of inflation, price level changes, and risk premium\nadjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments\nand monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal\npolicy on exchange rates. I must take a client call, but will return shortly. In the meantime,\nhere is some relevant literature on the models I mentioned along with a couple of questions for\nyou to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and\nfiscal policies under low capital mobility conditions. Are these policies likely to lead to\ncurrency appreciation, currency depreciation, or to have no impact?Question 2:Assume a\ndeveloped market (DM) country has an expansive fiscal policy under high capital mobility\nconditions. Why is its currency most likely to depreciate in the long-run under an integrated\nMundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review\nthe questions. McFadden notes that capital flows can have a significant impact on exchange\nrates and have contributed to currency crises in both EM and DM countries. She explains that\ncentral banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to\nmanage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central\nbanks tend to be more effective in using exchange rate intervention than DM central banks,\nprimarily because of one important factor.”McFadden continues her discussion:Statement 5:“I\nmentioned that capital inflows could cause a currency crisis, leaving fund managers with\nsignificant losses. In the period leading up to a currency crisis, I would predict that an\naffected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad\nmoney growth in nominal and real terms will increase.Prediction 3: real exchange rate will be\nsubstantially higher than its mean level during tranquil periods.After the interview, McFadden\nagrees to meet the following week to discuss more recent events on the New Zealand dollar.\n "
+        ],
+        "question_number": "23",
+        "question_text": "The most likely response to Question 2 is a(n):",
+        "image": "",
+        "options": {
+            "A": "A.increase in the price level.",
+            "B": "B.decrease in risk premiums.",
+            "C": "C.increase in government debt."
+        },
+        "answer": "C",
+        "explanation": "Expansionary fiscal policies result in currency depreciation in the long run. Under\na portfolio-balance approach, the assumption is that investors hold a mix of domestic and\nforeign assets including bonds. Fiscal stimulus policies result in budget deficits which are\noften financed by debt. As the debt level rises, investors become concerned as to how the on-\ngoing deficit will be financed. The country's central bank may need to create more money in\norder to purchase the debt which would cause the currency to depreciate. Or, the government\ncould adopt a more restrictive fiscal policy, which would also depreciate the currency.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency depreciation, Fiscal policy, Government debt",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Connor Wagener, a student at the University of Canterbury in New Zealand, has been\nasked to prepare a presentation on foreign exchange rates for his International Business\ncourse. Wagener has a basic understanding of exchange rates, but would like a practitioner's\nperspective, and he has arranged an interview with currency trader Hannah McFadden. During the\ninterview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as\nto why our New Zealand dollar was affected by the European debt crisis in 2011 and what other\nfactors impact it.”In response, McFadden begins with a general discussion of exchange rates.\nShe notes that international parity conditions illustrate how exchange rates are linked to\nexpected inflation, interest rate differences, and forward exchange rates as well as current\nand expected future spot rates. McFadden makes the following statement:Statement 1:\n“Fortunately, the international parity condition most relevant for FX carry trades does not\nalways hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-\nyield currencies and fund their position by shorting, that is borrowing in, low-yield\ncurrencies. Unfortunately, crashes in currency values can occur which create financial crises\nas traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively\nimpacted when highly leveraged carry trades were unwound. In addition to investors, consumers\nand business owners can also affect currency exchange rates through their impact on their\ncountry's balance of payments. For example, if New Zealand consumers purchase more goods from\nChina than New Zealand businesses sell to China, New Zealand will run a trade account deficit\nwith China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the\ncurrency of the country in surplus to appreciate while a deficit will cause currency\ndepreciation. Exchange rate changes will result in immediate adjustments in the prices of\ntraded goods as well as in the demand for imports and exports. These changes will immediately\ncorrect the trade imbalance.”McFadden next addresses the influence of monetary and fiscal\npolicy on exchange rates:“Countries also exert significant influence on exchange rates through\nboth the initial mix of their fiscal and monetary policies, and also by subsequent adjustments\nto those policies. Various models have been developed to identify how these policies affect\nexchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary\npolicies affect interest rates and ultimately exchange rates in the short-term.”McFadden\ndescribes monetary models by stating:Statement 3:“Monetary models of exchange rate\ndetermination focus on the effects of inflation, price level changes, and risk premium\nadjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments\nand monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal\npolicy on exchange rates. I must take a client call, but will return shortly. In the meantime,\nhere is some relevant literature on the models I mentioned along with a couple of questions for\nyou to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and\nfiscal policies under low capital mobility conditions. Are these policies likely to lead to\ncurrency appreciation, currency depreciation, or to have no impact?Question 2:Assume a\ndeveloped market (DM) country has an expansive fiscal policy under high capital mobility\nconditions. Why is its currency most likely to depreciate in the long-run under an integrated\nMundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review\nthe questions. McFadden notes that capital flows can have a significant impact on exchange\nrates and have contributed to currency crises in both EM and DM countries. She explains that\ncentral banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to\nmanage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central\nbanks tend to be more effective in using exchange rate intervention than DM central banks,\nprimarily because of one important factor.”McFadden continues her discussion:Statement 5:“I\nmentioned that capital inflows could cause a currency crisis, leaving fund managers with\nsignificant losses. In the period leading up to a currency crisis, I would predict that an\naffected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad\nmoney growth in nominal and real terms will increase.Prediction 3: real exchange rate will be\nsubstantially higher than its mean level during tranquil periods.After the interview, McFadden\nagrees to meet the following week to discuss more recent events on the New Zealand dollar.\n "
+        ],
+        "question_number": "24",
+        "question_text": "The factor that McFadden is most likely referring to in Statement 4 is:",
+        "image": "",
+        "options": {
+            "A": "A.FX reserve levels.",
+            "B": "B.domestic demand.",
+            "C": "C.the level of capital flows."
+        },
+        "answer": "A",
+        "explanation": "EM countries are better able to influence their exchange rates because their\nreserve levels as a ratio to average daily FX turnover are generally much greater than those of\nDM countries. This means that EM central banks are in a better position to affect currency\nsupply and demand than DM countries where the ratio is negligible. EM policymakers use their\nforeign exchange reserves as a kind of insurance to defend their currencies, as needed.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign exchange reserves, Exchange rate influence, Emerging markets vs. developed markets",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Connor Wagener, a student at the University of Canterbury in New Zealand, has been\nasked to prepare a presentation on foreign exchange rates for his International Business\ncourse. Wagener has a basic understanding of exchange rates, but would like a practitioner's\nperspective, and he has arranged an interview with currency trader Hannah McFadden. During the\ninterview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as\nto why our New Zealand dollar was affected by the European debt crisis in 2011 and what other\nfactors impact it.”In response, McFadden begins with a general discussion of exchange rates.\nShe notes that international parity conditions illustrate how exchange rates are linked to\nexpected inflation, interest rate differences, and forward exchange rates as well as current\nand expected future spot rates. McFadden makes the following statement:Statement 1:\n“Fortunately, the international parity condition most relevant for FX carry trades does not\nalways hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-\nyield currencies and fund their position by shorting, that is borrowing in, low-yield\ncurrencies. Unfortunately, crashes in currency values can occur which create financial crises\nas traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively\nimpacted when highly leveraged carry trades were unwound. In addition to investors, consumers\nand business owners can also affect currency exchange rates through their impact on their\ncountry's balance of payments. For example, if New Zealand consumers purchase more goods from\nChina than New Zealand businesses sell to China, New Zealand will run a trade account deficit\nwith China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the\ncurrency of the country in surplus to appreciate while a deficit will cause currency\ndepreciation. Exchange rate changes will result in immediate adjustments in the prices of\ntraded goods as well as in the demand for imports and exports. These changes will immediately\ncorrect the trade imbalance.”McFadden next addresses the influence of monetary and fiscal\npolicy on exchange rates:“Countries also exert significant influence on exchange rates through\nboth the initial mix of their fiscal and monetary policies, and also by subsequent adjustments\nto those policies. Various models have been developed to identify how these policies affect\nexchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary\npolicies affect interest rates and ultimately exchange rates in the short-term.”McFadden\ndescribes monetary models by stating:Statement 3:“Monetary models of exchange rate\ndetermination focus on the effects of inflation, price level changes, and risk premium\nadjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments\nand monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal\npolicy on exchange rates. I must take a client call, but will return shortly. In the meantime,\nhere is some relevant literature on the models I mentioned along with a couple of questions for\nyou to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and\nfiscal policies under low capital mobility conditions. Are these policies likely to lead to\ncurrency appreciation, currency depreciation, or to have no impact?Question 2:Assume a\ndeveloped market (DM) country has an expansive fiscal policy under high capital mobility\nconditions. Why is its currency most likely to depreciate in the long-run under an integrated\nMundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review\nthe questions. McFadden notes that capital flows can have a significant impact on exchange\nrates and have contributed to currency crises in both EM and DM countries. She explains that\ncentral banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to\nmanage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central\nbanks tend to be more effective in using exchange rate intervention than DM central banks,\nprimarily because of one important factor.”McFadden continues her discussion:Statement 5:“I\nmentioned that capital inflows could cause a currency crisis, leaving fund managers with\nsignificant losses. In the period leading up to a currency crisis, I would predict that an\naffected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad\nmoney growth in nominal and real terms will increase.Prediction 3: real exchange rate will be\nsubstantially higher than its mean level during tranquil periods.After the interview, McFadden\nagrees to meet the following week to discuss more recent events on the New Zealand dollar.\n "
+        ],
+        "question_number": "25",
+        "question_text": "Which of McFadden's predictions in Statement 5 is least likely to be correct?",
+        "image": "",
+        "options": {
+            "A": "A.Prediction 1",
+            "B": "B.Prediction 2",
+            "C": "C.Prediction 3"
+        },
+        "answer": "A",
+        "explanation": "Prediction 1 is least likely to be correct. Foreign exchange reserves tend to\ndecline precipitously, not increase, as a currency crisis approaches. Broad money growth in\nnominal and real terms tends to rise sharply in the two years leading up to a currency crisis,\npeaking around 18 months before a crisis hits. In the period leading up to a currency crisis,\nthe real exchange rate is substantially higher than its mean level during tranquil periods.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency Crisis, Foreign Exchange Reserves, Real Exchange Rates",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Tiu Asset Management (TAM), a hypothetical financial services firm, recently hired\nJonna Yun. Yun is a member of TAM’s Global Equity portfolio team and is assigned the task of\nanalyzing the effects of regulation on the financial services sector of a par-ticular country.\nIn her first report to the team, Yun makes the following statements:Statement 1 The country’s\nregulator, a government agency, concerned about systemic risk, is calling for an accelerated\nadoption of central-ized derivatives settlement (as opposed to bilateral settlement between two\ncounterparties)—a more stringent rule—ahead of other major countries that are considering a\nsimilar move.Statement 2 Regulators use various tools to intervene in the financial services\nsector.Statement 3 Regulations may bring benefits to the economy, but they may also have\nunanticipated costs.Statement 4 The country’s regulatory authorities are considering a regula-\ntion that is similar to Regulation Q in the United States, which imposed a ceiling on interest\nrates paid by banks for certain bank deposits.\n "
+        ],
+        "question_number": "26",
+        "question_text": "What is the most likely basis for the concerns noted in Statement 1?",
+        "image": "",
+        "options": {
+            "A": "A.Externalities",
+            "B": "B.Regulatory arbitrage",
+            "C": "C.Informational friction"
+        },
+        "answer": "B",
+        "explanation": "Firms based in the country are likely to be concerned because of the earlier timing\nof the application of new (more stringent) regulations in the country than in other large\ncountries. With more stringent regulations, some business may flow to less stringent regulatory\nenvironments or jurisdictions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regulatory arbitrage, Regulatory environment, Financial regulations",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Tiu Asset Management (TAM), a hypothetical financial services firm, recently hired\nJonna Yun. Yun is a member of TAM’s Global Equity portfolio team and is assigned the task of\nanalyzing the effects of regulation on the financial services sector of a par-ticular country.\nIn her first report to the team, Yun makes the following statements:Statement 1 The country’s\nregulator, a government agency, concerned about systemic risk, is calling for an accelerated\nadoption of central-ized derivatives settlement (as opposed to bilateral settlement between two\ncounterparties)—a more stringent rule—ahead of other major countries that are considering a\nsimilar move.Statement 2 Regulators use various tools to intervene in the financial services\nsector.Statement 3 Regulations may bring benefits to the economy, but they may also have\nunanticipated costs.Statement 4 The country’s regulatory authorities are considering a regula-\ntion that is similar to Regulation Q in the United States, which imposed a ceiling on interest\nrates paid by banks for certain bank deposits.\n "
+        ],
+        "question_number": "27",
+        "question_text": "The tools least likely to be used by regulators to intervene in financial",
+        "image": "",
+        "options": {
+            "A": "A.blackout periods.",
+            "B": "B.capital requirements.",
+            "C": "C.insider-trading restrictions."
+        },
+        "answer": "A",
+        "explanation": "Blackout periods are established by companies in response to concerns about insider\ntrading. Thus, blackout periods are not a tool used by regulators to intervene in the financial\nservices sector. Capital requirements are used by government regulators to reduce systemic risk\nand financial contagion. Insider-trading restrictions are used by regulators concerned about\ninsiders using their greater knowledge to the disadvantage of others; insider-trading\nrestrictions respond to informational frictions.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regulatory Interventions, Capital Requirements, Insider Trading Restrictions",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Tiu Asset Management (TAM), a hypothetical financial services firm, recently hired\nJonna Yun. Yun is a member of TAM’s Global Equity portfolio team and is assigned the task of\nanalyzing the effects of regulation on the financial services sector of a par-ticular country.\nIn her first report to the team, Yun makes the following statements:Statement 1 The country’s\nregulator, a government agency, concerned about systemic risk, is calling for an accelerated\nadoption of central-ized derivatives settlement (as opposed to bilateral settlement between two\ncounterparties)—a more stringent rule—ahead of other major countries that are considering a\nsimilar move.Statement 2 Regulators use various tools to intervene in the financial services\nsector.Statement 3 Regulations may bring benefits to the economy, but they may also have\nunanticipated costs.Statement 4 The country’s regulatory authorities are considering a regula-\ntion that is similar to Regulation Q in the United States, which imposed a ceiling on interest\nrates paid by banks for certain bank deposits.\n "
+        ],
+        "question_number": "28",
+        "question_text": "Which of the following is most likely an unanticipated effect of regulation?",
+        "image": "",
+        "options": {
+            "A": "A.Hiring compliance lawyers",
+            "B": "B.Setting legal standards for contracts",
+            "C": "C.Establishing employers' rights and responsibilities"
+        },
+        "answer": "A",
+        "explanation": "The hiring of more lawyers to deal with compliance is an example of an 'unintended'\nimplementation cost. Establishing legal standards for contracts and employers' rights and\nresponsibilities are objectives (intended consequences) of some regulation.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regulatory compliance costs, Unintended consequences of regulation, Implementation costs",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Tiu Asset Management (TAM), a hypothetical financial services firm, recently hired\nJonna Yun. Yun is a member of TAM’s Global Equity portfolio team and is assigned the task of\nanalyzing the effects of regulation on the financial services sector of a par-ticular country.\nIn her first report to the team, Yun makes the following statements:Statement 1 The country’s\nregulator, a government agency, concerned about systemic risk, is calling for an accelerated\nadoption of central-ized derivatives settlement (as opposed to bilateral settlement between two\ncounterparties)—a more stringent rule—ahead of other major countries that are considering a\nsimilar move.Statement 2 Regulators use various tools to intervene in the financial services\nsector.Statement 3 Regulations may bring benefits to the economy, but they may also have\nunanticipated costs.Statement 4 The country’s regulatory authorities are considering a regula-\ntion that is similar to Regulation Q in the United States, which imposed a ceiling on interest\nrates paid by banks for certain bank deposits.\n "
+        ],
+        "question_number": "29",
+        "question_text": "After Regulation Q was imposed, the demand for money market funds most likely:",
+        "image": "",
+        "options": {
+            "A": "A.increased.",
+            "B": "B.decreased.",
+            "C": "C.remained unchanged."
+        },
+        "answer": "A",
+        "explanation": "Regulation Q set a ceiling on the interest rates paid by banks for various types of\ndeposits, which resulted in investors' shifting funds to money market funds.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Regulatory Environment, Money Market Funds",
+        "book label": "Economics",
+        "level of difficulty": "difficult",
+        "question type": "text+image"
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "1",
+        "question_text": "Wakuluk most likely seeks to mitigate which of the following biases in",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.Availability",
+            "B": "B.Time period",
+            "C": "C.Survivorship"
+        },
+        "answer": "A",
+        "explanation": "Wakuluk started her career when the global markets were experiencing significant\nvolatility and poor returns. She is careful to base her conclusions on objective evidence and\nanalytical procedures to mitigate potential biases, which suggests she is seeking to mitigate\nan availability bias. Availability bias is the tendency to be overly influenced by events that\nhave left a strong impression and/or for which it is easy to recall an example.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Behavioral finance, Cognitive biases, Decision-making processes",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "2",
+        "question_text": "Wakuluk’s approach to economic forecasting:",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.is flexible and limited in complexity.",
+            "B": "B.can give a false sense of precision and provide false signals.",
+            "C": "C.imposes no consistency of analysis across items or at different points in time."
+        },
+        "answer": "B",
+        "explanation": "Wakuluk’s approach to economic forecasting utilizes both a structural model (e.g.,\nan econometric model approach) and a diffusion index (e.g., a leading indicator-based\napproach). However, the two approaches have weaknesses: An econometric model approach may give\na false sense of precision, and a leading indicator-based approach can provide false signals.\nTwo strengths of the checklist approach are its flexibility and limited complexity, although\none weakness is that it imposes no consistency of analysis across items or at different points\nin time.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Econometric Models, Leading Indicators, Checklist Approach",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "3",
+        "question_text": "Wakuluk is most likely to make significant adjustments to her estimate of the",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.Country Y only",
+            "B": "B.Country Z only",
+            "C": "C.Countries Y and Z"
+        },
+        "answer": "B",
+        "explanation": "Country Z is a developing market. Less-developed markets are likely to be\nundergoing more rapid structural changes, which may require the analyst to make more\nsignificant adjustments relative to past trends.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Emerging Markets, Structural Changes, Market Analysis",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "4",
+        "question_text": "Based on Exhibit 1 and Wakuluk’s assumptions about short-term rates and",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.low and bottoming.",
+            "B": "B.approaching a peak.",
+            "C": "C.above average and rising."
+        },
+        "answer": "A",
+        "explanation": "Country X is predicted to be in the initial recovery phase of the business cycle,\nwhich suggests short-term (money market) rates are low or bottoming. Inflation is procyclical.\nIt accelerates in the later stages of the business cycle when the output gap has closed, and it\ndecelerates when a large output gap puts downward pressure on wages and prices, which often\nhappens during a recession or the early years afterward. As long as short-term interest rates\nadjust with expected inflation, cash is essentially a zero-duration, inflation-protected asset\nthat earns a floating real rate, which is typically procyclical. Wakuluk assumes short-term\ninterest rates adjust with expected inflation and are procyclical. Thus, short-term rates are\nmost likely to be low and bottoming if Country X is in the initial recovery phase of the\nbusiness cycle.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Business cycle phases, Short-term interest rates, Inflation dynamics",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "5",
+        "question_text": "Based on Exhibit 1, what capital market effect is Country Z most likely to",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.Cyclical assets attract investors.",
+            "B": "B.Monetary policy becomes restrictive.",
+            "C": "C.The yield curve steepens substantially."
+        },
+        "answer": "B",
+        "explanation": "Wakuluk’s model predicts that Country Z’s business cycle is currently in the late\nupswing phase. In the late upswing phase, interest rates are typically rising as monetary\npolicy becomes more restrictive. Cyclical assets may underperform, whereas the yield curve is\nexpected to continue to flatten.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Business cycles, Monetary policy, Yield curve",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "6",
+        "question_text": "Based on Observation 1, fiscal and monetary policies in Country Y will most",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.low nominal rates.",
+            "B": "B.high nominal rates.",
+            "C": "C.either high or low nominal rates."
+        },
+        "answer": "C",
+        "explanation": "Monetary policy has been persistently loose for Country Y, while fiscal policies\nhave been persistently tight. With this combination of persistently loose and tight policies,\nthe impact could lead to higher or lower nominal rates (typically labeled as mid-nominal\nrates).",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal policy, Monetary policy, Interest rates",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "7",
+        "question_text": "Based on Observation 2, what impact will the policy changes have on the trend",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.Negative",
+            "B": "B.Neutral",
+            "C": "C.Positive"
+        },
+        "answer": "C",
+        "explanation": "Country Y is expected to significantly increase transfer payments and introduce a\nmore progressive tax regime. Both of these changes are pro-growth government policies and\nshould have a positive impact on the trend rate of growth for a business cycle that is in\nslowdown or contraction. Transfer payments help mitigate fluctuations in disposable income for\nthe most vulnerable households, while progressive tax regimes imply that the effective tax rate\non the private sector is pro-cyclical (i.e., rising as the economy expands and falling as the\neconomy contracts).",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fiscal Policy, Business Cycle, Economic Growth",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Neshie Wakuluk is an investment strategist who develops capital market expectations for\nan investment firm that invests across asset classes and global markets. Wakuluk started her\ncareer when the global markets were experiencing significant volatility and poor returns; as a\nresult, she is now careful to base her conclusions on objective evidence and analytical\nprocedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting\nutilizes a structural model in conjunction with a diffusion index to determine the current\nphase of a country’s business cycle. This approach has produced successful predictions in the\npast, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any\nadjustments need to be made to her initial estimates of the respective aggregate economic\ngrowth trends based on historical rates of growth for Countries X and Y (both developed\nmarkets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:\nWakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.\nWakuluk reviews the historical short-term interest rate trends for each country, which further\nconfirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine\nthe path of nominal interest rates, the potential economic response of Country Y’s economy to\nthis path, and the timing for when Country Y’s economy may move into the next business cycle.\nWakuluk makes the following observations:Observation 1 Monetary policy has been persistently\nloose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y\nis expected to significantly increase transfer payments and introduce a more progressive tax\nregime.Observation 3 The current yield curve for Country Y suggests that the business cycle is\nin the slowdown phase, with bond yields starting to reflect contractionary conditions.\n "
+        ],
+        "question_number": "8",
+        "question_text": "Based on Observation 3, Wakuluk most likely expects Country Y’s yield curve in",
+        "image": "",
+        "share_image": [
+            "CapitalMarketExpectations_images/share1-8_1.png"
+        ],
+        "options": {
+            "A": "A.invert.",
+            "B": "B.flatten.",
+            "C": "C.steepen."
+        },
+        "answer": "C",
+        "explanation": "The current yield curve for Country Y suggests that the business cycle is in the\nslowdown phase (curve is flat to inverted), with bond yields starting to reflect contractionary\nconditions (i.e., bond yields are declining). The curve will most likely steepen near term,\nconsistent with the transition to the contractionary phase of the business cycle, and be the\nsteepest on the cusp of the initial recovery phase.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Yield Curve Analysis, Economic Phases, Bond Yields",
+        "book label": "Capital Market Expectations",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    }
+]

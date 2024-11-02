@@ -1,0 +1,934 @@
+ID,Question Number,Share Context,Share Image,Question Text,Image,Options,Answer,Explanation,QA Type,Question Type,Level of Difficulty,Knowledge Topics,General Topics,Book Label
+54,47,,,"With respect to floating-rate bonds, a reference rate (such as MRR) is most likely used to
+determine the bond’s:",,"{'A': 'spread.', 'B': 'coupon rate.', 'C': 'frequency of coupon payments.'}",B,"： B is correct. The coupon rate of a floating-rate bond is expressed as a
+reference rate plus a spread. Different reference rates are used depending on where the bond is
+issued and its currency denomination, but one of the most widely used set of reference rates is
+Libor. A and C are incorrect because a bond’s spread and frequency of coupon payments are
+typically set when the bond is issued and do not change during the bond’s life. ： B是正确的。
+浮动利率债券的票面利率表示为参考利率加上利差。根据债券发行地和货币面额的不同，使用不同的参考利
+率，但使用最广泛的一组参考利率是伦敦银行同业拆借利率。A和C是不正确的，因为债券的息差和息票支付
+频率通常是在债券发行时确定的，在债券的有效期内不会发生变化。",Knowledge reasoning QA,text only,Easy,"Floating-rate bonds, Coupon rate determination, Reference rates",Fixed Income,level1_固收
+56,49,,,"A bond offers an annual coupon rate of 4%, with interest paid semiannually. The bond matures
+in two years. At a market discount rate of 6%, the price of this bond per 100 of par value is
+closest to:",,"{'A': '93.07.', 'B': '96.28.', 'C': '96.33.'}",B,"： B is correct. The bond price is closest to 96.28. N=4, I/Y=3, PMT=2, FV=100 CPT
+(PV)=96.28 ： B是正确的。债券价格接近96.28。 N=4, I/Y=3, PMT=2, FV=100 CPT (PV)=96.28",Math reasoning QA,text only,Easy,"Bond Valuation, Time Value of Money, Discount Rates",Fixed Income,level1_固收
+243,1,,,"Which of the following methods of mitigating counterparty risk is most likely to generate
+systemic risk?",,"{'A': 'Netting.', 'B': 'Collateral.', 'C': 'Hedging.', 'D': 'Central counterparties.'}",D,"Mitigating counterparty risk often leads to the generation of other types of risk.
+In the case of central counterparties, systemic risk is created as counterparty risk has been
+centralized with a limited amount of groups. If one of these groups fails, a substantial shock
+may be experienced by the financial system as a whole.在有中央对手方参与的情况下，由于对手方风
+险集中在有限的参与人员中，因此会产生系统性风险。",Knowledge reasoning QA,text only,Easy,"Systemic Risk, Central Counterparty, Risk Mitigation Methods",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+244,2,,,Which of the following statements regarding lending and counterparty risk is true?,,"{'A': 'Counterparty risk is defined as the possibility that an obligator will default on an\noutstanding loan.', 'B': 'Lending risk is defined as the possibility that either party to a derivative transaction will\nfail to meet its obligations.', 'C': 'Counterparty risk is very different from and more complex than lending risk.', 'D': 'Counterparty risk and lending risk are the same.'}",C,"Counterparty risk is very different from and more complex than lending risk.
+Counterparty risk is defined as the possibility that either party to a derivative transaction
+will fail to meet its obligations. Lending risk is defined as the possibility that an obligator
+will default on an outstanding loan.对手风险和贷款风险有很大的区别，它比贷款风险更复杂。对手风
+险是指衍生品交易的任何一方不能履行义务的可能性。贷款风险是指贷款方对未偿贷款的可能性。",Knowledge reasoning QA,text only,Easy,"Counterparty risk, Lending risk, Derivatives",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+252,10,,,"An analyst notes that stress testing current exposure is problematic because aggregating
+results is typically not meaningful, although it is easy to account for the credit quality of
+the counterparty. Are the analyst's statements correct?",,"{'A': 'The analyst is correct with regard to both aggregating results and credit quality.', 'B': 'The analyst is correct with regard to aggregating results only.', 'C': 'The analyst is correct with regard to credit quality only.', 'D': 'The analyst is incorrect with regard to both aggregating results and credit quality.'}",B,"The analyst is correct to state that aggregating stress results is not meaningful.
+Simply taking the sum of all exposures only considers the loss that would occur if all
+counterparties were to simultaneously default. This is an unlikely scenario. The analyst's
+statement on credit quality of the counterparty is incorrect since stresses do not factor in
+the credit quality of the counterparty.分析人员说汇总压力测试结果没有意义是正确的。简单地计算所
+有风险敞口的总和，只考虑所有交易对手同时违约时可能发生的损失。这是一个不太可能发生的情况。分析
+师关于交易对手信用质量的陈述是不正确的，因为压力测试并不包括交易对手的信用质量。",Knowledge reasoning QA,text only,Easy,"Stress Testing, Counterparty Risk, Credit Quality",Credit Risk Measurement and Management,Credit Risk Measurement and Management1
+483,28,,,A defined benefit plan with a large number of retirees is likely to have a high need for,,"{'A': 'income.', 'B': 'liquidity.', 'C': 'insurance.'}",A,"：A is correct. Income is necessary to meet the cash flow obligation to retirees.
+Although defined benefit plans have a need for income, the need for liquidity typically is
+quite low. A retiree may need life insurance; however, a defined benefit plan does not need
+insurance. ： 一个确定收益型的养老基金，有着较多的退休员工，哪一方面的需求会比较高？ 本题选择
+A。企业必须支付退休员工养老金，对于这一块现金流的需求被称为income need。流动性需求指的是对于不
+确定的、金额较大的现金流的需求，而养老金计划支付款项可以实现估计，它对于流动性的需求通常很低
+，所以B不对； 退休人员虽然可能需要人寿保险，然而，养老金计划不需要配备保险，所以C不对。",Knowledge reasoning QA,text only,Easy,"Defined benefit plans, Cash flow obligations, Retirement planning",Portfolio Management,level1_组合
+484,29,,,"With respect to the mean–variance portfolio theory, the capital allocation line, CAL, is
+the combination of the risk-free asset and a portfolio of all:",,"{'A': 'risky assets.', 'B': 'equity securities.', 'C': 'feasible investments.'}",A,"： A is correct. The CAL is the combination of the risk-free asset with zero risk
+and the portfolio of all risky assets that provides for the set of feasible investments.
+Allowing for borrowing at the risk-free rate and investing in the portfolio of all risky assets
+provides for attainable portfolios that dominate risky assets below the CAL. ： 本题问资产配置
+线是由无风险资产和什么样的资产构成的？ 本题选择A。资产配置线由无风险资产和风险资产构成。",Knowledge reasoning QA,text only,Easy,"Portfolio Theory, Capital Allocation Line (CAL), Risk-Free Asset",Portfolio Management,level1_组合
+623,19,,,"In futures trading, clearinghouses play an important role. Which of the functions should the
+clearing houses fulfill in the settlement process of futures?",,"{'A': 'In case of physical settlement, the clearinghouse guarantees that the longs will receive the\nspecified merchandise.', 'B': 'The clearinghouse receives delivery notices from the longs and assigns the notices to the\nshorts.', 'C': 'Each day, members who have lost money pay their loss amount to the clearinghouse, while\nmembers who have gained will not receive their gain amount from the clearinghouse.', 'D': 'The clearinghouse implements a procedure where short positions and long positions in a'}",D,"本题考查期货的交易机制。在期货的交易过程中，清算所会采用净额结算的方式，即在特定合
+约中，空头头寸和多头头寸相互抵消，最终支付净额的过程。因此正确选项为D。对于选项A，在实物交割的
+过程中，卖方可以选择交割的资产类别和质量，因此清算所无法保证多头方一定能收到确定的标的资产。因
+此，该选项错误。对于选项B，清算所从卖方获取交割通知，然后传递给买方。因此，该选项错误。对于选项
+C，期货交易过程中每日结算，清算所会把亏损一方保证金账户中的资金划转给盈利一方的保证金账户中，盈
+利和亏损在当天均会结算。因此，该选项错误。",Knowledge reasoning QA,text only,Hard,"Futures trading mechanisms, Clearinghouse functions in settlement, Cash flow and margin accounts in futures trading",Financial Markets and Products,Financial Markets and Products2
+631,30,,,"A financial institution has entered into a plain vanilla currency swap with one of its
+customers. The period left on the swap is two years with the institution paying 4.5% on USD120
+million and receiving 2% on JPY3,500 million annually. The current exchange rate is 120
+JPY/USD, and the flat term structure in both countries generates a 3% rate in the United States
+and a 0.5% rate in Japan. The current value of this swap to the institution is closest to
+(continuously compounded):",,"{'A': '$93.04 million', 'B': '-$93.04 million', 'C': '$118.1 million', 'D': '-$118.1 million'}",B,"本题考虑货币互换的估值。该家金融机构支付美元，收入日元，其互换的价值为：
+
+$$
+V_{swap} = PV_{JPY} - PV_{USD}
+$$
+
+第一步：计算美债的价值：
+$$
+PV_{USD} = 120 \times 4.5\% \times e^{-0.03 \times 2} + (120 \times 4.5\% + 120)e^{-0.03 \times 2} = 123.34 \text{m}
+$$
+
+第二步：计算日元债价值，并转换成美元计价：
+$$
+PV_{JPY} = \frac{(3500 \times 2\% \times e^{-0.005} + (3500 \times 2\% + 3500)e^{-0.005 \times 2})}{120} = 30.30 \text{m}
+$$
+
+第三步：计算互换的价值：
+$$
+Value(swap) = PV_{JPY} - PV_{USD} = -93.04 \text{million}
+$$
+
+因此，选项 B 正确。",Math reasoning QA,text only,Hard,"Currency Swaps, Exchange Rate Risk, Interest Rate Risk",Financial Markets and Products,Financial Markets and Products2
+632,31,,,"Which option combination most closely simulates the economics of a short position in a
+futures contract? Suppose the options and futures contracts have the same underlying assets and
+options’ strike price is equal to the futures price.",,"{'A': 'Payoff of a long call plus a short put', 'B': 'Profit of a long call plus a short put', 'C': 'Payoff of a long put plus short call', 'D': 'Profit of long put plus short call'}",C,"该题主要考虑为期权的损益和利润。买入一份 put option 的损益为：
+
+$$
+\max(0, X - S_t)
+$$
+
+卖出一份 call option 的损益为：
+
+$$
+-\max(0, S_t - X) = \min(0, X - S_t)
+$$
+
+上述两个头寸组合的损益为：
+
+$$
+X - S_t
+$$
+
+与 short futures 的损益相同。因此正确选项为 $C$。
+
+对于选项 D，买入一份 call option 和卖出一份 put option 的组合损益与 long futures 的损益相同。因此，该选项错误。
+
+对于选项 B，计算期权收益时需要考虑期权的期权费、call option 和 put option 的期权费是不相等的，所以买入一份 call option 和卖出一份 put option 的组合利润为：
+
+$$
+S_t - X + p - c
+$$
+
+因此，该选项错误。
+
+对于选项 D，买入一份 put option 和卖出一份 call option 的组合利润为：
+
+$$
+X - S_t + c - p
+$$
+
+因此，该选项错误。",Knowledge reasoning QA,text only,Hard,"Options strategies, Derivatives, Futures contracts",Financial Markets and Products,Financial Markets and Products2
+633,32,,,"There are important differences between options and forwards/futures, with forwards and
+futures, a trader is obligated to buy or sell the underlying asset at a certain price. In the
+U.S., tens of millions of options are traded daily on exchanges such as the CBOE, NASDAQ, the
+New York Stock Exchange, and the International Securities Exchange. What is the correct number
+of the following statement?Ⅰ. A European call (or put) option gives the buyer the right to buy
+(or sell) an asset at a certain price at any time before and during the specified date.Ⅱ.
+Options can be in the money, at the money, out of the money, this is referred to as their
+moneyness, a call option is out of the money when the asset price is greater than the strike
+price.Ⅲ. Cash dividends usually don’t affect the terms of a stock option while stock splits
+do lead to strike price adjustment.Ⅳ. Like the exchange-traded options market, the OTC options
+market is substantial, the main advantage of the OTC market is that financial institutions can
+tailor options to meet the specific needs of their clients.",,"{'A': '1', 'B': '2', 'C': '3', 'D': '4'}",B,"本题考查期权的基本性质。对于Statement Ⅰ，欧式期权只能在到期日行权，在到期日前的任
+何时间都不能行权，因此该陈述错误。对于Statement II，看涨期权的标的资产价格大于行权价格时，看涨
+期权盈利，为价内期权，而不是价外期权。因此该陈述错误。对于Statement III，股票期权的标的资产股票
+在分发股利时，一般不会影响股票期权，但如果是拆股的话，对应的股票期权的行权价要经过适当的调整。
+因此该陈述正确。对于Statement IV，期权可以再场内和场外交易，场外交易的期权灵活度更高，可以满足
+客户的个人需求。因此该陈述正确。因此有2个陈述正确，选项B正确。",Knowledge reasoning QA,text only,Hard,"Option Pricing and Valuation, Derivative Instruments, Market Structure and Types",Financial Markets and Products,Financial Markets and Products2
+801,19,,,"A private equity fund desiring to realize an immediate and complete cash exit from a
+portfolio company is most likely to pursue a(n):",,"{'A': 'IPO.', 'B': 'trade sale.', 'C': 'recapitalization.'}",B,"B is correct. Private equity funds can realize an immediate cash exit in a trade
+sale. Using this strategy, the portfolio company is typically sold to a strategic buyer. ： B是
+正确的。私募股权基金可以在交易出售中实现即期现金流。利用这种策略，投资组合公司通常被出售给战略
+买家。",Knowledge reasoning QA,text only,Easy,"Private equity, Exit strategies, Trade sale",Alternative Investments,level1_另类
+830,48,,,"The potential benefits of allocating a portion of a portfolio to alternative investments
+include:",,"{'A': 'ease of manager selection.', 'B': 'improvement in the portfolio’s risk–return relationship.', 'C': 'accessible and reliable measures of risk and return.'}",B,"B is correct. Adding alternative investments to a portfolio may provide
+diversification benefits because of these investments’ less than perfect correlation with
+other assets in the portfolio. As a result, allocating a portion of one’s funds to
+alternatives could potentially result in an improved risk–return relationship. Challenges to
+allocating a portion of a portfolio to alternative investments include obtaining reliable
+measures of risk and return as well as selecting portfolio managers for the alternative
+investments. ：B是正确的。由于这些投资与投资组合中的其他资产之间的相关性不够完美，因此向投资组
+合中添加替代投资可能会带来多元化收益。因此，将一部分资金分配给替代品可能会改善风险回报关系。将
+投资组合的一部分分配给另类投资的挑战包括获得可靠的风险和回报指标，以及为另类投资选择投资组合经
+理。",Knowledge reasoning QA,text only,Easy,"Portfolio Diversification, Alternative Investments, Risk-Return Relationship",Alternative Investments,level1_另类
+831,1,,,"If at the beginning the entry recorded was prepaid expense, after the products are delivered
+or the service is rendered, the adjusting entry will most likely results in:",,"{'A': 'the reduction of an asset and the recording of an expense.', 'B': 'the addition of an asset and the recording of an expense.', 'C': 'the reduction of an asset and the reduction of an debt.'}",A,"The adjusting entry to record the expiry of a prepaid expense is the reduction of
+an asset (the prepaid) and the recognition of the expense.",Knowledge reasoning QA,text only,Easy,"Accrual accounting, Adjusting entries, Prepaid expenses",Financial Reporting and Analysis,level1_财报
+833,3,,,Interest paid is classified as an operating cash flow under:,,"{'A': 'US GAAP but may be classified as either operating or investing cash flows under IFRS.', 'B': 'IFRS but may be classified as either operating or investing cash flows under US GAAP.', 'C': 'US GAAP but may be classified as either operating or financing cash flows under IFRS.'}",C,"： C is correct. Interest expense is always classified as an operating cash flow
+under US GAAP but may be classified as either an operating or financing cash flow under IFRS.",Knowledge reasoning QA,text only,Easy,"Cash Flow Classification, US GAAP, IFRS",Financial Reporting and Analysis,level1_财报
+1095,19,,,"Which of the following represents a principal–agent conflict between shareholders and
+management?",,"{'A': 'Risk tolerance', 'B': 'Multiple share classes', 'C': 'Accounting and reporting practices'}",A,"A is correct. Shareholder and manager interests can diverge with respect to risk
+tolerance. In some cases, shareholders with diversified investment portfolios can have a fairly
+high risk tolerance because specific company risk can be diver- sified away. Managers are
+typically more risk averse in their corporate decision making to better protect their
+employment status. 这道题目问的是下列哪项代表股东与管理层之间的委托代理冲突?在风险承受力方面
+，股东和经理人的利益可能存在分歧。在某些情况下，多元化投资组合的股东可能具有较高的风险承受能力
+，因为特定的公司风险可以分散。在企业决策中，管理者通常更倾向于规避风险，以更好地保护自己的就业
+状况。因此A选项正确",Knowledge reasoning QA,text only,Easy,"Principal-agent theory, Corporate governance, Risk management",Corporate Finance,level1_公司金融
+1263,12,,,"The short-term breakeven point of production for a firm operating under perfect competition
+will most likely occur when:",,"{'A': 'price is equal to average total cost.', 'B': 'marginal revenue is equal to marginal cost.', 'C': 'marginal revenue is equal to average variable costs.'}",A,"Answer: A Under perfect competition, price equals marginal revenue. A firm breaks
+even when marginal revenue equals average total cost. 在完全竞争条件下经营的企业，其短期生产盈
+亏平衡点很可能出现在以下情况: 在完全竞争条件下，价格等于边际收入。当边际收入等于平均总成本时
+，企业就会实现盈亏平衡。",Knowledge reasoning QA,text only,Easy,"Break-even analysis, Perfect competition, Cost structures",Economics,level1_经济学
+1424,11,,,"At the beginning of the year, a firm bought an AA-rated corporate bond at USD 110 per USD
+100 face value. Using market data, the risk manager estimates the following year-end values for
+the bond based on interest rate simulations informed by the economics team: 
+ 
+ 
+In addition, the risk manager estimates the 1-year transition probabilities on the AA-rated
+corporate bond: 
+ 
+What is the 1-year 95% credit VaR per USD 100 of face value closest to?",./dataset/images/CreditRiskMeasurementandManagement2_images/11u.png,"{'A': 'USD 9', 'B': 'USD 18', 'C': 'USD 30', 'D': '1'}",A,"The 95% credit VaR corresponds to the unexpected loss atthe 95th percentile minus
+the expected loss, or the expected future value atthe 95% loss percentile minus the current
+value. Using the probabilities in thegiven ratings transition matrix, the 95% percentile
+corresponds to a downgradeto BBB, at which the value of the bond would be estimated at 101.
+Since cashflows for the bond are not provided, we cannot derive the precise expected
+andunexpected losses, but the credit VaR (the difference) is easily derived bysubtracting the
+estimated value given a BBB rating from the current value. 95%credit VaR = 110 – 101 = 9.",Math reasoning QA,text only,Hard,"Credit Value at Risk (Credit VaR), Bond Valuation, Ratings Transition Matrices",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1425,12,,,"Jesse Porter, FRM, is examining the difference between risk-neutral and real-world default
+probabilities. Specifically, Porter is concerned about which method to use for hedging. To help
+explain the difference between the two probabilities, his colleague, Bob Evans, constructs a
+hypothetical example with the following information: •  Market price of bond  = 90 • 
+Liquidity  premium  =  2% •  Credit  risk  premium = 3% •  Recovery rate  =  0% • 
+Risk-free rate  =  1 % •  Risk-neutral default probability = 10% Based on the data provided,
+what is the real-world default probability, and which default probability (risk-neutral or
+real-world) should be used for hedging purposes?",./dataset/images/CreditRiskMeasurementandManagement2_images/12u.png,"{'A': '', 'B': '无', 'C': '无', 'D': '无'}",A,"Risk-neutral default probability=real-world defaultprobability + credit risk
+premium + liquidity premium10% = real-world default probability + 3% + 2%Real-world default
+probability = 10% - 5% = 5%Risk-neutral default probabilities are usefulfor hedging
+considerations while real-world default probabilities are usefulfor quantitative risk
+assessment.",Math reasoning QA,text only,Hard,"Risk-neutral probability, Real-world default probability, Hedging techniques",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1430,17,,,"Large bank uses the KMV model to measure credit risk exposure. The bank has exposure to
+Company X. Company X’s firm value, expected firm value, beta, and outstanding debt are shown
+below. What is the distance to default and the default point for Company X? Current firm
+value                         4,000 Expected firm value
+                      5,000 Std. dev. expected firm
+value           500 Company X Beta
+                            1.4 Debt 1: Short-term
+                       1,300 Debt 2: Long-term
+                        1,800",./dataset/images/CreditRiskMeasurementandManagement2_images/17u.png,"{'A': '', 'B': '无', 'C': '无', 'D': '无'}",C,"Since the ratio of long-term-liabilities-to-short-term-liabilitiesis less than 1.5,
+the following equation for default point (i.e., default threshold)will apply: Default Point =
+short-term liabilities + 0.5 x long-term liabilities Default Point = 1,300 + 0.5 x 1,800 =
+$2,200 The distance to default is then equal to: DD = (5,000 – 2,200) / 500 = 5.6",Math reasoning QA,text only,Hard,"Credit risk measurement, KMV model, Distance to default",Credit Risk Measurement and Management,Credit Risk Measurement and Management2
+1474,12,,,"For a portfolio of illiquid assets, hedge fund managers often have considerable discretion
+in portfolio valuation at the end of each month and may have incentives to smooth returns by
+marking values below actual in high-return months and above actual in low-return months. Which
+of the following is not a consequence of return smoothing over time?",,"{'A': 'Higher Sharpe ratio', 'B': 'Lower volatility', 'C': 'Higher serial correlation', 'D': 'Higher market beta'}",D,"Illiquidity creates an understatement of the total risk measure. As aresult, the
+Sharpe ratio will be artificially higher. Illiquidity createstrends in returns (higher serial
+correlation), as market shocks during a monthwill be partially recorded in two consecutive
+months. Illiquidity, however,biases down the market beta.(3)",Knowledge reasoning QA,text only,Hard,"Risk Measurement, Ethical Considerations, Portfolio Management",Risk Management and Investment Management,RiskManagement and Investment Management2
+1475,13,,,"Risk management of hedge funds has challenges not generally faced in traditional investment
+management companies. Which of the following statements are correct about hedge fund risk
+management? I. Because hedge funds can hold long and short positions, and can use derivatives
+and leverage, their exposure to market risks can experience large and rapid changes that make
+it difficult to assess these exposures using only monthly returns. II. Many hedge funds use
+over-the-counter derivatives, which are valued by models or quoted prices and often hold
+illiquid assets; as a result, the returns of these strategies generally exhibit much lower
+serial correlation than mutual fund returns. III. For hedge fund strategies that use leverage
+to amplify returns and rely on their ability to move out of trades quickly when they turn
+against them, liquidity risk must be closely monitored and managed. IV. Hedge fund returns are
+often similar to the return of a basket of exotic derivatives with nonlinear payoffs, and
+therefore assessing risk based on past performance can be misleading.",,"{'A': 'I, II, III, and IV', 'B': 'I, III, and IV', 'C': 'I and III', 'D': 'II and IV'}",B,"Statement I, III, and IV are correct. Statement II. Is false becauseilliquid asset
+creates higher serial correlation.(1)",Knowledge reasoning QA,text only,Hard,"Hedge Funds Risk Management, Market Risk Exposure, Liquidity Risk",Risk Management and Investment Management,RiskManagement and Investment Management2
+1476,14,,,"A portfolio manager currently holds 20,000 shares of Costiuk Inc. in a particular portfolio.
+The daily volume of Costiuk shares traded on the stock exchange is 50,000. Additionally, on any
+given day, the portfolio manager wishes to trade no more than 15% of the daily trading volume
+of Costiuk. Which of the following amounts is closest to the liquidity duration of Costiuk in
+this portfolio?",,"{'A': '0.06', 'B': '0.375', 'C': '2.67', 'D': '16.67'}",C,"Liquidity duration is an approximation of the number ofdays necessary to dispose of
+a portfolio’s holdings (of a particular share inthis case) without a significant market
+impact. ft is calculated as: 20,000/(0.15 x 50,000) = 2.67.(2)",Math reasoning QA,text only,Hard,"Liquidity Risk, Market Impact, Portfolio Management",Risk Management and Investment Management,RiskManagement and Investment Management2
+1550,7,,,"In contrast to gambling, derivatives speculation:",,"{'A': 'has a positive public image.', 'B': 'is a form of financial risk taking.', 'C': 'benefits the financial markets and thus society.'}",C,"： C is correct. Derivatives trading brings extensive benefits to financial markets
+(low costs, low capital requirements, ease of going short, etc.) and thus benefits society as a
+whole. Gambling, on the other hand, typically benefits only a limited number of participants. A
+is incorrect because the general image of speculators is not a good one. Speculators are often
+thought to be short-term traders who attempt to exploit temporary inefficiencies, caring little
+about long-term fundamental values. B is incorrect because speculation and gambling are both
+forms of financial risk taking. ： 这道题目问的是与赌博相比、衍生品投机是怎么样的？ C是正确的。
+衍生品交易给金融市场带来了广泛的利益（低成本、低资本要求、易于做空等），从而使整个社会受益。而
+赌博通常只给有限的参与者带来好处。 A是不正确的，因为投机者的总体形象并不好。投机者通常被认为是
+短期交易者，他们试图寻找利用暂时的市场无效性，很少关心长期的基本价值。 B是不正确的，因为投机和
+赌博都是承担金融风险的。",Knowledge reasoning QA,text only,Easy,"Derivatives trading benefits, Public perception of speculators, Financial risk taking",Derivatives,level1_衍生
+1556,13,,,Which of the following statements regarding commodity derivatives is correct?,,"{'A': 'The primary commodity derivatives are futures.', 'B': 'Commodities are subject to a set of well-defined risk factors.', 'C': 'Commodity traders and financial traders today are distinct groups within the financial world.'}",A,"： A is correct. The primary commodity derivatives are futures, but forwards,
+swaps, and options are also used. B is incorrect because the commodity market is extremely
+large and subject to an almost unimaginable array of risks. C is incorrect because commodity
+and financial traders have become relatively homogeneous since the creation of financial
+futures. Historically, commodity traders and financial traders were quite different groups, and
+there used to be a tendency to think of the commodity world as somewhat separate from the
+financial world. ： 这道题目问的是下列关于大宗商品衍生品的陈述中哪一项是正确的？ A是正确的。主
+要的大宗商品衍生品是期货，但是也有远期、互换和期权。 B是不正确的，因为大宗商品市场非常大，面临
+着几乎难以想象的一系列风险。 C是不正确的，现在大宗商品交易商和金融交易员变得相对同质。过去人们
+往往认为大宗商品世界与金融世界有些不同。",Knowledge reasoning QA,text only,Easy,"- Commodity Derivatives
+- Risk Management in Commodity Markets
+- Integration of Commodity and Financial Markets",Derivatives,level1_衍生
+1640,8,,,"As a zero-coupon bond approaches its maturity date (i.e., as the term to maturity decreases).
+EACH of the following is necessarily true EXCEPT:",,"{'A': 'The price increases', 'B': 'The price volatility decreases', 'C': 'The Macaulay duration decreases', 'D': 'The dollar value of an ‘01 (DV01) decreases'}",D,"As DV01 = D×P×0.0001, price (P) is increasing but (D) is decreases with mixed
+influence. In regard to (A), (B), and (C), each is TRUE.当DV01 = D×P×0.0001时，价格P上升，但
+D下降，其乘积不一定是下降的。ABC都是正确的。",Knowledge reasoning QA,text only,Easy,"Bond Pricing, Duration, Price Volatility",Financial Markets and Products,Financial Markets and Products1
+1644,12,,,"Which of the following statements least likely describe a problem with bilaterally cleared 
+over-the-counter (OTC) derivatives trades?",,"{'A': 'The defaults of individual counterparties could lead to systemic problems.', 'B': 'Bilateral OTC derivatives are often non-standard with exotic features.', 'C': 'Closing out trades may be difficult.', 'D': 'Loss mutualization may not spread all the losses among participants.'}",D,"Loss mutualization is a feature of central clearing, whereby losses arising from a
+party's default are spread across all other members. Bilaterally cleared OTC derivatives do not
+have a loss mutualization feature.损失共同化是中央清算的一个特点，即一方违约所造成的损失会扩散
+到其他所有成员。双边清算的场外衍生品没有损失共同化的特征。",Knowledge reasoning QA,text only,Easy,"Counterparty Risk, Systemic Risk, Derivative Instruments",Financial Markets and Products,Financial Markets and Products1
+1935,22,,,"A bank treasurer is attempting to minimize liquidity funding costs. Which of the following
+sources of liquidity is most likely to have the greatest explicit financial cost?",,"{'A': 'Cash balances.', 'B': 'Incoming funds flow.', 'C': 'lntraday credit.', 'D': 'Liquid assets.'}",C,"Intraday credit may require collateral pledging (opportunity cost) with no interest
+charged or it may require interest payments (explicit cost) for using the line of credit during
+the day. Cash balances and liquid assets represent assets owned by the bank so if they are used
+for financing/liquidity purposes, there is no explicit cost, although there may be implicit or
+opportunity costs, especially with liquid assets (e.g., interest earned on time deposits or
+banker's acceptances). There is no explicit financial cost associated with incoming funds
+flow.日内信贷可以通过抵押担保而免除利息支付（机会成本），或者可以使用日间信贷额度并支付利息（显
+性成本）。 现金余额和流动资产代表银行拥有的资产，因此，如果将其用于融资/流动性目的，则没有显性
+成本，尽管可能存在隐性或机会成本，尤其是流动资产（例如，定期存款或 银行承兑汇票）。 资金流入不
+会造成显性成本。",Knowledge reasoning QA,text only,Easy,"Liquidity Risk Management, Cost of Liquidity, Liquidity Sources",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1
+1937,24,,,"Firm A has $1 billion in highly liquid assets. In a sudden stressed scenario, it estimates
+that retail customers will withdraw $150 million in deposits, and retail customers will be able
+to make $80 million of loan repayments. Firm A must deal with $60 million of margin and
+collateral calls on its derivatives transactions due to falling collateral values and greater
+volatility of the underlying assets. In addition, it has utilized $10 million of a total $100
+million liquidity facility. What is the estimate of Firm A's stressed liquidity asset buffer?",,"{'A': '$0.80 billion.', 'B': '$0.88 billion.', 'C': '$0.90 billion.', 'D': '$0.96 billion.'}",D,"The margin and collateral calls on the derivatives transactions are considered
+stressed outflows. There is $90 million of unused and available liquidity that would also be
+considered a stressed inflow. The stressed liquidity asset buffer of $0.96 billion is
+calculated as $1 billion (highly liquid asset) - $150 million (retail deposit outflow) + $80
+million (stressed inflow) - $60 million (stressed outflow) + $90 million (stressed inflow).)衍
+生品交易的追加保证金和抵押要求被认为是压力性资金流出。 仍有9000万美元的未使用和可用流动资金，可
+以视为压力性资金流入。 9.6亿美元的压力性流动资产缓冲=10亿美元（高流动性资产）-1.5亿美元（小额存
+款流出）＋ 8000万美元（压力流入）-6000万美元（压力性流出）＋ 9000万美元（压力性流入）。",Math reasoning QA,text only,Easy,"Liquidity Risk Management, Stress Testing, Liquidity Asset Buffer Calculation",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1
+1938,25,,,Which of the following statements is correct in regards to reserve sources?,,"{'A': 'Long-term asset sales are typically used to cover immediate needs.', 'B': 'Monetary policy and interest rate movements are relatively independent.', 'C': 'The federal funds market is available anytime a bank has an immediate cash need.', 'D': 'Deficits which must be covered relatively quickly are often funded through the central bank'}",D,"Deficits that are of a more immediate nature are often funded through the central
+bank discount window. Long-term asset sales are typically used to cover longer-term
+(nonimmediate) deficits. Monetary policy and interest rate movements are highly related, as
+monetary policy impacts the money supply which in turn impacts interest rates. The federal
+funds market is only available during the trading day.更为直接的财政赤字通常是通过中央银行贴现
+窗口提供资金的。 长期资产出售通常用于弥补长期（非短期）赤字。 货币政策与利率变动高度相关，因为
+货币政策影响货币供应量，进而影响利率。 联邦资金市场仅在交易日开放。",Knowledge reasoning QA,text only,Easy,"Central Bank Operations, Monetary Policy, Liquidity Management",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1
+1939,26,,,"The treatment of tenor for certain types of cash flows for liquidity reporting is a concern
+for senior managers preparing reports for the Financial Services Authority (FSA) in the United
+Kingdom (UK). Based on recommendations of the FSA, what should be the treatment in liquidity
+reports for callable or demand deposits that have no maturity date?",,"{'A': '1 day.', 'B': '1 week.', 'C': '1 month.', 'D': '1 year.'}",A,"The FSA in the UK recommends that callable and demand deposits are treated as 1-day
+tenor by regulators.英国的FSA建议监管机构应将应收存款和活期存款的票据期限当做1天来处理。",Knowledge reasoning QA,text only,Easy,"Liquidity Risk Management, Regulatory Reporting, Deposit Maturity Analysis",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1
+1941,28,,,"An investor holds two positions: ●Short shares worth $10,000 where the proportional bid-
+offer spread is 0.030, and ●Long shares worth $17,000 where the proportional bid-offer spread
+is 0.040 What is the approximate cost to the investor to unwind this two-position portfolio?",,"{'A': '$490.00', 'B': '$750.00', 'C': '$980.00', 'D': '$1,300.00'}",A,"The bid– offer spread for the first holding is 0.030 * 10,000 = $300.00; for the
+second holding, the bid-offer spread is 0.040 * 17,000= $680.00. Therefore, the cost to unwind
+the portfolio is (300.00 + 680.00)/2 = $490.00.第一个持仓的买入-卖出价差为0.030 * 10,000 = $
+300.00； 第二个持仓买入-卖出价差为0.040 * 17,000 = $ 680.00。 因此，平仓投资组合的成本为
+（300.00＋680.00）/ 2 = $ 490.00。",Math reasoning QA,text only,Easy,"Bid-offer spread, Portfolio unwinding, Transaction costs",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1
+1942,29,,,"Suppose that a financial institution has bought 10 million shares of one company and 50
+million ounces of a commodity. The shares are bid $89.5, offer $90.5. The commodity is bid $15,
+offer $15.1. The mid-market value of the position in the shares is 90 × 10 = $900 million. The
+mid-market value of the position in the commodity is 15.05 × 50 = $752.50 million. The
+proportional bid-offer spread for the shares is 1 /90 or 0.01111. The proportional bid-offer
+spread for the commodity is 0.1/ 15.05 or 0.006645. The cost of liquidation in a normal market
+is？",,"{'A': '5.5', 'B': '6', 'C': '7', 'D': '7.5'}",D,"900 × 0.01111 /2 + 752.5 × 0.006645/2 = 7.5900 × 0.01111 /2＋752.5 × 0.006645/2
+= 7.5",Math reasoning QA,text only,Easy,"Market Risk, Bid-Offer Spread, Liquidation Cost",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1
+2123,18,,,"The following statements concern differences between market and operational risk VAR models.
+Which of the following statements is false?",,"{'A': 'Market risk models are\\nprimarily driven by historical data, whereas operational risk models\na', 'B': 'Market risk models typically\\ndefine VAR as a specific quantile of the loss distribution,\nwher', 'C': 'Backtesting is generally a\\nmore useful form of validation for market risk models than for\nope', 'D': 'The time horizon over which VAR is evaluated differs between market\\nand operational risk'}",B,"Statement a. is true because operational risk models often relyheavily on scenario
+analysis. Backtesting is more difficult for operationalrisk models, so c. is true. VAR is
+usually evaluated over shorter horizons, sod. is true. Statement b. is false because both
+market and operational riskmodels use a quantile of the distribution.(3)",Knowledge reasoning QA,text only,Hard,"Market Risk VAR Models, Operational Risk VAR Models, Backtesting",Operational Risk,Operational Riskand Resiliency2
+2124,19,,,"Which of the following statements about its methodology for calculating an operational risk
+capital charge in Basel II is correct?",,"{'A': 'Basic indicator approach is suitable for institutions with\\nsophisticated operational risk\nprofile.', 'B': 'Under the standardized approach, capital requirement is measured\\nfor each of the business\nline.', 'C': 'Advanced measurement approaches will not allow an institution to adopt\\nits own method of\nassessment', 'D': 'AMA is less risk-sensitive than the standardized approach.'}",B,"The BI approach is suitable for banks with basic risk profiles, soanswer a. is
+incorrect. The AMA approach is an internal model, so answer c. isincorrect. The AMA is more
+risk-sensitive than the SI approach, so answer d. isincorrect.(1)",Knowledge reasoning QA,text only,Hard,"Basel II framework, Operational risk, Capital requirements",Operational Risk,Operational Riskand Resiliency2
+2125,20,,,"In a market crash the following are usually true? I. Fixed-income portfolios hedged with
+short Treasury bonds and futures lose less than those hedged with interest rate swaps given
+equivalent durations. II. Bid–offer spreads widen because of lower liquidity. III. The spreads
+between off-the-run bonds and benchmark issues widen.",,"{'A': 'I, II, and III', 'B': 'II and III', 'C': 'I and III', 'D': 'None of the above'}",B,"In a crash, bid offer spreads widen, as do liquidity spreads. AnswerI. is incorrect
+because Treasuries usually rally more than swaps, which leadsto greater losses for a portfolio
+short Treasuries than swaps. (1)",Knowledge reasoning QA,text only,Hard,"Fixed Income Securities, Market Liquidity, Bid-Offer Spread",Operational Risk,Operational Riskand Resiliency2
+2126,21,,,"You are a manager of a renowned hedge fund and are analyzing a 1,000 share position in an
+undervalued but illiquid stock BNA, which has a current stock price of USD 72 (expressed as the
+midpoint of the current bid-ask spread.) Daily return for BNA has an estimated volatility of
+1.24%. The average bid-ask spread is USD 0.16. Assuming returns of BNA are normally
+distributed, what is the estimated liquidity-adjusted daily 95% VaR, using the constant spread
+approach?",,"{'A': 'USD 1,389', 'B': 'USD 1,468', 'C': 'USD 1,549', 'D': 'USD 1,629'}",C,"The constant spread approach adds half of the bid-askspread (as a percent) to the
+VaR calculation:Daily 95% VaR = 72,000*(1.645*0.0124) = USD 1469Liquidity cost =
+72,000*(0.5*0.16/72) = 80LVaR = VaR + LC = 1549(0)",Math reasoning QA,text only,Hard,"Value at Risk (VaR) Calculation, Liquidity Risk, Bid-Ask Spread",Operational Risk,Operational Riskand Resiliency2
+2176,8,,,"Which of the following statements regarding market, credit, and operational risk is correct?",,"{'A': ' People risk relates to the risk associated with incompetence and lack of suitable training of internal employees and/or external individuals.', 'B': ' Between two counterparties, presettlement risk is always higher than settlement risk.', 'C': ' Options are examples of financial instruments with non-directional risks.', 'D': ' Funding liquidity risk results from a large position size forcing transactions to influence the price of securities.'}",C,People risk relates to the risk associated with fraud perpetrated by internal employees and/or external individuals. It does not relate to incompetence and lack of suitable training. Presettlement risk is lower than settlement risk because the former allows for offsetting of payments while the latter requires settlement of the full value of payments. Non-directional risks have non-linear exposures to changes in economic or financial variables which is clearly the case with options. Asset-liquidity risk (not funding liquidity risk) results from a large position size forcing transactions to influence the price of securities.,Knowledge reasoning QA,text only,Easy,"market risk, credit risk, operational risk, people risk, presettlement risk",Foundation of Risk Management,foundation of risk management1
+2178,10,,,"From the perspective of a bank, which of the following is not an advantage of using a collateralized debt obligation (CDO) to transfer credit risk?",,"{'A': ' Bank profitability can be accelerated due to higher loan turnover.', 'B': ' Credit risk is effectively transferred to investors.', 'C': ' There will always be a market for CDO products.', 'D': ' A larger pool of potential borrowers will exist due to less concern for lending (underwriting) standards.'}",C,"Collateralized debt obligations transfer credit risk from banks to investors. This process enables banks to accelerate the loan origination cycle and therefore enjoy potentially higher profitability due to sourcing more loans than would otherwise be accessible. The pool of potential borrowers is increased because banks are less concerned with lending standards. However, when investors lose interest in CDO products due to higher-than-expected default rates, the loan origination cycle (for the bank) can be slowed with a large amount of credit trapped on their balance sheet.",Knowledge reasoning QA,text only,Easy,"CDO, credit risk, loan origination",Foundation of Risk Management,foundation of risk management1
+2179,11,,,Which of the following statements regarding risk and risk management is correct?,,"{'A': ' Risk management is more concerned with unexpected losses versus expected losses.', 'B': ' There is a relationship between the amount of risk taken and the size of the potential loss.', 'C': ' The final step of the risk management process involves developing a risk mitigation strategy.', 'D': ' If executed properly, the risk management process may allow for risk elimination within an economy.'}",A,"Risk management is more concerned with the variability of losses, especially ones that could rise to unexpectedly high levels or ones that suddenly occur that were not anticipated (unexpected losses).",Knowledge reasoning QA,text only,Easy,"risk management, unexpected losses, expected losses",Foundation of Risk Management,foundation of risk management1
+2182,14,,,Which component is NOT in the APT model?,,"{'A': ' Factor exposure', 'B': ' Factor return', 'C': ' Factor correlations', 'D': ' Specific (idiosyncratic) return'}",C,"APT gives expected return (first moment) as a linear combination of factors in which correlation does not enter; rather, correlation impacts variance/volatility (second moment).",Knowledge reasoning QA,text only,Easy,"APT model, factor returns, idiosyncratic return",Foundation of Risk Management,foundation of risk management1
+2326,23,,,"The following table gives the initial price of a bond portfolio and its present values after
+applyingkey rate 1-basis point shifts at 2, 5, 10, and 30 years.
+What isthe key rate’01 with respect to the 5-year shift?",./dataset/images/ValuationandRiskModels2_images/23u.png,"{'A': 'Key rate’01 equals 0.0035', 'B': 'Key rate’01 equals 0.0410', 'C': 'Key rate’01 equals 0.5408', 'D': 'Key rate’01 equals 1.4570'}",C,"本题的主要考点为关键利率久期的计算。
+第5年关键利率基点价值为：
+
+$$
+Key\ rate^{01} = \frac{(24.6642 - 24.1234)}{1} = 0.5408
+$$
+
+因此，选项 C 正确。",Math reasoning QA,text only,Hard,"Key rate duration, Interest rate risk, Bond portfolio management",Valuation and Risk Models,Valuationand Risk Models2
+2327,24,,,"Leo, FRM, is a risk manager of a hedge fund. He doubted the effectiveness of duration and
+convexity hedging strategies. Instead, he found that key rate hedging is a more practical one.
+His intern, Amy, showed him some materials about key rate hedging strategies that she gathered.
+Leo was pleased with the materials, but there are still some mistakes. Which one of them is
+incorrect?",,"{'A': 'The analysis of key rate duration applies principal components analysis. Based on the PCA,\nthe daily term structure movements observed are a linear combination of the factors, which are\ncorrelated.', 'B': 'The first three factors account for the majority of the variation of the observed rate daily\nmovements, which can be roughly seen as a parallel shift in the term structure, a steepening or\nflattening of the term structure, and a bowing of the term structure.', 'C': 'Key rate shifts assume that the impact of the key rate shifts declines (or increases)\nlinearly and reaches zero at the terms of the adjacent key rates.', 'D': 'If 2-year, 7-year and 15-year are selected as the key rates, and the 7-year key rate rises'}",A,"本题的考点为关键因子变、关键利率久期及利率曲线非平行移动等概念分析。
+
+选项A中，PCA（Principal component analysis, 主成分分析法）要求关键组合的因子之间应该是不相关的（uncorrelated），因此错误。
+
+选项B中，在影响债券价格波动的诸多因素当中，利率期限的平行移动（parallel shift）、陡峭程度（steepening or flattening）以及弯度（曲度，bowing）这三个因子可以解释绝大部分利率波动的变动情况，因此正确。选项C前两个关键因子对债券相关性较高的组合会有很将的解释成效，但弯度对收益到期时间较长的债券效用不明显，因此错误。\* 计算过程如下：
+
+$$
+\frac{5-2}{7-2} = \frac{\Delta5 - year rate}{\Delta7 - year rate} = 0.6
+$$
+
+$$
+\Delta7 - year rate = 1bp,\Delta5 - year rate = 0.6bp
+$$
+
+因此选项D表述正确。
+
+综上，B, C, D都与题意不符，不符合题意。因此，选项A为本题正确答案。",Knowledge reasoning QA,text only,Hard,"Key rate duration, Principal components analysis (PCA), Term structure movements",Valuation and Risk Models,Valuationand Risk Models2
+2328,25,,,"Qi is planning on purchasing an apartment in the Tomson Riviera located in Pudong district.
+As a result of his limited deposit, he turns to a junior financial advisor for advice regarding
+the fixed rate residential mortgage. The prevailing market price of the apartment is CNY 16.119
+million and Qi is considering borrowing 65% of the amount for 30 years from ICBC. Assuming the
+fixed rate is 4.9% with monthly compounding, which of the followings is closest to the monthly
+payment of the mortgage?",,"{'A': '513,390', 'B': '85,544', 'C': '55,606', 'D': '75,563'}",C,"本题的考点为计算房贷每月偿付额。  
+计算过程如下：  
+$$
+Amount\, of\, loan = 16,119,000 \times 65\% = 10,477,350
+$$
+$$
+N = 30 \times 12 = 360, \, PV = 10,477,350, \, I/Y = 4.9/12, \, FV = 0
+$$
+$$
+CPT PMT = -55,606
+$$
+因此，选项 C 正确。  ",Math reasoning QA,text only,Hard,"Time Value of Money, Mortgage Loan Calculation, Fixed Rate Mortgage",Valuation and Risk Models,Valuationand Risk Models2
+2329,26,,,"A portfolio manager asks a junior risk analyst to analyze the prepayment risk of a pool of
+6% fixed-rate mortgages with a weighted average loan age of 60 months. The balance on the loans
+at the beginning of this month was USD 33 million, and the conditional prepayment rate is
+assumed to be constant at 5.5% per year. Which of the following is closest to the single
+monthly mortality rate?",,"{'A': '21.43%', 'B': '0.47%', 'C': '0.53%', 'D': '78.53%'}",B,"本题的考点为利用 CPR 求 SMM。
+
+计算过程如下：
+
+$$
+CPR = 1 - (1 - SMM)^{12}
+$$
+
+$$
+SMM = 1 - (1 - CPR)^{1/12} = 1 - (1 - 0.055)^{1/12} = 0.004703 = 0.4703\%
+$$
+
+因此，选项 B 正确。",Math reasoning QA,text only,Hard,"Prepayment Risk, Mortgage-Backed Securities, Conditional Prepayment Rate",Valuation and Risk Models,Valuationand Risk Models2
+2330,27,,,"Securitization is the process of transforming illiquid assets (bank loans) to more liquid
+assets (MBS). Securitization increase the liquidity of financial assets. Which of the following
+is right about securitization?",,"{'A': 'MPS redistributes the cash flows from a mortgage pool to different tranches.', 'B': 'CMO is the simplest form of agency MBSs, with all investors in a pool receiving the same\nreturn.', 'C': 'As prepayments increase, IOs become less valuable.', 'D': 'As prepayments increase, POs become less valuable.'}",C,"本题的考点为MBS,MPS,IO,PO知识点的辨析。选项A中，CMO才对房贷池中的现金流进行了分层而
+不是MPS，因此错误。选项B中，MPS才是agency MBS中最简单的形式而不是CMO，因此错误。选项C中，当提前
+还款增加时，意味着未偿付的本金减少，则基于未偿付本金计算的利息也减少，IOs的价值会降低。选项D中
+，随着提前还款增加，PO可以提前收回现金流，价值更大而非更小，因此错误。因此，选项C正确。",Knowledge reasoning QA,text only,Hard,"Mortgage-Backed Securities (MBS), Prepayment Risk, Securitization",Valuation and Risk Models,Valuationand Risk Models2
+2332,29,,,Which of the following statements about FRA is wrong?,,"{'A': 'If FRA rate is lower than future spot rate, the short position will receive payments.', 'B': 'An FRA is usually settled at the beginning of the period covered by the FRA.', 'C': 'The FRA can be used to lock the interest rate or hedge the risk of borrowing or lending at\nsome future dates.', 'D': 'Short positions in FRA can be viewed as the obligation to make a loan at the contract rate,'}",A,"本题的考点为FRA相关性质的辨析。选项A中，FRA中的多头方可以看作未来将以一个固定的合约
+利率借入款项的债务人角色，在未来借款利率上升时可获利，空头为亏损的一方，需要支付款项给多头方
+，因此错误。选项B中，FRA的结算是在其所覆盖的借款期开始时就进行的，因此正确。选项C中，FRA可以确
+定未来的借款利率，对于borrower可以对冲利率上涨的风险，对于lender可以对冲利率下降的风险，因此正
+确。选项D中，FRA的空头方是未来将以一个固定的利率借出款项的一方，当利率下降时可以获利，因此正确
+。选项B,C,D表述均正确，不符合题意，因此选项A为本题正确答案。",Knowledge reasoning QA,text only,Hard,"Forward Rate Agreements (FRAs), Interest Rate Risk Management, Hedging Strategies",Valuation and Risk Models,Valuationand Risk Models2
+2333,30,,,"ABC, Inc., entered into a forward rate agreement (FRA) to receive a rate of 3.75% with
+continuous compounding on a principal of USD 1 million between the end of year 1 and the end of
+year 2. The zero rates are 3.25% and 3.50% for one and two years. What is the value of the FRA
+when the deal is just entered?",,"{'A': 'USD 35,629', 'B': 'USD 34,965', 'C': 'USD 664', 'D': 'USD 0'}",D,本题的考点为FRA的期初价值。对于FRA 而言，其期初价值为0。因此，选项D正确。,Math reasoning QA,text only,Hard,"Forward Rate Agreement (FRA), Zero Rates, Continuous Compounding",Valuation and Risk Models,Valuationand Risk Models2
+2334,31,,,"Marina Capital is concerned about the impact of interest rate changes, so they entered into
+a forward rate agreement that is designed to ensure that they will receive a fixed rate of 5%
+and pay LIBOR on a principle of USD 100 million for a 3-month period starting in 2 months. If
+3-month LIBOR turns out to be 5.5%, what will be the payoff of Marina Capital after 2 months?",,"{'A': 'USD 123,305', 'B': 'USD 125,237', 'C': '-USD 123,305', 'D': '-USD 125,237'}",C,"本文考点为 FRA 结算现金流的计算。
+
+解析：对于 M 公司而言，收入定，付浮动，所以当利率实际上升时，M 公司在 FRA 中亏损。
+
+在最终结算日损失为：$100M \times (5\%-5.5\%) \times 0.25=-125,000$，最后根据题意，用实际利率贴现 3 个月。
+
+$$
+\frac{-125,000}{(1+5.5\%\times 0.25)} =- USD \ 123,304.56，\text{选 C}。
+$$",Math reasoning QA,text only,Hard,"Forward Rate Agreements, Interest Rate Risk Management, Payoff Calculation",Valuation and Risk Models,Valuationand Risk Models2
+2335,32,,,"Consider a forward rate agreement (FRA) with the same maturity and compounding frequency as
+a Eurodollar futures contract. The underlying interest rate is LIBOR. Which of the following
+statements is true about the relationship between forward rate and futures rate?",,"{'A': 'The forward rate is normally higher than the futures rate.', 'B': 'They have no fixed relationship.', 'C': 'The forward rate is normally lower than the futures rate.', 'D': 'They should be exactly the same.'}",C,"本题考点为欧洲美元期货利率对远期利率的估计。
+$$
+\text{Forward Rate} = \text{Futures Rate} - \frac{1}{2} \sigma^2 t_1 t_2
+$$
+FRA能做对远期利率做出一个准确的估计，但是欧洲美元期货对于远期利率的估计需要做一个凸度调整，也就是上面对应的公式。出现差异的原因在于欧洲美元是每日结算，远期合约是在合约到期时结算，造成了期货合约的隐含利率与实际远期利率之间的差异。这个公式可以看出Futures Rate是大于Forward Rate的。所以选择C选项。",Knowledge reasoning QA,text only,Hard,"Interest Rate Derivatives, Forward Rate Agreements (FRA), Eurodollar Futures",Valuation and Risk Models,Valuationand Risk Models2
+2367,65,,,"Jacky is a senior manager in risk management at the Moon Bank. He asked Lucy, a new risk
+analyst to conduct the stress test for the bank. He gave the stress test instructions left by
+the last leaving risk analyst to Lucy. Jacky summarized some of the key points in the guide.
+Which of the following statement is not correct?",,"{'A': 'Bank should have sufficient liquid assets and capital to survive various adverse events.', 'B': 'The reason why banks use reverse stress tests is to find events that could lead to the crash\nof the bank.', 'C': 'Extreme events tend to have a moderate impact on the banking system, but there is a high\nprobability that these events will happen.', 'D': 'The time horizon for stress testing should be long enough for the full impact of scenarios to'}",C,"Answer: C：本题考点为压力测试（stress testing）的原理和压力测试的关键要素。对于选项
+A，压力测试是一种评估极端市场情形对银行影响的方法，该方法通过估计金融机构面临极端情景的表现，从
+而判断其是否有充足的资本金和流动性资产以抵御这些极端市场情形。所以，该选项描述正确，不符合题意
+，为错误选项。对于选项B，反向压力测试分析的是哪些极端情景导致了金融机构的失败。所以，该选项描述
+正确，不符合题意，为错误选项。对于选项C，极端事件往往会对银行系统产生严重的影响，虽然这些事件发
+生的可能性会很小。所以，该选项描述错误，符合题意，为正确选项。对于选项D，在压力测试的关键要素中
+，情景选择是关键的要素之一。情景选择第一步是确定一个合适的时间跨度。这个时间跨度要足够长，以评
+估情景的全面影响。常见的时间跨度为3个月到2年不等。有的可能会更长，长达几十年的时间跨度，例如一
+些养老金计划，或者保险公司。所以，该选项描述正确，不符合题意，为错误选项。因此，正确选项为C。",Knowledge reasoning QA,text only,Hard,"Stress Testing, Capital and Liquidity Requirements, Extreme Event Impact Analysis",Valuation and Risk Models,Valuationand Risk Models2
+2368,1,,,"Jamison and Bronson are applying for the residential mortgage loans in National Savings, a
+large local bank. Generally, the bank’s decisions of making loans or not is independent among
+borrowers, but not independent in a recessionary condition. In normal conditions, Jamison has a
+probability of 70% to get the mortgage successfully, and Bronson has a probability of 80%.
+While in the recessionary economy, the bank is going to reduce the loan scale. Thus, Jamison
+would have a lower probability of 30%, and Bronson would have a rate of 35%. Based on the
+information above, Jamison makes three statements:Statement 1: There is a probability of 56%
+that both of them could get mortgages from the bank generally.Statement 2: Because the bank’s
+decisions of making loans are unconditionally independent, hence they must be conditionally
+independent.Statement 3: There is a probability of 10.5% that they could get mortgages from the
+bank when the economy is in recession.How many of the statements above is(are) correct?",,"{'A': '0.', 'B': '1.', 'C': '2.', 'D': '3.'}",B,"Answer: B该题主要考点为条件独立和无条件独立的判断。对于statement 1，在通常情况下
+，银行发放贷款的决策可以认为是独立的，根据独立事件联合概率等于各自概率的乘积，可以得到Jamison和
+Bronson都可以成功获得贷款的概率是 。对于statement 2，无条件独立不一定能推出条件独立，反之，条件
+独立也不一定得到无条件独立，所以第二句陈述错误。对于statement 3，在经济衰退的时候，由于银行预期
+缩减贷款规模，因而是否发放贷款给Jamison和Bronson的决策不再独立，不满足无条件独立性。此时求解在
+经济衰退的情况下他们同时获得贷款的概率不能直接用两个条件概率相乘（　）。所以第三句陈述错误。因
+此，第一句陈述正确，第二句和第三句陈述错误，B选项正确。",Knowledge reasoning QA,text only,Hard,"Conditional Independence, Unconditional Independence, Joint Probability",Quantitative Methods,Quantitative Analysis2
+2369,2,,,"Bond A and Bond B have the same rating and probability of default. The estimated probability
+that both bonds will default during the next year is 5%. If Bond A defaults next year, there is
+a 50% probability that Bond B will also default. What is the probability that neither Bond A
+nor Bond B will default over the next year?",,"{'A': '75%.', 'B': '80%.', 'C': '85%', 'D': '95%.'}",C,"Answer: C
+
+该题主要考点为概率运算规则的应用。
+
+首先根据题目定义以下事件概率：
+- $P(A)$: Bond A 的连锁概率；
+- $P(B)$: Bond B 的连锁概率；
+- $P(AB)$: Bond A 和 Bond B 都发生连锁的概率。
+
+由题目已知条件可知：
+$$
+P(AB) = 5\%, P(B|A) = 50\%.
+$$
+
+根据乘法法则：
+$$
+P(A) = \frac{P(AB)}{P(B|A)} = \frac{5\%}{50\%} = 10\%.
+$$
+
+又由于 Bond A 和 Bond B 有相同的连锁概率，因此 $P(B) = 10\%$。
+
+根据加法法则，Bond A 和 Bond B 都不发生连锁的概率为：
+$$
+1 - P(A + B) = 1 - [P(A) + P(B) - P(AB)] = 85\%.
+$$
+
+因此正确选项为 C。",Math reasoning QA,text only,Hard,"Credit risk, Default correlation, Joint probability",Quantitative Methods,Quantitative Analysis2
+2370,3,,,"To apply central tendency and dispersion analysis, the risk manager measures the mean and
+standard deviation of the distribution of the exceedances. What is the mean and standard
+deviation of the number of exceedances over a period of 250 trading days?",,"{'A': 'Mean= 6, standard deviation=2.475', 'B': 'Mean= 2.5, standard deviation=1.573', 'C': 'Mean=6, standard deviation=1.573', 'D': 'Mean= 2.5, standard deviation=2.475'}",B,"Answer: B
+
+解开：该题主要考点为二项分布的性质。
+- 设$n$为二项分布实验的次数，由上题可知$n=250$。
+- 设$p$为每次实验中失败的概率，由上题可知$p=1\%$。
+
+由二项分布的性质可知均值和标准差分别为：
+
+Mean = $n \times p = 250 \times 1\% = 2.5.$
+
+Standard deviation = $\sqrt{n \times p \times (1-p)} = \sqrt{250 \times 0.01 \times 0.99} = 1.573.$
+
+因此正确选项为B.",Math reasoning QA,text only,Hard,"Descriptive statistics, Probability distributions, Risk measurement techniques",Quantitative Methods,Quantitative Analysis2
+2371,5,,,"An operational risk manager uses the Poisson distribution to estimate the frequency of losses
+in excess of USD 2 million during the next year. It is observed that the frequency of losses
+greater than USD 2 million is 3 per year on average over the last 10 years. If this observation
+is indicative of future occurrences and all the losses are independent of each other, what is
+the probability of at most one loss over USD 2 million occurring during the next two years?",,"{'A': '1.01%', 'B': '1.40%', 'C': '1.61%', 'D': '1.74%'}",D,"Answer: D
+
+解答: 该题主要考虑泊松分布的应用。泊松分布概率函数如下：
+
+$$
+P(X = K) = \frac{\lambda^k e^{-\lambda}}{k!}
+$$
+
+其中表示在时间内事件发生的平均次数。在本题中平均损失超过 $2\text{ million}$ 的次数 $\lambda$，因此在 $2$ 年内的损失超过 $2\text{ million}$ 的平均次数为 $\lambda = 2 \times 3 = 6$。
+
+由于题目要求在接下来的两时间范围内，至少有 $1$ 次损失超过 $2\text{ million}$ 的概率。因此设随机变量 $X$ 的取值为 $1$ 和 $0$，因此根据泊松分布概率函数可以得到：
+
+$$
+P(X = 0 \text{ or } 1) = \frac{6^0 e^{-6}}{0!} + \frac{6^1 e^{-6}}{1!} = 6 \times e^{-6} = 0.01735
+$$
+
+因此此次选项为 D。",Math reasoning QA,text only,Hard,"Operational Risk, Poisson Distribution, Probability Analysis",Quantitative Methods,Quantitative Analysis2
+2420,10,,,"Suppose an investor expects that the 1-year rate will remain at 6% for the first year for a
+2-year zero-coupon bond. The investor also projects a 50% probability that the 1-year spot rate
+will be 8% in one year and a 50% probability that the 1-year spot rate will be 4% in one year.
+Which of the following inequalities most accurately reflects the convexity effect for this 2-
+year bond using Jensen’s inequality formula?",,"{'A': '$0.89031 > $0.89000', 'B': '$0.89000> $0.80000', 'C': '$0.94340> $0.89031', 'D': '$0.94373> $0. 94340'}",A,"$$
+E\left(\frac{1}{1+r}\right) = 0.5 \times \frac{\$1}{1.08} + 0.5 \times \frac{\$1}{1.04} = 0.94373
+$$
+
+$$
+\Rightarrow 0.94373 / 1.06 = 0.89031
+$$
+
+$$
+\frac{1}{E(1+r)} = 0.5 \times \frac{\$1}{1.08} + 0.5 \times \frac{\$1}{1.04} = 0.94340
+$$
+
+$$
+\Rightarrow 0.94340 / 1.06 = 0.89000
+$$
+",Math reasoning QA,text only,Hard,"Bond Pricing, Spot Rates, Jensen's Inequality",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2422,12,,,"Computing VaR on a portfolio containing a very large number of positions can be simplified
+by mapping these positions to a smaller number of elementary risk factors. Which of the
+following mappings would be adequate?",,"{'A': 'USD\\/EUR forward contracts are mapped on the USD\\/JPY\\nspot exchange rate.', 'B': 'Each position in a corporate bond portfolio is mapped\\non the bond with the closest maturity\namong a', 'C': 'Government bonds paying regular coupons are mapped on\\nzero-coupon government bonds.', 'D': 'A position in the stock market index is mapped on a\\nposition in a stock within that index.'}",C,"Mapping government bonds paying regular coupons onto zerocoupon government bonds is
+an adequate process, because both categories ofbonds are government issued and therefore have a
+very similar sensitivity torisk factors. However, this is not a perfect mapping since the
+sensitivity ofboth classes of bonds to specific risk factors (i.e. changes in interest
+rates)may differ.(0)",Knowledge reasoning QA,text only,Hard,"Value at Risk (VaR), Portfolio Risk Management, Risk Factor Mapping",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2423,13,,,"A risk manager is pricing a 10-year call option on 10-year Treasuries using a successfully
+tested pricing model. Current interest rate volatility is high and the risk manager is
+concerned about the effect this may have on short-term rates when pricing the option. Which of
+the following actions would best address the potential for negative short-term interest rates
+to arise in the model?",,"{'A': 'The risk manager uses a normal distribution of\\ninterest rates.', 'B': 'When short-term rates are negative, the risk manager\\nadjusts the risk-neutral probabilities.', 'C': 'When short-term rates are negative, the risk manager\\nincreases the volatility.', 'D': 'When short-term rates are negative, the risk manager\\nsets the rate to zero.'}",D,"Negative short-term interest rates can arise in modelsfor which the terminal
+distribution of interest rates follows a normaldistribution. The existence of negative interest
+rates does not make mucheconomic sense since market participants would generally not lend cash
+atnegative interest rates when they can hold cash and earn a zero return. Onemethod that can be
+used to address the potential for negative interest rateswhen constructing interest rate trees
+is to set all negative interest rates tozero. This localizes the change in assumptions to
+points in the distributioncorresponding to negative interest rates and preserves the original
+rate treefor all other observations. In comparison, adjusting the risk neutralprobabilities
+would alter the dynamics across the entire range of interestrates and therefore not be an
+optimal approach.When a model displays the potential for negativeshort-term interest rates, it
+can still be a desirable model to use in certainsituations, especially in cases where the
+valuation depends more on the averagepath of the interest rate, such as in valuing coupon
+bonds. Therefore, thepotential for negative rates does not automatically rule out the use of
+themodel. (2)",Knowledge reasoning QA,text only,Hard,"Interest Rate Models, Option Pricing, Risk-Neutral Probabilities",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2424,14,,,"A large commercial bank is using VaR as its main risk measurement tool. Expected shortfall
+(ES) is suggested as a better alternative to use during market turmoil. What should be
+understood regarding VaR and ES before modifying current practices?",,"{'A': 'Despite being more complicated to calculate, ES is\\neasier to backtest than VaR.', 'B': 'Relative to VaR, ES leads to more required economic\\ncapital for the same confidence level.', 'C': 'While VaR ensures that the estimate of portfolio risk\\nis less than or equal to the sum of\nthe risks', 'D': 'Both VaR and ES account for the severity of losses\\nbeyond the confidence threshold.'}",B,"Expected shortfall is always greater than or equal to VaRfor a given confidence
+level, since ES accounts for the severity of expectedlosses beyond a particular confidence
+level, while VaR measures the minimumexpected loss at that confidence level. Therefore, ES
+would lead to a higherlevel of required economic capital than VaR for the same confidence
+level. Inpractice, however, regulators often correct for the difference between ES andVaR by
+lowering the required confidence level for banks using ES compared tothose using VaR.(2)",Knowledge reasoning QA,text only,Hard,"Value at Risk (VaR), Expected Shortfall (ES), Economic Capital",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2425,15,,,"Tycoon Bank announced that there were eight days in the previous year for which losses
+exceeded the daily 99% VAR. As a result, concerns emerged about the accuracy of the VAR
+implementation. Assuming that there are 250 days in the year, which of the following statements
+is/are correct? I. Using a two-tailed 99% confidence level z-score test, the current VAR
+implementation understates the actual risk in the bank's portfolio. II. Using a two-tailed 99%
+confidence level z-score test, the current VAR implementation overstates the actual risk in the
+bank's portfolio. III. The bank's exception rates for VAR may be inaccurate if the bank's
+portfolio changes incorporate the returns from low-risk but highly profitable intraday market
+making activities. IV. If these eight exceptions all happened in the previous month, the model
+should be reexamined for faulty assumptions and invalid parameters.",,"{'A': 'I and III', 'B': 'I, III, and IV', 'C': 'III only', 'D': 'I, II, and IV'}",B,"The z-score gives (8-2.5)(250*0.01*0.99)^(1/2)=3.5. This istoo high (greater than
+2), which leads to rejection of the null that the VARmodel is well calibrated. Hence, VAR is
+too low and statement I. is correct.Statement II. Is incorrect. However, this may be due to
+intraday trading, so III.iscorrect, too. Finally, if all eight exceptions occurred in the last
+month,there is bunching, and the mode should be reexamined, so IV. is correct.(2)",Knowledge reasoning QA,text only,Hard,"VAR Backtesting, Z-Score Test, Exception Rates",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2427,17,,,"The historical simulation (HS) approach is based on the empirical distributions and a large
+number of risk factors. The RiskMetrics approach assumes normal distributions and uses mapping
+on equity indices. The HS approach is more likely to provide an accurate estimate of VAR than
+the RiskMetrics approach for a portfolio that consists of",,"{'A': 'A small number of emerging market securities', 'B': 'A small number of broad market indexes', 'C': 'A large number of emerging market securities', 'D': 'A large number of broad market indexes'}",A,"The question deals with the distribution of the assetsand the effect of
+diversification. Emerging market securities are more volatileand less likely to be normally
+distributed than broad market indices. Inaddition, a small portfolio is less likely to be well
+represented by a mappingapproach, and is less likely to be normal. The RiskMetrics approach
+assumesthat the conditional distribution is normal and simplifies risk by mapping.This will be
+acceptable with a large number of securities with distributionsclose to the normal, which is
+answer d. Answer a. describes the leastdiversified portfolio, for which the HS method is
+best.(10)",Knowledge reasoning QA,text only,Hard,"Value at Risk (VAR), Historical Simulation, RiskMetrics Approach",Market Risk Measurement and Management,Market Risk Measurement and Management2
+2485,31,,,The Arbitrage Pricing Theory (APT) has all of the following characteristics EXCEPT:,,"{'A': 'No arbitrage opportunities exist.', 'B': 'The market contains enough stocks so that unsystematic risk can be diversified away.', 'C': 'APT assumes investors hold efficient portfolios and and are risk averse.', 'D': ""D.Expected asset returns are linear functions of the asset's risk relative to a set of factors.""}",C,"本题考虑关于APT的理解。选项A，APT模型假设无套利机会。选项A表述正确，不符合题意。选项B，APT模型假设有足够的证券可以将系统性风险分散。选项表述正确，不符合题意。选项C，APT模型不需要假设投资者是风险厌恶的。选项C表述错误，符合题意。选项D，从APT模型的公式可以看出，资产的预期收益是一系列因子的线性表达式。
+
+$$
+E(R_P) = R_f + \beta_{P,1}(\lambda_1) + \beta_{P,2}(\lambda_2) + \cdots + \beta_{P,k}(\lambda_k)
+$$",Knowledge reasoning QA,text only,Hard,"Arbitrage Pricing Theory (APT), Market Efficiency, Diversification",Foundation of Risk Management,foundation or risk management2
+2486,32,,,"Which of the following statements regarding the arbitrage pricing theory (APT) as compared
+to the capital asset pricing model (CAPM) is least accurate?",,"{'A': 'APT does not require that one of the risk factors is the market portfolio.', 'B': 'APT requires a weaker set of assumptions than the CAPM to derive.', 'C': 'APT is often thought as a special case of the CAPM.', 'D': 'APT is a no-arbitrage model.'}",C,"本题考查CAPM和APT的对比。选项A，与CAPM相比，APT的风险因子没有要求一定包含市场组合
+，而CAPM只有一个风险因子，即市场组合的风险溢价。选项A表述正确，不符合题意。选项B，与CAPM相比
+，APT的假设较少，没有CAPM的假设那么严格。选项B表述正确，不符合题意。选项C，CAPM可以视为APT的一
+种特殊情况，而并非APT是CAPM的一种特殊情况。选项C表述错误，符合题意，故本题选C。选项D，APT是基于
+无套利的假设前提推导出来的，所以是一个无套利模型。选项D表述正确，不符合题意。",Knowledge reasoning QA,text only,Hard,"Capital Asset Pricing Model (CAPM), Arbitrage Pricing Theory (APT), No-arbitrage Models",Foundation of Risk Management,foundation or risk management2
+2488,37,,,"To do a good job of risk data integration, banks need to follow the relevant principles,
+except which of the following?",,"{'A': 'Timeliness', 'B': 'Accuracy and Integrity', 'C': 'Comprehensiveness', 'D': 'Adaptability'}",C,"本题考查风险数据整合与风险汇报。选项A，及时性是风险数据整合的原则之一，不符合题意。
+选项B，精确性和准确性是风险数据整合的原则之一，不符合题意。选项C，综合性是风险报告的原则之一
+，表述错误，符合题意，故本题选C。选项D，适用性是风险数据整合的原则之一，不符合题意。",Knowledge reasoning QA,text only,Hard,"Risk Data Integration Principles, Risk Reporting Principles, Data Quality Principles",Foundation of Risk Management,foundation or risk management2
+2489,38,,,"William is a new employee in Rosenfeld Asset Management Co., Ltd and his first task is to
+prepare a risk report to the board of directors. In order to let his boss see his talents as
+quickly as possible, he decided to use vocabularies as professional and complex as possible to
+show his solid expertise and professionalism. After a while, William finished his job and he
+submitted the risk report to his boss, but the boss told him that the risk report did not meet
+the company’s requirements and needed to be revised thoroughly. Which of the following
+statements is most likely the reason why William’s report was not qualified?",,"{'A': 'Risk management report should be easy to understand to facilitate decision-making.', 'B': 'Reports should include an appropriate balance between risk data, analysis and interpretation,\nand qualitative explanations.', 'C': 'Risk management reports should accurately and precisely convey aggregated risk data and\nreflect risk in an exact manner.', 'D': 'Risk management reports should cover all material risk areas within the organization.'}",A,"本题考查风险数据整合与风险汇报。选项A，风险报告应该易于理解，以辅助决策，即银行的风
+险报告在编辑的时候要注意用词清晰、易懂同时能传达给管理层及董事会准确完整的信息，不能一味追求华
+丽的词汇而造成报告的阅读困难。但是William的报告却使用了大量专业复杂的词汇，这不符合风险报告的原
+则。选项A表述正确，符合题意，故本题选A。选项B，风险报告应包括风险数据、分析和定性解释之间的适当
+平衡，但题干中没有体现William违反该原则。选项B表述错误，不符合题意。选项C，风险管理报告应准确地
+传达汇总的风险数据，并以准确的方式反映风险，但题干中没有体现William违反该原则。选项C表述错误
+，不符合题意。选项D，风险管理报告应涵盖组织的所有重大风险领域，但题干中没有体现William违反该原
+则。选项D表述错误，不符合题意。",Knowledge reasoning QA,text only,Hard,"Risk Reporting, Communication of Risk, Decision-Making Facilitation",Foundation of Risk Management,foundation or risk management2
+2491,40,,,Which of the following statements most accurately describe enterprise risk management (ERM)?,,"{'A': 'Decisions are made on an overall basis.', 'B': 'Separately manage individual risks within an organization.', 'C': 'ERM is a consistent approach applies the perspectives and resources at the top of the\nenterprise which means the boardroom rather than business line .', 'D': 'Since ERM is a comprehensive view of company risk, thus the total risk measured under ERM is'}",A,"本题考查ERM的概念。选项A，ERM是站在整个公司的角度来看待风险，制定决策。选项A表述正
+确，符合题意，故本题选A。选项B，ERM是将所有风险整合，并非单独管理每类风险。选项B表述错误，不符
+合题意。选项C，ERM应用企业高层的视角和资源来管理整个风险组合，它支持对整个公司的企业风险采取一
+致的方法，这个一致性体现为从董事会到业务线，而并非只有董事会层面。选项C表述错误，不符合题意。选
+项D，由于ERM是对公司风险的全面评估，考虑了风险之间的分散化效果，因此在ERM下衡量的总风险低于单独
+衡量风险然后加总。选项D表述错误，不符合题意。",Knowledge reasoning QA,text only,Hard,"Enterprise Risk Management (ERM) concepts, Risk integration, Board-level risk governance",Foundation of Risk Management,foundation or risk management2
+2492,41,,,"The core risk exposure for banks is credit risk. Therefore, how to effectively manage credit
+risk has become an important focus of bank development. Historically, banks have often used
+mitigate strategy and transfer strategy. Which of the following is not an approach of
+mitigation or transfer strategy?",,"{'A': 'Marking-to-market', 'B': 'Asset liability management', 'C': 'Collateral', 'D': 'Credit derivatives'}",B,"本题考查了银行管理信用风险的手段。选项A，银行通过逐日盯市，定期对头寸进行重新估值
+，并与交易对手转移净值变动，从而将信用风险低，属于信用风险缓释策略。选项B，银行通过资产负债的匹
+配管理，可以降低流动性风险，因此不属于信用风险缓释策略，故本题选B。选项C，银行收取担保物，可以
+在发生信用风险事件时，降低损失，因此属于信用风险缓释策略。选项D，信用衍生品可帮助银行将信用风险
+转移给第三方，因此并不属于信用风险缓释策略。",Knowledge reasoning QA,text only,Hard,"Credit risk management, Asset liability management, Risk mitigation strategies",Foundation of Risk Management,foundation or risk management2
+2546,30,,,"John is forecasting a stock’s performance in 2010 conditional on the state of the economy of the country in which the firm is based. He divides the economy’s performance into three categories of “GOOD,” “NEUTRAL” and “POOR” and the stock’s performance into three categories of “increase,” “constant” and “decrease.” He estimates: The probability that the state of the economy is GOOD is 20%. If the state of the economy is GOOD, the probability that the stock price increases is 80% and the probability that the stock price decreases is 10%. The probability that the state of the economy is NEUTRAL is 30%. If the state of the economy is NEUTRAL, the probability that the stock price increases is 50% and the probability that the stock price decreases is 30%. If the state of the economy is POOR, the probability that the stock price increases is 15% and the probability that the stock price decreases is 70%. Billy, his supervisor, asks him to estimate the probability that the state of the economy is NEUTRAL given that the stock performance is constant. John’s best assessment of that probability is closest to:",,"{'A': ' 15.5%', 'B': ' 19.6%', 'C': ' 20.0%', 'D': ' 38.7%'}",D,"$$P(\text{Neutral} | \text{Constant}) = \frac{P(\text{Constant} | \text{Neutral}) \times P(\text{Neutral})}{P(\text{Constant})}$$ 
+
+ where: 
+ $$P(\text{Constant}) = 0.2 \times 0.03 + 0.2 \times 0.3 + 0.15 \times 0.5 = 0.3874$$ 
+ Thus, the probability of a constant performance is approximately 38.7%.",Math reasoning QA,text only,Easy,"Bayes' theorem, conditional probability, stock performance forecasting",Quantitative Methods,Quantitative Analysis1
+2547,31,,,"Your firm uses a proprietary forecasting model and assumes that the random variables they used follow the Poisson distribution. You are trying to assess the probability of the number of defects in an assembly production process for a given company. Assume that there is a 0.005 probability of a defect for every production run. Which of the choices below is the probability of 7 defects in 1,000 production runs?",,"{'A': ' 3.0%', 'B': ' 4.4%', 'C': ' 8.6%', 'D': ' 10.4%'}",D,"The first step is to estimate the number of expected defects in 1,000 runs as follows: (1,000) (0.005) = 5. Next the mathematical formula for the Poisson distribution for estimating 7 defects given that 5 are expected is:
+
+$$
+P(X=7) = \frac{5^7 e^{-5}}{7!} = 0.104
+$$",Math reasoning QA,text only,Easy,"Poisson distribution, probability, defect rate estimation",Quantitative Methods,Quantitative Analysis1
+2548,32,,,"The covariance between variable A and variable B is 5. The correlation between A and B is 0.50. If the variance of A is 12, what is the variance of B?",,"{'A': ' 10.00', 'B': ' 2.89', 'C': ' 8.33', 'D': ' 14.40'}",C,"
+
+$$
+Cov(A,B) = \rho \sigma_A \sigma_B
+$$
+
+$$
+5 = 0.5 \times \sqrt{12} \times \sqrt{\sigma_B^2}
+$$",Math reasoning QA,text only,Easy,"covariance, correlation, variance, statistics",Quantitative Methods,Quantitative Analysis1
+2549,33,,,"An analyst is studying a stock that is currently trading at $35. The analyst estimates that there is a 33% probability that the stock will trade at $50 after one year, a 20% probability that the stock will trade at $42, and a 47% probability that the stock will trade at $20. What is the volatility of this stock return?",,"{'A': ' 13%', 'B': ' 24%', 'C': ' 31%', 'D': ' 39%'}",D,"The returns for the three scenarios are: $$\frac{50-35}{35} = 42.86\%$$, $$\frac{42-35}{35} = 20\%$$, and $$\frac{20-35}{35} = -42.86\%$$. 
+
+ The variance is computed as: $$33\% \times (42.86\%)^2 + 20\% \times (20\%)^2 + 47\% \times (-42.86\%)^2 = 15.46\%$$. 
+
+ Volatility $$= \sqrt{15.46\%} = 39.31\%$$.",Math reasoning QA,text only,Easy,"stock return, volatility, probability",Quantitative Methods,Quantitative Analysis1
+2551,35,,,"Peter the Risk Analyst wants to characterize an operational loss severity process with a relatively simple and recognizable probability distribution. His first choice is the lognormal distribution. Peter has several criteria for his distribution. The lognormal distribution does support, or at least does not violate, each of the following criteria EXCEPT which of the following criteria is not met by the lognormal distribution?",,"{'A': ' He requires a genuine probability distribution.', 'B': ' His expected loss is non-negative and the standard deviation is significantly greater than one.', 'C': ' He wants summation stability: his simulation will add several independent random variables and he wants their sum to maintain the same distribution.', 'D': ' He wants positive skew (losses are positive values; aka, L/V/P format) where the mean is greater than the median, and he does not want a theoretical limit on the maximum loss.'}",C,"$$ While normal random variables satisfy summation stability, lognormal variables do not: the product of lognormals is lognormal, not the sum. 
+
+\text{E}(\text{Lognormal Sum}) \neq \text{E}(\text{Lognormal Product})$$.",Knowledge reasoning QA,text only,Easy,"lognormal distribution, summation stability, probability distribution",Quantitative Methods,Quantitative Analysis1
+2552,36,,,"If the average rate of HFLS operational loss events instead is 20 per workweek (20 every five days), if we assume a Poisson distribution, what is the probability on a given single day that between four and six HFLS losses will occur, inclusive?",,"{'A': ' 35.6%', 'B': ' 45.6%', 'C': ' 55.6%', 'D': ' 65.6%'}",B,"The rate is 20/5 or 4 per day. The Poisson probabilities for 4, 5, and 6 are calculated as follows: 
+
+$$P(X=4) = \frac{e^{-4} \times 4^4}{4!} = 19.537\%$$ 
+
+$$P(X=5) = \frac{e^{-4} \times 4^5}{5!} = 15.629\%$$ 
+
+$$P(X=6) = \frac{e^{-4} \times 4^6}{6!} = 10.42\%$$ 
+
+Summing these gives $$P(4 \leq X \leq 6) = 45.586\%$$.",Math reasoning QA,text only,Easy,"Poisson distribution, probability estimation, operational loss events",Quantitative Methods,Quantitative Analysis1
+2553,37,,,"Let X and Y are two random variables representing the annual returns of two different portfolios. If E(X) = 3, E(Y) = 4 and E(XY) = 11, then what is the covariance?",,"{'A': ' 5', 'B': ' 1', 'C': ' 0', 'D': ' -1'}",D,"The covariance is given by the formula: 
+
+$$\text{Cov}(X, Y) = E(XY) - E(X)E(Y)$$ 
+
+Substitute the given values: 
+
+$$\text{Cov}(X, Y) = 11 - 3 \times 4 = -1$$",Math reasoning QA,text only,Easy,"covariance, expected value, portfolio returns",Quantitative Methods,Quantitative Analysis1
+2867,11,,,"The Standard & Poor’s Depositary Receipts (SPDRs) is an exchange-traded fund in the United
+States that is designed to track the S&P 500 stock market index. The latest price of a share of
+SPDRs is $290. A trader has just bought call options on shares of SPDRs for a premium of $3 per
+share. The call options expire in six months and have an exercise price of $305 per share. On
+the expiration date, the trader will exercise the call options (ignore any transaction costs)
+if and only if the shares of SPDRs are trading:",,"{'A': 'below $305 per share.', 'B': 'above $305 per share.', 'C': 'above $308 per share.'}",B,"： B is correct. The holder of the call option will exercise the call options if
+the price is above the exercise price of $305 per share. Note that if the stock price is above
+$305 but less than $308, the option would be exercised even though the net result for the
+option buyer after considering the premium is a loss. For example, if the stock price is $307,
+the option buyer would exercise the option to make $2 = $307 – $305 per share, resulting in a
+loss of $1 = $3 – $2 after considering the premium. It is better to exercise and have a loss
+of only $1, however, rather than not exercise and lose the entire $3 premium. ： B是正确的。如
+果价格高于每股305美元的行使价格，认购期权持有人将行使认购期权。请注意，如果股票价格高于305美元
+但低于308美元，即使期权买方在考虑期权费后的净收益是损失，也会行使期权。例如，如果股票价格为
+307美元，期权买方将行使期权，使每股收益为$2=$307-$305，在考虑期权费后，导致损失$1=$3-$2。",Knowledge reasoning QA,text only,Easy,"Options Pricing, Exchange-Traded Funds (ETFs), Financial Derivatives",Equity Investments,level1_权益
+2868,12,,,"Caroline Rogers believes the price of Gamma Corp. stock will go down in the near future. She
+has decided to sell short 200 shares of Gamma Corp. at the current market price of €47. The
+initial margin requirement is 40 percent. Which of the following is an appropriate statement
+regarding the margin requirement that Rogers is subject to on this short sale?",,"{'A': 'She will need to contribute €3,760 as margin.', 'B': 'She will need to contribute €5,640 as margin.', 'C': 'She will only need to leave the proceeds from the short sale as deposit and does not need to'}",A,"英文： A is correct. She will need to contribute €3,760 as margin. In view of the
+possibility of a loss, if the stock price goes up, she will need to contribute €3,760 = 40% of
+€9,400 as the initial margin. Rogers will need to leave the proceeds from the short sale
+(€9,400 = 200 × €47) on deposit. 中文： 需要支付保证金: 200×47×40%= €3760 因此需要存入
+3760保证金。选择A",Knowledge reasoning QA,text only,Easy,"Short Selling, Margin Requirements, Stock Price Movement",Equity Investments,level1_权益
+2869,13,,,"Which of the following index weighting methods requires an adjustment to the divisor after a
+stock split?",,"{'A': 'Price weighting.', 'B': 'Fundamental weighting.', 'C': 'Market-capitalization weighting.'}",A,"英文： A is correct. In the price weighting method, the divisor must be adjusted so
+the index value immediately after the split is the same as the index value immediately prior to
+the split. 中文： A是正确的。在价格加权法中，必须调整除数，使拆分后的指数值与拆分前的指数值相同
+。",Knowledge reasoning QA,text only,Easy,"Index Weighting Methods, Stock Splits, Financial Indices Calculation",Equity Investments,level1_权益
+2882,26,,,"Jim White has sold short 100 shares of Super Stores at a price of $42 per share. He has also
+simultaneously placed a “good-till-cancelled, stop 50, limit 55 buy” order. Assume that if
+the stop condition specified by White is satisfied and the order becomes valid, it will get
+executed. Excluding transaction costs, what is the maximum possible loss that White can have?",,"{'A': '$800.', 'B': '$1,300.', 'C': 'Unlimited.'}",B,"英文： B is correct. The maximum possible loss is $1,300. If the stock price
+crosses $50, the stop buy order will become valid and will get executed at a maximum limit
+price of $55. The maximum loss per share is $13 = $55 – $42, or $1,300 for 100 shares. 中文：
+good-till-cancelled, stop 50, limit 55 buy的意思是说50开始止损指令生效，50到55是成交区间，到
+55元为止。因此最大的损失是55-42=13，13×1000=1300。因此选择B。",Math reasoning QA,text only,Easy,"Short selling, Stop-loss orders, Limit orders",Equity Investments,level1_权益
+2883,27,,,Security market indexes are used as:,,"{'A': 'measures of investment returns.', 'B': 'proxies to measure unsystematic risk.', 'C': 'proxies for specific asset classes in asset allocation models.'}",C,"英文 C is correct. Security market indexes play a critical role as proxies for
+asset classes in asset allocation models. C是正确的。市场指数可以近似（proxy）衡量资产大类的表
+现 A选项错误，证券市场是衡量的是整个市场的收益率，而且是一种近似替代（proxy），不能精确衡量某一
+个投资品（investment）。 B选项错误，证券市场指数，挑选一些可以代表市场走势的股票组成一个组合
+，是代表整体市场走势的。因此作为衡量系统性风险而不是非系统性风险的指标。",Knowledge reasoning QA,text only,Easy,"Security market indexes, Asset allocation models, Systematic risk",Equity Investments,level1_权益
+2884,28,,,"Consider a mutual fund that invests primarily in fixed-income securities that have been
+determined to be appropriate given the fund’s investment goal. Which of the following is least
+likely to be a part of this fund?",,"{'A': 'Warrants.', 'B': 'Commercial paper.', 'C': 'Repurchase agreements.'}",A,"： A is correct. Warrants are least likely to be part of the fund. Warrant holders
+have the right to buy the issuer’s common stock. Thus, warrants are typically classified as
+equity and are least likely to be a part of a fixed-income mutual fund. Commercial paper and
+repurchase agreements are short-term fixed-income securities. ： A是正确的。认股权证最不可能成
+为基金的一部分。权证持有人有权购买发行人的普通股。 因此，认股权证通常被归类为股权，最不可能成为
+固定收益共同基金的一部分。商业票据和回购协议是短期固定收益证券。",Knowledge reasoning QA,text only,Easy,"Fixed-Income Securities, Mutual Funds, Equity Instruments",Equity Investments,level1_权益
+2885,29,,,"An oil and gas exploration and production company announces that it is offering 30 million
+shares to the public at $45.50 each. This transaction is most likely a sale in the:",,"{'A': 'futures market.', 'B': 'primary market.', 'C': 'secondary market.'}",B,"：B is correct. This transaction is a sale in the primary market. It is a sale of
+shares from the issuer to the investor and funds flow to the issuer of the security from the
+purchaser. ： B是正确的。这项交易是在一级市场上进行的出售。它是指股票从发行人向投资者出售，资金
+从购买人流向证券发行人。",Knowledge reasoning QA,text only,Easy,"Primary market, Issuance of shares, Capital raising",Equity Investments,level1_权益
+3036,15,,,"The Bureau of Labor Statistics has just reported an unexpected short-term increase in high-
+priced luxury automobiles. What is the most likely anticipated impact on a mean-reverting model
+of interest rates?",,"{'A': 'The economic information is long-lived with a low mean reversion parameter.', 'B': 'The economic information is short-lived with a low mean reversion parameter.', 'C': 'The economic information is long-lived with a high mean reversion parameter.', 'D': 'The economic information is short-lived with a high mean reversion parameter.'}",D,"The economic news is most likely short-term in nature. Therefore, the mean
+reversion parameter is high so the mean reversion adjustment per period will be relatively
+large.",Knowledge reasoning QA,text only,Easy,"Mean reversion, Interest rate models, Economic news impact",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3050,29,,,Which of the following statements comparing VaR with expected shortfall is true?,,"{'A': 'Expected shortfall is sub-additive while VaR is not.', 'B': 'Both VaR and expected shortfall measure the amount of capital an investor can expect to lose\nover a given time period and are, therefore, interchangeable as risk measures.', 'C': 'Both VaR and expected shortfall depend on the assumption of a normal distribution of returns.', 'D': 'VaR can vary according to the confidence level selected, but expected shortfall will not.'}",A,"VaR measures the expected amount of capital one can expect to lose within a given
+confidence level over a given period of time. One of the problems with VaR is that it does not
+provide information about the expected size of the loss beyond the VaR. VaR is often
+complemented by the expected shortfall, which measures the expected loss conditional on the
+loss exceeding the VaR. Note that since expected shortfall is based on VaR, changing the
+confidence level may change both measures. A key difference between the two measures is that
+VaR is not sub-additive, meaning that the risk of two funds separately may be lower than the
+risk of a portfolio where the two funds are combined. Violation of the sub-additive assumption
+is a problem with VaR that does not exist with expected shortfall.",Knowledge reasoning QA,text only,Easy,"Value at Risk (VaR), Expected Shortfall (ES), Risk Measure Properties",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3051,30,,,"Which of the following risks is specifically recognized by the incremental risk charge
+(IRC)?",,"{'A': 'Expected shortfall risk, because it is important to understand the amount of loss potential\nin the tail.', 'B': 'jump-to-default risk, as measured by 99.9% VaR, because a default could cause a significant\nloss for the bank.', 'C': 'Equity price risk, because a change in market prices could materially impact mark-to-market\naccounting for risk.', 'D': 'Interest rate risk, as measured by 97.5% expected shortfall, because an increase in interest'}",B,"The two types of risk recognized by the incremental risk charge are: (1) credit
+spread risk, and (2) jump-to-default risk. Jump-to-default risk is measured by 99.9% VaR and
+not 97.5% expected shortfall.",Knowledge reasoning QA,text only,Easy,"Incremental Risk Charge (IRC), Jump-to-Default Risk, Credit Spread Risk",Market Risk Measurement and Management,Market Risk Measurement and Management1
+3143,29,,,"Given a portfolio of five stocks, how many unique covariance terms, excluding variances, are
+required to calculate the portfolio return variance?",,"{'A': '10', 'B': '20', 'C': '25'}",A,"： A is correct. A covariance matrix for five stocks has 5 × 5 = 25 entries.
+Subtracting the 5 diagonal variance terms results in 20 off-diagonal entries. Because a
+covariance matrix is symmetrical, only 10 entries are unique (20/2 = 10). ： A正确。 五只股票的
+协方差矩阵有5×5 = 25项。减去5个对角线方差项，得到20个非对角线项。因为协方差矩阵是对称的，所以
+只有10个协方差项是唯一的(20/2 = 10)。",Math reasoning QA,text only,Easy,"Portfolio Risk, Covariance, Variance",Quantitative Methods,level1_数量
+3144,30,,,"A correlation of 0.34 between two variables, X and Y, is best described as:",,"{'A': 'changes in X causing changes in Y.', 'B': 'a positive association between X and Y.', 'C': 'a curvilinear relationship between X and Y.'}",B,"B is correct. The correlation coefficient is positive, indicating that the two
+seriesmove together. 相关系数为正，表明这两个变量正相关变化的。因此，选项B是正确的",Knowledge reasoning QA,text only,Easy,"Correlation, Statistical analysis, Positive relationship",Quantitative Methods,level1_数量
+3147,33,,,"A manager will select 20 bonds out of his universe of 100 bonds to construct a portfolio.
+Which formula provides the number of possible portfolios?",,"{'A': 'Permutation formula', 'B': 'Multinomial formula', 'C': 'Combination formula'}",C,"： C is correct. The combination formula provides the number of ways that r objects
+can be chosen from a total of n objects, when the order in which the r objects are listed does
+not matter. The order of the bonds within the portfolio does not matter. ： C正确。 组合公式提
+供了从总共n个对象中选择r个对象的方法的数量，而r个对象的排列顺序并不重要。投资组合中债券的顺序并
+不重要。",Math reasoning QA,text only,Easy,"Combinatorics, Portfolio Construction, Mathematical Formulas",Quantitative Methods,level1_数量
+3154,40,,,"The average return for Portfolio A over the past twelve months is 3%, with a standard
+deviation of 4%. The average return for Portfolio B over this same period is also 3%, but with
+a standard deviation of 6%. The geometric mean return of Portfolio A is 2.85%. The geometric
+mean return of Portfolio B is:",,"{'A': 'less than 2.85%.', 'B': 'equal to 2.85%.', 'C': 'greater than 2.85%.'}",A,"A is correct. The more disperse a distribution, the greater the difference between
+the arithmetic mean and the geometric mean.选项A是正确的。对于任何一个数据集来说，算术平均数是
+唯一的，而且其数值大小与数据集中每一个数据都有关，如果数据集中有异常值，将会使算术平均数发生很
+大的变化。因此，当数据集越分散，对算数平均数的影响就越大，也就使得算术平均值和几何平均值之间的
+差异越大。",Math reasoning QA,text only,Easy,"Portfolio Management, Statistical Analysis, Risk Measurement",Quantitative Methods,level1_数量
+3167,53,,,"Florence Hixon is screening a set of 100 stocks based on two criteria (Criterion 1 and
+Criterion 2). She set the passing level such that 50% of the stocks passed each screen. For
+these stocks, the values for Criterion 1 and Criterion 2 are not independent but are positively
+related. How many stocks should pass Hixon’s two screens?",,"{'A': 'Less than 25', 'B': '25', 'C': 'More than 25'}",C,"C is correct. Let event A be a stock passing the first screen (Criterion 1) and
+event B be a stock passing the second screen (Criterion 2). The probability of passing each
+screen is P(A) = 0.50 and P(B) = 0.50. If the two criteria are independent, the joint
+probability of passing both screens is P(AB) = P(A)P(B) = 0.50 × 0.50 = 0.25, so 25 out of 100
+stocks would pass both screens. However, the two criteria are positively related, and P(AB) ≠
+0.25. Using the multiplication rule for probabilities, the joint probability of A and B is
+P(AB) = P(A | B) P(B). If the two criteria are not independent, and if P(B) = 0.50, then the
+contingent probability of P(A | B) is greater than 0.50. So the joint probability of P(AB) =
+P(A | B)P(B) is greater than 0.25. More than 25 stocks should pass the two screens. C正确。假设
+一只股票通过标准1的事件为A，一只股票通过标准2的事件为B，那么通过两个标准的概率=事件AB同时发生的
+概率=P(AB)=P(A)*P(B/A) 因为标准1和标准2的设定是正相关的，那也就意味着当股票通过其中一个标准时
+，再通过另一个标准的概率是增加的，故P(B/A)>P(B)=0.5 所以P(AB)=P(A)*P(B/A)>0.25，因此最后通过两
+个标准的股票数量是大于25的",Math reasoning QA,text only,Easy,"Joint Probability, Conditional Probability, Dependence and Dependence Classification",Quantitative Methods,level1_数量
+3176,62,,,"From an approved list of 25 funds, a portfolio manager wants to rank 4 mutual funds from
+most recommended to least recommended. Which formula is most appropriate to calculate the
+number of possible ways the funds could be ranked?",,"{'A': 'Permutation formula', 'B': 'Multinomial formula', 'C': 'Combination formula'}",A,"： A is correct. The permutation formula is used to choose r objects from a total
+of n objects when order matters. Because the portfolio manager is trying to rank the four funds
+from most recommended to least recommended, the order of the funds matters; therefore, the
+permutation formula is most appropriate. ： A正确。 当顺序重要时，用排列公式从n个对象中选择r个
+对象。由于投资组合经理试图将这四只基金从“推荐最多”排序为“推荐最少”，因此基金的顺序很重要;因
+此，排列公式是最合适的。",Math reasoning QA,text only,Easy,"Permutations, Combinatorics, Portfolio Management",Quantitative Methods,level1_数量
+3179,65,,,"Which visualization tool works best to represent unstructured, textual data?",,"{'A': 'Tree-Map', 'B': 'Scatter plot', 'C': 'Word cloud'}",C,"C is correct. A word cloud, or tag cloud, is a visual device for representing
+unstructured, textual data. It consists of words extracted from text with the size of each word
+being proportional to the frequency with which it appears in the given text. A is incorrect
+because a tree-map is a graphical tool for displaying and comparing categorical data, not for
+visualizing unstructured, textual data. B is incorrect because a scatter plot is used to
+visualize the joint variation in two numerical variables, not for visualizing unstructured,
+textual data. C是不正确的，词云，用于展示非结构化文本数据。它由从文本中提取的单词组成，每个单词
+的大小与它在给定文本中出现的频率成比例，即字体越大，该词语的出现次数越多，词频越高。A是不正确的
+，树图是用于显示和比较分类数据的图形工具。B是不正确的，散点图用于反映可视化两个数值变量的联合变
+化。",Knowledge reasoning QA,text only,Easy,"Visualization tools, Unstructured data, Data representation",Quantitative Methods,level1_数量
+3180,66,,,"All else being equal, as the correlation between two assets approaches +1.0, the
+diversification benefits:",,"{'A': 'decrease.', 'B': 'stay the same.', 'C': 'increase.'}",A,"： A is correct. As the correlation between two assets approaches +1,
+diversification benefits decrease. In other words, an increasingly positive correlation
+indicates an increasingly strong positive linear relationship and fewer diversification
+benefits. ： A正确。 当两种资产的相关性趋近于 ＋1时，多元化收益降低。也就是说，正相关越强，说明
+正线性关系越强，多元化收益越少。",Knowledge reasoning QA,text only,Easy,"Portfolio diversification, Correlation, Asset allocation",Quantitative Methods,level1_数量
+3183,69,,,"If the sample standard deviation is zero, compare with geometric mean, arithmetic mean is:",,"{'A': 'Greater.', 'B': 'Smaller.', 'C': 'The same.'}",C,"Because the sample standard deviation is zero, there is no difference between
+geometric mean and arithmetic mean.由于样本标准差为零，几何平均值和算术平均值之间没有差异。",Knowledge reasoning QA,text only,Easy,"Descriptive statistics, Measures of central tendency, Arithmetic vs geometric mean",Quantitative Methods,level1_数量
+3184,70,,,"John purchased 60% of the stocks in a portfolio, while Andrew purchased the other 40%. Half
+of John’s stock-picks are considered good, while a fourth of Andrew’s are considered to be
+good. If a randomly chosen stock is a good one, what is the probability John selected it?",,"{'A': '0.40.', 'B': '0.30.', 'C': '0.75.'}",C,"Using the information of the stock being good, the probability is updated to a
+conditional probability: P(John | good) = P(good and John) / P(good). P(good and John) = P(good
+| John) × P(John) = 0.5 × 0.6 = 0.3. P(good and Andrew) = 0.25 × 0.40 = 0.10. P(good) =
+P(good and John) + P (good and Andrew) = 0.40. P(John | good) = P(good and John) / P(good) =
+0.3 / 0.4 = 0.75. 使用股票将处于良好状态的信息，更新概率后，这是一个条件概率: P(John | good) =
+P(good and John) / P(good) P(good and John) = P(good | John)×P(John) = 0.5×0.6 = 0.3 P(good
+and Andrew) = 0.25×0.40 = 0.10 P(good) = P(good and John) P(good and Andrew) = 0.40 P(John |
+good) = P(good and John) / P(good) = 0.3 / 0.4 = 0.75",Math reasoning QA,text only,Easy,"Conditional Probability, Bayes' Theorem, Portfolio Analysis",Quantitative Methods,level1_数量
+3187,73,,,"Which of the following best describes how an analyst would estimate the expected value of a
+firm under the scenarios of bankruptcy and survivorship? The analyst would use:",,"{'A': 'the addition rule.', 'B': 'conditional expected values.', 'C': 'the total probability rule for expected value.'}",C,"： C is correct. The total probability rule for expected value is used to estimate
+an expected value based on mutually exclusive and exhaustive scenarios. ： C正确。 期望值的总概
+率规则用于基于互斥和遍历事件估计期望值。",Knowledge reasoning QA,text only,Easy,"Probability, Expected Value, Scenario Analysis",Quantitative Methods,level1_数量
+3193,79,,,"When analyzing investment returns, which of the following statements is correct?",,"{'A': 'The geometric mean will exceed the arithmetic mean for a series with non-zero variance.', 'B': 'The geometric mean measures an investment’s compound rate of growth over multiple periods.', 'C': 'The arithmetic mean accurately estimates an investment’s terminal value over multiple'}",B,"B is correct. The geometric mean compounds the periodic returns of every period,
+giving the investor a more accurate measure of the terminal value of an investment.",Knowledge reasoning QA,text only,Easy,"Investment Returns Analysis, Geometric Mean, Investment Performance Measurement",Quantitative Methods,level1_数量
+3292,25,,,"The liquidity management department of Bank ABC, is estimating liquidity needs for the next
+month. Liquidity rises as deposits increase and loans decrease and declines when deposits
+decrease and loans increase, therefore the changes in deposits and loans must be forecasted.
+For the deposit, the department estimates that the trend component is $1,200, the seasonal
+component is $70, and the cyclical component is - $38.Which is the estimated deposit should be
+in next month?",,"{'A': '$1380', 'B': '$1092', 'C': '$1232', 'D': '$1168'}",C,"简单法估计一定周期内的存款，考虑趋势性，季节性和周期性。Estimated total deposit =
+trend estimate for deposit + seasonal elements + cyclical elements = $1,200 + $70 - $38 =
+$1232(0)",Math reasoning QA,text only,Hard,"Liquidity Management, Forecasting Techniques, Components of Time Series",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2
+3294,27,,,"A small commercial bank wants to know the minimum rate of return it has to earn for the next
+year. Jack a treasurer from the investing department, starts from the total cost of capital, he
+found that next year, all coming funds is $ 400 million, however, 10% of them cannot be
+invested, and the current average interest rate is 5%, and operating expense, is about $ 10
+million. According to the information above, please help Jack figure out the hurdle rate for
+investing.",,"{'A': '7.5%', 'B': '8.3%', 'C': '2.5%', 'D': '5.5%'}",B,"Hurdle rate of return over all earning assets = 
+
+$$
+\frac{400 * 5\% + 10}{400 * (1 - 10\%)} = 8.3\%
+$$",Math reasoning QA,text only,Hard,"Cost of Capital, Hurdle Rate, Financial Calculation",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2
+3297,30,,,"Important indicators of management's effectiveness are whether or not funds deposited by the
+public have been raised at the lowest possible cost and whether sufficient deposits are
+available to fund all those loans and projects management wishes to pursue. Which of the
+following statements about deposit pricing methods are most appropriate?I. Conditional pricing
+is sensitive to the types of customers each depository institution plans to serve and the cost
+that serving different types of depositors will present to the offering institution. II.
+Marginal revenue should be determined at the beginning when using marginal cost pricing
+method.III. Free-pricing may attract too much volatile funds when market rate is high, which
+actually adverse to deposit institutions.IV. Relationship pricing promotes greater customer
+loyalty and makes the customer more sensitive to the prices posted on services offered by
+competing financial firms.",,"{'A': 'I & II', 'B': 'II & III', 'C': 'I, II & III', 'D': 'I, II, III & IV'}",C,"Statement IV：Relationship pricing promotes greater customer loyalty and makes the
+customer less  sensitive to the prices posted on services offered by competing financial
+firms.(0)",Knowledge reasoning QA,text only,Hard,"Deposit Pricing Methods, Customer Loyalty, Cost Management",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2
+3298,31,,,"Deposits provide much of the raw material for making loans and, thus, may represent the
+ultimate source of profits and growth for a depository institution. A deposit manager is trying
+to make the appropriate interest rate for deposits in order to balance the cost and profit.
+Among the following statements, which is correct?",,"{'A': 'The optimal interest rate should be determined when marginal cost rate equals to marginal\nrevenue rate.', 'B': 'Margin cost rate decrease at first and increases as the rises of interest rate.', 'C': 'Higher interest rate should always be taken therefore to appeal more deposits.', 'D': 'Amount of profit earned always decreases when interest rate increases.'}",A,"用边际成本的方法确定存款价格。随着存款利率的上升，利润额先增加后减少，当边际成本率
+等于边际收益率的时候，利润额达到最大，此时的对应存款利率为最优利率。边际成本利率随着存款利率的
+增加而增加，高利率也意味这高成本，并不是越高越好。(0)",Knowledge reasoning QA,text only,Hard,"Marginal cost pricing, Profit maximization, Interest rate risk",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2
+3321,12,,,Which of the following statements is TRUE about the role of internal audit in stress test governance?,,"{'A': 'A. Internal audit should independently assess each stress test used', 'B': ""B.B. Internal audit is the 'first line of defense' in stress testing governance"", 'C': 'C. Internal audit should have full knowledge of all stress-test details', 'D': 'D. Internal audit should assess the expertise and roles and responsibilities of the staff involved in stress-testing activities'}",D,Internal audit should assess the expertise and roles and responsibilities of the staff involved in stress-testing activities.,Knowledge reasoning QA,text only,Easy,"Internal audit, Stress testing governance",Valuation and Risk Models,Validation and Risk Models1
+3322,13,,,The 6-month forward rate on an investment that matures in 1.5 years is closest to:,./dataset/images/ValuationandRiskModels1_images/13u.png,"{'A': 'A. 2.50%', 'B': 'B. 2.75%', 'C': 'C. 3.00%', 'D': 'D. 3.25%'}",C,"参考答案: C
+
+The solution is as follows:
+
+$$
+\left( 1 + \frac{1.8\%}{2} \right)^2 \times \left(1 + \frac{F}{2} \right)^1 = \left( 1 + \frac{2.2\%}{2} \right)^3
+$$
+
+$$
+\Rightarrow F = 3\%
+$$",Math reasoning QA,text only,Easy,"Forward rate, Interest rates",Valuation and Risk Models,Validation and Risk Models1
+3323,14,,,"Assuming the 92-day and 274-day interest rate is 8% (act/360, money market yield), compute the 182-day forward rate starting in 92 days (act/360, money market yield).",,"{'A': 'A. 7.8%', 'B': 'B. 8.0%', 'C': 'C. 8.2%', 'D': 'D. 8.4%'}",B,"Because the two spot rates are equal to 8 percent, the implied forward rate also has to be 8 percent.",Math reasoning QA,text only,Easy,"Forward rate, Interest rates",Valuation and Risk Models,Validation and Risk Models1
+3324,15,,,"A $10 million Treasury bond (note) with a 10-year maturity pays semi-annual coupons at a coupon rate of 4.0% per annum. If the bond is fully 'stripped' such that STRIPS are created, each of the following is TRUE except:",,"{'A': 'A. The stripping creates 21 zero-coupon bonds', 'B': 'B. Each of the C-STRIPS and the P-STRIP implies an exact spot (a.k.a., zero) interest rate', 'C': 'C. The duration of the P-STRIP is greater than the duration of the original Treasury bond', 'D': 'D. The C-STRIPS each have durations near to zero'}",D,"The C-STRIPS are not floating-rate notes, they are zero-coupon bonds corresponding to the respective coupons. So, in this case, the twenty C-STRIPS have Macaulay durations of: 0.5, 1.0, 1.5,... In regard to (A), (B), and (C), each is TRUE about the STRIPS. In regard to (A), the bonds twenty coupons (10 years × 2 coupons/year) create 20 CSTRIPS plus the principal repayment creates a single P-STRIP.",Knowledge reasoning QA,text only,Easy,"STRIPS, Bond stripping, Macaulay duration",Valuation and Risk Models,Validation and Risk Models1
+3325,16,,,Each of the following is necessarily TRUE about a bond’s yield-to-maturity (YTM) EXCEPT:,,"{'A': 'A. A bond that sells at a premium to par has a yield (YTM) that is less than its coupon rate', 'B': 'B. A bond that sells at a discount to par has a yield (YTM) that is greater than its coupon rate', 'C': 'C. The yield (YTM) of a zero-coupon bond equals the spot (zero) rate of the bond’s maturity', 'D': 'D. If the same term structure of spot rates applies to two bonds with identical maturities, the bond with the higher yield (YTM) is a superior investment'}",D,"This ignores the coupon effect. Fairly priced bonds will have various yields. In regard to (A), (B), and (C), each is TRUE.",Knowledge reasoning QA,text only,Easy,"Yield to maturity, Bond pricing",Valuation and Risk Models,Validation and Risk Models1
+3327,18,,,"Consider the following, a 7-year zero-coupon bond carries an annual yield of 6.75% and a 6-year zero-coupon bond carries an annual yield of 5.87%. Calculate the 1 year forward rate 6 years from now. Assume annual compounding.",,"{'A': 'A. 6.31%', 'B': 'B. 12.03%', 'C': 'C. 12.19%', 'D': 'D. 12.62%'}",C,"The solution is as follows:
+
+$$
+(1 + 6.75\%)^7 = (1 + 5.87\%)^6 \times (1 + F_{6,7}) \Rightarrow F_{6,7} = 12.19\%
+$$",Math reasoning QA,text only,Easy,"Forward rate, Zero-coupon bond yield",Valuation and Risk Models,Validation and Risk Models1
+3329,20,,,"For purposes of computing the market risk of a US Treasury Bond portfolio, it is easiest to measure:",,"{'A': 'A. Yield volatility because yields have positive skewness.', 'B': 'B. Price volatility because bond prices are positively correlated.', 'C': 'C. Yield volatility for bonds sold at a discount and price volatility for bonds sold at a premium to par.', 'D': 'D. Yield volatility because it remains more constant over time than price volatility, which must approach zero as the bond approaches maturity.'}",D,"Because prices must converge to the bond’s maturity value, the volatility of yields provides a more accurate risk assessment.",Knowledge reasoning QA,text only,Easy,"Market risk, Yield volatility",Valuation and Risk Models,Validation and Risk Models1
+3371,8,,,"For risk culture to be effective, there should be a proper tradeoff between risk-taking and
+control. Too much strict regulation and actions taken to completely eliminate risk is
+unrealistic. At the same time, the fear of making mistakes by company personnel only leads to
+inaction. So, an effective or sound risk culture should balance between risk-taking and
+maintaining an appropriate level of control. Which of the following is not a Characteristic of
+a strong risk culture ?",,"{'A': 'A strong risk culture encompasses an ongoing, dynamic, and formal as well as informal\nprocess. It keeps evolving over time with shifts in external and internal factors that affect\nthe behaviors and decisions of the personnel of an organization.', 'B': 'Sound risk culture is an integral part of a business and is not linked to supervision alone.', 'C': 'Establishing a healthy risk culture is a system that deals with just the enhancement of\ntechnical skills rather than a collective process.', 'D': 'In a healthy risk culture, the concept of complying with compliance is replaced by compliance'}",C,"Establishing a healthy risk culture is a collective process rather than a system
+that deals with just the enhancement of technical skills.建立一个健康的风险文化是一个系统过程
+，而不是一个只涉及提高技术技能的系统。",Knowledge reasoning QA,text only,Easy,"Risk Culture, Organizational Behavior, Corporate Governance",Operational Risk and Resiliency,Operational Riskand Resiliency1
+3372,9,,,"A bank credit officer, who has reviewed a loan application, has made the following statement:
+“On a standalone basis, I was not very keen on granting this loan however, I granted this loan
+after looking at the overall asset portfolio of the bank.” Based on the above statement, which
+of the following is true.",,"{'A': 'The correlation of the newly granted loan with the overall portfolio is low and therefore the\ncredit officer was right in granting the loan.', 'B': 'The correlation of the newly granted loan with the overall portfolio is low and therefore the\ncredit officer was wrong in granting the loan.', 'C': 'The correlation of the newly granted loan with the overall portfolio is high and therefore\nthe credit officer was right in granting the loan.', 'D': 'The correlation of the newly granted loan with the overall portfolio is high and therefore'}",A,"A Correct. The risk of a loan at the portfolio level is guided by both its
+systematic risk and unsystematic risk. Therefore low correlation of the new loan with the
+overall existing portfolio make it better investment decision due to diversifications benefits.
+Therefore, the credit officer was right in his reasoning.A是正确的。在投资组合层面上，贷款的风
+险由其系统性风险和非系统性风险共同引导。因此，由于新贷款与现有投资组合的相关性较低，使其具有分
+散化效果，从而使其成为更好的投资决策。因此，信贷员的推理是正确的。",Knowledge reasoning QA,text only,Easy,"Credit Risk Management, Portfolio Diversification, Correlation and Risk Management",Operational Risk and Resiliency,Operational Riskand Resiliency1

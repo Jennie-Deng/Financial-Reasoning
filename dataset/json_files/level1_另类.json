@@ -1,0 +1,818 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "Fill in the blanks with the correct words: An American waterfall distributes performance fees\non a(n) ___________ basis and is more advantageous to the ___________.",
+        "image": "",
+        "options": {
+            "A": "A.deal-by-deal; LPs",
+            "B": "B.aggregate fund; LPs",
+            "C": "C.deal-by-deal; GP"
+        },
+        "answer": "C",
+        "explanation": "C is correct. American waterfalls, also known as deal-by-deal waterfalls, pay\nperformance fees after every deal is completed and are more advantageous to the GP because they\nget paid sooner (compared with European, or whole-of-fund, waterfalls). \uff1aC\u662f\u6b63\u786e\u7684\u3002\u7f8e\u56fd\u7011\u5e03\n\uff0c\u4e5f\u79f0\u4e3a\u9010\u7b14\u4ea4\u6613\u7011\u5e03\uff0c\u5728\u6bcf\u7b14\u4ea4\u6613\u5b8c\u6210\u540e\u652f\u4ed8\u7ee9\u6548\u8d39\u7528\uff0c\u5bf9GP\u66f4\u6709\u5229\uff0c\u56e0\u4e3a\u4ed6\u4eec\u66f4\u5feb\u83b7\u5f97\u652f\u4ed8\uff08\u4e0e\u6b27\u6d32\u6216\n\u6574\u4e2a\u57fa\u91d1\u7011\u5e03\u76f8\u6bd4\uff09\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Performance Fees Structure, Waterfall Distribution Models, General Partner (GP) Advantage",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 2,
+        "question_text": "Compared with direct investment in infrastructure, publicly traded infrastructure securities\nare characterized by:",
+        "image": "",
+        "options": {
+            "A": "A.higher concentration risk.",
+            "B": "B.more-transparent governance.",
+            "C": "C.greater control over the infrastructure assets."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Publicly traded infrastructure securities, which include shares of\ncompanies, exchange-traded funds, and listed funds that invest in infrastructure, provide the\nbenefits of transparent governance, liquidity, reasonable fees, market prices, and the ability\nto diversify across underlying assets. Direct investment in infrastructure involves a large\ncapital investment in any single project, resulting in high concentration risks. Direct\ninvestment in infrastructure provides control over the assets and the opportunity to capture\nthe assets\u2019 full value. \uff1aB\u662f\u6b63\u786e\u7684\u3002\u516c\u5f00\u4ea4\u6613\u7684\u57fa\u7840\u8bbe\u65bd\u8bc1\u5238\uff0c\u5305\u62ec\u6295\u8d44\u4e8e\u57fa\u7840\u8bbe\u65bd\u7684\u516c\u53f8\u3001\u4ea4\u6613\u6240\n\u4ea4\u6613\u57fa\u91d1\u548c\u4e0a\u5e02\u57fa\u91d1\uff0c\u5b83\u4eec\u5177\u6709\u900f\u660e\u7684\u6cbb\u7406\u4f53\u7cfb\u3001\u6d41\u52a8\u6027\u3001\u5408\u7406\u7684\u8d39\u7528\u3001\u5e02\u573a\u4ef7\u683c\u4ee5\u53ca\u8de8\u57fa\u7840\u8d44\u4ea7\u591a\u6837\u5316\u7684\n\u7279\u5f81\u3002\u5bf9\u57fa\u7840\u8bbe\u65bd\u7684\u76f4\u63a5\u6295\u8d44\u6d89\u53ca\u5bf9\u5355\u4e2a\u9879\u76ee\u7684\u5927\u91cf\u8d44\u672c\u6295\u8d44\uff0c\u5c06\u4f1a\u5bfc\u81f4\u9ad8\u96c6\u4e2d\u6027\u7684\u98ce\u9669\u3002\u5bf9\u57fa\u7840\u8bbe\u65bd\u7684\u76f4\n\u63a5\u6295\u8d44\u662f\u5bf9\u8d44\u4ea7\u7684\u76f4\u63a5\u63a7\u5236\u5e76\u4e14\u80fd\u591f\u62e5\u6709\u83b7\u53d6\u8d44\u4ea7\u5168\u90e8\u4ef7\u503c\u7684\u673a\u4f1a\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Infrastructure Investment, Publicly Traded Securities, Diversification",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 3,
+        "question_text": "The investment method that typically requires the greatest amount of or most thorough due\ndiligence from an investor is:",
+        "image": "",
+        "options": {
+            "A": "A.fund investing.",
+            "B": "B.co-investing.",
+            "C": "C.direct investing."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Due diligence in direct investing will usually be more thorough and\nmore rigid from an investor\u2019s perspective because of the absence of a fund manager that would\notherwise conduct a large portion of the necessary due diligence. \uff1aC\u662f\u6b63\u786e\u7684\u3002\u4ece\u6295\u8d44\u8005\u7684\u89d2\u5ea6\u6765\n\u770b\uff0c\u76f4\u63a5\u6295\u8d44\u7684\u5c3d\u804c\u8c03\u67e5\u901a\u5e38\u4f1a\u66f4\u5f7b\u5e95\u3001\u66f4\u4e25\u683c\uff0c\u56e0\u4e3a\u6ca1\u6709\u4e00\u4f4d\u57fa\u91d1\u7ecf\u7406\uff0c\u5426\u5219\u5c06\u8fdb\u884c\u5927\u90e8\u5206\u5fc5\u8981\u7684\u5c3d\u804c\u8c03\n\u67e5\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Direct investing, Due diligence, Fund management",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 4,
+        "question_text": "The majority of real estate property may be classified as either:",
+        "image": "",
+        "options": {
+            "A": "A.debt or equity.",
+            "B": "B.commercial or residential.",
+            "C": "C.direct ownership or indirect ownership."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The majority of real estate property may be classified as either\ncommercial or residential.\uff1aB\u662f\u6b63\u786e\u7684\u3002\u5927\u591a\u6570\u623f\u5730\u4ea7\u53ef\u5206\u4e3a\u5546\u4e1a\u5730\u4ea7\u6216\u4f4f\u5b85\u5730\u4ea7\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Real estate classification, Commercial real estate, Residential real estate",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 5,
+        "question_text": "In comparison to other alternative investment approaches, co-investing is most likely:",
+        "image": "",
+        "options": {
+            "A": "A.more expensive.",
+            "B": "B.subject to adverse selection bias.",
+            "C": "C.the most flexible approach for the investor."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Co-investing may be subject to adverse selection bias. For example,\nthe fund manager may make less attractive investment opportunities available to the co-investor\nwhile allocating its own capital to more appealing deals.A is incorrect because co-investing is\nlikely not more expensive than fund investing since co-investors can co-invest an additional\namount alongside the fund directly in a fund investment without paying management fees on the\ncapital that has been directly invested.C is incorrect because direct investing, not co-\ninvesting, provides the greatest amount of flexibility for the investor. B\u662f\u6b63\u786e\u7684\u3002\u5171\u540c\u6295\u8d44\u53ef\n\u80fd\u53d7\u5230\u9006\u5411\u9009\u62e9\u504f\u5dee\u7684\u5f71\u54cd\u3002\u4f8b\u5982\uff0c\u57fa\u91d1\u7ecf\u7406\u53ef\u80fd\u4f1a\u5411\u5171\u540c\u6295\u8d44\u8005\u63d0\u4f9b\u5438\u5f15\u529b\u8f83\u4f4e\u7684\u6295\u8d44\u673a\u4f1a\uff0c\u540c\u65f6\u5c06\u81ea\u5df1\n\u7684\u8d44\u672c\u5206\u914d\u7ed9\u66f4\u5177\u5438\u5f15\u529b\u7684\u4ea4\u6613\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5171\u540c\u6295\u8d44\u53ef\u80fd\u4e0d\u4f1a\u6bd4\u57fa\u91d1\u6295\u8d44\u66f4\u6602\u8d35\uff0c\u56e0\u4e3a\u5171\u540c\u6295\u8d44\u8005\n\u53ef\u4ee5\u4e0e\u57fa\u91d1\u4e00\u8d77\u76f4\u63a5\u5171\u540c\u6295\u8d44\u57fa\u91d1\u6295\u8d44\uff0c\u800c\u65e0\u9700\u652f\u4ed8\u76f4\u63a5\u6295\u8d44\u8d44\u672c\u7684\u7ba1\u7406\u8d39\u3002C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u76f4\u63a5\u6295\u8d44\n\uff0c\u800c\u4e0d\u662f\u5171\u540c\u6295\u8d44\uff0c\u4e3a\u6295\u8d44\u8005\u63d0\u4f9b\u4e86\u6700\u5927\u7684\u7075\u6d3b\u6027\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Co-investing, Adverse selection bias, Management fees",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 6,
+        "question_text": "A collateralized loan obligation specialist is most likely to:",
+        "image": "",
+        "options": {
+            "A": "A.sell its debt at a single interest rate.",
+            "B": "B.cater to niche borrowers in specific situations.",
+            "C": "C.rely on diverse risk profiles to complete deals."
+        },
+        "answer": "C",
+        "explanation": "C is correct. A CLO manager will extend several loans to corporations (usually to\nfirms involved in LBOs, corporate acquisitions, or other similar types of transactions), pool\nthese loans, and then divide that pool into various tranches of debt and equity that range in\nseniority and security. The CLO manager will then sell each tranche to different investors\naccording to their risk profiles; the most senior portion of the CLO will be the least risky,\nand the most junior portion of the CLO (i.e., equity) will be the riskiest. A is incorrect\nbecause with the different CLO tranches having distinct risks varying with their seniority and\nsecurity, they will be priced over a range of interest rates. In contrast, unitranche debt\ncombines different tranches of secured and unsecured debt into a single loan with a single,\nblended interest rate.B is incorrect because debt extended to niche borrowers in specific\nsituations is more commonly offered through specialty loans. For example, in litigation\nfinance, a specialist funding company provides debt to a client to finance the borrower\u2019s\nlegal fees and expenses in exchange for a portion of any case winnings. \uff1aC\u662f\u6b63\u786e\u7684\u3002CLO\u7ecf\u7406\u5c06\n\u5411\u516c\u53f8\uff08\u901a\u5e38\u662f\u53c2\u4e0e\u6760\u6746\u6536\u8d2d\u3001\u516c\u53f8\u6536\u8d2d\u6216\u5176\u4ed6\u7c7b\u4f3c\u4ea4\u6613\u7684\u516c\u53f8\uff09\u53d1\u653e\u51e0\u7b14\u8d37\u6b3e\uff0c\u5c06\u8fd9\u4e9b\u8d37\u6b3e\u96c6\u4e2d\u8d77\u6765\uff0c\u7136\n\u540e\u5c06\u8fd9\u4e9b\u8d37\u6b3e\u5206\u4e3a\u4e0d\u540c\u7684\u503a\u52a1\u548c\u80a1\u6743\uff0c\u8fd9\u4e9b\u503a\u52a1\u548c\u80a1\u6743\u5728\u7b49\u7ea7\u548c\u5b89\u5168\u6027\u65b9\u9762\u90fd\u6709\u4e0d\u540c\u3002\u7136\u540e\uff0cCLO\u7ecf\u7406\u5c06\u6839\u636e\n\u4e0d\u540c\u6295\u8d44\u8005\u7684\u98ce\u9669\u72b6\u51b5\uff0c\u5c06\u6bcf\u4e00\u90e8\u5206\u51fa\u552e\u7ed9\u4e0d\u540c\u7684\u6295\u8d44\u8005\uff1bCLO\u4e2d\u6700\u9ad8\u7ea7\u7684\u90e8\u5206\u98ce\u9669\u6700\u4f4e\uff0c\u6700\u4f4e\u7ea7\u7684\u90e8\u5206\uff08\u5373\n\u80a1\u6743\uff09\u98ce\u9669\u6700\u9ad8\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u4e0d\u540c\u7684CLO\u4efd\u989d\u5177\u6709\u4e0d\u540c\u7684\u98ce\u9669\uff0c\u968f\u7740\u5176\u8d44\u5386\u548c\u5b89\u5168\u6027\u7684\u4e0d\u540c\uff0c\u5b83\u4eec\u5c06\n\u5728\u4e00\u7cfb\u5217\u5229\u7387\u4e0a\u5b9a\u4ef7\u3002\u76f8\u6bd4\u4e4b\u4e0b\uff0cunitranche\u503a\u52a1\u5c06\u4e0d\u540c\u7684\u6709\u62c5\u4fdd\u548c\u65e0\u62c5\u4fdd\u503a\u52a1\u7ec4\u5408\u6210\u5355\u4e00\u8d37\u6b3e\uff0c\u5229\u7387\u4e3a\u5355\n\u4e00\u6df7\u5408\u5229\u7387\u3002B\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5728\u7279\u5b9a\u60c5\u51b5\u4e0b\uff0c\u5ef6\u4f38\u5230\u5229\u57fa\u501f\u6b3e\u4eba\u7684\u503a\u52a1\u901a\u5e38\u901a\u8fc7\u4e13\u4e1a\u8d37\u6b3e\u63d0\u4f9b\u3002\u4f8b\u5982\uff0c\u5728\n\u8bc9\u8bbc\u878d\u8d44\u4e2d\uff0c\u4e13\u4e1a\u878d\u8d44\u516c\u53f8\u5411\u5ba2\u6237\u63d0\u4f9b\u503a\u52a1\uff0c\u4e3a\u501f\u6b3e\u4eba\u7684\u6cd5\u5f8b\u8d39\u7528\u548c\u5f00\u652f\u63d0\u4f9b\u8d44\u91d1\uff0c\u4ee5\u6362\u53d6\u4efb\u4f55\u6848\u4ef6\u8d62\u6b3e\u7684\n\u4e00\u90e8\u5206\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Collateralized Loan Obligation (CLO), Tranches, Risk Profiles",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 7,
+        "question_text": "Which of the following statements is true for REITs?",
+        "image": "",
+        "options": {
+            "A": "A.According to GAAP, equity REITs are exempt from reporting earnings per share.",
+            "B": "B.Though equity REIT correlations with other asset classes are typically moderate, they are\nhighest during steep market downturns.",
+            "C": "C.The REIT corporation pays taxes on income, and the REIT shareholder pays taxes on the REIT\u2019s"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Real estate investments, including REITs, provide important portfolio\nbenefits due to moderate correlation with other asset classes. However, there are periods when\nequity REIT correlations with other securities are high, and their correlations are highest\nduring steep market downturns.A is incorrect because equity REITs, like other public companies,\nmust report earnings per share based on net income as defined by GAAP or IFRS.C is incorrect\nbecause REITs can avoid this double taxation. A REIT can avoid corporate income taxation by\ndistributing dividends equal to 90%\u2013100% of its taxable net rental income. This ability to\navoid double taxation is the main appeal of the REIT structure. \uff1aB\u662f\u6b63\u786e\u7684\u3002\u623f\u5730\u4ea7\u6295\u8d44\uff0c\u5305\u62ec\u623f\n\u5730\u4ea7\u6295\u8d44\u4fe1\u6258\uff0c\u7531\u4e8e\u5b83\u4e0e\u5176\u4ed6\u8d44\u4ea7\u7c7b\u522b\u7684\u76f8\u5173\u6027\u9002\u4e2d\uff0c\u6240\u4ee5\u5b83\u80fd\u591f\u7ed9\u6295\u8d44\u7ec4\u5408\u63d0\u4f9b\u91cd\u8981\u7684\u6536\u76ca\u3002\u7136\u800c\uff0c\u5728\u67d0\n\u4e9b\u65f6\u671f\uff0c\u80a1\u7968\u578bREIT\u4e0e\u5176\u4ed6\u8bc1\u5238\u7684\u76f8\u5173\u6027\u8f83\u9ad8\uff0c\u5f53\u5e02\u573a\u6025\u5267\u4e0b\u8dcc\u65f6\uff0c\u5b83\u4eec\u7684\u76f8\u5173\u6027\u6700\u9ad8\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\n\u80a1\u6743REIT\u548c\u5176\u4ed6\u4e0a\u5e02\u516c\u53f8\u4e00\u6837\uff0c\u5fc5\u987b\u6839\u636eGAAP\u6216IFRS\u5b9a\u4e49\u7684\u51c0\u6536\u5165\u62a5\u544a\u6bcf\u80a1\u6536\u76ca\u3002C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3aREIT\u53ef\n\u4ee5\u907f\u514d\u8fd9\u79cd\u53cc\u91cd\u5f81\u7a0e\u3002REIT\u53ef\u4ee5\u901a\u8fc7\u5206\u914d\u76f8\u5f53\u4e8e\u5176\u5e94\u7eb3\u7a0e\u51c0\u79df\u91d1\u6536\u516590%-100%\u7684\u80a1\u606f\u6765\u907f\u514d\u4f01\u4e1a\u6240\u5f97\u7a0e\u3002\u907f\n\u514d\u53cc\u91cd\u5f81\u7a0e\u7684\u80fd\u529b\u662fREIT\u7ed3\u6784\u7684\u4e3b\u8981\u5438\u5f15\u529b\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "REITs, Correlation with other assets, Dividend distribution",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 8,
+        "question_text": "Capricorn Fund of Funds invests GBP 100 million in each of Alpha Hedge Fund and ABC Hedge\nFund. Capricorn FOF has a \u201c1 and 10\u201d fee structure. Management fees and incentive fees are\ncalculated independently at the end of each year. After one year, net of their respective\nmanagement and incentive fees, the investment in Alpha is valued at GBP80 million and the\ninvestment in ABC is valued at GBP140 million. The annual return to an investor in Capricorn,\nnet of fees assessed at the fund of funds level, is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.7.9%.",
+            "B": "B.8.0%.",
+            "C": "C.8.1%."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Because the net investor return is 7.9%, calculated as: First, note\nthat \u201c1 and 10\u201d refers to a 1% management fee, and a 10% incentive fee. End of year capital =\nGBP140 million\uff0b GBP80 million = GBP220 million\uff0e Management fee = GBP220 million \u00d7 1% =\nGBP2.2 million\uff0e Incentive fee = (GBP220\uff0dGBP200) million \u00d7 10% = GBP2 million\uff0e Total fees to\nCapricorn = (GBP2.2 \uff0bGBP2) million = GBP4.2 million\uff0e Investor net return: (GBP220\n\uff0dGBP200\uff0dGBP4.2) / GBP200 = 7.9% \uff1a A\u662f\u6b63\u786e\u7684\u3002\u56e0\u4e3a\u6295\u8d44\u8005\u51c0\u56de\u62a5\u7387\u4e3a7.9%\uff0c\u8ba1\u7b97\u5982\u4e0b\uff1a \u9996\u5148\uff0c\u8bf7\u6ce8\n\u610f\uff0c\u201c1\u548c10\u201d\u662f\u63071%\u7684\u7ba1\u7406\u8d39\u548c10%\u7684\u6fc0\u52b1\u8d39\u3002 \u671f\u672b\u8d26\u6237\u503c= GBP140 million \uff0bGBP80 million = GBP220\nmillion\uff0e \u7ba1\u7406\u8d39= GBP220 million \u00d7 1% = GBP2.2 million\uff0e \u6fc0\u52b1\u8d39= (GBP220 \uff0d GBP200) million \u00d7\n10% = GBP2 million\uff0e \u603b\u8d39\u7528 = (GBP2.2\uff0bGBP2) million = GBP4.2 million\uff0e \u6295\u8d44\u8005\u51c0\u56de\u62a5\u7387: (GBP220\n\uff0d GBP200 \uff0d GBP4.2) / GBP200 = 7.9%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Fee Structures, Fund Performance Calculation, Incentive Fees",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 9,
+        "question_text": "A hedge fund has the following fee structure: Annual management fee based on year-end AUM 2%\nIncentive fee 20% Hurdle rate before incentive fee collection starts 4% Current high-water mark\n$610 million The fund has a value of $583.1 million at the beginning of the year. After one\nyear, it has a value of $642 million before fees. The net return to an investor for this year\nis closest to:",
+        "image": "",
+        "options": {
+            "A": "A.6.72%.",
+            "B": "B.6.80%.",
+            "C": "C.7.64%."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The management fee for the year is$642 \u00d7 0.02 = $12.84 million.\nBecause the ending value exceeds the high-water mark, the hedge fund can collect an incentive\nfee. The incentive fee is{$642 \u2013 [$610 \u00d7 (1\uff0b 0.04)]} \u00d7 0.20 = $1.52 million. The net return\nto the investor for the year is[($642 \u2013 $12.84 \u2013 $1.52)/$583.1] \u2013 1 = 7.64%. \uff1a C\u662f\u6b63\u786e\u7684\u3002\n\u672c\u5e74\u5ea6\u7684\u7ba1\u7406\u8d39\u4e3a\uff1a $642 \u00d7 0.02 = $12.84 million. \u7531\u4e8e\u671f\u672b\u503c\u8d85\u8fc7\u4e86\u9ad8\u6c34\u4f4d\u7ebf\uff0c\u56e0\u6b64\u53ef\u4ee5\u6536\u53d6\u6fc0\u52b1\u8d39\n\uff1a {$642 \u2013 [$610 \u00d7 (1\uff0b 0.04)]} \u00d7 0.20 = $1.52 million. \u672c\u5e74\u6295\u8d44\u8005\u51c0\u56de\u62a5\u7387\uff1a [($642 \u2013\n$12.84 \u2013 $1.52)/$583.1] \u2013 1 = 7.64%",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Hedge fund fee structure, Incentive fees, High-water mark",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 10,
+        "question_text": "An investor seeks a current income stream as a component of total return, and desires an\ninvestment that historically has low correlation with other asset classes. The investment most\nlikely to achieve the investor\u2019s goals is:",
+        "image": "",
+        "options": {
+            "A": "A.timberland.",
+            "B": "B.collectibles.",
+            "C": "C.commodities."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Timberland offers an income stream based on the sale of timber\nproducts as a component of total return and has historically generated returns not highly\ncorrelated with other asset classes. \uff1a A\u662f\u6b63\u786e\u7684\u3002\u6797\u5730\u63d0\u4f9b\u4e86\u4e00\u4e2a\u57fa\u4e8e\u6728\u6750\u4ea7\u54c1\u9500\u552e\u7684\u6536\u5165\uff0c\u4f5c\u4e3a\u603b\n\u56de\u62a5\u7684\u4e00\u90e8\u5206\uff0c\u5e76\u4e14\u5386\u53f2\u4e0a\u4ea7\u751f\u7684\u56de\u62a5\u4e0e\u5176\u4ed6\u8d44\u4ea7\u7c7b\u522b\u7684\u76f8\u5173\u6027\u4e0d\u9ad8\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Alternative investments, Portfolio management, Asset correlation",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 11,
+        "question_text": "Risks in infrastructure investing are most likely greatest when the project involves:",
+        "image": "",
+        "options": {
+            "A": "A.construction of infrastructure assets.",
+            "B": "B.investment in existing infrastructure assets.",
+            "C": "C.investing in assets that will be leased back to a government."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Infrastructure projects involving construction have more risk than\ninvestments in existing assets with a demonstrated cash flow or investments in assets that are\nexpected to generate regular cash flows. \uff1aA\u662f\u6b63\u786e\u7684\u3002\u6d89\u53ca\u5efa\u8bbe\u7684\u57fa\u7840\u8bbe\u65bd\u9879\u76ee\u7684\u98ce\u9669\u9ad8\u4e8e\u5bf9\u4ea7\u751f\u73b0\n\u91d1\u6d41\u7684\u73b0\u6709\u8d44\u4ea7\u7684\u6295\u8d44\uff0c\u6216\u8005\u9ad8\u4e8e\u5c06\u4ea7\u751f\u6b63\u5e38\u73b0\u91d1\u6d41\u7684\u8d44\u4ea7\u7684\u6295\u8d44\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Infrastructure project risk, Construction risk, Cash flow stability",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 12,
+        "question_text": "As the loan-to-value ratio increases for a real estate investment, risk most likely\nincreases for:",
+        "image": "",
+        "options": {
+            "A": "A.debt investors only.",
+            "B": "B.equity investors only.",
+            "C": "C.both debt and equity investors."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The higher the loan-to-value ratio, the higher leverage is for a real\nestate investment, which increases the risk to both debt and equity investors. \uff1aC\u662f\u6b63\u786e\u7684\u3002\u8d37\n\u6b3e\u4ef7\u503c\u6bd4\u8d8a\u9ad8\uff0c\u623f\u5730\u4ea7\u6295\u8d44\u7684\u6760\u6746\u7387\u8d8a\u9ad8\uff0c\u8fd9\u4f1a\u589e\u52a0\u503a\u52a1\u548c\u80a1\u6743\u6295\u8d44\u8005\u7684\u98ce\u9669\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Leverage, Loan-to-value ratio, Real estate investment risk",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 13,
+        "question_text": "Private equity funds are most likely to use:",
+        "image": "",
+        "options": {
+            "A": "A.merger arbitrage strategies.",
+            "B": "B.leveraged buyouts.",
+            "C": "C.market-neutral strategies."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The majority of private equity activity involves leveraged buyouts.\nMerger arbitrage and market neutral are strategies used by hedge funds. \uff1a B\u662f\u6b63\u786e\u7684\u3002\u79c1\u52df\u80a1\u6743\n\u4e2d\u5305\u62ec\u6760\u6746\u6536\u8d2d\u6295\u8d44\u3002\u5408\u5e76\u5957\u5229\u548c\u5e02\u573a\u4e2d\u6027\u662f\u5bf9\u51b2\u57fa\u91d1\u4f7f\u7528\u7684\u7b56\u7565\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Private equity, Leveraged buyouts, Hedge fund strategies",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 14,
+        "question_text": "An alternative investment fund\u2019s hurdle rate is a:",
+        "image": "",
+        "options": {
+            "A": "A.rate unrelated to a catch-up clause.",
+            "B": "B.tool to protect clients from paying twice for the same performance.",
+            "C": "C.minimum rate of return the GP must exceed in order to earn a performance fee."
+        },
+        "answer": "C",
+        "explanation": "C is correct. An alternative investment fund\u2019s hurdle rate is a minimum rate of\nreturn the GP must exceed in order to earn a performance fee.A is incorrect because if a catch-\nup clause is included in the partnership agreement, the catch-up clause permits distributions\nin relation to the hurdle rate.B is incorrect because it is a high-water mark (not a hurdle\nrate) that protects clients from paying twice for the same performance. \uff1aC\u662f\u6b63\u786e\u7684\u3002\u53e6\u7c7b\u6295\u8d44\u57fa\n\u91d1\u7684\u6700\u4f4e\u56de\u62a5\u7387\u662fGP\u4e3a\u8d5a\u53d6\u7ee9\u6548\u8d39\u5fc5\u987b\u8d85\u8fc7\u7684\u6700\u4f4e\u56de\u62a5\u7387\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5982\u679c\u5408\u4f19\u534f\u8bae\u4e2d\u5305\u542b\u8ffd\u8d76\u6761\u6b3e\n\uff0c\u8ffd\u8d76\u6761\u6b3e\u5141\u8bb8\u4e0e\u6700\u4f4e\u5229\u7387\u76f8\u5173\u7684\u5206\u914d\u3002B\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5b83\u662f\u4e00\u4e2a\u9ad8\u6c34\u4f4d\u7ebf\uff08\u4e0d\u662f\u4e00\u4e2a\u6700\u4f4e\u8981\u6c42\u56de\u62a5\u7387\n\uff09\uff0c\u53ef\u4ee5\u4fdd\u62a4\u5ba2\u6237\u4e0d\u4e3a\u76f8\u540c\u7684\u6027\u80fd\u652f\u4ed8\u4e24\u500d\u7684\u8d39\u7528\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Alternative investments, Performance fees, High-water marks",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 15,
+        "question_text": "Which of the following statements is true regarding mortgage-backed securities?",
+        "image": "",
+        "options": {
+            "A": "A.Insurance companies prefer the first-loss tranche.",
+            "B": "B.When interest rates rise, prepayments will likely accelerate.",
+            "C": "C.When interest rates fall, the low-risk senior tranche will amortize more quickly."
+        },
+        "answer": "C",
+        "explanation": "C is correct. When interest rates decline, borrowers are likely to refinance their\nloans at a faster pace than before, resulting in faster amortization of each MBS tranche,\nincluding the senior tranche, which is the lowest-risk tranche.A is incorrect because risk-\naverse investors, primarily insurance companies, prefer the lowest-risk tranches, which are the\nfirst to receive interest and principal. The junior-most tranche is referred to as the first-\nloss tranche. It is the highest-risk tranche and is the last to receive interest and principal\ndistributions.B is incorrect because when interest rates rise, prepayments will likely slow\ndown, lengthening the duration of most MBS tranches. Prepayments will likely increase when\ninterest rates decline, because borrowers are likely to refinance their loans at a faster pace.\n\uff1aC\u662f\u6b63\u786e\u7684\u3002\u5f53\u5229\u7387\u4e0b\u964d\u65f6\uff0c\u501f\u6b3e\u4eba\u53ef\u80fd\u4f1a\u66f4\u5feb\u5f97\u8fdb\u884c\u518d\u878d\u8d44\uff0c\u5bfc\u81f4MBS\u6bcf\u4e2a\u5c42\u7ea7\u7684\u644a\u9500\u901f\u5ea6\u66f4\u5feb\u4e86\uff0c\u5305\u62ec\n\u98ce\u9669\u6700\u4f4e\u7684\u9ad8\u7ea7\u5c42\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u538c\u6076\u98ce\u9669\u7684\u6295\u8d44\u8005\uff0c\u4e3b\u8981\u662f\u4fdd\u9669\u516c\u53f8\uff0c\u66f4\u559c\u6b22\u98ce\u9669\u6700\u4f4e\u7684\u90e8\u5206\uff0c\u8fd9\u4e9b\n\u90e8\u5206\u9996\u5148\u83b7\u5f97\u5229\u606f\u548c\u672c\u91d1\u3002\u6700\u6b21\u8981\u7684\u90e8\u5206\u79f0\u4e3a\u7b2c\u4e00\u635f\u5931\u90e8\u5206\u3002\u8fd9\u662f\u98ce\u9669\u6700\u9ad8\u7684\u90e8\u5206\uff0c\u4e5f\u662f\u6700\u540e\u4e00\u4e2a\u83b7\u5f97\u5229\u606f\n\u548c\u672c\u91d1\u5206\u914d\u7684\u90e8\u5206\u3002B\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5f53\u5229\u7387\u4e0a\u5347\u65f6\uff0c\u9884\u4ed8\u6b3e\u53ef\u80fd\u4f1a\u653e\u7f13\uff0c\u5ef6\u957f\u5927\u591a\u6570MBS\u90e8\u5206\u7684\u671f\u9650\u3002\u5f53\n\u5229\u7387\u4e0b\u964d\u65f6\uff0c\u9884\u4ed8\u6b3e\u53ef\u80fd\u4f1a\u589e\u52a0\uff0c\u56e0\u4e3a\u501f\u6b3e\u4eba\u53ef\u80fd\u4f1a\u4ee5\u66f4\u5feb\u7684\u901f\u5ea6\u4e3a\u8d37\u6b3e\u518d\u878d\u8d44\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Mortgage-Backed Securities (MBS), Interest Rate Risk, Prepayment Risk",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 16,
+        "question_text": "Hedge funds are similar to private equity funds in that both:",
+        "image": "",
+        "options": {
+            "A": "A.are typically structured as partnerships.",
+            "B": "B.assess management fees based on assets under management.",
+            "C": "C.do not earn an incentive fee until the initial investment is repaid."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Private equity funds and hedge funds are typically structured as\npartnerships where investors are limited partners (LP) and the fund is the general partner\n(GP). The management fee for private equity funds is based on committed capital whereas for\nhedge funds the management fees are based on assets under management. For most private equity\nfunds, the general partner does not earn an incentive fee until the limited partners have\nreceived their initial investment back. \uff1aA\u662f\u6b63\u786e\u7684\u3002\u79c1\u52df\u80a1\u6743\u57fa\u91d1\u548c\u5bf9\u51b2\u57fa\u91d1\u7684\u7ed3\u6784\u901a\u5e38\u4e3a\u5408\u4f19\u5236\n\uff0c\u6295\u8d44\u8005\u4e3a\u6709\u9650\u5408\u4f19\u4eba\uff0c\u57fa\u91d1\u4e3a\u666e\u901a\u5408\u4f19\u4eba\u3002\u79c1\u52df\u80a1\u6743\u57fa\u91d1\u7684\u7ba1\u7406\u8d39\u57fa\u4e8e\u627f\u8bfa\u8d44\u672c\uff0c\u800c\u5bf9\u51b2\u57fa\u91d1\u7684\u7ba1\u7406\u8d39\u57fa\n\u4e8e\u7ba1\u7406\u7684\u8d44\u4ea7\u3002\u5bf9\u4e8e\u5927\u591a\u6570\u79c1\u52df\u80a1\u6743\u57fa\u91d1\u800c\u8a00\uff0c\u666e\u901a\u5408\u4f19\u4eba\u5728\u6709\u9650\u5408\u4f19\u4eba\u6536\u56de\u5176\u521d\u59cb\u6295\u8d44\u4e4b\u524d\u4e0d\u4f1a\u83b7\u5f97\u6fc0\u52b1\n\u8d39\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fund structures, Management fees, Incentive fees",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 17,
+        "question_text": "Which of the following is true regarding private equity performance calculations?",
+        "image": "",
+        "options": {
+            "A": "A.The money multiple calculation relies on the amount and timing of cash flows.",
+            "B": "B.The IRR calculation involves the assumption of two rates.",
+            "C": "C.Because private equity funds have low volatility, accounting conventions allow them to use a"
+        },
+        "answer": "B",
+        "explanation": "B is correct. The determination of an IRR involves certain assumptions about a\nfinancing rate to use for outgoing cash flows (typically a weighted average cost of capital)\nand a reinvestment rate assumption to make on incoming cash flows (which must be assumed and\nmay or may not actually be earned).A is incorrect because the money multiple calculation\ncompletely ignores the timing of cash flows.C is incorrect because it is somewhat of a reversal\nof cause and effect: Private equity (PE) funds can appear to have low volatility because of the\nlag in their mark-to-market process. It\u2019s not that PE investments don\u2019t actually rise and\nfall behind the scenes with economic influences, but accounting conventions may simply leave\nlonger-lived investments marked at their initial cost for some time or with only modest\nadjustments to such carrying value until known impairments or realization events begin to\ntranspire. Also, because PE funds are not easily marked to market, their returns can appear\nsomewhat smoothed, making them appear more resilient and less correlated with other assets than\nthey really are. The slowness to re-mark them can unfortunately be confused by investors as an\noverall lack of volatility.\uff1aB\u662f\u6b63\u786e\u7684\u3002\u5185\u90e8\u6536\u76ca\u7387\u7684\u786e\u5b9a\u5305\u62ec\u5bf9\u7528\u4e8e\u73b0\u91d1\u6d41\u6d41\u51fa\uff08\u901a\u5e38\u4e3a\u52a0\u6743\u5e73\u5747\u8d44\n\u672c\u6210\u672c\uff09\u7684\u878d\u8d44\u7387\u7684\u5047\u8bbe\uff0c\u4ee5\u53ca\u5bf9\u73b0\u91d1\u6d41\u6d41\u5165\uff08\u5fc5\u987b\u5047\u8bbe\u4e14\u53ef\u80fd\u8d5a\u53d6\u6216\u53ef\u80fd\u4e0d\u4f1a\u8d5a\u53d6\uff09\u7684\u518d\u6295\u8d44\u7387\u7684\u5047\u8bbe\u3002\nA\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u8d27\u5e01\u500d\u6570\u8ba1\u7b97\u5b8c\u5168\u5ffd\u7565\u4e86\u73b0\u91d1\u6d41\u7684\u65f6\u95f4\u3002C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5b83\u5728\u67d0\u79cd\u7a0b\u5ea6\u4e0a\u662f\u56e0\u679c\u98a0\u5012\n\u7684\uff1a\u79c1\u52df\u80a1\u6743\uff08PE\uff09\u57fa\u91d1\u53ef\u80fd\u56e0\u4e3a\u5176\u6309\u5e02\u503c\u8ba1\u4ef7\u8fc7\u7a0b\u7684\u6ede\u540e\u800c\u8868\u73b0\u51fa\u8f83\u4f4e\u7684\u6ce2\u52a8\u6027\u3002\u8fd9\u5e76\u4e0d\u662f\u8bf4\u79c1\u52df\u80a1\u6743\u6295\n\u8d44\u5b9e\u9645\u4e0a\u4e0d\u4f1a\u968f\u7740\u7ecf\u6d4e\u5f71\u54cd\u800c\u5728\u5e55\u540e\u6da8\u843d\uff0c\u800c\u662f\u4f1a\u8ba1\u60ef\u4f8b\u53ef\u80fd\u53ea\u4f1a\u8ba9\u5bff\u547d\u8f83\u957f\u7684\u6295\u8d44\u5728\u4e00\u6bb5\u65f6\u95f4\u5185\u4ee5\u521d\u59cb\u6210\n\u672c\u8ba1\u4ef7\uff0c\u6216\u8005\u5728\u5df2\u77e5\u7684\u51cf\u503c\u6216\u53d8\u73b0\u4e8b\u4ef6\u5f00\u59cb\u53d1\u751f\u4e4b\u524d\uff0c\u53ea\u5bf9\u8fd9\u4e9b\u8d26\u9762\u4ef7\u503c\u8fdb\u884c\u9002\u5ea6\u8c03\u6574\u3002\u6b64\u5916\uff0c\u7531\u4e8e\u79c1\u52df\u80a1\n\u6743\u57fa\u91d1\u4e0d\u5bb9\u6613\u6309\u5e02\u503c\u8ba1\u4ef7\uff0c\u5b83\u4eec\u7684\u56de\u62a5\u53ef\u80fd\u4f1a\u663e\u5f97\u8f83\u4e3a\u5e73\u7a33\uff0c\u4f7f\u5b83\u4eec\u770b\u8d77\u6765\u66f4\u5177\u5f39\u6027\uff0c\u4e0e\u5176\u4ed6\u8d44\u4ea7\u7684\u76f8\u5173\u6027\n\u4e5f\u6bd4\u5b9e\u9645\u60c5\u51b5\u8981\u5c0f\u3002\u4e0d\u5e78\u7684\u662f\uff0c\u6295\u8d44\u8005\u53ef\u80fd\u4f1a\u628a\u91cd\u65b0\u6807\u8bb0\u5b83\u4eec\u7684\u7f13\u6162\u7a0b\u5ea6\u6df7\u6dc6\u4e3a\u603b\u4f53\u7f3a\u4e4f\u6ce2\u52a8\u6027\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Private equity performance measurement, Internal Rate of Return (IRR) assumptions, Timing of cash flows",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 18,
+        "question_text": "A characteristic of farmland strongly distinguishing it from timberland is its:",
+        "image": "",
+        "options": {
+            "A": "A.commodity price-driven returns.",
+            "B": "B.inherent rigidity of production for output.",
+            "C": "C.value as an offset to other human activities."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Unlike timberland products, farm products must be harvested when\nripe, so there is little flexibility in the production process. In contrast, timber (trees) can\nbe grown and easily \u201cstored\u201d by simply not harvesting. This feature offers the flexibility of\nharvesting more trees when timber prices are up and delaying harvests when prices are down. A\nis incorrect because just as a primary return driver for timberland is change in commodity\nprice (of lumber from cut wood) in either the spot or futures price, farmland\u2019s returns are\ndriven by agricultural commodity prices, with commodity futures contracts potentially combined\nwith farmland holdings to generate an overall hedged return. C is incorrect because for both\nfarmland and timberland owned or leased for the benefit of the bounty each generates in the\nform of crops and more broadly timber, since these resources consume carbon as part of the\nplant life cycle, the considered value comes not just from the harvest but also from the offset\nto other human activities.\uff1aB\u662f\u6b63\u786e\u7684\u3002\u4e0e\u6797\u5730\u4ea7\u54c1\u4e0d\u540c\uff0c\u519c\u4ea7\u54c1\u5fc5\u987b\u5728\u6210\u719f\u65f6\u6536\u5272\uff0c\u56e0\u6b64\u751f\u4ea7\u8fc7\u7a0b\u51e0\u4e4e\n\u6ca1\u6709\u7075\u6d3b\u6027\u3002\u76f8\u53cd\uff0c\u6728\u6750\uff08\u6811\u6728\uff09\u53ef\u4ee5\u901a\u8fc7\u7b80\u5355\u7684\u4e0d\u91c7\u4f10\u6765\u751f\u957f\u548c\u5bb9\u6613\u5730\u201c\u50a8\u5b58\u201d\u3002\u8fd9\u9879\u529f\u80fd\u63d0\u4f9b\u4e86\u5728\u6728\u6750\n\u4ef7\u683c\u4e0a\u6da8\u65f6\u6536\u83b7\u66f4\u591a\u6811\u6728\u548c\u5728\u4ef7\u683c\u4e0b\u8dcc\u65f6\u63a8\u8fdf\u6536\u83b7\u7684\u7075\u6d3b\u6027\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u6b63\u5982t\u6797\u5730\u7684\u4e3b\u8981\u56de\u62a5\u9a71\u52a8\n\u56e0\u7d20\u662f\u73b0\u8d27\u6216\u671f\u8d27\u4ef7\u683c\u4e2d\u5546\u54c1\u4ef7\u683c\u7684\u53d8\u5316\u4e00\u6837\uff0c\u519c\u7530\u7684\u56de\u62a5\u7531\u519c\u4e1a\u5546\u54c1\u4ef7\u683c\u9a71\u52a8\uff0c\u5546\u54c1\u671f\u8d27\u5408\u540c\u53ef\u80fd\u4e0e\u519c\u7530\n\u6301\u6709\u91cf\u76f8\u7ed3\u5408\uff0c\u4ee5\u4ea7\u751f\u6574\u4f53\u5bf9\u51b2\u56de\u62a5\u3002C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5bf9\u4e8e\u4ee5\u519c\u4f5c\u7269\u548c\u66f4\u5e7f\u6cdb\u7684\u6728\u6750\u5f62\u5f0f\u4ea7\u751f\u7684\u8d4f\u91d1\u4e3a\u76ee\n\u7684\u800c\u62e5\u6709\u6216\u79df\u8d41\u7684\u519c\u7530\u548c\u6797\u5730\uff0c\u7531\u4e8e\u8fd9\u4e9b\u8d44\u6e90\u4f5c\u4e3a\u690d\u7269\u751f\u547d\u5468\u671f\u7684\u4e00\u90e8\u5206\u6d88\u8017\u78b3\uff0c\u6240\u8003\u8651\u7684\u4ef7\u503c\u4e0d\u4ec5\u6765\u81ea\u6536\n\u83b7\uff0c\u8fd8\u6765\u81ea\u5bf9\u5176\u4ed6\u4eba\u7c7b\u6d3b\u52a8\u7684\u62b5\u6d88\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Real Assets, Commodity Price Risk, Harvest Timing",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 19,
+        "question_text": "A private equity fund desiring to realize an immediate and complete cash exit from a\nportfolio company is most likely to pursue a(n):",
+        "image": "",
+        "options": {
+            "A": "A.IPO.",
+            "B": "B.trade sale.",
+            "C": "C.recapitalization."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Private equity funds can realize an immediate cash exit in a trade\nsale. Using this strategy, the portfolio company is typically sold to a strategic buyer. \uff1a B\u662f\n\u6b63\u786e\u7684\u3002\u79c1\u52df\u80a1\u6743\u57fa\u91d1\u53ef\u4ee5\u5728\u4ea4\u6613\u51fa\u552e\u4e2d\u5b9e\u73b0\u5373\u671f\u73b0\u91d1\u6d41\u3002\u5229\u7528\u8fd9\u79cd\u7b56\u7565\uff0c\u6295\u8d44\u7ec4\u5408\u516c\u53f8\u901a\u5e38\u88ab\u51fa\u552e\u7ed9\u6218\u7565\n\u4e70\u5bb6\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Private equity, Exit strategies, Trade sale",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 20,
+        "question_text": "Until the committed capital is fully drawn down and invested, the management fee for a\nprivate equity fund is based on:",
+        "image": "",
+        "options": {
+            "A": "A.invested capital.",
+            "B": "B.committed capital.",
+            "C": "C.assets under management."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Until the committed capital is fully drawn down and invested, the\nmanagement fee for a private equity fund is based on committed capital, not invested capital.\n\uff1a B\u662f\u6b63\u786e\u7684\u3002\u5728\u627f\u8bfa\u8d44\u672c\u5168\u90e8\u63d0\u53d6\u548c\u6295\u8d44\u4e4b\u524d\uff0c\u79c1\u52df\u80a1\u6743\u57fa\u91d1\u7684\u7ba1\u7406\u8d39\u662f\u57fa\u4e8e\u627f\u8bfa\u8d44\u672c\uff0c\u800c\u4e0d\u662f\u6295\u8d44\u8d44\u672c\n\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Private Equity, Management Fee, Committed Capital",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 21,
+        "question_text": "Both event-driven and macro hedge fund strategies use:",
+        "image": "",
+        "options": {
+            "A": "A.long\u2013short positions.",
+            "B": "B.a top-down approach.",
+            "C": "C.long-term market cycles."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Long\u2013short positions are used by both types of hedge funds to\npotentially profit from anticipated market or security moves. Event-driven strategies use a\nbottom-up approach and seek to profit from short-term events typically involving a corporate\naction, such as an acquisition or a restructuring. Macro strategies seek to profit from\nexpected movements in evolving economic variables. \uff1aA\u662f\u6b63\u786e\u7684\u3002\u4e24\u79cd\u7c7b\u578b\u7684\u5bf9\u51b2\u57fa\u91d1\u90fd\u5229\u7528\u591a\u7a7a\u5934\n\u5bf8\u4ece\u9884\u671f\u7684\u5e02\u573a\u6216\u8bc1\u5238\u8d70\u52bf\u4e2d\u83b7\u5229\u3002\u4e8b\u4ef6\u9a71\u52a8\u578b\u6218\u7565\u91c7\u7528\u81ea\u4e0b\u800c\u4e0a\u7684\u65b9\u6cd5\uff0c\u5bfb\u6c42\u4ece\u901a\u5e38\u6d89\u53ca\u516c\u53f8\u884c\u4e3a\uff08\u5982\u6536\n\u8d2d\u6216\u91cd\u7ec4\uff09\u7684\u77ed\u671f\u4e8b\u4ef6\u4e2d\u83b7\u5229\u3002\u5b8f\u89c2\u6218\u7565\u5bfb\u6c42\u4ece\u4e0d\u65ad\u53d8\u5316\u7684\u7ecf\u6d4e\u53d8\u91cf\u7684\u9884\u671f\u53d8\u5316\u4e2d\u83b7\u5229\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Fund Strategies, Long-Short Positions, Event-Driven Strategies",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 22,
+        "question_text": "Hedge fund losses are most likely to be magnified by a:",
+        "image": "",
+        "options": {
+            "A": "A.margin call.",
+            "B": "B.lockup period.",
+            "C": "C.redemption notice period."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Margin calls can magnify losses. To meet the margin call, the hedge\nfund manager may be forced to liquidate a losing position in a security, which, depending on\nthe position size, could exert further price pressure on the security, resulting in further\nlosses. Restrictions on redemptions, such as lockup and notice periods, may allow the manager\nto close positions in a more orderly manner and minimize forced-sale liquidations of losing\npositions. \uff1aA\u6b63\u786e\u3002\u8ffd\u52a0\u4fdd\u8bc1\u91d1\u53ef\u4ee5\u653e\u5927\u635f\u5931\u3002\u4e3a\u4e86\u6ee1\u8db3\u8ffd\u52a0\u4fdd\u8bc1\u91d1\u7684\u8981\u6c42\uff0c\u5bf9\u51b2\u57fa\u91d1\u7ecf\u7406\u53ef\u80fd\u4f1a\u88ab\u8feb\u6e05\n\u7b97\u8bc1\u5238\u4e2d\u7684\u4e8f\u635f\u5934\u5bf8\uff0c\u8fd9\u53d6\u51b3\u4e8e\u5934\u5bf8\u89c4\u6a21\uff0c\u53ef\u80fd\u4f1a\u5bf9\u8bc1\u5238\u65bd\u52a0\u8fdb\u4e00\u6b65\u7684\u4ef7\u683c\u538b\u529b\uff0c\u5bfc\u81f4\u8fdb\u4e00\u6b65\u4e8f\u635f\u3002\u5bf9\u8d4e\u56de\n\u7684\u9650\u5236\uff0c\u5982\u9501\u5b9a\u671f\u548c\u901a\u77e5\u671f\uff0c\u53ef\u4ee5\u4f7f\u7ecf\u7406\u4eba\u4ee5\u66f4\u6709\u5e8f\u7684\u65b9\u5f0f\u5e73\u4ed3\uff0c\u5e76\u5c3d\u91cf\u51cf\u5c11\u5bf9\u635f\u5931\u5934\u5bf8\u7684\u5f3a\u5236\u5e73\u4ed3\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hedge Fund Risk Management, Margin Calls, Forced Liquidation",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 23,
+        "question_text": "Which of the following statements about commodity investing is invalid?",
+        "image": "",
+        "options": {
+            "A": "A.Few commodity investors trade actual physical commodities.",
+            "B": "B.Commodity producers and consumers both hedge and speculate.",
+            "C": "C.Commodity indexes are based on the price of physical commodities."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Commodity indexes typically use the price of futures contracts on the\ncommodities included in them rather than the prices of the physical commodities themselves in\norder to be transparent, investable, and replicable. A is incorrect because trading in physical\ncommodities is primarily limited to a smaller group of entities that are part of the physical\nsupply chain. Thus, most commodity investors do not trade actual physical commodities but,\nrather, trade commodity derivatives. B is incorrect because although supply chain participants\nuse futures to hedge their forward purchases and sales of the physical commodities, those\ncommodity producers and consumers nonetheless both hedge and speculate on commodity prices.\n\uff1aC\u662f\u6b63\u786e\u7684\u3002\u4e3a\u4e86\u900f\u660e\u3001\u53ef\u6295\u8d44\u548c\u53ef\u590d\u5236\uff0c\u5546\u54c1\u6307\u6570\u901a\u5e38\u4f7f\u7528\u5176\u6240\u542b\u5546\u54c1\u7684\u671f\u8d27\u5408\u7ea6\u4ef7\u683c\uff0c\u800c\u4e0d\u662f\u5b9e\u7269\u5546\u54c1\n\u672c\u8eab\u7684\u4ef7\u683c\u3002 A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5b9e\u7269\u5546\u54c1\u7684\u4ea4\u6613\u4e3b\u8981\u9650\u4e8e\u4f5c\u4e3a\u5b9e\u7269\u4f9b\u5e94\u94fe\u4e00\u90e8\u5206\u7684\u4e00\u5c0f\u90e8\u5206\u5b9e\u4f53\u3002\u56e0\u6b64\n\uff0c\u5927\u591a\u6570\u5546\u54c1\u6295\u8d44\u8005\u5e76\u4e0d\u4ea4\u6613\u5b9e\u9645\u7684\u5b9e\u7269\u5546\u54c1\uff0c\u800c\u662f\u4ea4\u6613\u5546\u54c1\u884d\u751f\u54c1\u3002 B\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5c3d\u7ba1\u4f9b\u5e94\u94fe\u53c2\u4e0e\n\u8005\u4f7f\u7528\u671f\u8d27\u6765\u5bf9\u51b2\u4ed6\u4eec\u5bf9\u5b9e\u7269\u5546\u54c1\u7684\u8fdc\u671f\u8d2d\u4e70\u548c\u9500\u552e\uff0c\u4f46\u8fd9\u4e9b\u5546\u54c1\u751f\u4ea7\u8005\u548c\u6d88\u8d39\u8005\u4ecd\u7136\u5bf9\u5546\u54c1\u4ef7\u683c\u8fdb\u884c\u5bf9\u51b2\n\u548c\u6295\u673a\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Commodity Investing, Futures Contracts, Hedging and Speculation",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 24,
+        "question_text": "Angel investing capital is typically provided in which stage of financing?",
+        "image": "",
+        "options": {
+            "A": "A.Later-stage.",
+            "B": "B.Formative-stage.",
+            "C": "C.Mezzanine-stage."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Formative-stage financing occurs when the company is still in the\nprocess of being formed and encompasses several financing steps. Angel investing capital is\ntypically raised in this early stage of financing. \uff1a B\u662f\u6b63\u786e\u7684\u3002\u5f62\u6210\u9636\u6bb5\u878d\u8d44\u662f\u6307\u516c\u53f8\u4ecd\u5728\u5f62\u6210\u8fc7\n\u7a0b\u4e2d\uff0c\u5305\u62ec\u82e5\u5e72\u878d\u8d44\u6b65\u9aa4\u3002\u5929\u4f7f\u6295\u8d44\u8d44\u672c\u901a\u5e38\u662f\u5728\u878d\u8d44\u7684\u65e9\u671f\u9636\u6bb5\u7b79\u96c6\u7684\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Angel investing, Formative-stage financing, Early-stage financing",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 25,
+        "question_text": "Which is not true of mark-to-model valuations?",
+        "image": "",
+        "options": {
+            "A": "A.Return volatility may be understated.",
+            "B": "B.Returns may be smooth and overstated.",
+            "C": "C.A calibrated model will produce a reliable liquidation value."
+        },
+        "answer": "C",
+        "explanation": "C is correct. It is not true that a calibrated model will produce a reliable\nliquidation value in a mark-to-model valuation. The need to use a model for valuation arises\nwhen an asset is so illiquid that there are not reliable market values available. A model may\nreflect only an imperfect theoretical valuation, not a true liquidation value, should\nliquidation become necessary. The illiquid nature of alternative assets means that estimates,\nrather than observable transaction prices, may have been used for valuation purposes. A and B\nare not correct because they are both true statements.\uff1aC\u662f\u6b63\u786e\u7684\u3002\u5728\u6309\u6a21\u578b\u5b9a\u4ef7\u7684\u4f30\u503c\u4e2d\uff0c\u7ecf\u6821\u51c6\n\u7684\u6a21\u578b\u4f1a\u4ea7\u751f\u53ef\u9760\u7684\u6e05\u7b97\u4ef7\u503c\uff0c\u8fd9\u662f\u4e0d\u6b63\u786e\u7684\u3002\u5f53\u4e00\u9879\u8d44\u4ea7\u6d41\u52a8\u6027\u6781\u4f4e\uff0c\u6ca1\u6709\u53ef\u9760\u7684\u5e02\u573a\u4ef7\u503c\u53ef\u7528\u65f6\uff0c\u5c31\u9700\n\u8981\u4f7f\u7528\u4f30\u503c\u6a21\u578b\u3002\u5982\u679c\u9700\u8981\u6e05\u7b97\uff0c\u6a21\u578b\u53ef\u80fd\u53ea\u53cd\u6620\u4e0d\u5b8c\u5584\u7684\u7406\u8bba\u4f30\u503c\uff0c\u800c\u4e0d\u662f\u771f\u5b9e\u7684\u6e05\u7b97\u4ef7\u503c\u3002\u53e6\u7c7b\u8d44\u4ea7\u7684\n\u4f4e\u6d41\u52a8\u6027\u610f\u5473\u7740\uff0c\u53ef\u5c06\u4f30\u8ba1\u503c\u800c\u975e\u89c2\u5bdf\u7684\u4ea4\u6613\u4ef7\u683c\u7528\u4e8e\u4f30\u503c\u3002A\u548cB\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5b83\u4eec\u90fd\u662f\u6b63\u786e\u7684\u9648\u8ff0\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Mark-to-model valuation, Liquidity, Calibrated models",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 26,
+        "question_text": "Which of the following relates to a benefit when owning real estate directly?",
+        "image": "",
+        "options": {
+            "A": "A.Taxes",
+            "B": "B.Capital requirements",
+            "C": "C.Portfolio concentration"
+        },
+        "answer": "A",
+        "explanation": "A is correct. When owning real estate directly, there is a benefit related to\ntaxes. The owner can use property non-cash depreciation expenses to reduce taxable income and\nlower the current income tax bill. In fact, accelerated depreciation and interest expense can\nreduce taxable income below zero in the early years of asset ownership, and losses can be\ncarried forward to offset future income. Thus, a property investment can be cash-flow positive\nwhile generating accounting losses and deferring tax payments. If the tax losses do not reverse\nduring the life of the asset, depreciation-recapture taxes can be triggered when the property\nis sold. B is incorrect because the large capital requirement is a major disadvantage of\ninvesting directly in real estate. C is incorrect because a disadvantage for smaller investors\nwho own real estate directly is that they bear the risk of portfolio concentration. \uff1aA\u662f\u6b63\u786e\u7684\n\u3002\u5f53\u76f4\u63a5\u62e5\u6709\u623f\u5730\u4ea7\u65f6\uff0c\u6709\u4e00\u4e2a\u4e0e\u7a0e\u6536\u6709\u5173\u7684\u597d\u5904\u3002\u4e1a\u4e3b\u53ef\u4ee5\u4f7f\u7528\u8d22\u4ea7\u975e\u73b0\u91d1\u6298\u65e7\u8d39\u7528\u6765\u51cf\u5c11\u5e94\u7eb3\u7a0e\u6240\u5f97\u989d\n\u5e76\u964d\u4f4e\u5f53\u671f\u6240\u5f97\u7a0e\u8d26\u5355\u3002\u4e8b\u5b9e\u4e0a\uff0c\u52a0\u901f\u6298\u65e7\u548c\u5229\u606f\u652f\u51fa\u53ef\u4ee5\u5728\u8d44\u4ea7\u6240\u6709\u6743\u7684\u65e9\u671f\u5c06\u5e94\u7a0e\u6536\u5165\u964d\u81f3\u96f6\u4ee5\u4e0b\uff0c\u635f\n\u5931\u53ef\u4ee5\u7ed3\u8f6c\u4ee5\u62b5\u6d88\u672a\u6765\u6536\u5165\u3002\u56e0\u6b64\uff0c\u623f\u5730\u4ea7\u6295\u8d44\u5728\u4ea7\u751f\u4f1a\u8ba1\u635f\u5931\u548c\u5ef6\u671f\u7eb3\u7a0e\u7684\u540c\u65f6\uff0c\u53ef\u4ee5\u5b9e\u73b0\u73b0\u91d1\u6d41\u6b63\u3002\u5982\n\u679c\u7a0e\u52a1\u635f\u5931\u5728\u8d44\u4ea7\u7684\u4f7f\u7528\u5bff\u547d\u671f\u95f4\u6ca1\u6709\u9006\u8f6c\uff0c\u5219\u5728\u51fa\u552e\u8d44\u4ea7\u65f6\u53ef\u80fd\u4f1a\u89e6\u53d1\u6298\u65e7\u518d\u6355\u83b7\u7a0e\u3002 B\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\n\u4e3a\u5927\u91cf\u7684\u8d44\u672c\u8981\u6c42\u662f\u76f4\u63a5\u6295\u8d44\u623f\u5730\u4ea7\u7684\u4e00\u4e2a\u4e3b\u8981\u7f3a\u70b9\u3002 C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u76f4\u63a5\u62e5\u6709\u623f\u5730\u4ea7\u7684\u5c0f\u6295\u8d44\u8005\u7684\u4e00\n\u4e2a\u7f3a\u70b9\u662f\u4ed6\u4eec\u627f\u62c5\u6295\u8d44\u7ec4\u5408\u96c6\u4e2d\u7684\u98ce\u9669\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Tax benefits of real estate ownership, Capital requirements in real estate investment, Portfolio concentration risk",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 27,
+        "question_text": "Which of the following is least likely to be considered an alternative investment?",
+        "image": "",
+        "options": {
+            "A": "A.Real estate",
+            "B": "B.Commodities",
+            "C": "C.Long-only equity funds"
+        },
+        "answer": "C",
+        "explanation": "C is correct. Long-only equity funds are typically considered traditional\ninvestments and real estate and commodities are typically classified as alternative\ninvestments. \uff1aC\u662f\u6b63\u786e\u7684\u3002\u957f\u671f\u80a1\u6743\u57fa\u91d1\u901a\u5e38\u88ab\u89c6\u4e3a\u4f20\u7edf\u6295\u8d44\uff0c\u800c\u623f\u5730\u4ea7\u548c\u5927\u5b97\u5546\u54c1\u901a\u5e38\u88ab\u5f52\u7c7b\u4e3a\u53e6\u7c7b\u6295\n\u8d44\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Traditional vs. Alternative Investments, Equity Funds, Investment Classifications",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 28,
+        "question_text": "An analyst wanting to assess the downside risk of an alternative investment is least likely\nto use the investment\u2019s:",
+        "image": "",
+        "options": {
+            "A": "A.Sortino ratio.",
+            "B": "B.value at risk (VaR).",
+            "C": "C.standard deviation of returns."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Downside risk measures focus on the left side of the return\ndistribution curve, where losses occur. The standard deviation of returns assumes that returns\nare normally distributed. Many alternative investments do not exhibit close-to-normal\ndistributions of returns, which is a crucial assumption for the validity of a standard\ndeviation as a comprehensive risk measure. Assuming normal probability distributions when\ncalculating these measures will lead to an underestimation of downside risk for a negatively\nskewed distribution. Both the Sortino ratio and the VaR measure are measures of downside\nrisk.\uff1aC\u662f\u6b63\u786e\u7684\u3002\u4e0b\u884c\u98ce\u9669\u6307\u6807\u96c6\u4e2d\u5728\u6536\u76ca\u5206\u5e03\u66f2\u7ebf\u7684\u5de6\u4fa7\uff0c\u5373\u635f\u5931\u53d1\u751f\u7684\u5730\u65b9\u3002\u6536\u76ca\u7684\u6807\u51c6\u5dee\u5047\u8bbe\u6536\u76ca\n\u4e3a\u6b63\u6001\u5206\u5e03\u3002\u8bb8\u591a\u53e6\u7c7b\u6295\u8d44\u6ca1\u6709\u8868\u73b0\u51fa\u63a5\u8fd1\u6b63\u6001\u5206\u5e03\u7684\u56de\u62a5\uff0c\u8fd9\u662f\u6807\u51c6\u5dee\u4f5c\u4e3a\u7efc\u5408\u98ce\u9669\u5ea6\u91cf\u6709\u6548\u6027\u7684\u5173\u952e\u5047\n\u8bbe\u3002\u5728\u8ba1\u7b97\u8fd9\u4e9b\u5ea6\u91cf\u65f6\uff0c\u5047\u8bbe\u6b63\u6001\u6982\u7387\u5206\u5e03\u5c06\u5bfc\u81f4\u4f4e\u4f30\u8d1f\u504f\u5206\u5e03\u7684\u4e0b\u884c\u98ce\u9669\u3002\u7d22\u63d0\u8bfa\u6bd4\u7387\u548cVaR\u6307\u6807\u90fd\u662f\u4e0b\u884c\n\u98ce\u9669\u7684\u6307\u6807\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Downside risk measures, Non-normal return distributions, Standard deviation limitations",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 29,
+        "question_text": "Compared with traditional investments, alternative investments are more likely to have:",
+        "image": "",
+        "options": {
+            "A": "A.greater use of leverage.",
+            "B": "B.long-only positions in liquid assets.",
+            "C": "C.more transparent and reliable risk and return data."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Investing in alternative investments is often pursued through such\nspecial vehicles as hedge funds and private equity funds, which have flexibility to use\nleverage. Alternative investments include investments in such assets as real estate, which is\nan illiquid asset, and investments in such special vehicles as private equity and hedge funds,\nwhich may make investments in illiquid assets and take short positions. Obtaining information\non strategies used and identifying reliable measures of risk and return are challenges of\ninvesting in alternatives. \uff1a A\u662f\u6b63\u786e\u7684\u3002\u6295\u8d44\u4e8e\u53e6\u7c7b\u6295\u8d44\u901a\u5e38\u662f\u901a\u8fc7\u5bf9\u51b2\u57fa\u91d1\u548c\u79c1\u52df\u80a1\u6743\u57fa\u91d1\u8fd9\u6837\u7684\u7279\n\u6b8a\u5de5\u5177\u8fdb\u884c\u7684\uff0c\u8fd9\u4e9b\u5177\u6709\u4f7f\u7528\u6760\u6746\u7684\u7075\u6d3b\u6027\u3002\u53e6\u7c7b\u6295\u8d44\u5305\u62ec\u5bf9\u975e\u6d41\u52a8\u8d44\u4ea7\u623f\u5730\u4ea7\u7b49\u8d44\u4ea7\u7684\u6295\u8d44\uff0c\u4ee5\u53ca\u5bf9\u79c1\u52df\n\u80a1\u6743\u548c\u5bf9\u51b2\u57fa\u91d1\u7b49\u7279\u6b8a\u5de5\u5177\u7684\u6295\u8d44\uff0c\u8fd9\u4e9b\u5de5\u5177\u53ef\u80fd\u6295\u8d44\u4e8e\u975e\u6d41\u52a8\u8d44\u4ea7\uff0c\u53ef\u80fd\u505a\u7a7a\u3002\u83b7\u53d6\u6709\u5173\u6240\u7528\u6218\u7565\u7684\u4fe1\u606f\n\u5e76\u786e\u5b9a\u53ef\u9760\u7684\u98ce\u9669\u548c\u56de\u62a5\u8861\u91cf\u6807\u51c6\u662f\u53e6\u7c7b\u6295\u8d44\u7684\u6311\u6218\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Alternative Investments, Leverage, Illiquidity",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 30,
+        "question_text": "A significant challenge to investing in timber is most likely its:",
+        "image": "",
+        "options": {
+            "A": "A.high correlation with other asset classes.",
+            "B": "B.dependence on an international competitive context.",
+            "C": "C.return volatility compounded by financial market exposure."
+        },
+        "answer": "B",
+        "explanation": "B is correct. A primary risk of timber is the international competitive landscape.\nTimber is a globally sold and consumed commodity subject to world trade interruptions. So the\ninternational context can be considered one of its major risk factors. A is incorrect because\ntimberland offers an income stream based on the sale of trees, wood, and other timber products\nthat has not been highly correlated with other asset classes. C is incorrect because investors\nare interested in timber because of its global nature (everyone requires shelter), the current\nincome generated from the sale of the crop, inflation protection from holding the land, and its\nsafe haven characteristics (it offers some insulation from financial market volatility). \uff1aB\u662f\n\u6b63\u786e\u7684\u3002\u6728\u6750\u7684\u4e3b\u8981\u98ce\u9669\u662f\u56fd\u9645\u7ade\u4e89\u683c\u5c40\u3002\u6728\u6750\u662f\u53d7\u4e16\u754c\u8d38\u6613\u4e2d\u65ad\u5f71\u54cd\u7684\u5168\u7403\u9500\u552e\u548c\u6d88\u8d39\u5546\u54c1\u3002\u56e0\u6b64\uff0c\u56fd\u9645\n\u73af\u5883\u53ef\u88ab\u89c6\u4e3a\u5176\u4e3b\u8981\u98ce\u9669\u56e0\u7d20\u4e4b\u4e00\u3002 A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3atimberland\u63d0\u4f9b\u7684\u6536\u5165\u6d41\u57fa\u4e8e\u6811\u6728\u3001\u6728\u6750\u548c\u5176\u4ed6\u6728\n\u6750\u4ea7\u54c1\u7684\u9500\u552e\uff0c\u800c\u8fd9\u4e9b\u4ea7\u54c1\u4e0e\u5176\u4ed6\u8d44\u4ea7\u7c7b\u522b\u6ca1\u6709\u9ad8\u5ea6\u5173\u8054\u3002 C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u6295\u8d44\u8005\u5bf9\u6728\u6750\u611f\u5174\u8da3\u662f\u56e0\u4e3a\n\u6728\u6750\u7684\u5168\u7403\u6027\u8d28\uff08\u6bcf\u4e2a\u4eba\u90fd\u9700\u8981\u5e87\u62a4\u6240\uff09\u3001\u51fa\u552e\u4f5c\u7269\u4ea7\u751f\u7684\u5f53\u524d\u6536\u5165\u3001\u9632\u6b62\u6301\u6709\u571f\u5730\u7684\u901a\u8d27\u81a8\u80c0\u4ee5\u53ca\u6728\u6750\u7684\n\u907f\u98ce\u6e2f\u7279\u5f81\uff08\u5b83\u63d0\u4f9b\u4e86\u4e00\u4e9b\u91d1\u878d\u5e02\u573a\u6ce2\u52a8\u7684\u9694\u79bb\uff09\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Commodity risk, International trade risk, Market correlation",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 31,
+        "question_text": "The privatization of an existing hospital is best described as:",
+        "image": "",
+        "options": {
+            "A": "A.a greenfield investment.",
+            "B": "B.a brownfield investment.",
+            "C": "C.an economic infrastructure investment."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Investing in an existing infrastructure asset with the intent to\nprivatize, lease, or sell and lease back the asset is referred to as a brownfield investment.\nAn economic infrastructure asset supports economic activity and includes such assets as\ntransportation and utility assets. Hospitals are social infrastructure assets, which are\nfocused on human activities. \uff1aB\u662f\u6b63\u786e\u7684\u3002\u5bf9\u73b0\u6709\u57fa\u7840\u8bbe\u65bd\u8d44\u4ea7\u8fdb\u884c\u6295\u8d44\uff0c\u4ee5\u79c1\u6709\u5316\u3001\u79df\u8d41\u6216\u51fa\u552e\u5e76\u79df\n\u8d41\u8be5\u8d44\u4ea7\u79f0\u4e3a\u8910\u5730\u6295\u8d44\u3002\u7ecf\u6d4e\u57fa\u7840\u8bbe\u65bd\u8d44\u4ea7\u652f\u6301\u7ecf\u6d4e\u6d3b\u52a8\uff0c\u5305\u62ec\u8fd0\u8f93\u548c\u516c\u7528\u4e8b\u4e1a\u8d44\u4ea7\u7b49\u8d44\u4ea7\u3002\u533b\u9662\u662f\u793e\u4f1a\u57fa\n\u7840\u8bbe\u65bd\u8d44\u4ea7\uff0c\u4e3b\u8981\u5173\u6ce8\u4eba\u7c7b\u6d3b\u52a8\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Brownfield investment, Economic infrastructure assets, Social infrastructure assets",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 32,
+        "question_text": "Relative to traditional investments, alternative investments are least likely to be\ncharacterized by:",
+        "image": "",
+        "options": {
+            "A": "A.high levels of transparency.",
+            "B": "B.limited historical return data.",
+            "C": "C.significant restrictions on redemptions."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Alternative investments are characterized as typically having low\nlevels of transparency. \uff1a A\u662f\u6b63\u786e\u7684\u3002\u53e6\u7c7b\u6295\u8d44\u7684\u7279\u70b9\u662f\u900f\u660e\u5ea6\u4f4e\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Alternative investments, Investment transparency, Traditional investments",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 33,
+        "question_text": "Which of the following forms of infrastructure investments is the most liquid?",
+        "image": "",
+        "options": {
+            "A": "A.An unlisted infrastructure mutual fund",
+            "B": "B.A direct investment in a greenfield project",
+            "C": "C.An exchange-traded master limited partnership (MLP)"
+        },
+        "answer": "C",
+        "explanation": "C is correct. A publicly traded infrastructure security, such as an exchange-traded\nMLP, provides the benefit of liquidity. \uff1aC\u662f\u6b63\u786e\u7684\u3002\u516c\u5f00\u4ea4\u6613\u7684\u57fa\u7840\u8bbe\u65bd\u8bc1\u5238\uff0c\u4f8b\u5982\u4ea4\u6613\u6240\u4ea4\u6613\u7684\nMLP\uff0c\u5177\u6709\u63d0\u4f9b\u6d41\u52a8\u6027\u7684\u4f18\u70b9\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Infrastructure investments, Liquidity, Publicly traded securities",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 34,
+        "question_text": "An investor may prefer a single hedge fund to a fund of funds if he seeks:",
+        "image": "",
+        "options": {
+            "A": "A.due diligence expertise.",
+            "B": "B.better redemption terms.",
+            "C": "C.a less complex fee structure."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Hedge funds of funds have multi-layered fee structures, whereas the\nfee structure for a single hedge fund is less complex. Funds of funds presumably have some\nexpertise in conducting due diligence on hedge funds and may be able to negotiate more\nfavorable redemption terms than an individual investor in a single hedge fund could. \uff1aC\u662f\u6b63\u786e\n\u7684\u3002\u57fa\u91d1\u7684\u5bf9\u51b2\u57fa\u91d1\u5177\u6709\u591a\u5c42\u6b21\u7684\u8d39\u7528\u7ed3\u6784\uff0c\u800c\u5355\u4e2a\u5bf9\u51b2\u57fa\u91d1\u7684\u8d39\u7528\u7ed3\u6784\u5219\u4e0d\u90a3\u4e48\u590d\u6742\u3002\u57fa\u91d1\u4e2d\u7684\u57fa\u91d1\u53ef\u80fd\n\u5728\u5bf9\u5bf9\u51b2\u57fa\u91d1\u8fdb\u884c\u5c3d\u804c\u8c03\u67e5\u65b9\u9762\u5177\u6709\u4e00\u5b9a\u7684\u4e13\u4e1a\u77e5\u8bc6\uff0c\u5e76\u4e14\u53ef\u80fd\u80fd\u591f\u534f\u5546\u6bd4\u5355\u4e2a\u5bf9\u51b2\u57fa\u91d1\u4e2d\u7684\u4e2a\u4eba\u6295\u8d44\u8005\u66f4\n\u6709\u5229\u7684\u8d4e\u56de\u6761\u6b3e\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Fee Structures, Due Diligence, Redemption Terms",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 35,
+        "question_text": "An equity hedge fund following a fundamental growth strategy uses fundamental analysis to\nidentify companies that are most likely to:",
+        "image": "",
+        "options": {
+            "A": "A.be undervalued.",
+            "B": "B.be either undervalued or overvalued.",
+            "C": "C.experience high growth and capital appreciation."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Fundamental growth strategies take long positions in companies\nidentified, using fundamental analysis, to have high growth and capital appreciation.\nFundamental value strategies use fundamental analysis to identify undervalued companies.\nMarket-neutral strategies use quantitative and/or fundamental analysis to identify under- and\novervalued companies. \uff1a C\u662f\u6b63\u786e\u7684\u3002\u57fa\u672c\u9762\u589e\u957f\u7b56\u7565\u5728\u901a\u8fc7\u57fa\u672c\u9762\u5206\u6790\u786e\u5b9a\u7684\u5177\u6709\u9ad8\u589e\u957f\u548c\u8d44\u672c\u589e\u503c\u7684\n\u516c\u53f8\u4e2d\u91c7\u53d6\u591a\u5934\u5934\u5bf8\u3002\u57fa\u672c\u4ef7\u503c\u6218\u7565\u4f7f\u7528\u57fa\u672c\u5206\u6790\u6765\u786e\u5b9a\u88ab\u4f4e\u4f30\u7684\u516c\u53f8\u3002\u5e02\u573a\u4e2d\u6027\u7b56\u7565\u4f7f\u7528\u5b9a\u91cf\u6216\u57fa\u672c\u9762\u5206\n\u6790\u6765\u8bc6\u522b\u4f4e\u4f30\u548c\u9ad8\u4f30\u7684\u516c\u53f8\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Fundamental analysis, Equity hedge fund strategies, Capital appreciation",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 36,
+        "question_text": "The distribution method by which profits generated by a fund are allocated between LPs and\nthe GP is called:",
+        "image": "",
+        "options": {
+            "A": "A.a waterfall.",
+            "B": "B.an 80\\/20 split.",
+            "C": "C.a fair division."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Although profits are typically split 80/20 between LPs and the GP,\nthe distribution method of profits is not called an \u201c80/20 split.\u201d \u201cFair division\u201d is not a\nreal term that exists in the industry.\uff1aA\u662f\u6b63\u786e\u7684\u3002\u867d\u7136\u5229\u6da6\u901a\u5e38\u5728\u6709\u9650\u5408\u4f19\u4eba\u548c\u666e\u901a\u5408\u4f19\u4eba\u4e4b\u95f4\u4ee5\n80/20\u7684\u6bd4\u4f8b\u5206\u914d\uff0c\u4f46\u5229\u6da6\u5206\u914d\u65b9\u6cd5\u5e76\u4e0d\u79f0\u4e3a\u201c80/20\u6bd4\u4f8b\u5206\u914d\u201d\u3002\u884c\u4e1a\u4e2d\u5e76\u4e0d\u5b58\u5728\u201c\u516c\u5e73\u5206\u914d\u201d\u8fd9\u4e00\u672f\u8bed\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Limited Partnerships (LPs), General Partners (GPs), Profit Distribution Methods",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 37,
+        "question_text": "From the perspective of the investor, the most active approach to investing in alternative\ninvestments is:",
+        "image": "",
+        "options": {
+            "A": "A.co-investing.",
+            "B": "B.fund investing.",
+            "C": "C.direct investing."
+        },
+        "answer": "C",
+        "explanation": "C is correct. From the perspective of the investor, direct investing is the most\nactive approach to investing because of the absence of fund managers and the services and\nexpertise they generally provide. A is incorrect because co-investing includes fund investing,\nwhich requires less due diligence compared with direct investing. B is incorrect because fund\ninvesting in alternative assets demands less participation from the investor compared with the\ndirect and co-investing approaches because an investor depends on the fund manager to identify,\nselect, and manage the fund\u2019s investments. \uff1aC\u662f\u6b63\u786e\u7684\u3002\u4ece\u6295\u8d44\u8005\u7684\u89d2\u5ea6\u6765\u770b\uff0c\u76f4\u63a5\u6295\u8d44\u662f\u6700\u79ef\u6781\u7684\n\u6295\u8d44\u65b9\u5f0f\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5171\u540c\u6295\u8d44\u5305\u62ec\u57fa\u91d1\u6295\u8d44\uff0c\u4e0e\u76f4\u63a5\u6295\u8d44\u76f8\u6bd4\uff0c\u57fa\u91d1\u6295\u8d44\u9700\u8981\u66f4\u5c11\u7684\u5c3d\u804c\u8c03\u67e5\u3002\nB\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u4e0e\u76f4\u63a5\u6295\u8d44\u548c\u5171\u540c\u6295\u8d44\u65b9\u6cd5\u76f8\u6bd4\uff0c\u57fa\u91d1\u6295\u8d44\u53e6\u7c7b\u8d44\u4ea7\u9700\u8981\u8f83\u5c11\u7684\u6295\u8d44\u8005\u53c2\u4e0e\uff0c\u56e0\u4e3a\u6295\u8d44\u8005\n\u4f9d\u8d56\u57fa\u91d1\u7ecf\u7406\u6765\u8bc6\u522b\u3001\u9009\u62e9\u548c\u7ba1\u7406\u57fa\u91d1\u7684\u6295\u8d44\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Alternative Investments, Direct Investing, Fund Management",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 38,
+        "question_text": "Which approach is most commonly used by equity hedge strategies?",
+        "image": "",
+        "options": {
+            "A": "A.Top down",
+            "B": "B.Bottom up",
+            "C": "C.Market timing"
+        },
+        "answer": "B",
+        "explanation": "B is correct. Most equity hedge strategies use a bottom-up strategy. A is incorrect\nbecause most equity hedge strategies use a bottom-up (not top-down) strategy C is incorrect\nbecause most equity hedge strategies use a bottom-up (not market-timing) strategy. \uff1aB\u662f\u6b63\u786e\u7684\n\u3002\u5927\u591a\u6570\u80a1\u7968\u5bf9\u51b2\u7b56\u7565\u91c7\u7528\u81ea\u4e0b\u800c\u4e0a\u7684\u7b56\u7565\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5927\u591a\u6570\u80a1\u7968\u5bf9\u51b2\u7b56\u7565\u4f7f\u7528\u81ea\u4e0b\u800c\u4e0a\uff08\u800c\u4e0d\u662f\n\u81ea\u4e0a\u800c\u4e0b\uff09\u7b56\u7565C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u5927\u591a\u6570\u80a1\u7968\u5bf9\u51b2\u7b56\u7565\u4f7f\u7528\u81ea\u4e0b\u800c\u4e0a\uff08\u800c\u4e0d\u662f\u5e02\u573a\u65f6\u673a\uff09\u7b56\u7565\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity Hedge Strategies, Bottom-up Analysis, Market Timing",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 39,
+        "question_text": "United Capital is a hedge fund with $250 million of initial capital. United charges a 2%\nmanagement fee based on assets under management at year end, and a 20% incentive fee based on\nreturns in excess of an 8% hurdle rate. In its first year, United appreciates 16%. Assume\nmanagement fees are calculated using end-of-period valuation. The investor\u2019s net return\nassuming the performance fee is calculated net of the management fee is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.11.58%.",
+            "B": "B.12.54%.",
+            "C": "C.12.80%."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The net investor return is 12.54%, calculated as:End of year capital\n= $250 million \u00d7 1.16 = $290 million Management fee = $290 million \u00d7 2% = $5.8 million Hurdle\namount = 8% of $250 million = $20 million Incentive fee = ($290 - $250 - $20 - $5.8) million \u00d7\n20% = $2.84 millionTotal fees to United Capital =($5.8$2.84)million = $8.64 millionInvestor net\nreturn: ($290 - $250 - $8.64) / $250 = 12.54% \uff1a B\u662f\u6b63\u786e\u7684\u3002\u6295\u8d44\u8005\u51c0\u56de\u62a5\u7387\u4e3a12.54%\uff0c\u8ba1\u7b97\u5982\u4e0b\uff1a\n\u671f\u672b\u8d26\u6237\u503c = $250 million \u00d7 1.16 = $290 million \u7ba1\u7406\u8d39= $290 million \u00d7 2% = $5.8 million \u6700\u4f4e\n\u8981\u6c42\u56de\u62a5\uff08\u9898\u76ee\u4e0d\u8bf4\u660e\u5219\u9ed8\u8ba4hard hurdle rate\uff09= 8% of $250 million = $20 million; \u6fc0\u52b1\u8d39= ($290 -\n$250 - $20 - $5.8) million \u00d7 20% = $2.84 million \u603b\u8d39\u7528= ($5.8$2.84) million = $8.64 million\n\u6295\u8d44\u8005\u51c0\u56de\u62a5\u7387\uff1a($290 - $250 - $8.64) / $250 = 12.54%",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Fee Structures, Hedge Fund Performance, Hurdle Rates",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 40,
+        "question_text": "An investor is seeking an investment that can take long and short positions, may use multi-\nstrategies, and historically exhibits low correlation with a traditional investment portfolio.\nThe investor\u2019s goals will be best satisfied with an investment in:",
+        "image": "",
+        "options": {
+            "A": "A.real estate.",
+            "B": "B.a hedge fund.",
+            "C": "C.a private equity fund."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Hedge funds may use a variety of strategies (event-driven, relative\nvalue, macro and equity hedge), generally have a low correlation with traditional investments,\nand may take long and short positions. \uff1a B\u662f\u6b63\u786e\u7684\u3002\u5bf9\u51b2\u57fa\u91d1\u53ef\u80fd\u4f7f\u7528\u591a\u79cd\u7b56\u7565\uff08\u4e8b\u4ef6\u9a71\u52a8\u3001\u76f8\u5bf9\u4ef7\n\u503c\u3001\u5b8f\u89c2\u548c\u80a1\u7968\u5bf9\u51b2\uff09\uff0c\u901a\u5e38\u4e0e\u4f20\u7edf\u6295\u8d44\u7684\u76f8\u5173\u6027\u8f83\u4f4e\uff0c\u53ef\u80fd\u91c7\u53d6\u591a\u5934\u548c\u7a7a\u5934\u5934\u5bf8\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hedge Funds, Investment Strategies, Portfolio Management",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 41,
+        "question_text": "Alternative investment funds are typically managed:",
+        "image": "",
+        "options": {
+            "A": "A.actively.",
+            "B": "B.to generate positive beta return.",
+            "C": "C.assuming that markets are efficient"
+        },
+        "answer": "A",
+        "explanation": "A is correct. There are many approaches to managing alternative investment funds\nbut typically these funds are actively managed. \uff1a A\u662f\u6b63\u786e\u7684\u3002\u7ba1\u7406\u53e6\u7c7b\u6295\u8d44\u57fa\u91d1\u901a\u5e38\u90fd\u662f\u79ef\u6781\u7ba1\u7406\n\u7684\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Alternative Investments, Fund Management, Investment Strategies",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 42,
+        "question_text": "The following information applies to Rotunda Advisors, a hedge fund: $288 million in assets\nunder management (AUM) as of prior year-end 2% management fee (based on year-end AUM) 20%\nincentive fee calculated: net of management fee using a 5% soft hurdle rate using a high-water\nmark (high-water mark is $357 million) Current year fund return is 25% The total fee earned by\nRotunda in the current year is closest to:",
+        "image": "",
+        "options": {
+            "A": "A.$7.20 million.",
+            "B": "B.$20.16 million.",
+            "C": "C.$21.60 million."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Rotunda earns a management fee of $7.20 million but does not earn an\nincentive fee because the year-end fund value net of management fee does not exceed the high-\nwater mark of $357 million. End-of-year AUM = Prior year-end AUM \u00d7 (1 Fund return) = $288\nmillion \u00d7 1.25 = $360 million. $360 million \u00d7 2% = $7.20 million management fee. $360 million\n\u2013 $7.2 million = $352.8 million AUM net of management fee. The year-end AUM net of fees does\nnot exceed the $357 million high-water mark. Therefore, no incentive fee is earned. \uff1a A\u662f\u6b63\u786e\n\u7684\u3002Rotunda\u8d5a\u4e86720\u4e07\u7f8e\u5143\u7684\u7ba1\u7406\u8d39\uff0c\u4f46\u6ca1\u6709\u5f97\u5230\u6fc0\u52b1\u8d39\uff0c\u56e0\u4e3a\u5e74\u7ec8\u57fa\u91d1\u4ef7\u503c\u6263\u9664\u7ba1\u7406\u8d39\u540e\u672a\u8d85\u8fc73.57\u4ebf\u7f8e\n\u5143\u7684\u9ad8\u6c34\u4f4d\u7ebf\u3002 \u671f\u672b\u8d44\u4ea7\u7ba1\u7406\u89c4\u6a21 = Prior year-end AUM \u00d7 (1\uff0bFund return) = $288 million \u00d7 1.25\n= $360 million $360 million \u00d7 2% = $7.20 million \u7ba1\u7406\u8d39 $360 million \u2013 $7.2 million = $352.8\nmillion AUM \u6263\u9664\u7ba1\u7406\u8d39 \u671f\u672b\u7ba1\u7406\u89c4\u6a21\u6263\u9664\u7ba1\u7406\u8d39\u540e\uff0c\u6ca1\u6709\u8d85\u8fc7\u9ad8\u6c34\u4f4d\u7ebf$357million. \u56e0\u6b64\u4e0d\u6536\u53d6\u6fc0\u52b1\u8d39\n\u3002",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Hurdle Rate, High-Water Mark, Management Fee",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 43,
+        "question_text": "An investor chooses to invest in a brownfield rather than a greenfield infrastructure\nproject. The investor is most likely motivated by:",
+        "image": "",
+        "options": {
+            "A": "A.growth opportunities.",
+            "B": "B.predictable cash flows.",
+            "C": "C.higher expected returns."
+        },
+        "answer": "B",
+        "explanation": "B is correct. A brownfield investment is an investment in an existing\ninfrastructure asset, which is more likely to have a history of steady cash flows compared with\nthat of a greenfield investment. Growth opportunities and returns are expected to be lower for\nbrownfield investments, which are less risky than greenfield investments. \uff1aB\u662f\u6b63\u786e\u7684\u3002\u8910\u5730\u6295\u8d44\n\u662f\u5bf9\u73b0\u6709\u57fa\u7840\u8bbe\u65bd\u8d44\u4ea7\u7684\u6295\u8d44\uff0c\u4e0e\u7eff\u5730\u6295\u8d44\u76f8\u6bd4\uff0c\u8910\u5730\u6295\u8d44\u66f4\u6709\u53ef\u80fd\u62e5\u6709\u7a33\u5b9a\u7684\u73b0\u91d1\u6d41\u3002\u8910\u5730\u6295\u8d44\u7684\u589e\u957f\u673a\n\u4f1a\u548c\u56de\u62a5\u9884\u671f\u76f8\u5bf9\u8f83\u4f4e\uff0c\u5b83\u7684\u98ce\u9669\u4e5f\u4f4e\u4e8e\u7eff\u5730\u6295\u8d44\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Infrastructure Investment, Risk and Return in Investments, Cash Flow Stability",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 44,
+        "question_text": "An investor in a private equity fund is concerned that the general partner can receive\nincentive fees in excess of the agreed-on incentive fees by making distributions over time\nbased on profits earned rather than making distributions only at exit from investments of the\nfund. Which of the following is most likey to protect the investor from the general partner\nreceiving excess fees?",
+        "image": "",
+        "options": {
+            "A": "A.A high hurdle rate",
+            "B": "B.A clawback provision",
+            "C": "C.A lower capital commitment"
+        },
+        "answer": "B",
+        "explanation": "B is correct. A clawback provision requires the general partner in a private equity\nfund to return any funds distributed (to the general partner) as incentive fees until the\nlimited partners have received back their initial investments and the contracted portion of the\ntotal profits. A high hurdle rate will result in distributions occurring only after the fund\nachieves a specified return. A high hurdle rate decreases the likelihood of, but does not\nprevent, excess distributions. Management fees, not incentive fees, are based on committed\ncapital. \uff1a B\u662f\u6b63\u786e\u7684\u3002\u8ffd\u56de\u6761\u6b3e\u8981\u6c42\u79c1\u52df\u80a1\u6743\u57fa\u91d1\u7684\u666e\u901a\u5408\u4f19\u4eba\u5c06\u5206\u914d\u7ed9\u666e\u901a\u5408\u4f19\u4eba\u7684\u6fc0\u52b1\u8d39\u8fd4\u8fd8\uff0c\u76f4\u81f3\n\u6709\u9650\u5408\u4f19\u4eba\u6536\u56de\u521d\u59cb\u6295\u8d44\u548c\u5408\u540c\u90e8\u5206\u7684\u603b\u5229\u6da6\u3002\u8f83\u9ad8\u7684\u6700\u4f4e\u56de\u62a5\u7387\u5c06\u5bfc\u81f4\u53ea\u6709\u5728\u57fa\u91d1\u83b7\u5f97\u7279\u5b9a\u56de\u62a5\u540e\u624d\u8fdb\u884c\n\u5206\u914d\u3002\u9ad8\u95e8\u69db\u7387\u4f1a\u964d\u4f4e\u8d85\u989d\u5206\u914d\u7684\u53ef\u80fd\u6027\uff0c\u4f46\u4e0d\u4f1a\u963b\u6b62\u8d85\u989d\u5206\u914d\u3002C\u9519\u8bef\uff0c\u7ba1\u7406\u8d39\u800c\u4e0d\u662f\u6fc0\u52b1\u8d39\uff0c\u662f\u57fa\u4e8e\u627f\u8bfa\n\u8d44\u672c\u7684\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Clawback provisions in private equity, Incentive fee structures, Private equity fund distribution mechanisms",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 45,
+        "question_text": "What is the most significant drawback of a repeat sales index to measure returns to real\nestate?",
+        "image": "",
+        "options": {
+            "A": "A.Sample selection bias",
+            "B": "B.Understatement of volatility",
+            "C": "C.Reliance on subjective appraisals"
+        },
+        "answer": "A",
+        "explanation": "A is correct. A repeat sales index uses the changes in price of repeat-sale\nproperties to construct the index. Sample selection bias is a significant drawback because the\nproperties that sell in each period vary and may not be representative of the overall market\nthe index is meant to cover. The properties that transact are not a random sample and may be\nbiased toward properties that changed in value. Understated volatility and reliance on\nsubjective appraisals by experts are drawbacks of an appraisal index.\uff1aA\u662f\u6b63\u786e\u7684\u3002\u91cd\u590d\u9500\u552e\u6307\u6570\n\u4f7f\u7528\u91cd\u590d\u9500\u552e\u623f\u5730\u4ea7\u7684\u4ef7\u683c\u53d8\u5316\u6765\u6784\u5efa\u6307\u6570\u3002\u6837\u672c\u9009\u62e9\u504f\u5dee\u662f\u4e00\u4e2a\u663e\u8457\u7684\u7f3a\u70b9\uff0c\u56e0\u4e3a\u6bcf\u4e2a\u65f6\u671f\u9500\u552e\u7684\u623f\u5730\u4ea7\n\u4e0d\u540c\uff0c\u53ef\u80fd\u65e0\u6cd5\u4ee3\u8868\u6307\u6570\u6240\u6db5\u76d6\u7684\u6574\u4e2a\u5e02\u573a\u3002\u623f\u5730\u4ea7\u7684\u4ea4\u6613\u4e0d\u662f\u4e00\u4e2a\u968f\u673a\u6837\u672c\uff0c\u53ef\u80fd\u504f\u5411\u4e8e\u4ef7\u503c\u53d1\u751f\u7684\u53d8\u5316\n\u3002\u4f4e\u4f30\u6ce2\u52a8\u6027\u4ee5\u53ca\u4f9d\u8d56\u4e13\u5bb6\u7684\u4e3b\u89c2\u8bc4\u4f30\u662f\u8bc4\u4f30\u6307\u6570\u7684\u7f3a\u70b9\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Sample selection bias, Real estate indices, Repeat sales index",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 46,
+        "question_text": "The Sharpe ratio is a less-than-ideal performance measure for alternative investments\nbecause:",
+        "image": "",
+        "options": {
+            "A": "A.it uses a semi-deviation measure of volatility.",
+            "B": "B.returns of alternative assets are not normally distributed.",
+            "C": "C.alternative assets exhibit low correlation with traditional asset classes."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The Sharpe ratio assumes normally distributed returns. However,\nalternative assets tend to have non-normal return distributions with significant skewness (fat\ntails in one direction or the other) and kurtosis (sharper peak than a normal distribution has,\nwith fatter tails). Therefore, the Sharpe ratio may not be a good risk-adjusted performance\nmeasure to rely on for alternative investments.A is incorrect because the Sharpe ratio does not\nuse a semi-deviation measure of volatility; it uses standard deviation. The Sortino ratio uses\na semi-deviation measure of volatility. Further, the use of semi-deviation instead of standard\ndeviation actually makes the Sortino ratio a more attractive measure of alternative asset\nperformance than the Sharpe ratio. C is incorrect because correlation does not enter into the\ncalculation of the Sharpe ratio. However, it is true that alternative assets can have low\ncorrelations with other asset classes. In contrast to the Sharpe ratio, the Treynor ratio\nincorporates the beta of the alternative asset relative to a benchmark, which is conceptually\nsimilar to correlation.\uff1aB\u662f\u6b63\u786e\u7684\u3002\u590f\u666e\u6bd4\u7387\u5047\u8bbe\u6536\u76ca\u4e3a\u6b63\u6001\u5206\u5e03\u3002\u7136\u800c\uff0c\u66ff\u4ee3\u8d44\u4ea7\u5f80\u5f80\u5177\u6709\u975e\u6b63\u6001\u6536\n\u76ca\u5206\u5e03\uff0c\u5177\u6709\u663e\u8457\u7684\u504f\u5ea6\uff08\u4e00\u4e2a\u65b9\u5411\u6216\u53e6\u4e00\u4e2a\u65b9\u5411\u7684\u539a\u5c3e\uff09\u548c\u5cf0\u5ea6\uff08\u5c16\u5cf0\u6bd4\u6b63\u6001\u5206\u5e03\u66f4\u5c16\u9510\uff0c\u5c3e\u5df4\u66f4\u539a\uff09\u3002\n\u56e0\u6b64\uff0c\u590f\u666e\u6bd4\u7387\u53ef\u80fd\u4e0d\u662f\u66ff\u4ee3\u6295\u8d44\u6240\u4f9d\u8d56\u7684\u7ecf\u98ce\u9669\u8c03\u6574\u7684\u826f\u597d\u4e1a\u7ee9\u6307\u6807\u3002A\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u590f\u666e\u6bd4\u7387\u6ca1\u6709\u4f7f\n\u7528\u6ce2\u52a8\u6027\u7684\u534a\u504f\u5dee\u5ea6\u91cf\uff1b\u5b83\u4f7f\u7528\u6807\u51c6\u5dee\u3002\u7d22\u8482\u8bfa\u6bd4\u7387\u4f7f\u7528\u6ce2\u52a8\u6027\u7684\u534a\u504f\u5dee\u5ea6\u91cf\u3002\u6b64\u5916\uff0c\u4f7f\u7528\u534a\u504f\u5dee\u4ee3\u66ff\u6807\u51c6\n\u504f\u5dee\u5b9e\u9645\u4e0a\u4f7f\u7d22\u8482\u8bfa\u6bd4\u7387\u6210\u4e3a\u6bd4\u590f\u666e\u6bd4\u7387\u66f4\u5177\u5438\u5f15\u529b\u7684\u66ff\u4ee3\u8d44\u4ea7\u7ee9\u6548\u8861\u91cf\u6307\u6807\u3002C\u662f\u4e0d\u6b63\u786e\u7684\uff0c\u56e0\u4e3a\u76f8\u5173\u6027\u6ca1\n\u6709\u8fdb\u5165\u590f\u666e\u6bd4\u7387\u7684\u8ba1\u7b97\u3002\u7136\u800c\uff0c\u66ff\u4ee3\u8d44\u4ea7\u4e0e\u5176\u4ed6\u8d44\u4ea7\u7c7b\u522b\u7684\u76f8\u5173\u6027\u5f88\u4f4e\uff0c\u8fd9\u662f\u4e8b\u5b9e\u3002\u4e0e\u590f\u666e\u6bd4\u7387\u4e0d\u540c\uff0c\u7279\u96f7\n\u8bfa\u6bd4\u7387\u5305\u542b\u4e86\u66ff\u4ee3\u8d44\u4ea7\u76f8\u5bf9\u4e8e\u57fa\u51c6\u7684\u8d1d\u5854\u7cfb\u6570\uff0c\u8fd9\u5728\u6982\u5ff5\u4e0a\u7c7b\u4f3c\u4e8e\u76f8\u5173\u6027\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Alternative Investments Performance Measures, Return Distribution Characteristics, Risk-Adjusted Performance Metrics",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 47,
+        "question_text": "The first stage of financing at which a venture capital fund most likely invests is the:",
+        "image": "",
+        "options": {
+            "A": "A.seed stage.",
+            "B": "B.mezzanine stage.",
+            "C": "C.angel investing stage."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The seed stage supports market research and product development and\nis generally the first stage at which venture capital funds invest. The seed stage follows the\nangel investing stage. In the angel investing stage, funds are typically provided by\nindividuals (often friends or family), rather than a venture capital fund, to assess an idea\u2019s\npotential and to transform the idea into a plan. Mezzanine-stage financing is provided by\nventure capital funds to prepare the portfolio company for its IPO. \uff1a A\u662f\u6b63\u786e\u7684\u3002\u79cd\u5b50\u671f\u652f\u6301\u5e02\n\u573a\u7814\u7a76\u548c\u4ea7\u54c1\u5f00\u53d1\uff0c\u901a\u5e38\u662f\u98ce\u9669\u6295\u8d44\u57fa\u91d1\u6295\u8d44\u7684\u7b2c\u4e00\u9636\u6bb5\u3002\u79cd\u5b50\u9636\u6bb5\u5728\u5929\u4f7f\u6295\u8d44\u9636\u6bb5\u4e4b\u540e\u3002\u5728\u5929\u4f7f\u6295\u8d44\u9636\u6bb5\n\uff0c\u57fa\u91d1\u901a\u5e38\u7531\u4e2a\u4eba\uff08\u901a\u5e38\u662f\u670b\u53cb\u6216\u5bb6\u4eba\uff09\u63d0\u4f9b\uff0c\u800c\u4e0d\u662f\u98ce\u9669\u6295\u8d44\u57fa\u91d1\uff0c\u4ee5\u8bc4\u4f30\u4e00\u4e2a\u60f3\u6cd5\u7684\u6f5c\u529b\uff0c\u5e76\u5c06\u60f3\u6cd5\u8f6c\n\u5316\u4e3a\u4e00\u4e2a\u8ba1\u5212\u3002\u5939\u5c42\u878d\u8d44\u662f\u7531\u98ce\u9669\u6295\u8d44\u57fa\u91d1\u63d0\u4f9b\u7684\uff0c\u4e3a\u6295\u8d44\u7ec4\u5408\u516c\u53f8\u7684IPO\u505a\u51c6\u5907\u3002",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Venture capital stages, Early-stage financing, Angel investing",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": 48,
+        "question_text": "The potential benefits of allocating a portion of a portfolio to alternative investments\ninclude:",
+        "image": "",
+        "options": {
+            "A": "A.ease of manager selection.",
+            "B": "B.improvement in the portfolio\u2019s risk\u2013return relationship.",
+            "C": "C.accessible and reliable measures of risk and return."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Adding alternative investments to a portfolio may provide\ndiversification benefits because of these investments\u2019 less than perfect correlation with\nother assets in the portfolio. As a result, allocating a portion of one\u2019s funds to\nalternatives could potentially result in an improved risk\u2013return relationship. Challenges to\nallocating a portion of a portfolio to alternative investments include obtaining reliable\nmeasures of risk and return as well as selecting portfolio managers for the alternative\ninvestments. \uff1aB\u662f\u6b63\u786e\u7684\u3002\u7531\u4e8e\u8fd9\u4e9b\u6295\u8d44\u4e0e\u6295\u8d44\u7ec4\u5408\u4e2d\u7684\u5176\u4ed6\u8d44\u4ea7\u4e4b\u95f4\u7684\u76f8\u5173\u6027\u4e0d\u591f\u5b8c\u7f8e\uff0c\u56e0\u6b64\u5411\u6295\u8d44\u7ec4\n\u5408\u4e2d\u6dfb\u52a0\u66ff\u4ee3\u6295\u8d44\u53ef\u80fd\u4f1a\u5e26\u6765\u591a\u5143\u5316\u6536\u76ca\u3002\u56e0\u6b64\uff0c\u5c06\u4e00\u90e8\u5206\u8d44\u91d1\u5206\u914d\u7ed9\u66ff\u4ee3\u54c1\u53ef\u80fd\u4f1a\u6539\u5584\u98ce\u9669\u56de\u62a5\u5173\u7cfb\u3002\u5c06\n\u6295\u8d44\u7ec4\u5408\u7684\u4e00\u90e8\u5206\u5206\u914d\u7ed9\u53e6\u7c7b\u6295\u8d44\u7684\u6311\u6218\u5305\u62ec\u83b7\u5f97\u53ef\u9760\u7684\u98ce\u9669\u548c\u56de\u62a5\u6307\u6807\uff0c\u4ee5\u53ca\u4e3a\u53e6\u7c7b\u6295\u8d44\u9009\u62e9\u6295\u8d44\u7ec4\u5408\u7ecf\n\u7406\u3002",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio Diversification, Alternative Investments, Risk-Return Relationship",
+        "book label": "level1_\u53e6\u7c7b",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

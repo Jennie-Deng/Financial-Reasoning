@@ -1,0 +1,884 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Under the contingent claim approach to the firm's capital structure, which of the following\nstatements is true? Assume the amount of senior debt, subordinated debt, and equity is\nrepresented as F, U, and S, respectively.",
+        "image": "",
+        "options": {
+            "A": "A.The value of\\nsubordinated debt is less than the value of senior debt.",
+            "B": "B.Subordinated\\ndebt can be represented by a long call with exercise price of F and short\ncall\\nw",
+            "C": "C.Subordinated\\ndebt behaves more like equity in distress and more like debt when the firm\nis\\nno",
+            "D": "D.The value of\\nsubordinated debt is always greater than the value of equity."
+        },
+        "answer": "C",
+        "explanation": "Statements a and d are not necessarily true as therelative amounts of senior and\nsubordinated debt can vary dramatically.Statement b is false. Subordinated debt has priority\nafter senior debt butahead of equity. Therefore, the subordinated claim is between senior debt,\nF,and total debt, F + U. It follows that the subordinated debt can be modeled bya long call\noption with strike price = F and a short call with strike price = F+ U (not U). Statement c is\ncorrect. During financial distress, the equity valueis relatively small, and the subordinated\ndebt claim behaves more like equityas it is closer to receiving “residual” cash flows.\nSimilarly, when the firmvalue is relatively high, the subordinated debt claim behaves more like\ntraditionaldebt.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Contingent claim analysis, capital structure, subordinated debt dynamics",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "Harrison Michaels, FRM, an analyst at Hudson Risk Analytics, is discussing the default\nsensitivities of equity, mezzanine, and senior tranches and makes the following statements.\nWhich of the following statements is(are) most likely correct? I. Default sensitivities are\nlargest close to the attachment point between tranches. II. Default sensitivities are computed\nby shocking the credit default swap (CDS) default curve.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II only.",
+            "C": "C.Both I and II.",
+            "D": "D. Neither I nor\\nII."
+        },
+        "answer": "A",
+        "explanation": "Defaultsensitivities are computed by shocking various hypothetical default\nprobabilities.Default sensitivities are always positive although they will converge to zeroat\nhigh default rates for all tranches. Default sensitivities are largest atvalues that create\nlosses close to the attachment points.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Default Sensitivities, Tranche Structure, Credit Default Swaps (CDS)",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "The rate parameter in the exponential distribution measures the rate at which it takes an\nevent to occur. In the context of waiting for a company to default, the rate parameter is known\nas the hazard rate and indicates the rate at which default will arrive. Which of the following\nstatements about hazard rates (i.e., default intensity) is correct assuming a constant default\nintensity of 0.2?",
+        "image": "",
+        "options": {
+            "A": "A.1",
+            "B": "B.The cumulative\\ndefault probability after 3 periods = e-(0.2)3",
+            "C": "C.The conditional\\ndefault probability after 1 period = 2%.",
+            "D": "D.The\\nunconditional default probability is memoryless."
+        },
+        "answer": "D",
+        "explanation": "The cumulative probability of default after three periodsis: 1-e-(0.2)3. The\nprobability of default in the first period = 1-e-(0.2)1 = 18.1%. The default probability in the\nsecond period is: 1- e-(0.2)2=33.0% - 18.1% = 14.9%. Thus, the conditional probability of\ndefault after oneperiod = 14.9%/(1-18.1%) = 18.2%. It is the conditional default\nprobabilitythat is memoryless.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Exponential Distribution, Hazard Rate, Default Probability",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Using the Merton model, calculate the current value of a firm's equity and debt given that\nthe current value of the firm is $100 million, the principal amount due in five years on the\nzero-coupon bond is $100 million, the annual interest rate is 10%, and the volatility of the\nfirm is 20%.",
+        "image": "",
+        "options": {
+            "A": "A.$100 million in\\ndebt and $0 in equity.",
+            "B": "B.$60.65 million\\nin debt and $39.35 million in equity.",
+            "C": "C.$58.38 million\\nin debt and $41.62 million in equity.",
+            "D": "D. $32.59 million\\nin debt and $67.41 million in equity."
+        },
+        "answer": "C",
+        "explanation": "$$\nS_t = 100N(d) - (100)(0.6065)N\\left(d - \\sigma\\sqrt{T - t}\\right)\n$$\n\n$$\nd = \\frac{\\ln\\left(\\frac{100}{(100)(0.6065)}\\right)}{(0.20)\\sqrt{5 - 0}} + \\frac{1}{2}(0.20)\\sqrt{5 - 0} = \\frac{\\ln(1.6488)}{0.4472} + \\frac{1}{2}(0.4472) = 1.3418\n$$\n\n$$\nS_t = 100N(1.3418) - (100)(0.6065)N(1.3418 - 0.4472)\n$$\n\n$$\nS_t = 100(0.9101) - (60.65)(0.8144)\n$$\n\n$$\nS_t = 91.01 - 49.39 = 41.62\n$$\n\nTherefore, the value of equity of the firm is $41.62$ million. Since the value of debt must be the difference between the firm’s value of $100$ million and the value of equity, the value of debt is $58.38$ million.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Merton Model, Valuation of Debt and Equity, Volatility Measurement",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "The following scenarios illustrate exposures for two trades with and without the impact of\nnetting. Given the below expected positive exposures (EPE), what is the corresponding netting\nfactor? Assume that the average correlation between exposures is 0.55.",
+        "image": "CreditRiskMeasurementandManagement_images/5u.png",
+        "options": {
+            "A": "A.0.55.",
+            "B": "B. 0.67.",
+            "C": "C.0.80.",
+            "D": "D.1.25."
+        },
+        "answer": "C",
+        "explanation": "The netting factor is computed as\n\n$$\n\\text{netting factor} = \\frac{\\sqrt{n + n(n - 1)\\bar{\\rho}}}{n}\n$$\n\nwhere:\n\n$n = \\text{number of exposures}$\n\n$\\bar{\\rho} = \\text{average correlation}$\n\nNetting factor = \n\n$$\n\\frac{\\sqrt{5 + 5(5 - 1)0.55}}{5} = 0.8 \\text{ or } 80\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Netting agreements, Exposure at Default (EAD), Counterparty Credit Risk",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "Asu Walia is a senior analyst working for a sell side company preparing research reports on\nthe mining sector. Walia noted that one of the companies he follows recently increased risk to\nthe firm's assets, which he expects will benefit equity holders to the detriment of debt\nholders.  Which of the following concepts best describes the scenario in Walia's analysis?",
+        "image": "",
+        "options": {
+            "A": "A.Coordination\\nfailures.",
+            "B": "B.Adverse\\nselection.",
+            "C": "C.Risk shifting.",
+            "D": "D. Principal-agent\\nproblem."
+        },
+        "answer": "C",
+        "explanation": "The scenario described by Walia relates to risk shifting.Risk shifting occurs when\nrisks and rewards are transferred from one group ofmarket participants to another group holding\ndifferent positions in the firm'scapital structure. In this case, risk to the firm's assets\nwould benefit equityholders to the detriment of debt holders who have fixed returns but\nincreased riskof loss.Coordination failures (collective actionproblems) occur when a group of\nindividuals were to benefit collectively ifthey all took a course of action; however, it would\nnot benefit an individualif she alone took the same course of action. Adverse selection occurs\nwhenparties to a transaction have asymmetric information. Principal-agent problemoccurs when a\nprincipal hires an agent for specific duties, where the agent hasmore superior information than\nthe principal.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Shifting, Capital Structure, Asymmetric Information",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "Advanced Pharmaceuticals is considering an investment in a very risky drug therapy\ntreatment.  If the investment is successful, Advanced Pharmaceuticals can earn substantial\nprofits. On the other hand, if the therapy treatments create long-term side-effects, the firm\nwill be subject to expensive litigation. How should Advanced Pharmaceuticals structure its\ninvestment to minimize its cost of capital?",
+        "image": "",
+        "options": {
+            "A": "A.Ring-fence the\\ninvestment so a special purpose entity (SPE) can issue debt at lower costs.",
+            "B": "B.Ring-fence the\\ninvestment into a SPE so the parent company can increase transparency.",
+            "C": "C.Securitize the\\ninvestment due to its predictable cash flows.",
+            "D": "D.Sell the\\ninvestment in a true sale, increasing adverse selection."
+        },
+        "answer": "B",
+        "explanation": "By ring-fencing the risky investment into its own SPE, theparent company can issue\ndebt at favorable terms because its remaining assetsare more transparent. The SPE would contain\na risky investment and wouldincrease the costs to issue debt on its own. The nature of the\ninvestment doesnot have predictable cash flows like mortgages or auto loans. Placing the\ninvestmentin a SPE with a true sale would legally separate the venture from the parent.\nThiswould increase transparency, decreasing adverse selection.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Corporate finance, Risk management, Special purpose entities (SPE)",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "Harris Smith, CFO of XYZ Bank Corp, is considering a $500 million loan securitization. He has\nenlisted a well-respected structuring agent to help decide on the most beneficial structure.\nXYZ is a $100 billion regional bank with a moderately strong balance sheet. Its current credit\nrating on unsecured debt is BBB. It recently issued a secured bond issue with a credit rating\nof A after ring-fencing certain assets. XYZ desires to minimize the cost of funds and achieve\nAAA credit rating on the senior tranche of the new securitization. After reviewing the\nfinancials of XYZ and forecasting future economic conditions, the structure has recommended an\narbitrage CDO with the following loss distributions: Equity tranche: 0-30%. Junior tranche: 30-\n50% Smith should use which of the following CDO structures?",
+        "image": "",
+        "options": {
+            "A": "A.Arbitrage CDO\\nwith $25 million equity trance.",
+            "B": "B. Arbitrage CDO\\nwith $150 million equity tranche.",
+            "C": "C.Balance sheet\\nCDO with $25 million equity tranche.",
+            "D": "D.Balance sheet\\nCDO with $150 million equity tranche."
+        },
+        "answer": "C",
+        "explanation": "SinceXYZ wants to securitize loans it originated, this fits the profile of a\nbalancesheet CDO. Also, the suggested loss distribution likely has too large of anequity\ntranche. Hence, the smaller equity tranche of $25 million, whichrepresents 5% of the issue, is\nmore appropriate to still retain AAA rating ofsenior tranche.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Credit Ratings, Structured Finance, CDOs (Collateralized Debt Obligations)",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Which of the following statements regarding subprime mortgages is true? I.  Senior tranches\nreceive the highest return due to overcollateralization. II.  Corporate bonds and subprime\npools with the same credit rating will exhibit the same variation in losses.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B. II only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor\\nII."
+        },
+        "answer": "D",
+        "explanation": "Senior tranches receive the lowest return because oftheir seniority in the capital\nstructure and any enhancements. Corporate bondsand subprime pools may have the same credit\nrating, but the ABS structure willexhibit larger variation in losses.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Collateralization, Capital structure, Credit ratings",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "The single-factor model is used to examine the impact of varying default correlations based\non a credit position's beta. Each individual firm or credit, i, has a beta correlation, βi,\nwith the market, m. Which of the following statements most accurately describes the implication\nof using a specific value m for the market parameter in the single-factor model?",
+        "image": "",
+        "options": {
+            "A": "A.The conditional\\nprobability of default will be greater than the unconditional probability of",
+            "B": "B.The\\nunconditional standard deviation is less than the conditional standard deviation.",
+            "C": "C.Individual\\nidiosyncratic shocks, εi, are positively correlated to other firms' shocks.",
+            "D": "D.Individual asset returns, aj, are independent from other firms' shocks and returns."
+        },
+        "answer": "D",
+        "explanation": "Important implication of the single-factor model is thatindividual asset returns,\nαi, and idiosyncratic shocks, εi are independent from other firms' shocks and returns.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit risk modeling, Default correlation, Single-factor model",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "At the beginning of the year, a firm bought an AA-rated corporate bond at USD 110 per USD\n100 face value. Using market data, the risk manager estimates the following year-end values for\nthe bond based on interest rate simulations informed by the economics team: \n \n \nIn addition, the risk manager estimates the 1-year transition probabilities on the AA-rated\ncorporate bond: \n \nWhat is the 1-year 95% credit VaR per USD 100 of face value closest to?",
+        "image": "CreditRiskMeasurementandManagement_images/11u.png",
+        "options": {
+            "A": "A.USD 9",
+            "B": "B.USD 18",
+            "C": "C.USD 30",
+            "D": "D.1"
+        },
+        "answer": "A",
+        "explanation": "The 95% credit VaR corresponds to the unexpected loss atthe 95th percentile minus\nthe expected loss, or the expected future value atthe 95% loss percentile minus the current\nvalue. Using the probabilities in thegiven ratings transition matrix, the 95% percentile\ncorresponds to a downgradeto BBB, at which the value of the bond would be estimated at 101.\nSince cashflows for the bond are not provided, we cannot derive the precise expected\nandunexpected losses, but the credit VaR (the difference) is easily derived bysubtracting the\nestimated value given a BBB rating from the current value. 95%credit VaR = 110 – 101 = 9.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Value at Risk (Credit VaR), Bond Valuation, Ratings Transition Matrices",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "Jesse Porter, FRM, is examining the difference between risk-neutral and real-world default\nprobabilities. Specifically, Porter is concerned about which method to use for hedging. To help\nexplain the difference between the two probabilities, his colleague, Bob Evans, constructs a\nhypothetical example with the following information: •  Market price of bond  = 90 • \nLiquidity  premium  =  2% •  Credit  risk  premium = 3% •  Recovery rate  =  0% • \nRisk-free rate  =  1 % •  Risk-neutral default probability = 10% Based on the data provided,\nwhat is the real-world default probability, and which default probability (risk-neutral or\nreal-world) should be used for hedging purposes?",
+        "image": "CreditRiskMeasurementandManagement_images/12u.png",
+        "options": {
+            "A": "A.",
+            "B": "B.无",
+            "C": "C.无",
+            "D": "D.无"
+        },
+        "answer": "A",
+        "explanation": "Risk-neutral default probability=real-world defaultprobability + credit risk\npremium + liquidity premium10% = real-world default probability + 3% + 2%Real-world default\nprobability = 10% - 5% = 5%Risk-neutral default probabilities are usefulfor hedging\nconsiderations while real-world default probabilities are usefulfor quantitative risk\nassessment.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Risk-neutral probability, Real-world default probability, Hedging techniques",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Assume that Smithson Inc. sells an asset to Libco Inc. and receives a debt claim for $100\nmillion to be paid in five years. The claim from Libco is Smithson's only liability claim. The\nprice per share of equity for Libco is $16.10. Since there are five million shares of equity\noutstanding, the total equity value of the firm is $80.5 million. Call options on the equity of\nLibco with an exercise price of $10 and an expiration of one year are currently trading at\n$9.09. Which of the following statements accurately describes the value of Smithson Inc.?",
+        "image": "",
+        "options": {
+            "A": "A.The value of Smithson’s equity can\\nbe valued as a put option on firm value with an\nexpiration of fi",
+            "B": "B.The value of Smithson's debt can\\nbe valued as the discounted value of the debt's principal,\nless th",
+            "C": "C.The value of the call option on\\nSmithson's equity can be used to estimate the volatility of\nfirm va",
+            "D": "D.When the actual value of the firm is\\nhigh, the value of the equity of the firm is more"
+        },
+        "answer": "B",
+        "explanation": "Statement b is true. Statement a isincorrect because equity is valued as a call\noption. Statement c is incorrectbecause for the levered firm, the option on equity is a call-\non-call compoundoption and cannot be valued using the Black-Scholes-Merton Option pricingmodel.\nStatement d is incorrect because when the value of the firm is low, the valueof the equity of\nthe firm is more volatile than when the value of the firm ishigh.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Contingent claims analysis, Structural models of credit risk, Option pricing theory",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Terminal cash flow information for senior, junior, and equity tranches are provided as\nfollows. ·       The original loan pool included 100 loans with $1 million par value\neach and a fixed coupon of 8%. ·       The number of surviving loans is 92.\n·       The par for the senior and junior tranches is 80% and 15%, respectively. The\nequity investors contributed the remaining 5%. ·       There were two defaults with\nrecovery rates of 40% recovered at the end of the period. ·       The value of the trust\naccount at the beginning of the period was $10 million earning 4% annually. ·       The\npool will terminate at the end of the fourth year. The mezzanine and equity tranche cash flows\nare closest to which of the following amounts?",
+        "image": "CreditRiskMeasurementandManagement_images/14u.png",
+        "options": {
+            "A": "A.",
+            "B": "B.无",
+            "C": "C.无",
+            "D": "D.无"
+        },
+        "answer": "C",
+        "explanation": "Steps to calculate terminal cash flows are as follows.1.  Total size ofcollateral\npool at origination: 100 x $1,000,000=$100,000,0002.  Senior tranche= $80,000,000    \nJunior tranche= $15,000,000     Equity tranche = $5,000,0003.  Interest fromloans: 92 x 8%\nx $1,000,000 = $7,360,0004.  Redemption atpar: 92 x $1,000,000 = $92,000,0005.  Recovery\ninfinal year: 2 x 40%x $1,000,000 = $800,0006.  Value ofovercollateralization at end of final\nyear: $10,000,000 x 1.04 = $10,400,0007.  Total availableto satisfy all claims =\n$110,560,0008.  Senior claim=$80,000,000 < $110,560,000.  Seniorclaim is satisfied without\nimpairment.9.  Junior claim= $15,000,000< $110,560,000 - $80,000,000, so junior claim is\nsatisfied.  10. Equity claim= $110,560,000 - $80,000,000 -$15,000,000 = $15,560,000.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Securitization, Structured Finance, Credit Risk Modeling",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "Suppose a risk manager compares the potential future exposures (PFEs) for two cross-currency\nswaps that have the same maturity. If one of the swaps pays a higher interest rate and the\nother swap receives a higher interest rate payment, which of the following statements best\ndescribes the risk exposures for the swaps?",
+        "image": "",
+        "options": {
+            "A": "A.The swap paying\\nthe higher interest rate has less exposure.",
+            "B": "B.The swap paying\\nthe higher interest rate has a lower expected gain on the notional value at\nt",
+            "C": "C.Over the long\\nterm, the interest rate drift dominates the implied volatility measure causing",
+            "D": "D.Over the long\\nterm, the implied volatility dominates the interest rate drift"
+        },
+        "answer": "C",
+        "explanation": "The swap paying the higher interest rate has a greaterexposure than the reverse\nswap due to the fact that it has a significantlyhigher gain on the notional value at the\nmaturity of the swaps. In addition,over the long term, the interest rate drift dominates the\nimplied volatilitymeasure.  This causes the PFE for theswap receiving the higher interest rate\nto remain relatively flat.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Potential Future Exposure (PFE), Cross-Currency Swaps, Interest Rate Risk",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "In the context of waiting for a company to default, the rate parameter, λ,in the\nexponential distribution function is known as the hazard rate. This parameter indicates the\nrare at which company defaults will arrive. Given a hazard rate of 0.12, what is the\nconditional default probability given survival until time 2?",
+        "image": "",
+        "options": {
+            "A": "A.0.2134.",
+            "B": "B.0.8869.",
+            "C": "C.0.1131.",
+            "D": "D. 0.1003."
+        },
+        "answer": "C",
+        "explanation": "Givena hazard rate of 0.12, the cumulative PD at time 1 would be: 1-e-0.12(1)\n=0.1131. Thus, the survival probability would equal: 1 - 0.1131 = 0.8869. The cumulativePD at\ntime 2 would be: 1-e-0.12(2) = 0.2134. Thus, the PD from time1 to time 2 equals: 0.2134 -\n0.1131 = 0.1003. The conditional PD given survivaluntil time 2 is computed as PD (from time 1\nto time 2) / survival probabilityat time 1 = 0.1003 / 0.8869 = 0.1131.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Probability distributions, Hazard rate, Survival analysis",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Large bank uses the KMV model to measure credit risk exposure. The bank has exposure to\nCompany X. Company X’s firm value, expected firm value, beta, and outstanding debt are shown\nbelow. What is the distance to default and the default point for Company X? Current firm\nvalue                         4,000 Expected firm value\n                      5,000 Std. dev. expected firm\nvalue           500 Company X Beta\n                            1.4 Debt 1: Short-term\n                       1,300 Debt 2: Long-term\n                        1,800",
+        "image": "CreditRiskMeasurementandManagement_images/17u.png",
+        "options": {
+            "A": "A.",
+            "B": "B.无",
+            "C": "C.无",
+            "D": "D.无"
+        },
+        "answer": "C",
+        "explanation": "Since the ratio of long-term-liabilities-to-short-term-liabilitiesis less than 1.5,\nthe following equation for default point (i.e., default threshold)will apply: Default Point =\nshort-term liabilities + 0.5 x long-term liabilities Default Point = 1,300 + 0.5 x 1,800 =\n$2,200 The distance to default is then equal to: DD = (5,000 – 2,200) / 500 = 5.6",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit risk measurement, KMV model, Distance to default",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Which of the following statements about a cash collateralized debt obligations (CDO) special\npurpose vehicle (SPV) is true?",
+        "image": "",
+        "options": {
+            "A": "A.In a synthetic CDO, the SPV invests in the actual\\nsecurities that are used to generate\npayment to t",
+            "B": "B.In a cash CDO, the SPV invests in the actual securities\\nthat are used to generate payment to\nthe tr",
+            "C": "C.In a synthetic CDO, the SPV does not invest in the actual\\nsecurities that are used to\ngenerate paym",
+            "D": "D.In a cash CDO, the SPV does not invest in the actual\\nsecurities that are used to generate"
+        },
+        "answer": "B",
+        "explanation": "Acash collateralized debt obligation’s (CDO) special purpose vehicle (SPV) invests\ninthe actual securities that are used to generate payment to the tranches. Asynthetic CDO’s\nSPV does not invest in the actual securities that are used togenerate payment to the tranches.\nInstead they invest in a default swap and arisk-free bond.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Collateralized Debt Obligations (CDOs), Special Purpose Vehicles (SPVs), Synthetic vs. Cash CDOs",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Suppose a firm has two debt issues outstanding. One is a senior debt issue that matures in\nthree years with a principal amount of $100 million. The other is a subordinate debt issue that\nalso matures in three years with a principal amount of $50 million. The annual interest rate is\n5%, and the volatility of the firm value is estimated to be 15%. If interest rates decline in\nthe Merton model, then which of the following is true?",
+        "image": "",
+        "options": {
+            "A": "A. \\nIf the firm is experiencing financial distress (low firm value), then\\nthe value of\nsenior deb",
+            "B": "B. \\nIf the firm is not experiencing financial distress (high firm value),\\nthen the value of\nsenio",
+            "C": "C. \\nIf the firm is experiencing financial distress (low firm value), then\\nthe value of\nsenior deb",
+            "D": "D. \\nIf the firm is not experiencing financial distress (high firm value),\\nthen the value of"
+        },
+        "answer": "A",
+        "explanation": "When firms with subordinate debt areexperiencing financial distress (low firm\nvalues), changes in the value ofsubordinate debt will react to changes in the model parameters\nin the same wayas equity. Since equity is valued as a call option in the Merton model, a\ndeclinein interest rates will reduce the value of equity (and subordinate debt). When firmswith\nsubordinate debt are not experiencing financial distress (high firm values),changes in the\nvalue of subordinate debt will react to changes in the modelparameters in the same way as\nsenior debt. Since senior debt is valued as thedifference in firm value less equity valued as a\ncall option in the Morton model,a decline in interest rates will increase the value of senior\ndebt andsubordinate debt.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Merton model, Financial distress, Debt valuation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "Consider the following scenarios regarding parties analyzing the potential use of\ncollateralized debt obligations (CDOs). •  Half-Pass Investments structures a deal to add\nvalue by repackaging bonds into tranches. Half-Pass plans to capture for equity investors the\nspread between relatively high yielding assets and lower yielding liabilities. •  Piaffe First\nBank recently acquired Pirouette Financial. Adding Pirouette's portfolio of loans will result\nin Piaffe's not being in compliance with internal asset composition targets because its\nconcentration of subprime loans will be too high. •  Canter Consulting has been asked to\nadvise a U.S. commercial bank on way to reduce the risk-based capital requirement for the\ncommercial loan portfolio. Currently, the bank must reserve 100% capital against the loan\nbalances. •  Renvers Holdings plans to put together a CDO that it believes can generate a\nprofit from the  spread between the return on the collateral and the funding costs. Which of\nthe choices below most accurately reflects the motivations for the parties in the above\nscenarios?",
+        "image": "CreditRiskMeasurementandManagement_images/20u.png",
+        "options": {
+            "A": "A.",
+            "B": "B.无",
+            "C": "C.无",
+            "D": "D.无"
+        },
+        "answer": "C",
+        "explanation": "BothHalf-Pass and Renvers are in situations in which there is a motivation tocreate\nan arbitrage-driven CDO, where the motivation is to generate anarbitrage return on the spread\nbetween return on the collateral and fundingcosts. Piaffe and Canter are both in situations\nthat lend themselves to abalance-sheet-driven CDO, where the motivation is to remove assets\n(and theassociated funding) from the balance sheet.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Collateralized Debt Obligations (CDOs), Arbitrage-driven CDOs, Balance-sheet-driven CDOs",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "A firm has entered into a USD 20 million total return swap on the NASDAQ 100 Index as the\nindex payer with ABC. Corporation, which will pay 1-year LIBOR +2.5%. The contract will last 1\nyear, and cash flows will be exchanged annually. Suppose the NASDAQ 100 Index is currently at\n2,900 and LIBOR is 1.25%. The firm conducts a stress test on this total return swap using the\nfollowing scenario: NASDAQ 100 in 1 year: 3,625 LIBOR in 1 year: 0.50% For this scenario, what\nis the firm’s net cash flow in year 1?",
+        "image": "",
+        "options": {
+            "A": "A.A net cash outflow of USD 4.40 million.",
+            "B": "B.A net cash outflow of USD 4.25 million.",
+            "C": "C.A new cash outflow of USD 4.25 million.",
+            "D": "D.A new cash outflow of USD 4.40 million."
+        },
+        "answer": "B",
+        "explanation": "The NASDAQ will increase 25%, or (3625/2900)-1, over thenext year, so the index\npayer will pay USD 5 million (0.25*20million) to ABCcorp. Since ABC Corp’s payments depend on\ntoday’s LIBOR, it will pay 3.75%(1.25%+2.5%)or USD 0.75 million (0.0375*20million). So the\nfirm’s net cash flow would be0.75 million-5 million=-USD 4.25 million.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Market Risk, Derivatives, Stress Testing",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "The exhibit below presents a summary of bilateral mark-to-market (MtM) trades for three\ncounterparties. If netting agreement exist between all pairs of counterparties shown, what is\nthe correct order of net exposure per counterparty, from highest to lowest?",
+        "image": "CreditRiskMeasurementandManagement_images/22u.png",
+        "options": {
+            "A": "A.A-B-C",
+            "B": "B.A-C-B",
+            "C": "C.C-A-B",
+            "D": "D.C-B-A"
+        },
+        "answer": "B",
+        "explanation": "One must properly net the positive and negative tradesper counterparty for all\nthree counterparties shown. The properly nettedamounts are:For counterparty A: exposure to\nB=USD 0, exposure toC=USD 10 for a sum of USD 10;For counterparty B: exposure to A=USD 0,\nexposure toC=USD 0 for a sum of USD 0;For counterparty C: exposure to A=USD 0, exposure toB=USD\n5 for a sum of USD 5;Therefore, the correct sequence is as shown above.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Counterparty risk, Netting agreements, Bilateral exposure",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "An underlying exposure with an effective annual price volatility of 6% is collateralized by\na 10-year U.S. Treasury note with an effective pricevolatility of 8%. The correlation between\nthe exposure on the U.S. Treasury note is zero. Changes in the value of the overall position\n(exposureplus collateral) are calculated for a 10-day horizon at a 95% confidence interval\n(assume a year of 250 days). Which of the following would oneexpect to observe from this\nanalysis?",
+        "image": "",
+        "options": {
+            "A": "A.The presence of collateral increases the current exposure and increase the Vvlatility of the\nexposure between remargining periods.",
+            "B": "B.The presence of collateral increases the current exposure, but decreases the volatility of\nthe exposure between remargining periods.",
+            "C": "C.The presence of collateral decreases the current exposure, but increases the voltility of the\nexposure between remargining periods.",
+            "D": "D.The presence of collateral decreases the current exposure and decreases the volatility of the"
+        },
+        "answer": "C",
+        "explanation": "Worse case change for the value of the collateral is: -1.65*8%*(10/250)^0.5=-2.64%\nThe overall volatility of the position: (0.06^2+0.08^2)^0.5=10%Thus the worst case change in\nthe value of this position (exposure + collateral) is:-1.65*10%*(10/250)^0.5=-3.3%Thus, the\ncollateral mitigates the exposure today while increasing the volatility of the position in the\nfuture.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Collateral Management, Volatility Calculation, Risk Mitigation Strategies",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Edward Art, a CFO of Bank of Mitsubishi, has recently proposed to increase the bank’s\nliquidity by securitizing existing credit card receivables. Edward’s proposed securitization\nincludes tranches with multiple internal credit enhancements as shown in Exhibit 1 below. The\ntotal value of collateral for the structure is USD 680 million, the lockout period is two\nyears, and the subordinated tranche B bond class is the first loss piece:\n \n \n At the end of the fourteenth month after the securities were issued, the underlying credit\ncard accounts have prepaid USD 30 million in principal in addition to regularly scheduled\nprincipal and interest payments. What is the amount of the prepaid principal paid out to the\nholders of the junior tranche A bond class?",
+        "image": "CreditRiskMeasurementandManagement_images/24u.png",
+        "options": {
+            "A": "A.USD 0 million",
+            "B": "B.USD 30 million",
+            "C": "C.USD 120 million",
+            "D": "D.USD 230 million"
+        },
+        "answer": "A",
+        "explanation": "a is correct. The securities have a two-year lockoutperiod; all principal\nprepayments within the first two years will be used tofund new loans. No security tranche will\nreceive principal prepayments untilafter the 24-month lockout period. Credit card prepayments\nare usually justrolled into new loans (not repaid to bondholders).",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Securitization, Structured Finance, Credit Risk Management",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "A bank has booked a loan with total commitment of USD 50,000 of which 80% is currently\noutstanding. The default probability of the loan is assumed to be 2% for the next year and loss\ngiven default (LGD) is estimated at 50%. The standard deviation of LGD is 40% and the standard\ndeviation of the default event indicator is 7%. Drawdown on default is assumed to be 60%. The\nexpected losses for the bank are:",
+        "image": "",
+        "options": {
+            "A": "A.USD 380",
+            "B": "B.USD 420",
+            "C": "C.USD 460",
+            "D": "D.USD 500"
+        },
+        "answer": "C",
+        "explanation": "Standard deviation of LGD = 0.4, Standard deviation ofthe default event indicator =\n.07Adjusted Exposure (AE) = Outstanding + (Commitment –Outstanding) * Draw Down on default AE\n= (0.8*50,000) + [50,000-(0.8*50,000)]*0.6 = 46,000Expected Loss = AE*default probability*LGD\n=46,000*.02*0.5 = 460",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Loss Given Default (LGD), Expected Loss (EL), Default Probability (PD)",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "You have been asked by the Chief Risk Officer of your bank to determine how much should be\nset aside as a loan-loss reserve for a 1-year horizon on a USD 100 million line of credit that\nhas been extended to a large corporate borrower. Of the original balance, USD 20 million has\nalready been drawn and due to deteriorating economic conditions the bank is concerned that the\nborrower might find itself in a liquidity crisis causing it to draw on the remaining commitment\nand default. Given the following information from the bank’s internal credit risk models, what\nis an appropriate loan loss reserve to cover this eventually? 1-year default probability =\n0.35% Drawdown given default = 80% Loss given default = 60%",
+        "image": "",
+        "options": {
+            "A": "A.USD 210,000",
+            "B": "B.USD 176,400",
+            "C": "C.USD 140,000",
+            "D": "D.USD 117,600"
+        },
+        "answer": "B",
+        "explanation": "The risky position of asset value at the horizon isOutstanding + (Commitment –\nOutstanding)*Drawdown Given Default = USD 20,000,000+ (USD 100,000,000 – USD 20,000,000)*0.80\n= USD 84,000,000. This is theadjusted exposure at default (AE). The expected loss EL =\nAE*EDF*LGD, or84,000,000*0.0035*0.6 = USD 176,400. This is the amount that the bank shouldset\naside as a loss reserve.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Risk Modeling, Expected Loss Calculation, Loan-Loss Reserves",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "Credit risk is a function of the probability of default, exposure at default, and loss given\ndefault. Assuming that the individual exposures at default with a counterparty are fixed, which\nof the following statements is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The probability of default can be mitigated by\\ncollateral and exposure at default can be\nmitigated",
+            "B": "B.The probability of default can be mitigated by netting\\nand exposure at default can be\nmitigated by",
+            "C": "C.Loss given default can be mitigated by collateral and\\nexposure at default can be mitigated\nby netti",
+            "D": "D.Loss given default can be mitigated by netting and\\nexposure at default can be mitigated by"
+        },
+        "answer": "C",
+        "explanation": "a is incorrect. Probability of default depends on creditevents which can’t be\ncontrolled by collateral because credit events depend onability to pay and willingness to pay.\nBoth of them are independent tocollateral.a is incorrect. Probability of default depends on\ncreditevents which can’t be controlled by collateral because credit events depend onability to\npay and willingness to pay. Both of them are independent tocollateral.b is incorrect.\nProbability of default depends on creditevents which can’t be controlled by netting because\ncredit events depend onability to pay and willingness to pay. Both of them are independent to\nnetting.Collateral can’t reduce exposure at default. However, it can be claimed laterso that\ncollateral reduce loss given default.c is correct. Collateral can be claimed to reduce\nlossgiven default. Netting reduces the settlement amount if the counterparty is indefault so\nthat netting reduces exposure at default.d is incorrect. Collateral can’t reduce exposure at\ndefault.However, it can be claimed later so that collateral reduce loss given default.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Counterparty credit risk, Probability of default, Exposure at default",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "Lin Ping is valuing a 1-year credit default swap (CDS) contract which will pay the buyer 75%\nof the face value of a bond issued by Xiao Corp, immediately after a default by Xiao. To\npurchase this CDS, the buyer will pay the CDS spread, which is a percentage of the face value,\nonce at the end of the year. Lin estimates that the risk-neutral default probability for Xiao\nis 5% per year. The risk-free rate is 3% per year. Assuming defaults can only occur halfway\nthrough the year and that the accrued premium is paid immediately after a default, what is the\nestimate for the CDS spread?",
+        "image": "",
+        "options": {
+            "A": "A.380 basis points",
+            "B": "B.385 basis points",
+            "C": "C.390 basis points",
+            "D": "D.400 basis points"
+        },
+        "answer": "C",
+        "explanation": "$$\n\\pi = \\text{probability of default during year 1} = 5\\% \n$$\n\n$$\nC = \\text{contingent payment in case of default} = 75\\%\n$$\n\n$$\nd = \\text{discount factor} = e^{-0.05} \\text{ for 1-year and } e^{-0.03} \\text{ for half a year} = 0.97044 \\text{ and } 0.98511\n$$\n\n$$\ns = \\text{CDS spread (to be solved)}\n$$\n\nThe premium leg, which includes the spread payment and accrual, is:\n\n$$\ns^* (0.5d_\\pi) + d_\\pi (1-\\pi) = s^*(0.02463 + 0.92192) = s^*0.94655 \n$$\n\nThe payoff leg is:\n\n$$\nC^*(d_\\pi) = 0.03694\n$$\n\nSolving for the spread: \n\n$$\ns^*0.94655 = 0.03694 \\rightarrow s = 0.03902 \\text{ or a spread of 390 basis points.}\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Credit Default Swaps, Risk-Neutral Valuation, Default Probability",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "You are the risk manager at Vision, a small fixed-income hedge fund that specializes in bank\ndebt. Vision's strategy uilizes both relative valueand long-only trades using credit default\nswaps (CDS) and bonds. One of the new traders has the positions described in the table below:\n \nSome of Vision's newest clients are restricted from withdrawing their funds for three years.\nYou are currently evaluating the impact of variousdefault scenarios to estimate future asset\nliquidity. You have estimated that the marginal probility of default of the Stanos bond is 5%\nin Year 1,10% in Year 2, and 15% in Year 3. What is the probability that the bond makes coupon\npayments for 3 years and then default at the end of Year3?",
+        "image": "CreditRiskMeasurementandManagement_images/29u.png",
+        "options": {
+            "A": "A.小于13%",
+            "B": "B.15%",
+            "C": "C.27%",
+            "D": "D.73%"
+        },
+        "answer": "A",
+        "explanation": "$$\nP \\text{ (Default at end of year 3)} = (1 - MP^{\\text{year 1 default}}) \\cdot (1 - MP^{\\text{year 2 default}}) \\cdot MP^{\\text{year 3 default}}\n$$\n\n$$\n= (1 - 0.05) \\cdot (1 - 0.10) \\cdot 0.15 = 0.1283 \\text{ or } 12.83\\%.\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Risk, Probability of Default, Valuation of Fixed Income Securities",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "Local Company, a frequent user of swaps, often enters into transactions with Global Bank, a\nmajor provider of swaps. Recently, Global Bank was downgraded from a rating of AA+ to a rating\nof A, while Local Company was downgraded from a rating of A to a rating of A-. During this\ntime, the credit spread for Global Bank has increased from 20 bps to 150 bps, while the credit\nspread for Local Company has increased from 130 bps to 170 bps. Which of the following is the\nmost likely action that the counterparties will request on their credit value adjustment (CVA)?",
+        "image": "",
+        "options": {
+            "A": "A.The credit qualities of the counterparties have\\nmigrated, but not significantly enough to\njustify a",
+            "B": "B.Global Bank requests an increase in the CVA charge it\\nreceives.",
+            "C": "C.Local Company requests a reduction in the CVA charge\\nit pays.",
+            "D": "D.CVA is no longer a relevant factor, and the\\ncounterparties should migrate to using other"
+        },
+        "answer": "C",
+        "explanation": "Because Local Bank has a lower credit rating than GlobalBank, it would typically\npay a CVA charge to Global Bank which would be afunction of the relative credit spread between\nthe two banks. After thedowngrades of both Global Bank and Local Bank, the credit spread\nbetween thetwo banks narrowed from 110 bps initially to only 20 bps after the\ndowngrades.Therefore, with the spread much lower between the two banks, Local Bank wouldbe in a\nposition to request a reduction in the CVA charge that it pays.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Credit Value Adjustment (CVA), Counterparty Credit Risk, Credit Spreads",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "Determine at what point in the future a derivatives portfolio will reach its maximum\npotential exposure. All the derivatives are on one underlying, which is assumed to move in a\nstochastic fashion (variance in the underling’s value increases linearly with time passage).\nThe derivatives portfolio’s sensitivity to the underlying is expected to drop off as (T  t)2,\nwhere T is the time from today until the last contract in the portfolio rolls off, and t is the\ntime from today.",
+        "image": "",
+        "options": {
+            "A": "A.T\\/5",
+            "B": "B.T\\/3",
+            "C": "C.T\\/2",
+            "D": "D.None of the above"
+        },
+        "answer": "A",
+        "explanation": "Taking now the variance instead of the volatility, wehave σ2 = k(T  t)4 × t\n,where k is aconstant. Differentiating with respect to t, setting the derivative to zero,\nwehave t = T / 5.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Maximum potential exposure, Derivatives portfolio sensitivity, Stochastic modeling",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "A Mexican retailer buys its goods from global suppliers. The contracts are priced in U.S.\ndollars. The retailer sells its goods to Mexican consumers and receives pesos from the sales.\nThe firm enters a currency swap in which they will pay dollars and receive Brazilian real. They\nuse Monte Carlo simulation to model their potential future exposure (PFE) to the real. Which of\nthe following is most consistent with the retailer’s circumstances?",
+        "image": "",
+        "options": {
+            "A": "A.The retailer has wrong-way exposure in the swap and should use a lognormal distribution to\nmodel t",
+            "B": "B.The retailer has right-way exposure in the swap and should use a distribution that allows for\njump",
+            "C": "C.The retailer has right-way exposure in the swap and should use a lognormal distribution to\nmodel t",
+            "D": "D.The retailer has wrong-way exposure in the swap and should use a distribution that allows for"
+        },
+        "answer": "D",
+        "explanation": "The retailer has wrong-way exposure in the swap. They are paying dollars in their\nunderlying business and paying dollars in the swap. If the dollar increases in value, their\nlosses increase in both their business and the swap (i.e., the swap increases their expected\nlosses). The retailer should use a distribution that allows for jumps to model the PFE to the\nreal because emerging country currencies are subject to extreme volatility. A lognormal\ndistribution would be used for major currencies, so choices A and C are incorrect.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Currency Risk Management, Exposure Types, Monte Carlo Simulation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "Suppose there is a $1,000,000 portfolio with n = 50 credits that each has a default\nprobability of π =0.02 percent and a zero recovery rate, the default correlation is 0. In\naddition, each credit is equally weighted and has a terminal value of $20,000 if there is no\ndefault. The number of defaults is binomially distributed with parameters of n = 50 and π =\n0.02, and the 95th percentile of the number of defaults based on this distribution is 3. What\nis the credit VaR at the 95% confidence level based on these parameters?",
+        "image": "",
+        "options": {
+            "A": "A.$30,000",
+            "B": "B.$40,000",
+            "C": "C.$50,000",
+            "D": "D.$60,000"
+        },
+        "answer": "B",
+        "explanation": "The expected loss is $20,000 ($1,000,000×0.02).If there are three defaults, the\ncredit loss is $60,000 (3×$20,000).The credit VaR at the 95% confidence level is $40,000\n(calculated by taking thecredit loss of $60,000 and subtracting the expected loss of $20,000).",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Risk, Value at Risk (VaR), Binomial Distribution",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Bigger bank has two assets outstanding. The features of the loans are summarized in the\ntable below. Assuming a correlation of 0.2 between the assets, what is the value of ULP?",
+        "image": "CreditRiskMeasurementandManagement_images/34u.png",
+        "options": {
+            "A": "A.Less than $100,000",
+            "B": "B.Between $100,000 and $200,000",
+            "C": "C.Between $200,000 and $300,000",
+            "D": "D.Greater than $300,000"
+        },
+        "answer": "C",
+        "explanation": "Step 1: Compute AE for both assets.\n\n$$\nAE_A = OS + (COM - OS) \\times UGD = \\$4,000,000 + (\\$2,000,000 \\times 0.55) = \\$5,100,000\n$$\n\n$$\nAE_B = OS + (COM - OS) \\times UGD = \\$2,000,000 + (\\$2,000,000 \\times 0.8) = \\$3,600,000\n$$\n\nStep 2: Compute UL for both assets.\n\n$$\nUL = AE \\times \\sqrt{EDF \\times \\sigma^2_{LGD} + LGD^2 \\times \\sigma^2_{EDF}}\n$$\n\n$$\nUL_A = \\$5,100,000 \\times \\sqrt{0.02 \\times 0.25^2 + 0.5^2 \\times 0.02^2} = \\$187,386\n$$\n\n$$\nUL_B = \\$3,600,000 \\times \\sqrt{0.01 \\times 0.2^2 + 0.4^2 \\times 0.05^2} = \\$101,823\n$$\n\nStep 3: Compute $UL_P$.\n\n$$\nUL_P = \\sqrt{(187,386)^2 + (101,823)^3 + (2)(0.2)(187,386)(101,823)} = \\$230,464\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Risk Assessment, Asset Correlation, Unconditional Loss Provision (ULP) Calculation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "You are evaluating the credit risk in a portfolio comprised of Loan A and Loan B. In\nparticular, you are interested in the risk contribution of each of the loans to the unexpected\nloss of the portfolio. Given the information in the table below, and assuming that the\ncorrelation of default between Loan A and Loan B is 20%, what is the risk contribution of Loan\nA to the risk of the portfolio?",
+        "image": "CreditRiskMeasurementandManagement_images/35u.png",
+        "options": {
+            "A": "A.USD 39,587",
+            "B": "B.USD 62,184",
+            "C": "C.USD 96,794",
+            "D": "D.USD 120,285"
+        },
+        "answer": "B",
+        "explanation": "$$\nRCA = \\frac{(UL_A^2 + p \\times UL_A \\times UL_B)}{UL_p}\n$$\n\n$$\nUL = A \\times \\sqrt{EDF \\times VAR_{LGD} + LGD^2 \\times VAR_{EDF}} \\text{ Therefore:}\n$$\n\n$$\nUL_A = 3,000,000 \\times \\sqrt{(1.5\\% \\times 20\\%)^2 + (30\\% \\times 7\\%)^2} = 96,793.59\n$$\n\n$$\nUL_B = 2,000,000 \\times \\sqrt{(3.5\\% \\times 30\\%)^2 + (45\\% \\times 12\\%)^2} = 155,769.06\n$$\n\n$$\nUL_p = \\sqrt{(96,793.59^2 + 155,769.06^2 + 2 \\times 96,793.59 \\times 155,769.06)} = 199,158.17\n$$\n\n$$\nRCA = \\frac{(96,793.59^2 + 20\\% \\times 96,793.59 \\times 155,769.06)}{199,158.17} = 62,184.19\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit risk, Portfolio risk, Correlation of default",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "An analyst is using Moody’s KMV model to estimate the distance to default of a large public\nfirm, Shoos Inc., a firm that designs, manufactures and sells athletic shoes. The firm’s\ncapital structure consists of USD 40 million in short-term debt, USD 20 million in long-term\ndebt, and there are one million shares of stock currently trading at USD 10 per share. The\nasset volatility is 20% per year. What is the normalized distance to default for Shoos Inc.?",
+        "image": "",
+        "options": {
+            "A": "A.0.714",
+            "B": "B.1.430",
+            "C": "C.2.240",
+            "D": "D.5.000"
+        },
+        "answer": "B",
+        "explanation": "$$\nDD = \\frac{A - K}{A \\sigma_A}\n$$\n\nwhere: “$K$” (floor) is defined as the value of all short term liabilities (one year $A \\sigma A$ and under) plus one half of the book value of all long term debt: 40 million + 0.5 \\times 20 million = 50 million. ‘$A$’ is the value of assets: Market value of equity (1 million shares \\times 10/share = 10 million) plus the book value of all debt (60 million) = 70 million. Thus $A \\sigma A = 20\\% \\times 70 million = 14 million$. DD = $\\frac{(70 million - 50 million)}{14 million} = 1.429$ standard deviations.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Risk Modeling, Distance to Default, Moody's KMV Model",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "Suppose a firm has two debt issues outstanding. One is a senior debt issue that matures in\nthree years with a principal amount of $100 million. The other is a subordinate debt issue that\nalso matures in three years with a principal amount of $50 million. The annual interest rate is\n5%, and the volatility of the firm value is estimated to be 15%. If interest rates decline in\nthe Merton model, then which of the following is true?",
+        "image": "",
+        "options": {
+            "A": "A.If the firm is experiencing financial distress (low firm value), then the value of senior\ndebt wil",
+            "B": "B.If the firm is not experiencing financial distress (high firm value), then the value of\nsenior deb",
+            "C": "C.If the firm is experiencing financial distress (low firm value), then the value of senior\ndebt and",
+            "D": "D.If the firm is not experiencing financial distress (high firm value), then the value of"
+        },
+        "answer": "A",
+        "explanation": "When firms with subordinate debt are experiencingfinancial distress (low firm\nvalues), changes in the value of subordinate debtwill react to changes in the model parameters\nin the same way as equity. Sinceequity is valued as a call option in the Merton model, a\ndecline in interestrates will reduce the value of equity (and subordinate debt). When firms\nwithsubordinate debt are not experiencing financial distress (high firm values),changes in the\nvalue of subordinate debt will react to changes in the modelparameters in the same way as\nsenior debt. Since senior debt is valued as thedifference in firm value less equity valued as a\ncall option in the Mertonmodel, a decline in interest rates will increase the value of senior\ndebt andsubordinate debt.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit Risk Management, Merton Model, Debt Valuation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "Suppose XYZ Corp. has two bonds paying semiannually according to the following table. The\nrecovery rate for each in the event of default is 50%. For simplicity, assume that each bond\nwill default only at the end of a coupon period. The market-implied risk-neutral probability of\ndefault for XYZ Corp. is:",
+        "image": "CreditRiskMeasurementandManagement_images/38u.png",
+        "options": {
+            "A": "A.Greater in the first six-month period than in the second",
+            "B": "B.Equal between the two coupon periods",
+            "C": "C.Greater in the second six-month period than in the first",
+            "D": "D.Cannot be determined from the information provided"
+        },
+        "answer": "A",
+        "explanation": "First, we compute the current yield on the six-monthbond, which is selling at a\ndiscount. We solve for y such that 99 = 104/(1 + y /2) and find y  = 10.10%. Thus, the yield\nspread for the first bond is 10.1  5.5 = 4.6%. The second bond is at par, so the yield is y  =\n9%. The spread for the second bond is 9  6 = 3%. The default rate for thefirst period must be\ngreater. The recovery rate is the same for the twoperiods, so it does not matter for this\nproblem",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Yield Spread Analysis, Risk-neutral Probability of Default, Bond Valuation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "Consider a 1-year maturity zero-coupon bond with a face value of USD 1,000,000 and a 0%\nrecovery rate issued by Company A. The bond is currently trading at 80% of face value. Assuming\nthe excess spread only captures credit risk and that the risk-free rate is 5% per annum, the\nrisk-neutral 1-year probability of default on Company A is closest to which of the following?",
+        "image": "",
+        "options": {
+            "A": "A. The bond is currently trading at 80% of face value. Assuming\nthe excess spread only captures credit risk and that the risk-free rate is 5% per annum, the\nrisk-neutral 1-year probability of default on Company A is closest to which of the following?\nA.2%",
+            "B": "B.14%",
+            "C": "C.16%",
+            "D": "D.20%"
+        },
+        "answer": "C",
+        "explanation": "$$\n1 + r = (1 - \\pi) * (1 + y) + \\pi R\n$$\n\n$$\n1 + r = (1 - \\pi) * (1 + y) = (1 - \\pi) * (FV/MV)\n$$\n\nWhere MV = market value and FV = face value. Inputting the data into this equation yield $\\pi = 1 - \\frac{(800,000 * 1.05)}{1,000,000} = 0.16$.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Credit risk, Risk-neutral probability, Zero-coupon bond valuation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "A collateralized mortgage obligation (CMO) has the characteristics below. Which of the\nfollowing are most accurate regarding its credit enhancement? \n \n \n I.             There is overcollateralization.  II.            The\ninvestors gain credit enhancement through the excess spread.",
+        "image": "",
+        "options": {
+            "A": "A.I only.",
+            "B": "B.II only.",
+            "C": "C.Both I and II.",
+            "D": "D.Neither I nor II."
+        },
+        "answer": "C",
+        "explanation": "The total value of the tranches is: $400 + $120 + $50 = $570 million. The value of\nthe collateral is $600 million, so the CMO is over collateralized by $30 million.The net excess\nspread is 8.75%-7.50%- 0.60% = 0.65%, so there is positive excess spread. This provides credit\nenhancement for the CMO investors.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Credit Enhancement, Collateralized Mortgage Obligations (CMOs), Excess Spread",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "A hedge fund is considering taking positions in various tranches of a collateralized debt\nobligation (CDO). The fund’s chief economist predicts that the default probability will\ndecrease significantly and that the default correlation will increase. Based on this\nprediction, which of the following is a good strategy to pursue?",
+        "image": "",
+        "options": {
+            "A": "A.Buy the senior tranche and buy the equity tranche.",
+            "B": "B.Buy the senior tranche and sell the equity tranche.",
+            "C": "C.Sell the senior tranche and sell equity tranche.",
+            "D": "D.Sell the senior tranche and buy the equity tranche."
+        },
+        "answer": "D",
+        "explanation": "The decrease in probability of default would increase thevalue of the equity\ntranche. Also, a default of equity tranche would increasethe probability of default of the\nsenior tranche, due to increased correlation,reducing its value. Thus, it is better to go long\nthe equity tranche and shortthe senior tranche",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Collateralized Debt Obligations (CDOs), Default Probability, Default Correlation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "A standard synthetic CDO references a portfolio of 10 corporate names. Assume the following.\nThe total reference notional is X, and the term is Y years. The reference notional per\nindividual reference credit name is X/10. The default correlations between the individual\ncredit names are all equal to one. The single-name CDS spread for each individual name is 100\nbp, for a term of Y years. The assumed recovery rate on default for all individual reference\ncredits is zero in all cases. The synthetic CDO comprises two tranches, a 50% junior tranche\npriced at a spread J, and a 50% senior tranche priced at spread S. All else constant, if the\ndefault correlations between the individual reference credit names are reduced from 1.0 to 0.7,\nwhat is the effect on the relationship between the junior tranche spread J and the senior\ntranche spread S?",
+        "image": "",
+        "options": {
+            "A": "A.The relationship remains the same",
+            "B": "B.S increases relative to J",
+            "C": "C.J increases relative to S",
+            "D": "D.The effect cannot be determined given the data supplied"
+        },
+        "answer": "C",
+        "explanation": "If the correlation is one, all names will default at thesame time, and the junior\nand senior tranche will be equally affected. Hence,their spread should be 100bp, which is the\nsame as for the collateral. Withlower correlations, the losses will be absorbed first by the\njunior tranche.Therefore, the spread on the junior tranche should be higher, which is offsetby\na lower spread for the senior tranches.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Default correlation, Tranche pricing, Synthetic CDO spread",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "King Motors Acceptance Corporation (KMAC), the finance arm of King Motors, issues an auto-\nloan asset-backed security that consists of a senior tranche, denoted Tranche A in the amount\nof $50 million and an interest payment of 5 percent, and two subordinated tranches, denoted\nTranches X and Z respectively, each with a face amount of $35 million. Tranche X pays investors\nannual interest at a rate of 6.5 percent while Tranche Z pays investors annual interest at a\nrate of 7.5 percent. Which of the following methods of credit support would NOT affect the\ncredit quality of subordinated Tranche X?",
+        "image": "",
+        "options": {
+            "A": "A.The total amount of the auto loans that make up the asset-backed issue is $125 million.",
+            "B": "B.The weighted average interest rate on the auto loans making up the pool is 6.4 percent.",
+            "C": "C.Any defaults on the part of King Motor’s customers will be first absorbed by Tranche Z.",
+            "D": "D.KMAC has a reserve in the amount of $10 million that will remain on KMAC’s balance sheet.  "
+        },
+        "answer": "D",
+        "explanation": "An investor’s claim when purchasing an ABS is solely withthe ABS and no longer\nwith the originator. The fact that KMAC has $10 millionset aside means nothing for the ABS\nissue if it remains on KMAC’s balance sheetand is not part of the ABS issue. The other answer\nchoices all describe formsof credit support that will support at least Tranches X and A, if not\nall 3tranches. By having Tranche Z be subordinate to Tranche X, Tranche X hasadditional\nsupport. Also, loans of $125 million are used to back asset-backedsecurities worth ($50 + $35 +\n$35) = $120 million, which means the issue, isover-collateralized. The weighted average\ninterest rate paid on the securitiesis approximately 6.2%. If the weighted average interest\nrate on the loans thatmake up the pool is 6.4%, that means there is an excess spread between\ntheloans and securities that also provides support for the entire issue.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Structured Finance, Credit Risk, Asset-Backed Securities (ABS)",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "Gamma industries inc. issues an inverse floater with a face value of USD 50.000.000 that\npays a semiannual coupon of 11.50% minus LIBRO. Gamma industries intends to execute an\narbitrage strategy and earn a profit by selling the notes. Using the proceeds to purchase a\nbond with a fixed semiannual coupon rate of 6.75% a year, and then hedge the risk by entering\ninto an appropriate swap. Gamma industries receive a quote from a swap dealer with a fixed rate\nof 5.75% and a floating rate of LIBOR. What would be the most appropriate type of swap of Gamma\nindustries, Inc., to enter into to hedge its risk?",
+        "image": "",
+        "options": {
+            "A": "A.Pay-fixed, receive-fixed swap",
+            "B": "B.Pay-floating, receive-fixed swap",
+            "C": "C.Pay-fixed, receive-floating swap",
+            "D": "D.The risk cannot be hedged with a swap"
+        },
+        "answer": "B",
+        "explanation": "Short inverse floater: -11.5% +LIBOR Long a bond: +6.75%Net profit: -4.75%\n+LIBORThe swap in the market: 5.75% - LIBOR, so the LIBOR inthe market is overpriced.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Derivatives and Hedging, Arbitrage Strategies",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "A bank holds USD 60 million worth of 10-year 6 5% coupon bonds that are trading at a clean\nprice of USD 101.82. The bank is worried by theexposure due to these bonds but cannot unwind\nthe position for fear of upsetting the client. Therefore, it purchases a total return swap\n(TRS) in which it receives annual LIBOR + 100 bps in return for the mark-to market returm on\nthe bond. For the first year, the LIBOR sets at 6.25%, and by the end of the year the clean\nprice of the bonds is at USD 99.35. The net receipt/payment for the bank in the total return\nswap will be to:",
+        "image": "",
+        "options": {
+            "A": "A.Receive USD 1.98 million",
+            "B": "B.Receive USD 2 23 million",
+            "C": "C.Pay USD 2.23 million",
+            "D": "D.Pay USD 1.98 million"
+        },
+        "answer": "A",
+        "explanation": "$$\n7.25\\% \\times 60m - \\frac{99.35 - 101.82}{101.82} \\times 60m - 6.5\\% \\times \\frac{60 \\times 100}{101.82} = 1.975m\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Credit Derivatives, Bond Valuation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "A six-year CDS on a AA-rated issuer is offered at 150bp with semiannual payments while the\nyield on a six-year annual coupon bond of this issuer is 8%. There is no counterparty risk on\nthe CDS. The annualized LIBOR rate paid every six months is 4.6% for all maturities. Which\nstrategy would exploit the arbitrage opportunity? How much would your return exceed LIBOR?",
+        "image": "",
+        "options": {
+            "A": "A.Buy the bond and the CDS with a risk-free gain of\\n1.9%.",
+            "B": "B.Buy the bond and the CDS with a risk-free gain of\\n0.32%.",
+            "C": "C.Short the bond and sell CDS protection with a\\nrisk-free gain of 4.97%.",
+            "D": "D.There is no arbitrage opportunity as any apparent\\nrisk-free profit is necessarily"
+        },
+        "answer": "A",
+        "explanation": "Because LIBOR is flat, the fixed-coupon yield is also4.6%, creating a spread of 800\n– 460 = 340bp on thebond. Going long the bond and short credit via buying the CDS yields an\nannual profit of340–150 = 190bp.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Default Swaps (CDS), Arbitrage Strategies, Bond Yield Analysis",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "A diversified portfolio of OTC derivatives with a single counterparty currently has a net\nmark-to-market value of USD 20,000,000(the sum of the value of all positive-value positions\nminus the value of all negative-value positions)  and a gross absolute mark-to-market value of\nUSD 80,000,000. Assuming there are no netting agreements in place with the counterparty,\ndetermine the current credit exposure to the counterparty.",
+        "image": "",
+        "options": {
+            "A": "A.Less than or equal to USD 19,000,000",
+            "B": "B.Greater than USD 19,000,000 but less than or equal to\\nUSD 40,000,000",
+            "C": "C.Greater than USD 40,000,000 but less than USD\\n60,000,000",
+            "D": "D.Greater than USD 60,000,000"
+        },
+        "answer": "C",
+        "explanation": "Define X and Y asthe absolute values of the positive and negative positions. The\nnet value is X Y = 20 million. The absolute gross value is X + Y = 80. Solving, we get X =50\nmillion. This is the positive part of the positions, or exposure.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Counterparty credit risk, OTC derivatives, Mark-to-market valuation",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "BNP Paribas has just entered into a plain-vanilla interest-rate swap as a pay-fixed\ncounterparty. Credit Agricole is the receive-fixed counterparty in the same swap. The forward\nspot curve is upward-sloping. If LIBOR starts trending down and the forward spot curve\nflattens, the credit risk from the swap will:",
+        "image": "",
+        "options": {
+            "A": "A.Increase only for BNP Paribas",
+            "B": "B.Increase only for Credit Agricole",
+            "C": "C.Decrease for both BNP Paribas and Credit Agricole",
+            "D": "D.Increase for both BNP Paribas and Credit Agricole"
+        },
+        "answer": "B",
+        "explanation": "With an upward-sloping term structure, the fixed payerhas greater credit exposure.\nHe receives less initially, but receives morelately. This back-loading of payments increases\ncredit exposure. Conversely, ifthe forward curve flattens, the fixed payer (i.e., BNP Paribas)\nhas less creditexposure. Credit Agricole must have greater credit exposure. Alternatively,\nifLIBOR drifts down, BNP will have to pay more, and its counterparty will havegreater credit\nexposure.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest-rate swaps, Credit exposure, Forward curves",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "Which one of the following deals would have the greatest credit exposure for a $1,000,000\ndeal size (assume the counterparty in each deal is an AAA-rated bank and has no settlement\nrisk)?",
+        "image": "",
+        "options": {
+            "A": "A.Pay fixed in an Australian dollar (AUD) interest rate swap for one year.",
+            "B": "B.Sell USD against AUD in a one-year forward foreign exchange contract.",
+            "C": "C.Sell a one-year AUD cap.",
+            "D": "D.Purchase a one-year certificate of deposit."
+        },
+        "answer": "D",
+        "explanation": "The CD has the whole notional at risk. Otherwise, thenext greatest exposure is for\nthe forward currency contract and the interestrate swap. The short cap position has no exposure\nif the premium has beencollected. Note that the question eliminates settlement risk for the\nforwardcontract.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Credit Exposure in Financial Instruments, Interest Rate Swaps, Forward Foreign Exchange Contracts",
+        "book label": "Credit Risk Measurement and Management2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    }
+]

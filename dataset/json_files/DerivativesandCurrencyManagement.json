@@ -1,0 +1,614 @@
+[
+    {
+        "share_context": [
+            "Kalila Al-Khalili has been hired as a consultant to a Middle Eastern sovereign wealth\nfund. The fund’s oversight committee has asked her to examine the fund’s financial\ncharacteristics and recommend an appropriate currency management strategy given the fund’s\nInvestment Policy Statement. After a thorough study of the fund and its finances, Al-Khalili\nreaches the following conclusions:The fund’s mandate is focused on the long-term development\nof the country, and the royal family (who are very influential on the fund’s oversight\ncommittee) are prepared to take a long-term perspective on the fund’s investments. The fund’s\nstrategic asset allocation is tilted towards equity rather than fixed-income assets.The fund’s\nstrategic asset allocation is tilted towards equity rather than fixed-income assets.Both its\nfixed-income and equity portfolios have a sizeable exposure to emerging market\nassets.Currently, about 90% of exchange rate exposures are hedged although the IPS allows a\nrange of hedge ratios.Liquidity needs of the fund are minimal, since the government is running\na balanced budget and is unlikely to need to dip into the fund in the near term to cover fiscal\ndeficits. Indeed, the expected lifetime of country’s large oil reserves has been greatly\nextended by recent discoveries, and substantial oil royalties are expected to persist into the\nfuture.\n "
+        ],
+        "question_number": "1",
+        "question_text": "Based on her investigation, Al-Khalili would most likely recommend:",
+        "image": "",
+        "options": {
+            "A": "A.active currency management.",
+            "B": "B.a hedging ratio closer to 100%.",
+            "C": "C.a narrow discretionary band for currency exposures."
+        },
+        "answer": "A",
+        "explanation": "The fund has a long-term perspective, few immediate liquidity needs, and a lower\nweight in fixed income that in equities (bond portfolios are typically associated with hedge\nratios closer to 100% than equity portfolios). The emerging market exposure would also support\nactive management, given these countries’ typically higher yields (carry trade) and often\nvolatile exchange rates.B is incorrect because the characteristics of the fund and the\nbeneficial investor (in this case, the royal family) do not argue for a conservative currency\nstrategy.C is incorrect because a more active currency management strategy would be more\nsuitable for this fund.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency management, Active management, Hedging strategies",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "2",
+        "question_text": "Strategy 1 would require Nunes to buy:",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.shares of IZD.",
+            "B": "B.a put option on IZD.",
+            "C": "C.a call option on IZD."
+        },
+        "answer": "C",
+        "explanation": "To construct a synthetic long put position, Nunes would buy a call option on IZD.\nOf course, she would also need to sell (short) IZD shares to complete the synthetic long put\nposition.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivative instruments, Option strategies, Synthetic positions",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "3",
+        "question_text": "Based on Exhibit 1, Nunes should expect Strategy 2 to be least profitable if",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.less than €91.26.",
+            "B": "B.between €91.26 and €95.00.",
+            "C": "C.more than €95.00."
+        },
+        "answer": "A",
+        "explanation": "Strategy 2 is a covered call, which is a combination of a long position in shares\nand a short call option. The breakeven point of Strategy 2 is €91.26, which represents the\nprice per share of €93.93 minus the call premium received of €2.67 per share (S0 – c0). So,\nat any share price less than €91.26 at option expiration, Strategy 2 incurs a loss. If the\nshare price of IZD at option expiration is greater than €91.26, Strategy 2 generates a gain.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Covered Call Strategy, Option Strategies, Breakeven Analysis",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "4",
+        "question_text": "Based on Exhibit 1, the breakeven share price of Strategy 3 is closest to:",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.€92.25.",
+            "B": "B.€95.61.",
+            "C": "C.€95.82."
+        },
+        "answer": "A",
+        "explanation": "Strategy 3 is a covered call strategy, which is a combination of a long position in\nshares and a short call option. The breakeven share price for a covered call is the share price\nminus the call premium received, or S0 – c0. The current share price of IZD is €93.93, and\nthe IZD April €97.50 call premium is €1.68. Thus, the breakeven underlying share price for\nStrategy 3 is S0 – c0 = €93.93 – €1.68 = €92.25.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Options Strategies, Breakeven Analysis, Covered Calls",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "5",
+        "question_text": "Based on Exhibit 1, the maximum loss per share that would be incurred by",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.€2.99.",
+            "B": "B.€3.99.",
+            "C": "C.unlimited."
+        },
+        "answer": "B",
+        "explanation": "Strategy 4 is a protective put position, which is a combination of a long position\nin shares and a long put option. By purchasing the €25.00 strike put option, Nu?es would be\nprotected from losses at QWY share prices of €25.00 or lower. Thus, the maximum loss per share\nfrom Strategy 4 would be the loss of share value from €28.49 to €25.00 (or €3.49) plus the\nput premium paid for the put option of €0.50: S0 – X + p0 = €28.49 – €25.00 + €0.50 =\n€3.99.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Options strategies, Protective put, Maximum loss calculation",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "6",
+        "question_text": "Strategy 5 is best described as a:",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.collar.",
+            "B": "B.straddle.",
+            "C": "C.bear spread."
+        },
+        "answer": "A",
+        "explanation": "Strategy 5 describes a collar, which is a combination of a long position in shares,\na long put option with an exercise price below the current stock price, and a short call option\nwith an exercise price above the current stock price.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options strategies, Options pricing and valuation, Derivative instruments",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "7",
+        "question_text": "Based on Exhibit 1, Strategy 5 offers:",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.unlimited upside.",
+            "B": "B.a maximum profit of €2.48 per share.",
+            "C": "C.protection against losses if QWY’s share price falls below €28.14."
+        },
+        "answer": "B",
+        "explanation": "Strategy 5 describes a collar, which is a combination of a long position in shares,\na long put option, and a short call option. Strategy 5 would require Nu?es to buy 100 QWY\nshares at the current market price of €28.49 per share. In addition, she would purchase a QWY\nApril €24.00 strike put option contract for €0.35 per share and collect €0.32 per share from\nwriting a QWY April €31.00 strike call option. The collar offers protection against losses on\nthe shares below the put strike price of €24.00 per share, but it also limits upside to the\ncall strike price of €31.00 per share. Thus, the maximum gain on the trade, which occurs at\nprices of €31.00 per share or higher, is calculated as (X2 – S0) – p0 + c0, or (€31.00 –\n€28.49) – €0.35 + €0.32 = €2.48 per share.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Options strategies, Risk-reward trade-off, Hedging techniques",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "8",
+        "question_text": "Based on Exhibit 1, the breakeven share price for Strategy 6 is closest to:",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.€22.50.",
+            "B": "B.€28.50.",
+            "C": "C.€33.50."
+        },
+        "answer": "B",
+        "explanation": "Strategy 6 is a bear spread, which is a combination of a long put option and a\nshort put option on the same underlying, where the long put has a higher strike price than the\nshort put. In the case of Strategy 6, the April €31.00 put option would be purchased and the\nApril €25.00 put option would be sold. The long put premium is €3.00 and the short put\npremium is €0.50, for a net cost of €2.50. The breakeven share price is €28.50, calculated\nas XH – (pH – pL) = €31.00 – (€3.00 – €0.50) = €28.50.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Options strategies, Breakeven calculations, Derivatives pricing",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "9",
+        "question_text": "Based on Exhibit 1, the maximum gain per share that could be earned if Strategy",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.€5.74.",
+            "B": "B.€5.76.",
+            "C": "C.unlimited."
+        },
+        "answer": "B",
+        "explanation": "Strategy 7 describes a short straddle, which is a combination of a short put option\nand a short call option, both with the same strike price. The maximum gain is €5.76 per share,\nwhich represents the sum of the two option premiums, or c0 + p0 = €2.54 + €3.22 = €5.76.\nThe maximum gain per share is realized if both options expire worthless, which would happen if\nthe share price of XDF at expiration is €75.00.",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Options Strategies, Short Straddle, Option Premiums",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "10",
+        "question_text": "Based on Exhibit 1, the best explanation for Nunes to implement Strategy 8",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.decrease.",
+            "B": "B.remain unchanged.",
+            "C": "C.increase."
+        },
+        "answer": "C",
+        "explanation": "Nunes would implement Strategy 8, which is a long calendar spread, if she expects\nthe XDF share price to increase between the February and December expiration dates. This\nstrategy provides a benefit from the February short call premium to partially offset the cost\nof the December long call option. Nunes likely expects the XDF share price to remain relatively\nflat between the current price €74.98 and €80 until the February call option expires, after\nwhich time she expects the share price to increase above €80. If such expectations come to\nfruition, the February call would expire worthless and Nunes would realize gains on the\nDecember call option.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Option Strategies, Financial Markets Forecasting",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Aline Nunes, a junior analyst, works in the derivatives research division of an\ninternational securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an\nanalysis of various option trading strategies relating to shares of three companies: IZD, QWY,\nand XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented\nin Exhibit 1.\nNunes considers the following option strategies relating to IZD:\nStrategy 1: Constructing a synthetic long put position in IZD\nStrategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD\nStrategy 3: Implementing a covered call position in IZD using the April €97.50 strike option\nNunes next reviews the following option strategies relating to QWY:\nStrategy 4: Implementing a protective put position in QWY using the April €25.00 strike option\nStrategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing\nthe April €31.00 strike call option\nStrategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike\noptions Finally, Nunes considers two option strategies relating to XDF:\nStrategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put\noption on XDF\nStrategy 8: Writing the February €80.00 strike call option and buying the December €80.00\nstrike call option on XDF\n "
+        ],
+        "question_number": "11",
+        "question_text": "Over the past few months, Nunes and Pereira have followed news reports on a",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share2-11_1.png"
+        ],
+        "options": {
+            "A": "A.collar.",
+            "B": "B.bull spread.",
+            "C": "C.long straddle."
+        },
+        "answer": "C",
+        "explanation": "Nunes should recommend a long straddle, which is a combination of a long call\noption and a long put option, both with the same strike price. The committee’s announcement is\nexpected to cause a significant move in XDF’s share price. A long straddle is appropriate\nbecause the share price is expected to move sharply up or down depending on the committee’s\ndecision. If the merger is approved, the share price will likely increase, leading to a gain in\nthe long call option. If the merger is rejected, then the share price will likely decrease,\nleading to a gain in the long put option.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Options strategies, Volatility trading, Equity derivatives",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Li Jiang is an international economist operating a subscription website through which\nshe offers financial advice on currency issues to retail investors. One morning she receives\nfour subscriber e-mails seeking guidance.Subscriber 1: “As a French national now working in\nthe United States, I hold US dollar-denominated assets currently valued at USD 700,000. The\nUSD/EUR exchange rate has been quite volatile and now appears oversold based on historical\nprice trends. With my American job ending soon, I will return to Europe. I want to protect the\nvalue of my USD holdings, measured in EUR terms, before I repatriate these funds back to\nFrance. To reduce my currency exposure I am going to use currency futures contracts. Can you\nexplain the factors most relevant to implementing this strategy?”Subscriber 2: “I have\nobserved that many of the overseas markets for Korean export goods are slowing, while the\nUnited States is experiencing a rise in exports. Both trends can combine to possibly affect the\nvalue of the won (KRW) relative to the US dollar. As a result, I am considering a speculative\ncurrency trade on the KRW/USD exchange rate. I also expect the volatility in this exchange rate\nto increase.”Subscriber 3: “India has relatively high interest rates compared to the United\nStates and my market view is that this situation is likely to persist. As a retail investor\nactively trading currencies, I am considering borrowing in USD and converting to the Indian\nrupee (INR).I then intend to invest these funds in INR-denominated bonds, but without using a\ncurrency hedge.”Subscriber 4: “I was wondering if trading in emerging market currencies\nprovides the more opportunities for superior returns through active management than trading in\nDeveloped Market currencies.”\n "
+        ],
+        "question_number": "12",
+        "question_text": "For Subscriber 1, the most significant factor to consider would be:",
+        "image": "",
+        "options": {
+            "A": "A.margin requirements.",
+            "B": "B.transaction costs of using futures contracts.",
+            "C": "C.different quoting conventions for future contracts."
+        },
+        "answer": "A",
+        "explanation": "Exchange-traded futures contract not only have initial margin requirements, they\nalso have daily mark-to-market and, as a result, can be subject to daily margin calls. Market\nparticipants must have sufficient liquidity to meet margin calls, or have their positions\ninvoluntarily liquidated by their brokers. Note that the risk of daily margin calls is not a\nfeature of most forwards contracts; nor is initial margin. (However, this is changing among the\nlargest institutional players in FX markets as many forward contracts now come with what are\nknown as Collateral Support Annexes—CSAs—in which margin can be posted. Posting additional\nmargin would typically not be a daily event, however, except in the case of extreme market\nmoves.)\nB is incorrect because futures contracts have low transactions costs.\nC is incorrect because whether the EUR is the price or the base currency in the quote will not\naffect the hedging process. In fact, on the CME the quote would be the market-standard USD/EUR\nquote, with the EUR as the base currency.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Margin requirements, Liquidity management, Market risk",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Li Jiang is an international economist operating a subscription website through which\nshe offers financial advice on currency issues to retail investors. One morning she receives\nfour subscriber e-mails seeking guidance.Subscriber 1: “As a French national now working in\nthe United States, I hold US dollar-denominated assets currently valued at USD 700,000. The\nUSD/EUR exchange rate has been quite volatile and now appears oversold based on historical\nprice trends. With my American job ending soon, I will return to Europe. I want to protect the\nvalue of my USD holdings, measured in EUR terms, before I repatriate these funds back to\nFrance. To reduce my currency exposure I am going to use currency futures contracts. Can you\nexplain the factors most relevant to implementing this strategy?”Subscriber 2: “I have\nobserved that many of the overseas markets for Korean export goods are slowing, while the\nUnited States is experiencing a rise in exports. Both trends can combine to possibly affect the\nvalue of the won (KRW) relative to the US dollar. As a result, I am considering a speculative\ncurrency trade on the KRW/USD exchange rate. I also expect the volatility in this exchange rate\nto increase.”Subscriber 3: “India has relatively high interest rates compared to the United\nStates and my market view is that this situation is likely to persist. As a retail investor\nactively trading currencies, I am considering borrowing in USD and converting to the Indian\nrupee (INR).I then intend to invest these funds in INR-denominated bonds, but without using a\ncurrency hedge.”Subscriber 4: “I was wondering if trading in emerging market currencies\nprovides the more opportunities for superior returns through active management than trading in\nDeveloped Market currencies.”\n "
+        ],
+        "question_number": "13",
+        "question_text": "For Subscriber 2, and assuming all of the choices relate to the KRW/USD",
+        "image": "",
+        "options": {
+            "A": "A.write a straddle.",
+            "B": "B.buy a put option.",
+            "C": "C.use a long NDF position."
+        },
+        "answer": "C",
+        "explanation": "Based on predicted export trends, Subscriber 2 most likely expects the KRW/USD rate\nto increase (i.e., the won—the price currency—to depreciate relative to the USD). This would\nrequire a long forward position in a forward contract, but as a country with capital controls,\na NDF would be used instead. (Note: While forward contracts offered by banks are generally an\ninstitutional product, not retail, the retail version of a non-deliverable forward contract is\nknown as a “contract for differences” (CFD) and is available at several retail FX brokers.)A\nis incorrect because Subscriber 2 expects the KRW/USD rate to increase. A short straddle\nposition would be used when the direction of exchange rate movement is unknown and volatility\nis expected to remain low.B is incorrect because a put option would profit from a decrease of\nthe KRW/USD rate, not an increase (as expected). Higher volatility would also make buying a put\noption more expensive.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign Exchange Risk Management, Derivatives, Non-Deliverable Forwards (NDFs)",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Li Jiang is an international economist operating a subscription website through which\nshe offers financial advice on currency issues to retail investors. One morning she receives\nfour subscriber e-mails seeking guidance.Subscriber 1: “As a French national now working in\nthe United States, I hold US dollar-denominated assets currently valued at USD 700,000. The\nUSD/EUR exchange rate has been quite volatile and now appears oversold based on historical\nprice trends. With my American job ending soon, I will return to Europe. I want to protect the\nvalue of my USD holdings, measured in EUR terms, before I repatriate these funds back to\nFrance. To reduce my currency exposure I am going to use currency futures contracts. Can you\nexplain the factors most relevant to implementing this strategy?”Subscriber 2: “I have\nobserved that many of the overseas markets for Korean export goods are slowing, while the\nUnited States is experiencing a rise in exports. Both trends can combine to possibly affect the\nvalue of the won (KRW) relative to the US dollar. As a result, I am considering a speculative\ncurrency trade on the KRW/USD exchange rate. I also expect the volatility in this exchange rate\nto increase.”Subscriber 3: “India has relatively high interest rates compared to the United\nStates and my market view is that this situation is likely to persist. As a retail investor\nactively trading currencies, I am considering borrowing in USD and converting to the Indian\nrupee (INR).I then intend to invest these funds in INR-denominated bonds, but without using a\ncurrency hedge.”Subscriber 4: “I was wondering if trading in emerging market currencies\nprovides the more opportunities for superior returns through active management than trading in\nDeveloped Market currencies.”\n "
+        ],
+        "question_number": "14",
+        "question_text": "Which of the following market developments would be most favorable for",
+        "image": "",
+        "options": {
+            "A": "A.A narrower interest rate differential.",
+            "B": "B.A higher forward premium for INR/USD",
+            "C": "C.Higher volatility in INR/USD spot rate movements."
+        },
+        "answer": "B",
+        "explanation": "Subscriber 3’s carry trade strategy is equivalent to trading the forward rate\nbias, based on the historical evidence that the forward rate is not the center of the\ndistribution for the spot rate. Applying this bias involves buying currencies selling at a\nforward discount and selling currencies trading at a forward premium. So a higher forward\npremium on the lower yielding currency—the USD, the base currency in the INR/USD quote—would\neffectively reflect a more profitable trading opportunity. That is, a higher premium for buying\nor selling the USD forward is associated with a lower US interest rate compared to India. This\nwould mean a wider interest rate differential in favor of Indian instruments, and hence\npotentially more carry trade profits.\nA is incorrect because Subscriber 3’s carry trade strategy depends on a wide interest rate\ndifferential between the high-yield country (India) and the low-yield country (the United\nStates). The differential should be wide enough to compensate for the unhedged currency risk\nexposure.C is incorrect because a guide to the carry trade’s riskiness is the volatility of\nspot rates on the involved currencies, with rapid movements in exchange rates often associated\nwith a panicked unwinding of carry trades. All things being equal, higher volatility is worse\nfor carry trades.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Carry trade strategy, Forward rate bias, Interest rate differential",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Li Jiang is an international economist operating a subscription website through which\nshe offers financial advice on currency issues to retail investors. One morning she receives\nfour subscriber e-mails seeking guidance.Subscriber 1: “As a French national now working in\nthe United States, I hold US dollar-denominated assets currently valued at USD 700,000. The\nUSD/EUR exchange rate has been quite volatile and now appears oversold based on historical\nprice trends. With my American job ending soon, I will return to Europe. I want to protect the\nvalue of my USD holdings, measured in EUR terms, before I repatriate these funds back to\nFrance. To reduce my currency exposure I am going to use currency futures contracts. Can you\nexplain the factors most relevant to implementing this strategy?”Subscriber 2: “I have\nobserved that many of the overseas markets for Korean export goods are slowing, while the\nUnited States is experiencing a rise in exports. Both trends can combine to possibly affect the\nvalue of the won (KRW) relative to the US dollar. As a result, I am considering a speculative\ncurrency trade on the KRW/USD exchange rate. I also expect the volatility in this exchange rate\nto increase.”Subscriber 3: “India has relatively high interest rates compared to the United\nStates and my market view is that this situation is likely to persist. As a retail investor\nactively trading currencies, I am considering borrowing in USD and converting to the Indian\nrupee (INR).I then intend to invest these funds in INR-denominated bonds, but without using a\ncurrency hedge.”Subscriber 4: “I was wondering if trading in emerging market currencies\nprovides the more opportunities for superior returns through active management than trading in\nDeveloped Market currencies.”\n "
+        ],
+        "question_number": "15",
+        "question_text": "Jiang’s best response to Subscriber 4 would be that active trading in trading",
+        "image": "",
+        "options": {
+            "A": "A.typically leads to return distributions that are positively skewed.",
+            "B": "B.should not lead to higher returns because FX markets are efficient.",
+            "C": "C.often leads to higher returns through carry trades, but comes with higher risks and trading"
+        },
+        "answer": "C",
+        "explanation": "Emerging market currencies are often the investment currencies in the carry trade.\nThis reflects the higher yields often available in their money markets compared to Developed\nMarket economies (funding currencies are typically low-yield currencies such as the JPY). This\ncan lead to higher holding returns, but these higher returns can also come with higher risks:\ncarry trades are occasionally subject to panicked unwinds in stressed market conditions. When\nthis occurs, position exit can be made more difficult by market illiquidity and higher trading\ncosts (wider bid/offer spreads). The leverage involved in the carry trade can magnify trading\nlosses under these circumstances.\nA is incorrect because return distributions are often negatively skewed, reflecting the higher\nevent risk (panicked carry trade unwinds, currency pegs being re-set, etc.) associated with the\ncarry trade.B is incorrect because although FX markets are typically efficient (or very close\nthereto) this does not mean that higher returns are not available. The key question is whether\nthese are abnormally high risk-adjusted returns. Higher return in an efficient market comes\nwith higher risk. The higher (short-term) return in the carry trade reflects the risk premia\nfor holding unhedged currency risk, in the context of a favorable interest rate differential.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Foreign Exchange (FX) Risks, Carry Trades, Market Efficiency",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stanley Kumar Singh, CFA, is the risk manager at SKS Asset Management. He works with\nindividual clients to manage their investment portfolios. One client, Sherman Hopewell, is\nworried about how short-term market fluctuations over the next three months might impact his\nequity position in Walnut Corporation. Although Hopewell is concerned about short-term downside\nprice movements, he wants to remain invested in Walnut shares because he remains positive about\nits long-term performance. Hopewell has asked Singh to recommend an option strategy that will\nkeep him invested in Walnut shares while protecting against a short-term price decline. Singh\ngathers the information in Exhibit 2 to explore various strategies to address Hopewell’s\nconcerns.Another client, Nigel French, is a trader who does not currently own shares of Walnut\nCorporation. French has told Singh that he believes that Walnut shares will experience a large\nmove in price after the upcoming quarterly earnings release in two weeks. French also tells\nSingh, however, that he is unsure which direction the stock will move. French asks Singh to\nrecommend an option strategy that would allow him to profit should the share price move in\neither direction.A third client, Wanda Tills, does not currently own Walnut shares and has\nasked Singh to explain the profit potential of three strategies using options in Walnut: a long\nstraddle, a bull call spread, and a bear put spread. In addition, Tills asks Singh to explain\nthe gamma of a call option. In response, Singh prepares a memo to be shared with Tills that\nprovides a discussion of gamma and presents his analysis on three option strategies:\nStrategy 1: A long straddle position at the $67.50 strike option\nStrategy 2: A bull call spread using the $65 and $70 strike options\nStrategy 3: A bear put spread using the $65 and $70 strike options\n \n "
+        ],
+        "question_number": "16",
+        "question_text": "The option strategy Singh is most likely to recommend to Hopewell is a:",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share16-21_1.png"
+        ],
+        "options": {
+            "A": "A.collar.",
+            "B": "B.covered call.",
+            "C": "C.protective put."
+        },
+        "answer": "C",
+        "explanation": "A protective put accomplishes Hopewell’s goal of short-term price protection. A\nprotective put provides downside protection while retaining the upside potential. While\nHopewell is concerned about the downside in the short-term, he wants to remain invested in\nWalnut shares, as he is positive about the stock in the long-term.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Option strategies, Risk hedging, Equity investments",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stanley Kumar Singh, CFA, is the risk manager at SKS Asset Management. He works with\nindividual clients to manage their investment portfolios. One client, Sherman Hopewell, is\nworried about how short-term market fluctuations over the next three months might impact his\nequity position in Walnut Corporation. Although Hopewell is concerned about short-term downside\nprice movements, he wants to remain invested in Walnut shares because he remains positive about\nits long-term performance. Hopewell has asked Singh to recommend an option strategy that will\nkeep him invested in Walnut shares while protecting against a short-term price decline. Singh\ngathers the information in Exhibit 2 to explore various strategies to address Hopewell’s\nconcerns.Another client, Nigel French, is a trader who does not currently own shares of Walnut\nCorporation. French has told Singh that he believes that Walnut shares will experience a large\nmove in price after the upcoming quarterly earnings release in two weeks. French also tells\nSingh, however, that he is unsure which direction the stock will move. French asks Singh to\nrecommend an option strategy that would allow him to profit should the share price move in\neither direction.A third client, Wanda Tills, does not currently own Walnut shares and has\nasked Singh to explain the profit potential of three strategies using options in Walnut: a long\nstraddle, a bull call spread, and a bear put spread. In addition, Tills asks Singh to explain\nthe gamma of a call option. In response, Singh prepares a memo to be shared with Tills that\nprovides a discussion of gamma and presents his analysis on three option strategies:\nStrategy 1: A long straddle position at the $67.50 strike option\nStrategy 2: A bull call spread using the $65 and $70 strike options\nStrategy 3: A bear put spread using the $65 and $70 strike options\n \n "
+        ],
+        "question_number": "17",
+        "question_text": "The option strategy that Singh is most likely to recommend to French is a:",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share16-21_1.png"
+        ],
+        "options": {
+            "A": "A.straddle.",
+            "B": "B.bull spread.",
+            "C": "C.collar."
+        },
+        "answer": "A",
+        "explanation": "The long straddle strategy is based on expectations of volatility in the underlying\nstock being higher than the market consensus. The straddle strategy consists of simultaneously\nbuying a call option and a put option at the same strike price. Singh could recommend that\nFrench buy a straddle using near at-the-money options ($67.50 strike). This allows French to\nprofit should the Walnut stock price experience a large move in either direction after the\nearnings release.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option strategies, Volatility trading, Long straddle",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stanley Kumar Singh, CFA, is the risk manager at SKS Asset Management. He works with\nindividual clients to manage their investment portfolios. One client, Sherman Hopewell, is\nworried about how short-term market fluctuations over the next three months might impact his\nequity position in Walnut Corporation. Although Hopewell is concerned about short-term downside\nprice movements, he wants to remain invested in Walnut shares because he remains positive about\nits long-term performance. Hopewell has asked Singh to recommend an option strategy that will\nkeep him invested in Walnut shares while protecting against a short-term price decline. Singh\ngathers the information in Exhibit 2 to explore various strategies to address Hopewell’s\nconcerns.Another client, Nigel French, is a trader who does not currently own shares of Walnut\nCorporation. French has told Singh that he believes that Walnut shares will experience a large\nmove in price after the upcoming quarterly earnings release in two weeks. French also tells\nSingh, however, that he is unsure which direction the stock will move. French asks Singh to\nrecommend an option strategy that would allow him to profit should the share price move in\neither direction.A third client, Wanda Tills, does not currently own Walnut shares and has\nasked Singh to explain the profit potential of three strategies using options in Walnut: a long\nstraddle, a bull call spread, and a bear put spread. In addition, Tills asks Singh to explain\nthe gamma of a call option. In response, Singh prepares a memo to be shared with Tills that\nprovides a discussion of gamma and presents his analysis on three option strategies:\nStrategy 1: A long straddle position at the $67.50 strike option\nStrategy 2: A bull call spread using the $65 and $70 strike options\nStrategy 3: A bear put spread using the $65 and $70 strike options\n \n "
+        ],
+        "question_number": "18",
+        "question_text": ".Based on Exhibit 2, Strategy 1 is profitable when the share price at",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share16-21_1.png"
+        ],
+        "options": {
+            "A": "A.$63.00.",
+            "B": "B.$65.24.",
+            "C": "C.$69.49."
+        },
+        "answer": "A",
+        "explanation": "The straddle strategy consists of simultaneously buying a call option and buying a\nput option at the same strike price. The market price for the $67.50 call option is $1.99, and\nthe market price for the $67.50 put option is $2.26, for an initial net cost of $4.25 per\nshare. Thus, this straddle position requires a move greater than $4.25 in either direction from\nthe strike price of $67.50 to become profitable. So, the straddle becomes profitable at $67.50\n– $4.26 = $63.24 or lower, or $67.50 + $4.26 = $71.76 or higher. At $63.00, the profit on the\nstraddle is positive.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Options strategies, Options pricing, Straddle strategy",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stanley Kumar Singh, CFA, is the risk manager at SKS Asset Management. He works with\nindividual clients to manage their investment portfolios. One client, Sherman Hopewell, is\nworried about how short-term market fluctuations over the next three months might impact his\nequity position in Walnut Corporation. Although Hopewell is concerned about short-term downside\nprice movements, he wants to remain invested in Walnut shares because he remains positive about\nits long-term performance. Hopewell has asked Singh to recommend an option strategy that will\nkeep him invested in Walnut shares while protecting against a short-term price decline. Singh\ngathers the information in Exhibit 2 to explore various strategies to address Hopewell’s\nconcerns.Another client, Nigel French, is a trader who does not currently own shares of Walnut\nCorporation. French has told Singh that he believes that Walnut shares will experience a large\nmove in price after the upcoming quarterly earnings release in two weeks. French also tells\nSingh, however, that he is unsure which direction the stock will move. French asks Singh to\nrecommend an option strategy that would allow him to profit should the share price move in\neither direction.A third client, Wanda Tills, does not currently own Walnut shares and has\nasked Singh to explain the profit potential of three strategies using options in Walnut: a long\nstraddle, a bull call spread, and a bear put spread. In addition, Tills asks Singh to explain\nthe gamma of a call option. In response, Singh prepares a memo to be shared with Tills that\nprovides a discussion of gamma and presents his analysis on three option strategies:\nStrategy 1: A long straddle position at the $67.50 strike option\nStrategy 2: A bull call spread using the $65 and $70 strike options\nStrategy 3: A bear put spread using the $65 and $70 strike options\n \n "
+        ],
+        "question_number": "19",
+        "question_text": "Based on Exhibit 2, the maximum profit, on a per share basis, from investing",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share16-21_1.png"
+        ],
+        "options": {
+            "A": "A.$2.26.",
+            "B": "B.$2.74.",
+            "C": "C.$5.00."
+        },
+        "answer": "A",
+        "explanation": "The bull call strategy consists of buying the lower-strike option and selling the\nhigher-strike option. The purchase of the $65 strike call option costs $3.65 per share, and\nselling the $70 strike call option generates an inflow of $0.91 per share, for an initial net\ncost of $2.74 per share. At expiration, the maximum profit occurs when the stock price is $70\nor higher, which yields a $5.00 per share payoff ($70 – $65) on the long call position. After\ndeduction of the $2.74 per share cost required to initiate the bull call spread, the profit is\n$2.26 ($5.00 – $2.74).",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Options trading strategies, Bull call spread, Profit calculation",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stanley Kumar Singh, CFA, is the risk manager at SKS Asset Management. He works with\nindividual clients to manage their investment portfolios. One client, Sherman Hopewell, is\nworried about how short-term market fluctuations over the next three months might impact his\nequity position in Walnut Corporation. Although Hopewell is concerned about short-term downside\nprice movements, he wants to remain invested in Walnut shares because he remains positive about\nits long-term performance. Hopewell has asked Singh to recommend an option strategy that will\nkeep him invested in Walnut shares while protecting against a short-term price decline. Singh\ngathers the information in Exhibit 2 to explore various strategies to address Hopewell’s\nconcerns.Another client, Nigel French, is a trader who does not currently own shares of Walnut\nCorporation. French has told Singh that he believes that Walnut shares will experience a large\nmove in price after the upcoming quarterly earnings release in two weeks. French also tells\nSingh, however, that he is unsure which direction the stock will move. French asks Singh to\nrecommend an option strategy that would allow him to profit should the share price move in\neither direction.A third client, Wanda Tills, does not currently own Walnut shares and has\nasked Singh to explain the profit potential of three strategies using options in Walnut: a long\nstraddle, a bull call spread, and a bear put spread. In addition, Tills asks Singh to explain\nthe gamma of a call option. In response, Singh prepares a memo to be shared with Tills that\nprovides a discussion of gamma and presents his analysis on three option strategies:\nStrategy 1: A long straddle position at the $67.50 strike option\nStrategy 2: A bull call spread using the $65 and $70 strike options\nStrategy 3: A bear put spread using the $65 and $70 strike options\n \n "
+        ],
+        "question_number": "20",
+        "question_text": "Based on Exhibit 2, and assuming the market price of Walnut’s shares at",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share16-21_1.png"
+        ],
+        "options": {
+            "A": "A.$2.36.",
+            "B": "B.$1.64.",
+            "C": "C.$2.64."
+        },
+        "answer": "B",
+        "explanation": "The bear put spread consists of buying a put option with a high strike price ($70)\nand selling another put option with a lower strike price ($65). The market price for the $70\nstrike put option is $3.70, and the market price for the $65 strike put option is $1.34 per\nshare. Thus, the initial net cost of the bear spread position is $3.70 – $1.34 = $2.36 per\nshare. If Walnut shares are $66 at expiration, the $70 strike put option is in the money by\n$4.00, and the short position in the $65 strike put expires worthless. After deducting the cost\nof $2.36 to initiate the bear spread position, the net profit is $1.64 per contract.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Options pricing, Put spreads, Net profit calculation",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Stanley Kumar Singh, CFA, is the risk manager at SKS Asset Management. He works with\nindividual clients to manage their investment portfolios. One client, Sherman Hopewell, is\nworried about how short-term market fluctuations over the next three months might impact his\nequity position in Walnut Corporation. Although Hopewell is concerned about short-term downside\nprice movements, he wants to remain invested in Walnut shares because he remains positive about\nits long-term performance. Hopewell has asked Singh to recommend an option strategy that will\nkeep him invested in Walnut shares while protecting against a short-term price decline. Singh\ngathers the information in Exhibit 2 to explore various strategies to address Hopewell’s\nconcerns.Another client, Nigel French, is a trader who does not currently own shares of Walnut\nCorporation. French has told Singh that he believes that Walnut shares will experience a large\nmove in price after the upcoming quarterly earnings release in two weeks. French also tells\nSingh, however, that he is unsure which direction the stock will move. French asks Singh to\nrecommend an option strategy that would allow him to profit should the share price move in\neither direction.A third client, Wanda Tills, does not currently own Walnut shares and has\nasked Singh to explain the profit potential of three strategies using options in Walnut: a long\nstraddle, a bull call spread, and a bear put spread. In addition, Tills asks Singh to explain\nthe gamma of a call option. In response, Singh prepares a memo to be shared with Tills that\nprovides a discussion of gamma and presents his analysis on three option strategies:\nStrategy 1: A long straddle position at the $67.50 strike option\nStrategy 2: A bull call spread using the $65 and $70 strike options\nStrategy 3: A bear put spread using the $65 and $70 strike options\n \n "
+        ],
+        "question_number": "21",
+        "question_text": "Based on the data in Exhibit 2, Singh would advise Tills that the call option",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share16-21_1.png"
+        ],
+        "options": {
+            "A": "A.$ 55.",
+            "B": "B.$ 67.50.",
+            "C": "C.$ 80."
+        },
+        "answer": "B",
+        "explanation": "The $67.50 call option is approximately at the money because the Walnut share price\nis currently $67.79. Gamma measures the sensitivity of an option’s delta to a change in the\nunderlying. The largest gamma occurs when options are trading at the money or near expiration,\nwhen the deltas of such options move quickly toward 1.0 or 0.0. Under these conditions, the\ngammas tend to be largest and delta hedges are hardest to maintain.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options Sensitivity (Greeks), Delta Hedging, Options Pricing",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Guten Investments GmbH, based in Germany and using the EUR as its reporting currency,\nis an asset management firm providing investment services for local high net worth and\ninstitutional investors seeking international exposures. The firm invests in the Swiss, UK, and\nUS markets, after conducting fundamental research in order to select individual investments.\nExhibit 1 presents recent information for exchange rates in these foreign markets.\nIn prior years, the correlation between movements in the foreign-currency asset returns for the\nUSD-denominated assets and movements in the exchange rate was estimated to be +0.50. After\nanalyzing global financial markets, Konstanze Ostermann, a portfolio manager at Guten\nInvestments, now expects that this correlation will increase to +0.80, although her forecast\nfor foreign-currency asset returns is unchanged.Ostermann believes that currency markets are\nefficient and hence that long-run gains cannot be achieved from active currency management,\nespecially after netting out management and transaction costs. She uses this philosophy to\nguide hedging decisions for her discretionary accounts, unless instructed otherwise by the\nclient.Ostermann is aware, however, that some investors hold an alternative view on the merits\nof active currency management. Accordingly, their portfolios have different investment\nguidelines. For these accounts, Guten Investments employs a currency specialist firm, Umlauf\nManagement, to provide currency overlay programs specific to each client’s investment\nobjectives. For most hedging strategies, Umlauf Management develops a market view based on\nunderlying fundamentals in exchange rates. However, when directed by clients, Umlauf Management\nuses options and a variety of trading strategies to unbundle all of the various risk factors\n(the “Greeks”) and trade them separately.Ostermann conducts an annual review for three of her\nclients and gathers the summary information presented in Exhibit 2.\n \n "
+        ],
+        "question_number": "22",
+        "question_text": "Based on Exhibit 1, the domestic-currency return over the last year (measured",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share22-27_1.png",
+            "DerivativesandCurrencyManagement_images/share22-27_2.png"
+        ],
+        "options": {
+            "A": "A.USD-denominated assets.",
+            "B": "B.GBP-denominated assets.",
+            "C": "C.CHF-denominated assets."
+        },
+        "answer": "C",
+        "explanation": "The domestic-currency return is a function of the foreign-currency return and the\npercentage change of the foreign currency against the domestic currency. Mathematically, the\ndomestic-currency return is expressed as: RDC = (1 + RFC)(1 + RFX) – 1where RDC is the\ndomestic-currency return (in percent), RFC is the foreign-currency return, and RFX is the\npercentage change of the foreign currency against the domestic currency. Note that this RFX\nexpression is calculated using the investor’s domestic currency (the EUR in this case) as the\nprice currency in the P/B quote. This is different than the market-standard currency quotes in\nExhibit 1, where the EUR is the base currency in each of these quotes. Therefore, for the\nforeign currency (USD, GBP, or CHF) to appreciate against the EUR, the market-standard quote\n(USD/EUR, GBP/EUR, or CHF/EUR, respectively) must decrease; i.e. the EUR must depreciate.The\nEuro-Swiss (CHF/EUR) is the only spot rate with a negative change (from 1.2175 to 1.2080),\nmeaning the EUR depreciated against the CHF (the CHF/EUR rate decreased). Or put differently,\nthe CHF appreciated against the EUR, adding to the EUR-denominated return for the German\ninvestor holding CHF-denominated assets. This would result in a higher domestic-currency return\n(RDC), for the German investor, relative to the foreign-currency return (RFC) for the CHF-\ndenominated assets. Both the Euro-dollar (USD/EUR) and Euro-sterling (GBP/EUR) experienced a\npositive change in the spot rate, meaning the EUR appreciated against these two currencies (the\nUSD/EUR rate and the GBP/EUR rate both increased). This would result in a lower domestic-\ncurrency return (RDC) for the German investor relative to the foreign-currency return (RFC) for\nthe USD- and GBP-denominated assets.A is incorrect because the Euro-dollar (USD/EUR)\nexperienced a positive change in the spot rate, meaning the EUR appreciated against the USD\n(the USD/EUR rate increased). This would result in a lower domestic-currency (i.e. EUR-\ndenominated) return relative to the foreign-currency return for the USD-denominated assets,\nsince the USD has depreciated against the EUR.B is incorrect because the Euro-sterling\n(GBP/EUR) experienced a positive change in the spot rate, meaning the EUR appreciated against\nthe GPB (the GBP/EUR rate increased). This would result in a lower domestic-currency (i.e. EUR-\ndenominated) return relative to the foreign-currency return for the GBP-denominated assets,\nsince the GBP has depreciated against the EUR.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Currency Exchange Rates, Domestic-Currency Return Calculation, Foreign-Currency Return Calculation",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Guten Investments GmbH, based in Germany and using the EUR as its reporting currency,\nis an asset management firm providing investment services for local high net worth and\ninstitutional investors seeking international exposures. The firm invests in the Swiss, UK, and\nUS markets, after conducting fundamental research in order to select individual investments.\nExhibit 1 presents recent information for exchange rates in these foreign markets.\nIn prior years, the correlation between movements in the foreign-currency asset returns for the\nUSD-denominated assets and movements in the exchange rate was estimated to be +0.50. After\nanalyzing global financial markets, Konstanze Ostermann, a portfolio manager at Guten\nInvestments, now expects that this correlation will increase to +0.80, although her forecast\nfor foreign-currency asset returns is unchanged.Ostermann believes that currency markets are\nefficient and hence that long-run gains cannot be achieved from active currency management,\nespecially after netting out management and transaction costs. She uses this philosophy to\nguide hedging decisions for her discretionary accounts, unless instructed otherwise by the\nclient.Ostermann is aware, however, that some investors hold an alternative view on the merits\nof active currency management. Accordingly, their portfolios have different investment\nguidelines. For these accounts, Guten Investments employs a currency specialist firm, Umlauf\nManagement, to provide currency overlay programs specific to each client’s investment\nobjectives. For most hedging strategies, Umlauf Management develops a market view based on\nunderlying fundamentals in exchange rates. However, when directed by clients, Umlauf Management\nuses options and a variety of trading strategies to unbundle all of the various risk factors\n(the “Greeks”) and trade them separately.Ostermann conducts an annual review for three of her\nclients and gathers the summary information presented in Exhibit 2.\n \n "
+        ],
+        "question_number": "23",
+        "question_text": "Based on Ostermann’s correlation forecast, the expected domestic-currency",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share22-27_1.png",
+            "DerivativesandCurrencyManagement_images/share22-27_2.png"
+        ],
+        "options": {
+            "A": "A.increase.",
+            "B": "B.decrease.",
+            "C": "C.remain unchanged."
+        },
+        "answer": "C",
+        "explanation": "$$\n\\sigma^2(R_{DC}) \\approx \\sigma^2(R_{FC}) + \\sigma^2(R_{FX}) + 2\\sigma(R_{FC})\\sigma(R_{FX})\\rho(R_{FC}R_{FX})\n$$\n\nIf the correlation increases from +0.50 to +0.80, then the variance of the expected domestic-currency return will increase—but this will not affect the level of the expected domestic-currency return (RDC). Refer to the equation shown for the answer in Question 1 and note that Ostermann’s expected RFC has not changed. (Once again, note as well that RFX is defined with the domestic currency as the price currency.) A and B are incorrect. An increase in the expected correlation between movements in the foreign-currency asset returns and movements in the spot rates from 0.50 to 0.80 would increase the domestic-currency return risk but would not impact the expected domestic-currency return.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Variance and correlation, Foreign exchange risk, Expected returns",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Guten Investments GmbH, based in Germany and using the EUR as its reporting currency,\nis an asset management firm providing investment services for local high net worth and\ninstitutional investors seeking international exposures. The firm invests in the Swiss, UK, and\nUS markets, after conducting fundamental research in order to select individual investments.\nExhibit 1 presents recent information for exchange rates in these foreign markets.\nIn prior years, the correlation between movements in the foreign-currency asset returns for the\nUSD-denominated assets and movements in the exchange rate was estimated to be +0.50. After\nanalyzing global financial markets, Konstanze Ostermann, a portfolio manager at Guten\nInvestments, now expects that this correlation will increase to +0.80, although her forecast\nfor foreign-currency asset returns is unchanged.Ostermann believes that currency markets are\nefficient and hence that long-run gains cannot be achieved from active currency management,\nespecially after netting out management and transaction costs. She uses this philosophy to\nguide hedging decisions for her discretionary accounts, unless instructed otherwise by the\nclient.Ostermann is aware, however, that some investors hold an alternative view on the merits\nof active currency management. Accordingly, their portfolios have different investment\nguidelines. For these accounts, Guten Investments employs a currency specialist firm, Umlauf\nManagement, to provide currency overlay programs specific to each client’s investment\nobjectives. For most hedging strategies, Umlauf Management develops a market view based on\nunderlying fundamentals in exchange rates. However, when directed by clients, Umlauf Management\nuses options and a variety of trading strategies to unbundle all of the various risk factors\n(the “Greeks”) and trade them separately.Ostermann conducts an annual review for three of her\nclients and gathers the summary information presented in Exhibit 2.\n \n "
+        ],
+        "question_number": "24",
+        "question_text": "Based on Ostermann’s views regarding active currency management, the",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share22-27_1.png",
+            "DerivativesandCurrencyManagement_images/share22-27_2.png"
+        ],
+        "options": {
+            "A": "A.0%",
+            "B": "B.50%",
+            "C": "C.100%"
+        },
+        "answer": "A",
+        "explanation": "Guten believes that, due to efficient currency markets, there should not be any\nlong-run gains for speculating (or active management) in currencies, especially after netting\nout management and transaction costs. Therefore, both currency hedging and actively trading\ncurrencies represent a cost to the portfolio with little prospect of consistently positive\nactive returns. Given a long investment horizon and few immediate liquidity needs, Guten is\nmost likely to choose to forgo currency hedging and its associated costs.\nB and C are incorrect because given a long investment horizon and little immediate liquidity\nneeds, Guten is most likely to choose to forgo currency hedging and its associated costs. Guten\nbelieves that due to efficient currency markets there should not be any long-run gains when\nspeculating in currencies, especially after netting out management and transaction costs.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Efficient market hypothesis, Currency hedging, Active management",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Guten Investments GmbH, based in Germany and using the EUR as its reporting currency,\nis an asset management firm providing investment services for local high net worth and\ninstitutional investors seeking international exposures. The firm invests in the Swiss, UK, and\nUS markets, after conducting fundamental research in order to select individual investments.\nExhibit 1 presents recent information for exchange rates in these foreign markets.\nIn prior years, the correlation between movements in the foreign-currency asset returns for the\nUSD-denominated assets and movements in the exchange rate was estimated to be +0.50. After\nanalyzing global financial markets, Konstanze Ostermann, a portfolio manager at Guten\nInvestments, now expects that this correlation will increase to +0.80, although her forecast\nfor foreign-currency asset returns is unchanged.Ostermann believes that currency markets are\nefficient and hence that long-run gains cannot be achieved from active currency management,\nespecially after netting out management and transaction costs. She uses this philosophy to\nguide hedging decisions for her discretionary accounts, unless instructed otherwise by the\nclient.Ostermann is aware, however, that some investors hold an alternative view on the merits\nof active currency management. Accordingly, their portfolios have different investment\nguidelines. For these accounts, Guten Investments employs a currency specialist firm, Umlauf\nManagement, to provide currency overlay programs specific to each client’s investment\nobjectives. For most hedging strategies, Umlauf Management develops a market view based on\nunderlying fundamentals in exchange rates. However, when directed by clients, Umlauf Management\nuses options and a variety of trading strategies to unbundle all of the various risk factors\n(the “Greeks”) and trade them separately.Ostermann conducts an annual review for three of her\nclients and gathers the summary information presented in Exhibit 2.\n \n "
+        ],
+        "question_number": "25",
+        "question_text": "The active currency management approach that Umlauf Management is least likely",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share22-27_1.png",
+            "DerivativesandCurrencyManagement_images/share22-27_2.png"
+        ],
+        "options": {
+            "A": "A.volatility trading.",
+            "B": "B.technical analysis.",
+            "C": "C.economic fundamentals."
+        },
+        "answer": "B",
+        "explanation": "Umlauf develops a market view based on underlying fundamentals in exchange rates\n(an economic fundamental approach). When directed by clients, Umlauf uses options and a variety\nof trading strategies to unbundle all of the various risk factors and trades them separately (a\nvolatility trading approach).A market technical approach would entail forming a market view\nbased on technical analysis (i.e., a belief that historical prices incorporate all relevant\ninformation on future price movements and that such movements have a tendency to repeat).A is\nincorrect because, in using options and a variety of trading strategies to unbundle all of the\nvarious risk factors and trade them separately, Umlauf is likely to periodically employ\nvolatility trading-based currency strategies.C is incorrect because, in developing a market\nview based on underlying fundamentals in exchange rates, Umlauf does utilize an economic\nfundamentals approach.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Economic fundamentals, Volatility trading, Technical analysis",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Guten Investments GmbH, based in Germany and using the EUR as its reporting currency,\nis an asset management firm providing investment services for local high net worth and\ninstitutional investors seeking international exposures. The firm invests in the Swiss, UK, and\nUS markets, after conducting fundamental research in order to select individual investments.\nExhibit 1 presents recent information for exchange rates in these foreign markets.\nIn prior years, the correlation between movements in the foreign-currency asset returns for the\nUSD-denominated assets and movements in the exchange rate was estimated to be +0.50. After\nanalyzing global financial markets, Konstanze Ostermann, a portfolio manager at Guten\nInvestments, now expects that this correlation will increase to +0.80, although her forecast\nfor foreign-currency asset returns is unchanged.Ostermann believes that currency markets are\nefficient and hence that long-run gains cannot be achieved from active currency management,\nespecially after netting out management and transaction costs. She uses this philosophy to\nguide hedging decisions for her discretionary accounts, unless instructed otherwise by the\nclient.Ostermann is aware, however, that some investors hold an alternative view on the merits\nof active currency management. Accordingly, their portfolios have different investment\nguidelines. For these accounts, Guten Investments employs a currency specialist firm, Umlauf\nManagement, to provide currency overlay programs specific to each client’s investment\nobjectives. For most hedging strategies, Umlauf Management develops a market view based on\nunderlying fundamentals in exchange rates. However, when directed by clients, Umlauf Management\nuses options and a variety of trading strategies to unbundle all of the various risk factors\n(the “Greeks”) and trade them separately.Ostermann conducts an annual review for three of her\nclients and gathers the summary information presented in Exhibit 2.\n \n "
+        ],
+        "question_number": "26",
+        "question_text": "Based on Exhibit 2, the currency overlay program most appropriate for Braunt",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share22-27_1.png",
+            "DerivativesandCurrencyManagement_images/share22-27_2.png"
+        ],
+        "options": {
+            "A": "A.be fully passive.",
+            "B": "B.allow limited directional views.",
+            "C": "C.actively manage foreign exchange as an asset class."
+        },
+        "answer": "B",
+        "explanation": "Braunt Pensionskasse provides the manager with limited discretion in managing the\nportfolio’s currency risk exposures.This would be most consistent with allowing the currency\noverlay manager to take directional views on future currency movements (within predefined\nbounds) where the currency overlay is limited to the currency exposures already in the foreign\nasset portfolio. It would not be appropriate to use a fully-passive hedging approach since it\nwould eliminate any alpha from currency movements. Further, a currency overlay program, which\nconsiders “foreign exchange as an asset class”, would likely expose Braunt’s portfolio to\nmore currency risk than desired given the given primary performance objectives.A is incorrect\nbecause a directional view currency overlay program is most appropriate given the limited\ndiscretion Braunt Pensionskasse has given the manager.A fully passive currency overlay program\nis more likely to be used when a client seeks to hedge all the currency risk.C is incorrect\nbecause a directional view currency overlay program is most appropriate given the limited\ndiscretion Braunt Pensionskasse has given the manager. In contrast, the concept of “foreign\nexchange as an asset class” allows the currency overlay manager to take currency exposure\npositions in any currency pair where there is value-added to be harvested.",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Currency Risk Management, Overlay Strategies, Asset Allocation",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "share_context": [
+            "Guten Investments GmbH, based in Germany and using the EUR as its reporting currency,\nis an asset management firm providing investment services for local high net worth and\ninstitutional investors seeking international exposures. The firm invests in the Swiss, UK, and\nUS markets, after conducting fundamental research in order to select individual investments.\nExhibit 1 presents recent information for exchange rates in these foreign markets.\nIn prior years, the correlation between movements in the foreign-currency asset returns for the\nUSD-denominated assets and movements in the exchange rate was estimated to be +0.50. After\nanalyzing global financial markets, Konstanze Ostermann, a portfolio manager at Guten\nInvestments, now expects that this correlation will increase to +0.80, although her forecast\nfor foreign-currency asset returns is unchanged.Ostermann believes that currency markets are\nefficient and hence that long-run gains cannot be achieved from active currency management,\nespecially after netting out management and transaction costs. She uses this philosophy to\nguide hedging decisions for her discretionary accounts, unless instructed otherwise by the\nclient.Ostermann is aware, however, that some investors hold an alternative view on the merits\nof active currency management. Accordingly, their portfolios have different investment\nguidelines. For these accounts, Guten Investments employs a currency specialist firm, Umlauf\nManagement, to provide currency overlay programs specific to each client’s investment\nobjectives. For most hedging strategies, Umlauf Management develops a market view based on\nunderlying fundamentals in exchange rates. However, when directed by clients, Umlauf Management\nuses options and a variety of trading strategies to unbundle all of the various risk factors\n(the “Greeks”) and trade them separately.Ostermann conducts an annual review for three of her\nclients and gathers the summary information presented in Exhibit 2.\n \n "
+        ],
+        "question_number": "27",
+        "question_text": "Based on Exhibit 2, the client most likely to benefit from the introduction of",
+        "image": "",
+        "share_image": [
+            "DerivativesandCurrencyManagement_images/share22-27_1.png",
+            "DerivativesandCurrencyManagement_images/share22-27_2.png"
+        ],
+        "options": {
+            "A": "A.Adele Kastner.",
+            "B": "B.Braunt Pensionskasse.",
+            "C": "C.Franz Trading GmbH."
+        },
+        "answer": "C",
+        "explanation": "The primary performance objective of Franz Trading GmbH is to add alpha to the\nportfolio, and thus has given the manager discretion in trading currencies. This is essentially\na “foreign exchange as an asset class” approach.Braunt Pensionskasse and Kastner have more\nconservative currency strategies, and thus are less likely to benefit from the different\nstrategies that a new overlay manager might employ.A is incorrect because Franz Trading GmbH is\nmore likely to benefit from the introduction of an additional overlay manager. Kastner is more\nlikely to have a fully passive currency overlay program.B is incorrect because Franz Trading\nGmbH is more likely to benefit from the introduction of an additional overlay manager. Braunt\nis more likely to have a currency overlay program where the manager takes a directional view on\nfuture currency movements.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency overlay strategies, Alpha generation, Portfolio management",
+        "book label": "Derivatives and Currency Management",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    }
+]

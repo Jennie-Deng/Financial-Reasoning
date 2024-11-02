@@ -1,0 +1,1515 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Stocks BWQ and ZER are each currently priced at $100 per share. Over the next year, stock BWQ\nis expected to generate significant benefits whereas stock ZER is not expected to generate any\nbenefits. There are no carrying costs associated with holding either stock over the next year.\nCompared with ZER, the one-year forward price of BWQ is most likely:",
+        "image": "",
+        "options": {
+            "A": "A.lower.",
+            "B": "B.the same.",
+            "C": "C.higher."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The forward price of each stock is found by compounding the spot\nprice by the risk-free rate for the period and then subtracting the future value of any\nbenefits and adding the future value of any costs. In the absence of any benefits or costs, the\none-year forward prices of BWQ and ZER should be equal. After subtracting the benefits related\nto BWQ, the one-year forward price of BWQ is lower than the one-year forward price of ZER. ：\n这道题目问的是BWQ和ZER的股票目前每股定价为100美元。在接下来的一年中，股票BWQ预计将产生重大效益\n，而股票ZER预计不会产生任何效益。在未来一年内持有任何一种股票都没有相关的成本。与ZER相比，BWQ的\n一年期远期价格最有可能是： A是正确的。每只股票的远期价格是通过将现货价格与该期间的无风险利率复\n合，然后减去任何收益的未来价值，再加上任何成本的未来价值而得出的。在没有任何收益或成本的情况下\n，BWQ和ZER的一年期远期价格应相等。扣除与BWQ相关的收益后，BWQ的一年期远期价格低于ZER的一年期远期\n价格。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forward Pricing, Cost of Carry Model, Dividend Adjustments",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "Which of the following statements best represents information discovery in the futures\nmarket?",
+        "image": "",
+        "options": {
+            "A": "A.The futures price is predictive.",
+            "B": "B.Information flows more slowly into the futures market than into the spot market.",
+            "C": "C.The futures market reveals the price that the holder of the asset can take to avoid"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The futures market reveals the price that the holder of an asset\ncould take and avoid the risk of uncertainty. A is incorrect because although the futures price\nis sometimes thought of as predictive, it provides only a little more information than does a\nspot price and is not really a forecast of the futures spot price. B is incorrect because by\nvirtue of the fact that the futures market requires less capital, information can flow into the\nfutures market before it gets into the spot market. ： 这道题目问的是以下哪项陈述最能代表期货市\n场的信息发现？ C是正确的。期货市场揭示了资产持有者可以承受的价格，避免了不确定性风险。 A是不正\n确的，因为尽管期货价格有时被认为是可预测的，但它提供的信息只比现货价格多一点，并不是对期货即期\n价格的真正预测。 B是不正确的，因为期货市场需要较少的资本，信息可以在进入现货市场之前流入期货市\n场。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Futures market dynamics, Price discovery mechanisms, Information flow in financial markets",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "Based on put-call parity, a trader who combines a long asset, a long put, and a short call\nwill create a synthetic:",
+        "image": "",
+        "options": {
+            "A": "A.long bond.",
+            "B": "B.fiduciary call.",
+            "C": "C.protective put."
+        },
+        "answer": "A",
+        "explanation": "A is correct. A long bond can be synthetically created by combining a long asset, a\nlong put, and a short call. A fiduciary call is created by combining a long call with a risk\nfree bond. A protective put is created by combining a long asset with a long put. 这道题目问的\n是基于买卖权平价，将持有资产、持有看跌期权和卖出看涨期权组合在一起的交易者将合成什么？ A是正确\n的。持有一个债券可以通过持有资产、持有看跌期权和卖出看涨期权组合来合成。 信用买权是通过持有看涨\n期权与无风险债券相结合而产生的。保护性看跌期权是通过将持有资产与持有看跌期权相结合而产生的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Put-call parity, Synthetic positions, Options strategies",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Which of the following statements about the short position in a deliverable forward contract\nis most likely accurate?",
+        "image": "",
+        "options": {
+            "A": "A.It is obligated to deliver the specified asset.",
+            "B": "B.It makes a cash payment to the long at settlement.",
+            "C": "C.It has no default risk."
+        },
+        "answer": "A",
+        "explanation": "The short in a Forward contract is obligated to deliver the specified asset at the\ncontract price on the settlement date. Either party may have default risk if there is any\nprobability that the counterparty may not perform under the terms of the contract.远期合同中的\n空头有义务在结算日按合同价格交付指定资产。如果对方有任何可能不履行合同条款，任何一方都可能有违\n约风险。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Delivery Obligations, Default Risk",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "An arbitrageur will most likely execute a trade when:",
+        "image": "",
+        "options": {
+            "A": "A.transaction costs are low.",
+            "B": "B.costs of short-selling are high.",
+            "C": "C.prices are consistent with the law of one price."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Some arbitrage opportunities represent such small price discrepancies\nthat they are only worth exploiting if the transaction costs are low. An arbitrage opportunity\nmay require short-selling assets at costs that eliminate any profit potential. If the law of\none price holds, there is no arbitrage opportunity. ： 这道题目问的是套利者最有可能在哪一个情况\n下进行交易？ A是正确的。一些套利机会是由于出现一个比较小的价格差异，只有在交易成本较低的情况下\n才值得利用。套利机会需要卖空的成本较小。如果一价定律成立，就没有套利机会。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Transaction Costs, Short-Selling Costs, Law of One Price",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "Which of the following statements regarding the settlement of forward contracts is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Contract settlement by cash has different economic effects from those of a settlement by\ndelivery.",
+            "B": "B.Non-deliverable forwards and contracts for differences have distinct settlement procedures.",
+            "C": "C.At cash settlement, when the long party acquires the asset in the market, it effectively pays"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. In the case of cash settlement, the long can acquire the asset,\neffectively paying the forward price, F0(T).A is incorrect because forward contracts settled by\ncash or by delivery have the same economic effect.B is incorrect because both non-deliverable\nforwards and contracts for differences can settle by an exchange of cash. ： 这道题目问的是下列\n关于远期合约结算正确的是哪一项？ C是正确的。在现金结算下，多头支付远期价格就可以获得资产。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Cash Settlement, Economic Effects",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "In contrast to gambling, derivatives speculation:",
+        "image": "",
+        "options": {
+            "A": "A.has a positive public image.",
+            "B": "B.is a form of financial risk taking.",
+            "C": "C.benefits the financial markets and thus society."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Derivatives trading brings extensive benefits to financial markets\n(low costs, low capital requirements, ease of going short, etc.) and thus benefits society as a\nwhole. Gambling, on the other hand, typically benefits only a limited number of participants. A\nis incorrect because the general image of speculators is not a good one. Speculators are often\nthought to be short-term traders who attempt to exploit temporary inefficiencies, caring little\nabout long-term fundamental values. B is incorrect because speculation and gambling are both\nforms of financial risk taking. ： 这道题目问的是与赌博相比、衍生品投机是怎么样的？ C是正确的。\n衍生品交易给金融市场带来了广泛的利益（低成本、低资本要求、易于做空等），从而使整个社会受益。而\n赌博通常只给有限的参与者带来好处。 A是不正确的，因为投机者的总体形象并不好。投机者通常被认为是\n短期交易者，他们试图寻找利用暂时的市场无效性，很少关心长期的基本价值。 B是不正确的，因为投机和\n赌博都是承担金融风险的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives trading benefits, Public perception of speculators, Financial risk taking",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "To the holder of a long position, it is more desirable to own a forward contract than a\nfutures contract when interest rates and futures prices are:",
+        "image": "",
+        "options": {
+            "A": "A.negatively correlated.",
+            "B": "B.uncorrelated.",
+            "C": "C.positively correlated."
+        },
+        "answer": "A",
+        "explanation": "A is correct. If futures prices and interest rates are negatively correlated,\nforwards are more desirable to holders of long positions than are futures. This is because\nrising prices lead to futures profits that are reinvested in periods of falling interest rates.\nIt is better to receive all of the cash at expiration under such conditions. If futures prices\nand interest rates are uncorrelated, forward and futures prices will be the same. If futures\nprices are positively correlated with interest rates, futures contracts are more desirable to\nholders of long positions than are forwards. ： 这道题目问的是对于持有多头头寸的人，当利率和期\n货价格什么关系下，远期合约更受欢迎？ A是正确的。如果期货价格和利率呈负相关，那么远期比期货更适\n合持有多头头寸的人。这是因为价格上涨会导致期货利润在利率下降的时期被重新投资。在这种情况下，最\n好在到期时收到全部现金。如果期货价格和利率不相关，远期和期货价格将相同。如果期货价格与利率正相\n关，那么持有多头头寸的期货合约比远期合约更受欢迎。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest rate correlation with futures prices, Long vs. short position preferences, Futures vs. forwards contracts.",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "The buyer of an option has a contingent claim in the sense that the option creates:",
+        "image": "",
+        "options": {
+            "A": "A.a right.",
+            "B": "B.an obligation.",
+            "C": "C.a linear payoff with respect to gains and losses of the underlying."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. A contingent claim, a derivative in which the outcome or payoff\ndepends on the outcome or payoff of an underlying asset, has come to be associated with a\nright, but not an obligation, to make a final payment contingent on the performance of the\nunderlying. B is incorrect because an option, as a contingent claim, grants the right but not\nthe obligation to buy or sell the underlying at a later date. C is incorrect because the holder\nof an option has a choice of whether to exercise the option. This choice creates a payoff that\ntransforms the underlying payoff in a more pronounced manner than does a forward, futures, or\nswap, which provide linear payoffs. Options are different in that they limit losses in one\ndirection. ： 这道题目问的是期权的买方有一项或有权益，即期权产生： A是正确的。期权的买方是被赋\n予在日后购买或出售标的资产的权利，而非义务，所以B错误。C是不正确的，因为期权买方有权选择是否行\n权。这种选择下它的收益跟基础资产的关系是非线性的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options, Derivatives, Payoff Structures",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "A futures contract is best described as a contract that is:",
+        "image": "",
+        "options": {
+            "A": "A.standardized.",
+            "B": "B.subject to credit risk.",
+            "C": "C.marked to market throughout the trading day."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. A futures contract is a standardized derivative contract.B is\nincorrect because through its clearinghouse the futures exchange provides a credit guarantee\nthat it will make up a loss in the event a losing party cannot pay.C is incorrect because a\nfutures contract is marked to market at the end of each day, a process in which the futures\nclearinghouse determines an average of the final futures trade of the day and designates that\nprice as the settlement price. ： 这道题目问的是期货合约是一个什么样的合约？ A是正确的。期货合\n约是一种标准化的衍生合约。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Futures Contracts, Credit Risk",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "At expiration, a European put option will be valuable if the exercise price is:",
+        "image": "",
+        "options": {
+            "A": "A.less than the underlying price.",
+            "B": "B.equal to the underlying price.",
+            "C": "C.greater than the underlying price."
+        },
+        "answer": "C",
+        "explanation": "C is correct. A European put option will be valuable at expiration if the exercise\nprice is greater than the underlying price. The holder can put (deliver) the underlying and\nreceive the exercise price which is higher than the spot price. A European put option would be\nworthless if the exercise price was equal to or less than the underlying price. ： 这道题目问的\n是到期时，一个欧式看跌期权是有价值的时候，行权价格为？ C是正确的。如果行权价格高于标的价格，欧\n式看跌期权在到期时将是有价值的。持有人可以卖出标的证券，并获得高于现货价格的行权价格。如果行权\n价格等于或低于标的价格，欧式看跌期权将没有价值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options Valuation, Derivatives, European Options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "To determine the price of an option today, the binomial model requires:",
+        "image": "",
+        "options": {
+            "A": "A.selling one put and buying one offsetting call.",
+            "B": "B.buying one unit of the underlying and selling one matching call.",
+            "C": "C.using the risk-free rate to determine the required number of units of the underlying."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Pricing an option relies on the facts that a perfectly hedged\ninvestment earns the risk-free rate and that, based on the binomial option pricing model, the\nsize of the two possible changes in the option price (meaning the potential step up or step\ndown in the option value) after one period are equivalent. 这道题目问：要确定期权t=0的价格，二\n叉树模型要求： 这里补充说明“二叉树模型”是什么？ 如附图：买入long “h”份股票S，并且卖出\nshort“1”份看涨期权，此时构建了一个投资组合portfolio。 经过①至④可以构建一个价值不变的投资组\n合。 此时t=0时刻的投资组合价值V0=hS0-c0，应该和t=1时刻投资组合价值V1=hS1-c1 折现到0时间点是相等\n的V0=V1。 回到题目： A不对。call和put不能构成二叉树模型“binomial model”。 B不正确。一比一的关\n系是不对的，应该是h比1的关系。 C是正确的。期权定价依赖于无风险利率，而不是真实的市场利率。 这个\n问题在一级中考查有点难，主要是涉及了二级衍生的知识。以下图形可以方便理解。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option Pricing, Binomial Model, Risk-Free Rate",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Which of the following statements regarding commodity derivatives is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The primary commodity derivatives are futures.",
+            "B": "B.Commodities are subject to a set of well-defined risk factors.",
+            "C": "C.Commodity traders and financial traders today are distinct groups within the financial world."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The primary commodity derivatives are futures, but forwards,\nswaps, and options are also used. B is incorrect because the commodity market is extremely\nlarge and subject to an almost unimaginable array of risks. C is incorrect because commodity\nand financial traders have become relatively homogeneous since the creation of financial\nfutures. Historically, commodity traders and financial traders were quite different groups, and\nthere used to be a tendency to think of the commodity world as somewhat separate from the\nfinancial world. ： 这道题目问的是下列关于大宗商品衍生品的陈述中哪一项是正确的？ A是正确的。主\n要的大宗商品衍生品是期货，但是也有远期、互换和期权。 B是不正确的，因为大宗商品市场非常大，面临\n着几乎难以想象的一系列风险。 C是不正确的，现在大宗商品交易商和金融交易员变得相对同质。过去人们\n往往认为大宗商品世界与金融世界有些不同。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "- Commodity Derivatives\n- Risk Management in Commodity Markets\n- Integration of Commodity and Financial Markets",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "In contrast to a forward contract, a futures contract:",
+        "image": "",
+        "options": {
+            "A": "A.trades over-the-counter.",
+            "B": "B.is initiated at a zero value.",
+            "C": "C.is marked-to-market daily."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Futures contracts are marked-to-market on a daily basis. The\naccumulated gains and losses from the previous day’s trading session are deducted from the\naccounts of those holding losing positions and transferred to the accounts of those holding\nwinning positions. Futures contracts trade on an exchange, forward contracts are over-the-\ncounter transactions. Typically both forward and futures contracts are initiated at a zero\nvalue. ： 这道题目问的是与远期合约相比，期货合约是？ C是正确的。期货合约每天按市价结算，逐日盯\n市制度。期货合约在交易所交易，远期合约是场外交易。远期合约和期货合约的价值都是以零开始的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Futures and Forwards, Mark-to-Market",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "At expiration, American call options are worth:",
+        "image": "",
+        "options": {
+            "A": "A.less than European call options.",
+            "B": "B.the same as European call options.",
+            "C": "C.more than European call options."
+        },
+        "answer": "B",
+        "explanation": "B is correct. At expiration, the values of American and European call options are\neffectively the same; both are worth the greater of zero and the exercise value. ： 这道题目问\n的是在到期时，美式看涨期权的价值是： B是正确的。到期时，美式和欧式看涨期权的价值实际上是相同的\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Options valuation, American vs. European options, Expiration value",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Compared with exchange-traded derivatives, over-the-counter derivatives would most likely be\ndescribed as:",
+        "image": "",
+        "options": {
+            "A": "A.standardized.",
+            "B": "B.less transparent.",
+            "C": "C.more transparent."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Over-the counter-derivatives markets are customized and mostly\nunregulated. As a result, over-the-counter markets are less transparent in comparison with the\nhigh degree of transparency and standardization associated with exchange-traded derivative\nmarkets. A is incorrect because exchange-traded derivatives are standardized, whereas over-the\ncounter derivatives are customized. C is incorrect because exchange-traded derivatives are\ncharacterized by a high degree of transparency because all transactions are disclosed to\nexchanges and regulatory agencies, whereas over-the-counter derivatives are relatively opaque.\n： 这道题目问的是与场内衍生品相比，场外衍生品最有可能被描述为： 场外衍生品市场是定制的大多不受\n监管。因此，与场内衍生品市场的高度透明度和标准化相比，场外市场的透明度较低。B正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives markets, Over-the-counter (OTC) derivatives, Exchange-traded derivatives",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Holding an asset and buying a put on that asset is equivalent to:",
+        "image": "",
+        "options": {
+            "A": "A.initiating a fiduciary call.",
+            "B": "B.buying a risk-free zero-coupon bond and selling a call option.",
+            "C": "C.selling a risk-free zero-coupon bond and buying a call option."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Under put–call parity, initiating a fiduciary call (buying a call\noption on an asset that expires at time T together with a risk-free zero-coupon bond that also\nexpires at time T) is equivalent to holding the same asset and initiating a protective put on\nit (buying a put option with an exercise price of X that can be used to sell the asset for X at\ntime T). ： 这道题目问的是持有资产并购买该资产的看跌期权相当于： A是正确的。在买卖权平价公式下\n，一个信托看涨期权（购买在时间T到期的资产的看涨期权和在时间T到期的无风险零息债券）相当于持有同\n一资产和一个保护看跌期权（购买一个行权价格为X的看跌期权，可用于以X出售该资产在时间T）。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Put-Call Parity, Fiduciary Call, Protective Put",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Under put–call–forward parity, which of the followingtransactions is risk free:",
+        "image": "",
+        "options": {
+            "A": "A.Short call, long put, long forward contract, long\\nrisk-free bond.",
+            "B": "B.Long call, short put, long forward contract, short\\nrisk-free bond.",
+            "C": "C.Long call, long put, short forward contract, short\\nrisk-free bond."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Purchasing a long forward contract and a risk-free bond creates a\nsynthetic asset. Combining a long synthetic asset, a long put, and a short call is risk free\nbecause its payoffs produce a known cash flow of the value of the exercise price. ： 这道题目问\n的是根据远期买卖权平价公式，以下哪项交易是无风险的？ A是正确的。购买远期合约和无风险债券合成了\n一项资产。将持有一个资产、一个看跌期权和卖出一个看涨期权组合起来是无风险的，因为其收益就是行权\n价格。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Put-Call-Forward Parity, Synthetic Asset, Risk-Free Transactions",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Combining a protective put with a forward contractgenerates equivalent outcomes at\nexpiration to those of a:",
+        "image": "",
+        "options": {
+            "A": "A.fiduciary call.",
+            "B": "B.long call combined with a short asset.",
+            "C": "C.forward contract combined with a risk-free bond."
+        },
+        "answer": "A",
+        "explanation": "A is correct. Put-call forward parity demonstrates that the outcome of a protective\nput with a forward contract (long put, long risk-free bond, long forward contract) equals the\noutcome of a fiduciary call (long call, long risk-free bond). The outcome of a protective put\nwith a forward contract is also equal to the outcome of a protective put with asset (long put,\nlong asset). ： 这道题目问的是将保护性看跌期权与远期合约相结合，可在到期时产生与下列哪一个有相\n同的结果？ A是正确的。根据远期买卖权平价公式：带有远期合约的保护性看跌期权等于信托看涨期权。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Put-call parity, Forward contract, Protective put",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "If a call option is priced higher than the binomial model predicts, investors can earn a\nreturn in excess of the risk-free rate by:",
+        "image": "",
+        "options": {
+            "A": "A.investing at the risk-free rate, selling a call, and selling the underlying.",
+            "B": "B.borrowing at the risk-free rate, buying a call, and buying the underlying.",
+            "C": "C.borrowing at the risk-free rate, selling a call, and buying the underlying."
+        },
+        "answer": "C",
+        "explanation": "C is correct. If an option is trading above the value predicted by the binomial\nmodel, investors can engage in arbitrage by selling a call, buying shares of the underlying,\nand funding the transaction by borrowing at the risk-free rate. This will earn a return in\nexcess of the risk-free rate. ： 这道题目问的是如果看涨期权的定价高于二项式模型的预测，投资者可\n以通过以下哪个方式获得超过无风险利率的回报？ C是正确的。如果期权的交易高于二项式模型预测的价值\n，投资者可以通过卖出看涨期权、购买标的股票以及以无风险利率借贷来为交易提供资金，从而进行套利。\n这将获得超过无风险利率的回报。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Arbitrage, Binomial Model, Option Pricing",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "A beneficial opportunity created by the derivatives market is the ability to:",
+        "image": "",
+        "options": {
+            "A": "A.adjust risk exposures to desired levels.",
+            "B": "B.generate returns proportional to movements in the underlying.",
+            "C": "C.simultaneously take long positions in multiple highly liquid fixed-income securities."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Derivatives allow market participants to practice more effective\nrisk management, a process by which an organization, or individual, defines the level of risk\nit wishes to take, measures the level of risk it is taking, and adjusts the latter to equal the\nformer. B is incorrect because derivatives are characterized by a relatively high degree of\nleverage, meaning that participants in derivatives transactions usually have to invest only a\nsmall amount, as opposed to a large amount, of their own capital relative to the value of the\nunderlying. This allows participants to generate returns that are disproportional, as opposed\nto proportional, to movements in the underlying. C is incorrect because derivatives are not\nneeded to copy strategies that can be implemented with the underlying on a standalone basis.\nRather, derivatives can be used to create strategies that cannot be implemented with the\nunderlying alone. Simultaneously taking long positions in multiple highly liquid fixed-income\nsecurities is a strategy that can be implemented with the underlying securities on a standalone\nbasis. ： 这道题目问的是衍生品市场创造的一个有利机会是： A.可以将风险敞口调整到期望水平。A正确\nB.可以产生与标的资产变动成比例的回报。错误，它允许产生与标的资产的波动不相称的回报，而不是成比\n例的回报。 C.可以同时持有多种高流动性固定收益证券。这个说法错误，因为衍生工具不需要复制就可以单\n独实施标的资产的策略。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Risk Management, Leverage in Derivatives, Derivatives Strategies",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "A characteristic of forward commitments is that they:",
+        "image": "",
+        "options": {
+            "A": "A.provide linear payoffs.",
+            "B": "B.do not depend on the outcome or payoff of an underlying asset.",
+            "C": "C.provide one party the right to engage in future transactions on terms agreed on in advance."
+        },
+        "answer": "A",
+        "explanation": "： A is correct because forward commitments provide linear payoffs.B is incorrect\nbecause forward commitments depend on the outcome or payoff of an underlying asset.C is\nincorrect because forward commitments obligate parties to make (not provide the right to\nengage) a final payment contingent on the performance of the underlying. ： 这道题目问的是远期\n承诺的一个特点是： A是正确的，因为远期承诺提供线性回报。 B是不正确的，因为远期承诺取决于标的资\n产的结果或收益。 C是不正确的，因为远期承诺使双方都有义务根据标的资产的情况做出最终付款。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Forward Commitments, Payoff Structures",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "Which of the following combinations replicates a long derivative position?",
+        "image": "",
+        "options": {
+            "A": "A.A short derivative and a long asset",
+            "B": "B.A long asset and a short risk-free bond",
+            "C": "C.A short derivative and a short risk-free bond"
+        },
+        "answer": "B",
+        "explanation": "B is correct. A long asset and a short risk-free asset (meaning to borrow at the\nrisk-free rate) can be combined to produce a long derivative position. A is incorrect because a\nshort derivative and a long asset combine to produce a position equivalent to a long risk-free\nbond, not a long derivative. C is incorrect because a short derivative and a short risk-free\nbond combine to produce a position equivalent to a short asset, not a long derivative. ： 这道\n题目问的是以下哪种组合复制了一个持有衍生品头寸？ B是正确的。持有一个资产和卖出一个无风险资产\n（即以无风险利率借款）可以组合起来产生一个持有衍生品头寸。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Synthetic positions, Derivatives replication, Financial instruments",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Compared with the underlying spot market, derivative markets are more likely to have:",
+        "image": "",
+        "options": {
+            "A": "A.greater liquidity.",
+            "B": "B.higher transaction costs.",
+            "C": "C.higher capital requirements."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Derivative markets typically have greater liquidity than the\nunderlying spot market as a result of the lower capital required to trade derivatives compared\nwith the underlying. Derivatives also have lower transaction costs and lower capital\nrequirements than the underlying. B is incorrect because transaction costs for derivatives are\nlower than the underlying spot market. C is incorrect because derivatives markets have lower\ncapital requirements than the underlying spot market. ： 这道题目问的是与基础现货市场相比，衍生\n品市场更有可能： A是正确的。衍生品市场的流动性通常高于基础现货市场，因为与基础现货市场相比，交\n易衍生品所需的资本较低。衍生品的交易成本和资本要求也低于基础资产。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market liquidity, Transaction costs, Capital requirements",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "Which of the following derivatives provide payoffs that are non-linearly related to the\npayoffs of the underlying?",
+        "image": "",
+        "options": {
+            "A": "A.Options",
+            "B": "B.Forwards",
+            "C": "C.Interest-rate swaps"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Options are classified as a contingent claim which provides\npayoffs that are non-linearly related to the performance of the underlying. B is incorrect\nbecause forwards are classified as a forward commitment, which provides payoffs that are\nlinearly related to the performance of the underlying. C is incorrect because interest-rate\nswaps are classified as a forward commitment, which provides payoffs that are linearly related\nto the performance of the underlying. ： 这道题目问的是下列哪种衍生品的收益与标的资产的收益是呈\n非线性关系的？ A是正确的。期权它是一种或有权益，它的收益与标的资产的收益表现的是一个非线性的关\n系。而远期和互换的收益与标的资产的收益是呈线性关系的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options valuation, Derivatives, Contingent claims",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "A European call option and a European put option are written on the same underlying, and\nboth options have the same expiration date and exercise price. At expiration, it is possible\nthat both options will have:",
+        "image": "",
+        "options": {
+            "A": "A.negative values.",
+            "B": "B.the same value.",
+            "C": "C.positive values."
+        },
+        "answer": "B",
+        "explanation": "B is correct. If the underlying has a value equal to the exercise price at\nexpiration, both options will have zero value since they both have the same exercise price. For\nexample, if the exercise price is $25 and at expiration the underlying price is $25, both the\ncall option and the put option will have a value of zero. The value of an option cannot fall\nbelow zero. The holder of an option is not obligated to exercise the option; therefore, the\noptions each have a minimum value of zero. If the call has a positive value, the put, by\ndefinition, must have a zero value and vice versa. Both cannot have a positive value. 期权到期\n，说明Time value=0Option value (OV)=intrinsic value(TV) time value=intrinsic value (IV)写出在\nT时刻，两个期权的内在价值:call: OV=IV=Max[0, ST-X]put: OV=IV=Max[0, X-ST]假设ST＞X，此时call的\nOV大于0，put的OV=0，两个value不相等假设ST＜X，此时call的OV=0，put的OV大于0，两个value不相等假设\nST=X，此时call的OV=0，put的OV=0，两个value相等所以选B",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option Pricing, European Options, Intrinsic Value",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "In a declining interest rate environment, compared with a sequential-pay CMO's Class A\ntranche, its Class C tranche will be repaid：",
+        "image": "",
+        "options": {
+            "A": "A.earlier.",
+            "B": "B.at the same pace.",
+            "C": "C.later."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Lower interest rates entice homeowners to pay off their mortgages\nearly because they can refinance at lower rates. With a sequential-pay structure, the A tranche\nin a CMO will bear the first wave of prepayments until that tranche has been completely repaid\nits full principal investment. At that point, the next tranche (B) will bear prepayments until\nthat tranche has been fully repaid, and so on. Therefore, the Class C tranche of this CMO will\nbe repaid last, after both the Class A and B tranches. Based on the 2022 CFA Program CFA Level\nI Errata, Solution has been updated to latest version. 请（做了原版书课后题的同学）注意：2022年\n原版书课后题错误，CFA协会发布的勘误已更新在本题（英文/中文/视频），C是正确。 较低的利率使房主提\n前还款，因为可在市场以较低的利率再融资。按照顺序支付结构，CMO中的A层级将承担第一波预付款，直到\n该部分完全偿还掉。如果还有多余的CF，下一批B层级将继续承担预付款，直到还完B层级为止，依此类推。\n因此，本CMO的C层级将在A和B层级贷款之后，最后得到偿还。 CFA协会勘误链接\n“https://www.cfainstitute.org/en/programs/submit-errata”",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Mortgage-Backed Securities (MBS), Interest Rate Risk, Credit Tranching",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "Based on the binomial model, an increase in the actual probability of an upward move in the\nunderlying will result in the option price:",
+        "image": "",
+        "options": {
+            "A": "A.decreasing.",
+            "B": "B.remaining the same.",
+            "C": "C.increasing."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The binomial model does not consider the actual probabilities of\nupward and downward movements in determining the option value. Thus, a change in this\nprobability has no effect on the calculated option price. ： 这道题目问的是根据二项式模型，标的\n资产向上移动的实际概率增加将导致期权价格： B是正确的。二项式模型在确定期权价值时不考虑实际的上\n下波动概率。因此，该概率的变化对计算出的期权价格没有影响。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Binomial Model, Option Pricing, Risk-neutral Valuation",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "If no cash is initially exchanged, a swap is comparable to a series of forward contracts\nwhen:",
+        "image": "",
+        "options": {
+            "A": "A.the swap payments are variable.",
+            "B": "B.the combined value of all the forward contracts is zero.",
+            "C": "C.all the forward contracts have the same agreed-on price."
+        },
+        "answer": "B",
+        "explanation": "B is correct. When two parties engage in a series of forward contracts and\ninitially agree on a price of FS0(T), some of the forward contracts have positive values and\nsome have negative values, but their combined value equals zero.A is incorrect because for a\nswap, all payments are fixed and equal, not variable.C is incorrect because forward prices are\ndetermined by the spot price and the net cost of carry, meaning that forward contracts expiring\nat different times will have different prices, not the same price. ： 这道题目问的是如果最初没\n有交换现金，互换相当于怎样的一系列远期合约？ B是正确的。当双方签订一系列远期合约并初步商定\nFS0（T）的价格时，有些远期合约为正值，有些远期合约为负值，但其总价值为零。 A不正确，因为对于互\n换，所有付款都是固定相等的，而不是可变的。 C不正确，因为远期价格是由现货价格和持有成本决定的\n，这意味着在不同时间到期的远期合同将有不同的价格，而不是相同的价格。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Swaps, Forward Contracts, Valuation",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "With respect to a forward contract, as market conditions change:",
+        "image": "",
+        "options": {
+            "A": "A.only the price fluctuates.",
+            "B": "B.only the value fluctuates.",
+            "C": "C.both the price and the value fluctuate."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The value of the forward contract, unlike its price, will adjust as\nmarket conditions change. The forward price is fixed at initiation. ： 这道题目问的是对于远期合\n约，随着市场条件的变化会发生什么？ B是正确的。远期合约的价值不同于其价格，将随着市场条件的变化\n而调整。远期价格在开始时就是固定的。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Market Conditions, Contract Valuation",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "The junior and senior tranches of an asset-backed security:",
+        "image": "",
+        "options": {
+            "A": "A.have equivalent expected returns.",
+            "B": "B.have claims on separate underlying portfolios.",
+            "C": "C.may be differentially impacted by prepayments or credit losses."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. An asset-backed security is a derivative contract in which a\nportfolio of debt instruments is assembled and claims are issued on the portfolio in the form\nof tranches, which have different priorities of claims on the payments made by the debt\nsecurities such that prepayments or credit losses are allocated to the most junior tranches\nfirst and the most senior tranches last. A is incorrect because the expected returns of the\ntranches vary according to the perceived credit risk, with the senior tranches having the\nhighest credit quality and the junior tranches the lowest. Thus, the senior tranches have the\nlowest expected returns and the junior tranches have the highest. Notably, in a bond mutual\nfund or an ETF, all investors in the fund have equal claims, and so the rate of return earned\nby each investor is the same. B is incorrect because an asset-backed security is a derivative\ncontract in which a single portfolio of securities is assembled and claims are issued on the\nportfolio in the form of tranches. ： 这道题目问的是资产支持证券的初级和高级层级是怎样的？ C是\n正确的。资产支持证券的层级不同，会有不同的优先权，预付款或信贷损失被首先分配给最初级的层级，大\n多数高级层级在之后被分配。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Asset-Backed Securities, Tranches, Credit Risk Management",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "Forward commitments subject to default are:",
+        "image": "",
+        "options": {
+            "A": "A.forwards and futures.",
+            "B": "B.futures and interest rate swaps.",
+            "C": "C.interest rate swaps and forwards."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Interest rate swaps and forwards are over-the-counter contracts\nthat are privately negotiated and are both subject to default. Futures contracts are traded on\nan exchange, which provides a credit guarantee and protection against default. A is incorrect\nbecause futures are exchange-traded contracts which provide daily settlement of gains and\nlosses and a credit guarantee by the exchange through its clearinghouse. B is incorrect because\nfutures are exchange-traded contracts which provide daily settlement of gains and losses and a\ncredit guarantee by the exchange through its clearinghouse. ： 这道题目问的是以下哪一个选项里的\n远期承诺都有可能违约。 C是正确的。利率互换和远期合约都是场外交易，都可能会违约。而期货合约在交\n易所交易，交易所提供信用担保和违约保护。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Over-the-counter contracts, Credit risk, Exchange-traded contracts",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "The value of a European call option at expiration is the greater of zero or the:",
+        "image": "",
+        "options": {
+            "A": "A.value of the underlying.",
+            "B": "B.value of the underlying minus the exercise price.",
+            "C": "C.exercise price minus the value of the underlying."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The value of a European call option at expiration is the greater of\nzero or the value of the underlying minus the exercise price. ： 对于欧式看涨期权到期时的价值\n，应该是在0和以下哪一个选项中取大值？ B是正确的。 欧式看涨期权到期时的价值在以下两个值中取大值\n：零，或是，标的资产价值减去行权价格。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Options Pricing, Derivatives, European Call Options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Which of the following transactions is the equivalent of a synthetic long call position?",
+        "image": "",
+        "options": {
+            "A": "A.Long asset, long put, short call",
+            "B": "B.Long asset, long put, short bond",
+            "C": "C.Short asset, long call, long bond"
+        },
+        "answer": "B",
+        "explanation": "B is correct. According to put?call parity, a synthetic call can be constructed by\ncombining a long asset, long put, and short bond positions. ： 这道题目问的是下列哪一项交易相当\n于合成一个持有看涨期权？ B是正确的。根据买卖权平价，合成一个持有看涨期权可以通过组合持有资产、\n持有看跌期权和卖出债券头寸来构建。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options strategies, Put-call parity, Synthetic positions",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "It is more desirable to own a forward contract than a futures contract to the holder of a\nlong position when interest rates and futures prices are:",
+        "image": "",
+        "options": {
+            "A": "A.Uncorrelated.",
+            "B": "B.Positively correlated.",
+            "C": "C.Negatively correlated."
+        },
+        "answer": "C",
+        "explanation": "If futures prices and interest rates are negatively correlated, forwards are more\ndesirable to holders of long positions than are futures. This is because rising prices lead to\nfutures profits that are reinvested in periods of falling interest rates. It is better to\nreceive all of the cash at expiration under such conditions.如果期货价格和利率呈负相关，那么远\n期比期货更适合持有多头头寸的人。这是因为价格上涨会导致期货利润在利率下降的时期被重新投资。在这\n种情况下，最好在到期时收到全部现金。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Futures and Forwards, Correlation",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "Which of the following statements best portrays the full implementation of post-financial-\ncrisis regulations in the OTC derivatives market?",
+        "image": "",
+        "options": {
+            "A": "A.Transactions are no longer private.",
+            "B": "B.Most transactions need to be reported to regulators.",
+            "C": "C.All transactions must be cleared through central clearing agencies."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. With full implementation of these regulations in the OTC\nderivatives market, most OTC transactions need to be reported to regulators. A is incorrect\nbecause although under full implementation of the regulations information on most OTC\ntransactions needs to be reported to regulators, many transactions retain a degree of privacy\nwith lower transparency. C is incorrect because although under full implementation of new\nregulations a number of OTC transactions have to be cleared through central clearing agencies,\nthere are exemptions that cover a significant percentage of derivative transactions. 这道题目问\n的是以下哪项陈述最能反映场外衍生品市场全面实施金融危机后监管的情况？ B是正确的。 随着这些规定在\n场外衍生品市场的全面实施，大多数场外交易需要向监管机构报告。 A不对，虽然需要向监管部门报告，但\n是OTC场外市场依旧是可以定制化合约、私下签订的合约。 C不对，由于OTC场外交易可以私下签订，那么清\n算不一定经过中央清算所。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "OTC Derivatives Regulation, Transaction Reporting, Central Clearing Requirements",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "In contrast to contingent claims, forward contracts:",
+        "image": "",
+        "options": {
+            "A": "A.have their prices chosen by the participants.",
+            "B": "B.could end in default by either party.",
+            "C": "C.can be exercised by physical or cash delivery."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. In a forward contract, either party could default, whereas in a\ncontingent claim, default is possible only from the short to the long.A is incorrect because\nthe forward price is set in the pricing of the contract such that the starting contract value\nis zero, unlike contingent claims, under which parties can select any starting value.C is\nincorrect because both forward contracts and contingent claims can be settled by either\nphysical or cash delivery. ： 这道题目问的是与或有权益相比较，远期合约是怎么样的： B是正确的。\n在远期合约中，任何一方都可能违约；而在或有权益中，违约只能会是卖出权益的那一方。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Contingent Claims, Default Risk",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "At the initiation of a forward contract on an asset that neither receives benefits nor\nincurs carrying costs during the term of the contract, the forward price is equal to the:",
+        "image": "",
+        "options": {
+            "A": "A.spot price.",
+            "B": "B.future value of the spot price.",
+            "C": "C.present value of the spot price."
+        },
+        "answer": "B",
+        "explanation": "B is correct. At initiation, the forward price is the future value of the spot\nprice (spot price compounded at the risk-free rate over the life of the contract). If the\nforward price were set to the spot price or the present value of the spot price, it would be\npossible for one side to earn an arbitrage profit by selling the asset and investing the\nproceeds until contract expiration. ： 这道题目问的是对在合同期内既没有获得收益也没有产生成本的\n资产订立远期合约时，远期价格等于： B是正确的。在开始时，远期价格是现货价格的未来价值（在合同有\n效期内现货价格以无风险利率复利）。如果远期价格被设定为现货价格或现货价格的现值，则一方有可能通\n过出售资产并将收益投资至合同到期日来赚取套利利润。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Arbitrage, Risk-Free Rate",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "Which of the following is most likely the underlying of a plain vanilla interest rate swap?",
+        "image": "",
+        "options": {
+            "A": "A.180-day Libor",
+            "B": "B.10-year US Treasury bond",
+            "C": "C.Bloomberg Barclay’s US Aggregate Bond Index"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. In a plain vanilla interest rate swap, an interest rate, such as\nLibor, serves as the underlying. A plain vanilla interest rate swap is one of many derivatives\nin which a rate, not the instrument that pays the rate, is the underlying. B is incorrect\nbecause a plain vanilla interest rate swap is one of many derivatives in which a rate, not an\ninstrument that pays a rate, is the underlying. C is incorrect because a plain vanilla interest\nrate swap is one of many derivatives in which a rate, not an instrument (or index) that pays a\nrate, is the underlying. ： 这道题目问的是以下哪项最有可能是普通利率互换的标的资产？ A是正确的\n。在普通利率互换中，利率（如伦敦银行同业拆借利率）是它的标的资产。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Swaps, LIBOR, Derivatives",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "The derivative markets tend to:",
+        "image": "",
+        "options": {
+            "A": "A.transfer liquidity from the broader financial markets.",
+            "B": "B.not reflect fundamental value after it is restored in the underlying market.",
+            "C": "C.offer a less costly way to exploit mispricing in comparison to other free and competitive"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. When prices deviate from fundamental values, derivative markets\noffer a less costly way to exploit mispricing in comparison to other free and competitive\nfinancial markets. A is incorrect because derivative markets tend to transfer liquidity to (not\nfrom) the broader financial markets, because investors are far more willing to trade if they\ncan more easily manage their risk, trade at lower cost and with less capital, and go short more\neasily. An increased willingness to trade leads to a more liquid market. B is incorrect because\nit is likely (not unlikely) that fundamental value will be reflected in the derivative markets\nboth before and after it is restored in the underlying market owing to lower capital\nrequirements and transaction costs in the derivative markets. ： 这道题目问的是衍生品市场倾向于\n？ C是正确的。当价格偏离基本价值时，与其他自由竞争的金融市场相比，衍生品市场提供了一种成本更低\n的发现错误定价的方法。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivative Markets, Mispricing Exploitation, Financial Market Liquidity",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "Assume an asset pays no dividends or interest, and also assume that the asset does not yield\nany non-financial benefits or incur any carrying cost. At initiation, the price of a forward\ncontract on that asset is:",
+        "image": "",
+        "options": {
+            "A": "A.lower than the value of the contract.",
+            "B": "B.equal to the value of the contract.",
+            "C": "C.greater than the value of the contract."
+        },
+        "answer": "C",
+        "explanation": "C is correct. The price of a forward contract is a contractually fixed price,\nestablished at initiation, at which the underlying will be purchased (or sold) at expiration.\nThe value of a forward contract at initiation is zero; therefore, the forward price is greater\nthan the value of the forward contract at initiation. ： 这道题目问的是假设一项资产不支付股息或\n利息，也假设该资产不产生任何非金融收益或产生任何成本。期初时，该资产的远期合约价格为： C是正确\n的。远期合约的价格是一个固定价格，在开始时确定，在到期时标的物被购买（或出售）。开始时远期合约\n的价值为零；因此，远期价格大于开始时远期合约的价值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Asset Pricing, Initial Contract Value",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "An arbitrage transaction generates a net inflow of funds:",
+        "image": "",
+        "options": {
+            "A": "A.throughout the holding period.",
+            "B": "B.at the end of the holding period.",
+            "C": "C.at the start of the holding period."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Arbitrage is a type of transaction undertaken when two assets or\nportfolios produce identical results but sell for different prices. A trader buys the asset or\nportfolio with the lower price and sells the asset or portfolio with the higher price,\ngenerating a net inflow of funds at the start of the holding period. Because the two assets or\nportfolios produce identical results, a long position in one and short position in the other\nmeans that at the end of the holding period, the payoffs offset. Therefore, there is no money\ngained or lost at the end of the holding period, so there is no risk. ： 这道题目问的是我们套利\n交易在什么时候产生资金净流入？ 套利是指交易者以较低的价格购买资产或投资组合，并以较高的价格出售\n资产或投资组合，从而在持有期开始时产生资金净流入。所以选C。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Arbitrage, Holding Period, Net Inflow of Funds",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "The table below shows three European call options on the same underlying:\nThe option with the highest value is most likely:",
+        "image": "level1_yan_sheng_images/43u.PNG",
+        "options": {
+            "A": "A.Option 1.",
+            "B": "B.Option 2.",
+            "C": "C.Option 3."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The value of a European call option is inversely related to the\nexercise price and directly related to the time to expiration. Option 1 and Option 2 have the\nsame exercise price; however, Option 2 has a longer time to expiration. Consequently, Option 2\nwould likely have a higher value than Option 1. Option 2 and Option 3 have the same time to\nexpiration; however, Option 2 has a lower exercise price. Thus, Option 2 would likely have a\nhigher value than Option 3. ： 这道题目问的是表格显示了同一标的资产的三种欧式看涨期权，价值最高\n的期权最有可能是？ B是正确的。欧式看涨期权的价值与行权价格成反比，与到期时间正相关。期权1和期权\n2的行权价格相同；但是，期权2的到期时间较长。因此，方案2的价值高于方案1。期权2和期权3的到期时间\n相同；但是，期权2的行权价格较低。因此，方案2的价值高于方案3。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Option pricing theory, Time value of options, Strike price impact on options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Derivatives may contribute to financial contagion because of the:",
+        "image": "",
+        "options": {
+            "A": "A.centrally cleared nature of OTC derivatives.",
+            "B": "B.associated significant costs and high capital requirements.",
+            "C": "C.reliance by derivatives speculators on large amounts of leverage."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Opponents argue that speculators use large amounts of leverage,\nthereby subjecting themselves and their creditors to substantial risk if markets do not move in\ntheir hoped-for direction. Defaults by speculators can then lead to defaults by their\ncreditors, their creditors’ creditors, and so on. These effects can, therefore, be systemic\nand reflect an epidemic contagion whereby instability can spread throughout markets and an\neconomy, if not the entire world. A is incorrect because central clearing of OTC derivatives,\nsimilar to how exchange-traded derivatives are cleared, is intended to lessen the risk of\ncontagion. B is incorrect because it is derivatives’ low cost and low capital requirements,\nnot high cost and high capital requirements, that opponents point to as contributing to an\nexcessive amount of speculative trading that brings instability to the markets. ： 这道题目问的\n是衍生品可能会导致金融危机传染，因为什么？ C是正确的。反对者认为，投机者使用大量杠杆，因此，如\n果市场不朝着他们希望的方向发展，他们自己和债权人将面临巨大风险。投机者的违约可能导致其债权人、\n债权人的债权人等违约。因此，这些影响可能是系统性的，不稳定可能蔓延到整个市场和经济体，甚至整个\n世界。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Leverage, Systemic risk, Financial contagion",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "Which of the following is most likely to be a destabilizing consequence of speculation using\nderivatives?",
+        "image": "",
+        "options": {
+            "A": "A.Increased defaults by speculators and creditors",
+            "B": "B.Market price swings resulting from arbitrage activities",
+            "C": "C.The creation of trading strategies that result in asymmetric performance"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The benefits of derivatives, such as low transaction costs, low\ncapital requirements, use of leverage, and the ease in which participants can go short, also\ncan result in excessive speculative trading. These activities can lead to defaults on the part\nof speculators and creditors. B is incorrect because arbitrage activities tend to bring about a\nconvergence of prices to intrinsic value. C is incorrect because asymmetric performance is not\nitself destabilizing. ： 这道题目问的是以下哪一项最有可能是利用衍生品进行投机的不稳定后果？ A是\n正确的。衍生品的好处，如交易成本低、资本要求低、杠杆的使用以及参与者容易做空，但也可能导致过度\n投机交易，这些活动可能导致投机者和债权人违约。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Speculative Trading, Leverage",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "If the present value of storage costs exceeds the present value of its convenience yield,\nthen the commodity’s forward price is most likely:",
+        "image": "",
+        "options": {
+            "A": "A.less than the spot price compounded at the risk-free rate.",
+            "B": "B.the same as the spot price compounded at the risk-free rate.",
+            "C": "C.higher than the spot price compounded at the risk-free rate."
+        },
+        "answer": "C",
+        "explanation": "C is correct. When a commodity’s storage costs exceed its convenience yield\nbenefits, the net cost of carry (benefits less costs) is negative. Subtracting this negative\namount from the spot price compounded at the risk-free rate results in an addition to the\ncompounded spot price. The result is a commodity forward price which is higher than the spot\nprice compounded. The commodity’s forward price is less than the spot price compounded when\nthe convenience yield benefits exceed the storage costs and the commodity’s forward price is\nthe same as the spot price compounded when the costs equal the benefits. ： 这道题目问的是如果\n储存成本的现值超过其便利收益的现值，那么商品的远期价格很可能是? C是正确的。当一种商品的储存成本\n超过其便利性收益时，持有成本（收益减去成本）为负。从按无风险利率复利的现货价格中减去这一负值\n，将导致复利现货价格的增加。其结果是商品远期价格高于现货价格的复利。当便利性收益大于仓储成本时\n，商品的远期价格小于现货价格的复利，当成本等于收益时，商品的远期价格等于现货价格的复利。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Cost of carry, Convenience yield, Forward pricing strategies",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "For a European call option with two months until expiration, if the spot price is below the\nexercise price, the call option will most likely have:",
+        "image": "",
+        "options": {
+            "A": "A.zero time value.",
+            "B": "B.positive time value.",
+            "C": "C.positive exercise value."
+        },
+        "answer": "B",
+        "explanation": "B is correct. A European call option with two months until expiration will\ntypically have positive time value, where time value reflects the value of the uncertainty that\narises from the volatility in the underlying. The call option has a zero exercise value if the\nspot price is below the exercise price. The exercise value of a European call option is\nMax(0,St – X), where St is the current spot price at time t and X is the exercise price. 欧式\n看涨期权，距离到期还有两个月，此时Time value时间价值大于0。根据option value=Intrinsic value\ntime value，现货价格低于行权价格使得IV内在价值为0，但时间价值反映的是：标的资产价格波动而可能有\nS＞X结果给option带来的价值，TV为正数。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "European call options, Time value, Exercise value",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "The value of a swap is equal to the present value of the:",
+        "image": "",
+        "options": {
+            "A": "A.fixed payments from the swap.",
+            "B": "B.net cash flow payments from the swap.",
+            "C": "C.underlying at the end of the contract."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The principal of replication articulates that the valuation of a swap\nis the present value of all the net cash flow payments from the swap, not simply the present\nvalue of the fixed payments of the swap or the present value of the underlying at the end of\nthe contract. ： 这道题目问的是互换的价值等于哪一个的现值？ B是正确的。复制原则明确规定，互换的\n价值是互换支付的所有净现金流量的现值，而不是互换固定方支付的现值或合同结束时标的物的现值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Swap valuation, Net present value, Replication principle",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "In contrast to contingent claims, forward commitments provide the:",
+        "image": "",
+        "options": {
+            "A": "A.right to buy or sell the underlying asset in the future.",
+            "B": "B.obligation to buy or sell the underlying asset in the future.",
+            "C": "C.promise to provide credit protection in the event of default."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Forward commitments represent an obligation to buy or sell the\nunderlying asset at an agreed upon price at a future date.A is incorrect because the right to\nbuy or sell the underlying asset is a characteristic of contingent claims, not forward\ncommitments. C is incorrect because a credit default swap provides a promise to provide credit\nprotection to the credit protection buyer in the event of a credit event such as a default or\ncredit downgrade and is classified as a contingent claim. ： 这道题目问的是与或有权益相比，远期\n承诺提供了什么？ B是正确的。远期承诺有义务在未来日期以约定价格购买或出售标的资产。或有权益才是\n有权利购买或出售标的资产",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Forward Commitments, Contingent Claims",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "An interest rate swap is a derivative contract in which:",
+        "image": "",
+        "options": {
+            "A": "A.two parties agree to exchange a series of cash flows.",
+            "B": "B.the credit seller provides protection to the credit buyer.",
+            "C": "C.the buyer has the right to purchase the underlying from the seller."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. An interest rate swap is defined as a derivative in which two\nparties agree to exchange a series of cash flows: One set of cash flows is variable, and the\nother set can be variable or fixed. B is incorrect because a credit derivative is a derivative\ncontract in which the credit protection seller provides protection to the credit protection\nbuyer. C is incorrect because a call option gives the buyer the right to purchase the\nunderlying from the seller. ： 这道题目问的是利率互换是一种什么样的衍生合约？ A是正确的。利率互\n换被定义为双方同意交换一系列现金流。 B是不正确的，这点是信用衍生工具的概念，不是利率互换。 C是\n不正确的，看涨期权才是赋予买方从卖方购买标的资产的权利，不是利率互换。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Interest Rate Swaps, Options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "The value of a European put option can be either directly or inversely related to the:",
+        "image": "",
+        "options": {
+            "A": "A.exercise price.",
+            "B": "B.time to expiration.",
+            "C": "C.volatility of the underlying."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The value of a European put option can be either directly or\nindirectly related to time to expiration. The direct effect is more common, but the inverse\neffect can prevail the longer the time to expiration, the higher the risk-free rate, and the\ndeeper in-the-money is the put. The value of a European put option is directly related to the\nexercise price and the volatility of the underlying. ： 这道题目问的是欧式看跌期权的价值与下列\n哪个因素成正相关或负相关？ B是正确的。欧式看跌期权的价值可能与到期时间正相关或负相关。正相关更\n为普遍，但当到期时间越长，无风险利率越高，实值越深度的时候逆效应可能会占上风。欧式看跌期权的价\n值与行权价格和标的资产的波动性都是正相关。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "European put options, time to expiration, option pricing models",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "If the net cost of carry of an asset is positive, then the price of a forward contract on\nthat asset is most likely:",
+        "image": "",
+        "options": {
+            "A": "A.lower than if the net cost of carry was zero.",
+            "B": "B.the same as if the net cost of carry was zero.",
+            "C": "C.higher than if the net cost of carry was zero."
+        },
+        "answer": "A",
+        "explanation": "A is correct. An asset’s forward price is increased by the future value of any\ncosts and decreased by the future value of any benefits: F0(T) = S0(1 + r)^T – (γ – θ)(1 +\nr)^T . If the net cost of carry (benefits less costs) is positive, the forward price is lower\nthan if the net cost of carry was zero. net cost of carry=cost of carry=CB-CCFP=(SP＋CC-\nCB)x(1＋Rf)^TFP=(SP-(CB-CC))x(1＋Rf)^Tcost of carry=CB-CC，越大，此时为正值，比cost of carry 为\n0，获得的FP小。A对",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forward Pricing Models, Cost of Carry, Derivatives Pricing",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "The value of a forward contract at expiration is:",
+        "image": "",
+        "options": {
+            "A": "A.positive to the long party if the spot price is higher than the forward price.",
+            "B": "B.negative to the short party if the forward price is higher than the spot price.",
+            "C": "C.positive to the short party if the spot price is higher than the forward price."
+        },
+        "answer": "A",
+        "explanation": "A is correct. When a forward contract expires, if the spot price is higher than the\nforward price, the long party profits from paying the lower forward price for the underlying.\nTherefore, the forward contract has a positive value to the long party and a negative value to\nthe short party. However, if the forward price is higher than the spot price, the short party\nprofits from receiving the higher forward price (the contract value is positive to the short\nparty and negative to the long party). ： 这道题目问的是远期合约到期时的价值为： A是正确的。当\n远期合约到期时，如果现货价格高于远期价格，多头方将从支付较低的远期价格中获利。因此，远期合约对\n多头方具有正价值，对短方具有负价值。但是，如果远期价格高于现货价格，卖空方从收到较高的远期价格\n中获利。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Valuation of Derivatives, Spot and Forward Prices",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "For a given CDO, which of the following tranches is most likely to have the highest expected\nreturn?",
+        "image": "",
+        "options": {
+            "A": "A.Equity",
+            "B": "B.Senior",
+            "C": "C.Mezzanine"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The expected returns of the tranches vary according to the\nperceived credit risk, with the senior tranches having the highest credit quality and the\njunior tranches the lowest. Thus, the senior tranches have the lowest expected returns and the\njunior tranches have the highest. The most junior tranche is sometimes called the “equity\ntranche.” B is incorrect because the senior tranches in a CDO have the lowest expected returns\nand the junior (or equity) tranches have the highest. C is incorrect because the senior\ntranches in a CDO have the lowest expected returns and the junior (or equity) tranches have the\nhighest. A mezzanine tranche is intermediate between the senior and junior tranches. ： 这道题\n目问的是对于CDO，以下哪一层级最有可能获得最高的预期收益？ A是正确的。各层级的预期回报率根据信贷\n风险而有所不同，高级层级的信贷质量最高，初级层级的信贷质量最低。因此，高级部分的预期收益最低\n，初级部分的预期收益最高。初级层级又被称为“股权层级”",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Credit Risk, Collateralized Debt Obligations (CDOs), Expected Return",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "Which of the following circumstances will most likely affect the value of an American call\noption relative to a European call option?",
+        "image": "",
+        "options": {
+            "A": "A.Dividends are declared",
+            "B": "B.Expiration date occurs",
+            "C": "C.The risk-free rate changes"
+        },
+        "answer": "A",
+        "explanation": "A is correct. When a dividend is declared, an American call option will have a\nhigher value than a European call option because an American call option holder can exercise\nearly to capture the value of the dividend. At expiration, both types of call options are worth\nthe greater of zero and the exercise value. A change in the risk-free rate does not affect the\nrelative values of American and European call options. ： 这道题目问的是下列哪种情况最有可能影\n响美式看涨期权的价值相对于欧式看涨期权？ A是正确的。当宣布股息时，美式看涨期权的价值将高于欧式\n看涨期权，因为美式看涨期权持有人可以提前行使，以获取股息的价值。到期时，两种类型的看涨期权的价\n值均大于零和行权价值。无风险利率的变化不会影响美式和欧式看涨期权的相对价值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "American vs. European options, Dividend impact on options, Option valuation factors.",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "56",
+        "question_text": "The price of a swap typically:",
+        "image": "",
+        "options": {
+            "A": "A.is zero at initiation.",
+            "B": "B.fluctuates over the life of the contract.",
+            "C": "C.is obtained through a process of replication."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Replication is the key to pricing a swap. The swap price is\ndetermined at initiation by replication. The value (not the price) of the swap is typically\nzero at initiation and the fixed swap price is typically determined such that the value of the\nswap will be zero at initiation. ： 这道题目问的是互换合约的价格是？ C是正确的。复制是互换定价\n的关键。互换价格在期初时由复制决定。互换的价值（而非价格）在期初时为零。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Swap pricing, Replication, Financial derivatives",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "A European put option on a dividend-paying stock is most likely to increase if there is an\nincrease in:",
+        "image": "",
+        "options": {
+            "A": "A.carrying costs.",
+            "B": "B.the risk-free rate.",
+            "C": "C.dividend payments."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Payments, such as dividends, reduce the value of the underlying which\nincreases the value of a European put option. Carrying costs reduce the value of a European put\noption. An increase in the risk-free interest rate may decrease the value of a European put\noption. ： 这道题目问的是，一个支付股利的欧式看跌期权最有可能随着以下哪个情况的增加而增长？ C是\n正确的。股利等支付降低了标的资产的价值，从而增加了欧式看跌期权的价值。账面成本降低了欧式看跌期\n权的价值。无风险利率的增加会降低欧式看跌期权的价值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Option Valuation, Dividend Impact, Risk-free Rate Impact",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "58",
+        "question_text": "A plain vanilla interest rate swap is also known as:",
+        "image": "",
+        "options": {
+            "A": "A.a basis swap.",
+            "B": "B.a fixed-for-floating swap.",
+            "C": "C.an overnight indexed swap."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. A plain vanilla swap is a fixed-for-floating interest rate swap,\nwhich is the most common type of swap. A is incorrect because a basis swap is a transaction\nbased on the TED spread (T-bills versus Eurodollars) and is not the same as a plain vanilla\nswap. C is incorrect because an overnight indexed swap is a swap that is tied to a federal\nfunds type of rate, reflecting the rate at which banks borrow overnight, and is not the same as\na plain vanilla swap. ： 这道题目问的是普通利率互换也可以称为： B是正确的。普通互换是一种固定利\n率换浮动利率的互换，是最常见的一种互换。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest rate swaps, Plain vanilla swaps, Basis swaps",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Which of the following derivatives is classified as a contingent claim?",
+        "image": "",
+        "options": {
+            "A": "A.Futures contracts",
+            "B": "B.Interest rate swaps",
+            "C": "C.Credit default swaps"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. A credit default swap (CDS) is a derivative in which the credit\nprotection seller provides protection to the credit protection buyer against the credit risk of\na separate party. CDS are classified as a contingent claim.A is incorrect because futures\ncontracts are classified as forward commitments. B is incorrect because interest rate swaps are\nclassified as forward commitments. ： 这道题目问的是下列哪种衍生品属于或有权益？ C是正确的。信\n用违约互换（CDS）：在信用违约互换交易中，购买者将定期向出售者支付一定费用，而一旦出现信用违约事\n件，违约互换购买者将有权利将债券以面值卖给出售者，从而有效规避信用风险。所以它也是个或有权益。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Contingent claims, Credit default swaps, Derivatives",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "Which of the following factors is shared by forwards and futures contracts?",
+        "image": "",
+        "options": {
+            "A": "A.Timing of profits",
+            "B": "B.Flexible settlement arrangements",
+            "C": "C.Nearly equivalent profits by expiration"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Comparing the derivatives, forward and futures contracts have\nnearly equivalent profits by the time of expiration of the forward.A is incorrect because the\ntiming of profits for a futures contract is different from that of forwards. Forwards realize\nthe full amount at expiration, whereas futures contracts realize their profit in parts on a\nday-to-day basis.B is incorrect because the settlement arrangements for the forwards can be\nagreed on at initiation and written in the contract based on the desires of the engaged\nparties. However, in the case of a futures contract, the exchange (not the engaged parties)\nspecifies whether physical delivery or cash settlement applies. ： 这道题目问的是以下哪一项是远\n期合约和期货合约共有的特征？ C是正确的。远期合约和期货合约在到期时的利润几乎是相等的。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Forwards and Futures Contracts, Derivative Markets, Profit Realization",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "Assume a call option’s strike price is initially equal to the price of its underlying\nasset. Based on the binomial model, if the volatility of the underlying decreases, the lower of\nthe two potential payoff values of the hedge portfolio:",
+        "image": "",
+        "options": {
+            "A": "A.decreases.",
+            "B": "B.remains the same.",
+            "C": "C.increases."
+        },
+        "answer": "B",
+        "explanation": "B is correct. When the volatility of the underlying decreases, the value of the\noption also decreases, meaning that the upper payoff value of the hedge portfolio combining\nthem declines. However, the lower payoff value remains at zero. ： 这道题目问的是假设看涨期权的\n行权价格最初等于其标的资产的价格。根据二项式模型，如果标的资产的波动性降低，则对冲投资组合的两\n个潜在收益中的较低者： B是正确的。当标的资产的波动性降低时，期权的价值也随之降低，这意味着对冲\n投资组合中的较高收益价值下降。然而，较低的收益值仍为零。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Binomial model, Call options, Volatility",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "Most derivatives are priced by:",
+        "image": "",
+        "options": {
+            "A": "A.assuming that the market offers arbitrage opportunities.",
+            "B": "B.discounting the expected payoff of the derivative at the risk-free rate.",
+            "C": "C.applying a risk premium to the expected payoff of the derivative and its risk."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Virtually all derivative pricing models discount the expected payoff\nof the derivative at the risk-free rate. A is incorrect because derivatives are priced by\nassuming that the market is free of arbitrage opportunities via the principle of no arbitrage,\nnot by assuming that the market offers them. C is incorrect because the application of a risk\npremium to the expected payoff of the derivative and its risk is not appropriate in the pricing\nof derivatives. An investor’s risk premium is not relevant to pricing a derivative. ： 这道题\n目问的是大多数衍生品的定价方式为？ B是正确的。几乎所有的衍生品定价模型都把预期收益用无风险利率\n进行贴现。 A是不正确的，因为衍生品的定价是假定市场没有套利机会，而不是假定市场提供套利机会。\nC是不正确的，因为将风险溢价应用于衍生品的预期收益及其风险在定价中是不合适的。投资者的风险溢价与\n衍生品定价无关。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivative Pricing Models, Risk-free Rate Discounting, No Arbitrage Principle",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "The notional principal of a swap is:",
+        "image": "",
+        "options": {
+            "A": "A.not exchanged in the case of an interest rate swap.",
+            "B": "B.a fixed amount whenever it is matched with a loan.",
+            "C": "C.equal to the amount owed by one swap party to the other."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The notional principal of a swap is not exchanged in the case of\nan interest rate swap. B is incorrect because an amortizing loan will be matched with a swap\nwith a pre-specified declining (not fixed) notional principal that matches the loan balance. C\nis incorrect because the notional principal is equal to the loan balance. Although the loan has\nan actual balance (the amount owed by the borrower to the creditor), the swap does not have\nsuch a balance owed by one swap party to the other. ：Notional principal表示名义本金，在swap\ncontract中，指的是双方约定借贷的本金额度。A Swap是一系列的FRA，他俩在借款期初均不需要交换本金\n，所以A是正确的。B 如果notional principal需要匹配loan贷款（额度逐年减少），名义本金也会逐年减少\n而不是固定值。C 在每一个swap结算付息日，一方欠另一方的是payment，基于notional principal乘以对应\n的利差计算出来的，而不是题干本金本身。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Swap Valuation, Notional Principal, Swap Characteristics",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "Which of the following characteristics is least likely to be a benefit associated with using\nderivatives?",
+        "image": "",
+        "options": {
+            "A": "A.More effective management of risk",
+            "B": "B.Payoffs similar to those associated with the underlying",
+            "C": "C.Greater opportunities to go short compared with the spot market"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. One of the benefits of derivative markets is that derivatives\ncreate trading strategies not otherwise possible in the underlying spot market, thus providing\nopportunities for more effective risk management than simply replicating the payoff of the\nunderlying. A is incorrect because effective risk management is one of the primary purposes\nassociated with derivative markets. C is incorrect because one of the operational advantages\nassociated with derivatives is that it is easier to go short compared to the underlying spot\nmarket. ： 这道题目问的是以下哪一个特征最不可能是使用衍生品的好处？ B是正确的。衍生品市场的好处\n之一是：创造了在基础现货市场上不可能实现的交易策略，从而为更有效的风险管理提供了机会，而不是简\n单地复制基础现货市场的收益。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivative markets, Risk management, Short selling",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "Which of the following derivatives is least likely to have a value of zero at initiation of\nthe contract?",
+        "image": "",
+        "options": {
+            "A": "A.Futures",
+            "B": "B.Options",
+            "C": "C.Forwards"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. The buyer of the option pays the option premium to the seller of\nthe option at the initiation of the contract. The option premium represents the value of the\noption, whereas futures and forwards have a value of zero at the initiation of the contract. A\nis incorrect because no money changes hands between parties at the initiation of the futures\ncontract, thus the value of the futures contract is zero at initiation. C is incorrect because\nno money changes hands between parties at the initiation of the forward contract, thus the\nvalue of the forward contract is zero at initiation. ： 这道题目问的是下列哪一种衍生品在合约开\n始时最不可能为零？ B是正确的。期权的买方在合约签订时就向期权卖方支付了一笔期权费用。期权费代表\n期权的价值，而期货和远期在合约开始时的价值为零。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options, Derivatives Valuation, Contract Initiation",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "66",
+        "question_text": "Which of the following derivatives allows an investor to pay the return on a stock index and\nreceive a fixed rate?",
+        "image": "",
+        "options": {
+            "A": "A.Equity swap",
+            "B": "B.Stock warrant",
+            "C": "C.Index futures contract"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Equity swaps, also known as index swaps, are quite popular and\npermit investors to pay the return on one stock index and receive the return on another index\nor a fixed rate. B is incorrect because warrants are options that are sold directly to the\npublic, allowing holders to exercise and buy shares directly from the company as opposed to\nusing stock indexes to determine returns. C is incorrect because although index derivatives in\nthe form of options, forwards, futures, and swaps are very popular, paying the return on a\nstock index and receiving a fixed rate describes an equity swap (or index swap), not a futures\ncontract. ： 这道题目问的是下列哪一种衍生品允许投资者支付股票指数的回报并获得固定利率？ A是正确\n的。股票互换，也称为指数互换，允许投资者支付一个股票指数的回报，并获得另一个指数或固定利率的回\n报。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Equity swaps, Index derivatives, Fixed rate agreements",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "67",
+        "question_text": "Currency swaps are:",
+        "image": "",
+        "options": {
+            "A": "A.rarely used.",
+            "B": "B.commonly used to manage interest rate risk.",
+            "C": "C.executed by two parties making a series of interest rate payments in the same currency."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Because interest rates and currencies are both subject to change,\na currency swap has two sources of risk. Furthermore, companies operating across borders are\nsubject to both interest rate risk and currency risk, and currency swaps are commonly used to\nmanage these risks. A is incorrect because currency risk is a major factor in global financial\nmarkets, and the currency derivatives market is extremely large, as opposed to small. C is\nincorrect because a currency swap is executed by two parties making a series of interest rate\npayments to each other in different currencies, as opposed to the same currency. ： 这道题目问\n的是关于货币互换正确的是？ B是正确的。由于利率和货币都会发生变化，货币互换有两个风险来源。此外\n，跨国经营的公司同时面临利率风险和货币风险，而货币互换通常用于管理这些风险。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Currency Swaps, Interest Rate Risk Management, Currency Risk Management",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "68",
+        "question_text": "The value of a swap typically:",
+        "image": "",
+        "options": {
+            "A": "A.is non-zero at initiation.",
+            "B": "B.is obtained through replication.",
+            "C": "C.does not fluctuate over the life of the contract."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Valuation of the swap during its life appeals to replication and the\nprinciple of arbitrage. Valuation consists of reproducing the remaining payments on the swap\nwith other transactions. The value of that replication strategy is the value of the swap. The\nswap price is typically set such that the swap contract has a value of zero at initiation. The\nvalue of a swap contract will change during the life of the contract as the value of the\nunderlying changes in value. ： 这道题目问的是互换合约的价值是？ B是正确的。互换在其存续期间的\n估值需要复制和套利原则。估值包括将互换交易中的剩余款项与其他交易进行复制。复制策略的价值就是互\n换的价值。互换价格的设定通常使得互换合同在开始时的价值为零。互换合约的价值将在合约有效期内变化\n。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Swap Valuation, Arbitrage Principles, Market Value Fluctuations",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "69",
+        "question_text": "If an underlying asset’s price is less than a related option’s strike price at expiration,\na protective put position on that asset versus a fiduciary call position has a value that is:",
+        "image": "",
+        "options": {
+            "A": "A.lower.",
+            "B": "B.the same.",
+            "C": "C.higher."
+        },
+        "answer": "B",
+        "explanation": "B is correct. On the one hand, buying a call option on an asset and a risk-free\nbond with the same maturity is known as a fiduciary call. If the fiduciary call expires in the\nmoney (meaning that the value of the call, ST – X, is greater than the risk-free bond’s price\nat expiration, X), then the total value of the fiduciary call is (ST – X) ＋ X, or ST. On the\nother hand, holding an underlying asset, ST, and buying a put on that asset is known as a\nprotective put. If the put expires out of the money, meaning that the value of the asset, ST,\nis greater than the put’s value at expiration, 0, then the total value of the protective put\nis ST – 0, or ST. A protective put and a fiduciary call produce the same result. ： 这道题目问\n的是如果标的资产的价格在到期时低于相关期权的行权价格，则该资产的保护性看跌头寸与信托看涨头寸的\n价值为： B是正确的。一方面，购买资产的看涨期权和到期日相同的无风险债券被称为信托看涨期权。如果\n信托看涨期权以实值到期（意味着看涨期权的价值ST-X大于到期时无风险债券的价格X），那么信托看涨期权\n的总价值是（ST-X）＋X，或ST。另一方面，持有标的资产ST，并购买该资产的看跌期权称为保护性看跌期权\n。如果看跌期权虚值到期，意味着资产的价值ST大于到期时看跌期权的价值0，那么保护性看跌期权的总价值\n就是ST–0，或者ST。保护性看跌期权和信托看涨期权产生相同的结果。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Put-call parity, Protective put, Fiduciary call",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "70",
+        "question_text": "Which of the following statements most likely contributes to the view that derivatives have\nsome role in causing financial crashes?",
+        "image": "",
+        "options": {
+            "A": "A.Derivatives are the primary means by which leverage and related excessive risk is brought\ninto financial markets.",
+            "B": "B.Growth in the number of investors willing to speculate in derivatives markets leads to\nexcessive speculative trading.",
+            "C": "C.Restrictions on derivatives, such as enhanced collateral requirements and credit mitigation"
+        },
+        "answer": "B",
+        "explanation": "： B is correct. Opponents of derivatives claim that excessive speculative trading\nbrings instability to the markets. Defaults by speculators can lead to defaults by their\ncreditors, their creditors’ creditors, and so on. A is incorrect because derivatives are one\nof many mechanisms through which excessive risk can be taken. There are many ways to take on\nleverage that look far less harmful but can be just as risky. C is incorrect because responses\nto crashes and crises typically call for more rules and regulations restricting the use of\nderivatives, such as requiring more collateral and credit mitigation measures. Such rules and\nregulations are generally implemented after a crash and are directed at limiting government\nbailouts of the costs from derivatives risks. ： 这道题目问的是下列哪项陈述说明了衍生工具在引发\n金融危机方面发挥了一定作用？ B是正确的。衍生品的反对者声称，过度的投机交易会给市场带来不稳定性\n。投机者的违约可能导致其债权人、债权人的债权人等等违约。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Speculative trading, Market stability, Leverage and risk.",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "71",
+        "question_text": "Which of the following factors most likely explains why the spot price of a commodity in\nshort supply can be greater than its forward price?",
+        "image": "",
+        "options": {
+            "A": "A.Opportunity cost",
+            "B": "B.Lack of dividends",
+            "C": "C.Convenience yield"
+        },
+        "answer": "C",
+        "explanation": "C is correct. The convenience yield is a benefit of holding the asset and generally\nexists when a commodity is in short supply. The future value of the convenience yield is\nsubtracted from the compounded spot price and reduces the commodity’s forward price relative\nto it spot price. The opportunity cost is the risk-free rate. In the absence of carry costs,\nthe forward price is the spot price compounded at the risk-free rate and will exceed the spot\nprice. Dividends are benefits that reduce the forward price but the lack of dividends has no\neffect on the spot price relative to the forward price of a commodity in short supply. ： 这道\n题目问的是下列哪些因素最有可能解释为什么在商品短缺的情况下，现货价格可能高于其远期价格？ C是正\n确的。便利收益率是持有资产的一种收益，通常在商品供不应求时存在。便利收益的未来价值从复利的现货\n价格中减去，因此降低了远期价格。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward price, Convenience yield, Spot price",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "72",
+        "question_text": "A swap is:",
+        "image": "",
+        "options": {
+            "A": "A.more like a forward than a futures contract.",
+            "B": "B.subject to simultaneous default by both parties.",
+            "C": "C.based on an exchange of two series of fixed cash flows."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. A swap is a bit more like a forward contract than a futures\ncontract in that it is an OTC contract, so it is privately negotiated and subject to default. B\nis incorrect because in a swap, although either party can default, only one party can do so at\na particular time. Money owed is based on the net owed by one party to the other, and only the\nparty owing the greater amount can default to the counterparty owing the lesser amount. C is\nincorrect because a swap involves an exchange between parties in which at least one party pays\na variable series of cash flows determined by an underlying asset or rate. ： 这道题目问的是互\n换是什么？ A是正确的。互换合约更像远期合约，而不是期货合约。因为它是场外交易合约，私下协商的\n，有可能违约。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivative Contracts, OTC Markets, Default Risk",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "73",
+        "question_text": "Which of the following statements explains a characteristic of futures price limits? Price\nlimits:",
+        "image": "",
+        "options": {
+            "A": "A.help the clearinghouse manage its credit exposure.",
+            "B": "B.can typically be expanded intra-day by willing traders.",
+            "C": "C.establish a band around the final trade of the previous day."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. Price limits are important in helping the clearinghouse manage its\ncredit exposure. Sharply moving prices make it more difficult for the clearinghouse to collect\nfrom parties losing money.B is incorrect because typically the exchange rules allow for an\nexpansion of price limits the next day (not intra-day) if traders are willing.C is incorrect\nbecause price limits establish a band relative to the previous day’s settlement price (not\nfinal trade). 这道题目问的是以下哪一个解释了期货价格限制的特征？ A是正确的。价格限制对于帮助清\n算所管理其信用风险很重要，因为价格的急剧变动使得清算所更难从亏损方那里获得资金。 B is incorrect\nbecause typically the exchange rules allow for an expansion of price limits the next day (not\nintra-day) if traders are willing. 当天的价格限制，当天是改变不了的。例如，今天规定涨跌不得超过\n5%，这个5%不能改的，我们能改的是明天的涨跌幅。 C is incorrect because price limits establish a\nband relative to the previous day’s settlement price (not final trade). 价格涨跌的依据是上一个\n交易日的结算价格而不是今天的最终交易价格，例如上一个交易日的结算价格为10元，今天的涨跌幅为\n10%，那么今天的股价波动范围就是9到11元。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Credit exposure management, Price limits in futures trading, Exchange rules and regulations",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "74",
+        "question_text": "Which of the following options grants the holder the right to purchase the underlying prior\nto expiration?",
+        "image": "",
+        "options": {
+            "A": "A.American-style put option",
+            "B": "B.European-style call option",
+            "C": "C.American-style call option"
+        },
+        "answer": "C",
+        "explanation": "： C is correct. The right to buy the underlying is referred to as a call option.\nFurthermore, options that can be exercised prior to the expiration date are referred to as\nAmerican-style options. A is incorrect because a put option grants the holder the right to\nsell, as opposed to buy, the underlying. B is incorrect because European-style options can only\nbe exercised at expiration. ： 这道题目问的是下列哪一个期权赋予持有人在到期前购买标的资产的权利\n？ C是正确的。购买标的证券的权利被称为看涨期权。此外，可以在到期日之前行使的期权被称为美式期权\n。 A是不正确的，因为看跌期权赋予持有人出售（而不是购买）标的资产的权利。 B是不正确的，因为欧式\n期权只能在到期时行权。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option Types, American Options, European Options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "75",
+        "question_text": "An at-the-money American call option on a stock that pays no dividends has three months\nremaining until expiration. The market value of the option will most likely be:",
+        "image": "",
+        "options": {
+            "A": "A.less than its exercise value.",
+            "B": "B.equal to its exercise value.",
+            "C": "C.greater than its exercise value."
+        },
+        "answer": "C",
+        "explanation": "C is correct. Prior to expiration, an American call option will typically have a\nvalue in the market that is greater than its exercise value. Although the American option is\nat-the-money and therefore has an exercise value of zero, the time value of the call option\nwould likely lead to the option having a positive market value. ： 这道题目问的是对于不支付股息\n的平值美式看涨期权，在到期前还有三个月，期权的市场价值很可能是？ C是正确的。在到期之前，美式看\n涨期权通常在市场上的价值大于其行权价值。尽管美式期权是平值的，其行权价值为零，但看涨期权的时间\n价值会导致期权具有正的市场价值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Options pricing, American options, Time value of options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "76",
+        "question_text": "The complex nature of derivatives has led to:",
+        "image": "",
+        "options": {
+            "A": "A.reliable financial models of derivatives markets.",
+            "B": "B.widespread trust in applying scientific principles to derivatives.",
+            "C": "C.financial industry employment of mathematicians and physicists."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Many derivatives are extremely complex and require a high-level\nunderstanding of mathematics. As a result, the financial industry employs many mathematicians,\nphysicists, and computer scientists.A is incorrect because scientists create models of markets\nby using scientific principles that often fail. For example, to a physicist modeling the\nmovements of celestial bodies, the science is reliable and the physicist is unlikely to\nmisapply the science. The same science applied to financial markets is far less reliable.\nFinancial markets are driven by the actions of people who are not as consistent as the\nmovements of celestial bodies.B is incorrect because the complex nature of derivatives has made\nmany distrust, as opposed to trust, derivatives, the people who work with them, and the\nscientific methods they use. ： 这道题目问的是衍生品的复杂性会导致什么？ C是正确的。许多衍生品\n极其复杂，需要对数学有高度的理解。因此，金融业雇佣了许多数学家、物理学家和计算机科学家。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Quantitative Finance, Financial Modeling",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "77",
+        "question_text": "For a swap in which a series of fixed payments is exchanged for a series of floating\npayments, the parties to the transaction:",
+        "image": "",
+        "options": {
+            "A": "A.designate the value of the underlying at contract initiation.",
+            "B": "B.value the underlying solely on the basis of its market value at the end of the swap.",
+            "C": "C.value the underlying sequentially at the time of each payment to determine the floating"
+        },
+        "answer": "C",
+        "explanation": "C is correct. On each payment date, the swap owner receives a payment based on the\nvalue of the underlying at the time of each respective payment.A is incorrect because in a swap\ninvolving a series of fixed payments exchanged for a series of floating payments, each floating\npayment reflects the value of the underlying at the time of payment, not a designated value at\ncontract initiation.B is incorrect because in a swap involving a series of fixed payments\nexchanged for a series of floating payments, each floating payment is based on the value of the\nunderlying at the time of each respective payment, not on the market value at the end of the\nswap. ： 这道题目问的是对于将一系列固定付款交换成一系列浮动付款的互换，交易各方是？ C是正确的。\n在每个付款日，互换的持有方根据每次付款时标的物的价值收到一笔付款。 A是不正确的，因为在涉及一系\n列固定付款换成一系列浮动付款的互换中，每个浮动付款反映的是付款时标的物的价值，而不是合同开始时\n的指定价值。 B是不正确的，因为在涉及一系列固定付款换成一系列浮动付款的掉期中，每一笔浮动付款都\n是基于每次付款时标的物的价值，而不是基于互换结束时的市场价值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Swaps, Valuation of Financial Derivatives, Fixed and Floating Payments",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "78",
+        "question_text": "Which of the following statements describes an aspect of margin accounts for futures?",
+        "image": "",
+        "options": {
+            "A": "A.The maintenance margin is always less than the initial margin.",
+            "B": "B.The initial margin required is typically at least 10% of the futures price.",
+            "C": "C.A margin call requires a deposit sufficient to raise the account balance to the maintenance"
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The maintenance margin is always significantly lower than the\ninitial margin.B is incorrect because the initial margin required is typically at most (not at\nleast) 10% of the futures price.C is incorrect because a margin call requires a deposit large\nenough to bring the balance up to the initial (not maintenance) margin. ： 这道题目问的是以下哪\n项描述了期货保证金账户？ A是正确的。维持保证金总是低于初始保证金。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Margin Requirements, Futures Markets, Risk Management",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "79",
+        "question_text": "The value of a European call option is inversely related to the:",
+        "image": "",
+        "options": {
+            "A": "A.exercise price.",
+            "B": "B.time to expiration.",
+            "C": "C.volatility of the underlying."
+        },
+        "answer": "A",
+        "explanation": "A is correct. The value of a European call option is inversely related to the\nexercise price. A lower exercise price means there are more potential outcomes at which the\ncall expires in-the-money. The option value will be greater the lower the exercise price. For a\nhigher exercise price, the opposite is true. Both the time to expiration and the volatility of\nthe underlying are directly (positively) related to the value of a European call option. ： 这\n道题目问的是欧式看涨期权的价值与下列因素成反比的是？ A是正确的。欧式看涨期权的价值与行权价格成\n反比。较低的行权价格意味着有更多的潜在收益。行权价格越低，期权价值越大。对于高的行权价格，情况\n恰恰相反。到期时间和标的物的波动性都与欧式看涨期权的价值正相关。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option Pricing, European Call Options, Exercise Price",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "80",
+        "question_text": "Which of the following statements best describes changes in the value of a long forward\nposition during its life?",
+        "image": "",
+        "options": {
+            "A": "A.As interest rates go down, the value of the position goes up.",
+            "B": "B.As the price of the underlying goes up, the value of the position goes up.",
+            "C": "C.As the time to maturity goes down, the value of the position goes up."
+        },
+        "answer": "B",
+        "explanation": "Given the formula for the value of a forward contract\n . It follows that the value of the contract goes up as the price of the underlying goes up.\n $$\nV_{t}(T) = S_{t} - F_{0}(T)(1 + r)^{-(T - t)}\n$$",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward contracts, Interest rates, Underlying asset price",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text+image"
+    },
+    {
+        "question_number": "81",
+        "question_text": "Which of the following is least likely to be required by the binomial option pricing model?",
+        "image": "",
+        "options": {
+            "A": "A.Spot price",
+            "B": "B.Two possible prices one period later",
+            "C": "C.Actual probabilities of the up and down moves"
+        },
+        "answer": "C",
+        "explanation": "C is correct. The actual probabilities of the up and down moves in the underlying\ndo not appear in the binomial option pricing model, only the pseudo or “risk-neutral”\nprobabilities. Both the spot price of the underlying and two possible prices one period later\nare required by the binomial option pricing model. ： 这道题目问的是二项式期权定价模型最不可能\n要求以下哪一项？ C是正确的。在二项式期权定价模型中，标的物上下波动的实际概率并没有出现，只有伪\n概率或“风险中性”概率。二项期权定价模型要求标的物的现货价格和一段时间后的两个可能价格。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Binomial Option Pricing Model, Risk-neutral Probabilities, Spot Price",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "82",
+        "question_text": "The clearing and settlement process of an exchange-traded derivatives market:",
+        "image": "",
+        "options": {
+            "A": "A.provides a credit guarantee.",
+            "B": "B.provides transparency and flexibility.",
+            "C": "C.takes longer than that of most securities exchanges."
+        },
+        "answer": "A",
+        "explanation": "： A is correct. The clearing and settlement process of derivative transactions\nprovides a credit guarantee. B is incorrect because although the exchange markets are said to\nhave transparency, they also involve standardization. That entails a loss of flexibility, with\nparticipants limited to only those transactions permitted on the exchange. C is incorrect\nbecause derivatives exchanges clear and settle all contracts overnight, which is faster than\nmost securities exchanges, which require two business days. ： 这道题目问的是交易所交易的衍生品\n市场的清算和结算过程是怎样的？ A是正确的。清算和结算过程提供了信用担保。 B是不正确的，因为尽管\n交易所市场具有透明度，但它们是标准化的，这将导致灵活性丧失。 C是不正确的，因为衍生品交易所通宵\n结算所有合约，这比大多数证券交易所速度要快。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Clearing and settlement, Credit risk management, Derivatives markets",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "83",
+        "question_text": "The price of a forward contract:",
+        "image": "",
+        "options": {
+            "A": "A.is the amount paid at initiation.",
+            "B": "B.is the amount paid at expiration.",
+            "C": "C.fluctuates over the term of the contract."
+        },
+        "answer": "B",
+        "explanation": "B is correct. The forward price is agreed upon at the start of thecontract and is\nthe fixed price at which the underlying will be purchased (orsold) at expiration. Payment is\nmade at expiration. The value of the forwardcontract may change over time, but the forward\nprice does not change. ： 这道题目问的是远期合约的价格？ B是正确的。远期合约价格是在合约开始时\n商定的，是标的物在到期时购买（或出售）的固定价格，在到期时付款。远期合约的价值可能随着时间的推\n移而变化，但价格不变。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward Contracts, Derivatives Pricing, Financial Instruments",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "84",
+        "question_text": "If the risk-free rate increases, the value of an in-the-money European put option will most\nlikely:",
+        "image": "",
+        "options": {
+            "A": "A.decrease.",
+            "B": "B.remain the same.",
+            "C": "C.increase."
+        },
+        "answer": "A",
+        "explanation": "A is correct. An in-the-money European put option decreases in value with an\nincrease in the risk-free rate. A higher risk-free rate reduces the present value of any\nproceeds received on exercise. ： 这道题目问的是如果无风险利率上升，实值欧式看跌期权的价值很可\n能？ A是正确的。欧式看跌期权的价值随着无风险利率的提高而降低。较高的无风险利率降低了行权所得收\n益的现值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Option pricing, Risk-free rate, European options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "85",
+        "question_text": "Exchange-traded derivatives are:",
+        "image": "",
+        "options": {
+            "A": "A.largely unregulated.",
+            "B": "B.traded through an informal network.",
+            "C": "C.guaranteed by a clearinghouse against default."
+        },
+        "answer": "C",
+        "explanation": "： C is correct. Exchanged-traded derivatives are guaranteed by a clearinghouse\nagainst default.A is incorrect because traded derivatives are characterized by a relatively\nhigh degree of regulation. B is incorrect because the terms of exchange-traded derivatives\nterms are specified by the exchange. ： 这道题目问的是交易所交易的衍生品是怎么样的？ 交易所交易\n的衍生品由清算所担保，以防违约。C正确。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Exchange-traded derivatives, Clearinghouse, Regulation",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "86",
+        "question_text": "A credit derivative is a derivative contract in which the:",
+        "image": "",
+        "options": {
+            "A": "A.clearinghouse provides a credit guarantee to both the buyer and the seller.",
+            "B": "B.seller provides protection to the buyer against the credit risk of a third party.",
+            "C": "C.the buyer and seller provide a performance bond at initiation of the contract."
+        },
+        "answer": "B",
+        "explanation": "： B is correct. A credit derivative is a derivative contract in which the credit\nprotection seller provides protection to the credit protection buyer against the credit risk of\na third party. A is incorrect because the clearinghouse provides a credit guarantee to both the\nbuyer and the seller of a futures contract, whereas a credit derivative is between two parties,\nin which the credit protection seller provides a credit guarantee to the credit protection\nbuyer. C is incorrect because futures contracts require that both the buyer and the seller of\nthe futures contract provide a cash deposit for a portion of the futures transaction into a\nmargin account, often referred to as a performance bond or good faith deposit. ： 这道题目问的\n是信用衍生工具是一种怎样的衍生合约？ B是正确的。信用衍生工具是指信用保护卖方向信用保护买方提供\n第三方信用风险保护的衍生合约。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit Risk, Derivative Contracts, Credit Derivatives",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "87",
+        "question_text": "When interest rates are constant, futures prices are most likely:",
+        "image": "",
+        "options": {
+            "A": "A.less than forward prices.",
+            "B": "B.equal to forward prices.",
+            "C": "C.greater than forward prices."
+        },
+        "answer": "B",
+        "explanation": "B is correct. When interest rates are constant, forwards and futures will likely\nhave the same prices. The price differential will vary with the volatility of interest rates.\nIn addition, if futures prices and interest rates are uncorrelated, forward and futures prices\nwill be the same. If futures prices are positively correlated with interest rates, futures\ncontracts are more desirable to holders of long positions than are forwards. This is because\nrising prices lead to future profits that are reinvested in periods of rising interest rates,\nand falling prices lead to losses that occur in periods of falling interest rates. If futures\nprices are negatively correlated with interest rates, futures contracts are less desirable to\nholders of long positions than are forwards. The more desirable contract will tend to have the\nhigher price. ： 这道题目问的是当利率不变时，期货价格最有可能是？ B是正确的。当利率不变时，远期\n和期货的价格相同。价格差异将随着利率的波动而变化。如果期货价格和利率不相关，期货价格和期货价格\n将相同。如果期货价格与利率正相关，那么持有多头头寸的期货合约比远期合约更受欢迎。这是因为价格上\n涨会导致未来的利润在利率上升的时期再投资。如果期货价格与利率呈负相关，那么持有远期合约更受欢迎\n。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Forward and Futures Prices, Interest Rate Risk, Correlation and Pricing",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "88",
+        "question_text": "When the price of the underlying is below the exercise price, a put option is:",
+        "image": "",
+        "options": {
+            "A": "A.in-the-money.",
+            "B": "B.at-the-money.",
+            "C": "C.out-of-the-money."
+        },
+        "answer": "A",
+        "explanation": "A is correct. When the price of the underlying is below the exercise price for a\nput, the option is said to be in-the-money. If the price of the underlying is the same as the\nexercise price, the put is at-the-money and if it is above the exercise price, the put is out-\nof-the-money. ： 这道题目问的是当标的物价格低于行权价格时，看跌期权是？ A是正确的。当标的物的价\n格低于看跌期权的行权价格时，期权就称为实值。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Options pricing, Moneyness of options, Put options",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "89",
+        "question_text": "Based on put–call parity, which of the following combinations results in a synthetic long\nasset position?",
+        "image": "",
+        "options": {
+            "A": "A.A long call, a short put, and a long bond",
+            "B": "B.A short call, a long put, and a short bond",
+            "C": "C.A long call, a short asset, and a long bond"
+        },
+        "answer": "A",
+        "explanation": "A is correct. One can synthetically create a long asset position by buying a call,\nshorting a put, and buying a bond.B is incorrect because combining a short call and a short\nbond with the right to sell (not buy) another asset via a long put could not result in a new\nsynthetic long asset position.C is incorrect because combining a long call, a short asset, and\na long bond creates a long put, not a synthetic long asset. ： 这道题目问的是基于买卖权平价公式\n，下列哪种组合会产生多头资产头寸？ A是正确的。可以通过买入看涨期权、卖出看跌期权和购买债券合成\n多头资产头寸。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Derivatives, Option Strategies, Put-Call Parity",
+        "book label": "level1_衍生",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Which of the following is the most likely output of a bank's liquidity stress test report?",
+        "image": "",
+        "options": {
+            "A": "A.Cash flow survival horizon",
+            "B": "B.Net interest income projection",
+            "C": "C.Leverage ratio of unsecured debt to equity",
+            "D": "D.Return on equity versus threshold and target"
+        },
+        "answer": "A",
+        "explanation": "The most important thing to a liquidity stress test report is to output a cash flow\nsurvival horizon(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk management, Stress testing, Cash flow analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "On opening day, Master Fund LP has the following economic balance sheet:  \n \n \nAssume Master Fund LP finances a long position in $100million worth of an equity at the margin\nrequirement of 30%. It invests $30million of its own funds and borrows $70 from a commercial\n bank, immediately after the trade, its margin account has $30million of equity and $70million\nof  loan. What is the change in the firm's leverage ratio after this trade?",
+        "image": "LiquidityandTreasuryRiskMeasurementandMan_images/2u.png",
+        "options": {
+            "A": "A.From 1.5 to 2.5",
+            "B": "B.From 2.50 to 3.08 ",
+            "C": "C.From 2.5 to 4.11",
+            "D": "D.From 1.500 to 1.500"
+        },
+        "answer": "B",
+        "explanation": "From 2.5 to 3.08 • Initial leverage = assets/equity = 300/120 = 2.5. • After the\ntrade, assets = $70(cash)+$300(financial assets)=$370 • After the trade, liabilities = $180debt\n+ $70 margin loan = $250; such that equity = $370- 250 = $120; and leverage = 370/120 = 3.08(0)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Leverage ratios, Balance Sheets, Margin requirements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "Consider the following four definitions related to liquidity risk: (1). Liquidity risk: The\nevent that in the future the bank receives smaller than expectedamounts of cash flows to meet\nits payment obligations.(2) Funding cost risk: The event that in the future the bank has to pay\ngreater thanexpected cost (spread) above the risk-free rate to receive funds from sources of\nliquiditythat are available(3) Liquidity generation capacity: The ability of a bank to generate\npositive cash flows,beyond contractual ones, from the sources of liquidity available in the\nbalance sheet and off the balance sheet at a given date.(4) Cash flow at Risk: The amount of\neconomic losses due to the fact that on agiven date the algebraic sum of positive and negative\ncash flows and of existing cashavailable at that date, is different from some (desired)\nexpected level.Which of the following statements about these definitions is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.Liquidity risk is inaccurate, but the other three are correct",
+            "B": "B.Funding cost risk is inaccurate, but the other three are correct",
+            "C": "C.Cash risk at Risk (CFaR) is inaccurate, but the other three are correct",
+            "D": "D.All four definitions are correct"
+        },
+        "answer": "C",
+        "explanation": "Cash risk at Risk (CFaR) is inaccurate but the other three are correct.The\ndefinition given for (C) is a second definition for liquidity risK: The amount of economic\nlosses due to thefact that on a given date the algebraic sum of positive and negative cash\nflows and of existing cash availableat that date, is different from some (desired) expected\nlevel.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Funding Cost Risk, Cash Flow at Risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Firms generally use a stoplight system in representing and communicating their performance\n against the thresholds of their EWIs. A green indicator means the measure is within normal\nbounds;  An amber indicator means the measure should be investigated further; A red indicator\nshould be a  source for significant concern and may warrant an immediate response. Which of\nthe following is  the most suitable way to start a calibration of these thresholds?",
+        "image": "",
+        "options": {
+            "A": "A.The boundaries for which an EWI moves from green to yellow should be narrow enough.",
+            "B": "B.Historical data can inform the calibration of thresholds",
+            "C": "C.Practitioners observe that this stoplight system is effective because it can be set very\nwide.",
+            "D": "D.The threshold should not be subject to back-testing"
+        },
+        "answer": "B",
+        "explanation": "Historical data can inform the calibration of thresholds. In regard to (A), (C) and\n(D), each is FALSE(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk Indicators, Threshold Calibration, Historical Data Analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "Consider the following four definitions related to liquidity risk: (1). Liquidity risk: The\nevent that in the future the bank receives smaller than expectedamounts of cash flows to meet\nits payment obligations.(2) Funding cost risk: The event that in the future the bank has to pay\ngreater thanexpected cost (spread) above the risk-free rate to receive funds from sources of\nliquiditythat are available(3) Liquidity generation capacity: The ability of a bank to generate\npositive cash flows,beyond contractual ones, from the sources of liquidity available in the\nbalance sheet and off the balance sheet at a given date.(4) Cash flow at Risk: The amount of\neconomic losses due to the fact that on agiven date the algebraic sum of positive and negative\ncash flows and of existing cashavailable at that date, is different from some (desired)\nexpected level.Which of the following statements about these definitions is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.Liquidity risk is inaccurate, but the other three are correct",
+            "B": "B.Funding cost risk is inaccurate, but the other three are correct",
+            "C": "C.Cash risk at Risk (CFaR) is inaccurate, but the other three are correct",
+            "D": "D.All four definitions are correct"
+        },
+        "answer": "C",
+        "explanation": "Cash risk at Risk (CFaR) is inaccurate but the other three are correct.The\ndefinition given for (C) is a second definition for liquidity risk: The amount of economic\nlosses due to thefact that on a given date the algebraic sum of positive and negative cash\nflows and of existing cash availableat that date, is different from some (desired) expected\nlevel.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Funding cost risk, Cash flow at Risk (CFaR)",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "An investment bank finds that current market has been highly volatile but its own capital\nbase is large enough. However, the counterparty of this bank asks for higher and higher\ncollateral for the  bank’s repo and repo rollover. This phenomenon shows:",
+        "image": "",
+        "options": {
+            "A": "A.balance sheet risk",
+            "B": "B.transactions liquidity risk",
+            "C": "C.systematic risk",
+            "D": "D.maturity transformation risk"
+        },
+        "answer": "A",
+        "explanation": "Funding liquidity risk or balance sheet risk results when a borrower’s credit\nposition is either  deteriorating or is perceived by market participants to be deteriorating.\nIt also occurs when the  market deteriorates. Under these conditions, creditors may withdraw\ncredit or change the terms of  credit. In this case, the lender is increasing the haircut and\nis thus changing the terms of credit.  Glenn Fund’s creditworthiness does not actually have\nto decline for a lender to withdraw credit or  change the terms of credit.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Balance sheet risk, Funding liquidity risk, Credit risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "An analyst in a commercial bank is evaluating the available funds gap for the next month.\nAfter analysis, he found that 1) the qualified loan requests accepted is $150 Million, 2) a\nmajor customer of the bank is going to withdraw $135 Million, 3) the bank has plan to invest in\nbond markets for $ 50 Million, 4) the current deposit is $160 Million and $ 100 Million is\nexpected to come next month, 5) $10 Million will be added to available funds gap for a cushion.\nWhich of the following is the amount of funds that the bank needs to finance from non-deposit\nsources?",
+        "image": "",
+        "options": {
+            "A": "A.85 Million",
+            "B": "B.75 Million",
+            "C": "C.65 Million",
+            "D": "D.335 Million"
+        },
+        "answer": "A",
+        "explanation": "计算 AFG，也就是除了存款维持以外的资金需求，根据公式：可用资金缺口（AFG）=贷款机构\n希望进行的当前和预计的贷款和投资-当前和预期的存款流入以及其他可用资金+ 为 AFG 估算添加少量金额\n= $150M+$135M+$50M - $160M - $100M + $10M = $85M。(0)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Funding and Liquidity Analysis, Balance Sheet Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "How many of the following statements is most likely correct? I. The special spreads usually\nderives from the difference between the general collateral rate and  the repo rate if the\ncollateral securities are on-the-run (OTR) T-bonds. II. An important reason that special trade\nusually uses on-the-run (OTR) bonds is the brilliant  liquidity involved in new-issued T-\nbonds, and the liquidity has been cherished by both investors  who hold long positions and\nshort sellers.  III. Special spread would usually become largest immediately after auctions\nand smallest before  auctions.",
+        "image": "",
+        "options": {
+            "A": "A.Zero",
+            "B": "B.One",
+            "C": "C.Two",
+            "D": "D.Three"
+        },
+        "answer": "C",
+        "explanation": "Only the last statement is wrong. Spreads tend to be small immediately after\nauctions and to peak  before auctions. Immediately after an auction of a new OTR security,\nshorts can stay in the  previous OTR security or shift to the new OTR. This substitutability\ntends to depress special  spreads. Extra supply of the OTR security immediately following a\nre-opening auction tends to  depress special spreads.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Repurchase Agreements (Repos), Treasury Securities, Market Liquidity",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "All risk management frameworks start with a governance structure that defines the roles and\n responsibilities of various bank employees and committees in overseeing risk-related\nactivities. Effective governance includes the oversight of intraday liquidity risk. which of\nthe following  statements is true about intraday liquidity risk management?",
+        "image": "",
+        "options": {
+            "A": "A.Payments on large value payment systems should not be considered as a intraday liquidity.",
+            "B": "B.Roles and responsibilities should be defined by Treasury department.",
+            "C": "C.PCS Systems should only be a source of funds; if PCS becomes a use of funds, then a\nyellowflag should be triggered",
+            "D": "D.Intraday liquidity risk should be incorporated in the risk taxonomy and is a component of"
+        },
+        "answer": "D",
+        "explanation": "Payments on large value payment systems are an important use of intraday credit;\nRoles and responsibilities should be defined by ALCO; Payment, clearing, and settlement (PCS)\nSystems can  be either a source or use of funds. So in regard to (A), (B) and (C), each is\nFALSE.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Intraday liquidity risk management, Risk governance structures, Payment, clearing, and settlement (PCS) systems",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "Which of the following below is best describes the term structure of expected liquidity, aka\nthe  TSL(e)?",
+        "image": "",
+        "options": {
+            "A": "A.TSL(e) is the cumulative change in the term structure of available assets.",
+            "B": "B.TSL(e) is a combination of the term structures of cash flow at risk and liquidity at risk.",
+            "C": "C.TSL(e) is a combination of the term structure of expected cash, change in working capital,\nandchange in deposits.",
+            "D": "D.TSL(e) is a combination of the term structures of cumulative expected cash flows and"
+        },
+        "answer": "D",
+        "explanation": "The term structure of expected liquidity, TSL(e), is a combination of the term\nstructures of  cumulative expected cash flows (TSECCF) and liquidity generation capacity\n(TSCLGC). In regard  to (A), (B) and (C), each is FALSE.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk, Cash Flow Management, Liquidity Generation Capacity",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "A deposit institution has accepted $30 million qualified loan request. The management is\nconsidering issuing $30 million negotiable CDs with current interest rate of 6% to finance\nfunds, the noninterest cost in the form of flotation cost in 0.2%, and legal reserve\nrequirements is 5% of the total loan amount. What is the effective financing cost rate by\nissuing negotiable CDs?",
+        "image": "",
+        "options": {
+            "A": "A.6.2%",
+            "B": "B.6.53%",
+            "C": "C.6.6%",
+            "D": "D.5.8%"
+        },
+        "answer": "B",
+        "explanation": "$$\n\\text{cost of rate} = \\frac{30M * (6\\% + 0.2\\%)}{30(1 - 5\\%)} \\approx 6.53\\%\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Effective Financing Cost Calculation, Flotation Costs, Reserve Requirements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "An investor holds two positions:Long shares worth $35,000 where the bid-offer spread has a\nmean and standard deviation of 0.040.Long shares worth $40,000 where the bid-offer spread has a\nmean and standard deviation of 0.060.Under 99.0% confidence, which of the following is the\nnearest to the worst expected cost of unwinding? (assumed bi-ask spread is normally\ndistributed)",
+        "image": "",
+        "options": {
+            "A": "A.$6,327",
+            "B": "B.$2,950",
+            "C": "C.$3,240",
+            "D": "D.$6,500"
+        },
+        "answer": "A",
+        "explanation": "The 99.0% confident worst expected spread for each position is given by:$35,000 *\n(0.040 + 0.040 * 2.33) = $4,662$40,000 * (0.060 + 0.060 * 2.33) = $7,992Total cost of unwinding\nwith 95.0% confidence is therefore (4,662 + 7,992)/2 = $6,327(0)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Bid-ask spread, Confidence intervals",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "One of the board members has suggested that the CIO look at several hedge funds that have\n reported strong performance in recent years. The CRO is familiar with many of these funds and\nis  aware that several invest heavily in illiquid assets and that this may cause standard risk\nmeasures  based on daily returns to give a misleading picture of their risk. Which of\nfollowing statements about  daily risk measures applied to hedge funds that invest in illiquid\nassets is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Correlation with other investments will be artificially lowered, giving the appearance of\nlowsystematic risk.",
+            "B": "B.Infrequent trading reduces the smoothing effects from mark-to-market valuation, giving\ntheappearance of high volatility.",
+            "C": "C.Returns of illiquid assets tend to exhibit negative serial correlation, leading to higher\nlong-termvolatility.",
+            "D": "D.All else being equal, illiquid assets tend to have lower Sharpe ratios, causing the"
+        },
+        "answer": "A",
+        "explanation": "B is incorrect. Infrequent trading makes the insufficient data smooth, giving the\nappearance of low  volatility. C is incorrect. Returns of illiquid assets tend to exhibit\npositive serial correlation. D is incorrect. All else being equal, illiquid assets tend to have\nhigher Sharpe ratios.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk, Serial Correlation, Sharpe Ratio",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "Following the collapse of Lehman Brothers in September 2008, many banks faced severe\ndifficulties securing short-term US dollar funding, especially those European banks. Which of\nthe following statements about US dollar shortage is NOT correct?",
+        "image": "",
+        "options": {
+            "A": "A.Higher cross-currency funding, higher the funding risk banks faced when their hedging\nrequirements and FX swap transactions have to be rolled over.",
+            "B": "B.The US dollar gap faced roll over risk due to the maturity mismatch.",
+            "C": "C.US dollar investment to non-banks with funds from various counterparties, subjected to\nfunding risk.",
+            "D": "D.A help method for release pressure of dollar shortage is selling structed finance product"
+        },
+        "answer": "D",
+        "explanation": "当时金融危机下，结构性金融产品等非银行实体的债权一旦出售面临着巨大的损失，并不能用\n来缓解美元短缺的压力。(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Foreign exchange risk, Maturity mismatch",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "Over the next 24 hours, Golden state Bank estimates that the following cash inflows  and\noutflows (all figures in millions) will occur:\n \n \nWhat is the bank's projected net liquidity position?",
+        "image": "LiquidityandTreasuryRiskMeasurementandMan_images/15u.png",
+        "options": {
+            "A": "A.-30.0 million",
+            "B": "B.+10.0 million",
+            "C": "C.+40.0 million",
+            "D": "D.+90.0 million"
+        },
+        "answer": "B",
+        "explanation": "英  中Inflows include:  Deposit inflows = 100  Scheduled loan repayments = 60\n Borrowings from the money market = 80  Sales of bank assets = 30  Revenues from sale of\nnon-deposit services = 10  for total inflows of $100 + $60 + $80 + $30 + $10 = 280.0 million.\n Outflows include:  Deposit withdrawals = 70 Acceptable loan requests = 90 Stockholder\ndividend payments = 20  Repayment of bank borrowings = 50  Operating expenses = 40; for total\noutflows of $70 + $90 + $20 + $50 + $40 = $270.0 millionTherefore, the projected net liquidity\nposition = $280 - 270 = +10.0 million(0)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity Management, Balance Sheet Analysis, Cash Flow Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Changing interest rates also changes the market value of assets and liabilities, thereby\nchanging each financial institution's net worth. Shareholders'may pay more attention to the\nmanagement of net worth, which of the following statements about duration gap management is\nleast correct?",
+        "image": "",
+        "options": {
+            "A": "A.The larger the leverage-adjusted duration gap, the more sensitive will be the net worth\n(equity capital) of a financial institution to a change in interest rates.",
+            "B": "B.A financial firm with longer-duration assets than liabilities will suffer a greater decline\nin net worth when market interest rates rise.",
+            "C": "C.Net worth is more sensitive to interest rate when rate is at high level than at low due to\nthe existence of convexity.",
+            "D": "D.In practice, duration gap management considers only the liner relationship between the change"
+        },
+        "answer": "C",
+        "explanation": "Net worth is more sensitive to interest rate when it is at low level than high.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Duration Gap Management, Interest Rate Sensitivity, Convexity",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Malaysia Bank currently has the following simplified balance sheet:\n \n \nFurther, the maturities of these accounts are as follows: (1) Assets: The bonds ($30.0\nmillion) expire in one year. In regard to the loans ($70.0),$40.0 million expire in five (5)\nyears, $10.0 million expire in seven (7) years, and $20.0million expire in ten (10) years.(2)\nLiabilities: In regard to the deposits ($20.0 million), $10.0 million expire in one (1) year,\nand $20.0 million expire in two (2) years. In regard to the bonds ($50.0 million), $10.0\nmillion expire in five (5) years, $30.0 million expire in seven (7) years, and $10.0 million\nexpire in beyond ten(>10) years.(3) Equity ($20.0 million) is presumed to expire in ten (10)\nyearsWhich term structure of cumulated expected cash flows is accurate for Malaysia Bank?",
+        "image": "",
+        "options": {
+            "A": "A.Series A",
+            "B": "B.Series B",
+            "C": "C.Series C",
+            "D": "D.Series D"
+        },
+        "answer": "C",
+        "explanation": "",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Asset-Liability Management, Cash Flow Matching, Bank Balance Sheet Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "James, an analyst in liability management department, has to propose an appropriate non-\ndeposit financing sources for the bank's coming $ 50 million investment requirement next week.\nAfter investigate, he gets the following information and both ways require deposit insurance\nfee:\n \n \nWhich of the following statements are most likely accurate?",
+        "image": "LiquidityandTreasuryRiskMeasurementandMan_images/18u.png",
+        "options": {
+            "A": "A.The effective cost rate of the Fed funds is 6.3%",
+            "B": "B.The effective cost rate of the commercial paper is 7.2%",
+            "C": "C.James should suggest the Fed Funds for financing due to the lower effective cost rate.",
+            "D": "D.James should suggest the commercial paper for financing due to the lower effective cost rate."
+        },
+        "answer": "C",
+        "explanation": "Cost rate of the Fed funds = \n\n$$\n\\frac{\\$50M * (6\\% + 0.25\\%)}{\\$50M - \\$2m - \\$50 * 0.003} \\approx 6.5\\%\n$$\n\nCost rate of commercial paper = \n\n$$\n\\frac{\\$50M * (7\\% + 0.2\\%)}{\\$50M - \\$2m - \\$50 * 0.003} \\approx 7.5\\%\n$$",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Short-Term Financing, Cost of Funds",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Each of the following is a measure for quantifying and/or monitoring risk levels except\nwhich  is a measure for understanding intraday flows?",
+        "image": "",
+        "options": {
+            "A": "A.Total payments",
+            "B": "B.Client intraday credit usage",
+            "C": "C.Intraday credit relative to tier 1 capital",
+            "D": "D.Daily maximum intraday liquidity usage"
+        },
+        "answer": "A",
+        "explanation": "Total payments is a measure for understanding intraday flows  In regard to (B),\n(C) and (D), each is a measure for quantifying and/or monitoring risk levels(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Credit Risk Monitoring, Intraday Flow Measurement",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "The main business lines of large dealer banks are:  (1) securities dealing, underwriting,\nand trading;  (2) over-the-counter derivatives;  (3) prime brokerage and asset management.\n About these main business lines, each of the following statements is true except which is\nfalse?",
+        "image": "",
+        "options": {
+            "A": "A.A tri-party repo agreement (between the dealer, the investor and a clearing bank) is used to\nmitigate counterparty risk and\\/or reduce burden of collateral management. ",
+            "B": "B.For most over-the-counter (OTC) derivatives, one of the counterparties is a dealer who\ntypicallylays off much (or all) of the risk of its client-initiated trades by running a matched\nbook.",
+            "C": "C.With respect to over-the-counter (OTC) derivatives, the best measure of their systemic risk\nis thetotal market value of all outstanding contracts; further, master swap agreements do not\nreduce theiractual risks (although they do lower the administrative burden of OTC derivative\ncontracts).",
+            "D": "D.Some large dealers are Prime Brokers who provide clients a range of services"
+        },
+        "answer": "C",
+        "explanation": "Master swap agreements reduce risk via netting and standardized collateral\narrangements; further,  the total market value of all derivative contracts is zero. In regard\nto (A), (B) and (D), each is TRUE.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Prime brokerage, Over-the-counter derivatives, Securities trading",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "The framework of Early Warning Indicators can be summarized as M.E.R.I.T\" and “M” means\n “Measures”. Which of the following is true about a good Early Warning Indicator (EWI)\nmeasures?",
+        "image": "",
+        "options": {
+            "A": "A.Forward-looking and sharp measures",
+            "B": "B.Measures are not linked from the escalation process",
+            "C": "C.Leading indicators provide Information and signal potential stress after the occurrence of\nanactual event",
+            "D": "D.Banks should consider only internal but not external measures"
+        },
+        "answer": "A",
+        "explanation": "Escalation process is included in Measures; Leading indicators provide Information\nand signal  potential stress prior to occurrence of an actual event; Banks should consider\nboth internal and  external measures.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Early Warning Indicators, Forward-looking measures, Escalation process",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "Liquidity reserve is the cushion for banks when they are caught in a liquidity problem. A\ntreasurer is calculating the liquidity requirements after divided the deposits and other funds\ninto volatile liabilities, vulnerable funds and stable funds, which of the following statements\nis NOT true?",
+        "image": "",
+        "options": {
+            "A": "A.The stable funds, usually long-term deposits, are least possible to flow out.",
+            "B": "B.Volatile liabilities should be weighted the most when calculate liquidity reserves.",
+            "C": "C.Vulnerable funds are those funds might be withdrawn recently.",
+            "D": "D.Stable funds should not be considered in liquidity reserve calculation."
+        },
+        "answer": "D",
+        "explanation": "volatile liabilities, 也叫热钱，是那些对利率变动特别敏感的存款以及借款或者那些确定\n会在近期被取出的资金，Vulnerable funds，相对脆弱的资金是有可能在近期取出的，stable fund 是比较\n稳定的常常是长期的存款，这三种资金都需要提取一定比例的流动性准备金，比重分别是 0.95，0.3 和\n0.15.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk management, Bank treasury functions, Deposit stability classifications",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "While smaller banks and thrift institutions usually rely most heavily on deposits for their\nfunding needs, leading depository institutions around the globe have come to regard the\nnondeposit funds market as a key source of short-term money to meet both loan demand and\nunexpected cash emergencies. The most popular domestic source of borrowed reserves among\ndepository institutions is the Federal funds market. Which of the following statement about the\nFederal funds market is most likely accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Specific collateral is needed for all Federal funds.",
+            "B": "B.The Fed has set three levels of credit, primary, secondary and seasonal, to meet needs\nof different institutions.",
+            "C": "C.The Federal funds market allows depository institutions short of reserves to meet their legal\nreserve requirements or to satisfy loan demand by tapping immediately usable funds from other\ninstitutions possessing temporarily idle funds.",
+            "D": "D.The Federal funds market improves the liquidity of home mortgages by allowing troubled"
+        },
+        "answer": "C",
+        "explanation": "Overnight funds 一般不需要抵押，A 错 B 选项是 Federal Reserve Banks 的特征，不是\nthe Federal funds market 的特征，B 错 C 正确，the Fed 就是通过把别的银行暂时不用的存款借给有需\n要的银行D 选型是 The Federal Home Loan Banks (FHLB)的特征，D 错(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Bank Funding Sources, Federal Funds Market, Legal Reserve Requirements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Asset-liability committee (ALCO), meets regularly to manage the financial firm's interest\nrate risk and other risk exposure, and estimates the firm's risk exposure. As a member of ALCO,\nJason finds that the bank has negative interest-sensitive gap, which of the following\nstatements is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The bank is asset sensitive.",
+            "B": "B.If interest rates rise, bank's net interest margin will decrease.",
+            "C": "C.If interest rates rise, bank's net interest margin will increase.",
+            "D": "D.The Interest Sensitivity Ratio (ISR) is more than 1."
+        },
+        "answer": "B",
+        "explanation": "Interest-sensitive gap = Interest-sensitive assets  Interest-sensitive liabilities,\n小于 0 代表利率敏感的负债多于利率敏感的资产，银行是负债敏感型的，利率上升，负债端支出的利息增加\n多于资产端收入的利息增加，银行净息差下降。当利率为负缺口时，利率敏感比率小于 1。(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk Management, Asset-Liability Management, Net Interest Margin",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "The liquidity management department of Bank ABC, is estimating liquidity needs for the next\nmonth. Liquidity rises as deposits increase and loans decrease and declines when deposits\ndecrease and loans increase, therefore the changes in deposits and loans must be forecasted.\nFor the deposit, the department estimates that the trend component is $1,200, the seasonal\ncomponent is $70, and the cyclical component is - $38.Which is the estimated deposit should be\nin next month?",
+        "image": "",
+        "options": {
+            "A": "A.$1380",
+            "B": "B.$1092",
+            "C": "C.$1232",
+            "D": "D.$1168"
+        },
+        "answer": "C",
+        "explanation": "简单法估计一定周期内的存款，考虑趋势性，季节性和周期性。Estimated total deposit =\ntrend estimate for deposit + seasonal elements + cyclical elements = $1,200 + $70 - $38 =\n$1232(0)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity Management, Forecasting Techniques, Components of Time Series",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "Consider the following four definitions related to liquidity risk:  (1). Liquidity risk:\nThe event that in the future the bank receives smaller than expected amounts of cash flows to\nmeet its payment obligations. (2) Funding cost risk: The event that in the future the bank has\nto pay greater than expected cost (spread) above the risk-free rate to receive funds from\nsources of liquidity that are available (3) Liquidity generation capacity: The ability of a\nbank to generate positive cash flows, beyond contractual ones, from the sources of liquidity\navailable in the balance sheet and off the  balance sheet at a given date. (4) Cash flow at\nRisk: The amount of economic losses due to the fact that on a given date the algebraic sum of\npositive and negative cash flows and of existing cash available at that date, is different from\nsome (desired) expected level. Which of the following statements about these definitions is\nTRUE?",
+        "image": "",
+        "options": {
+            "A": "A.Liquidity risk is inaccurate, but the other three are correct",
+            "B": "B.Funding cost risk is inaccurate, but the other three are correct",
+            "C": "C.Cash risk at Risk (CFaR) is inaccurate, but the other three are correct",
+            "D": "D.All four definitions are correct"
+        },
+        "answer": "C",
+        "explanation": "Cash risk at Risk (CFaR) is inaccurate but the other three are correct.  The\ndefinition given for (C) is a second definition for liquidity risk: The amount of economic\nlosses  due to the fact that on a given date the algebraic sum of positive and negative cash\nflows and of existing cash available at that date, is different from some (desired) expected\nlevel.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Funding cost risk, Cash flow at risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "A small commercial bank wants to know the minimum rate of return it has to earn for the next\nyear. Jack a treasurer from the investing department, starts from the total cost of capital, he\nfound that next year, all coming funds is $ 400 million, however, 10% of them cannot be\ninvested, and the current average interest rate is 5%, and operating expense, is about $ 10\nmillion. According to the information above, please help Jack figure out the hurdle rate for\ninvesting.",
+        "image": "",
+        "options": {
+            "A": "A.7.5%",
+            "B": "B.8.3%",
+            "C": "C.2.5%",
+            "D": "D.5.5%"
+        },
+        "answer": "B",
+        "explanation": "Hurdle rate of return over all earning assets = \n\n$$\n\\frac{400 * 5\\% + 10}{400 * (1 - 10\\%)} = 8.3\\%\n$$",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Cost of Capital, Hurdle Rate, Financial Calculation",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "A credit analyst is evaluating the liquidity of a small regional bank while preparing a\nreport for a credit committee meeting. With quarterly financial statements, the analyst\ncalculates some relevant liquidity indicators over the past three years. Which of the following\ntrends over this period should the analyst be most concerned about in the credit risk report?",
+        "image": "",
+        "options": {
+            "A": "A.The bank’s average net federal funds and repurchase agreements position has been increasing.",
+            "B": "B.The bank's capacity ratio has been increasing.",
+            "C": "C.The bank's pledged securities ratio has been decreasing.",
+            "D": "D.The bank's loan commitments ratio has been decreasing."
+        },
+        "answer": "B",
+        "explanation": "B is correct. Capacity ratio is the ratio of net loans and leases to total assets,\nso liquidity decreases when net loans and leases increase relative to total assets, because\nthey are often illiquid. A is incorrect. Liquidity increases when overnight loans increase\nrelative to overnight borrowing. C is incorrect. Liquidity increases when fewer securities are\npledged/unavailable to sell relative to total securities. D is incorrect. Liquidity increases\nwhen loan commitments decreases relative to total assets(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk, Credit Risk, Financial Ratios",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "In a deposit institution, savings deposits, checking accounts, NOW accounts, Christmas Club\naccounts, time deposits, cashiers' checks, money orders, officers'checks, and any outstanding\ndrafts normally are protected by federal insurance. About the deposit insurance, which of the\nfollowing is the least accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Deposit insurance allows institutions to sell deposits at relatively low rates of interest.",
+            "B": "B.Only members of Federal Deposit Insurance Corporation (FDIC) have deposit insurance.",
+            "C": "C.Liquidity risk for institutions is eliminated by deposit insurance because customers are\nlesspanic about the loss of their funds in deposit institutions.",
+            "D": "D.There is a limit on the deposit insurance, customers only get part of their deposit back if"
+        },
+        "answer": "C",
+        "explanation": "存款保险不能消除流动性风险，只能缓释流动性风险。(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Deposit Insurance, Liquidity Risk, Federal Deposit Insurance Corporation (FDIC)",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "Important indicators of management's effectiveness are whether or not funds deposited by the\npublic have been raised at the lowest possible cost and whether sufficient deposits are\navailable to fund all those loans and projects management wishes to pursue. Which of the\nfollowing statements about deposit pricing methods are most appropriate?I. Conditional pricing\nis sensitive to the types of customers each depository institution plans to serve and the cost\nthat serving different types of depositors will present to the offering institution. II.\nMarginal revenue should be determined at the beginning when using marginal cost pricing\nmethod.III. Free-pricing may attract too much volatile funds when market rate is high, which\nactually adverse to deposit institutions.IV. Relationship pricing promotes greater customer\nloyalty and makes the customer more sensitive to the prices posted on services offered by\ncompeting financial firms.",
+        "image": "",
+        "options": {
+            "A": "A.I & II",
+            "B": "B.II & III",
+            "C": "C.I, II & III",
+            "D": "D.I, II, III & IV"
+        },
+        "answer": "C",
+        "explanation": "Statement IV：Relationship pricing promotes greater customer loyalty and makes the\ncustomer less  sensitive to the prices posted on services offered by competing financial\nfirms.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Deposit Pricing Methods, Customer Loyalty, Cost Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "Deposits provide much of the raw material for making loans and, thus, may represent the\nultimate source of profits and growth for a depository institution. A deposit manager is trying\nto make the appropriate interest rate for deposits in order to balance the cost and profit.\nAmong the following statements, which is correct?",
+        "image": "",
+        "options": {
+            "A": "A.The optimal interest rate should be determined when marginal cost rate equals to marginal\nrevenue rate.",
+            "B": "B.Margin cost rate decrease at first and increases as the rises of interest rate.",
+            "C": "C.Higher interest rate should always be taken therefore to appeal more deposits.",
+            "D": "D.Amount of profit earned always decreases when interest rate increases."
+        },
+        "answer": "A",
+        "explanation": "用边际成本的方法确定存款价格。随着存款利率的上升，利润额先增加后减少，当边际成本率\n等于边际收益率的时候，利润额达到最大，此时的对应存款利率为最优利率。边际成本利率随着存款利率的\n增加而增加，高利率也意味这高成本，并不是越高越好。(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Marginal cost pricing, Profit maximization, Interest rate risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "Covered interest parity has been systematically violated since the Great Financial Crisis.\nSevere interpretations are available towards these puzzling and consistent phenomena. Which of\nthe following is NOT the possible reason led to the violation of CIP?",
+        "image": "",
+        "options": {
+            "A": "A.Banks' business model be doomed to use currency derivatives, such as FX swap, to hedge the\nmismatch of currencies.",
+            "B": "B.This circumstance reflects that CIP may be an incorrect theory, more research needs to be\ndone to verify the effectiveness of CIP.",
+            "C": "C.Structural changes in pricing market, credit, counterparty and liquidity risks post-crisis\nhas tightened the limits to arbitrage.",
+            "D": "D.Activities on foreign currency market of institutional investors and non-financial"
+        },
+        "answer": "B",
+        "explanation": "CIP is the closest thing to a physical law in international finance. When violation\nhappens, it doesn't mean CIP is incorrect, and two hypotheses are used to explain the\nviolation: the increasing demand for currency hedges and arbitrage limits.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Covered Interest Parity, Arbitrage, Financial Crises",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "The treasurer of ABC, a large industrial firm, is considering issuing a 7-year bond to fund\na  planned expansion. In order for the debt issuance to be successful, the treasurer feels\nthat the bond  must be attractive to investors in terms of potential return and liquidity. To\nget a sense of the current  market and how investors might receive the new debt issuance, the\ntreasurer asks the risk department  to conduct an analysis of the historical trading activity\nand performance of bonds issued by firms  similar to ABC. The bonds range in their initial\nmaturity from 6 to 8 years but vary significantly in  liquidity with some bonds traded several\ntimes a week and others that may only trade a few times a  year. When analyzing the\ninformation, the risk department should be concerned that an illiquid bond,  when compared to\na liquid bond, could exhibit:",
+        "image": "",
+        "options": {
+            "A": "A.Lower returns and bid-ask spreads.",
+            "B": "B.Higher autocorrelation of returns.",
+            "C": "C.A lower calculated Sharpe ratio.",
+            "D": "D.A higher beta to the market."
+        },
+        "answer": "B",
+        "explanation": "For illiquid bonds, market in reported earnings often adopts the way of income\nsmoothing, that is a  reference in front of the data to estimate a value, this value is\nestimated, with the previous data have  great links, so the autocorrelation is relatively\nlarge. The more illiquid the assets, the higher the bid?ask spreads. Illiquid assets tend to\nhave lower market beta, higher Sharpe ratio and lower volatility.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bond market liquidity, Autocorrelation of returns, Market risk analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "A risk analyst in a hedge fund is gauging the liquidity risk exposure of a portfolio which\nallocates on illiquid assets such as private equity, convertible bond, treasure assets, etc.\nWhich one  of following statements about risk and return biases of illiquid assets is\nincorrect?",
+        "image": "",
+        "options": {
+            "A": "A.The risk analyst found a significant first-order autocorrelation coefficient of 0.5 for the\nquarterly historical returns. This can be seen as an indicator of historical return smoothing.",
+            "B": "B.For an illiquid asset, the correlation between asset return and market return will be\nartificiallybiased upward, giving the appearance of high systematic risk.",
+            "C": "C.If there is survivorship bias in this portfolio, the returns tend to be biased upward.",
+            "D": "D.The price impact of large trades can be seen as an illiquidity variable to measure the"
+        },
+        "answer": "B",
+        "explanation": "A. 显著的自相关系数表明这个组合的收益率之间呈现自相关。一般来说交易不频繁的资产 由\n于可以观测到的收益率很少，收益率会被平滑，呈现自相关，这是非流动性资产的一个 特点。A 正确 B. 非\n流动性资产的收益率和大盘（或是其他一些流动性资产）之间的相关性会低估，并非 高估。 B 错误 C. 如\n果存在幸存者偏差（留下好的资产收益率的数据），会导致非流动性资产收益率高 估。C 正确 D. 大额交易\n的市场影响是评估股票市场的流动性的一个指标。如果大额交易对市场影响较 小，流动性较好。(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk, Autocorrelation, Survivorship Bias",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "In recent year, large dealer banks financed significant fractions of their assets using\nshort-term,  often overnight, repurchase (repo) agreements in which creditors held bank\nsecurities as collateral  against default losses. The table below shows the quarter-end\nfinancing of four broker-dealer  banks. All values are in USD billions.\n \n \nIf repo creditors become nervous about a bank’s solvency, which bank is least vulnerable to a\n liquidity crisis?",
+        "image": "LiquidityandTreasuryRiskMeasurementandMan_images/35u.png",
+        "options": {
+            "A": "A.Bank A",
+            "B": "B.Bank B",
+            "C": "C.Bank C",
+            "D": "D.Bank D"
+        },
+        "answer": "A",
+        "explanation": "A liquidity crisis could materialize if repo creditors become nervous about a\nbank’s solvency and  choose not to renew their positions. If enough creditors choose not to\nrenew, the bank could likely  be unable to raise sufficient cash by other means on such short\nnotice, thereby precipitating a  crisis. However, this vulnerability is directly related to\nthe proportion of assets a bank has pledged  as collateral. Bank A is least vulnerable since\nit has the least dependence on short-term repo  financing (i.e., the lowest percentage of its\nassets out of the four banks is pledged as collateral:  272/823 = 33%).(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk, Repo Agreements, Broker-Dealer Banks",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "Each of the following is true about the liquidity risk typology except which is false?",
+        "image": "",
+        "options": {
+            "A": "A.Liquidity risk has three major types: 1. Transaction (aka, asset, market); 2. Funding (aka,\ncashflow, balance sheet); and 3. Systemic (aka, crisis)",
+            "B": "B.Transaction liquidity risk (aka, asset or market liquidity risk) can be modeled by either or\nbothof an exogenous-spread approach or\\/and an endogenous price approach",
+            "C": "C.A key example of funding (aka, cash flow or balance sheet) liquidity risk is the rollover\nriskcreated by the maturity transformation function in a traditional depository institution  ",
+            "D": "D.The liquidity risk typology is well-defined into three buckets because the three major"
+        },
+        "answer": "D",
+        "explanation": "D is False, the opposite is the case. In general, the liquidity risks are related\nin potentially causal  chains.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Types, Liquidity Risk Modeling, Funding Liquidity Risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "No financial manager can completely avoid one of the toughest and potentially most damaging\nforms of risk that all financial institutions must face—interest rate risk. An analyst is\nevaluating four banks interest risk management, the information is as follows:\n \n \nWhich of the following statements are appropriate strategies these banks can adopt?I. Bank A\nshould increase investing in interest-sensitive assets if rate increases 1%.II. Bank B should\ndecrease its interest-sensitive liabilities if rate decreases 2%.III. Bank C should purchase\nmore assets with longer maturity and decreasing liabilities with longer maturity if rate falls\nfrom 4% to 2%.IV. Bank D should decrease duration of assets and increase duration of\nliabilities if rate raises from 2% to 4%.",
+        "image": "LiquidityandTreasuryRiskMeasurementandMan_images/37u.png",
+        "options": {
+            "A": "A.I, III & IV",
+            "B": "B.II & IV",
+            "C": "C.I, II & III",
+            "D": "D.I, II, III & IV"
+        },
+        "answer": "A",
+        "explanation": "Positive interest-sensitive gap means ISA is more than ISL, if rate raises,\nincreasing ISA can increase net interest income, because ISA can earn more interest rate than\ninterest cost by ISL, otherwise, for negative interest-sensitive gap, if rate falls, increasing\nISL can increase net interest income, because ISL can cost less.For duration gap, if interest\nrate raises, negative duration gap is better to maximum net worth, because the price of\nliabilities decrease more quickly than that of assets. If interest rate falls, positive\nduration gap can maximum net worth, because the price of assets increase more quickly than that\nof assets.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Asset-Liability Management, Duration Gap Analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "Allen holds a portfolio with 100,000 shares of a stock and the value of the position is $4.0\nmillion.  The bid price of the stock is $39 and the offer price is $41. The stock's daily\nvolatility is 2.59% .  Allen is interesting in calculating the LVaR of the portfolio, Let’s\nassume the stock's arithmetic  returns are normally distributed (aka, normal VaR) and the\nexpected daily return rounds to zero.  Which is NEAREST to the position's one-day 99.0%\nconfident liquidity-adjusted value at risk  (LVaR)?",
+        "image": "",
+        "options": {
+            "A": "A.$123,000",
+            "B": "B.$276,000",
+            "C": "C.$340,000",
+            "D": "D.$400,000"
+        },
+        "answer": "C",
+        "explanation": "The one-day 99.0% VaR is calculated by 0 + 2.59% * 2.326 * $4.0 million = $240,973.\nThe liquidity cost (LC) is given by (41.00 - 39.00)/40.00 * 0.5 * $4.0 million = $100,000. The\none-day 99.0% VaR is therefore 240,973 + 100,000 = $340,973(0)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Liquidity Risk, Portfolio Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "The Rosenfeld Investment Firm wants to invest in bond portfolios. Based on its multi-year\n fabulous expertise in bond investment, it can choose from among the following maturity\nstrategies:  Ladder Policy, Front-end Load Maturity Policy, Back-end Load Maturity Policy,\nBarbell Strategy,  or Rate Expectations Approach. The firm's goal for the portfolio is neither\nto maximize income nor  to seek to maximize the upside potential for earnings. Instead, the\nprimary goal is to use the portfolio  as a source of liquidity. For that purpose, which of the\nfollowing strategy is the most suitable?",
+        "image": "",
+        "options": {
+            "A": "A.Barbell strategy",
+            "B": "B.Front-end Load Maturity Policy",
+            "C": "C.Back-end Load Maturity Policy",
+            "D": "D.Ladder policy"
+        },
+        "answer": "B",
+        "explanation": "The Front-end Load Maturity Policy purchases short-term securities that mature\nwithin a short time  interval. Its primary goal is liquidity rather than income or maxim\nupside.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Management, Investment Strategies, Fixed Income Securities",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "Alan Chen, a staff of JY bank, is considering developing an appropriate contingency funding\n plan, all of the following statements should be considered in building Contingency Funding\nPlan EXCEPT:",
+        "image": "",
+        "options": {
+            "A": "A.Aligned to business and risk profiles",
+            "B": "B.Integrated with broader risk management frameworks",
+            "C": "C.Theoretical basis for precoded instruction set",
+            "D": "D.Inclusive of appropriate stakeholder groups"
+        },
+        "answer": "C",
+        "explanation": "In regard to (A), (B) and (D), are all correct design considerations to CFP, except\nfor C., the five  considerations are correct. The five design considerations are \"Aligned to\nbusiness and risk profiles; Integrated with broader risk management frameworks; Operational and\nactionable, but flexible playbook; Inclusive of appropriate stakeholder groups; and Supported\nby a communication plan.(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Contingency Funding Plan, Design Considerations, Risk Management Frameworks",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "Darcy is estimating the total financing cost included deposit and nondeposit funds. By\nreviewing the bank’s past expense, he concluded that the following table:\n \n \nWhich of the following statement is NOT correct?",
+        "image": "LiquidityandTreasuryRiskMeasurementandMan_images/41u.png",
+        "options": {
+            "A": "A.The weighted average of interest expense is 6.25%",
+            "B": "B.The break-even cost rate is 12%",
+            "C": "C.The weighted average overall cost of capital is 15%",
+            "D": "D.The least return of rate the bank should earn is 16.615%"
+        },
+        "answer": "D",
+        "explanation": "The weighted average of interest expense is given by:\n\n$$\n\\text{Weighted Average of Interest Expense} = \\frac{50}{800} = 6.25\\%\n$$\n\nThe break-even cost rate is given by:\n\n$$\n\\text{Break-even Cost Rate} = \\frac{50 + 10}{500} = 12\\%\n$$\n\nThe weighted average overall cost of capital is calculated as:\n\n$$\n\\text{Weighted Average Overall Cost of Capital} = 12\\% + 10\\% \\cdot \\frac{150}{500} = 15\\%\n$$",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Cost of Capital, Weighted Average Cost, Break-Even Analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "Which of the following types of liquidity is available in the form of the institution's\nliquidity asset buffer and represents liquidity available to meet general financial obligations\nunder a stress scenario?",
+        "image": "",
+        "options": {
+            "A": "A.Operational",
+            "B": "B.Strategic",
+            "C": "C.Contingent",
+            "D": "D.Restricted"
+        },
+        "answer": "C",
+        "explanation": "The liquidity that is available to meet general financial obligations under a\nstress scenario. In regard to (A), (C) and (D), each is unavailable to meet general financial\nobligations under a liquidity stress test.(0)",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Stress Testing, Contingent Liquidity",
+        "book label": "Liquidity and Treasury Risk Measurement and Man2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    }
+]

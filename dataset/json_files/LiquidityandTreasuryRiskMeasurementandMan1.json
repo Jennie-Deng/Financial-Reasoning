@@ -1,0 +1,1532 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Kingstreet Savings is attempting to determine its liquidity requirement. The bank has\nclassified its checking, savings, and nonperson time deposits (which total $380.0 million in\ndeposits) into three categories: hot money, vulnerable, and stable (aka, core) funds:\n \n \nThe total liquidity requirement is the sum of the liability and loan requirements, but we are\nhere ignoring the loan liquidity requirement; further, the reserve requirements are not\nnecessarily realistic but instead are rounded for the sake of more convenient calculations.\nManagement has elected to hold an 80.0% reserve in liquid assets or borrowing capacity for each\ndollar of hot money deposits, a 50.0% reserve behind vulnerable deposits, and a 20.0% reserve\nfor its holdings of core funds. The legal reserve requirement is 10.0% for both checkable and\nsavings deposits; nonpersonal time deposits have zero legal reserve requirements. Kingstreet\nSavings is using the Structure of Funds approach to estimating its liquidity requirement. What\nis Kingstreet's net deposit liquidity requirement for the (total of) vulnerable funds?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/LiquidityandTreasuryRiskMeasurementandMan_images/1u.png",
+        "options": {
+            "A": "A.$13.0 million",
+            "B": "B.$30.0 million",
+            "C": "C.$62.0 million",
+            "D": "D.$177.0 million"
+        },
+        "answer": "C",
+        "explanation": "如下：50.0%* [$20.0*(1 - 0.10)＋$40.0*(1 - 0.10)＋$70.0] =$62.0百万",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity risk management, Reserve requirements, Structure of funds approach",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "A bank currently has $100 million of deposits earning an average rate of 2%. It would like to\nraise an additional $50 million, but to do so, will have to raise the deposit rate to 3% on\nboth the old and new accounts. What is the marginal cost rate of the additional $50 million in\nfunds?",
+        "image": "",
+        "options": {
+            "A": "A.3%.",
+            "B": "B.5%.",
+            "C": "C.7%.",
+            "D": "D.9%."
+        },
+        "answer": "B",
+        "explanation": "The marginal cost of the new funds is equal to 5%. The formulas for calculating\nmarginal cost are: marginal cost= change in total cost= (new interest rate x total funds raised\nat new rate) - (old interest rate x total funds raise at the old rate) marginal cost rate =\nchange in total cost / additional funds raised marginal cost= (0.03 x $150,000,000) - (0.02 x\n$100,000,000) = $4,500,000- $2,000,000 = $2,500,000 additional interest marginal cost rate =\n$2,500,000/$50,000,000 = 5.0%新基金的边际成本等于5％。 计算边际成本的公式为： 边际成本=总成本的\n变化=（新利率x以新利率筹集的总资金）-（旧利率x以旧利率筹集的总资金） 边际成本率=总成本变化/筹集\n的额外资金 边际成本=（0.03 x $ 150,000,000）-（0.02 x $ 100,000,000）= $ 4,500,000- $ 2,000,000\n= $ 2,500,000 边际成本率= $ 2,500,000 / $ 50,000,000 = 5.0％",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Marginal Cost of Funds, Interest Rate Management, Bank Financial Performance",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "Tuesday, May 5, is the start of the reserve computation period for Lakeland Bank. Monday, May\n18, represents the:",
+        "image": "",
+        "options": {
+            "A": "A.First day of the planning period.",
+            "B": "B.First day of the reserve maintenance period.",
+            "C": "C.Last day of the reserve maintenance period.",
+            "D": "D.Last day of the reserve computation period."
+        },
+        "answer": "D",
+        "explanation": "If Tuesday, May 5, is the first day of the 14-day reserve computation period, the\nlast day will be Monday, May 18. The planning period will be from Tuesday, May 19, to\nWednesday, June 3, with the reserve maintenance period then spanning from Thursday, June 4, to\nWednesday, June 17.如果5月5日星期二是14天储备金计算期间的第一天，那么最后一天将是5月18日星期一\n。计划期间将是5月19日星期二至6月3日星期三，储备金维护期从6月4日星期四到6月17日星期三。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Reserve computation period, Reserve maintenance period, Banking regulations",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "4",
+        "question_text": "Which of the following items is an example of a contingent action that could be taken by a\nbank during a stress situation?",
+        "image": "",
+        "options": {
+            "A": "A.Securitizing assets.",
+            "B": "B.Decreasing lending rates.",
+            "C": "C.Increasing capital distributions.",
+            "D": "D.Shifting from longer-term to shorter-term funding sources."
+        },
+        "answer": "A",
+        "explanation": "Securitizing assets is a source of cash (increases liquidity) for a bank.\nDecreasing lending rates encourages the growth of loans issued by the bank, which is an outflow\nof cash (reduces liquidity) for a bank. The same is true for increasing capital distributions\n(reduces liquidity). Shifting from shorter-term to longer-term sources of funding is a\ncontingent action, not the other way around.资产证券化是银行的现金来源（增加流动性）。 降低贷款\n利率会鼓励银行增加放贷，导致银行的现金流出（减少流动性）。 增加资本分配（减少流动性）也是如此。\n从短期资金来源转向长期资金来源才是或有行动，反之则不是。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Management, Contingency Planning, Stress Testing",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "Posting collateral and requiring collateral haircuts are important risk mitigants in repo\ntransactions with respect to which of the following risks? Posting Collateral Collateral\nhaircuts",
+        "image": "",
+        "options": {
+            "A": "A.Market risk Interest rate risk",
+            "B": "B.Credit risk\\t Interest rate risk",
+            "C": "C.Market risk\\t Liquidity risk",
+            "D": "D.Credit risk Liquidity risk"
+        },
+        "answer": "D",
+        "explanation": "Collateral is an important counterparty credit risk mitigant. Repo loans are\nsecured by collateral, which makes the lender much less vulnerable to a decline in the\ncreditworthiness of the borrower. Collateral haircuts are important in mitigating liquidity\nrisk in repo transactions. The lender is exposed to the risk of the value of the collateral\ndeclining during the repo term, which can be mitigated by requiring (higher) haircut values,\nthat is, discounts to the value of the posted collateral.抵押品是减轻交易对手信用风险的重要手段\n。 回购贷款以抵押品作抵押，这使贷方不易受到借款人信用度下降的影响。 减少抵押品对于降低回购交易\n中的流动性风险很重要。 贷方在回购期内面临抵押品价值下降的风险，这可以通过要求（较高）折扣（即贴\n现抵押品）来减轻。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Credit risk, Liquidity risk, Collateral management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "Banks are most likely to diversify their exposure to a specific asset class such as mortgages\nby grouping these assets together and selling them to:",
+        "image": "",
+        "options": {
+            "A": "A.hedge funds.",
+            "B": "B.government agencies.",
+            "C": "C.the U.S. Federal Reserve.",
+            "D": "D.special purpose entities."
+        },
+        "answer": "D",
+        "explanation": "Banks can diversify their exposure to a specific asset class, such as mortgages, by\ngrouping these assets together and selling them to special purpose entities.通过将这些资产组合\n在一起并出售给特殊目的实体，银行可以使他们对特定资产类别（例如抵押贷款）的敞口多样化。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Securitization, Special Purpose Entities (SPEs), Mortgage-backed securities (MBS)",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "7",
+        "question_text": "What is a key design consideration in developing a contingency funding plan (CFP)?",
+        "image": "",
+        "options": {
+            "A": "A.Aligned to business profile.",
+            "B": "B.Supported by a backup plan.",
+            "C": "C.Inclusive of all shareholder groups.",
+            "D": "D.Can be used in both normal and stressed states."
+        },
+        "answer": "A",
+        "explanation": "CFPs should be aligned to the firm's business and risk profiles. Examples include\nbusiness activities, products, and asset classes. CFPs should be inclusive of appropriate\nstakeholder groups, which include shareholders but also include many other groups such as\nmanagement committees, business units, and operations. CFPs, by nature, are meant to be used\nonly in stressed states.CFPs应与公司的业务和风险状况相匹配。 例如业务活动，产品和资产类别。\nCFPs应该包括适当的利益相关者群体，其中包括股东，但也包括许多其他群体，例如管理委员会，业务部门\n和运营部门。 从本质上讲，CFPs仅在压力较大的时期使用。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Management, Contingency Planning, Risk Profile Alignment",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "An investor holds two positions: Long shares worth $25,000 where the bid-offer spread has a\nmean and standard deviation of 0.050 Long shares worth $40,000 where the bid-offer spread has a\nmean and standard deviation of 0.030 If we assume the bid-offer spreads are normally\ndistributed, then which is nearest to the worst expected cost of unwinding with 95.0%\nconfidence?",
+        "image": "",
+        "options": {
+            "A": "A.$1,730",
+            "B": "B.$2,950",
+            "C": "C.$3,240",
+            "D": "D.$6,500"
+        },
+        "answer": "C",
+        "explanation": "The 95.0% confident worst expected spread for each position is given by:●$25,000 *\n(0.050＋0.050 * 1.645) = $3,306.25;●$40,000 * (0.030＋0.030 * 1.645) = $3,174.00Total cost of\nunwinding with 95.0% confidence is therefore (3,306.25＋3,174.00)/2 = $3,240.13,or about\n$3,240.在95.0％的置信度下，每个头寸的最差预期价差如下：$ 25,000 *（0.050＋0.050 * 1.645）= $\n3,306.25;$ 40,000 *（0.030＋0.030 * 1.645）= $ 3,174.00因此，在95.0％的置信度，平仓的总成本为\n（3,306.25＋3,174.00）/ 2 = $ 3,240.13，或约$ 3,240。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Risk Measurement and Management, Statistical Methods, Market Risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "In the context of governance and oversight of a contingency funding plan (CFP), which role\nhas direct oversight of the liquidity crisis team (LCT)?",
+        "image": "",
+        "options": {
+            "A": "A.Board of directors.",
+            "B": "B.Risk management.",
+            "C": "C.Corporate treasury.",
+            "D": "D.Management committee."
+        },
+        "answer": "D",
+        "explanation": "The management committee (comprising senior management) is responsible for direct\nsupervision of the LCT. The board of directors does advise and provide assistance to the LCT as\nneeded, but does not directly supervise the LCT.管理委员会（包括高级管理层）负责对LCT进行直接监\n督。 董事会确实会向LCT提供建议和协助，但不会直接监督LCT。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Corporate Governance, Liquidity Risk Management, Crisis Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "10",
+        "question_text": "A portfolio holds 100,000 shares of a stock and this single position has a value of $3.0\nmillion. The stock is quoted bid $29.00, offer $31.00. The stock's daily volatility is 1.43% or\n143 basis points. For purposes of value at risk (VaR), we will assume the stock's arithmetic\nreturns are normally distributed (aka, normal VaR) and the expected daily return rounds to zero\n(under these assumptions absolute VaR is identical to relative VaR). Which is NEAREST to the\nposition's one-day 99.0% confident liquidity-adjusted value at risk (LVaR)?",
+        "image": "",
+        "options": {
+            "A": "A.$15,000",
+            "B": "B.$80,000",
+            "C": "C.$200,000",
+            "D": "D.$1.0 million"
+        },
+        "answer": "C",
+        "explanation": "The one-day 99.0% VaR is given by -0 1.43% * 2.326 * $3.0 million = $99,800.The\nliquidity cost (LC) is given by (31.00 - 29.00)/30.00 * 0.5 * $3.0 million = $100,000.The one-\nday 99.0% VaR is therefore 99,800 100,000 = 199,800置信水平为99.0％的单日风险价值 (VaR) 为-\n0＋1.43％* 2.326 * 300万美元= 99,800美元。流动性成本（LC）为（31.00-29.00）/30.00 * 0.5 * 300万\n美元= 100,000美元。因此，置信水平为99.0％的单日风险价值为99,800＋100,000 = 199,800",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Liquidity Risk, Normal Distribution",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "Which liquidity stress impact factor would generally be the largest threat to a bank's\nliquidity?",
+        "image": "",
+        "options": {
+            "A": "A.Deposit run-off.",
+            "B": "B.Derivatives cash flows.",
+            "C": "C.Loss of secured funding.",
+            "D": "D.Loss of wholesale funding."
+        },
+        "answer": "A",
+        "explanation": "Deposit run-off in the form of depositors withdrawing their demand deposits\nimmediately or suddenly and term depositors withdrawing their investments early (assuming such\nrights exist) are generally the largest threat to liquidity to banks. Therefore, they are the\nmost important customer behavior to attempt to model.存款流失的形式是存款人立即或突然提取其活期\n存款，定期存款人提前提取其投资(假设这种权利存在)，这通常是对银行流动性的最大威胁",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Deposit run-off, Customer behavior modeling",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "Which of the following describes a certificate of deposit (CD) that carries an interest rate\nthat periodically adjusts upward?",
+        "image": "",
+        "options": {
+            "A": "A.Liquidity CD.",
+            "B": "B.Bump-up CD.",
+            "C": "C.Step-up CD.",
+            "D": "D.Index CD."
+        },
+        "answer": "C",
+        "explanation": "The step-up CD has an interest rate that periodically adjusts upward. The bump-up\nCD has a rate that may increase if interest rates increase.递增定存的利率会定期向上调整。 如果\n利率上升，则加息定存的利率可能会上升。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Certificates of Deposit (CD), Interest rate risk, Types of financial instruments",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "13",
+        "question_text": "Let's define liquidity-adjusted value at risk (VaR) for a position that can be liquidated\nover (T) days as given by:\n \n \nLet's assume an equity position with a value of one million dollars ($1,000,000) and a\nvolatility of 34.0% per annum. If there are 250 trading days in a year and returns are normal\ni.i.d., which is nearest to the 99.0% liquidity-adjusted VaR if we estimate the position will\nrequire five (5)trading days to liquidate?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/LiquidityandTreasuryRiskMeasurementandMan_images/13u.png",
+        "options": {
+            "A": "A.$50,000",
+            "B": "B.$74,200",
+            "C": "C.$98,900",
+            "D": "D.$111,840"
+        },
+        "answer": "B",
+        "explanation": "The 1-day 99% VaR = $1.0 m * 34% * SQRT(1/250) * 2.326 = $50,017. The 5-day\nadjustment = SQRT[(6*11)/30] = SQRT(2.20) = 1.48324 The 99% LVaR = $50,017 * 1.48324 = $74,187;\nnote: this assumes rounded 99% quantile of 2.3260单日置信水平为99％的风险价值（VaR） = $1.0百万\n* 34％* SQRT（1/250）* 2.326 = 50,017美元。 5天的风险调整系数= SQRT [（6 * 11）/ 30] =\nSQRT（2.20）= 1.48324 99％LVaR = $ 50,017 * 1.48324 = $ 74,187 （注意：99%置信水平所对应的分位\n数约为2.3260）",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity-adjusted Value at Risk (VaR), Volatility, Quantile",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "In regard to special spreads, each of the following is true EXCEPT which is false?",
+        "image": "",
+        "options": {
+            "A": "A.On-the-run (OTR) issues tend to trade \\\"more special\\\" than off-the-run (OFR; i.e., old or\ndouble-old) issues, where \\\"more special\\\" refers to special spreads that are larger",
+            "B": "B.The special spread equals the general collateral (GC) repo rate minus the special collateral\n(aka, specifically requested collateral) repo rate",
+            "C": "C.On-the-run special spreads peak immediately after an auction, and tend to decrease over the\ncycle, reaching their lowest level immediately before the next auction",
+            "D": "D.Special spreads tend to be volatile on a daily basis (reflecting supply and demand for"
+        },
+        "answer": "C",
+        "explanation": "The reverse: On-the-run special spreads are smallest immediately after an auction,\nand tend to increase over the cycle, reaching their peak immediately before the next auction.相\n反：在新发行的特殊利差在拍卖结束后最小，并且在整个周期内趋于增加，在下一次拍卖前达到峰值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Repo Markets, Treasury Auctions, Interest Rate Spreads",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "A new bank treasurer is attempting to obtain a better understanding of the bank's daily cash\ninflows and outflows. Which of the following transactions is the most significant use of\nintraday liquidity?",
+        "image": "",
+        "options": {
+            "A": "A.Asset purchases\\/funding.",
+            "B": "B.Funding of nostro accounts.",
+            "C": "C.Outgoing wire transfers.",
+            "D": "D.Settlements at payment, clearing, and settlement (PCS) systems."
+        },
+        "answer": "C",
+        "explanation": "Outgoing wire payments (either for customers or for the bank itself) are likely the\nmost significant use of intraday liquidity.电汇付款（对于客户还是对银行本身）可能是日间流动性的\n最主要用途。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Intraday liquidity management, Cash flow management, Payment systems and settlements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "16",
+        "question_text": "Suppose a large international bank records $5 billion in interest revenues from its loans\nand security investments and $2 billion in interest expenses paid out to attract borrowed\nfunds. If this bank holds $50 billion in earning assets, its net interest margin is",
+        "image": "",
+        "options": {
+            "A": "A.3.5%",
+            "B": "B.4.5%",
+            "C": "C.5%",
+            "D": "D.6%"
+        },
+        "answer": "D",
+        "explanation": "NIM=\"Interest income from loans and investments-Interest expense on deposits and\nother borrowed funds\" /\"Total earning assets\" =\"Net interest income\" /\"Total earning assets\"\n=(5.0-2.0)/50=6%根据公式：NIM=((贷款和投资的利息收入-存款和其它融资的利息费用))/生息总资产 =净\n利息收入/生息总资产=(5.0-2.0)/50=6%",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Net Interest Margin (NIM), Interest Income and Expense, Earning Assets",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "17",
+        "question_text": "Liquidity Early Warning Indicators (EWI) can be compared to an automobile's dashboard signal\nsystem where the appearance of a red light points our attention to something that may become a\nproblem if not addressed. Each of the following is a credible red indicator (aka, red flag) in\na Liquidity Early Warning Indicator (aka, Liquidity EWI) dashboard EXCEPT which is not a red\n(red flag) liquidity indicator?",
+        "image": "",
+        "options": {
+            "A": "A.Narrowing debt\\/CDS spreads",
+            "B": "B.Sudden increase in debt costs",
+            "C": "C.Sudden growth in assets accompanied by volatile iabilities",
+            "D": "D.Rapid decline in the weighted average maturity of liabilities"
+        },
+        "answer": "A",
+        "explanation": "Instead, the liquidity EWI is: a widening debt/CDS spreads (consistent with a\nsudden increase in debt costs). In regard to (B), (C), and (D), each is a candidate Liquidity\nEWI, per the Study Note:\"The Basel Committee on Banking Supervision (BCBS) recommends certain\nmeasures as EWI. These measures include [collapsed here, new emphasis ours: An unusual growth\nin assets, particularly when accompanied by volatile liabilities; Debt (credit) spreads widen,\nand/or credit default swap (CDS) spreads widen.Declining diversity in the makeup of assets and\nliabilities; Growing currency mismatches;When the weighted average of liabilities’ maturity\ndeclines;Positions going beyond or getting close to regulatory limits; Certain product line\nexperience negative trends; The financial condition of the bank weakens; Public press that is\nnegative;A downgrade in the credit rating; A decline in the stock price; Debt costs increase;\nRetail and/or wholesale funding costs increase;Counterparties becoming nervous about the\nfinancial condition of the bank;Credit lines are lowered; Outflows of retail deposits at an\nincreased pace; Certificates of deposit (CDs) are increasingly redeemed;Longer-term funding\nopportunities become more difficult; and Placing short-term liabilities becomes more\ndifficult\"EWI的流动性是:不断扩大的债务/CDS利差(与债务成本的突然上升相一致)。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Basel Committee on Banking Supervision (BCBS) Guidelines, Credit Default Swap (CDS) Spreads",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Venkat explains that firms often use a stoplight system to manage their thresholds: \"Firms\ngenerally use a stoplight system in representing and communicating their performance against\nthe thresholds of their EWIs. A green indicator means that the measure is within normal bounds.\nA measure that is classified as amber according to the threshold framework should be\ninvestigated further while a red indicator should be a source for significant concern and may\nwarrant an immediate response.\" Which of the following is the BEST way to start the exercise of\ncalibration of these thresholds?",
+        "image": "",
+        "options": {
+            "A": "A.Thresholds are ultimately subjective",
+            "B": "B.Historical data can inform the calibration of thresholds",
+            "C": "C.Practitioners observe that this stoplight system is obsolete and ineffective such that\nthresholds are moot",
+            "D": "D.The firm should rely on the specific regulatory instructions, in particular BCBS 2008, for"
+        },
+        "answer": "B",
+        "explanation": "Historical data can inform the calibration of thresholds.用历史数据来校准阀值。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Risk indicators, Threshold calibration, Historical data analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "The Acme Investment Firm wants to re-position one of its bond portfolios. Based on its in-\nhouse expertise, for the portfolio, it can select from among the following maturity strategies:\nLadder Policy, Front-end Load Maturity Policy, Back-end Load Maturity Policy, Barbell\nStrategy,or Rate Expectations Approach. The firm's goal for the portfolio is NEITHER to\nmaximize income NOR to seek to maximize the upside potential for earnings. Instead, the goal is\nto use the portfolio primarily as a source of liquidity. Given that goal, which strategy is\nBEST?",
+        "image": "",
+        "options": {
+            "A": "A.Ladder Policy",
+            "B": "B.Front-end Load Maturity Policy",
+            "C": "C.Back-end Load Maturity Policy",
+            "D": "D.Rate Expectations Approach"
+        },
+        "answer": "B",
+        "explanation": "The Front-end Load Maturity Policy purchases short-term securities that mature\nwithin a short time interval. Its primary goal is liquidity rather than income or maxim\nupside.Front-end Load Maturity Policy 是购买在短时间间隔内到期的短期证券。 它的主要目标是流动性\n，而不是收入或收益最大化",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bond Portfolio Management Strategies, Liquidity Management, Investment Strategy Selection",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "20",
+        "question_text": "An asset that is not very liquid is quoted bid $89.00, offer $96.00. Which is nearest to the\nproportional bid-offer spread?",
+        "image": "",
+        "options": {
+            "A": "A.0.0378",
+            "B": "B.0.0757",
+            "C": "C.0.1538",
+            "D": "D.7.000"
+        },
+        "answer": "B",
+        "explanation": "Because (96.00 - 89.00)/92.50 = 0.075676According to Hull (24.1.2. Measuring Market\nLiquidity), the two measures of bid-offer spread are:●Dollar bid-offer spread = p = Offer\nprice - Bid price●Proportional bid-offer spread = s= (Offer price - Bid price) / Mid-market\nprice因为（96.00-89.00）/92.50 = 0.075676根据赫尔（24.1.2. 衡量市场流动性），买卖差价的两种衡量\n标准是：美元买卖价差= p =卖出价-买入价比例买卖差价= s =（卖价-买入价）/中间市场价",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Market Liquidity, Bid-Offer Spread, Financial Risk Measurement",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "21",
+        "question_text": "Which of the following is \"the risk of moving the price of an asset adversely in the act of\nbuying or selling it\" such that this risk is \"low if assets can be liquidated or a position can\nbe covered quickly, cheaply, and without moving the price too much\"?",
+        "image": "",
+        "options": {
+            "A": "A.Transactions liquidity risk",
+            "B": "B.Balance sheet risk",
+            "C": "C.Funding liquidity risk",
+            "D": "D.Systemic risk"
+        },
+        "answer": "A",
+        "explanation": "Transaction liquidity risk is the risk of moving the price of an asset adversely in\nthe act of buying or selling it. Transaction liquidity risk is low if assets can be liquidated\nor a position can be covered quickly, cheaply, and without moving the price too much. An asset\nis said to be liquid if it is 'near' or a good substitute for cash. An asset is said to have a\nliquidity premium if its price is lower and expected return higher because it isn't perfectly\nliquid. A market is said to be liquid if market participants can put on or unwind positions\nquickly, without excessive transactions costs and without excessive price deterioration.交易流\n动性风险是指在购买或出售资产时对资产价格产生不利影响的风险。如果市场参与者能够在没有过高交易成\n本和价格过度恶化的情况下迅速增加或解除头寸，那么这个市场就被称为流动性市场。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Market risk, Asset pricing",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "22",
+        "question_text": "A bank treasurer is attempting to minimize liquidity funding costs. Which of the following\nsources of liquidity is most likely to have the greatest explicit financial cost?",
+        "image": "",
+        "options": {
+            "A": "A.Cash balances.",
+            "B": "B.Incoming funds flow.",
+            "C": "C.lntraday credit.",
+            "D": "D.Liquid assets."
+        },
+        "answer": "C",
+        "explanation": "Intraday credit may require collateral pledging (opportunity cost) with no interest\ncharged or it may require interest payments (explicit cost) for using the line of credit during\nthe day. Cash balances and liquid assets represent assets owned by the bank so if they are used\nfor financing/liquidity purposes, there is no explicit cost, although there may be implicit or\nopportunity costs, especially with liquid assets (e.g., interest earned on time deposits or\nbanker's acceptances). There is no explicit financial cost associated with incoming funds\nflow.日内信贷可以通过抵押担保而免除利息支付（机会成本），或者可以使用日间信贷额度并支付利息（显\n性成本）。 现金余额和流动资产代表银行拥有的资产，因此，如果将其用于融资/流动性目的，则没有显性\n成本，尽管可能存在隐性或机会成本，尤其是流动资产（例如，定期存款或 银行承兑汇票）。 资金流入不\n会造成显性成本。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Cost of Liquidity, Liquidity Sources",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "In an foreign exchange (FX) swap, the:",
+        "image": "",
+        "options": {
+            "A": "A.Price is quoted in forward points.",
+            "B": "B.Term is typically more than one year.",
+            "C": "C.Counterparties swap currencies back at the end of the contract at the original spot rate.",
+            "D": "D.Counterparties exchange net interest payments based on the reference rate during the term of"
+        },
+        "answer": "A",
+        "explanation": "An FX swap is quoted in forward points (F- S). 外汇互换合约以远期点数（F-S）报价。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign exchange risk management, Derivatives, Financial instruments",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "24",
+        "question_text": "Firm A has $1 billion in highly liquid assets. In a sudden stressed scenario, it estimates\nthat retail customers will withdraw $150 million in deposits, and retail customers will be able\nto make $80 million of loan repayments. Firm A must deal with $60 million of margin and\ncollateral calls on its derivatives transactions due to falling collateral values and greater\nvolatility of the underlying assets. In addition, it has utilized $10 million of a total $100\nmillion liquidity facility. What is the estimate of Firm A's stressed liquidity asset buffer?",
+        "image": "",
+        "options": {
+            "A": "A.$0.80 billion.",
+            "B": "B.$0.88 billion.",
+            "C": "C.$0.90 billion.",
+            "D": "D.$0.96 billion."
+        },
+        "answer": "D",
+        "explanation": "The margin and collateral calls on the derivatives transactions are considered\nstressed outflows. There is $90 million of unused and available liquidity that would also be\nconsidered a stressed inflow. The stressed liquidity asset buffer of $0.96 billion is\ncalculated as $1 billion (highly liquid asset) - $150 million (retail deposit outflow) + $80\nmillion (stressed inflow) - $60 million (stressed outflow) + $90 million (stressed inflow).)衍\n生品交易的追加保证金和抵押要求被认为是压力性资金流出。 仍有9000万美元的未使用和可用流动资金，可\n以视为压力性资金流入。 9.6亿美元的压力性流动资产缓冲=10亿美元（高流动性资产）-1.5亿美元（小额存\n款流出）＋ 8000万美元（压力流入）-6000万美元（压力性流出）＋ 9000万美元（压力性流入）。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Stress Testing, Liquidity Asset Buffer Calculation",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "25",
+        "question_text": "Which of the following statements is correct in regards to reserve sources?",
+        "image": "",
+        "options": {
+            "A": "A.Long-term asset sales are typically used to cover immediate needs.",
+            "B": "B.Monetary policy and interest rate movements are relatively independent.",
+            "C": "C.The federal funds market is available anytime a bank has an immediate cash need.",
+            "D": "D.Deficits which must be covered relatively quickly are often funded through the central bank"
+        },
+        "answer": "D",
+        "explanation": "Deficits that are of a more immediate nature are often funded through the central\nbank discount window. Long-term asset sales are typically used to cover longer-term\n(nonimmediate) deficits. Monetary policy and interest rate movements are highly related, as\nmonetary policy impacts the money supply which in turn impacts interest rates. The federal\nfunds market is only available during the trading day.更为直接的财政赤字通常是通过中央银行贴现\n窗口提供资金的。 长期资产出售通常用于弥补长期（非短期）赤字。 货币政策与利率变动高度相关，因为\n货币政策影响货币供应量，进而影响利率。 联邦资金市场仅在交易日开放。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Central Bank Operations, Monetary Policy, Liquidity Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "The treatment of tenor for certain types of cash flows for liquidity reporting is a concern\nfor senior managers preparing reports for the Financial Services Authority (FSA) in the United\nKingdom (UK). Based on recommendations of the FSA, what should be the treatment in liquidity\nreports for callable or demand deposits that have no maturity date?",
+        "image": "",
+        "options": {
+            "A": "A.1 day.",
+            "B": "B.1 week.",
+            "C": "C.1 month.",
+            "D": "D.1 year."
+        },
+        "answer": "A",
+        "explanation": "The FSA in the UK recommends that callable and demand deposits are treated as 1-day\ntenor by regulators.英国的FSA建议监管机构应将应收存款和活期存款的票据期限当做1天来处理。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Regulatory Reporting, Deposit Maturity Analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "Which of the following Basel liquidity ratios includes regulatory capital in the numerator?",
+        "image": "",
+        "options": {
+            "A": "A.Return on equity (ROE)",
+            "B": "B.Net interest income (NII)",
+            "C": "C.Liquidity coverage ratio (LCR)",
+            "D": "D.Net stable funding ratio (NSFR)"
+        },
+        "answer": "D",
+        "explanation": "The NSFR is equal to (Amount of stable funding / Required stable funding), and it\nshould exceed 100.0%. As Hull explains about the NSFR, \"The numerator is calculated by\nmultiplying each category of funding (capital, wholesale deposits, retail deposits, etc.) by an\navailable stable funding (ASF) factor, reflecting their stability (see Table 16.4). The\ndenominator is calculated from the assets and off-balance‐sheet items requiring funding. Each\ncategory of these is multiplied by a required stable funding (RSF) factor to reflect the\npermanence of the funding (see Table 16.5). The implementation date for the NSFR requirement is\nJanuary 1, 2018.\" Therefore, the numerator of the NSFR includes regulatory capital as a stable\nfunding source. In regard to false (C), the LCR refers to the asset side of the balance sheet:\nLCR = (high-quality liquid assets; a.ka., HQLA) / (Net cash outflows in a 30-day period), and\nit should exceed 100.0%NSFR等于（稳定资金额/所需稳定资金量），并且应超过100.0％。 正如赫尔\n（Hull）关于NSFR的解释，“分子的计算方法是将每种类别的资金（资本，批发存款，零售存款等）乘以可\n用的稳定资金（ASF）因子，以反映其稳定性（请参见表16.4）。 分母是从需要资金的资产和表外项目中计\n算出来的，每个类别都乘以所需的稳定资金（RSF）因子即可反映出资金的持久性（见表16.5）。NSFR要求的\n实施日期为2018年1月1日。” 因此，NSFR的分子包括监管资本作为稳定的资金来源。 关于错误选项\n（C），LCR是指资产负债表的资产方：LCR =（高质量流动资产；又称HQLA）/（30天期间的现金净流出\n），以及 它应该超过100.0％",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Basel III, Liquidity Ratios, Regulatory Capital",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "An investor holds two positions: ●Short shares worth $10,000 where the proportional bid-\noffer spread is 0.030, and ●Long shares worth $17,000 where the proportional bid-offer spread\nis 0.040 What is the approximate cost to the investor to unwind this two-position portfolio?",
+        "image": "",
+        "options": {
+            "A": "A.$490.00",
+            "B": "B.$750.00",
+            "C": "C.$980.00",
+            "D": "D.$1,300.00"
+        },
+        "answer": "A",
+        "explanation": "The bid– offer spread for the first holding is 0.030 * 10,000 = $300.00; for the\nsecond holding, the bid-offer spread is 0.040 * 17,000= $680.00. Therefore, the cost to unwind\nthe portfolio is (300.00 + 680.00)/2 = $490.00.第一个持仓的买入-卖出价差为0.030 * 10,000 = $\n300.00； 第二个持仓买入-卖出价差为0.040 * 17,000 = $ 680.00。 因此，平仓投资组合的成本为\n（300.00＋680.00）/ 2 = $ 490.00。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Bid-offer spread, Portfolio unwinding, Transaction costs",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "Suppose that a financial institution has bought 10 million shares of one company and 50\nmillion ounces of a commodity. The shares are bid $89.5, offer $90.5. The commodity is bid $15,\noffer $15.1. The mid-market value of the position in the shares is 90 × 10 = $900 million. The\nmid-market value of the position in the commodity is 15.05 × 50 = $752.50 million. The\nproportional bid-offer spread for the shares is 1 /90 or 0.01111. The proportional bid-offer\nspread for the commodity is 0.1/ 15.05 or 0.006645. The cost of liquidation in a normal market\nis？",
+        "image": "",
+        "options": {
+            "A": "A.5.5",
+            "B": "B.6",
+            "C": "C.7",
+            "D": "D.7.5"
+        },
+        "answer": "D",
+        "explanation": "900 × 0.01111 /2 + 752.5 × 0.006645/2 = 7.5900 × 0.01111 /2＋752.5 × 0.006645/2\n= 7.5",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Market Risk, Bid-Offer Spread, Liquidation Cost",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "Which of the following is a USE of intraday liquidity?",
+        "image": "",
+        "options": {
+            "A": "A.Income funds flow",
+            "B": "B.Term repo (as the repo seller)",
+            "C": "C.Funding of nostro accounts (at correspondent bank outside home market)",
+            "D": "D.Intraday credit (Federal Reserve unsecured committed line of credit, LOC)"
+        },
+        "answer": "C",
+        "explanation": "Funding of nostro accounts (at correspondent bank outside home market) is a USE of\nintraday liquidityIn regard to (A), (B) and (D), each is a SOURCE of intraday liquidity.A.B.D都\n是日间流动性的来源",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity management, Intraday liquidity, Correspondent banking",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "31",
+        "question_text": "At the time of the Bear Stern's demise in March 2008, Paul Friedman was a Senior Managing\nDirector at the firm with responsibility for its fixed income repo desk. About the repo\nmarket's role in the collapse of Bear Sterns, he said in testimony before the Financial Crisis\nInquiry Commission, \"During the week of March 10, 2008, Bear Stearns suffered from a run on the\nbank that resulted, in my view, from an unwarranted loss of confidence in the firm by certain\nof its customers, lenders, and counterparties. In part, this loss of confidence was prompted by\nmarket rumors, which I believe were unsubstantiated and untrue, about Bear Stearns’ liquidity\nposition. Nevertheless, the loss of confidence had three related consequences.\" Each of the\nfollowing was one of his cited three consequences EXCEPT which was not?",
+        "image": "",
+        "options": {
+            "A": "A.Prime brokerage clients withdrew their cash and unencumbered securities at a rapid and\nincreasing rate",
+            "B": "B.Repo market lenders declined to roll over or renew repo loans, even when the loans were\nsupported by high-quality collateral such as agency securities",
+            "C": "C.Counterpart to non-simultaneous settlements of foreign exchange trades refused to pay until\nBear Stearns paid first",
+            "D": "D.Short sellers seized on the panic and drove the stock price down which reduced equity capital"
+        },
+        "answer": "D",
+        "explanation": "Short sellers are not cited; further, equity capital is the most stable source of\nfunds because \"equity holders do not have to be paid according to any particular schedule and\nbecause they cannot compel a redemption of their shares.\"没有提到卖空型投资者。 此外，股本资本\n是最稳定的资金来源，因为“不必按照任何特定的时间表向股本持有人付款，并且因为他们不能强迫赎回其\n股票”。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market Liquidity Risk, Counterparty Risk, Equity Financing",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "Which type of liquidity is meant specifically to fund capital asset purchases?",
+        "image": "",
+        "options": {
+            "A": "A.Contingent.",
+            "B": "B.Funding.",
+            "C": "C.Restricted.",
+            "D": "D.Strategic."
+        },
+        "answer": "D",
+        "explanation": "Strategic liquidity comprises the funds that the firm maintains to satisfy\npotential investment opportunities such as fixed asset purchases or mergers/ acquisitions.战略\n流动性包括公司为满足潜在投资机会(如购买固定资产或合并/收购)而持有的资金。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Management, Capital Asset Funding, Strategic Liquidity",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "33",
+        "question_text": "About the funding liquidity risk of a fractional-reserve bank, Malz asserts each of the\nfollowing statements as true EXCEPT which statement is not accurate?",
+        "image": "",
+        "options": {
+            "A": "A.Funding liquidity risk arises for market participants who borrow at short term to finance\ninvestments that require a longer time to become profitable; the balance-sheet situation of a\nmarket participant funding a longer-term asset with a shorter-term liability is called a\nmaturity mismatch.",
+            "B": "B.In theory, the core function of a commercial bank is to take deposits and provide commercial\nand industrial loans to non-financial firms. In doing so, the bank carries out transformations\nin liquidity, maturity, and credit; it transforms long-term illiquid assets (e.g., loans to\nbusinesses) into short-term liquid ones, including deposits and other liabilities that can be\nused as money.",
+            "C": "C.Bank fragility can be mitigated through higher capital (which reduces depositors’ concern\nabout solvency, the typical trigger of a bank run), and higher reserves (which reduces concern\nabout liquidity).",
+            "D": "D.If a fractional-reserve bank carries out a liquidity and maturity transformation, and has"
+        },
+        "answer": "D",
+        "explanation": "Malz (emphasis ours): \"No asset-liability management system can protect a\nfractional reserve bank against a general loss of confidence in its ability to pay out\ndepositors. As long as the bank carries out a liquidity and maturity transformation, and has\nliabilities it is obligated to repay at par and on demand, no degree of liquidity that a bank\ncan achieve can protect it completely against a run. Fragility can be mitigated through higher\ncapital, which reduces depositors’ concern about solvency, the typical trigger of a run, and\nhigher reserves, which reduces concern about liquidity. Historically, banks have also protected\nthemselves against runs through individual mechanisms such as temporary suspension of\nconvertibility, and collective mechanisms such as clearing-houses.\"马尔茨：“没有资产负债管理系\n统可以保护一家部分准备金银行免受对其偿付能力的信心流失。只要银行进行了流动性和期限转换，并且有\n负债， 银行有义务按面值和按需偿还，银行所能达到的流动性程度不能完全保护其免受挤兑的冲击。银行可\n以通过增加资金来减轻脆弱性，从而减少储户对挤兑的典型触发因素-偿付能力的担忧， 从历史上看，银行\n还通过诸如暂时中止可兑换性之类的个人机制和诸如票据交换所之类的集体机制来保护自己免受挤兑冲击。\n”",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Funding Liquidity Risk, Asset-Liability Management, Bank Run Mitigation",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "34",
+        "question_text": "Barbara Friedman, a bank manager on the asset-liability committee, must estimate the amount\nof money market funding she expects the bank to need in the coming week. Friedman estimates\nthat the bank will make $60 million of new loans in the coming week. The bank does not plan to\nmake any security investments but does expect additional drawdowns on credit lines to equal $10\nmillion. The bank is in a highly competitive deposit market and only expects $15 million in new\ndeposits in the coming week. However, based on previous years' experience, she expects that two\nof the bank's largest customers will withdraw $1 million each in the coming week. Friedman\nshould estimate the available funds gap for the coming week to be:",
+        "image": "",
+        "options": {
+            "A": "A.$43 million.",
+            "B": "B.$45 million.",
+            "C": "C.$53 million.",
+            "D": "D.$57 million"
+        },
+        "answer": "D",
+        "explanation": "available funds gap= current and projected loans and other investments - current\nand expected deposit inflows and other available funds AFG = ($60 + $10) - ($15 - $2) = $57\nmillion In this case, the bank's expected outflows are twofold, the new loans and the expected\ndrawdowns on credit lines. While the bank expects $15 million of new deposits, Friedman cannot\nignore the forecast $2 million being withdrawn by two deposit customers, leaving a net $13\nmillion of deposits. Thus, she expects the bank to need $57 million in nondeposit sources of\nfunding in the coming week.可用资金缺口=当前及预期贷款及其他投资-流动和预期存款流入及其他可用资\n金AFG =（$ 60＋ $ 10）-（$ 15-$ 2）= 5,700万美元在这种情况下，银行的预期资金流出是双重的，即新\n贷款和预期信贷额度的下降。 尽管该银行预计将有1500万美元的新存款，但弗里德曼不能忽视两个储户提取\n的200万美元的取款。则剩下的净存款为1300万美元。 因此，她预计银行在未来一周将需要5700万美元的非\n存款资金。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Asset-Liability Management, Liquidity Risk, Financial Forecasting",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "35",
+        "question_text": "Each of the following is a measure for quantifying and/or monitoring risk levels EXCEPT\nwhich is a measure for understanding intraday flows?",
+        "image": "",
+        "options": {
+            "A": "A.Total payments",
+            "B": "B.Client intraday credit usage",
+            "C": "C.Intraday credit relative to tier 1 capital",
+            "D": "D.Daily maximum intraday liquidity usage"
+        },
+        "answer": "A",
+        "explanation": "Total payments is a measure for understanding intraday flows In regard to (B), (C)\nand (D), each is a measure for quantifying and/or monitoring risk levels支付总额是了解日间资金\n流量的一种度量。 选项（B），（C）和（D）都是量化和/或监控风险水平的度量。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk management, Intraday liquidity management, Credit risk monitoring",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "36",
+        "question_text": "A position with a value of $2.0 million consists of 50,000 shares of stock. The stock is\nquoted bid $39.00, offer $41.00. The bid-offer spread has a volatility of 2.0%. The stock's\ndaily volatility is 2.00% or 200 basis points. For purposes of value at risk (VaR), assume the\nstock's arithmetic returns are normally distributed (aka, normal VaR) and the expected daily\nreturn rounds to zero (under these assumptions absolute VaR is identical to relative VaR). We\nwant to measure the cost of liquidity under stressed market conditions; aka, we will assume a\nworstcase volatile spread rather than a static spread. Which is NEAREST to the position's one-\nday 95.0% confident liquidity-adjusted value at risk (LVaR)? (Please assume a rounded normal\ndeviate of 1.65).",
+        "image": "",
+        "options": {
+            "A": "A.$76,300",
+            "B": "B.$149,000",
+            "C": "C.$318,000",
+            "D": "D.$755,000"
+        },
+        "answer": "B",
+        "explanation": "The one-day 95.0% VaR is given by -0＋2.00% * 1.65 * 2.0 million = $66,000.The\nvolatile-spread liquidity cost (LC) in percentage terms is given by 0.5 * (5.0%＋2.0%*1.65) =\n4.150%, such that the liquidity cost equals $2.0 million * 4.150% = $83,000.Therefore, the one-\nday 95.0% LVaR equals $66,000＋$83,000 = $149,000 (using an exact normal deviate, the answer is\n$148,691).置信水平为95.0％的单日风险价值（VaR）为-0＋2.00％* 1.65 * 2000000= 66,000美元。波动性\n价差流动性成本（LC）的百分比形式为0.5 *（5.0％ ＋2.0％* 1.65）= 4.150％，因此流动性成本等于\n200万美元* 4.150％= 83,000美元。因此，置信水平为95.0％的单日LVaR等于$ 66,000＋$ 83,000 = $\n149,000（使用精确的正常偏差，答案为$ 148,691）。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Value at Risk (VaR), Liquidity Risk, Market Risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "On opening day, Lever Brothers Multistrategy Master Fund LP has the following economic\nbalance sheet: $100 in Cash, $20 in Debt, and Equity of $80. Assume Lever Brothers creates a\nshort position in a stock, borrowing $100 of the security and selling it. It has thus created a\nliability equal to the value of the borrowed stock, and an asset, equal in value, consisting of\nthe cash proceeds from the short sale. The cash cannot be used to fund other investments, as it\nis collateral; the broker uses it to ensure that the short stock can be repurchased and\nreturned to the stock lender. It remains in a segregated short account, offset by the value of\nthe borrowed stock. The stock might rise in price, in which case the $100 of proceeds would not\nsuffice to cover its return to the borrower. Lever Brothers must therefore in addition put up\nmargin of $50. After the trade, what is the leverage in the firm's economic balance sheet?",
+        "image": "",
+        "options": {
+            "A": "A.1.25",
+            "B": "B.1.50",
+            "C": "C.1.75",
+            "D": "D.2.50"
+        },
+        "answer": "D",
+        "explanation": "After the trade, Assets = $200 = $50 cash + $150 Due from broker (i.e., $100 short\nsale proceeds + $50 margin)After the trade, Liabilities = $120 = $20 debt + $100 Borrowed\nStock, such that Equity =$80 = $200 - $120;Therefore, Leverage = 200/80 = 2.50.交易后，资产= $\n200 = $ 50现金＋$ 150经纪人应付款（即$ 100卖空收益＋$ 50保证金）交易后，负债= $ 120 = $ 20债务\n$＋100借入股票，即权益= $ 80 = $ 200-$ 120;因此，杠杆= 200/80 = 2.50。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Leverage, Economic balance sheet, Short selling",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "Which of the following refers to \"the length of time for which a lumpy order moves the\nmarket away from the equilibrium price,\" which is a characteristic of market liquidity?",
+        "image": "",
+        "options": {
+            "A": "A.Tightness",
+            "B": "B.Depth",
+            "C": "C.Slippage",
+            "D": "D.Resiliency"
+        },
+        "answer": "D",
+        "explanation": "Malz: “A standard set of characteristics of market liquidity, focusing primarily\non asset liquidity, helps to understand the causes of illiquidity:●Tightness refers to the\ncost of a round-trip transaction, and is typically measured by the bid-ask spread and brokers’\ncommissions.●Depth describes how large an order it takes to move the market\nadversely.●Resiliency is the length of time for which a lumpy order moves the market away from\nthe equilibrium price.”马尔茨：“一套标准的市场流动性特征（主要侧重于资产流动性）有助于理解流\n动性不足的原因：●紧密度是指一个交易回合的成本，通常由买卖差价和经纪人的佣金来衡量。●深度指使\n反向影响市场价格走势所需的交易量。●弹性是指交易量使价格偏离有效均衡水平所需的时间长度。”",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Market Liquidity, Asset Liquidity, Market Equilibrium",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "Which of the following nondeposit funding sources requires collateral?",
+        "image": "",
+        "options": {
+            "A": "A.Fed funds and commercial paper.",
+            "B": "B.Commercial paper and discount window borrowing.",
+            "C": "C.Fed funds and repurchase agreements.",
+            "D": "D.Discount window borrowing and repurchase agreements."
+        },
+        "answer": "D",
+        "explanation": "Repurchase agreements involve selling securities to a lender and buying them back\nat a later date for a previously agreed upon price, thus they are collateralized. The Federal\nReserve also demands collateral in order to borrow at the discount window.回购协议包括将证券出\n售给贷款人，并在以后以事先商定的价格将其买回，从而为其提供担保。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Collateral requirements, Discount window borrowing, Repurchase agreements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "40",
+        "question_text": "A position with a value of $1.0 million consists of 50,000 shares of an asset. The asset is\nquoted bid $19.00, offer $21.00. The asset has an expected return of 14.0% per annual and an\nannual volatility of 26.0%. We are interested in the lognormal value at risk (aka, lognormal\nVaR) over a one-year horizon; that is, we assume geometric returns are normally distributed. If\nour confidence level is 95.0%, which is NEAREST to the one-year liquidity-adjusted lognormal\nVaR(LVaR)?",
+        "image": "",
+        "options": {
+            "A": "A.$100,000",
+            "B": "B.$200,000",
+            "C": "C.$300,000",
+            "D": "D.$400,000"
+        },
+        "answer": "C",
+        "explanation": "The one-year 95.0% lognormal VaR is given by $1.0 million * [1 - exp(0.140 - 0.260\n*1.65)] = $250,988The liquidity cost (LC) is given by (21.00 - 19.00)/20.00 * 0.5 * $1.0\nmillion = $50,000.Therefore, the one-year 95.0% confident LVaR equals $250,988 50,000 =\n$300,988(using an exact normal deviate, the answer is $399,985)置信水平95.0％的单年对数正态\nVaR为 $100万* [1-exp（0.140-0.260 * 1.65）] = 250,988美元流动性成本（LC）为（21.00-\n19.00）/20.00 * 0.5 * $100万= 50,000美元。因此，95%置信水平下的单年LVaR等于$ 250,988 ＋50,000 =\n$ 300,988（使用精确的正常偏差，答案为$ 399,985）",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity Risk, Value at Risk (VaR), Lognormal Distribution",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "Acme Bank and Trust has below calculated its daily average deposits and vault cash holdings\n(ie, $5.0 million) for the most recent two-week computation period. Also shown are decidedly\nhypothetical (ie, not necessarily realistic) reserve requirements posted by the Federal Reserve\nSystem:\n \n \nWhat is the bank's Daily Average Reserve holdings at the Federal Reserve bank (FRB)?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/LiquidityandTreasuryRiskMeasurementandMan_images/41u.png",
+        "options": {
+            "A": "A.$6.0 million",
+            "B": "B.$9.5 million",
+            "C": "C.$12.5 million",
+            "D": "D.$23.0 million"
+        },
+        "answer": "A",
+        "explanation": "The bank's Total Required Legal Reserve = ($50 - $10) * 6.0%＋($75 - $50) * 16%＋\n($100 ＋15) * 4.0% = $11.0 million; but since $5.0 is the daily average balance in vault cash,\nthe Daily Average Reserve holdings at the Federal Reserve bank (FRB) = $11.0 - $5.0 = $6.0\nmillion银行的法定准备金总额=（$ 50-$ 10）* 6.0％＋（$ 75-$ 50）* 16％ ＋（$ 100＋15）* 4.0％=\n1,100万美元； 但是由于库金的每日平均余额是$ 500万美元，因此美联储（FRB）的每日平均储备持有量= $\n11.0-$ 5.0 = 600万美元",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Reserve Requirements, Vault Cash, Federal Reserve System",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "Kris Gaines, Treasurer at Palm Air Bank and Trust, is considering ways to meet a funding gap\ncreated by greater than expected loan demand. Palm Air is a medium sized bank located in\nFlorida. The funding gap is approximately $850,000. Gaines is choosing between several\nnondepository funding types. The funds are needed immediately. Which type of funding is most\nappropriate in this situation?",
+        "image": "",
+        "options": {
+            "A": "A.Commercial paper.",
+            "B": "B.Negotiable certificates of deposit (CDs).",
+            "C": "C.Federal funds borrowing.",
+            "D": "D.Eurodollar deposits."
+        },
+        "answer": "C",
+        "explanation": "Federal (fed) funds are likely the best funding choice for three reasons. First,\nbecause Palm Air Bank and Trust is a medium-sized bank, it may not have access to commercial\npaper, negotiable CDs, and Eurodollar deposits. Second, these funding sources come in units of\n$1 million or more. Because the bank needs less than $1 million, commercial paper, negotiable\nCDs, and Eurodollar deposits are not necessarily appropriate. Third, the funds are needed\nimmediately. Fed funds are available in smaller denominations and are usually immediately\navailable.出于以下三个原因，联邦（联邦）基金可能是最佳的资金选择。 首先，由于Palm Air Bank and\nTrust是一家中型银行，因此它可能无法使用商业票据，可转让定期存单（CDs）和欧洲美元定期存款\n（Eurodollar deposits）。而且，这些资金的单位都在百万以上。 因为银行需要的资金少于100万美元，所\n以商业票据，可转让CD和Eurodollar存款不合适。 第三，资金需求迫切。 联邦基金有较小面额的货币，通\n常即时可用。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk management, Nondepository funding sources, Federal funds market",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "A bank utilizing the liability management strategy is most likely to use which of the\nfollowing sources of liquidity?",
+        "image": "",
+        "options": {
+            "A": "A.U.S. Treasury securities.",
+            "B": "B.Federal agency securities.",
+            "C": "C.Repurchase agreement sales.",
+            "D": "D.Municipal bond investments."
+        },
+        "answer": "C",
+        "explanation": "Of the choices given, only repurchase agreement sales (sales of liquid securities)\nwould be a component of a liability (borrowed liquidity) management strategy. U.S. Treasury\nsecurities, federal agency securities, and municipal bond investments are all components of an\nasset liquidity management strategy.在所有选项中，只有回购协议出售（出售流动性证券）才是负债\n（借入流动性）管理策略的一部分。 美国国库券，联邦机构债券和市政债券投资都是资产流动性管理策略的\n组成部分。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity management strategies, Asset liquidity management, Liability management strategy",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "A bank supplies a line of credit of $10 million that currently has $6 million already drawn.\nThe bank determines that there is a 65% probability the customer will use the remaining line of\ncredit. The bank's cost of funding for the liquidity cushion is 16 bps. If the bank charges\ncontingent commitments based on the probability of a drawdown, what should the charge for\nliquidity be for this line of credit?",
+        "image": "",
+        "options": {
+            "A": "A.$1,664.",
+            "B": "B.$2,496.3",
+            "C": "C.$4,160.",
+            "D": "D.$5,850."
+        },
+        "answer": "C",
+        "explanation": "The rate charged for the contingent commitment is determined as follows: contingent\nliquidity charge = (remaining balance/credit limit)(probability of drawdown)(liquidity cushion\ncost of funding)= ($4 million /$10 million)(65%)(0.0016)= 0.000416 or 4.16 bps Multiplying this\ncost times the $10 million credit line amount yields a dollar cost of $4,160.或有承诺的收费标准\n如下：或有流动资金费用=（剩余余额/信贷限额）*（提取的可能性）*（流动资金缓冲资金成本）=（400万\n美元/1000万美元）*（65%）*（0.0016）= 0.000416或4.16 bps将这个成本乘以1000万美元的信用额度就得\n出了4,160美元的美元成本。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit Risk Management, Liquidity Risk, Pricing of Contingent Liabilities",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "45",
+        "question_text": "On opening day, Lever Brothers Multistrategy Master Fund LP has the following economic\nbalance sheet: $100 in Cash, $20 in Debt, and Equity of $80. This corresponds to an initial\nplacement of $80 in Equity by the fund's owners plus a loan of $20 by a commercial bank. Assume\nLever Brothers finances a long position in $100 worth of an equity at the Reg T margin\nrequirement of 50%. It invests $50 of its own funds and borrows $50 from the broker.\nImmediately following the trade, its margin account has $50 in equity and a $50 loan from the\nbroker (The broker retains custody of the stock as collateral for the loan). If firm leverage\nis defined, per Malz, as Assets/Equity, then what is the change in the firm's economic balance\nsheet?",
+        "image": "",
+        "options": {
+            "A": "A.From 1.000 to 1.500",
+            "B": "B.From 1.250 to 1.875",
+            "C": "C.From 1.250 to 1.500",
+            "D": "D.From 1.500 to 1.500"
+        },
+        "answer": "B",
+        "explanation": "Initial leverage = assets/equity = 100/80 = 1.250.After the trade, assets = $50\ncash + $100 stock = $150;After the trade, liabilities = $20 debt + $50 margin loan = $70; such\nthat equity = $150-70 = $80; and leverage = 150/80 = 1.875初始杠杆=资产/权益= 100/80 = 1.250交\n易后，资产= 50现金＋100股票= 150；交易后，负债= 20债务＋50保证金贷款=70； 使得权益=150-70=80；\n杠杆= 150/80 = 1.875",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Leverage Measurement, Balance Sheet Analysis, Margin Requirements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Consider the following illustration of a simplified repurchase agreement (repo) trade\nbetween generic Counterparty A and Counterparty B.\n \n \nPlease note this illustration refers to the initiation of the repo trade, not the unwinding.\nConsider the three primary motivations for a repo trade:Ⅰ. Lend funds short-term on a secured\nbasis: A money market mutual fund who holds cash for liquidity or safekeeping purposes but who\nwants to lend the cash safely would BUY the repo as Counterparty B; because the fund is\ninvesting cash, the mutual fund is willing to accept general collateralⅡ. Finance the long\nposition in a security: The trading desk at a financial institution who wants to finance the\npurchase of a security would sell the repo (aka, repo out) as Counterparty A using the\npurchased security as collateralⅢ. Borrow a security in order to sell it short: A hedge fund\nthat wants to short a security but needs to borrow the security in order to sell it would do a\nreverse repo (aka, buy the repo) as Counterparty B; because the hedge fund is borrowing a bond,\nit does not accept a general collateral and instead requires delivery of a particular\nsecurityWhich of the above is ACCURATE (true)?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/LiquidityandTreasuryRiskMeasurementandMan_images/46u.png",
+        "options": {
+            "A": "A.None are accurate",
+            "B": "B.I. only is accurate (II. and III. are mistaken)",
+            "C": "C.III. only is accurate (I. and II. are mistaken)",
+            "D": "D.All are accurate"
+        },
+        "answer": "D",
+        "explanation": "三个动机都是正确的",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Repurchase agreements (repos), Securities lending, Money market mutual funds",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "Prior to 2007, banks would least likely finance their increasing investment holdings of U.S.\ndollar assets by:",
+        "image": "",
+        "options": {
+            "A": "A.drawing on U.S. dollar bank credit lines.",
+            "B": "B.borrowing U.S. dollars from their central bank.",
+            "C": "C.borrowing U.S. dollars directly in the interbank markets.",
+            "D": "D.borrowing in their domestic currency and converting it to U.S. dollars in the spot market."
+        },
+        "answer": "A",
+        "explanation": "Banks could finance their increasing investment holdings of U.S. dollar assets by\nborrowing in their domestic currency and converting it to U.S. dollars in the spot market, or\nby borrowing U.S. dollars directly in the interbank markets, from other market participants or\nfrom their central bank. Banks could also convert their domestic currency liabilities into U.S.\ndollars using FX swaps to buy the asset.银行可以通过借入本国货币并在即期市场上将其转换为美元\n，或者通过在银行间市场中直接从其他市场参与者或中央银行借入美元来为日益增加的美元资产投资提供资\n金。 银行也可以使用外汇掉期购买资产来将其本国货币负债转换为美元。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Funding Strategies, Foreign Exchange Markets, Central Bank Policies",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "If a corporation's marginal tax rate is 30.0% and it purchases an A-rated municipal bond\nthat offers a 4.20% gross yield (aka, yield to maturity), what is the tax equivalent yield\n(TEY)?",
+        "image": "",
+        "options": {
+            "A": "A.2.45%",
+            "B": "B.3.50%",
+            "C": "C.6.00%",
+            "D": "D.16.67%"
+        },
+        "answer": "C",
+        "explanation": "TEY = after-tax return on tax-exempt investment / (1 - marginal tax rate); in this\ncase, TEY = 4.20%/(1 - 0.30) = 6.00%TEY =免税投资的税后收益/（1-边际税率）； 在这种情况下，TEY\n= 4.20％/（1-0.30）= 6.00％",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Corporate finance, Taxation, Investment analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "One of the most important stress tests for senior bank managers is the cash flow survival\nreport. It is common for banks to forecast two types of cumulative cash inflows and outflows to\nmeasure the liquidity risk of the bank. Which of the following best describes the two types of\ncumulative cash flows and how often is the report typically run for firm-specific and market-\nwide stress tests?",
+        "image": "",
+        "options": {
+            "A": "A.The two types of cash flows are business as usual and cash flows with adjustments for\nderivatives and nonmaturing deposits. All stress tests are required weekly.",
+            "B": "B.The two types of cash flows are business as usual and cash flows with adjustments for off-\nbalance-sheet items and contingent funding. All stress tests are required daily.",
+            "C": "C.The two types of cash flows are business as usual and cash flows with adjustments for retail\nbanking deposits and contingent funding. Firm-specific stress tests are required daily and\nmarket-wide stress tests are required weekly.",
+            "D": "D.The two types of cash flows are business as usual and cash flows with adjustments for"
+        },
+        "answer": "D",
+        "explanation": "The two types of cash flows are business as usual and cash flows with adjustments\nfor liquidated marketable securities and contingent funding. The Financial Services Authority\n(FSA) in the UK requires firm-specific stress tests weekly and market-wide stress tests\ndaily.现金流量的两种类型是日常现金流量和针对已清算有价证券和或有资金进行了调整的现金流量。 英国\n金融服务管理局（FSA）要求每周进行针对公司内部的压力测试，每天进行整个市场的压力测试。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk management, Stress testing, Cash flow analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "50",
+        "question_text": "If the maturity of a bank's U.S. dollar liabilities to non banks is longer-term:",
+        "image": "",
+        "options": {
+            "A": "A.a lower bound of the U.S. dollar funding gap can be established as the net U.S. dollar\nposition to non banks.",
+            "B": "B.an upper bound of the U.S. dollar funding gap can be established as the net U.S. dollar\nposition to nonbanks.",
+            "C": "C.a lower bound of the U.S. dollar funding gap can be established as the gross U.S. dollar\nposition to nonbanks.",
+            "D": "D.an upper bound of the U.S. dollar funding gap can be established as the gross U.S. dollar"
+        },
+        "answer": "A",
+        "explanation": "If the maturity of U.S. dollar liabilities to non banks is longer-term, a lower\nbound of the U.S. dollar funding gap can be established as the net U.S. dollar position to\nnonbanks. If the maturity of U.S. dollar liabilities to nonbanks is shorter-term, an upper\nbound of the U.S. dollar funding gap can be established as the gross U.S. dollar position to\nnonbanks.如果对非银行机构的美元债务期限较长，则可以建立一个美元资金缺口的下限，作为对非银行机构\n的美元净头寸。如果对非银行机构的美元债务期限较短，则可以将美元融资缺口的上限确定为对非银行机构\n的美元头寸总额。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk, Funding Gap Analysis, Liability Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "You are consulting to a large endowment fund that is in the process of determining its asset\nallocation budget. An important sub-project in this process is a recommendation for the\ndefinition of, target allocation to, and hurdle rates associated with, illiquid assets. In\nshort, you need to help develop the endowment's Portfolio Choice Model for illiquid assets.\nEach of these is true EXCEPT which is probably false?",
+        "image": "",
+        "options": {
+            "A": "A.Phillip says: The longer the time between liquidity events for an asset--ie, the less liquid\nthe asset--the LOWER its optimal allocation in the portfolio",
+            "B": "B.Debra says: The longer we need to wait to exit an investment--ie, the later the arrival of\nliquidity events--the HIGHER should be our illiquidity hurdle rate",
+            "C": "C.Peter says: Due to the nature of factor risk and idiosyncratic risk in illiquid markets, to\nthe extend we allocate to illiquid assets, it is really important for us to assign (or delegate\nto) genuinely skilled investors to this asset class",
+            "D": "D.Mary says: It's actually not very important that we identify skill in the illiquid asset"
+        },
+        "answer": "D",
+        "explanation": "Mary probably isn't an FRM! According to Ang, a key difference associated with\nilliquid asset classes is a relative INABILITY to separate factor risk from manager skill\n(\"there is no market index for illiquid asset classes\") such that investment manager talent is\nvery important. Recall that an ideal benchmark is tradeable, and alpha is measured relative to\ntradeable benchmarks. But Ang says \"No investor receives the returns on illiquid indexes. An\nasset owner never receives the NCREIF return on a real estate portfolio, for example. The same\nis true for most hedge fund indexes and private equity indexes. In liquid public markets, large\ninvestors can receive index market returns and pay close to zero in fees. In contrast, NCREIF\nis not investable as it is impossible to buy all the underlying properties in that index.\"玛丽\n可能不是FRM持证人。 Ang认为，与非流动性资产类别相关的一个关键区别是无法将因素风险与管理者的技能\n区分开（“非流动性资产的类别没有市场指数”），因此投资经理的才能非常重要。 试想一下，理想的基准\n是可以交易的，并且alpha是相对于可交易的基准进行衡量的。 但Ang说：“没有投资者可以在非流动性指数\n获利。比如，资产所有者从未获得房地产投资组合的NCREIF收益。大多数对冲基金指数和私募股权指数也是\n如此。在流动性公开市场，大型投资者可以获得指数市场的回报，并且几乎不需要支付费用。相反，投资者\n无法对NCREIF进行投资，因为不可能购买该指数含有的所有基础资产。”",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Portfolio Choice Model, Illiquid Assets, Manager Skill",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "52",
+        "question_text": "Which of the following types of nondeposit funding was created to provide liquidity to\nmortgage lenders?",
+        "image": "",
+        "options": {
+            "A": "A.Fed funds.",
+            "B": "B.Repurchase agreements.",
+            "C": "C.Federal Home Loan Bank (FHLB) borrowing.",
+            "D": "D.Discount window borrowing."
+        },
+        "answer": "C",
+        "explanation": "The FHLB system was created in 1932 to make loans to mortgage lenders, at a time\nwhen banks were experiencing runs on deposits. The FHLB stabilized the system, allowing banks\nto continue to make mortgage loans. 联邦住房贷款银行（FHLB）系统创建于1932年，目的是在银行处于\n存款挤兑的时期，向抵押贷款人提供贷款。 FHLB稳定了秩序，让银行可以继续提供抵押贷款。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Nondepository funding sources, Liquidity management, Mortgage lending",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "Suppose a firm with a simple capital structure has assets of $20.0 million and debt of $10.0\nmillion. Return on assets (ROA) is 9.0% and cost of debt is 4.0%, such that the firm's leverage\nis 2.0 and its return on equity (ROE) is 14.0%. If the firm borrows an additional $6.0 million\nat the same cost of 4.0%, and asset returns are fixed, what is the firm's new leverage and\nreturn on equity (ROE)?",
+        "image": "",
+        "options": {
+            "A": "A.Leverage = 1.7 and ROE = 13.3%",
+            "B": "B.Leverage = 2.0 and ROE = 15.7%",
+            "C": "C.Leverage = 2.3 and ROE = 23.5%",
+            "D": "D.Leverage = 2.6 and ROE = 17.0%"
+        },
+        "answer": "D",
+        "explanation": "Leverage = 2.6 and ROE = 17.0% Given new assets of 26.0 and new debt of 16.0, new\nequity is unchanged at 10.0 = 26.0 - 16.0. New leverage = 26.0/10.0 = 2.60 and new ROE =\n(26.0*9% - 16.0*4%)/10.0 = 17.0%.杠杆= 2.6和ROE = 17.0％ 新的资产总额为26.0和债务总额为16.0，权\n益总额保持不变为10.0 = 26.0-16.0。 新杠杆= 26.0 / 10.0 = 2.60，新ROE =（26.0 * 9％-16.0 *\n4％）/ 10.0 = 17.0％。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Leverage Ratios, Return on Equity (ROE), Financial Leverage",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "Lack of liquidity manifests itself in observable, yet hard-to-measure ways. Which of the\nfollowing refers to \"the deterioration in the market price induced by the amount of time it\ntakes to get a trade done?\"",
+        "image": "",
+        "options": {
+            "A": "A.Tightness",
+            "B": "B.Bid-ask spread",
+            "C": "C.Adverse price impact",
+            "D": "D.Slippage"
+        },
+        "answer": "D",
+        "explanation": "Malz: “Lack of liquidity manifests itself in these observable, if hard-to-measure\nways: ●Bid-ask spread. If the bid-ask spread were a constant, then going long at the offer and\nshort at the bid would be a predictable cost of doing the trade. However, the bid-ask spread\ncan fluctuate widely, introducing a risk. ●Adverse price impact is the impact on the\nequilibrium price of the trader’s own activity. ●Slippage is the deterioration in the market\nprice induced by the amount of time it takes to get a trade done. If prices are trending, the\nmarket can go against the trader, even if the order is not large enough to influence the\nmarket.马尔茨：“流动性的缺乏可以通过这些可观察到的，难以测量的方式表现出来： ●竞价传播。 如果\n买卖差价是恒定的，在买入价买入，卖出价卖出，则交易成本是可预测的。 但实际上，买卖差价可能会大幅\n波动，从而带来风险。 ●价格的不利影响是对交易者自身活动的均衡价格的影响。 ●滑移是完成交易需要\n时间而导致的市场价格恶化。 如果价格趋势上升，即使订单量不足以影响市场，市场也会对交易者不利。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Market impact, Bid-ask spread",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "First City Bell Bank has forecast its checkable deposits, time and saving deposits, and\ncommercial and household loans over the next six months; aka, semester.\n \n \nIf we employ the sources and uses of funds method to estimate the bank’s liquidity needs over\nthe semester, which of the following statements is TRUE?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/LiquidityandTreasuryRiskMeasurementandMan_images/55u.png",
+        "options": {
+            "A": "A.During February, sources of liquidity equal zero",
+            "B": "B.During the first quarter (Jan, Feb, March), Acme expects a positive liquidity gap",
+            "C": "C.Over the cumulative six-month semester (Jan through June), Acme expects a positive liquidity\ngap",
+            "D": "D.During April, sources of $15 partially offset uses of $25 to imply a negative liquidity gap"
+        },
+        "answer": "D",
+        "explanation": "。在2月份，来源为$ 80.0，而使用为$ 220.0。在第一季度，流动资金缺口为负：-140.0-60.0\n-10.0 =-$ 210.0。在半年期内，流动性缺口为负：-140.0-60.0-10.0   50.0-95.0 = -255.0资金来源和使\n用方法始于两个事实：1）流动性随着存款增加和贷款减少而增加2）存款减少，贷款增加时流动性下降?例如\n：在二月份：来源= max（0，80）-min（0，220）= 80;即存款增加了80。使用=最小值（0，80）-最大值\n（0，220）= -220;即，贷款增加了200。在三月份：来源= max（0，-20）-min（0，40）= 0;使用=\nmin（0，-20）-max（0，40）= -60;即存款减少20，贷款增加40。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Management, Sources and Uses of Funds Method, Liquidity Gap Analysis",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "56",
+        "question_text": "A bank is located near a college campus and would like to attract students to the bank.\nWhich of the following conditional pricing demand deposit accounts would most likely appeal to\na college student?",
+        "image": "",
+        "options": {
+            "A": "A.A high minimum balance, no item charge\\/activity fees account.",
+            "B": "B.A high minimum balance, high item charge\\/activity fees account.",
+            "C": "C.A low or zero minimum balance account with low- to moderate-item charge\\/activity fees\naccount.",
+            "D": "D.A low or zero minimum balance account with high item charge\\/activity fees account."
+        },
+        "answer": "C",
+        "explanation": "College students generally have less deposits than, for example, the average\ndepositor in an affluent neighborhood. The conditional pricing that would most appeal to\nstudents would be a low minimum balance demand deposit account with low- to moderate-item\ncharge and activity fees. However, this fee structure may be unprofitable for the bank.通常，大\n学生的存款少于富裕社区中的普通储户。 对学生最有吸引力的条件定价是较低的活期账户最低存款余额要求\n，以及较低的手续费和管理费。 但是，这种费用结构可能无法给银行带来利润。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Consumer banking products, Customer segmentation, Pricing strategy in financial services",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "First National Bank finds that its current deposits and nondeposit liabilities break down as\nfollows: Hot money $ 35 million Vulnerable funds (including the largest deposit and nondeposit\nliability accounts) $ 20 million Stable (core) funds $100 million First National's management\nwants to keep a 95% reserve behind its hot money deposits (less the 3% legal reserve\nrequirement imposed by the central bank behind many of these deposits) and nondeposit\nliabilities, a 30% liquidity reserve in back of its vulnerable deposits and other borrowings\n(less required reserves), and a 15% liquidity reserve behind its core deposit and nondeposit\nfunds (less required reserves). First National Bank's loans total $135 million but recently\nhave been as high as $150 million, with a trend growth rate of about 10 percent a year. This\nfinancial firm wishes to be ready at all times to honor customer demands for all loans that\nmeet its quality standards. The bank's total liquidity requirement is:",
+        "image": "",
+        "options": {
+            "A": "A.55.23",
+            "B": "B.63.57",
+            "C": "C.78.25",
+            "D": "D.82.62"
+        },
+        "answer": "D",
+        "explanation": "The bank's total liquidity requirement is: 0.95× ($35 million - 0.03 x $35\nmillion)+0.30× ($20 million - 0.03 x $20 million) +0.15× ($100 million - 0.03 x $100\nmillion)+ $150 million x 0.10+ ($150 - $135 million) = $32.25 million+ $5.82 million +$14.55\nmillion+ $30 million = $82.62 million结合贷款和存款流动性要求，该银行的总流动性要求为： 总流动\n性要求=存款和非存款负债流动性要求和贷款流动性要求 =0.95*（热钱基金-热钱存款后的法定准备金\n）＋0.30*（脆弱存款和非存款基金-法定准备金）＋0.15*（稳定存款和非存款基金-法定准备金） ＋1.00\n*（潜在的未偿贷款-实际未偿贷款）0.95× ($35 百万 - 0.03 x $35 百万)＋0.30× ($20 百万 - 0.03 x\n$20 百万) ＋0.15 ×($100 百万 - 0.03 x $100 百万)＋$150 x 0.10＋($150 - $135 百万) = $32.25 百\n万＋$5.82 百万＋$14.55 百万＋$30 百万 = $82.62 百万",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Asset Liability Management (ALM), Liquidity Risk, Reserve Requirements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "58",
+        "question_text": "Duffie examines several policy measures that might alleviate firm-specific and systemic\nrisks related to large dealer banks. He would tend to agree with each of the following EXCEPT\nto which statement would he most DISAGREE?",
+        "image": "",
+        "options": {
+            "A": "A.The threat posed by the flight of over-the-counter derivatives counterparties can be lowered\nby central clearing",
+            "B": "B.Distress-contingent convertible debt is an innovation that is likely to be destabilizing\nduring periods of financial distress, and regulators should consider curtailing their usage",
+            "C": "C.Short-term tri-party repos are a particularly unstable source of financing; potential\nremedies to their risk include a tri-party repo utility, central-bank insurance of tri-party\nrepo transactions, or an emergency bank to be financed by repo market participants",
+            "D": "D.The most important source of systemic risk is the potential impact of dealer-bank fire sales"
+        },
+        "answer": "B",
+        "explanation": "Duffie actually proposed (in a paper) \"that distress-contingent convertible debt be\ncomplemented with regulations favoring mandatory rights offerings of equity that, similarly,\nare automatically triggered by leverage or liquidity thresholds. These two new instruments can\nbe designed to recapitalize a financial institution before a destructive run is likely to\ncommence, and to reduce a financial institution’s incentives for socially excessive risk\ntaking.\"达菲在一份论文中提出：“危机应急可转换债务，辅以支持强制发行股权的法规，这些法规同样是\n由杠杆或流动性阈值自动触发。利用这两种新工具来在可能发生破坏性运行之前对金融机构进行资本重组\n，并降低金融机构过度冒险的动机。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Systemic Risk, Distress-Contingent Convertible Debt, Central Clearing",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Liquidity funding risk refers to the firm's ability to meet its cash needs. About liquidity\nfunding risk, which of the following statements is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.Wholesale deposits are the most stable source of funding",
+            "B": "B.A lack of confidence can contribute to an institution's liquidity funding problems",
+            "C": "C.A solvent firm cannot experience a liquidity funding problem; i.e., only an insolvent firm\ncan experience a liquidity problem",
+            "D": "D.Case studies such as Northern Rock and Ashanti Goldfields demonstrate that a hedged position"
+        },
+        "answer": "B",
+        "explanation": "A lack of confidence can contribute to an institution's liquidity funding\nproblems缺乏信心会导致机构的流动资金问题",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Funding liquidity, Financial crises",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "Geofinancial Bank currently has the following (very) simplified balance sheet:\n \n \nFurther, the maturities of these accounts are as follows: ●Assets: The bonds ($30.0 million)\nexpire in one year. In regard to the loans ($70.0),$40.0 million expire in five (5) years,\n$10.0 million expire in seven (7) years, and $20.0 million expire in ten (10) years.\n●Liabilities: In regard to the deposits ($20.0 million), $10.0 million expire in one (1) year,\nand $20.0 million expire in two (2) years. In regard to the bonds ($50.0 million), $10.0\nmillion expire in five (5) years, $30.0 million expire in seven (7) years, and $10.0 million\nexpire in beyond ten (>10) years. ●Equity ($20.0 million) is presumed to expire in ten (10)\nyears Which term structure of expected cash flows is accurate for Geofinancial Bank?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/LiquidityandTreasuryRiskMeasurementandMan_images/60u.png",
+        "options": {
+            "A": "A.Series A",
+            "B": "B.Series B",
+            "C": "C.Series C",
+            "D": "D.Series D"
+        },
+        "answer": "C",
+        "explanation": "\\begin{array}{|c|c|c|c|c|}\n\\hline\n\\text{Maturity} & \\text{Assets} & \\text{Liabilities} & \\Delta & \\text{Net} \\\\ \n\\hline\n1 & 30 & 10 & 20 & 20 \\\\ \n2 &    & 20 & -20 & 0 \\\\ \n5 & 40 & 10 & 30 & 30 \\\\ \n7 & 10 & 30 & -20 & 10 \\\\ \n10 & 20 & 20 & 0 & 10 \\\\ \n>10 &    & 10 & -10 & 0 \\\\ \n\\hline\n\\text{Sum} & 100 & 100 &     &   \\\\ \n\\hline\n\\end{array}",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Balance Sheet Management, Liquidity Risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "Which of the following factors is least likely to increase a bank treasurer's challenge in\nmanaging cash in order to stay within its intraday credit limits?",
+        "image": "",
+        "options": {
+            "A": "A.Cash flow volatility.",
+            "B": "B.Credit quality of assets.",
+            "C": "C.Insufficient real-time data.",
+            "D": "D.Securities price volatility."
+        },
+        "answer": "B",
+        "explanation": "The credit quality of a bank's assets (e.g., cash balances, liquid assets) is very\nhigh and therefore, unlikely to have a negative impact on liquidity. Liquid assets include\nmoney market instruments, time deposits, and banker's acceptances, all of which have no or very\nlittle default risk. The other three factors explicitly increase the bank treasurer's challenge\nin terms of intraday liquidity management.银行资产（例如，现金余额，流动资产）的信贷质量很高\n，因此不太可能对流动性产生负面影响。 流动资产包括货币市场工具，定期存款和银行承兑汇票，这些资产\n没有或几乎没有违约风险。 其他三个因素在日间流动性管理方面明显给银行资金调拨带来了挑战。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Intraday Liquidity Management, Cash Flow Volatility",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "The cross-currency swap basis is the:",
+        "image": "",
+        "options": {
+            "A": "A.Interest rate differential in a cross-currency swap.",
+            "B": "B.Price to the long position in a cross-currency swap.",
+            "C": "C.Difference between the forward and spot exchange rates in a cross-currency swap.",
+            "D": "D.Amount by which the interest rate of one currency must be adjusted in a cross-currency swap"
+        },
+        "answer": "D",
+        "explanation": "【苞学解析】跨货币互换基点 (b) 是指一种货币的利率必须调整以使CIP得以维持的金额。\n\n$$\nF - S = S \\left( \\frac{1 + r + b}{1 + r^*} - 1 \\right)\n$$",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Cross-currency swaps, Interest rate differentials, Currency adjustment",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "On opening day, Lever Brothers Fund LP has a simple economic balance sheet: $100 in Cash,\nand Equity of $100. This corresponds to an initial placement of $100 in equity by investors,\nand no debt. Suppose Lever Brothers now adds three derivatives positions: ●A one month\ncurrency forward, in which Lever Brothers is short $150 against the euro ●An at-the-money\n(currently 50-delta) three month long call option on S&P 500 equity index futures, with an\nunderlying index value of $100 ●Short protection on Ford Motor Co. via a five year credit\ndefault swap, with a notional amount of $200 Assume that the non-option positions are initiated\nat market-adjusted prices and spreads, and therefore have zero NPV. Also assume that the\ncounterparty is the same for all the positions, namely the prime broker or broker-dealer with\nwhich they are executed. If the initial margin on this derivatives portfolio (i.e., all three\nderivative positions) is $50, what is the leverage of the firm's balance sheet after the\ntrades?",
+        "image": "",
+        "options": {
+            "A": "A.2.5",
+            "B": "B.3.5",
+            "C": "C.4.0",
+            "D": "D.5.0"
+        },
+        "answer": "D",
+        "explanation": "After the trade, assets = $150 (currency forward) + $50 (long option) + $200 (short\nCDS) + $50 cash + $50 margin due from broker = $500; After the trade, debt = $400 (i.e.,\ncorresponding to derivative positions) such that equity = $100 (i.e., unchanged by new\npositions), and Leverage = 500/100 = 5.0交易后，资产= $ 150（外汇远期） $ 50（多头期权） $\n200（空头CDS） $ 50现金 经纪人应支付的$ 50保证金= $ 500; 交易后，债务= $ 400（即对应于衍生工具\n头寸），使得权益= $ 100（即权益不变），以及 杠杆= 500/100 = 5.0",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Derivatives, Leverage, Balance Sheet Management",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "In the context of deposit outflows, which behavioral assessment factor is relevant for\nindividual, small business, and commercial/institutional customers of the bank?",
+        "image": "",
+        "options": {
+            "A": "A.Credit usage.",
+            "B": "B.FDIC coverage.",
+            "C": "C.Industry segment.",
+            "D": "D.Relationship tenure."
+        },
+        "answer": "D",
+        "explanation": "Relationship tenure is a behavioral assessment factor to consider for all three\ngroups of bank customers. Credit usage applies more to small business and commercial/\ninstitutional customers and not individuals. FDIC coverage applies only to individuals and\nsmall businesses but not commercial/institutional customers. Industry segment does not apply to\nindividuals and generally only applies to commercial/ institutional customers.关系权属是以上三\n类银行客户都要考虑的行为评估因素。 信贷更多地适用于小型企业和商业/机构客户，而不是个人。 FDIC的\n保险仅适用于个人和小型企业，不适用于商业/机构客户。 行业细分不适用于个人，通常仅适用于商业/机构\n客户。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Behavioral assessment factors for bank customers, Deposit outflows, Customer relationship management.",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "Which of the following best describes the term structure of expected liquidity, TSL(e)?",
+        "image": "",
+        "options": {
+            "A": "A.TLS(e) is the cumulative change in the term structure of available assets (TSAA)",
+            "B": "B.TLS(e) is a combination of the term structures of cash flow at risk (CFaR) and liquidity at\nrisk (LaR)",
+            "C": "C.TLS(e) is a combination of the term structure of expected cash (TSEC), change in working\ncapital (CIWC), and change in deposits (CID)",
+            "D": "D.TLS(e) is a combination of the term structures of cumulative expected cash flows (TSECCF) and"
+        },
+        "answer": "D",
+        "explanation": "The term structure of expected liquidity, TSL(e), is a combination of the term\nstructures of cumulative expected cash flows (TSECCF) and liquidity generation capacity\n(TSCLGC)预期流动性的期限结构，即TSL(e)，是累积预期现金流量(TSECCF)和流动性生成能力(TSCLGC)的期\n限结构的组合。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Cash Flow Analysis, Term Structure Modeling",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "66",
+        "question_text": "In regard to markets for collateral, each of the following is true EXCEPT which definition\nor statement is false?",
+        "image": "",
+        "options": {
+            "A": "A.Margin lending is lending for the purpose of financing a security transaction in which the\nloan is collateralized by the security",
+            "B": "B.Total return swaps (TRS) are matched pairs of the spot sale and forward repurchase of a\nsecurity. Both the spot and forward price are agreed now, and the difference between them\nimplies an interest rate",
+            "C": "C.In a securities lending transaction, one party lends a security to another in exchange for a\nfee, generally called a rebate. The security lender, rather than the borrower, continues to\nreceive dividend and interest cash flows from the security. A common type of securities lending\nis stock lending, in which shares of stock are borrowed.",
+            "D": "D.A haircut ensures that the full value of the collateral is not lent. A haircut of 10.0%, for"
+        },
+        "answer": "B",
+        "explanation": "Repurchase agreements (\"repos\") are matched pairs of the spot sale and forward\nrepurchase of a security. Both the spot and forward price are agreed now, and the difference\nbetween them implies an interest rate.回购协议（“repos”）才是证券的现货销售加上远期回购。 现\n在即期和远期价格均已商定，两者之间的差额意味着利率。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Securities lending, Repurchase agreements, Margin lending",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "67",
+        "question_text": "A dealer bank's liquidity crisis is least likely to be accelerated by:",
+        "image": "",
+        "options": {
+            "A": "A.the refusal of repurchase agreement creditors to renew their positions.",
+            "B": "B.the flight of prime brokerage clients.",
+            "C": "C.a counterparty's request for a novation through another dealer bank.",
+            "D": "D.depositors removing their savings from the dealer bank."
+        },
+        "answer": "D",
+        "explanation": "A liquidity crisis for a dealer bank is accelerated if counterparties try to reduce\ntheir exposure by restructuring existing OTC derivatives with the dealer or by requesting a\nnovation. The flight of repo creditors and prime brokerage clients can also accelerate a\nliquidity crisis. Lastly, the loss of cash settlement privileges is the final collapse of a\ndealer bank's liquidity.如果交易对手试图通过与交易商重组现有的场外衍生品，或通过要求更换衍生品\n来降低风险敞口，则交易商银行的流动性危机将会加剧。 回购债权人和主要经纪客户的逃离也可能加剧流动\n性危机。 现金结算特权的丧失将导致经销商银行流动性的最终崩溃。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity risk, Counterparty risk, Prime brokerage.",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "68",
+        "question_text": "Which of the following is considered a best practice of liquidity transfer pricing (LTP)?",
+        "image": "",
+        "options": {
+            "A": "A.A centralized treasury funding center should be implemented to manage the liquidity cushion\nacross business units.",
+            "B": "B.Banks should rely on external factors to improve LTP by meeting regulatory authority\nrequirements.",
+            "C": "C.Remuneration policies should not be linked to LTP to help incentivize business unit managers\nto produce longer-term assets.",
+            "D": "D.Contingent collateral calls and derivatives should not be included in the LTP process but"
+        },
+        "answer": "A",
+        "explanation": "A centralized funding center is necessary for proper internal governance of the LTP\nprocess. Wholesale funding should be restricted to a group or subsidiary treasury. Internal\nfactors play an important role in effectively managing the LTP process. Proper LTP processes\nensure remuneration policies are effective. LTP process must include contingent collateral\ncalls and derivatives.一个集中的资金中心对于LTP过程的适当内部治理是必要的。内部因素在有效管理\nLTP过程中起着重要的作用。正确的LTP流程确保薪酬政策的有效性。LTP过程必须包括或有抵押品赎回权和衍\n生品。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity Transfer Pricing (LTP), Centralized Treasury Management, Internal Governance",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "69",
+        "question_text": "Consider investors in the following five asset classes: Ⅰ. Leveraged buyout (LBO) investors\nⅡ. Merger arbitrage hedge funds Ⅲ. Mortgage loan (i.e., loans collateralized by real estate)\ninvestors Ⅳ. Convertible bond investors Ⅴ. Statistical arbitrage investors Which of the above\nis (are) materially or meaningfully exposed to systematic funding liquidity risk?",
+        "image": "",
+        "options": {
+            "A": "A.None of the above",
+            "B": "B.I. and II. Only",
+            "C": "C.III. and IV. only.",
+            "D": "D.All of the above"
+        },
+        "answer": "D",
+        "explanation": "Malz on systemic funding liquidity risk: \"The funding liquidity risk in corporate\ntransactions is both idiosyncratic and systematic. Funding for a particular LBO or merger might\nfall through, even if the deal would otherwise have been consummated. But funding conditions\ngenerally can change adversely. This occurred in mid-2007 as the subprime crisis took hold.\nMany LBO and merger deals fell apart as financing came to a halt. Banks also incurred losses on\ninventories of syndicated loans, called “hung loans,” that had not yet been distributed to\nother investors or into completed securitizations, as noted in Chapter 9. As risk aversion and\ndemand for liquidity increased, the appetite for these loans dried up, and their prices fell\nsharply. Apart from providers of financing, other participants in these transactions, such as\nhedge funds involved in merger arbitrage, also experienced losses. Mergers typically result in\nan increase in the target acquisition price, though not usually all the way to the announced\nacquisition price, and in a decrease in the acquirer’s price, since the acquirer often takes\non additional debt to finance the acquisition. Merger arbitrage exploits the remaining gap\nbetween the current and announced prices. The risk arises from uncertainty as to whether the\ntransactions will be closed. In the early stages of the subprime crisis, merger arbitrage\nstrategies generated large losses as merger plans were abandoned for lack of financing.\nInvestors taking on exposure to such transactions are therefore exposed not only to the\nidiosyncratic risk of the deal, but to the systematic risk posed by credit and funding\nconditions generally. This risk factor is hard to relate to any particular time series of asset\nreturns. Rather, it is a “soft factor,” on which information must be gathered from disparate\nsources ranging from credit and liquidity spreads to quantitative and anecdotal data on credit\navailability.马尔茨谈到系统性的融资流动性风险：“公司交易中的融资流动性风险既既特殊又系统化。即\n使交易能够达成，对特定的杠杆收购或合并的融资也可能会失败。但是融资条件通常会发生不利变化。这种\n情况发生在2007年中期，次贷危机爆发后，由于融资停止，许多杠杆收购和合并交易分崩离析；银行也蒙受\n了尚未分配给“银团贷款”和已完成证券化的银团贷款库存的损失（如第9章所述）。随着风险规避和对流动\n性的需求增加，这些贷款的需求枯竭，其价格急剧下跌。 除了融资提供者以外，这些交易的其他参与者，例\n如参与合并套利的对冲基金，也遭受了损失。合并通常会导致目标收购价格提高，通常不会高到到宣布的收\n购价格。而且合并会导致收购价格降低，因为收购方通常会承担更多债务以为收购融资。合并套利利用了当\n前价格和宣布价格之间的剩余差距。风险来自交易能够达成的不确定性。在次贷危机的初期，由于缺乏融资\n而放弃了合并计划，合并套利策略造成了巨大损失。因此，承担此类交易风险的投资者不仅面临交易的特殊\n风险，而且还面临信贷和融资环境带来的系统性风险。这个风险因素很难与资产回报的任何特定时间序列关\n联。相反，这是一个“软因素”，必须从不同的来源收集信息，范围从信贷和流动性利差到大量数据和传闻\n。 系统性的资金流动性风险无处不在。其他对融资环境的“潜在”因素敏感的资产类型或策略包括房地产\n，可转换债券和统计套利。房地产是寿命最长的资产之一。因此，按揭（由房地产抵押的贷款）一般是长期\n摊销的固定利率贷款。例如，典型的房屋抵押贷款是一种30年期的固定利率贷款。当贷款惯例背离该标准且\n短期贷款占主导地位时，贷方和借款人都面临资金流动性风险，因为借款人除非能够再融资，否则不太可能\n偿还。这种风险主要是系统性的，因为它可能同时影响所有借方和贷方。”",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Systematic Funding Liquidity Risk, Systemic Risk, Credit and Financing Conditions",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "70",
+        "question_text": "Since the financial crisis of 2007-2009, the cross-currency basis for most major currencies\nrelative to the U.S. dollar (USD) has consistently been:",
+        "image": "",
+        "options": {
+            "A": "A.Equal to zero.",
+            "B": "B.Greater than the interest rate differential.",
+            "C": "C.Greater than zero for the USD interest rate.",
+            "D": "D.Greater than the forward premium on the USD."
+        },
+        "answer": "C",
+        "explanation": "Since the 2007-2009 crisis, the USD has tended to command a premium relative to the\nforeign currency (FC) in FX swaps; the party lending USD can sell the FC forward at a price F\nthat is higher than indicated by the interest rate differential. That means the cross-currency\nswap basis has been greater than zero.自2007年至2009年的金融危机以来，在外汇掉期交易中，美元相\n对于外币（FC）存在溢价； 放款方可以以高于利率差指标的价格F出售FC远期合约。 这意味着交叉货币掉期\n基差大于零。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Foreign exchange risk, Cross-currency basis, Financial crisis effects on FX markets",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "71",
+        "question_text": "Pasquini Investments (Pasquini) is a private brokerage looking for 30-day financing of $25\nmillion of its accounts payable but is unsure whether the appropriate investment is a term\nrepurchase agreement (repo) or a term reverse repo agreement. Pasquini is willing to post AAA-\nrated government bonds as collateral. The bonds have a face value of $27 million and a market\nvalue of $25 million. The firm is quoted a rate of 0.5% for the transaction. Which of the\nfollowing choices most accurately reflects the contract type and the contract price needed by\nPasquini?",
+        "image": "",
+        "options": {
+            "A": "A.Repo\\t\\t\\t$27,011,250",
+            "B": "B.Reverse Repo\\t\\t$25,010,417",
+            "C": "C.Repo\\t\\t\\t$25,010,417",
+            "D": "D.Reverse Repo\\t\\t$27,011,250"
+        },
+        "answer": "C",
+        "explanation": "$$\n25,000,000*(1+\\frac{0.5\\%*30}{360}) = 25,010,417\n$$",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Repo and Reverse Repo Agreement, Collateral Management, Financing Arrangements",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "72",
+        "question_text": "Venkat explains that \"all risk management frameworks start with a governance structure that\ndefines the roles and responsibilities of various bank employees and committees in overseeing\nrisk-related activities,\" and effective governance includes the oversight of intraday liquidity\nrisk. In regard to the governance structure of intraday liquidity risk management which of the\nfollowing statements is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.Intraday liquidity risk should be accepted as a cost of doing business",
+            "B": "B.Roles and responsibilities should be defined within the eight lines (i.e., two times four) of\ndefense model",
+            "C": "C.PCS Systems should only be a source of funds; if PCS becomes a use of funds, then a yellow\nflag should be triggered",
+            "D": "D.Intraday liquidity risk should be incorporated in the risk taxonomy and is a component of"
+        },
+        "answer": "D",
+        "explanation": "Intraday liquidity risk should be incorporated in the risk taxonomy and is a\ncomponent of risk self-assessment including settlement risks日内间流动性风险应纳入风险分类法中\n，并且是风险自我评估（包括结算风险）的组成部分。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Governance structure in risk management, Intraday liquidity risk management, Risk taxonomy",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "73",
+        "question_text": "Duffie explains the similarities between a classic depositor run at a commercial bank and\nthe failure mechanisms for dealer banks: \"The relationships between a dealer bank and its\nderivatives counterparties, prime-brokerage clients, potential debt and equity investors,\nclearing bank, and other clients can change rapidly if the solvency of the dealer bank is\nthreatened. The concepts at play are similar to those of a depositor run at a commercial bank.\nThat is, fears over the solvency of the bank lead others to act so as to reduce their potential\nlosses in the event of the bank’s default. Unlike insured depositors at a commercial bank,\nmany of those with exposures to dealer banks have no default insurance, or do not wish to bear\nthe frictional costs of involvement in the bank’s failure procedures even if they do have\ninsurance. The key mechanisms that lead to the failure of a dealer bank are the flight of\nshort-term creditors, the departures of prime-brokerage clients, various cash-draining actions\nby derivatives counterparties that are designed to lower their exposures to the dealer bank,\nand finally and most decisively, the loss of clearing-bank privileges.\" In regard to these\nfailure mechanisms, which of the following statements is TRUE?",
+        "image": "",
+        "options": {
+            "A": "A.The contractual \\\"right to offset\\\" guarantees that a dealer bank will retain cash settlement\nprivileges",
+            "B": "B.During the financial crisis, the flight (aka, exit) of prime brokerage clients paradoxically\nreduced the stress on major dealer banks like Morgan Stanley by reducing their balance sheets\nand therefore their exposure",
+            "C": "C.A dealer bank who finances long-term assets with overnight repos (e.g., where the\ncounterparties are money-market funds, securities borrowers, and other dealers) can experience\nfunding liquidity problems if haircuts suddenly decrease",
+            "D": "D.In the case of Lehman, over-the-counter (OTC) derivative contracts were exempted by law as"
+        },
+        "answer": "D",
+        "explanation": "In the case of Lehman, over-the-counter (OTC) derivative contracts were exempted by\nlaw as “qualifying financial contracts” from the automatic stay at bankruptcy that holds up\nother creditors of a dealer, which resulted in a large post-bankruptcy drain on the defaulting\ndealer.在雷曼兄弟的案例中，场外（OTC）衍生品合约被法律豁免为“合格金融合约”，从而免于破产程序\n中的“自动中止”，拖累了交易商的其他债权人，导致违约交易商大量破产流失。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Counterparty Risk, Bankruptcy and Insolvency, Funding Liquidity Risk",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "74",
+        "question_text": "Rankcon is a repo investor in the money market mutual fund industry with the exclusive\nmotive of cash management. As Fabozzi explains, \"Investors holding cash for liquidity or\nsafekeeping purposes often find investing in repo to be an ideal solution. The most significant\nexample of this is the money market mutual fund industry, which invests on behalf of investors\nwilling to accept relatively low returns in exchange for liquidity and safety. [A money market\nfund would lend money while taking collateral and then, at maturity, collect the loan plus\ninterest and return the collateral.] Holding collateral makes the lender less vulnerable to the\ncreditworthiness of a counterparty because, in the event of a default by the counterparty, the\ninvestor (e.g., the money market fund) can sell the repo collateral to recover any amounts\nowed. In summary, relative to super-safe and liquid non-interest-bearing bank deposits, repo\ninvestments pay a short-term rate without sacrificing much liquidity or incurring significant\ndefault risk.\" Given this motivation, Rankcon understandably employs each of the following\ncriteria (or preference) with respect to its repo investments EXCEPT which is the LEAST likely\npreference?",
+        "image": "",
+        "options": {
+            "A": "A.Rankcon insists on a sufficient (i.e., greater rather than lesser) collateral haircut",
+            "B": "B.Rankcon only accept securities with the highest credit quality; e.g., debt of government-\nsponsored entities (GSEs)",
+            "C": "C.Rankcon refuses to accept general collateral (at general collateral repo rates) and instead\ninsists on particular securities with delineated asset classes",
+            "D": "D.Rankcon places a premium on liquidity so tends to lend overnight rather than for term; or, if"
+        },
+        "answer": "C",
+        "explanation": "\"While repo investors care about the quality of the collateral they accept, they do\nnot usually care about which particular bond they accept. Hence, while repo investors can be\nvery particular about which classes of securities they will take as collateral, e.g., Euro-area\ngovernment bonds with less than five years to maturity, they will not insist on receiving any\nparticular security within that delineated class. For this reason these investors are said to\naccept general collateral, which trades at general collateral repo rates. The types and\ndetermination of repo rates are discussed later in this chapter.\"“回购投资者虽然在乎所接受抵押\n品的质量，但通常并不要求特定债券。因此，尽管回购投资者可能会非常在乎他们将选择哪种证券作为抵押\n品，例如期限少于五年的欧元区域政府债券，但他们不会坚持要求该类别下的某种特定证券，因此，这些投\n资者接受以一般抵押品回购利率交易的一般抵押品。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Collateral in repo transactions, Credit risk in money market investments, Liquidity preferences in short-term lending",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "75",
+        "question_text": "At initiation of a repurchase agreement (repo), Counterparty A sells a security to\nCounterparty B for settlement on June 1st, 2015 at an invoice price of USD 180.0 million. At\nthe same time, Counterparty A agrees to repurchase the security three months later, for\nsettlement on September 1st, 2015, at a purchase price equal to the original invoice price plus\ninterest at a repo rate of 0.90%. Using the actual/360 convention of most money market\ninstruments, which is nearest to the repurchase price?",
+        "image": "",
+        "options": {
+            "A": "A.$414,000",
+            "B": "B.$180,000,000",
+            "C": "C.$180,414,000",
+            "D": "D.$181,620,000"
+        },
+        "answer": "C",
+        "explanation": "$180,414,000 = 180,000,000 * (1 + 0.0090 * 92/360); there are 92 actual days\nbetween June 1st and September 1st as both July and August have 31 days (30*3 + 2 =\n92).$180,414,000 = 180,000,000 *（1 0.0090 * 92/360）; 6月1日到9月1日之间实际有92天，因为7月和\n8月都有31天（30 * 3＋2 = 92）。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Repurchase Agreements, Money Market Instruments, Interest Rate Conventions",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "76",
+        "question_text": "Each of the following is a source (i.e., cause) of transactions liquidity risk EXCEPT which\nis not?",
+        "image": "",
+        "options": {
+            "A": "A.Inventory management by dealers",
+            "B": "B.Adverse selection",
+            "C": "C.Depth of resiliency",
+            "D": "D.Differences of opinion"
+        },
+        "answer": "C",
+        "explanation": "Tightness, depth and resiliency are characteristics (i.e., measures), not causes,\nof market liquidity; also, depth of resiliency is awkward.紧密度，深度和弹性是市场流动性的特征\n（即度量），而非原因； 而且，弹性深度这个表述不太合适。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market liquidity, Transactions liquidity risk, Market microstructure",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "77",
+        "question_text": "A bank has a portfolio of short-term bonds. Holding the bank's earning assets and cost of\nfunds constant, in a rising interest rate environment, the bank's:",
+        "image": "",
+        "options": {
+            "A": "A.Nll and NIM will remain steady.",
+            "B": "B.Nll and NIM will decline.",
+            "C": "C.Nll and NIM will increase.",
+            "D": "D.Nll will decrease and NIM will increase."
+        },
+        "answer": "C",
+        "explanation": "The short-term bonds (assets) will reprice while the cost of funds holds steady,\nincreasing Nll and NIM.短期债券（资产）将重新定价，而资金成本保持稳定，Nll和NIM会增加。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Interest Rate Risk, Net Interest Margin (NIM), Bond Repricing",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "78",
+        "question_text": "Peter's startup company has built a new exchange platform that enables participants to trade\nderivatives on certain cryptocurrencies. Peter knows that market participants have a strong\npreference for continuous liquidity, and conversely, participants will avoid a market that\nsuffers a lack of liquidity. Peter is preparing a marketing brochure to promote the new\nexchange. If his goal is to promote the exchange's well-functioning liquidity features, which\nof the following feature is most likely to be promoted in the brochure; i.e., which feature\ncontributes to a stable market with respect to liquidity?",
+        "image": "",
+        "options": {
+            "A": "A.Stop loss rules",
+            "B": "B.Trend trading",
+            "C": "C.Liquidity black hole",
+            "D": "D.Negative feedback traders"
+        },
+        "answer": "D",
+        "explanation": "Negative feedback traders contribute to a liquid market In regard to (A), (B) and\n(C), each may contribute to an illiquid and/or less stable market.负反馈交易员有助于市场流动性\n关于（A），（B）和（C），每个市场都可能造成流动性不足和/或不稳定的市场。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Market Liquidity, Trading Strategies, Market Stability",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "79",
+        "question_text": "Illiquidity risk premiums compensate investors for the inability to access capital\nimmediately and/or for the market's withdrawal of liquidity during a crisis. There are four\ndifferent ways that an investor (asset owner) might capture or \"harvest\" the illiquidity\npremium. However, among these four, which is the simplest to implement and has the greatest\nimpact on portfolio returns?",
+        "image": "",
+        "options": {
+            "A": "A.Dynamic rebalancing at the aggregate level",
+            "B": "B.Market making at the individual security level",
+            "C": "C.Holding less liquid securities within asset classes",
+            "D": "D.Holding passive allocations to illiquid asset classes"
+        },
+        "answer": "A",
+        "explanation": "The \"dynamic strategy at the aggregate portfolio level\" approach is the easiest to\nimplement and has the greatest impact on portfolio returns.资产所有者可以通过四种方式获取非流动\n性溢价：（1）投资非流动资产类别，如房地产；（2）在同一资产类别内选择相对流动性差的证券投资\n；（3）在单个证券层面充当做市商；（4）通过在总投资组合层面进行动态策略。其中，“通过在总投资组\n合层面进行动态策略”这一方式是最简单的实现方式，对投资组合回报的影响最大。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Illiquidity risk premium, Portfolio rebalancing strategies, Asset class liquidity",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "80",
+        "question_text": "Experienced liquidity managers tend to employ one of three strategies: asset liquidity\nmanagement (aka, asset conversion), borrowed liquidity (aka, purchased liquidity or liability\nmanagement), or balanced liquidity management. About these strategies, each of the following\nstatements is true EXCEPT which is false?",
+        "image": "",
+        "options": {
+            "A": "A.A liquid asset has a ready market, a reasonably stable price and is reversible",
+            "B": "B.If a bank's primary goal is to avoid shrinking its balance sheet (and weakening the\nappearance of the balance sheet), then a borrowed liquidity strategy is better than an asset\nliquidity strategy",
+            "C": "C.If a bank's primary goal is to minimize risk, then a borrowed liquidity strategy is better\nthan an asset liquidity strategy",
+            "D": "D.A balanced liquidity strategy balances the opportunity cost associated with storing liquidity"
+        },
+        "answer": "C",
+        "explanation": "Instead, if a bank's primary goal is to minimize risk, then an asset liquidity\nstrategy is better than a borrowed liquidity strategy.相反，如果银行的主要目标是最大程度地降低\n风险，那么资产流动性策略要比借入流动性策略更好。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Liquidity management strategies, Asset liquidity management, Borrowed liquidity strategy",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "81",
+        "question_text": "Over the next 24 hours, Greenlux State Bank estimates that the following cash inflows and\noutflows (all figures in millions) will occur:\n \n \nWhat is the bank's projected net liquidity position?",
+        "image": "/Users/liuchunhou/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/49cd41f51f229ad5bae63e100a63b451/Message/MessageTemp/de6bcf2908ad63797f4d27f06fe84528/File/data/FRM基础/LiquidityandTreasuryRiskMeasurementandMan_images/81u.png",
+        "options": {
+            "A": "A.-30.0 million",
+            "B": "B.+10.0 million",
+            "C": "C.+40.0 million",
+            "D": "D.+90.0 million"
+        },
+        "answer": "B",
+        "explanation": "Inflows include:Deposit inflows = 100 +Scheduled loan repayments = 60 +Borrowings\nfrom the money market = 80 +Sales of bank assets = 30 +Revenues from sale of nondeposit\nservices = 10;for total inflows of $100 + $60 + $80 + $30 + $10 = 280.0 million.Outflows\ninclude: Deposit withdrawals = 70 +Acceptable loan requests = 90 +Stockholder dividend payments\n= 20 +Repayment of bank borrowings = 50 +Operating expenses = 40;for total outflows of $70 +\n$90 + $20 + $50 + $40 = $270.0 millionTherefore, the projected net liquidity position = $280 -\n270 = +10.0 million.现金流入包括：存款流入= 100＋预定的还贷= 60＋来自货币市场的借贷= 80＋出售银\n行资产= 30＋销售非存款服务的收入= 10；总流入：$ 100＋$ 60＋$ 80＋$ 30＋$ 10 = 280.0 million现金\n流出包括：存款取款= 70＋可接受的贷款要求= 90＋股东股利支付= 20＋偿还银行借款= 50＋运营支出=\n40；总流出：$ 70＋$ 90＋$ 20＋$ 50＋$ 40 = $ 270.0 million因此，预计净流动资金头寸 = $ 280-$\n270 =  $ 10.0 million",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Liquidity Management, Cash Flow Analysis, Net Liquidity Position Calculation",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "82",
+        "question_text": "The bid-ask spread is USD 0.350 on an asset with a current price of USD 50.00 per share. The\nspread itself is normally distributed with mean of zero and volatility of 20 basis points\n(0.20%). Which is nearest to the 99 percent confidence interval on the transaction costs?",
+        "image": "",
+        "options": {
+            "A": "A.$0.08510",
+            "B": "B.$0.29130",
+            "C": "C.$1.05560",
+            "D": "D.$3.82400"
+        },
+        "answer": "B",
+        "explanation": "如下：$0.29130 = $50.00 * 0.5 * (0.350/50.00＋2.326*0.0020)",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Market Risk Measurement, Bid-Ask Spread, Confidence Intervals",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "83",
+        "question_text": "Which of the following best describes one of the major challenges for banks in implementing\nan effective LTP process?",
+        "image": "",
+        "options": {
+            "A": "A.A decentralized LTP process is recommended to mitigate arbitrage opportunities for different\nbusiness units.",
+            "B": "B.Illiquid long-term assets should be penalized for increasing liquidity risk.",
+            "C": "C.Performance evaluations of business unit managers should be separate from the LTP process.",
+            "D": "D.A liquidity management information system (LMIS) should produce and monitor high-quality"
+        },
+        "answer": "B",
+        "explanation": "A major challenge in implementing an effective LTP process is properly accounting\nfor the cost of liquidity in funding illiquid long-term assets and crediting business units\nthat create benefits of liquidity through deposits. Liquidity costs, benefits, and risks should\nbe considered in rewarding manager performance. The LMIS should create monthly reports not\nquarterly reports. Centralized treasury funding oversight is recommended to reduce business\nunit arbitrage opportunities.实施有效的LTP流程的主要挑战是，应适当地考虑为非流动性长期资产提供\n资金所需的流动性成本，以及为通过存款创造流动性收益的业务部门提供信贷的流动性成本。 在奖励经理业\n绩时应将流动性成本，收益和风险纳入考虑范围。 LMIS应该提供每月报告，而不是季度报告。 建议进行集\n中的国库资金监督，以减少业务部门的套利机会。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Long-Term Planning (LTP) Process, Managerial Performance Evaluation",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "84",
+        "question_text": "Duffie explains that the main business lines of large dealer banks are: (1) securities\ndealing, underwriting, and trading; (2) over-the-counter derivatives; and (3) prime brokerage\nand asset management. About these main business lines, each of the following statements is true\nEXCEPT which is false?",
+        "image": "",
+        "options": {
+            "A": "A.A tri-party repo agreement (between the dealer, the investor and a clearing bank) is used to\nmitigate counterparty risk and\\/or reduce burden of collateral management",
+            "B": "B.For most over-the-counter (OTC) derivatives, one of the counterparties is a dealer who\ntypically lays off much (or all) of the risk of its client-initiated trades by running a\nmatched book",
+            "C": "C.With respect to over-the-counter (OTC) derivatives, the best measure of their systemic risk\nis the total market value of all outstanding contracts; further, master swap agreements do not\nreduce their actual risks (although they do lower the administrative burden of OTC derivative\ncontracts)",
+            "D": "D.Some large dealers are Prime Brokers who provide clients a range of services including"
+        },
+        "answer": "C",
+        "explanation": "Doubly false. Master swap agreements reduce risk via netting and standardized\ncollateral arrangements; further, the total market value of all derivative contracts is zero.主\n掉期协议通过净额结算和标准化的抵押品安排来降低风险;此外，所有衍生品合约的总市值为零。",
+        "QA type": "Knowledge Reasoning QA",
+        "knowledge topics": "Over-the-counter (OTC) derivatives, Counterparty risk, Risk mitigation",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    },
+    {
+        "question_number": "85",
+        "question_text": "Which of the following statements regarding contingent funding plans (CFPs) is correct?",
+        "image": "",
+        "options": {
+            "A": "A.CFPs are linked to liquidity stress tests through their limit structures.",
+            "B": "B.CFPs are used for high-severity, high-frequency contingent liquidity events.",
+            "C": "C.CFPs allow for a means to control contingent liquidity events in normal times.",
+            "D": "D.Liquidity risk measures used during normal times are a baseline for developing early warning"
+        },
+        "answer": "A",
+        "explanation": "CFPs should be clearly liked to the liquidity stress tests through its limit\nstructure and escalation levels. CFPs are used for high-severity, low-frequency events (not\nhigh-frequency events). CFPs allow for a means to control for contingent liquidity events in\ntimes of extreme stress (not normal times). Liquidity risk measures used during stressed times\n(not normal circumstances) are a baseline for developing EWIs.CFPs用于高强度、低频率事件(而不是\n高频率事件)。CFPs允许在极端压力时期(而非正常时期)对或有流动性事件进行控制。在经济困难时期(非正\n常情况下)使用的流动性风险度量是开发EWIs的基准。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Liquidity Risk Management, Stress Testing, Contingency Planning",
+        "book label": "Liquidity and Treasury Risk Measurement and Man1",
+        "level of difficulty": "easy",
+        "question type": "text only"
+    }
+]

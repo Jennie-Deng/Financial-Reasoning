@@ -1,0 +1,794 @@
+[
+    {
+        "question_number": "1",
+        "question_text": "Jamison and Bronson are applying for the residential mortgage loans in National Savings, a\nlarge local bank. Generally, the bank’s decisions of making loans or not is independent among\nborrowers, but not independent in a recessionary condition. In normal conditions, Jamison has a\nprobability of 70% to get the mortgage successfully, and Bronson has a probability of 80%.\nWhile in the recessionary economy, the bank is going to reduce the loan scale. Thus, Jamison\nwould have a lower probability of 30%, and Bronson would have a rate of 35%. Based on the\ninformation above, Jamison makes three statements:Statement 1: There is a probability of 56%\nthat both of them could get mortgages from the bank generally.Statement 2: Because the bank’s\ndecisions of making loans are unconditionally independent, hence they must be conditionally\nindependent.Statement 3: There is a probability of 10.5% that they could get mortgages from the\nbank when the economy is in recession.How many of the statements above is(are) correct?",
+        "image": "",
+        "options": {
+            "A": "A.0.",
+            "B": "B.1.",
+            "C": "C.2.",
+            "D": "D.3."
+        },
+        "answer": "B",
+        "explanation": "Answer: B该题主要考点为条件独立和无条件独立的判断。对于statement 1，在通常情况下\n，银行发放贷款的决策可以认为是独立的，根据独立事件联合概率等于各自概率的乘积，可以得到Jamison和\nBronson都可以成功获得贷款的概率是 。对于statement 2，无条件独立不一定能推出条件独立，反之，条件\n独立也不一定得到无条件独立，所以第二句陈述错误。对于statement 3，在经济衰退的时候，由于银行预期\n缩减贷款规模，因而是否发放贷款给Jamison和Bronson的决策不再独立，不满足无条件独立性。此时求解在\n经济衰退的情况下他们同时获得贷款的概率不能直接用两个条件概率相乘（　）。所以第三句陈述错误。因\n此，第一句陈述正确，第二句和第三句陈述错误，B选项正确。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Conditional Independence, Unconditional Independence, Joint Probability",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "2",
+        "question_text": "Bond A and Bond B have the same rating and probability of default. The estimated probability\nthat both bonds will default during the next year is 5%. If Bond A defaults next year, there is\na 50% probability that Bond B will also default. What is the probability that neither Bond A\nnor Bond B will default over the next year?",
+        "image": "",
+        "options": {
+            "A": "A.75%.",
+            "B": "B.80%.",
+            "C": "C.85%",
+            "D": "D.95%."
+        },
+        "answer": "C",
+        "explanation": "Answer: C\n\n该题主要考点为概率运算规则的应用。\n\n首先根据题目定义以下事件概率：\n- $P(A)$: Bond A 的连锁概率；\n- $P(B)$: Bond B 的连锁概率；\n- $P(AB)$: Bond A 和 Bond B 都发生连锁的概率。\n\n由题目已知条件可知：\n$$\nP(AB) = 5\\%, P(B|A) = 50\\%.\n$$\n\n根据乘法法则：\n$$\nP(A) = \\frac{P(AB)}{P(B|A)} = \\frac{5\\%}{50\\%} = 10\\%.\n$$\n\n又由于 Bond A 和 Bond B 有相同的连锁概率，因此 $P(B) = 10\\%$。\n\n根据加法法则，Bond A 和 Bond B 都不发生连锁的概率为：\n$$\n1 - P(A + B) = 1 - [P(A) + P(B) - P(AB)] = 85\\%.\n$$\n\n因此正确选项为 C。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Credit risk, Default correlation, Joint probability",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "3",
+        "question_text": "To apply central tendency and dispersion analysis, the risk manager measures the mean and\nstandard deviation of the distribution of the exceedances. What is the mean and standard\ndeviation of the number of exceedances over a period of 250 trading days?",
+        "image": "",
+        "options": {
+            "A": "A.Mean= 6, standard deviation=2.475",
+            "B": "B.Mean= 2.5, standard deviation=1.573",
+            "C": "C.Mean=6, standard deviation=1.573",
+            "D": "D.Mean= 2.5, standard deviation=2.475"
+        },
+        "answer": "B",
+        "explanation": "Answer: B\n\n解开：该题主要考点为二项分布的性质。\n- 设$n$为二项分布实验的次数，由上题可知$n=250$。\n- 设$p$为每次实验中失败的概率，由上题可知$p=1\\%$。\n\n由二项分布的性质可知均值和标准差分别为：\n\nMean = $n \\times p = 250 \\times 1\\% = 2.5.$\n\nStandard deviation = $\\sqrt{n \\times p \\times (1-p)} = \\sqrt{250 \\times 0.01 \\times 0.99} = 1.573.$\n\n因此正确选项为B.",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Descriptive statistics, Probability distributions, Risk measurement techniques",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "5",
+        "question_text": "An operational risk manager uses the Poisson distribution to estimate the frequency of losses\nin excess of USD 2 million during the next year. It is observed that the frequency of losses\ngreater than USD 2 million is 3 per year on average over the last 10 years. If this observation\nis indicative of future occurrences and all the losses are independent of each other, what is\nthe probability of at most one loss over USD 2 million occurring during the next two years?",
+        "image": "",
+        "options": {
+            "A": "A.1.01%",
+            "B": "B.1.40%",
+            "C": "C.1.61%",
+            "D": "D.1.74%"
+        },
+        "answer": "D",
+        "explanation": "Answer: D\n\n解答: 该题主要考虑泊松分布的应用。泊松分布概率函数如下：\n\n$$\nP(X = K) = \\frac{\\lambda^k e^{-\\lambda}}{k!}\n$$\n\n其中表示在时间内事件发生的平均次数。在本题中平均损失超过 $2\\text{ million}$ 的次数 $\\lambda$，因此在 $2$ 年内的损失超过 $2\\text{ million}$ 的平均次数为 $\\lambda = 2 \\times 3 = 6$。\n\n由于题目要求在接下来的两时间范围内，至少有 $1$ 次损失超过 $2\\text{ million}$ 的概率。因此设随机变量 $X$ 的取值为 $1$ 和 $0$，因此根据泊松分布概率函数可以得到：\n\n$$\nP(X = 0 \\text{ or } 1) = \\frac{6^0 e^{-6}}{0!} + \\frac{6^1 e^{-6}}{1!} = 6 \\times e^{-6} = 0.01735\n$$\n\n因此此次选项为 D。",
+        "QA type": "**math reasoning QA**",
+        "knowledge topics": "Operational Risk, Poisson Distribution, Probability Analysis",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "6",
+        "question_text": "Jackson Lu, FRM, participates in a shareholders’ meeting of HITE Inc., a company he follows.\nIn the meeting, the board announces that the company has a probability of 60% to pay dividend\nif the economy blooms in the next quarter, or a probability of 30% if the economy oscillates\ncontinuously. An economist predicts the economy has a probability of 20% to trend upward, and\n80% to oscillate. Based on his understanding of the company, what is the probability that the\neconomy actually blooms on the condition that HITE Inc. pays dividend?",
+        "image": "",
+        "options": {
+            "A": "A.33%.",
+            "B": "B.72%.",
+            "C": "C.66%.",
+            "D": "D.45%"
+        },
+        "answer": "A",
+        "explanation": "本题主要考点为全概率公式和贝叶斯公式的应用。\n\n- 定义：设下跌经济走势为事件 $A$，\"市场震荡\" 则为事件 $B$。已知 $P(A) = 20\\%$，$P(B|A) = 80\\%$，$P(B|A^c) = 60\\%$。\n\n- 根据全概率公式可以得到公司及发行股息的无条件概率为：\n\n$$\nP(B) = P(A) \\cdot P(B|A) + P(A^c) \\cdot P(B|A^c) = 20\\% \\cdot 60\\% + 80\\% \\cdot 36\\% = 36\\%\n$$\n\n- 根据贝叶斯公式，在公司会发行股息的条件下，经济走势的概率 $P(A|B)$ 为：\n\n$$\nP(A|B) = \\frac{P(B|A) \\cdot P(A)}{P(B)} = \\frac{80\\% \\cdot 20\\%}{36\\%} = \\frac{33\\%}{100} = 33\\%\n$$\n\n因此，正确选项为 $A$。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Bayes' Theorem, Conditional Probability, Probability Theory",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "8",
+        "question_text": "The following graphs show the cumulative distribution function (CDF) of four different random\nvariables. The dotted vertical line indicates the mean of the distribution. Assuming each\nrandom variable can only be valued between -10 and 10, which of the following distributions has\nthe highest variance?",
+        "image": "",
+        "options": {
+            "A": "QuantitativeAnalysis_images/8A.png",
+            "B": "QuantitativeAnalysis_images/8B.png",
+            "C": "QuantitativeAnalysis_images/8C.png",
+            "D": "QuantitativeAnalysis_images/8D.png"
+        },
+        "answer": "D",
+        "explanation": "Answer: D本题主要考点为累积分布函数（CDF）与方差大小的关系。方差（variance）衡量的\n是随机变量偏离均值的离散程度。在上述四个图形当中，选项D中的累计分布函数与横坐标轴和虚线围成的面\n积最大，表明随机变量在概率分布中偏离均值的比例更多。因此正确选项为D。对于选项A和B，累计分布函数\n在围绕均值附近的变化较为陡峭，表明随机变量更多的集中分布在均值附近，此时方差较小。因此，该选项\n错误。对于选项C，累计分布函数与横坐标轴和虚线围成的面积小于选项D，表明随机变量在概率分布中偏离\n均值的比例小于选项D，因此方差小于选项D。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Cumulative Distribution Function (CDF), Variance, Probability Distribution",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "9",
+        "question_text": "Olive, FRM is concerned with using common measures such as four named moments, quantiles,\ninterquartile range to describe features of the observed data. Concerning properties of these\nmeasures, she has made the following two statements:Statement 1: The interquartile range (IQR)\nis defined as the difference between the 75% and 25% quantiles.Statement 2: Although random\nvariables can be heavily fat-tailed, the interquartile range is robust to apply and well-\ndefined.Statement 3: The interquartile range (IQR) is usually used to measure the central\ntendency of the observed data.Statement 4: The interquartile range (IQR) is a measure of\ndispersion that is comparable to the standard deviation.How many statements above is/are most\nlikely correct?",
+        "image": "",
+        "options": {
+            "A": "A.1",
+            "B": "B.2",
+            "C": "C.3",
+            "D": "D.4"
+        },
+        "answer": "C",
+        "explanation": "Answer: C本题主要考点为分位数相关内容的定性判断。对于Statement 1，四分位矩（IQR）被\n定义为75%分位数与25%分位数的差值。故该陈述正确。对于Statement 2，即使变量分布为严重肥尾，分位数\n也不受极端值影响，总是可以被明确定义，能够稳健地得到使用。故该陈述正确。四分位矩（IQR）是75%和\n25%的分位数之差，与标准差类似，反映的是观测值的离散程度而非中心趋势。故陈述3错误，陈述4正确。因\n此，有三个陈述正确，正确答案为C。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Measures of central tendency, Measures of dispersion, Quantiles",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "11",
+        "question_text": "Both probability density function (PDF) and cumulative distribution function (CDF) are used\nto find the probability that a continuous random variable lies in a certain range. However,\nthere is a major difference between these two functions. Given this CDF, which of the following\nwould most likely be the PDF of this continuous random variable and what kind of distribution\ndoes this variable follow?",
+        "image": "QuantitativeAnalysis_images/11u.png",
+        "options": {
+            "A": "QuantitativeAnalysis_images/11A.png",
+            "B": "QuantitativeAnalysis_images/11B.png",
+            "C": "QuantitativeAnalysis_images/11C.png",
+            "D": "QuantitativeAnalysis_images/11D.png"
+        },
+        "answer": "C",
+        "explanation": "Answer: C解析：该题主要考点为累计分布函数（CDF）与概率密度函数（PDF）之间的关系。在\n累计分布函数（CDF）图形中，累计概率以恒定的速率上升之后呈现水平状态，表明其对应的概率密度函数\n（PDF）在特定区间内随机变量是等概率发生的。其对应的分布应为均匀分布（Uniform Distribution）。因\n此正确选项为C。对于选项A、B、D，其概率密度函数图形显示出随机变量在尾部发生的概率小，在中间区域\n则发生的概率高，即随机变量在特定区间内并不是等概率发生的。因此这些选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Probability Density Function (PDF), Cumulative Distribution Function (CDF), Uniform Distribution",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "12",
+        "question_text": "A risk analyst is assessing the return distribution for an investment portfolio. Compared to\na normal distribution, the return distribution for this portfolio has identical expectation and\nvariance, but it has a relatively large number of observations in both tails, and the\nobservations in the right tail outnumber those in the left tail. Which of the following\nstatements best describes the distribution’s characteristics?",
+        "image": "",
+        "options": {
+            "A": "A.Positively skewed and Leptokurtic.",
+            "B": "B.Negatively skewed and Leptokurtic.",
+            "C": "C.Positively skewed and Platykurtic.",
+            "D": "D.Negatively skewed and Platykurtic."
+        },
+        "answer": "A",
+        "explanation": "Answer: A本题主要考点为偏度（skewness）和峰度（kurtosis）的判断。由于题目中回报的概\n率分布与正态分布的期望和方差相同，但是在双尾有更多的观察值，表明该分布呈现出肥尾的形状，符合尖\n峰态（Leptokurtic）的特征。又由于该分布在右尾的观测值超过左尾的观测值，表明该分布呈现出正偏\n（Positively skewed）的形状。因此正确选项为A。(0)",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Skewness, Kurtosis, Return Distribution Analysis",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "14",
+        "question_text": "A risk manager is backtesting a firm’s model for estimating 1-day 99% VaR and observes five\nexceedances over the prior 150 trading days. Assuming the model is correctly calibrated, and\nall the exceedances are independent of each other, what is the probability that there are\nexactly six exceedances over a period of 250 trading days?",
+        "image": "",
+        "options": {
+            "A": "A.0.84%",
+            "B": "B.2.75%",
+            "C": "C.36.97%",
+            "D": "D.39.25%"
+        },
+        "answer": "B",
+        "explanation": "该题主要考虑为三项分布的概率计算。\n\n定义 $n$ 为观测时间段的数量，$p$ 为损失超过 VaR 值的概率。$1$ 天 $99\\%$ 的 VaR 表示 $1$ 天当中，损失超过 VaR 值的概率为 $1\\%$。即 $p=0.01$。问题是 $250$ 天当中有 $6$ 天损失超过 VaR 值的概率可以简化为二项分布参数 $n=250, p=1\\%$ 的情况，计算如下：\n\n$$\nP(X = 6) = C_{250}^{6} (0.01)^{6} (0.99)^{244} = 2.75\\%\n$$\n\n因此，选择 B 正确。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "VaR (Value at Risk), Backtesting, Probability Theory",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "15",
+        "question_text": "Which of the following statements is the most accurate about the relationship between a\nnormal distribution and a Student’s t-distribution that have the same mean and standard\ndeviation?",
+        "image": "",
+        "options": {
+            "A": "A.They have the same skewness and the same kurtosis.",
+            "B": "B.The Student\\u2019s t-distribution has a larger skewness and a larger kurtosis.",
+            "C": "C.The kurtosis of a Student\\u2019s t-distribution converges to that of the normal distribution\nas the number of degrees of freedom increases.",
+            "D": "D.Given the same confidence level, t-distribution has a narrower confidence interval than z-"
+        },
+        "answer": "C",
+        "explanation": "Answer: C解析：该题主要考点为正态分布和t分布的性质。当自由度上升时，t分布趋近正态分\n布，其峰度也趋近正态分布，因此正确选项为C。对于选项A，在均值与方差相等的前提下，正态分布与t分布\n都是对称分布，因此二者偏度相等都为0；而t分布相对正态分布呈现出肥尾状态，因此峰度更高，所以二者\n峰度并不相等。因此，该选项错误。对于选项B，t分布与正态分布偏度相同，峰度不同。因此，该选项错误\n。对于选项D，置信度相同时，t分布相对正态分布有更宽的置信区间。因此，该选项错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Normal distribution, Student’s t-distribution, Skewness and kurtosis",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "18",
+        "question_text": "Benjamin has just graduated from college and joined in a well-known investment bank. As an\noutstanding graduate, Benjamin is asked to give a lecture regarding distributions commonly used\nin finance to sophomores who also major in finance. When reviewing related topics, Benjamin\nfinds out several points that are frequently misunderstood. He plans to do a quick quiz about\nthose points during the lecture. If you are one of the students, which of the following\nstatements is most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.T-distribution and F-distribution are frequently used in hypothesis test. When testing the\nhypothesis of equality of two means, we\\u2019d better use t-distribution. Besides, t-\ndistribution is more suitable in a joint test than F-distribution.",
+            "B": "B.The graphs of PDFs (probability density functions) for lognormal distribution, X2distribution\nand F-distribution are alike, all of which are left skewed and bounded from below by zero.",
+            "C": "C.Lognormal distribution is used to model asset returns or profit\\/loss.",
+            "D": "D.When two normal distributions are mixed, the mixed distribution may be skewed."
+        },
+        "answer": "D",
+        "explanation": "解析: 本题主要考虑为标准正态分布的应用。\n\n(1) 计算单个资产的权重:\n$$\nW_A = \\frac{40,000}{40,000 + 60,000} = 0.4; \\quad W_B = \\frac{60,000}{40,000 + 60,000} = 0.6\n$$\n\n(2) 计算投资组合的标准差:\n$$\n\\sigma_p = \\sqrt{W_A^2 \\sigma_A^2 + W_B^2 \\sigma_B^2 + 2 W_A \\sigma_A W_B \\sigma_B \\rho} = \\sqrt{0.4^2 \\times 0.16 + 0.6^2 \\times 0.22 + 2 \\times 0.4 \\times 0.16 \\times 0.6 \\times 0.3} = 15.2\\%\n$$\n\n(3) 计算投资组合的期望收益率:\n$$\nR_p = 0.4 \\times 0.08 + 0.6 \\times 0.09 = 8.6\\%\n$$\n\n(4) 将投资组合回报率变化值 11.8% 进行标准化:\n$$\n\\frac{11.8\\% - 8.6\\%}{15.2\\%} = \\frac{3.2\\%}{15.2\\%} = 0.21\n$$\n\n(5) 求投资组合回报小于等于 11.7% 的概率可转化为标准正态分布下随机变量:\n$$\nP(X \\leq 0.21) = N(0.21)\n$$\n\n(6) 根据信息表可得 $N(0.21) = 58.32\\%$, 因此确定项 D.",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability Distributions, Hypothesis Testing, Financial Modeling",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "19",
+        "question_text": "Given that X and Y are random variables, and a, b, c, and d are constants, which of the\nfollowing statements is most likely incorrect?",
+        "image": "",
+        "options": {
+            "A": "QuantitativeAnalysis_images/19A.png",
+            "B": "QuantitativeAnalysis_images/19B.png",
+            "C": "QuantitativeAnalysis_images/19C.png",
+            "D": "QuantitativeAnalysis_images/19D.png"
+        },
+        "answer": "C",
+        "explanation":"Answer: C 本题主要考虑两变量的线性组合的方式，协方差和相关系数的性质。协方差的变化量变化后显然是 $$Cov(a + bX, c + dY) = bdCov(X, Y)$$ 因此，选项 C 描述错误，符合选项。对于 A 选项，$$[V(X_1 - X_2)] = V[X_1] + V[X_2] - 2Cov(X_1, X_2)$$，因此，该选项描述正确，不符合选项。对于 B 选项，$$V[aX_1 + bX_2] = a^2V[X_1] + b^2V[X_2] + 2abCov(X_1, X_2)$$，因此，该选项描述正确，为错误选项。对于 D 选项，相关系数是经过标准化得来的，且变量线性变化后满足 $$Corr(a + bX, c + dY) = \text{sign}(b) \\cdot \text{sign}(d) \\cdot Corr(X, Y)$$，如果 $b < 0$ 和 $d < 0$，则 $\text{sign(b)}\text{sign(d)}$ 取正号。因此，该选项描述正确，不符合选项，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Covariance and Correlation, Linear Combinations of Random Variables, Properties of Expectation and Variance",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "23",
+        "question_text": "Adam Farman has been asked to estimate the volatility of a technology stock index. He has\nidentified a sample statistic which has an expected value equal to the population volatility\nand has determined that increasing his sample size will decrease the sampling error for this\nstatistic. His statistic can best be described as:",
+        "image": "",
+        "options": {
+            "A": "A.Unbiased and efficient",
+            "B": "B.Unbiased and consistent",
+            "C": "C.Efficient and consistent",
+            "D": "D.Unbiased only"
+        },
+        "answer": "B",
+        "explanation": "Answer: B解析：该题主要考点为优质估计量具备的性质。无偏（unbiased）估计量是指估计量\n的期望值等于总体参数，与题中所述一致。一致的（consistent）估计量是指随着样本容量的增大，估计准\n确性提高，抽样误差减少，与题中所述一致。有效（efficient）估计量是指在所有无偏估计量中方差最小的\n估计量，题目中未提到。因此，正确选项为B。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Estimation properties, Unbiased estimators, Consistent estimators",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "26",
+        "question_text": "The parameters of a normal distribution have been estimated from an extremely large data\nset. The Z value of 2.33 is used to form a two-sided confidence interval around the sample\nmean, based on the distribution parameters estimated. The most likely correct statement\nregarding the confidence interval is:",
+        "image": "",
+        "options": {
+            "A": "A.5% of all observations will be falling outside the confidence interval.",
+            "B": "B.There is a 1% probability of a particular observation falling outside the confidence\ninterval.",
+            "C": "C.There is a 1% probability of a particular observation is smaller than the lower limit of the\nconfidence interval.",
+            "D": "D.99.5% of all observations will be falling inside the confidence interval."
+        },
+        "answer": "C",
+        "explanation": "该题主要考点为置信区间相关性质。在双尾的正态分布下，Z值为 2.33的置信区间覆盖了98%的\n观察值，显著性水平代表了观测值落在置信区间外的概率α=1-98%=2%。每边的尾部概率为1%，这意味着观察\n值小于置信区间下限概率为1%，观察值大于置信区间上限的概率也为1%。因此，正确选项为C。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Confidence intervals, Normal distribution, Significance levels",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "27",
+        "question_text": "An investment analyst takes a random sample of 100 aggressive equity funds and calculates\nthe average beta as 1.7. The sample betas have a standard deviation of 0.4. Using a 95%\nconfidence interval and a z-statistic, which of the following statements about the confidence\ninterval and its interpretation is most likely accurate? The analyst can be confident at the\n95% level that the interval:",
+        "image": "",
+        "options": {
+            "A": "A.from 0.916 to 2.484 includes the mean of the sample betas.",
+            "B": "B.from 1.622 to 1.778 includes the mean of the sample betas.",
+            "C": "C.from 0.916 to 2.484 includes the mean of the population beta.",
+            "D": "D.from 1.622 to 1.778 includes the mean of the population beta."
+        },
+        "answer": "D",
+        "explanation": "$$\n\\hat{\\mu} \\pm \\frac{\\sigma}{\\sqrt{n}} \\times Z_{\\frac{\\alpha}{2}} = 1.7 \\pm \\frac{0.4}{\\sqrt{100}} \\times 1.96 = [1.622, 1.778]\n$$\n\n在95%的置信水平下，总体beta会落在区间$[1.622, 1.778]$中。 因此，正确选项为D。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Confidence Intervals, Central Limit Theorem",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "28",
+        "question_text": "To estimate the mean monthly return of the whole sector of growth style mutual funds in the\nUnited States, Amity, an analyst in Golden Investment Group, have drawn a sample with 10\nmonthly returns of growth style funds in the United States. The sample mean and standard\ndeviation are 1% and 2%, respectively. Which of the following is the 95% confidence interval\nfor the mean return?",
+        "image": "QuantitativeAnalysis_images/28u.png",
+        "options": {
+            "A": "A.-3.46% to 5.46%",
+            "B": "B.-3.52% to 5.52%",
+            "C": "C.-0.4103% to 2.41%",
+            "D": "D.-0.43% to 2.43%"
+        },
+        "answer": "D",
+        "explanation": "该题主要考虑点为置信区间的构建。构建小样本量的置信区间适用$t$分布。对于双尾95%置信水平的区间，自由度为$n-1=9$，在单尾的$t$分布中对应的$t$统计量为2.262。\n\n$$\n\\hat{\\mu} \\pm \\frac{\\sigma}{\\sqrt{n}} \\times t_{\\alpha/2} = 1\\% \\pm \\frac{2\\%}{\\sqrt{10}} \\times 2.262 = [-0.43\\%, 2.43\\%]\n$$\n\n因此，正确选项为D。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Confidence Intervals, T-distribution, Sample Mean",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "29",
+        "question_text": "An analyst is running a hypothesis test and conducting a two-tailed test to determine if\nsmall-cap returns are significantly different from 10%. The sample size is 200 and the\ncalculated t-statistic is 2.3. Using a 5% level of significance, which of the following\nstatements is most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Reject the null hypothesis and conclude that small-cap returns are not significantly\ndifferent from 10%.",
+            "B": "B.Fail to reject the null hypothesis and conclude that small-cap returns are significantly\ndifferent from 10%.",
+            "C": "C.Fail to reject the null hypothesis and conclude that small-cap returns are close enough to\n10% that we cannot say they are significantly different from 10%.",
+            "D": "D.Reject the null hypothesis and conclude that small-cap returns are significantly different"
+        },
+        "answer": "D",
+        "explanation": "该题主要考点为假设检验结果的判断。原假设是H0: x = 10%；备择假设是Ha: x≠10%。在5%的\n显著性水平下，大样本量双尾检验的关键值近似为1.96。因为计算出的t统计量大于关键值(2.3 >1.96)，所\n以拒绝原假设，得出小盘股收益率显著不同于10%的结论。因此，正确选项为D。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Significance Level, T-Statistic",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "30",
+        "question_text": "One company suspects the producers of adulterating milk are not doing their jobs. By\nmeasuring the freezing point of milk, one can detect whether the milk has been mixed with\nwater. The freezing temperature of natural milk approximately follows a normal distribution,\nwith a mean value of -0.545℃ and a standard deviation of 0.008℃. The addition of water to\nmilk can raise the freezing temperature close to the freezing temperature of thewater. The\ncompany conducts a hypothesis test with a null hypothesis that the mean value of the freezing\ntemperature of natural milk is no greater than -0.545℃. At the 5% significance level, the\ncompany measures the freezing temperature of five batches of milk submitted by the producers\nand calculates the sample mean of -0.535℃. Can the producers be considered to deceit the\ncompany?",
+        "image": "",
+        "options": {
+            "A": "A.Yes, because the test statistic is larger than 1.96.",
+            "B": "B.Yes, because the p-value is smaller than the size of the test.",
+            "C": "C.No, because -0.545℃ is not falling into the confidence interval.",
+            "D": "D.No, because the test statistic is smaller than 1.96."
+        },
+        "answer": "B",
+        "explanation": "本报告考虑均值统计量的分布以及假设检验结果的判断。\n\n总体假设从正态分布出发，因此样本分布近似于正态分布，检验统计量为：\n\n$$\nz\\text{-statistic} = \\frac{\\hat{\\mu} - \\mu_0}{\\sigma/\\sqrt{n}} = \\frac{-0.535 - (-0.545)}{0.008/\\sqrt{5}} = 2.7951\n$$\n\n原假设是 $H_0: \\mu \\leq -0.545$，备择假设是 $H_a: \\mu > -0.545$。5%显著水平下检验统计量大于大表值 $1.645$，因此拒绝原假设，得到结果为适中的结论 $2.7951$ 对应的 $p\\text{-value}$ 小于 $2.33$ 对应 $p\\text{-value}$ (1%)，因此 $p\\text{-value} < 0.01$。因此，选择项 B 正确。\n\n对于项目 A，检验结果为 $1.645$ 进行比较。因此，该项错误。\n\n对于项目 C 和项目 D，检验结果的报告可能存在误导。因此，该项错误。",
+        "QA type": "Math reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Normal Distribution, Significance Levels",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "32",
+        "question_text": "According to the Basel back-testing framework guidelines, penalties start to apply if there\nare five or more exceptions during the previous year. The probability of the Type I error for\nthis test is 11 percent and the power of the test is 87 percent. This implies that there is:",
+        "image": "",
+        "options": {
+            "A": "A.89% probability regulators will reject the correct model.",
+            "B": "B.11% probability regulators will reject the incorrect model.",
+            "C": "C.87% probability regulators will not reject the correct model.",
+            "D": "D.13% probability regulators will not reject the incorrect model."
+        },
+        "answer": "D",
+        "explanation": "该题主要考点为两类错误的概念及性质。未拒绝错误的模型犯的是第二类错误，犯该类错误的\n概率等于1-87%=13%。因此，正确选项为D。对于选项A，拒绝正确的模型犯的是第一类错误，犯该类错误的概\n率是11%而非89%。因此，该选项错误。对于选项B，拒绝错误模型的概率等于检验统计力（powerof\ntest），即87%。因此，该选项错误。对于选项C，拒绝正确模型的概率为11%，未拒绝正确模型的概率为1-\n11%=89%。因此，该选项错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Probability of Type I error, Power of a test, Basel back-testing framework",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "37",
+        "question_text": "Kellen Xavier, FRM, is analyzing the key factors that affect a celebrity’s popularity. She\nruns a multiple regression of several male celebrities’ popularity levels against their\nsinging skills, dancing skills, rapping skills, and basketball skills. She wants to test\nwhether these four skills as a whole have significant explanatory power on a celebrity’s\npopularity. What kind of hypothesis test should Kellen run and what should be the most\nreasonable null hypothesis?",
+        "image": "",
+        "options": {
+            "A": "QuantitativeAnalysis_images/37A.png",
+            "B": "QuantitativeAnalysis_images/37B.png",
+            "C": "QuantitativeAnalysis_images/37C.png",
+            "D": "QuantitativeAnalysis_images/37D.png"
+        },
+        "answer": "C",
+        "explanation": "该题主要考点为多元线性回归模型的假设检验。\n\n由于 Kellen 想要检验的是模型整体 (as a whole) 是否具有解释力度，因而应用 F 检验。该检验原假设为 $H_0: \\beta_1 = \\beta_2 = \\beta_3 = \\beta_4 = 0$，备择假设为 $H_1: 至少一个自变量回归系数不为 0$。如果拒绝原假设，则可得出四个自变量整体可以解释因变量的结论。因此，正确选项为 C。\n\n对于选项 A，检验多元回归模型整体解释力度需要使用联合假设检验，而不能简单对某个系数进行检验。因此，该选项描述错误，不符合题意，为错误选项。\n\n对于选项 B，检验多元回归模型整体解释力度也同样需要使用联合假设检验，而不能使用 t 检验。因此，该选项描述错误，不符合题意，为错误选项。\n\n对于选项 D，由于 Kellen 想要检验的是模型整体 (as a whole) 是否具有解释力度，应用 F 检验。该检验的原假设为 $H_0: \\beta_1 = \\beta_2 = \\beta_3 = \\beta_4 = 0$，备择假设为 $H_1: 至少一个自变量回归系数不为 0$。因此，该选项描述错误，不符合题意，为错误选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Hypothesis Testing, Multiple Regression Analysis, F-test",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "38",
+        "question_text": "Which statement regarding the determination coefficient R² is correct?",
+        "image": "",
+        "options": {
+            "A": "A.For a simple linear regression, the squared correlation between dependent and independent\nvariable is equal to the coefficient of determination.",
+            "B": "B.The increasing in adjusted R² after adding a new independent variable indicates that new\nvariable is statistically significant.",
+            "C": "C.The value for adjusted R² and R² ranges from 0 to 1.",
+            "D": "D.For the same model, adjusted R² could be higher than R²."
+        },
+        "answer": "A",
+        "explanation": "该题主要考虑为因变量 $R^2$ 和调整后的 $R^2$ 的比较。\n\n对于一元线性回归，自变量和因变量相关性的平方等于可决系数 $R^2$。因此，选择项 A 正确。\n\n对于选项 B，调节 $R^2$ 上并不意味着新变量一定会显著上显著。因此，该选项描述错误，不符合题意，为错误选项。\n\n对于选项 C，可以获得 $R^2$ 的取值范围是 $0$ 到 $1$；但调节后的 $R^2$ 取值为负数。因此，该选项描述错误，不符合题意，为错误选项。\n\n对于选项 D，对于同一个模型，调节 $R^2$ 的计算如下：\n\n$$\nAdjusted \\ R^2 = 1 - \\left[ \\left( \\frac{n-1}{n-k-1} \\right) \\times (1 - R^2) \\right]\n$$\n\n因此，$n - 1 \\leq adjusted \\ R^2 \\leq R^2$。所以，该选项描述错误，不符合题意，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Coefficient of determination, Simple linear regression, Correlation",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "39",
+        "question_text": "An analyst runs a regression of monthly stock returns on four independent variables over 48\nmonths. From the regression, the total sum of squares (TSS) is 580, and the residual sum of\nsquared (RSS) is 220. The regression coefficient of determination(R2) and the adjusted R2are\nclosest to:",
+        "image": "",
+        "options": {
+            "A": "A.62%58.5%",
+            "B": "B.38% 41.5%",
+            "C": "C.62% 41.5%",
+            "D": "D.38%58.5%"
+        },
+        "answer": "A",
+        "explanation": "该主题主要考虑点为可决定数 $R^2$ 和调整 $R^2$ 的计算。\n\n$$\nR^2 = \\frac{TSS - RSS}{TSS} = \\frac{580 - 220}{580} = 0.62\n$$\n\n$$\n\\text{Adjusted } R^2 = 1 - \\left[\\frac{n-1}{n-k-1}\\right] \\times (1 - R^2) = 1 - \\left[\\frac{48-1}{48-4-1}\\right] \\times (1 - 0.62) = 0.585\n$$\n\n其中，$n$ 为样本容量，$k$ 为自变量个数。\n\n因此，正确选项为 A。",
+        "QA type": "math reasoning QA",
+        "knowledge topics": "Coefficient of Determination (R²), Adjusted R², Regression Analysis",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "41",
+        "question_text": "Alpha Robin, FRM, analyst from Golden Fund, examines a single-factor regression for a hedge\nfund and makes the following two statements:Statement 1: Heteroskedasticity exists if the\nregression residuals are correlated with their lagged values.Statement 2: Heteroskedasticity\ndoes not affect the consistency or unbiasedness of the OLS parameter estimator.Which of\nLockwood’s statements is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Statement 1 is correct, and Statement 2 is correct.",
+            "B": "B.Statement 1 is correct, and Statement 2 is incorrect.",
+            "C": "C.Statement 1 is incorrect, and Statement 2 is correct.",
+            "D": "D.Statement 1 is incorrect, and Statement 2 is incorrect."
+        },
+        "answer": "C",
+        "explanation": "本题主要考点为异方差的概念和性质。对于陈述I，异方差表示回归残差的方差会随着自变量的\n变化而变化，并非表示回归残差与其滞后项有关系。因此，陈述I错误。对于陈述II，异方差不会影响最小二\n乘法下估计参数的一致性和无偏性。因此，陈述II正确。综上所述，正确答案为C。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Heteroskedasticity, Ordinary Least Squares (OLS), Regression Analysis",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "42",
+        "question_text": "A risk manager is examining the relationship between portfolio manager’s years of working\nexperience and the returns of their portfolios. He performs an ordinary least squares (OLS)\nregression of last year’s portfolio returns (Y) on the portfolio managers’ years of working\nexperience (X) and provides the following scatter plot to his supervisor:\nWhich of the following statistical characteristicscan his supervisorobserve from the scatter\nplot?",
+        "image": "QuantitativeAnalysis_images/42u.png",
+        "options": {
+            "A": "A.Perfect collinearity",
+            "B": "B.Heteroscedasticity",
+            "C": "C.Omitted variable bias",
+            "D": "D.Homoscedasticity"
+        },
+        "answer": "B",
+        "explanation": "本题主要考点为使用散点图判断异方差（heteroscedasticity）现象。从散点图可以看出，残\n差项的方差随着自变量（组合经理的工作年限）的增加而增加，呈现异方差现象。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "heteroscedasticity, scatter plot analysis, ordinary least squares (OLS) regression",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "43",
+        "question_text": "Tom Freddy, FRM, is currently analyzing the performance of several portfolio managers. He is\nconducting an ordinary least squares regression of the daily returns ofeach manager’s\nportfolio on their salaries. He concludes that a manager’s salary is a key drive to their\nportfolio’s performance. Tom clearly knows that ages only affect their salaries and do not\naffect portfolio’s performance, while portfolio management skills and stock picking skills\naffect both salaries and portfolio’s performance, and loyalty to the firm affects neither the\nsalaries nor the performance.Does Tom make an omitted variable bias? If yes, what variable is\nmost likely omitted?",
+        "image": "",
+        "options": {
+            "A": "A.Yes. Manager\\u2019s age.",
+            "B": "B.Yes. Manager\\u2019s portfolio management skills and stock picking skills.",
+            "C": "C.Yes. Manager\\u2019s loyalty to the company.",
+            "D": "D.No. There is no omitted variable bias."
+        },
+        "answer": "B",
+        "explanation": "本题主要考点为遗漏变量偏误的定性辨析。遗漏变量指的是同时满足以下条件：（1）和现有自\n变量相关；（2）是因变量的决定因素。Tom将组合的业绩对基金经理的工资水平做回归，在考虑因素中，投\n资经理的技能和选股能力（portfolio management skills and stock picking skills）和其工资水平、组\n合表现都有关系，即该变量与现有自变量相关且可影响因变量，满足遗漏变量的两个条件，因此是遗漏变量\n。因此，正确选项为B。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Omitted Variable Bias, Regression Analysis, Portfolio Performance Factors",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "44",
+        "question_text": "Multicollinearity, omitted variable bias and heteroscedasticity have different impacts on\nordinary least squares (OLS) estimators. Which of the following statements is least likely\ncorrect regarding these impacts?",
+        "image": "",
+        "options": {
+            "A": "A.Perfect collinearity will cause the software and computer crashed.",
+            "B": "B.Multicollinearity will cause the OLS estimator biased.",
+            "C": "C.Omitted variable bias will cause the OLS estimator biased.",
+            "D": "D.Heteroscedasticity will cause the OLS estimator inefficient but won\\u2019t cause it biased."
+        },
+        "answer": "B",
+        "explanation": "本题主要考点为多重共线性、遗漏变量偏误和异方差带来的有关后果。当存在多重共线性时\n，最小二乘估计量仍然满足无偏性。因此，B选项陈述错误，符合题意，为正确选项。对于A选项，完全多重\n共线性会造成严重问题，使得估计的斜率系数的分母为零，进而导致计算机无法运行该结果。因此，该陈述\n正确，不符合题意，为错误选项。对于C选项，遗漏变量偏误会使得最小二乘估计量不满足无偏性和一致性\n，出现偏差。因此，该陈述正确，不符合题意，为错误选项。对于D选项，异方差会低估估计的斜率系数的标\n准误，使得最小二乘估计量不再有效，但该估计量仍满足无偏性。因此，该陈述正确，不符合题意，为错误\n选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Multicollinearity, omitted variable bias, heteroscedasticity",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "46",
+        "question_text": "Oliver, FRM, wants to assess the sensitivity of his portfolio return to various candidate\nvariables including interest rate, GDP, CPI and GNP etc. using linear regression method. He is\nconcerned with the problem of including irrelevant variable and omitting a relevant variable in\nhis regression model. Then he decides to employ either the m-fold cross-validation or General-\nto-specific (GtS) model selection method to choose a final model. Which of the following\nstatements is most likely to be correct regarding the two methods?",
+        "image": "",
+        "options": {
+            "A": "A.General-to-specific model begins by specifying a small model that includes few relevant\nvariables.",
+            "B": "B.The regression model selected by GtS model selection method contains no coefficients that are\nstatistically insignificant.",
+            "C": "C.The out-of-sample prediction is performed when using the GtS model selection method.",
+            "D": "D.Based on the GtS method, the regression model with smallest out-of-sample sum of squared"
+        },
+        "answer": "B",
+        "explanation": "该题主要考点为GtS和m-fold交叉验证两种方法的定性比较。GtS方法通过对模型中的变量回归\n系数做假设检验，逐步剔除不显著的变量，直至模型中所含变量的回归系数均显著为止，即最终模型所含变\n量不存在系数不显著的情况。因此，正确选项为B。对于选项A，GtS方法的基本思想是从一个包含较多变量的\n大模型入手，逐步剔除不显著的变量，而非从包含少数变量的小模型入手。因此，该选项错误。对于选项\nC，用样本外数据做模型检验是m-fold交叉验证方法的基本思想，而非GtS方法。因此，该选项错误。对于选\n项D，利用样本外数据计算的RSS（sum of squared residuals）最小的候选模型为最终模型，该做法是m-\nfold交叉验证方法的思路，而非GtS方法。因此，该选项错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Linear regression, Model selection methods, Statistical significance",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "47",
+        "question_text": "Regardingwhite noise, each of the following statementsis true except：",
+        "image": "",
+        "options": {
+            "A": "A.If a process is zero-mean white noise, then it must be Gaussian white noise.",
+            "B": "B.If a process is Gaussian white noise, then it must be zero-mean white noise.",
+            "C": "C.If a process is Gaussian white noise, then it must be independent white noise.",
+            "D": "D.If a process has zero mean, constant variance and no autocorrelation, then it is white noise."
+        },
+        "answer": "A",
+        "explanation": "解析：该题的主要考点是零均值白噪声（zero-mean white noise）、高斯白噪声（Gaussian\nwhite noise）和独立白噪声（independent white noise）的辨析。零均值白噪声是不相关的，但未必是序\n列独立和服从正态分布的高斯白噪声。因此，该选项描述错误，符合题意，为正确选项。对于选项B，高斯白\n噪声是序列独立和服从正态分布的，满足零均值白噪声的所有特征。因此，该选项描述正确，不符合题意\n，为错误选项。对于选项C，高斯白噪声是序列独立和服从正态分布的，一定是独立的白噪声。因此，该选项\n描述正确，不符合题意，为错误选项。对于选项D，一个零均值、方差恒定且无自相关性的过程是白噪声。因\n此，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "White noise, Gaussian white noise, Independent white noise",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "48",
+        "question_text": "Which statement（　） regarding white noise is(are) correct?",
+        "image": "QuantitativeAnalysis_images/48u.png",
+        "options": {
+            "A": "A.III and IV",
+            "B": "B.I and III",
+            "C": "C.I and II",
+            "D": "D.II only"
+        },
+        "answer": "D",
+        "explanation": "该段落的文本和数学公式提取如下：\n\n该段落的主要考虑点是白噪声 (white noise) 相关的知识点。\n\n若残差项是序列不相关的，残差项必然是独立白噪声。因此，陈述 I 描述错误。\n\nBox-Pierce 检验可以被用来检验所有残差项之间的相关系数是否等于 0。因此，陈述 II 描述错误。\n\n用 Box-Pierce 检验统计量 $\\hat{Q}_P = T \\sum_{i=1}^{m} \\hat{r}^2(\\tau)$ 检验 ARMA 模型，滞后项的数目 $m$ 并不是越大越好，而应适中为宜。因此，陈述 III 描述错误。\n\n一时期观测的残差为白噪声的特征。因此，陈述 IV 描述错误。\n\n综上，仅陈述 II 描述正确，正确定选项是 D。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Time series analysis, Statistical properties, Financial econometrics",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "49",
+        "question_text": "Rodney Rothman intends to research the cyclicity of economic growth that cannot be captured\nby trends or seasonalities. Firstly, he calculates ACF (autocorrelation function)and PACF\n(partial autocorrelation function) for the economic data and makes two statements on his\nnotebook as follows:\nWhich of the two statements is/are correct?",
+        "image": "QuantitativeAnalysis_images/49u.png",
+        "options": {
+            "A": "A.Statement 1?",
+            "B": "B.Statement 2",
+            "C": "C.Both two statements",
+            "D": "D.Neither of the two statements"
+        },
+        "answer": "C",
+        "explanation": "该题的重点是自相关函数（ACF）和偏自相关函数（PACF）的概念。\n\n自相关函数是一组时间序列的某一组数据和滞后h期的另一组数据之间的相关系。自相关函数的数值的绝对值，表明该相关性越强。因此，陈述1描述正确。\n\n偏自相关函数量度$y_t$与$y_{t-k}$之间的关系。在此，$y_t$之间的变化不变的$y_{t-k}$的相关性。因此，陈述2描述正确。\n\n综合上，两项陈述正确，因此选项是C。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Time series analysis, Autocorrelation and Partial Autocorrelation functions, Economic cyclicity",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "51",
+        "question_text": "Cecilia in Golden Investment group is analyzing and trying to forecast the price performance\nof Stock XYZ. After collecting the historical time series data of Stock XYZ, Cecilia draws the\nACF (autocorrelation function) and PACF (partial autocorrelation function). It turns out that\nboth graphics of the ACF and the PACF present a slow decay pattern. Which of following is most\nsuitable to model the price performance of Stock XYZ?",
+        "image": "",
+        "options": {
+            "A": "A.AR (1)",
+            "B": "B.MA (1)",
+            "C": "C.AR (2)",
+            "D": "D.ARMA (1,1)"
+        },
+        "answer": "D",
+        "explanation": "该题的主要考点是根据自相关函数（autocorrelation function, ACF）和偏自相关函数\n（partial autocorrelation function, PACF）的特征选择合适的时间序列模型。ARMA（1,1）模型的自相关\n函数（ACF）和偏自相关函数（PACF）都具有衰减（decay）的特征，而AR(1)、MA（1）和AR（2）模型的自相\n关函数和偏自相关函数不同时具有衰减特征。因此，正确选项是D。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Time series analysis, ARMA model, Autocorrelation function (ACF)",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "53",
+        "question_text": "Oliver, a junior risk analyst in a hedge fund, is trying to forecast the expected return of\na stock using the following AR (1) model:\nOliver is confused about the significant influences by covariance stationarity on the\nforecasting model and the implications by the model. Which of the following statements\nregarding Oliver’s concern is most likely incorrect?",
+        "image": "QuantitativeAnalysis_images/53u.png",
+        "options": {
+            "A": "The long-run forecast from the time series is -2.27, which is equal to the mean reversion level of AR (1) model.",
+            "B": "An AR (1) model is covariance-stationary when the absolute value of its parameter φ is less than 1, so the model constructed by Oliver is covariance-stationary.",
+            "C": "A covariance-stationary time series implies a constant relationship across time, allowing historical data to be used to estimate models that are applicable to future out-of-sample observations.",
+            "D": "The AR (1) model relates the current value of a stochastic process (i.e., $Y_t$) to its previous value (i.e., $Y_{t-1}$)."
+        },
+        "answer": "A",
+        "explanation": "The extracted content is as follows:\n\n该模型的主要考虑点是 $AR(1)$ 模型的特征及用 $AR(1)$ 模型做预测。\n\n$AR(1)$ 模型的长度预测值和均值复归水平是：\n\n$$\n\\lim_{n \\to \\infty} \\sum_{i=0}^{n} \\phi^i \\delta Y_T = \\frac{\\delta}{1 - \\phi} = 5.32, 不是 -2.27.\n$$\n\n因此，选择项A 描述错误，符合题意，是正确选择。\n\n对于选项B，当参数的绝对值小于1，即$|\\phi| < 1$时，$AR(1)$ 模型协方差差平稳。因此，该选项选择错误，为错选项。\n\n对于选项C，由于基于时间序列的同时性预期值偏差，方差由固定点估计的特征，可用于历史数据新预测未来样本的分布。因此，该选项描述正确，不符合题意，为错选项。\n\n对于选项D，$AR(1)$ 模型描述了一个随机过程及其前一时期的关系。因此，该选项描述正确，不符合题意，为错选项。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Time series analysis, Covariance stationarity, Forecasting models",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "54",
+        "question_text": "Jack is a regression analyst working in Golden Finance and now makesa regression equation\nutilizing dummy variables to explain whether different cities have influenced the company’s\nsale volumes. There are six cities in which this company’s cars are sold.\nWhere:\nThe intercept represents the sale volumes of：",
+        "image": "QuantitativeAnalysis_images/54u.png",
+        "options": {
+            "A": "A.All cities in total.",
+            "B": "B.First city.",
+            "C": "C.Sixth city.",
+            "D": "D.No cities, but a residual."
+        },
+        "answer": "C",
+        "explanation": "该题的主要考点是包含虚拟变量 (dummy variable) 的模型的概念。\n\n根据假设，第 1-5 个虚拟变量分别代表第 1-5 座城市，为了避免虚拟变量陷阱 (dummy variable trap) 。\n\n问题，省略虚拟变量 $D_{6t}$，取而代之用虚拟变量 $\\beta_0$ 来表示第 6 座城市的销售期望。因此，正确选择是 $C$。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Regression Analysis, Dummy Variables, Interpretation of Intercept",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "55",
+        "question_text": "A junior risk analyst at a major global bank is conducting a time series analysis of equity\nreturns. The manager is concerned with random walks leading to the non-stationarity in time\nseries. Then he turns to his director for advices regarding random walk process. The risk\ndirector makes the following statements:Statement 1: Random walk processes place equal weight\non all shocks and the initial value, and so a shock in period t permanently affects all future\nvalues.Statement 2: Random walk processes become more dispersed over time.Which of the\nstatements is(are) most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Only statement 1",
+            "B": "B.Only statement 2",
+            "C": "C.Both statement 1 and statement 2",
+            "D": "D.Neither statement 1 nor statement 2"
+        },
+        "answer": "C",
+        "explanation": "该模型的主要考虑点是随机游走（random walk）的特征。\n\n随机游走过程模型为：\n$$\nY_t = Y_0 + \\sum_{i=1}^{t} e_i\n$$\n在该模型中，初始值$Y_0$和各时期的冲击项$e_i$有相同的影响权重。这表明这一时期的冲击项会永久地影响未来各时期的数值$Y_t$。因此，陈述 1 正确。\n\n随机时间的推移，随机游走过程会变化越来越大。因此，陈述 2 正确。\n\n综合上，陈述 1 和陈述 2 均正确，因此，正确选项是 $C$。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Time Series Analysis, Random Walk Process, Non-Stationarity",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "57",
+        "question_text": "Time Trends, Seasonalities and Cycles are the typical components of non-stationary time\nseries. Teresa, FRM part I candidate, is reviewing non-stationary time series section and makes\nfour statements. Which of the following statements is most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Polynomial trend could be used when time series have a constant growth rate.",
+            "B": "B.It\\u2019s better to use polynomial trend to model seasonalities.",
+            "C": "C.After modeling time trends and seasonalities, the residuals from models are a series of white\nnoise.",
+            "D": "D.Cycles are any sort of dynamics not captured by trends or seasonalities."
+        },
+        "answer": "D",
+        "explanation": "该题的主要考点是时间趋势（time trends）、季节性（seasonalities）和周期性\n（cycles）相关的知识点。周期性是指任何没有被趋势性或者季节性所体现的波动性。因此，正确选项是D。\n对于选项A，若时间序列有恒定的增长率，应当用对数线性趋势（log-linear trend）而非多项式趋势\n（polynomial trend）。因此，该选项错误。对于选项B，应当用哑变量而非多项式趋势体现季节性。因此\n，该选项错误。对于选项C，时间趋势和季节性是非平稳的时间序列，其残差项不是白噪声（white\nnoise）。因此，该选项错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Time Series Analysis, Non-Stationary Time Series, Residual Analysis",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "58",
+        "question_text": "Serena is a risk analyst in Golden Investment Group. She is monitoring the return volatility\nof Security Alpha based on a 12-month lookback window of monthly returns. She calculated the\nstandard deviation of the monthly returns of 3%. Which of the following is most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.The implied volatility of semi-annual returns is 18%.",
+            "B": "B.The implied volatility of semi-annual returns is 7.35%.",
+            "C": "C.The estimated volatility of semi-annual returns is 18%.",
+            "D": "D.The estimated volatility of semi-annual returns is 7.35%."
+        },
+        "answer": "D",
+        "explanation": "该题主要考虑点为波动率的计算。在使用过去的月度报告计算波动率时可以借助平方根法则进行时间长度的调整，而隐含波动率的计算需借助期权价格倒推；故根据题干条件无法求解隐含波动率。按照平方根法则：\n\n$$\n3\\% \\times \\sqrt{6} = 7.35\\%\n$$\n\n综合所述，正确选项为D。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Historical volatility calculation, Square root rule, Implied volatility",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "59",
+        "question_text": "Musab, FRM, is conducting an equity portfolio optimization process. When running a scenario\nanalysis in Bloomberg terminal, he notices that the rate of return on the portfolio is highly\ncorrelated with the price of crude oil. As the return on the portfolio and the price of crude\noil exhibit both linear and nonlinear dependence, Musab decides to take both dependences into\nconsideration. Which of the following statements is least likely correct regarding the\nmeasurement of dependence?",
+        "image": "",
+        "options": {
+            "A": "QuantitativeAnalysis_images/59A.png",
+            "B": "B.Kendal’s tau has values that always lie between -1 and 1 and is scale invariant.",
+            "C": "C.Spearman’s correlation is robust to outliers by taking both ranks and values of X and Y into\naccount.",
+            "D": "D.Pearson’s correlation and the regression slope are intimately related, and the regression"
+        },
+        "answer": "C",
+        "explanation": "This is the extracted content formatted as per your requirements:\n\n该模型主要考察变量间相关性的特质。\n\n因此我们在相关系统中只考虑因变量Y取值的排序，不考虑随机试样变量本身的取值。因此，该模型对异常值（outliers）不敏感，具有良好的适应性。选择适当的模型，是正确定义的。\n\n对于项目A，在一元线性回归中，当自变量和因变量具有线性的关系时，根据 $\\beta = \\frac{\\sigma_y}{\\sigma_x}$，回归系数等于相关系数。因此，该模型是正确定义，不存在偏差，为指导建议。\n\n对于项目B，背景也像项目A一样在[-1, 1]区间，而因变量对其无关。因此，该项目正确，不存在偏差，为指导建议。\n\n对于项目C，根据 $\\beta = \\frac{\\sigma_y}{\\sigma_x}$，皮尔逊相关系数与回归系数相等，只是在相关性弱时，回归系数会趋近于0。因此，该模型是正确定义，不存在偏差，为指导建议。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Correlation Measures, Dependence in Financial Data, Scenario Analysis",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "60",
+        "question_text": "Lorenz, FRM, is constructing an equity portfolio for Golden Investment. He thought the\nreturn of individual stock follows a normal distribution. However, after collecting the daily\nreturn of four stocks: BDEV.L, BNZL.L, HL.L and HLMA.L, from London Stock Exchange, he notice\nthe potential non-normality problem as shown in the following PDFs. The most common violation\nof the normality assumption on stock returns is skewness and fat tail.\n \n \nWhich of the following statements is most likely to be incorrect?",
+        "image": "QuantitativeAnalysis_images/60u.png",
+        "options": {
+            "A": "A.L, from London Stock Exchange, he notice\nthe potential non-normality problem as shown in the following PDFs. The most common violation\nof the normality assumption on stock returns is skewness and fat tail.\n \n \nWhich of the following statements is most likely to be incorrect?\nA.If the skewness and excess kurtosis of BNZL.L return are 0.25 and 1.59 separately, the return\ndistribution for BNZL.L is positively skewed and fat tailed.",
+            "B": "B.The Jarque-Bera test is used to check whether the returns are normally distributed with the\nalternative hypothesis that the returns do not follow a normal distribution.",
+            "C": "C.The null hypothesis of Jarque-Bera test could be summarized as: the skewness is equal to 0\nand the kurtosis is equal to 3.",
+            "D": "D.If the excess kurtosis of HL.L is 1.46, the return distribution for HL.L is thin-tailed."
+        },
+        "answer": "D",
+        "explanation": "该题主要考点为回报率分布的性质。当超峰度值大于0时，该随机变量（回报率）的分布为肥尾\n。选项D描述错误，符合题意，为正确选项。对于选项A，当偏度值等于0.25，超峰度值等于1.59时，该随机\n变量（回报率）的分布为正偏且肥尾。因此，该选项描述正确，不符合题意，为错误选项。对于选项\nB，Jarque-Bera检验是用来检验随机变量是否服从正态分布的检验。该检验中的原假设为随机变量（回报率\n）服从正态分布。因此，该选项描述正确，不符合题意，为错误选项。对于选项C，Jarque-Bera检验是用来\n检验随机变量是否服从正态分布的检验。该检验的原假设为随机变量（回报率）服从正态分布，偏度值等于\n0，峰度值等于3。因此，该选项描述正确，不符合题意，为错误选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Return distribution properties, Non-normality in stock returns, Jarque-Bera test",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "61",
+        "question_text": "A risk manager is performing the risk analysis for a bond portfolio regarding the tail risk.\nWhen assessing the dependence between a corporate bond and U.S treasury bond, he is concerned\nwith the nonlinear dependence between the two bonds. The manager then considers using\nPearson’s correlation, Spearman’s correlation or Kendal’s tau to measure the nonlinear\ndependence. Which of the following is most likely correct with regarding to the listed\nmeasurements?",
+        "image": "",
+        "options": {
+            "A": "A.Pearson\\u2019s correlation performs better when measuring the nonlinear dependence because it\ntakes the ranks of observations into consideration.",
+            "B": "B.Linear correlation performs better when it is used to capture the dependence of asset returns\nwith common heteroskedasticity.",
+            "C": "C.Spearman\\u2019s correlation is robust to outliers because only the ranks are used, while\nKendal\\u2019s tau only takes the values of different variables into consideration.",
+            "D": "D.It is invariant with respect to any monotonic increasing transformation of variables when"
+        },
+        "answer": "D",
+        "explanation": "该题主要考点为回报率分布的性质。斯皮尔曼相关系数只是用变量的排序值而非取值，因此变\n量的单调递增变形不会影响该相关系数值。因此，正确选项为D。对于选项A，皮尔森相关系数用于测量线性\n相关关系，会用到变量的取值。因此，该选项错误。对于选项B，线性相关系数对于存在异方差的数据进行计\n量时和正常情况并无区别。因此，该选项错误。对于选项C，斯皮尔曼相关系数与肯德尔的tau相关系数均只\n考虑随机变量X和Y取值的排序，不考虑随机变量本身的取值。因此，对随机变量X和Y做单调递增变形不会改\n变上述两个系数值，且两个系数均对异常值不敏感，具有良好的适应性。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Nonlinear dependence measures, Rank correlation, Robust statistics",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "62",
+        "question_text": "Which one of the following statements about Monte Carlo simulation is false?",
+        "image": "",
+        "options": {
+            "A": "A.Monte Carlo simulation can be used with a lognormal distribution.",
+            "B": "B.The major advantage of Monte Carlo simulation is that the quality of the simulation outputs\nis less affected by the quality of the model inputs as the number of the replication in the\nsimulation gets larger.",
+            "C": "C.One drawback of Monte Carlo simulation is that it is computationally very intensive.",
+            "D": "D.It is very costly to reduce the standard error of the simulation by increasing the number of"
+        },
+        "answer": "B",
+        "explanation": "该题主要考点为蒙特卡洛模拟的性质。蒙特卡洛模拟法的缺点之一为输出结果的质量会受到输\n入参数质量较大的影响。选项B描述错误，符合题意，为正确选项。对于选项A，蒙特卡洛模拟依赖于某一分\n布，该分布可以是对数正态分布。因此，该选项描述正确，不符合题意，为错误选项。对于选项C，蒙特卡洛\n模拟法的缺点之一为计算量大。因此，该选项描述正确，不符合题意，为错误选项。对于选项D，在模拟过程\n中，通过增加模拟次数来减少标准误的做法的计算成本较高。因此，该选项描述正确，不符合题意，为错误\n选项。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monte Carlo Simulation, Simulation inputs and outputs, Computational intensity",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "63",
+        "question_text": "Monte Carlo simulation and bootstrapping are two major methods to simulate a sample that is\nlarge enough for further statistical analysis. Both methods have their preferred application\nscenarios. However, the Monte Carlo simulation result in the sample may have a sufficiently\nlarge standard error causing insignificant conclusion. Among the following descriptionsof\ndifferent ways to reduce the sampling error when doing Monte Carlo simulation, which is most\nlikely correct?",
+        "image": "",
+        "options": {
+            "A": "A.Increasing the number of simulation draws won\\u2019t help improving the accuracy of\nsimulation because each draw is independent from each other.",
+            "B": "B.Control variates is a way to reduce sample error by construct variables with negative\ncorrelation with previously simulated values.",
+            "C": "C.Antithetic variables help to reduce simulation sampling error by simulate another familiar\nrandom variable other than the target one.",
+            "D": "D.Compared with Control variates and Antithetic variables, increasing the number of simulation"
+        },
+        "answer": "D",
+        "explanation": "这题主要考点为减少蒙特卡洛模拟误差的方法的性质。在蒙特卡洛模拟中，直接增加模拟的次\n数可减少模拟误差，比如模拟次数是原来的100倍，误差缩小至原来的0.1倍。但该做法耗时费力，不够高效\n，故引入对偶法和控制变元法以提高模拟效率。因此正确选项为D。对于选项A，在蒙特卡洛模拟中，增加模\n拟的次数可以降低模拟误差、增加模拟精确度。因此，该选项错误。对于选项B，构建与原模拟值负相关的对\n偶变量是关于对偶法的描述，而非控制变元法的描述。因此，该选项错误。对于选项C，通过模拟另一个更熟\n悉的变量以降低模拟误差是控制变元法的做法，而非对偶法的做法。因此，该选项错误。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Monte Carlo simulation, bootstrapping, variance reduction techniques",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "64",
+        "question_text": "A risk analyst in a global investment bank is computing the expected payoff of a stock\noption. Because of the limited observations of the potential value for the option, he decides\nto use bootstrapping method to numerically approximate the expected value of the stock option.\nWhich of the following statements regarding bootstrapping method is most likely correct?",
+        "image": "",
+        "options": {
+            "A": "A.The observed data is assumed to follow a normal distribution when using bootstrapping method.",
+            "B": "B.When using bootstrapping, the user specifies a complete Data Generating Process (DGP) that is\nused to produce the simulated data.",
+            "C": "C.The anomaly of the financial market poses challenges on bootstrapping.",
+            "D": "D.The result of bootstrapping is irrelevant with structural changes in markets."
+        },
+        "answer": "C",
+        "explanation": "该题主要考点为脱靴法的性质。当金融市场出现巨大变化或有异象（anomaly）发生时，脱靴法\n的结果会受到较大的影响。因此，正确选项为C。对于选项A，脱靴法不对数据做分布的假设。因此，该选项\n错误。对于选项B，数据生成流程（DGP）是蒙特卡洛模拟的第一步，和脱靴法无关。因此，该选项错误。对\n于选项D，当金融市场出现巨大变化时，脱靴法的结果会受到很大的影响。因此，该选项错误。",
+        "QA type": "Knowledge reasoning QA",
+        "knowledge topics": "Bootstrapping, Data Generating Process (DGP), Distribution Assumptions",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    },
+    {
+        "question_number": "65",
+        "question_text": "A data analyst at a large bank is assessing the valuation of a unique stock option with few\nknown properties.The analyst is considering using simulation to model the option’s potential\nvalue. The analyst considerswhether to use Monte Carlo simulation or bootstrapping to conduct\nthe analysis. Which of the followingstatements about bootstrapping is correct?",
+        "image": "",
+        "options": {
+            "A": "A.Data used for bootstrapping follow a standard normal distribution.",
+            "B": "B.Data used for bootstrapping are resampled with replacement.",
+            "C": "C.Data used for bootstrapping come from a variable with known properties.",
+            "D": "D.Data used for bootstrapping are resampled such that all possible outcomes in a probability"
+        },
+        "answer": "B",
+        "explanation": "该题主要考点为脱靴法的性质。脱靴法采用有放回地抽样（withreplacement）。因此，正确选\n项为B。对于选项A，脱靴法的数据来自于某一变量的取值，不需要知道该变量的特征及对应分布。因此，该\n选项错误。对于选项C，脱靴法的数据来自于某一变量的取值，不需要知道该变量的特征及对应分布。因此\n，该选项错误。对于选项D，脱靴法并不会保证样本空间中所有的可能的结果都被抽取到。因此，该选项错误\n。",
+        "QA type": "knowledge reasoning QA",
+        "knowledge topics": "Bootstrapping, Monte Carlo simulation, Data resampling",
+        "book label": "Quantitative Analysis2",
+        "level of difficulty": "difficult",
+        "question type": "text only"
+    }
+]
