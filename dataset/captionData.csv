@@ -1,101 +1,955 @@
-ID,Question Number,Image,Human Caption
-4,5,images/CapitalMarketExpectations_images/share1-8_1.png,
-15,8,images/level1_gu_shou_images/8u.PNG,
-31,24,images/level1_gu_shou_images/24u.PNG,
-34,27,images/level1_gu_shou_images/27u.PNG,
-125,118,images/level1_gu_shou_images/118u.PNG,
-147,140,images/level1_gu_shou_images/140u.PNG,
-184,2,images/FixedIncome_images/share1-9_1.png,
-187,5,images/FixedIncome_images/share1-9_1.png,
-189,7,images/FixedIncome_images/share1-9_1.png,
-193,11,images/FixedIncome_images/share10-17_1.png,
-197,15,images/FixedIncome_images/share10-17_1.png,
-212,30,images/FixedIncome_images/share29-37_1.png,
-215,33,images/FixedIncome_images/share29-37_1.png,
-219,37,images/FixedIncome_images/share29-37_1.png,
-224,42,images/FixedIncome_images/share38-44_1.png,
-225,43,images/FixedIncome_images/share38-44_1.png,
-233,51,images/FixedIncome_images/share49-52_1.png,
-241,59,images/FixedIncome_images/share53-60_1.png,
-300,58,images/CreditRiskMeasurementandManagement1_images/58u.png,
-395,2,images/FinancialStatementAnalysis_images/share1-6_1.png,
-396,3,images/FinancialStatementAnalysis_images/share1-6_1.png,
-397,4,images/FinancialStatementAnalysis_images/share1-6_1.png,
-398,5,images/FinancialStatementAnalysis_images/share1-6_1.png,
-399,6,images/FinancialStatementAnalysis_images/share1-6_1.png,
-403,10,images/FinancialStatementAnalysis_images/share7-12_1.png,
-405,12,images/FinancialStatementAnalysis_images/share7-12_1.png,
-406,13,images/FinancialStatementAnalysis_images/share13-17_1.png,
-410,17,images/FinancialStatementAnalysis_images/share13-17_1.png,
-411,18,images/FinancialStatementAnalysis_images/share18-24_1.png,
-412,19,images/FinancialStatementAnalysis_images/share18-24_1.png,
-413,20,images/FinancialStatementAnalysis_images/share18-24_1.png,
-491,36,images/level1_zu_he_images/36u.png,
-736,37,images/RiskManagementandInvestmentManagement1_images/37u.png,
-738,39,images/RiskManagementandInvestmentManagement1_images/39u.png,
-775,76,images/RiskManagementandInvestmentManagement1_images/76u.png,
-860,30,images/level1_cai_bao_images/30u.PNG,
-939,109,images/level1_cai_bao_images/109u.PNG,
-951,121,images/level1_cai_bao_images/121u.PNG,
-961,131,images/level1_cai_bao_images/131u.PNG,
-974,144,images/level1_cai_bao_images/144u.PNG,
-995,165,images/level1_cai_bao_images/165u.PNG,
-1042,212,images/level1_cai_bao_images/212u.PNG,
-1265,14,images/level1_jing_ji_xue_images/14u.PNG,
-1330,79,images/level1_jing_ji_xue_images/79u.PNG,
-1412,161,images/level1_jing_ji_xue_images/161u.PNG,
-1898,266,images/FinancialMarketsandProducts1_images/266u.png,
-1926,13,images/LiquidityandTreasuryRiskMeasurementandMan1_images/13u.png,
-1959,46,images/LiquidityandTreasuryRiskMeasurementandMan1_images/46u.png,
-2191,23,images/Foundationofriskmanagement1_images/23u.png,
-2206,38,images/Foundationofriskmanagement1_images/38u.png,
-2231,66,images/Foundationofriskmanagement1_images/66u.png,
-2238,73,images/Foundationofriskmanagement1_images/73u.png,
-2241,76,images/Foundationofriskmanagement1_images/76u.png,
-2258,94,images/Foundationofriskmanagement1_images/94u.png,
-2264,101,images/Foundationofriskmanagement1_images/101u.png,
-2269,106,images/Foundationofriskmanagement1_images/106u.png,
-2298,136,images/Foundationofriskmanagement1_images/136u.png,
-2300,138,images/Foundationofriskmanagement1_images/138u.png,
-2352,49,images/ValuationandRiskModels2_images/49u.png,
-2375,11,images/QuantitativeAnalysis2_images/11u.png,
-2392,42,images/QuantitativeAnalysis2_images/42u.png,
-2397,48,images/QuantitativeAnalysis2_images/48u.png,
-2398,49,images/QuantitativeAnalysis2_images/49u.png,
-2400,53,images/QuantitativeAnalysis2_images/53u.png,
-2401,54,images/QuantitativeAnalysis2_images/54u.png,
-2406,60,images/QuantitativeAnalysis2_images/60u.png,
-2433,23,images/MarketRiskMeasurementandManagement2_images/23u.png,
-2449,40,images/MarketRiskMeasurementandManagement2_images/40u.png,
-2522,6,images/QuantitativeAnalysis1_images/6u.png,
-2576,60,images/QuantitativeAnalysis1_images/60u.png,
-2626,110,images/QuantitativeAnalysis1_images/110u.png,
-2647,131,images/QuantitativeAnalysis1_images/131u.png,
-2648,132,images/QuantitativeAnalysis1_images/132u.png,
-2657,141,images/QuantitativeAnalysis1_images/141u.png,
-2661,145,images/QuantitativeAnalysis1_images/145u.png,
-2689,173,images/QuantitativeAnalysis1_images/173u.png,
-2750,37,images/PortfolioManagement_images/share37-42_1.png,
-2751,38,images/PortfolioManagement_images/share37-42_1.png,
-2752,39,images/PortfolioManagement_images/share37-42_1.png,
-2753,40,images/PortfolioManagement_images/share37-42_1.png,
-2754,41,images/PortfolioManagement_images/share37-42_1.png,
-2755,42,images/PortfolioManagement_images/share37-42_1.png,
-2755,42,images/PortfolioManagement_images/share37-42_2.png,
-2861,5,images/level1_quan_yi_images/5u.png,
-2950,94,images/level1_quan_yi_images/94u.png,
-2991,135,images/level1_quan_yi_images/135u.png,
-3022,1,images/MarketRiskMeasurementandManagement1_images/1u.png,
-3023,2,images/MarketRiskMeasurementandManagement1_images/2u.png,
-3024,3,images/MarketRiskMeasurementandManagement1_images/3u.png,
-3032,11,images/MarketRiskMeasurementandManagement1_images/11u.png,
-3044,23,images/MarketRiskMeasurementandManagement1_images/23u.png,
-3062,41,images/MarketRiskMeasurementandManagement1_images/41u.png,
-3108,87,images/MarketRiskMeasurementandManagement1_images/87u.png,
-3156,42,images/level1_shu_liang_images/42u.png,
-3186,72,images/level1_shu_liang_images/72u.png,
-3190,76,images/level1_shu_liang_images/76u.png,
-3354,45,images/ValuationandRiskModels1_images/45u.png,
-3408,45,images/OperationalRiskandResiliency1_images/45u.png,
-3462,99,images/OperationalRiskandResiliency1_images/99u.png,
-3673,251,images/ValuationandRiskModels1_images/251u.png,
+ID,Image,Human Caption
+15,images/level1_gu_shou_images/8u.PNG,"This image represents a cash flow diagram, commonly used in finance to visualize the payments or receipts over time.
+
+Here’s the breakdown of the image:
+
+1. **Initial Investment (Outflow):** On the left side, there is a downward arrow labeled with ""£1,000."" This indicates an initial cash outflow of £1,000, likely representing an initial investment or loan disbursement.
+
+2. **Periodic Payments (Inflows):** Moving horizontally to the right, there are five upward arrows, each labeled ""£230.97."" These represent periodic inflows, possibly repayments or returns on the investment. Each payment amount is identical, suggesting an equal installment plan, like an annuity or loan repayment schedule.
+
+3. **Time Flow:** The horizontal line connecting all arrows indicates a timeline. The equal spacing of the payments suggests a regular interval, likely monthly or annually, though the specific interval is not noted in the image.
+
+In summary, this diagram likely illustrates a financial scenario where an initial investment of £1,000 is paid back in equal installments of £230.97 over five periods. This could represent an annuity, loan repayment schedule, or investment return plan with constant cash inflows."
+300,images/CreditRiskMeasurementandManagement1_images/58u.png,"This image appears to be a line graph that plots **Expected Exposure** against **Time**. Here’s a breakdown of the graph:
+
+1. **Axes:**
+   - The vertical axis is labeled **Expected Exposure**, which likely represents a risk metric or measure of exposure over time.
+   - The horizontal axis is labeled **Time**, indicating that the exposure changes as time progresses.
+
+2. **Curve Shape:**
+   - The curve starts from a low value, rapidly increases, and then reaches a peak before gradually declining.
+   - This bell-shaped or parabolic curve suggests that the expected exposure rises initially, stabilizes at a high level, and then decreases over time.
+
+3. **Data Points:**
+   - The curve is marked with diamond-shaped data points at regular intervals, showing that the values of expected exposure were calculated or recorded at specific points in time.
+
+4. **Dashed Line and Question Mark:**
+   - A dashed horizontal line is drawn across the graph at a certain level of exposure, possibly representing a threshold or target exposure level.
+   - The presence of a **?** near the end of the curve might indicate uncertainty about future values or an area where prediction is required beyond the observed data.
+
+This graph could represent a variety of scenarios in finance or risk management, such as the expected exposure of a financial instrument, credit risk exposure over the life of a loan, or potential exposure to market risk. The decline in exposure towards the end suggests a reduction in risk or exposure over time."
+736,images/RiskManagementandInvestmentManagement1_images/37u.png,"This image shows a scatter plot that illustrates the relationship between **Portfolio (P) excess monthly returns** and **Benchmark (M) excess returns**. Here’s a detailed description of the elements in the graph:
+
+1. **Axes:**
+   - The vertical axis represents the **Portfolio (P) excess return**, showing values ranging from -4.00% to approximately 8.00%.
+   - The horizontal axis represents the **Benchmark (M) excess return**, with a similar range from around -4.00% to 8.00%.
+
+2. **Data Points:**
+   - Each blue diamond represents a data point that corresponds to the excess return of the portfolio relative to the benchmark for a particular month.
+
+3. **Trend Line (Regression Line):**
+   - A red trend line has been fitted to the data points, showing the linear relationship between the portfolio's excess returns and the benchmark's excess returns.
+   - The equation of the line is provided as \( P = 1.5231 \times M + 0.0180 \). Here:
+     - The slope of 1.5231 indicates that for each 1% increase in the benchmark’s excess return, the portfolio's excess return increases by approximately 1.52%.
+     - The intercept of 0.0180 suggests that even with a 0% benchmark excess return, the portfolio is expected to have a slight positive excess return of about 0.0180%.
+
+4. **R-Squared Value:**
+   - The \( R^2 \) value is 0.6804, which indicates the strength of the relationship. An \( R^2 \) value of 0.6804 means that approximately 68.04% of the variability in the portfolio’s excess returns is explained by the benchmark’s excess returns, suggesting a moderately strong correlation.
+
+This scatter plot and regression line help analyze how closely the portfolio’s performance tracks with the benchmark, showing that as the benchmark’s return increases, the portfolio’s return also tends to increase, and vice versa."
+738,images/RiskManagementandInvestmentManagement1_images/39u.png,"This image shows an equation from the **Fama-French Three-Factor Model**, which is used to explain the expected return of a portfolio or stock based on three factors. Here’s a detailed breakdown:
+
+\[
+\mathbb{E}(r_i) = r_f + \beta_{i,\text{MKT}} \cdot \mathbb{E}(r_m - r_f) + \beta_{i,\text{SMB}} \cdot \mathbb{E}(\text{SMB}) + \beta_{i,\text{HML}} \cdot \mathbb{E}(\text{HML})
+\]
+
+1. **Variables:**
+   - \( \mathbb{E}(r_i) \): The expected return of asset \( i \).
+   - \( r_f \): The risk-free rate, representing the return on a risk-free asset.
+   - \( \mathbb{E}(r_m - r_f) \): The expected market risk premium, which is the difference between the expected return on the market \( r_m \) and the risk-free rate \( r_f \).
+
+2. **Factors:**
+   - **Market Risk Premium (\( \mathbb{E}(r_m - r_f) \)):** Represents the additional return expected from the market over the risk-free rate.
+   - **SMB (Small Minus Big):** The return difference between small-cap and large-cap stocks, capturing the ""size"" effect, where small-cap stocks tend to have higher returns.
+   - **HML (High Minus Low):** The return difference between high book-to-market and low book-to-market stocks, capturing the ""value"" effect, where value stocks (high book-to-market) tend to outperform growth stocks (low book-to-market).
+
+3. **Coefficients:**
+   - \( \beta_{i,\text{MKT}} \): The sensitivity of the asset’s return to the market risk premium.
+   - \( \beta_{i,\text{SMB}} \): The sensitivity of the asset’s return to the size factor (SMB).
+   - \( \beta_{i,\text{HML}} \): The sensitivity of the asset’s return to the value factor (HML).
+
+In summary, this model explains the expected return \( \mathbb{E}(r_i) \) by accounting for three sources of systematic risk: market risk, size, and value. Each factor's coefficient (beta) indicates how sensitive the asset is to that particular risk factor."
+775,images/RiskManagementandInvestmentManagement1_images/76u.png,"The image shows a regression model equation, typically used in finance to explain the return of an asset or portfolio based on several factors. Here’s a detailed breakdown:
+
+\[
+r_{t+1} = \alpha_t + \beta_{SPY,t} \cdot SPY_{t+1} + \beta_{SPYV,t} \cdot SPYV_{t+1} + \beta_{SPYG,t} \cdot SPYG_{t+1} + \epsilon_{t+1}
+\]
+
+1. **Variables:**
+   - \( r_{t+1} \): This represents the return at time \( t+1 \).
+   - \( \alpha_t \): The intercept term or alpha, often interpreted as the excess return or the component of the return not explained by the factors.
+   - \( \epsilon_{t+1} \): The error term at time \( t+1 \), capturing the variation in \( r_{t+1} \) that is not explained by the factors in the model.
+
+2. **Factors:**
+   - **\( SPY_{t+1} \):** Likely represents the return of the SPDR S&P 500 ETF (SPY) at time \( t+1 \), which tracks the performance of the S&P 500 index. This factor might be used to capture the general market return.
+   - **\( SPYV_{t+1} \):** Represents the return of the SPDR S&P 500 Value ETF (SPYV) at time \( t+1 \), capturing the performance of value stocks within the S&P 500.
+   - **\( SPYG_{t+1} \):** Represents the return of the SPDR S&P 500 Growth ETF (SPYG) at time \( t+1 \), capturing the performance of growth stocks within the S&P 500.
+
+3. **Coefficients:**
+   - \( \beta_{SPY,t} \): The sensitivity (or beta) of the asset’s return to the market factor \( SPY_{t+1} \).
+   - \( \beta_{SPYV,t} \): The sensitivity to the value stocks factor \( SPYV_{t+1} \).
+   - \( \beta_{SPYG,t} \): The sensitivity to the growth stocks factor \( SPYG_{t+1} \).
+
+In summary, this equation models the expected return \( r_{t+1} \) based on the market (SPY), value (SPYV), and growth (SPYG) factors, with the betas indicating the degree to which each factor influences the return."
+1412,images/level1_jing_ji_xue_images/161u.PNG,"This image displays a standard economic model of the **money market**, showing the interaction between **money demand (MD)** and **money supply (MS)** with respect to the **nominal rate of interest** and **quantity of money**.
+
+1. **Axes:**
+   - The vertical axis represents the **Nominal Rate of Interest** (interest rate), labeled with three levels: \( I_1 \), \( I_0 \), and \( I_2 \), where \( I_1 \) > \( I_0 \) > \( I_2 \).
+   - The horizontal axis represents the **Quantity of Money**, labeled with three points: \( M_1 \), \( M_0 \), and \( M_2 \), where \( M_1 < M_0 < M_2 \).
+
+2. **Money Demand (MD) Curve:**
+   - The **MD** curve slopes downward from left to right, indicating an inverse relationship between the nominal interest rate and the quantity of money demanded. As interest rates decrease, the quantity of money demanded increases, which aligns with the liquidity preference theory where lower interest rates encourage people to hold more money.
+
+3. **Money Supply (MS) Line:**
+   - The **MS** line is vertical, indicating that the supply of money is fixed and does not change with the interest rate. The position of the MS line corresponds to the money supply level, currently shown at \( M_0 \).
+
+4. **Equilibrium Points:**
+   - The point where the MD curve intersects the MS line at \( M_0 \) and \( I_0 \) represents the **equilibrium interest rate** and quantity of money, where money demand equals money supply.
+   - Changes in the quantity of money (e.g., shifts to \( M_1 \) or \( M_2 \)) would lead to new interest rates (e.g., \( I_1 \) and \( I_2 \)) if the money supply were adjusted.
+
+In summary, this diagram shows that at a fixed money supply level (MS), the equilibrium interest rate is determined by the intersection with money demand. Adjustments in the money supply shift this intersection, altering the interest rate in the economy."
+1959,images/LiquidityandTreasuryRiskMeasurementandMan1_images/46u.png,"This image illustrates the **initiation of a repurchase agreement (repo) trade**, a common financial transaction in which one party sells securities to another with the agreement to repurchase them at a later date. Here’s a breakdown:
+
+1. **Parties Involved:**
+   - **Counterparty A** (green box): The party initiating the repo trade by selling securities.
+   - **Counterparty B** (blue box): The party providing cash in exchange for the securities from Counterparty A.
+
+2. **Transaction Flow:**
+   - **Securities:** An arrow from **Counterparty A** to **Counterparty B** labeled ""Securities"" indicates that Counterparty A transfers securities to Counterparty B as collateral.
+   - **Cash:** Another arrow, labeled ""Cash,"" flows in the opposite direction, from **Counterparty B** to **Counterparty A**, indicating that Counterparty B provides cash in exchange for the securities.
+
+3. **Purpose:**
+   - In this **repo transaction**, Counterparty A receives cash by temporarily selling securities to Counterparty B, with an agreement to repurchase the securities at a future date, typically at a higher price. This setup allows Counterparty A to access liquidity while providing collateral to Counterparty B.
+
+Overall, this image demonstrates the mechanics of a repo trade’s initial phase, where cash is exchanged for securities, facilitating short-term borrowing for Counterparty A."
+1973,images/LiquidityandTreasuryRiskMeasurementandMan1_images/60u.png,"This image shows a simplified **balance sheet** with two main sections: **Assets** and **Liabilities**. Here’s the breakdown:
+
+1. **Assets (Green Section):**
+   - **Bonds:** Valued at $30.0, these represent investments in debt securities, possibly held to generate interest income or for liquidity purposes.
+   - **Loans:** Valued at $70.0, these represent funds lent out, which generate interest income. Loans typically make up a large portion of assets for banks or financial institutions.
+
+   - **Total Assets:** The total value of assets is $100.0 ($30.0 + $70.0).
+
+2. **Liabilities (Orange Section):**
+   - **Deposits:** Valued at $30.0, these represent customer deposits, which are liabilities for the institution as they are owed to the depositors.
+   - **Bonds:** Valued at $50.0, indicating that the institution has issued bonds, representing borrowed funds that need to be repaid with interest.
+   - **Equity:** Valued at $20.0, this represents the owners’ interest or net worth in the institution after all liabilities are subtracted from assets.
+
+   - **Total Liabilities and Equity:** The total value of liabilities and equity is $100.0 ($30.0 + $50.0 + $20.0), matching the total assets.
+
+This balance sheet demonstrates the accounting equation: **Assets = Liabilities + Equity**. Here, the institution's assets are funded by a combination of liabilities (deposits and bonds) and equity, providing a snapshot of its financial position."
+2119,images/OperationalRiskandResiliency2_images/14u.png,"This table provides details on **Regulatory Capital** in **USD Millions**. It breaks down various components of capital, following regulatory requirements often seen in financial institutions. Here’s an interpretation:
+
+1. **Total Common Equity Tier 1 Capital (CET1):**  
+   - Value: **108**  
+   - This is the core capital, consisting of common equity, which is the most stable and readily available capital to absorb losses.
+
+2. **Additional Tier 1 Capital:**  
+   - **Prior to regulatory adjustments:** **34**  
+   - **Regulatory adjustments:** **6**  
+   - **Net Additional Tier 1 Capital:** **28**  
+   - This is supplementary capital that absorbs losses but is less secure than CET1. Regulatory adjustments often reduce this amount to meet specific regulatory standards.
+
+3. **Total Tier 1 Capital:**  
+   - Value: **136**  
+   - This is the sum of Common Equity Tier 1 Capital and Additional Tier 1 Capital, representing the primary source of funds to absorb losses.
+
+4. **Tier 2 Capital:**  
+   - **Prior to regulatory adjustments:** **45**  
+   - **Regulatory adjustments:** **9**  
+   - **Net Tier 2 Capital:** **36**  
+   - Tier 2 Capital includes subordinated debt and other instruments that provide additional buffer but are less secure than Tier 1 Capital.
+
+5. **Total Capital:**  
+   - Value: **172**  
+   - This is the sum of Total Tier 1 Capital and Tier 2 Capital, representing the overall regulatory capital available to absorb losses.
+
+6. **Total Average Exposure:**  
+   - Value: **3678**  
+   - This likely represents the average exposure amount, indicating the risk-weighted assets or credit exposures against which the capital levels are assessed.
+
+In summary, this table shows a financial institution’s regulatory capital breakdown, highlighting its CET1, Tier 1, and Tier 2 capital levels in line with regulatory requirements to ensure adequate capital to cover potential risks."
+2136,images/OperationalRiskandResiliency2_images/33u.png,"This image provides a comparison of the sovereign debt holdings for **Bank A** and **Bank B**. The debt is categorized based on whether it is issued by countries that are members of the **Organisation for Economic Co-operation and Development (OECD)**, which is often associated with lower risk, or **non-OECD** countries, which may be considered higher risk.
+
+1. **Bank A:**
+   - **25% OECD Sovereign Debt:** This portion represents the safer part of Bank A's portfolio, as OECD countries are generally seen as more stable.
+   - **75% Non-OECD Sovereign Debt:** A large majority of Bank A's portfolio is in non-OECD debt, indicating a higher risk profile due to exposure to potentially less stable economies.
+
+2. **Bank B:**
+   - **50% OECD Sovereign Debt:** Half of Bank B’s sovereign debt is in OECD countries, providing a more balanced risk profile.
+   - **50% Non-OECD Sovereign Debt:** The remaining half is in non-OECD debt, indicating a significant, but not overwhelming, exposure to higher-risk countries.
+
+In summary, **Bank A** has a riskier debt portfolio due to its larger share of non-OECD debt, while **Bank B** has a more balanced portfolio with an equal distribution between OECD and non-OECD debt, suggesting a moderate risk profile. This comparison could reflect differing risk appetites or strategies in sovereign debt exposure between the two banks."
+2143,images/OperationalRiskandResiliency2_images/40u.png,"This image provides information on **Value at Risk (VaR)** metrics for a financial institution, specifically focusing on the 95% confidence level for a 1-day period. Here’s a breakdown of the details:
+
+1. **VaR (95%, 1-day) of Last Trading Day:**  
+   - **Value:** USD 40,000  
+   - This indicates the VaR for the last trading day, meaning that there is a 95% confidence that the institution’s losses will not exceed USD 40,000 over a 1-day horizon.
+
+2. **Average VaR (95%, 1-day) for Last 60 Trading Days:**  
+   - **Value:** USD 25,000  
+   - This represents the average VaR over the past 60 trading days at the same 95% confidence level for a 1-day period. This average is lower than the last trading day's VaR, suggesting that recent market conditions may have increased risk.
+
+3. **Multiplication Factor:**  
+   - **Value:** 2  
+   - The multiplication factor is often applied to account for potential inaccuracies or unforeseen risks. It adjusts the average VaR to ensure a more conservative estimate. This factor is commonly set by regulatory standards.
+
+**Usage of These Values:**
+   - By applying the multiplication factor, the adjusted VaR would be USD 50,000 (25,000 × 2), which serves as a more cautious measure of potential daily losses for regulatory or internal risk management purposes.
+
+In summary, this data gives an overview of recent risk levels based on VaR, highlighting that the last trading day's risk was significantly higher than the 60-day average, which might warrant closer monitoring or adjustments in risk exposure."
+2238,images/Foundationofriskmanagement1_images/73u.png,"This image shows a **Portfolio Possibilities Curve** for a mix of **stocks and bonds**, displaying the trade-off between **expected return** \( E(R_P) \) and **portfolio risk** (standard deviation \( \sigma_P \)).
+
+1. **Axes:**
+   - The vertical axis represents the **expected return** \( E(R_P) \), ranging from 0% to 20%.
+   - The horizontal axis represents the **standard deviation of the portfolio** \( \sigma_P \), a measure of risk, ranging from 0% to 20%.
+
+2. **Curve Shape:**
+   - The curve is concave, demonstrating an **efficient frontier** where each point represents a possible portfolio mix between stocks and bonds with varying returns and risks.
+   - Moving along the curve from left to right, the risk (standard deviation) increases, as does the expected return.
+
+3. **Portfolio Points:**
+   - The points labeled **X**, **Y**, **W**, and **Z** represent specific portfolios with different risk-return combinations.
+     - **X:** Located at a lower risk and return level, likely representing a portfolio with a higher bond allocation.
+     - **Y:** Positioned below **X**, indicating an even lower expected return, possibly with a minimal risk level, often associated with high bond allocations.
+     - **W:** Higher along the curve, with both increased risk and return, indicating a shift towards a higher stock allocation.
+     - **Z:** Located at the upper end of the curve, showing the highest expected return and risk among the portfolios, likely representing a portfolio with a strong emphasis on stocks.
+
+This curve visually represents the concept of the **efficient frontier** in portfolio theory, illustrating the optimal trade-off between risk and return for portfolios composed of stocks and bonds. Investors can choose a point on this curve based on their risk tolerance and return expectations."
+2264,images/Foundationofriskmanagement1_images/101u.png,"This image shows a set of **portfolio possibilities curves** in a risk-return space, commonly used in portfolio theory to illustrate different combinations of risk and return for various portfolios.
+
+1. **Axes:**
+   - The vertical axis, labeled \( \mu \), represents the **expected return** of a portfolio.
+   - The horizontal axis, labeled \( \sigma \), represents the **standard deviation** or **risk** associated with the portfolio.
+
+2. **Curves and Points:**
+   - The curves represent the **efficient frontiers** or possible risk-return trade-offs for different combinations of assets.
+   - Points **A**, **B**, **C**, **D**, **X**, and **Y** indicate specific portfolio choices along these curves, each offering a unique balance of expected return and risk.
+     - **Point X:** Located at the top right, suggesting a high return but also high risk.
+     - **Point Y:** Positioned at the bottom left, likely representing the lowest risk and return on this frontier.
+     - **Points A, B, C, and D:** Located at intermediate levels of risk and return, representing varying asset combinations that offer different trade-offs.
+
+3. **Interpretation:**
+   - Investors aiming for higher returns would look toward points like **X** but must accept higher risk.
+   - Risk-averse investors may prefer points like **Y** or points along the lower part of the curve where the risk is minimized.
+   - The curve shape indicates diminishing returns for additional risk as one moves to the right, reflecting the trade-off inherent in efficient portfolio construction.
+
+In summary, this diagram illustrates the concept of the efficient frontier, where each curve represents optimal portfolios that maximize return for a given level of risk. Investors can choose their preferred point on these curves based on their risk tolerance and return objectives."
+2269,images/Foundationofriskmanagement1_images/106u.png,"This image shows a scatter plot with a regression line that examines the relationship between **Portfolio (P) Excess Monthly Returns** and **Benchmark (M) Excess Returns**.
+
+1. **Axes:**
+   - The vertical axis represents the **Portfolio (P) Excess Returns**, ranging from -10% to 15%.
+   - The horizontal axis represents the **Benchmark (M) Excess Returns**, ranging from -10% to 15%.
+
+2. **Data Points:**
+   - Each blue dot represents a monthly data point, showing the excess return of the portfolio relative to the benchmark for a specific month.
+
+3. **Regression Line and Equation:**
+   - A dotted green line is shown, representing the linear regression fit through the data points.
+   - The regression equation provided is \( y = 0.8195x + 0.0171 \).
+     - The slope \( 0.8195 \) suggests that for each 1% increase in the benchmark’s excess return, the portfolio’s excess return increases by approximately 0.82%.
+     - The intercept \( 0.0171 \) indicates that even if the benchmark’s excess return is zero, the portfolio is expected to have a small positive excess return of around 0.0171%.
+   - The \( R^2 \) value is \( 0.8995 \), which indicates a strong correlation between the portfolio and benchmark returns, with approximately 89.95% of the variance in portfolio returns explained by the benchmark returns.
+
+In summary, this regression analysis suggests a strong relationship between the portfolio and benchmark returns. The portfolio returns are positively correlated with the benchmark, though with a slope less than 1, indicating that the portfolio may have lower volatility compared to the benchmark."
+2298,images/Foundationofriskmanagement1_images/136u.png,"This table compares four investment funds (A, B, C, and D) across various performance and risk metrics. Here’s the breakdown of each column:
+
+1. **Fund:**  
+   - Identifies each fund: A, B, C, and D.
+
+2. **Expected Return:**  
+   - Represents the anticipated return for each fund.
+   - Fund A: 9.3%
+   - Fund B: Not specified
+   - Fund C: Not specified
+   - Fund D: 9.4%
+
+3. **Volatility:**  
+   - Measures the total risk or standard deviation of returns for each fund.
+   - Fund A: 15.3%
+   - Fund B: 16.4%
+   - Fund C: 15.8%
+   - Fund D: Not specified
+
+4. **Residual Risk:**  
+   - Represents the risk unique to each fund after accounting for systematic factors.
+   - Fund A: Not specified
+   - Fund B: 2.4%
+   - Fund C: 1.5%
+   - Fund D: 1.8%
+
+5. **Information Ratio:**  
+   - A performance metric that evaluates the fund’s returns relative to its risk (specifically residual risk). Higher values indicate better risk-adjusted performance.
+   - Fund A: 0.8
+   - Fund B: 0.9
+   - Fund C: 1.3
+   - Fund D: Not specified
+
+**Summary of Observations:**
+   - **Fund C** has the highest information ratio (1.3), suggesting it offers the best risk-adjusted return among the listed funds.
+   - **Fund B** has the highest volatility (16.4%) and a relatively high residual risk (2.4%).
+   - **Fund D** has the highest expected return among the specified values (9.4%) but lacks information on volatility.
+
+This table provides a comparison of each fund’s performance and risk metrics, helping investors assess the risk-return profile of each option."
+2375,images/QuantitativeAnalysis2_images/11u.png,"This image appears to represent a **payoff diagram** commonly used in options trading, particularly for a **long call option** or a **bull call spread**.
+
+### Diagram Breakdown:
+1. **Axes:**
+   - The horizontal axis represents the **stock price** at expiration.
+   - The vertical axis represents the **profit/loss** of the position.
+
+2. **Payoff Structure:**
+   - The line initially starts at the horizontal axis, showing that there is no profit when the stock price is below a certain level.
+   - At a certain point (strike price or breakeven), the line begins to rise at an angle, indicating a profit as the stock price increases.
+   - Eventually, the line becomes flat, indicating a capped profit, which could imply a bull call spread (where profits are limited by selling a higher strike call).
+
+### Interpretation:
+- **Long Call Option:** If this is a long call option, the payoff diagram would show profit beginning at the strike price, increasing as the stock price rises above this level, with no cap.
+- **Bull Call Spread:** If the profit levels off at a certain point, it likely represents a bull call spread, where one call is bought and another is sold at a higher strike, capping the maximum profit.
+
+This diagram is useful for visualizing the profit potential and risk associated with specific options strategies."
+2392,images/QuantitativeAnalysis2_images/42u.png,"This image displays a **scatter plot** with a regression line that explores the relationship between a **Portfolio Manager’s Working Experience (Years)** and **Portfolio Return (%)**.
+
+1. **Axes:**
+   - The horizontal axis represents the **Portfolio Manager’s Working Experience** in years, ranging from 0 to 12 years.
+   - The vertical axis represents the **Portfolio Return** as a percentage, ranging from 0% to 50%.
+
+2. **Data Points:**
+   - Each blue dot represents a data point showing the portfolio return for a specific number of years of experience.
+
+3. **Regression Line and Equation:**
+   - A linear regression line is drawn through the data points to capture the trend.
+   - The equation of the line is \( Y = 2.7127x + 5.8222 \).
+     - The slope \( 2.7127 \) suggests that for each additional year of experience, the portfolio return increases by approximately 2.71%.
+     - The intercept \( 5.8222 \) indicates that even with no experience (0 years), the expected portfolio return starts at about 5.82%.
+   - The \( R^2 \) value is \( 0.8324 \), indicating a strong correlation between the manager’s experience and portfolio return, with about 83.24% of the variation in portfolio return explained by experience.
+
+**Interpretation:**
+- This plot suggests a positive relationship between a portfolio manager’s experience and the return achieved, with more experienced managers generally achieving higher returns.
+- The high \( R^2 \) value implies that experience is a significant factor in explaining portfolio performance, although some variation still exists around the trend line.
+
+In summary, this analysis indicates that portfolio returns tend to increase with the portfolio manager's years of experience, supporting the idea that experience contributes positively to investment performance."
+2406,images/QuantitativeAnalysis2_images/60u.png,"This image displays a set of **histograms** for four different variables labeled **BDEVL**, **BNZLL**, **HLL**, and **HLMAL**. Each histogram likely represents the distribution of returns or another financial metric for these variables.
+
+1. **Histograms Overview:**
+   - Each histogram shows the frequency distribution of values for each variable, providing insight into the shape, center, and spread of each variable's distribution.
+
+2. **Distributions:**
+   - **BDEVL:** The distribution is centered around 0 with a peak near 0.01, suggesting that most values are close to this range, with a few values extending out to approximately -0.10 and 0.05.
+   - **BNZLL:** This distribution is also centered around 0, with most values between -0.02 and 0.02, indicating a narrower range of values compared to BDEVL.
+   - **HLL:** Similar to BDEVL, this distribution has a central peak around 0, but with a slightly wider range, with values extending from -0.05 to 0.05.
+   - **HLMAL:** This distribution has a peak around 0, with values extending from approximately -0.075 to 0.025, suggesting a wider range compared to BNZLL and HLL.
+
+3. **Interpretation:**
+   - All distributions appear to be approximately centered around zero, which is common for returns in finance, where the mean return is often close to zero.
+   - The shapes of the distributions vary, with some having a wider spread (e.g., HLMAL) and others being more tightly clustered (e.g., BNZLL).
+   - The presence of a central peak with values tapering off on either side suggests that these variables may have a normal-like distribution, although they may exhibit skewness or kurtosis based on the histogram shapes.
+
+These histograms provide a visual summary of the distributions of each variable, helping to understand the range, concentration, and variability of values for each. This analysis could be useful in assessing the volatility and behavior of each variable in a financial context."
+2433,images/MarketRiskMeasurementandManagement2_images/23u.png,"This image illustrates a **binomial interest rate tree** used in finance to model interest rate movements over time. The tree shows potential interest rates at different periods, likely for valuing fixed-income securities or bonds.
+
+### Structure of the Tree:
+1. **Time Periods:**
+   - The tree has three time points: **Today**, **1 year**, and **2 years**.
+   - Each period branches into potential future interest rate paths, with different interest rates and cash flows.
+
+2. **Interest Rates:**
+   - **Today:** The initial rate is shown as **4.5749%**.
+   - **1 Year:** There are two possible rates for the 1-year mark:
+     - Upper rate: **7.1826%**
+     - Lower rate: **5.3210%**
+   - **2 Years:** At the 2-year mark, each 1-year rate branches into two possible outcomes, with final cash flows shown.
+     - Cash flows are labeled as **$100.000** with an interest amount of **$12.0** for each scenario.
+
+3. **Cash Flows:**
+   - At the end of the 2-year period, each branch shows a cash flow of **$100.000** with an additional **$12.0**, which likely represents an interest payment on the principal amount of $100,000.
+
+### Interpretation:
+- This binomial tree structure is often used in valuing bonds or interest rate derivatives. It shows potential interest rate scenarios over time, allowing analysts to estimate future cash flows under different interest rate environments.
+- The branching structure reflects the uncertainty in interest rate movements, providing a way to capture different potential outcomes.
+
+In summary, this diagram is a binomial interest rate tree showing possible future rates and cash flows, which can be useful for calculating the value of interest rate-dependent securities by simulating different interest rate paths."
+2449,images/MarketRiskMeasurementandManagement2_images/40u.png,"This image represents a **binomial interest rate tree** showing potential paths for interest rates over time. Each node branches out with a 50% probability for upward or downward movement in interest rates, illustrating various interest rate scenarios.
+
+### Structure of the Tree:
+1. **Starting Rate:**
+   - The initial rate is **3%**.
+
+2. **First Branch (1st Period):**
+   - From the starting rate of 3%, there are two possible rates in the next period:
+     - **4%** (upward movement with a 50% probability).
+     - **2%** (downward movement with a 50% probability).
+
+3. **Second Branch (2nd Period):**
+   - Each rate in the first period branches again with 50% probabilities:
+     - **From 4%:** The rate can increase to **5%** or decrease to **3%**.
+     - **From 2%:** The rate can increase to **3%** or decrease to **1%**.
+
+4. **Probabilities:**
+   - Each branch has a **50% probability**, which shows an equal likelihood of rates moving up or down at each step.
+
+### Interpretation:
+- This tree structure illustrates potential future interest rate scenarios, often used in financial modeling to calculate the value of interest rate-sensitive securities by simulating different paths.
+- By assigning 50% probabilities, this tree assumes symmetric movements, meaning there's an equal chance for rates to rise or fall at each period.
+- The tree ends with possible future rates of **5%, 3%, and 1%**, showing the range of outcomes depending on how rates move over the two periods.
+
+In summary, this binomial interest rate tree demonstrates different interest rate scenarios over two periods, providing a framework for analyzing how changes in interest rates could impact financial valuations."
+3022,images/MarketRiskMeasurementandManagement1_images/1u.png,"This image displays a **binomial interest rate model** with **normally distributed rates and zero drift**, indicating a stochastic process without any upward or downward trend over time. This model is likely used for interest rate simulations.
+
+### Key Elements of the Model:
+1. **Model Equation:**
+   - **dr = σdω**: This equation indicates that the change in the interest rate (\( dr \)) is driven purely by volatility (\( \sigma \)) and a random component (\( dω \)), with no drift term, meaning there is no long-term directional trend.
+
+2. **Initial Interest Rate (R₀):**
+   - The starting rate is **4%**.
+
+3. **Interest Rate Tree Structure:**
+   - **Month 1:**
+     - The interest rate can either move up to **4.52%** or down to **3.48%**, both with no specified probability but likely assuming equal likelihood due to the normal distribution.
+   - **Month 2:**
+     - If the rate at Month 1 is **4.52%**, it can move to an unspecified rate (denoted by ""?"").
+     - If the rate at Month 1 is **3.48%**, it can either revert to **4%** or drop further to **2.961%**.
+
+4. **Interpretation:**
+   - This tree structure shows possible paths for interest rates under a normal distribution with zero drift, simulating the randomness in rate changes over time.
+   - The absence of drift suggests that the rates fluctuate around the initial level without a tendency to increase or decrease in the long run.
+   - The model captures potential interest rate volatility, allowing analysts to assess different scenarios for rate movements over short time periods (monthly, in this case).
+
+### Summary:
+This interest rate model demonstrates possible paths that interest rates might take in a neutral, random-walk environment. The lack of drift emphasizes short-term fluctuations around a stable average, which can be useful for valuing interest rate-sensitive securities in environments with unpredictable but stable rate behavior."
+3023,images/MarketRiskMeasurementandManagement1_images/2u.png,"This image represents a **Ho-Lee Model** interest rate tree with **time-dependent drift**, a commonly used model in finance for modeling interest rate movements over time.
+
+### Key Elements of the Model:
+1. **Model Equation:**
+   - **\( dr = \lambda_t dt + \sigma d\omega \)**: This equation indicates that the change in interest rates (\( dr \)) is influenced by two components:
+     - **\( \lambda_t dt \)**: The time-dependent drift term, which introduces a trend or direction over time.
+     - **\( \sigma d\omega \)**: The stochastic component, representing random fluctuations with volatility \( \sigma \).
+
+2. **Initial Interest Rate (\( R_0 \)):**
+   - The starting rate is **4%**.
+
+3. **Interest Rate Tree Structure:**
+   - **Month 1:**
+     - The rate can either increase to **4.661%** or decrease to **3.506%**.
+   - **Month 2:**
+     - If the rate at Month 1 is **4.661%**, it can further increase to **5.305%** or decrease to **4.150%**.
+     - If the rate at Month 1 is **3.506%**, it can move to **4.150%** or another unspecified rate (denoted by ""?"").
+
+4. **Interpretation:**
+   - This tree structure, with a time-dependent drift term, allows the interest rate to exhibit a directional trend over time, unlike models with zero drift.
+   - The upward and downward movements in each branch capture the potential for rates to fluctuate, with the drift term potentially guiding rates towards certain levels based on time.
+
+### Summary:
+This Ho-Lee model with time-dependent drift demonstrates a way to simulate interest rate paths with both deterministic (drift) and random (stochastic) components, providing a flexible framework for valuing interest rate-sensitive securities by incorporating a trend in rate changes over time."
+3024,images/MarketRiskMeasurementandManagement1_images/3u.png,"This image presents **Model 2**, a binomial interest rate model with **normally distributed rates and incorporating annual drift**. This model adds a deterministic drift component to simulate a trend in interest rates over time.
+
+### Key Elements of the Model:
+1. **Model Equation:**
+   - **\( dr = \lambda dt + \sigma d\omega \)**: This equation shows that the change in interest rate (\( dr \)) depends on:
+     - **\( \lambda dt \)**: The annual drift term (\( \lambda \)), introducing a directional trend over time.
+     - **\( \sigma d\omega \)**: The stochastic component, which captures random variations in the interest rate.
+
+2. **Initial Interest Rate (R₀):**
+   - The starting rate at **3%**.
+
+3. **Interest Rate Tree Structure:**
+   - **Month 1:**
+     - The rate can increase to **3.619%** or decrease to **2.464%**.
+   - **Month 2:**
+     - If the rate at Month 1 is **3.619%**, it can increase to **4.238%** or decrease to **3.083%**.
+     - If the rate at Month 1 is **2.464%**, it can move up to **3.083%** or down to an unspecified rate (denoted by ""?"").
+
+4. **Interpretation:**
+   - This interest rate model introduces an annual drift component, meaning that the rates are expected to follow a trend over time, influenced by the drift factor \( \lambda \).
+   - The branching structure provides potential paths for interest rate evolution under both random and deterministic influences.
+
+### Summary:
+This model illustrates a binomial interest rate tree with normally distributed rates and an annual drift component, allowing for interest rates to trend over time while still incorporating random fluctuations. This structure is useful for valuing interest rate-sensitive securities by modeling potential future rate paths that reflect both a trend and volatility."
+3032,images/MarketRiskMeasurementandManagement1_images/11u.png,"This image shows a **binomial interest rate tree**, depicting potential future interest rates over a series of time steps with branching paths.
+
+### Structure of the Tree:
+1. **Initial Interest Rate:**
+   - The starting rate is **6%**.
+
+2. **First Branch (1st Period):**
+   - The interest rate can move up to **7%** with a **50% probability** or down to **5%** with a **50% probability**.
+
+3. **Second Branch (2nd Period):**
+   - If the rate at the 1st period is **7%**:
+     - It can increase to **8%** with a 50% probability.
+     - It can decrease back to **6%** with a 50% probability.
+   - If the rate at the 1st period is **5%**:
+     - It can increase to **6%** with a 50% probability.
+     - It can decrease to **4%** with a 50% probability.
+
+### Interpretation:
+- This tree represents a model of interest rate fluctuations over time, with each branch reflecting a 50% probability for an upward or downward movement in rates.
+- The structure is useful for modeling various interest rate scenarios, enabling calculations for financial products sensitive to interest rate changes.
+
+### Summary:
+This binomial tree captures potential paths for interest rates over two periods, reflecting both upward and downward movements. It is commonly used in financial modeling to simulate interest rate scenarios for valuing bonds, options, or other interest rate-dependent instruments."
+3044,images/MarketRiskMeasurementandManagement1_images/23u.png,"This image represents a **Vasicek Model** for interest rates, which incorporates **mean-reverting drift**. The Vasicek model is commonly used in financial mathematics to model the evolution of interest rates over time.
+
+### Key Elements of the Model:
+1. **Mean-Reverting Drift:**
+   - The Vasicek model includes a mean-reverting drift, meaning that interest rates tend to move towards a long-term average over time rather than drifting indefinitely in one direction.
+   - This drift helps to prevent rates from moving to extreme levels and ensures stability around a central tendency.
+
+2. **Initial Interest Rate (\( R_0 \)):**
+   - The starting rate is **8%**.
+
+3. **Interest Rate Tree Structure:**
+   - **Month 1:**
+     - The rate can move up to **8.3274%** or down to **7.1726%**.
+   - **Month 2:**
+     - If the rate at Month 1 is **8.3274%**, it can move to \( R_{uu} \).
+     - If the rate at Month 1 is **7.1726%**, it can go to either \( R_{ud} \) or \( R_{dd} \), depending on the next movement.
+
+4. **Labeling of Rates:**
+   - **\( R_{uu} \), \( R_{ud} \), and \( R_{dd} \)** represent the potential rates at Month 2, depending on the combination of movements (up or down) from Month 1 to Month 2.
+
+### Interpretation:
+- This tree illustrates how interest rates may evolve under the Vasicek model, with each branch showing possible movements and outcomes over two periods.
+- The mean-reverting drift component suggests that rates will tend to revert to a central level, providing more predictable long-term behavior compared to models without mean reversion.
+
+### Summary:
+This Vasicek Model tree captures potential interest rate paths with a mean-reverting drift, providing a structured approach to modeling rates that oscillate around a stable average. This model is often used for valuing interest rate-dependent securities due to its realistic approach to rate movements over time."
+3108,images/MarketRiskMeasurementandManagement1_images/87u.png,"This image shows a **volatility smile** or **implied volatility curve**, which is a graphical representation of implied volatility (IV) as it relates to the strike price or moneyness of options.
+
+### Key Elements of the Graph:
+1. **Axes:**
+   - The vertical axis represents **Implied Volatility** (IV), which is the market's forecast of a likely movement in an asset's price.
+   - The horizontal axis likely represents the **Strike Price** or the **Moneyness** of the option, centered around **30**.
+
+2. **Curve Shape:**
+   - The implied volatility curve is downward sloping and flattens out as it moves to the right.
+   - The graph starts with higher implied volatility on the left side, which decreases and then stabilizes as it approaches and moves past the 30 mark.
+
+3. **Interpretation:**
+   - This curve indicates that implied volatility is higher for options that are further out-of-the-money on the left side and decreases as the strike price approaches 30.
+   - Higher implied volatility at lower strikes could reflect the market's expectation of greater risk or price movement for options that are deep out-of-the-money, possibly due to demand for protective puts or speculative calls.
+
+### Summary:
+This implied volatility curve demonstrates the relationship between strike prices and implied volatility, which is useful for assessing option pricing. The declining shape suggests that the market perceives less volatility or risk as the strike price approaches 30, which might represent an equilibrium or fair value point. This curve is commonly used by options traders to analyze volatility trends and price options accurately."
+3152,images/level1_shu_liang_images/38u.png,"This image is a **box plot** that provides a summary of the distribution of a dataset.
+
+### Key Elements of the Box Plot:
+1. **Median (Central Line in the Box):**
+   - The median value of the dataset is **100.49**, represented by the line inside the box.
+
+2. **Interquartile Range (IQR):**
+   - The box spans from the **first quartile (Q1)** to the **third quartile (Q3)**, capturing the middle 50% of the data.
+   - **Q1 (lower boundary of the box)** is **79.74**.
+   - **Q3 (upper boundary of the box)** is **114.25**.
+
+3. **Whiskers:**
+   - The whiskers extend from the box to represent the range of the data within 1.5 times the IQR.
+   - The lower whisker reaches down to **51.51**.
+   - The upper whisker reaches up to **154.45**.
+
+4. **Outliers:**
+   - This plot does not show any individual points outside the whiskers, suggesting no extreme outliers in this dataset.
+
+### Interpretation:
+- The box plot shows that the data is relatively symmetric around the median (100.49), with the middle 50% of values lying between 79.74 and 114.25.
+- The spread of values is larger in the upper half (from the median to 154.45) compared to the lower half, indicating slight positive skewness.
+  
+### Summary:
+This box plot provides a concise view of the data's central tendency (median), spread (IQR), and overall range. It suggests a relatively balanced distribution with a slight skew towards higher values."
+3153,images/level1_shu_liang_images/39u.png,"This image is a **timeline** that represents a cash flow or investment scenario over **20 years**.
+
+### Key Elements of the Timeline:
+1. **Time Periods:**
+   - The timeline begins at **Year 0** and progresses in one-year intervals up to **Year 20**.
+   - Key points are marked at **Year 0, 1, 2, 3, 4, 5, ... , 20**.
+
+2. **Present Value (PV) Marker:**
+   - At **Year 5**, there is a label **PV\(_5\)**, which likely represents the **present value** calculated at that point in time. This could be the present value of cash flows up to that year, or it could represent a significant cash flow or investment event at Year 5.
+
+3. **Final Cash Flow:**
+   - At **Year 20**, a cash flow of **$50,000** is marked. This indicates a future cash flow expected at the end of the 20-year period, which could be the maturity value of an investment, a lump sum payment, or a target amount.
+
+### Interpretation:
+- This timeline could represent an investment scenario where an initial amount is invested, and a future value of $50,000 is anticipated in 20 years.
+- The **PV\(_5\)** label might be used to calculate the present value of future cash flows up to Year 5 or indicate a discounted cash flow amount.
+
+### Summary:
+This timeline provides a visual framework for understanding cash flows over a period of 20 years, with a specific focus on calculating or considering present value at Year 5 and an expected future cash flow of $50,000 at Year 20. It is commonly used in financial planning or investment analysis."
+3163,images/level1_shu_liang_images/49u.png,"This image is a **histogram** combined with a **frequency polygon** that displays the distribution of returns across different intervals.
+
+### Key Elements:
+1. **Histogram Bars:**
+   - The histogram shows **frequency** (y-axis) across various **return intervals** (x-axis).
+   - The return intervals are centered at midpoint values, including approximately **-5%, -3%, -1%, 1%, and 3%**.
+   - The highest frequency occurs at the **1% return midpoint**, indicating that most returns fall within this interval.
+
+2. **Frequency Polygon:**
+   - A line graph (frequency polygon) overlays the histogram, connecting the midpoints of the tops of each bar.
+   - This line provides a visual representation of the shape of the distribution, highlighting the peak and the decline on either side of it.
+
+3. **Distribution Shape:**
+   - The distribution is **unimodal** with a peak around the 1% interval, suggesting that returns are most frequently around this value.
+   - The frequencies decrease symmetrically on either side of the peak, giving the appearance of a **normal distribution** shape.
+
+### Interpretation:
+- The histogram indicates that most returns are clustered around the 1% midpoint, with fewer occurrences of extreme returns (both negative and positive).
+- This shape suggests a **central tendency** with some degree of spread, common in return distributions.
+
+### Summary:
+This histogram with a frequency polygon shows a symmetric, bell-shaped distribution of returns centered around 1%, with a declining frequency as returns move further from the center. This visualization is useful for understanding the typical return range and the distribution's variability."
+3186,images/level1_shu_liang_images/72u.png,"This image shows a **box plot** that provides a statistical summary of a dataset, indicating the central tendency, spread, and potential outliers.
+
+### Key Elements:
+1. **Median (Central Line in the Box):**
+   - The median value of the dataset is **100.49**, represented by the line inside the box.
+
+2. **Interquartile Range (IQR):**
+   - The box represents the **middle 50%** of the data, spanning from the **first quartile (Q1)** to the **third quartile (Q3)**.
+   - **Q1 (lower boundary of the box)** is **79.74**.
+   - **Q3 (upper boundary of the box)** is **114.25**.
+
+3. **Whiskers:**
+   - The whiskers extend from the box to the minimum and maximum values within 1.5 times the interquartile range.
+   - The **lower whisker** extends down to **51.51**.
+   - The **upper whisker** extends up to **154.45**.
+
+4. **Potential Outliers:**
+   - There are no individual points plotted outside the whiskers, which suggests there are no outliers in this dataset.
+
+### Interpretation:
+- The median value of **100.49** is close to the center of the box, indicating a fairly symmetric distribution within the interquartile range.
+- The spread of values is greater in the upper half (from the median to 154.45) compared to the lower half, suggesting a slight positive skew in the data.
+
+### Summary:
+This box plot provides a clear summary of the data's central tendency (median), variability (IQR), and overall range. The distribution appears relatively symmetric around the median, with a slight skew toward higher values. This type of plot is useful for quickly assessing the distribution and identifying potential outliers or variability in the dataset."
+3235,images/level1_shu_liang_images/122u.png,"This table represents a **binomial pricing model** for an asset, showing possible values of the asset at different time intervals: **Today, 3 months, and 6 months**.
+
+### Key Elements:
+1. **Time Intervals:**
+   - The table is divided into three columns representing **Today**, **3 months**, and **6 months**. This indicates the progression of the asset’s potential values over time.
+
+2. **Asset Values and Changes:**
+   - Each cell contains two values:
+     - The **upper number** represents the **asset price** at that point in time.
+     - The **lower number in parentheses** represents a possible **change** or adjustment associated with that price.
+   - For instance:
+     - Today: Asset price is **80.000** with a change of **(7.532)**.
+     - After 3 months: Asset prices are **94.824** with **(15.620)** and **80.000** with no change.
+     - After 6 months: Asset prices are **112.396** with **(32.396)**, **80.000** with no change, and **56.942**.
+
+3. **Interpretation:**
+   - This setup resembles a **binomial tree** in options pricing, where each node represents a potential future value of the asset, and each branch represents a possible price movement (up or down) over the time intervals.
+   - The values in parentheses could represent **changes in value** or **gains/losses** relative to the initial or previous time points.
+
+### Summary:
+This table is a binomial model structure showing the potential future values of an asset at specified intervals (3 and 6 months), starting from an initial price today. It provides a framework for evaluating different price scenarios, commonly used in **options pricing** or **financial modeling** to predict potential outcomes based on varying assumptions."
+3408,images/OperationalRiskandResiliency1_images/45u.png,"This image is a **line chart** showing the **price changes of a 6.0% coupon bond** with a maturity date of **January 1st, 2019**, over the course of the year 2014.
+
+### Key Elements:
+1. **Axes:**
+   - The **y-axis** represents the **bond price** in dollars, ranging from **$105.00 to $112.00**.
+   - The **x-axis** shows the **time period** from **January 2014 to November 2014**, marked in increments of about two months.
+
+2. **Lines:**
+   - The chart displays two lines:
+     - A **solid green line**, indicating one trend of the bond price, which appears to be **decreasing** over time.
+     - A **dashed blue line**, showing a different trend, which generally **increases** over the same period, with some fluctuations.
+
+3. **Interpretation:**
+   - The two lines may represent different pricing methods or market conditions for the same bond, showing how the bond's price could vary under different scenarios.
+   - The green line likely indicates a **decline in bond price** over time, which could be due to interest rate changes or other market conditions.
+   - The blue dashed line might reflect an **alternative valuation** or adjusted market expectation, as it rises with minor fluctuations.
+
+### Summary:
+This chart illustrates two possible price trends for a 6.0% coupon bond in 2014, with one trend (green line) showing a decrease and the other (blue dashed line) showing an increase. This comparison could help in analyzing bond performance under varying market assumptions or valuation methods, providing insight into potential bond price fluctuations over time."
+17,images/ValuationandRiskModels2_images/64u.png,"This table shows the **number of exceptions** (1 through 12) alongside their corresponding **values**, which may represent probabilities, rates, or frequencies.
+
+### Key Elements:
+
+1. **Column Titles:**
+   - The top row displays the **number of exceptions** (1 to 12), likely indicating different categories or levels of exception occurrences within a given dataset.
+
+2. **Values per Exception Level:**
+   - The second row lists the values associated with each number of exceptions.
+   - For instance:
+     - **1 exception** corresponds to **7.16**.
+     - **2 exceptions** correspond to **4.19**.
+     - **3 exceptions** correspond to **2.27**.
+     - The values continue to decrease and fluctuate, with the lowest at **0.02** for **6 exceptions** and other variations up to **4.06** for **12 exceptions**.
+
+3. **Trend Observations:**
+   - The values generally decrease as the number of exceptions increases, reaching a low near the middle, and then increasing again towards the end.
+   - This pattern may suggest an initial decline in the likelihood or rate as exceptions increase, followed by an increase for higher exception counts.
+
+### Interpretation:
+This table likely represents the **frequency or probability of certain numbers of exceptions** occurring within a system or process. It might be used in **risk management**, **quality control**, or **statistical analysis** to track the occurrence rates or significance of exceptions in a dataset, helping analysts understand where exceptions are most or least likely."
+63,images/MarketRiskMeasurementandManagement2_images/49u.png,"This table shows the **number of exceptions** (1 through 12) alongside their corresponding **values**, which may represent probabilities, rates, or frequencies.
+
+### Key Elements:
+
+1. **Column Titles:**
+   - The top row displays the **number of exceptions** (1 to 12), likely indicating different categories or levels of exception occurrences within a given dataset.
+
+2. **Values per Exception Level:**
+   - The second row lists the values associated with each number of exceptions.
+   - For instance:
+     - **1 exception** corresponds to **7.16**.
+     - **2 exceptions** correspond to **4.19**.
+     - **3 exceptions** correspond to **2.27**.
+     - The values continue to decrease and fluctuate, with the lowest at **0.02** for **6 exceptions** and other variations up to **4.06** for **12 exceptions**.
+
+3. **Trend Observations:**
+   - The values generally decrease as the number of exceptions increases, reaching a low near the middle, and then increasing again towards the end.
+   - This pattern may suggest an initial decline in the likelihood or rate as exceptions increase, followed by an increase for higher exception counts.
+
+### Interpretation:
+This table likely represents the **frequency or probability of certain numbers of exceptions** occurring within a system or process. It might be used in **risk management**, **quality control**, or **statistical analysis** to track the occurrence rates or significance of exceptions in a dataset, helping analysts understand where exceptions are most or least likely."
+76,images/foundationorriskmanagement2_images/18u.png,"This table presents four portfolios, each with specified **expected return** and **standard deviation**, providing insights into the risk-return trade-off for each option.
+
+### Details:
+
+- **Portfolio 1**: Expected Return = 4%, Standard Deviation = 2%
+- **Portfolio 2**: Expected Return = 6%, Standard Deviation = 14%
+- **Portfolio 3**: Expected Return = 4%, Standard Deviation = 4%
+- **Portfolio 4**: Expected Return = 10%, Standard Deviation = 14%
+
+### Analysis:
+
+As a rational investor, the goal is to **maximize returns while minimizing risk** (standard deviation).
+
+- **Portfolio 1** is the least risky, with a standard deviation of 2%, but offers a lower return of 4%.
+- **Portfolio 2** has a higher return of 6% but with significantly more risk (14%).
+- **Portfolio 3** offers the same return as Portfolio 1 (4%) but with a higher risk (4% standard deviation).
+- **Portfolio 4** provides the highest return (10%) but also carries the highest risk (14%).
+
+### Likely Choice:
+
+A rational investor would typically choose **Portfolio 1** and **Portfolio 4**, as they represent efficient choices. Portfolio 1 minimizes risk for a 4% return, while Portfolio 4 maximizes return at a comparable level of risk to Portfolio 2."
+79,images/QuantitativeAnalysis1_images/15u.png,"This contingency table shows the distribution of vehicles by whether they have **Air Bags** or **No Air Bags** and whether they have **Bucket Seats** or **No Bucket Seats**. Here’s a breakdown of the data:
+
+|              | Bucket Seats | No Bucket Seats | Total |
+|--------------|--------------|-----------------|-------|
+| **Air Bags** | 75           | 50              | 125   |
+| **No Air Bags** | 35         | 60              | 95    |
+| **Total**    | 110          | 110             | 220   |
+
+### Observations:
+1. **Total with Air Bags**: 125 vehicles
+2. **Total without Air Bags**: 95 vehicles
+3. **Total with Bucket Seats**: 110 vehicles
+4. **Total without Bucket Seats**: 110 vehicles
+
+This table can be useful for calculating probabilities or conducting chi-square tests to see if there is an association between the presence of air bags and the type of seating."
+88,images/QuantitativeAnalysis1_images/21u.png,"This table provides joint probabilities for returns on two assets, \(X\) and \(Y\). Here’s the information presented:
+
+| Return \(X\) | Return \(Y\) | Joint Probability \(P(X,Y)\) |
+|--------------|--------------|------------------------------|
+| -3%          | -2%          | 30%                          |
+| 1%           | 2%           | 50%                          |
+| 5%           | 3%           | 20%                          |
+
+### Observations:
+- The joint probability distribution shows the likelihood of specific pairs of returns occurring together.
+- For example, there’s a 30% chance of \(X\) having a return of -3% and \(Y\) having a return of -2%.
+- This table can be used to calculate expected returns, variances, covariances, and correlations between \(X\) and \(Y\) based on their joint distribution."
+125,images/QuantitativeAnalysis1_images/23u.png,"This table provides information on the probability of different economic scenarios (Boom, Normal, and Slow) and the corresponding returns for two assets, \( R_A \) and \( R_B \), in each scenario.
+
+### Table Breakdown
+
+| Scenario | Probability of Event \( P(\text{Event}) \) | Return for Asset A \( R_A \) | Return for Asset B \( R_B \) |
+|----------|-------------------------------------------|-------------------------------|-------------------------------|
+| Boom     | 0.3                                       | 0.20                          | 0.30                          |
+| Normal   | 0.5                                       | 0.12                          | 0.10                          |
+| Slow     | 0.2                                       | 0.05                          | 0.00                          |
+
+### Observations:
+- The **Boom** scenario has a 30% chance of occurring, with Asset A expected to return 20% and Asset B 30%.
+- The **Normal** scenario has a 50% chance, with Asset A expected to return 12% and Asset B 10%.
+- The **Slow** scenario has a 20% chance, with Asset A expected to return 5% and Asset B 0%.
+  
+This table can be used to calculate the expected return for each asset by weighting the returns in each scenario by their respective probabilities. Additionally, it allows for the assessment of risk based on the variability of returns across different economic conditions."
+128,images/QuantitativeAnalysis1_images/40u.png,"The image shows two values labeled as ""Global Equity Factor.""
+
+- The first value is **-0.0132**, indicating a slightly negative global equity factor.
+- The second value is **0.0089**, indicating a slightly positive global equity factor.
+
+### Interpretation:
+These values likely represent the influence of the global equity factor on some financial model or investment portfolio. A negative factor could imply that the global equity market has had a marginally adverse impact on returns, while a positive factor would imply a marginally beneficial impact. These factors may be used in risk or return calculations, or in models that incorporate global market conditions."
+740,images/level1_quan_yi_images/135u.png,"The table provides financial data for a company, including sales, net income, assets, liabilities, shares outstanding, and share price at year-end. Here are the details:
+
+- **Total sales**: £2,500,000
+- **Net income**: £2,000,000
+- **Beginning of year total assets**: £50,000,000
+- **Beginning of year total liabilities**: £35,000,000
+- **Number of shares outstanding at the end of the year**: 1,000,000
+- **Price per share at the end of the year**: £20
+
+This data can be used to calculate various financial ratios and metrics, such as:
+
+1. **Return on Assets (ROA)** = Net Income / Beginning of Year Total Assets
+2. **Return on Equity (ROE)** = Net Income / (Beginning of Year Total Assets - Beginning of Year Total Liabilities)
+3. **Earnings Per Share (EPS)** = Net Income / Number of Shares Outstanding
+4. **Price to Earnings (P/E) Ratio** = Price per Share / EPS"
+761,images/level1_quan_yi_images/145u.png,"This table provides financial data for a company, including the number of shares outstanding, share price, total assets, total liabilities, and net income. Here are the details:
+
+- **Number of shares outstanding**: 100,000
+- **Price per share**: €52
+- **Total assets**: €12,000,000
+- **Total liabilities**: €7,500,000
+- **Net income**: €2,000,000
+
+Based on this data, several financial ratios and metrics can be calculated:
+
+1. **Equity** = Total Assets - Total Liabilities
+2. **Earnings Per Share (EPS)** = Net Income / Number of Shares Outstanding
+3. **Price to Earnings (P/E) Ratio** = Price per Share / EPS
+4. **Return on Equity (ROE)** = Net Income / Equity"
+3120,images/level1_shu_liang_images/6u.png,"This table presents information on an investment portfolio with different asset classes, each with a specified allocation and return. The details are as follows:
+
+- **Large-cap US equities**: 
+  - Asset Allocation: 20.0%
+  - Asset Class Return: 8.0%
+
+- **Small-cap US equities**:
+  - Asset Allocation: 40.0%
+  - Asset Class Return: 12.0%
+
+- **Emerging market equities**:
+  - Asset Allocation: 25.0%
+  - Asset Class Return: -3.0%
+
+- **High-yield bonds**:
+  - Asset Allocation: 15.0%
+  - Asset Class Return: 4.0%
+
+To calculate the portfolio’s overall return, you can use a weighted average approach:
+\[
+\text{Portfolio Return} = \sum (\text{Asset Allocation} \times \text{Asset Class Return})
+\] 
+
+For example:
+\[
+\text{Portfolio Return} = (20\% \times 8\%) + (40\% \times 12\%) + (25\% \times -3\%) + (15\% \times 4\%)
+\]"
+3121,images/level1_shu_liang_images/7u.png,"This table displays the portfolio's deviations from the benchmark return over a 12-year period, from 2003 to 2014. Each year's deviation is recorded as a percentage, indicating how much the portfolio's return differed from the benchmark in that particular year. Positive values signify years where the portfolio outperformed the benchmark, while negative values indicate underperformance relative to the benchmark.
+
+Here are the deviations:
+
+- **Year 1**: +2.48%
+- **Year 2**: -2.59%
+- **Year 3**: +9.47%
+- **Year 4**: -0.55%
+- **Year 5**: -1.69%
+- **Year 6**: -0.89%
+- **Year 7**: -9.19%
+- **Year 8**: -5.11%
+- **Year 9**: +1.33%
+- **Year 10**: +6.84%
+- **Year 11**: +3.04%
+- **Year 12**: +4.72%
+
+Analyzing this data can provide insights into the portfolio's consistency in outperforming or underperforming the benchmark across different market conditions."
+3178,images/level1_shu_liang_images/64u.png,"This table shows the distribution of returns across different intervals, along with their respective absolute frequencies. It categorizes returns into specific percentage intervals and indicates how many occurrences fall within each range.
+
+Here’s the breakdown:
+
+- **Return Interval -10.0% to -7.0%**: 3 occurrences
+- **Return Interval -7.0% to -4.0%**: 7 occurrences
+- **Return Interval -4.0% to -1.0%**: 10 occurrences
+- **Return Interval -1.0% to +2.0%**: 12 occurrences
+- **Return Interval +2.0% to +5.0%**: 23 occurrences
+- **Return Interval +5.0% to +8.0%**: 5 occurrences
+
+This data can be useful for analyzing the frequency of returns in different ranges, providing insights into the variability and skewness of the returns distribution."
+3181,images/level1_shu_liang_images/67u.png,"This table presents the annual returns (in percentage) for three different portfolios, P, Q, and R, across five years.
+
+Here's the breakdown of the returns:
+
+- **Portfolio P**: 
+  - Year 1: -3.0%
+  - Year 2: 4.0%
+  - Year 3: 5.0%
+  - Year 4: 3.0%
+  - Year 5: 7.0%
+
+- **Portfolio Q**: 
+  - Year 1: -3.0%
+  - Year 2: 6.0%
+  - Year 3: 4.0%
+  - Year 4: 8.0%
+  - Year 5: (Value not shown, represented by a shaded cell)
+
+- **Portfolio R**: 
+  - Year 1: 1.0%
+  - Year 2: -1.0%
+  - Year 3: 4.0%
+  - Year 4: 4.0%
+  - Year 5: 3.0%
+
+This data allows for comparison of the portfolios' performance over the years, showing fluctuations in returns across different time periods."
+3186,images/level1_shu_liang_images/72u.png,"This box plot provides a summary of a data distribution. Here’s a breakdown of the key components displayed:
+
+- **Median (central line within the box)**: 100.49
+- **First Quartile (Q1, lower edge of the box)**: 79.74
+- **Third Quartile (Q3, upper edge of the box)**: 114.25
+- **Minimum (lower whisker)**: 51.51
+- **Maximum (upper whisker)**: 154.45
+
+The box plot shows the spread of the data, with the interquartile range (IQR) represented by the box, which captures the middle 50% of the data between Q1 and Q3. The whiskers extend to the minimum and maximum values, providing a sense of the range and potential outliers if any."
+3188,images/level1_shu_liang_images/74u.png,"This table presents the purchase price of a security over four years:
+
+- **Year 1**: €62.00
+- **Year 2**: €76.00
+- **Year 3**: €84.00
+- **Year 4**: €90.00
+
+The table shows a year-on-year increase in the purchase price of the security, indicating a steady appreciation in value over the four-year period."
+3190,images/level1_shu_liang_images/76u.png,"This table shows the annual percentage returns over a ten-year period. Here are the returns by year:
+
+- **Year 1**: 15.25%
+- **Year 2**: 10.02%
+- **Year 3**: 20.65%
+- **Year 4**: 9.57%
+- **Year 5**: -40.33% (negative return)
+- **Year 6**: 30.79%
+- **Year 7**: 12.34%
+- **Year 8**: -5.02% (negative return)
+- **Year 9**: 16.54%
+- **Year 10**: 27.37%
+
+The table highlights fluctuations in the annual returns, including both gains and losses, with particularly sharp declines in **Year 5** and **Year 8**. Year 5 shows the largest negative return, while Year 6 shows a significant recovery."
+3191,images/level1_shu_liang_images/77u.png,"This table displays the **End of Year Deposits** for each year, with the following breakdown:
+
+- **Year 1**: $4,000
+- **Year 2**: $8,000
+- **Year 3**: $7,000
+- **Year 4**: $10,000
+
+These figures represent the deposits made at the end of each respective year, showing an increasing trend in contributions over the four-year period."
+125,images/level1_gu_shou_images/118u.PNG,"This table presents details for three bonds (A, B, and C), showing their **Maturity**, **Market Value**, **Price**, **Coupon Rate**, **Yield-to-Maturity**, and **Modified Duration**:
+
+- **Bond A**:
+  - Maturity: 6 years
+  - Market Value: 170,000
+  - Price: 85.0000
+  - Coupon Rate: 2.00%
+  - Yield-to-Maturity: 4.95%
+  - Modified Duration: 5.42
+
+- **Bond B**:
+  - Maturity: 10 years
+  - Market Value: 120,000
+  - Price: 80.0000
+  - Coupon Rate: 2.40%
+  - Yield-to-Maturity: 4.99%
+  - Modified Duration: 8.44
+
+- **Bond C**:
+  - Maturity: 15 years
+  - Market Value: 100,000
+  - Price: 100.0000
+  - Coupon Rate: 5.00%
+  - Yield-to-Maturity: 5.00%
+  - Modified Duration: 10.38
+
+This table provides a snapshot of the bonds' characteristics, including their maturity dates, current market values, coupon rates, yield-to-maturity percentages, and sensitivity to interest rate changes as indicated by their modified durations."
