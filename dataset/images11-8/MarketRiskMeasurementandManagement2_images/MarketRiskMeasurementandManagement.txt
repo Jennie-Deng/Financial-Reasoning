@@ -1,0 +1,841 @@
+01-Market Risk Measurement and Management
+单项选择题
+1.Natural gas prices exhibit seasonal volatility. Specifically, the entire forward curve is
+more volatile during the wintertime. Which of the following statements concerning VAR is
+correct if the VAR is estimated using unweighted historical simulation and a three-year sample
+period?
+A.We will\noverstate VAR in the summer and understate VAR in the winter.
+B.We will\noverstate VAR in the summer and overstate VAR in the winter.
+C.We will\nunderstate VAR in the summer and understate VAR in the winter.
+D.We will\nunderstate VAR in the summer and overstate VAR in the winter.
+参考答案：A
+【莽学解析】This method essentially estimates the average volatilityover a three-year window,
+ignoring seasonality. As a result, if the conditionalvolatility is higher during the winter,
+the method will understate the truerisk, and conversely for the summer.(0)
+ 
+2.You are given the following information about the returns of stock P and stock Q: Variance of
+return of stock P = 100.0. Variance of return of stock Q = 225.0. Covariance between the return
+of stock P and the return of stock Q = 53.2. At the end of 1999, you are holding USD 4 million
+in stock P. You are considering a strategy of shifting USD 1 million into stock Q and keeping
+USD 3 million in stock P. What percentage of risk, as measured by standard deviation of return,
+can be reduced by this strategy?
+A.0.005
+B.0.05
+C.0.074
+D.0.097
+参考答案：B
+【莽学解析】The variance of the original portfolio is 1,600, implyinga volatility of 40. The
+new portfolio has variance of 32 × 100 + 12 × 225 + 2 ×53.2 × 3 × 1= 1,444. This gives a
+volatility of 38, which is a reduction of5%. (8)
+ 
+3.You are asked to mark to market a book of plain-vanilla stock options. The trader is short
+deep out-of-the-money options and long at-the-money options. There is a pronounced smile for
+these options. The trader's bonus increases as the value of his book increases. Which approach
+should you use to mark the book?
+A.Use the implied volatility of at-the-money options\nbecause the estimation of the volatility
+is more
+B.Use the average of the implied volatilities for the\ntraded options for which you have data
+because
+C.For each option, use the implied volatility of the\nmost similar option traded on the market.
+D.Use the historical volatility because doing so\ncorrects for the pricing mistakes in the
+option mark
+参考答案：C
+【莽学解析】The book should be marked using volatilities that giveprices that are closest to
+market prices. This means using the ISDs of the mostsimilar options. Also, using ATM ISDs, as
+suggested in answer A, willunderstate the value of the short OTM options, which artificially
+inflates thetrader’s profit.(0)
+ 
+4.A risk manager wants to study the behavior of a portfolio that depends on only two economic
+variables, X and Y. X is uniformly distributed between 4 and 7, and Y is uniformly distributed
+between 5 and 8. The risk manager wants to model their joint distribution, H(X,Y). The theorem
+of Sklar proves that, for any joint distribution H, there is a copula C such that: 
+A.H(3X + 4, 3Y + 5) is equal to C[X,Y].
+B.H(X,Y) is equal to C[u,d] where u is the density\nmarginal distribution of X and d is the
+density ma
+C.H(X,Y) is equal to C[(X – 4)/3, (Y – 5)/3].
+D.H[(X - 4)/3, (Y- 5)/3] is equal to C(X.Y).
+参考答案：C
+【莽学解析】Sklar’s theorem proves that if F(x,y) is a jointdistribution function with
+continuous marginals Fx(x) = u and Fy(y) = v, then F(x,y) can be written in terms of a
+uniquefunction C(u,v) such as F(x,y) = C(u,v). In this case u = (X – 4)/3 (thecumulative
+marginal function of X, which is uniformly distributed between 4 and7) and  v = (Y –
+5)/3. (3)
+ 
+5.A committee of risk management practitioners discusses the difference between pricing deep
+out-of-the-money call options on FBX stock and pricing deep out-of-the-money call options on
+the EUR/JPY foreign exchange rate using the Black-Scholes-Merton (BSM) model. The practitioners
+price these options based on two distinct probability distributions of underlying asset prices
+at the option expiration date:  • A lognormal probability distribution • An implied risk-
+neutral probability distribution obtained from the volatility smile for options of the same
+maturity  Using the lognormal, instead of the implied risk-neutral probability distribution,
+will tend to: 
+A.Price the option on FBX relatively high and price the\noption on EUR\/JPY relatively low.
+B.Price the option on FBX relatively low and price the\noption on EUR\/JPY relatively high.
+C.Price the option on FBX relatively low and price the\noption on EUR\/JPY relatively low.
+D.Price the option on FBX relatively high and price the\noption on EUR\/JPY relatively high.
+参考答案：A
+【莽学解析】The implied distribution of the underlying equity pricesderived using the general
+volatility smile of equity options has a heavier lefttail and a less heavy right tail than a
+lognormal distribution of underlyingprices. Therefore, using the lognormal distribution of
+prices causesdeep-out-of-the-money call options on the underlying to be priced
+relativelyhigh.   The implied distribution of underlying foreign currencyprices derived using
+the general volatility smile of foreign currency optionshas heavier tails than a lognormal
+distribution of underlying prices.Therefore, using the lognormal distribution of prices
+causesdeep-out-of-the-money call options on the underlying to be priced relatively low.  (2)
+ 
+6.Based on Basel II rules for backtesting, a penalty is given to banks that have more than four
+exceptions to their 1-day 99% VaR over the course of 250 trading days. The supervisor gives
+these penalties based on four criteria. Which of the following causes of exceptions is most
+likely to lead to a penalty? 
+A.The bank increases its intraday trading activity.
+B.A large move in interest rates was combined with a\nsmall move in correlations.
+C.The bank’s model calculates interest rate risk based\non the median duration of the bonds in
+the por
+D.A sudden market crisis in an emerging market leads to\nlosses in the equity positions in that
+countr
+参考答案：C
+【莽学解析】In the case of a bank that changed positions morefrequently during the day, a
+penalty should be considered, but it is notnecessarily given. In the case of bad luck, no
+penalty is given, as would bethe case for a bank affected by unpredictable movements in rates
+or markets.However, when risk models are not precise enough, a penalty is typically givensince
+model accuracy could have easily been improved.(0)
+ 
+7.A portfolio manager owns a portfolio of options on a non-dividend paying stock LTM. The
+portfolio is made up of 5,000 deep in-the-money call options on LTM and 25,000 deep out-of-the-
+money call options on LTM. The portfolio also contains 10,000 forward contracts on LTM. LTM is
+trading at USD 84. Assuming 250 trading days in a year and the volatility of LTM is 23% per
+year, which of the following amounts would be closest to the 1day VaR of the portfolio at the
+99 percent confidence level? 
+A.USD 2,701
+B.USD 14,235
+C.USD 30,151
+D.USD 42,706
+参考答案：D
+【莽学解析】We need to map the portfolio to a position in theunderlying stock LTM. A deep in-
+the-money call has a delta of approximately 1,a deep out-of-the-money call has a delta of
+approximately zero and forwardshave a delta of 1. The net portfolio has a delta of about
+1*5,000 + 0*25,000 +1*10,000 = 15,000 and is approximately gamma neutral.   Let: a = 2.33
+(99% confidence level)        S = price per share of stock LTM = USD 84        Δ
+=  delta of theposition = 15,000        σ = volatility of LTM = 0.23  Therefore, the
+1-day VaR estimate at 99 percentconfidence level is computed as follows:  a * S * Δ * σ *
+sqrt(1/T) = 2.33 * 84 * 15,000 *0.23/sqrt(250) = USD 42,706  (0)
+ 
+8.Which of the following about the most common distribution used for peaks-over-threshold is
+false? I. The distribution requires a threshold, shape and scaling parameter. II. The
+distribution of these extreme values follows the GEV distribution. III. The distribution
+produces a curve that dips below the normal distribution prior to the tail and then moves above
+the normal distribution in a curved shaped until it reached the extreme tail. IV. The
+distribution provides a more accurate estimate of the event probabilities in the distribution
+tail, allowing VaR to be computed at high confidence levels.
+A.I and II
+B.II only
+C.III and IV
+D.IV only
+参考答案：A
+【莽学解析】GPD requires a threshold, shape and scaling parameter. Thedistribution of these
+extreme values follow the GPD. GPD produces a curve thatdips below the normal distribution
+prior to the tail and then moves above thenormal distribution in a curved shaped until it
+reached the extreme tail. GPDprovides a more accurate estimate of the event probabilities in
+thedistribution tail, allowing VaR to be computed at high confidence levels. (3)
+ 
+9.Suppose that a central bank’s policy is to allow an exchange rate to fluctuate between 0.97
+and 1.03. What pattern of implied volatilities for options on the exchange rate would you
+expect to see?
+A.
+B.
+C.
+D.
+参考答案：A
+【莽学解析】Because of the limiting range of volatility, it meansthat the minimum of the
+exchange rate is 0.97 and the maximum of it is 1.03. comparedwith the lognormal distribution,
+the distribution of the implied probability ofthe exchange rate have a thinner left tail and a
+thinner right tail. So theexpected implied volatility of the call/ put option which is out-of-
+money orin-the-money is lower than that is at-the-money.(3)
+ 
+10.Suppose an investor expects that the 1-year rate will remain at 6% for the first year for a
+2-year zero-coupon bond. The investor also projects a 50% probability that the 1-year spot rate
+will be 8% in one year and a 50% probability that the 1-year spot rate will be 4% in one year.
+Which of the following inequalities most accurately reflects the convexity effect for this 2-
+year bond using Jensen’s inequality formula?
+A.$0.89031 > $0.89000
+B.$0.89000> $0.80000
+C.$0.94340> $0.89031
+D.$0.94373> $0. 94340
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+11.A risk analyst is comparing the use of parametric and non-parametric approaches for
+calculating VaR and is concerned about some of the characteristics present in the loss data.
+Which of the following distribution characteristics would make parametric approaches the
+favored method to use?
+A.Skewness in the distribution
+B.Fat tails in the distribution
+C.Scarcity of high magnitude loss events
+D.Heteroskedasticity in the distribution
+参考答案：C
+【莽学解析】Non-parametric approaches can accommodate fat tails,skewness, and any other non-
+normal features that can cause problems forparametric approaches. However, if the data period
+that is used in estimationincludes few losses or losses with low magnitude, non-parametric
+methods willoften produce risk measures that are too low. Hence parametric methods would bemore
+appropriate in those situations.(0)
+ 
+12.Computing VaR on a portfolio containing a very large number of positions can be simplified
+by mapping these positions to a smaller number of elementary risk factors. Which of the
+following mappings would be adequate?
+A.USD\/EUR forward contracts are mapped on the USD\/JPY\nspot exchange rate.
+B.Each position in a corporate bond portfolio is mapped\non the bond with the closest maturity
+among a
+C.Government bonds paying regular coupons are mapped on\nzero-coupon government bonds.
+D.A position in the stock market index is mapped on a\nposition in a stock within that index.
+参考答案：C
+【莽学解析】Mapping government bonds paying regular coupons onto zerocoupon government bonds is
+an adequate process, because both categories ofbonds are government issued and therefore have a
+very similar sensitivity torisk factors. However, this is not a perfect mapping since the
+sensitivity ofboth classes of bonds to specific risk factors (i.e. changes in interest
+rates)may differ.(0)
+13.A risk manager is pricing a 10-year call option on 10-year Treasuries using a successfully
+tested pricing model. Current interest rate volatility is high and the risk manager is
+concerned about the effect this may have on short-term rates when pricing the option. Which of
+the following actions would best address the potential for negative short-term interest rates
+to arise in the model?
+A.The risk manager uses a normal distribution of\ninterest rates.
+B.When short-term rates are negative, the risk manager\nadjusts the risk-neutral probabilities.
+C.When short-term rates are negative, the risk manager\nincreases the volatility.
+D.When short-term rates are negative, the risk manager\nsets the rate to zero.
+参考答案：D
+【莽学解析】Negative short-term interest rates can arise in modelsfor which the terminal
+distribution of interest rates follows a normaldistribution. The existence of negative interest
+rates does not make mucheconomic sense since market participants would generally not lend cash
+atnegative interest rates when they can hold cash and earn a zero return. Onemethod that can be
+used to address the potential for negative interest rateswhen constructing interest rate trees
+is to set all negative interest rates tozero. This localizes the change in assumptions to
+points in the distributioncorresponding to negative interest rates and preserves the original
+rate treefor all other observations. In comparison, adjusting the risk neutralprobabilities
+would alter the dynamics across the entire range of interestrates and therefore not be an
+optimal approach.When a model displays the potential for negativeshort-term interest rates, it
+can still be a desirable model to use in certainsituations, especially in cases where the
+valuation depends more on the averagepath of the interest rate, such as in valuing coupon
+bonds. Therefore, thepotential for negative rates does not automatically rule out the use of
+themodel. (2)
+ 
+14.A large commercial bank is using VaR as its main risk measurement tool. Expected shortfall
+(ES) is suggested as a better alternative to use during market turmoil. What should be
+understood regarding VaR and ES before modifying current practices?
+A.Despite being more complicated to calculate, ES is\neasier to backtest than VaR.
+B.Relative to VaR, ES leads to more required economic\ncapital for the same confidence level.
+C.While VaR ensures that the estimate of portfolio risk\nis less than or equal to the sum of
+the risks
+D.Both VaR and ES account for the severity of losses\nbeyond the confidence threshold.
+参考答案：B
+【莽学解析】Expected shortfall is always greater than or equal to VaRfor a given confidence
+level, since ES accounts for the severity of expectedlosses beyond a particular confidence
+level, while VaR measures the minimumexpected loss at that confidence level. Therefore, ES
+would lead to a higherlevel of required economic capital than VaR for the same confidence
+level. Inpractice, however, regulators often correct for the difference between ES andVaR by
+lowering the required confidence level for banks using ES compared tothose using VaR.(2)
+ 
+15.Tycoon Bank announced that there were eight days in the previous year for which losses
+exceeded the daily 99% VAR. As a result, concerns emerged about the accuracy of the VAR
+implementation. Assuming that there are 250 days in the year, which of the following statements
+is/are correct? I. Using a two-tailed 99% confidence level z-score test, the current VAR
+implementation understates the actual risk in the bank's portfolio. II. Using a two-tailed 99%
+confidence level z-score test, the current VAR implementation overstates the actual risk in the
+bank's portfolio. III. The bank's exception rates for VAR may be inaccurate if the bank's
+portfolio changes incorporate the returns from low-risk but highly profitable intraday market
+making activities. IV. If these eight exceptions all happened in the previous month, the model
+should be reexamined for faulty assumptions and invalid parameters.
+A.I and III
+B.I, III, and IV
+C.III only
+D.I, II, and IV
+参考答案：B
+【莽学解析】The z-score gives (8-2.5)(250*0.01*0.99)^(1/2)=3.5. This istoo high (greater than
+2), which leads to rejection of the null that the VARmodel is well calibrated. Hence, VAR is
+too low and statement I. is correct.Statement II. Is incorrect. However, this may be due to
+intraday trading, so III.iscorrect, too. Finally, if all eight exceptions occurred in the last
+month,there is bunching, and the mode should be reexamined, so IV. is correct.(2)
+ 
+16.Which of these statements regarding risk factor mapping approaches is/are correct? I. 
+Under the cash flow (CF) mapping approach, only the risk associated with the average maturity
+of a fixed-income portfolio is mapped. II.  Cash flow mapping is the least precise method of
+risk mapping for a fixed-income portfolio. III.  Under the duration mapping approach, the risk
+of a bond is mapped to a zero-coupon bond of the same duration. IV.  Using more risk factors
+generally leads to better risk measurement but also requires more time to be devoted to the
+modeling process and risk computation.
+A.I and II
+B.I, III, and IV
+C.III and IV
+D.IV only
+参考答案：C
+【莽学解析】Under the cash flow (CF) mapping approach, each payment(and not only the last one)
+is associated with a different risk factor, sostatement I is incorrect. Statement II is
+incorrect because the CF mappingapproach is more correct than duration or maturity mapping.(1)
+ 
+17.The historical simulation (HS) approach is based on the empirical distributions and a large
+number of risk factors. The RiskMetrics approach assumes normal distributions and uses mapping
+on equity indices. The HS approach is more likely to provide an accurate estimate of VAR than
+the RiskMetrics approach for a portfolio that consists of
+A.A small number of emerging market securities
+B.A small number of broad market indexes
+C.A large number of emerging market securities
+D.A large number of broad market indexes
+参考答案：A
+【莽学解析】The question deals with the distribution of the assetsand the effect of
+diversification. Emerging market securities are more volatileand less likely to be normally
+distributed than broad market indices. Inaddition, a small portfolio is less likely to be well
+represented by a mappingapproach, and is less likely to be normal. The RiskMetrics approach
+assumesthat the conditional distribution is normal and simplifies risk by mapping.This will be
+acceptable with a large number of securities with distributionsclose to the normal, which is
+answer d. Answer a. describes the leastdiversified portfolio, for which the HS method is
+best.(10)
+ 
+18.A hedge fund manager has to choose a risk model for a large “equity market neutral”
+portfolio, which has zero beta. Many of the stocks held are recent IPOs. Among the following
+alternatives, the best is:
+A.A single index model with no specific risk, estimated\nover the last year
+B.A diagonal index model with idiosyncratic risk,\nestimated over the last year
+C.A model that maps positions on industry and style\nfactors
+D.A full covariance matrix model using a very short\nwindow
+参考答案：C
+【莽学解析】Answer a. is incorrect because it only considers theportfolio beta, which is zero
+by construction. So, it would erroneouslyconclude that there is no risk. Answer b. is better
+but would miss the risk ofthe IPO positions because they have no history. Answer c. will
+produceunreliable numbers because of the short window. The best solution is to replacethe IPO
+positions by exposures on industry and style factors. (4)
+ 
+19.Brenda Williams is a risk analyst who wants to model the dependence between asset returns
+using copulas and must convince her manager that this is the best approach. Which of the
+following statements are correct? I.  The dependence between the return distributions of
+portfolio assets is critical for risk measurement. II.  Correlation estimates often appear
+stable in periods of low market volatility and then become volatile in stressed market
+conditions. Risk measures calculated using correlations estimated over long horizons will
+therefore underestimate risk in stressed periods. III.  Pearson correlation is a linear
+measure of dependence between the return of two assets equal to the ratio of the covariance of
+the asset returns to the product of their volatilities. IV.  Using copulas, one can construct
+joint return distribution functions from marginal distribution functions in a way that allows
+for more general types of dependence structure of the asset returns.
+A.I, II, and III
+B.II and IV
+C.I, II, III, and IV
+D.I, III, and IV
+参考答案：D
+【莽学解析】The dependence is critical, so statement I is correct.The usual Pearson correlation
+is a linear measure of dependence, so statementIII is correct. Statement IV is also correct.
+For statement II correlationsindeed change over stressed periods, but it is not clear whether
+this biaseslong-term correlations upward or downward. Also, the effect on the portfoliorisk
+depends on the positioning. Hence, there is not enough information tosupport statement II.(6)
+ 
+20.In early 2000, a risk manager calculates the VAR for a technology stock fund based on the
+last three years of data. The strategy of the fund is to buy stocks and write out-of-the-money
+puts. The manager needs to compute VAR. Which of the following methods would yield results that
+are least representative of the risks inherent in the portfolio?
+A.Historical\nsimulation with full repricing
+B.Delta–normal\nVAR assuming zero drift
+C.Monte Carlo\nstyle VAR assuming zero drift with full repricing
+D.Historical simulation using delta- -equivalents for all positions
+参考答案：D
+【莽学解析】Because the portfolio has options, methods a. or c. basedon full repricing would be
+appropriate. Next, recall that technology stockshave had a big increase in price until March
+2000. From 1996 to 1999, the NASDAQindex went from 1300 to 4000. This creates a positive drift
+in the series ofreturns. So, historical simulation without an adjustment for this drift
+wouldbias the simulated returns upward, thereby underestimating VAR.(12)
+ 
+21.Jim Johannsen has collected a large data set of daily market returns for three emerging
+markets. He is concerned about the non-normal skew in the data and is considering non-
+parametric estimation methods. Johannsen is not familiar with these techniques and he discusses
+the procedure with his colleague Lily Tong. During the course of their discussion, Lily makes
+the following statements: I. Age-weighted historical simulation reduces the impact of older
+observations only after surpassing a user-de fined threshold. II. Volatility-weighted
+historical simulation augments historic returns with an additive volatility adjustment. III.
+Filtered historical estimation combines sophisticated parametric and dynamic volatility
+estimation techniques. How many of Ms. Tong's statements are correct?
+A.Zero.
+B.One.
+C.Two.
+D.Three
+参考答案：A
+【莽学解析】Statement I is incorrect because age-weightedhistorical simulation reduces the
+weighting of each successive observation by aconstant decay factor. Statement Il is incorrect
+as volatility-weightedhistorical simulation uses a multiplicative adjustment not additive.
+StatementIII is incorrect because filtered historical simulation combines the
+historicalsimulation model with conditional volatility models.(0)
+ 
+22.The term structure model that incorporates constant drift is referred to as Model 2. This
+model augments Model 1 and is expressed as: dr=λdt + σdw, where λ is the drift term. Using
+Model 2, if we assume that the current short-term rate is 8%, annual volatility is 200 bps, and
+annual drift is 0.48%, which of the following statements is incorrect?
+A.The expected\nvalue of dw equals zero.
+B.The monthly\ndrift is 4 basis points.
+C.The annual risk\npremium is 68 basis points.
+D.The drift may be\nattributed to a 20 basis point change in the rate and a 28 basis point risk
+参考答案：C
+【莽学解析】The drift term is some combination of the expected changein the short-term rare and
+the risk premium, which is not necessarily entirelyattributed to the risk premium.(11)
+ 
+23.The value today of an option-free, 12% annual coupon bond with two years remaining until
+maturity is closest to:
+ 
+A.109.927
+B.111.485.
+C.112.282.
+D.113.394.
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24.Mill Street Bank has accumulated a long history of loan returns. Mill Street believes that
+the underlying distribution of loan returns should follow a normal distribution with a mean of
+ten and a standard deviation of three. The following table identifies tail VaRs at different
+confidence level. Assume the initial analysis uses five tail slices. Calculate the expected
+shortfall at the 95% confidence level and identify the effect on ES when the number of tail
+slices increases.
+ 
+A.
+B.无
+C.无
+D.无
+参考答案：C
+【莽学解析】The expected shortfall calculation takes theaverage of the expected shortfalls at
+varying confidences in the tail region.Since we are told that there are only five tail slices,
+there will be four(i.e., n-1) VaR quantiles. Therefore, ES = [(3.25 + 3.6 + 4.00 + 4.75) / (5 -
+1)] = 3.90. Note that the tail VaR at 95% is not included in the calculationsince ES is the
+average loss beyond 5% VaR. In addition, as the number of tail slices increases, the average
+ES willincrease as the number of higher confidence tail VaRs increases.     (1)
+ 
+25.Suppose an investor expects that the 1-year rate will remain at 5% for the first year for a
+2-year zero-coupon bond. In addition, the investor estimates a 50% probability that 1-year spot
+rates will be 6% in one year and a 50% probability that 1-year spot rates will be 4% in one
+year. Which of the following inequalities most accurately reflects the convexity effect for
+this 2-year bond using Jensen's inequality formula?
+A.$0.95247 >\n$0.95238.
+B.$0.91584 >\n$0.91575.
+C.$0.90711 >\n$0.90703.
+D.$0.89856 >\n$0.89847.
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+ 
+ 
+ 
+ Thus, Jensen's inequality reveals that$0.90711> $0.90703.(2)
+ 
+26.A risk manager is analyzing a 1-day 98% VaR model. Assuming 252 days in a year, what is the
+maximum number of daily losses exceeding the 1-day 98% VaR that is acceptable in a 1-year
+backtest to conclude, at a 95% confidence level, that the model is calibrated correctly?
+A.5
+B.9
+C.10
+D.12
+参考答案：B
+【莽学解析】The risk manager will reject the hypothesis that themodel is correctly calibrated
+if the number x of losses exceeding the VaR issuch that:(x-pT)/sqrt(p(1-p)T)>1.96Where p
+represents the failure rate and is equal to1-98%, or 2%; and T is the number of observations,
+252. Then 1.96=two-tailconfidence level quantile → x>1.96*sqrt(2%*98%*252)+p*T=9.40.So the
+maximum number of exceedances would be 9 toconclude that the model is calibrated correctly.(7)
+ 
+27.A risk manager is constructing a term structure model and intends to use the Cox-Ingersoll-
+Ross Model. Which of the following describes this model?
+A.The model presumes that the volatility of the short\nrate will increase at a predetermined
+rate.
+B.The model presumes that the volatility of the short\nrate will decline exponentially to a
+constant l
+C.The model presumes that the basis-point volatility of\nthe short rate will be proportional to
+the ra
+D.The model presumes that the basis-point volatility of\nthe short rate will be proportional to
+the sq
+参考答案：D
+【莽学解析】In the CIR model, the basis-point volatility of theshort rate is not independent of
+the short rate as other simpler models assume.The annualized basis-point volatility equals and
+therefore increase as a function of thesquare root of the rate.(2)
+ 
+28.Which of the following statements about correlation and copula are correct? i. Copula
+enables the structures of correlation between variables to be calculated separately from their
+marginal distributions. ii. Transformation of variables does not change their correlation
+structure. iii. Correlation can be a useful measure of the relationship between variables drawn
+from a distribution without a defined variance. iv. Correlation is a good measure of dependence
+when the measured variables are distributed as multivariate elliptical.
+A.i and iv only
+B.ii, iii, and iv only
+C.i and iii only
+D.ii and iv only
+参考答案：A
+【莽学解析】“I” is true. Using the copula approach, we can calculatethe structures of
+correlation variables separately from the marginaldistributions. “iv” is also true.
+Correlation is a good measure of dependencewhen the measured variables are distributed as
+multivariate elliptical.“ii” is false. The correlation between transformedvariables will not
+always be the same as the correlation between those samevariables before transformation. Data
+transformation can sometimes alter thecorrelation estimate. “iii” is also false. Correlation
+is not defined unlessvariances are finite.(0)
+ 
+29.A portfolio manager owns a portfolio of options on a non-dividend paying stock RTX. The
+portfolio is made up of 10,000 deep in-the-money call options on RTX and 50,000 deep out-of-
+money call options on RTX. The portfolio also contains 20,000 forward contracts on RTX. RTX is
+trading at USD 100. If the volatility of RTX is 30% per year, which of the following amounts
+would be closest to the 1-day VaR of the portfolio at the 95 percent confidence level, assuming
+252 trading days in a year?
+A.USD 932
+B.USD 92,263
+C.USD 111,122
+D.USD 131,892
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+30.Let X be a random variable representing the daily loss of your portfolio. The “peaks over
+threshold” (POT) approach considers a threshold value, u, of X and the distribution of excess
+losses over this threshold. Which of the following statements about this application of extreme
+value theory is correct?
+A.To apply the POT approach, the distribution of X must\nbe elliptical and known.
+B.If X is normally distributed, the distribution of\nexcess losses requires the estimation of
+only one
+C.To apply the POT approach, one must choose a\nthreshold, u, which is high enough that the
+number of
+D.As the threshold, u, increases, the distribution of\nexcess losses over u converges to a
+generalized
+参考答案：D
+【莽学解析】The distribution of excess losses over u converges to ageneralized Pareto
+distribution as the threshold value u increases. The distribution of X itself can be any of the
+commonlyused distributions: normal, lognormal, t, etc., and will usually be unknown.The
+distribution of excess losses requires the estimation of two parameters, apositive scale
+parameter β and a shape or tail index parameter ξ. Οne mustchoose a threshold u that is high
+enough so that the theory applies but alsolow enough so that there are observations in excess
+of u. (5)
+ 
+31.The Chief Risk Officer of Martingale Investments Group is planning a change in methodology
+for some of the risk management models used to estimate risk measures. His aim is to move from
+models that use the normal distribution of returns to models that use the distribution of
+returns implied by market prices. Martingale Group has a large long position in the German
+equity stock index DAX which has a volatility smile that slopes downward to the right. How will
+the change in methodology affect the estimate of expected shortfall (ES)?
+A.ES with the updated models will be larger than the old estimate.
+B.ES with the updated models will be smaller than the old estimate.
+C.ES will remain unchanged.
+D.Insufficient information to determine.
+参考答案：A
+【莽学解析】A volatility smile is a common graphical shape that results from plotting the
+strike price and implied volatility of a group of options with the same expiration date. Since
+the volatility smile is downward sloping to the right, the implied distribution has a fatter
+left tail compared to the lognormal distribution of returns. This means that an extreme
+decrease in the DAX has a higher probability of occurrence under the implied distribution than
+the lognormal. The ES will therefore be larger when the methodology is modified.(4)
+ 
+32.Which of the following statements about correlation and copula are correct? i. Copula
+enables the structures of correlation between variables to be calculated separately from their
+marginal distributions. ii. Transformation of variables does not change their correlation
+structure. iii. Correlation can be a useful measure of the relationship between variables drawn
+from a distribution without a defined variance. iv. Correlation s a good measure of dependence
+when the measured variables are distributed as multivariate elliptical.
+A.i and iv only
+B.ii, iii, and iv only
+C.i and iii only
+D.ii and iv only
+参考答案：A
+【莽学解析】"i” is true. Using the copula approach, we can calculate the structures of
+correlation between variables separately from the marginal distributions. “iv” is also true.
+Correlation is a good measure of dependence when the measured variables are distributed as
+multivariate elliptical. “ii” is false. The correlation between transformed variables will
+not always be the same as the correlation between those same variables before transformation.
+Data transformation can sometimes alter the correlation estimate. “iii” is also false.
+Correlation is not defined unless variances are finite.(1)
+ 
+33.If volatility(0) is the current (today’s) volatility estimate and volatility(t) is the
+volatility estimate on a previous day(t), which best describes volatility-weighted historical
+simulation?
+A.First conduct typical historical simulation (HS) on return series. Then multiply VaR by
+volatility
+B.First conduct typical historical simulation (HS) on return series. Then multiply VaR by
+volatility
+C.Each historical return(t) is replaced by: return(t)*volatility(0)\/volatility(t). Then
+conduct typi
+D.Each historical return(t) is replaced by: return(t)*volatility(t)\/volatility(0). Then
+conduct typi
+参考答案：C
+【莽学解析】Each historical return(t) is replaced by: return(t)*volatility(0)/volatility(t).
+Then conduct typical historical simulation (HS) on adjusted return series For example, if on
+the historical day (t), the return(t) was -2.0% and volatility(t) was 10%, while today’s
+volatility estimate is 20%, then the adjusted return is -2.0% * 20%/10% = - 4.0% . In this way,
+“Actual returns in any period t are therefore increased (or decreased), depending on whether
+the current forecast of volatility is greater (or less than) the estimated volatility for
+period t . We now calculate the HS P/L using [the adjusted returns] instead of the original
+data set, and then proceed to estimate HS VaRs or ESs in the traditional way (i.e., with equal
+weights, etc.).(2)
+ 
+34.Portfolios (X) and (Y) each have volatility of 20%, but portfolio (Y) has a higher return
+and therefore its absolute VaR is lower; i.e., Absolute VaR = - return * T + deviate *
+volatility * SQRT(T). Which coherence property does this illustrate?
+A.Monotonicity
+B.Subadditivity
+C.Positive Homogeneity
+D.Translational invariance
+参考答案：A
+【莽学解析】Monotonicity means that a random cash flow or future value Y that is always greater
+than X should have a lower risk: this makes sense, because it means that less has to be added
+to Y than to X to make it acceptable, and the amount to be added is the risk measure.(2)
+ 
+35.Consider a trader with an investment in a corporate bond with face value of $100,000 and
+default probability of 0.5%. Over the next period, we can either have no default, with a return
+of zero, or default with a loss of $100,000. The payoffs are thus $100,000 with probability of
+0.5% and +$0 with probability of 99.5%. Since the probability of getting $0 is greater than
+99%, the VAR at the 99% confidence level is $0, without taking the mean into account. This is
+consistent with the definition that VAR is the smallest loss, such that the right-tail
+probability is at least 99%. Now, consider a portfolio invested in three bonds (A, B, C) with
+the same characteristics and independent payoffs. Please compute the portfolio VAR at the 99%
+confidence level (using loss distribution method):
+A.$0
+B.$100,000
+C.$200,000
+D.$300,000
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+36.It is not always apparent how risk should be quantified for a given bank when there are many
+different possible risk measures to consider. Prior to defining pecific measures, one should be
+aware of the general characteristics of ideal risk measures. Such measures should be intuitive,
+stable, easy to understand, coherent, and interpretable in economic terms. In addition, the
+risk decomposition process must be simple and meaningful for a given risk measure. Standard
+deviation, value at risk (VaR), expected shortfall (ES), and spectral and distorted risk
+measures are commonly used measures to calculate economic capital. However, it is not easy to
+select a risk measure to calculate economic capital, as each measure has its respective pros
+and cons. Which of the following statements pertaining to the pros and cons of these risk
+measures is not accurate?
+A.Standard deviation does not have the property of monotonicity, and therefore, it is not
+coherent.
+B.VaR does not have the property of subadditivity, and therefore; it is not coherent.
+C.ES is not stable regardless of the loss distribution.
+D.Spectral and distorted risk measures are neither intuitive nor commonly used in practice.
+参考答案：C
+【莽学解析】Expected shortfall’s stability as a measure of risk depends on the loss
+distribution.(2)
+ 
+37.The annual mean and volatility of a portfolio are 10% and 40%, respectively. The current
+value of the portfolio is GBP 1,000,000. How does the 1-year 95% VaR that is calculated using a
+normal distribution assumption (normal VaR) compare with the 1-year 95% VaR that is calculated
+using the lognormal distribution assumption (lognormal VaR)?
+A.Lognormal VaR is greater than normal VaR by GBP130,400
+B.Lognormal VaR is greater than normal VaR by GBP 175,900
+C.Lognormal VaR is less than normal VaR by GBP 130,400
+D.Lognormal VaR is less than normal VaR by GBP 175,900
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+ 
+ 
+38.A trader has an option position in crude oil with a delta of 100000 barrels and gamma of -
+50000 barrels per dollar move in price. Using the delta-gamma methodology, compute the VaR on
+this position, assuming the extreme move on crude oil is $2.00 per barrel.
+A.$100,000
+B.$200,000
+C.$300,000
+D.$400,000
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+ 
+39.Katherine McCollin is a risk manager who has been assigned the task of designing a risk
+engine for VaR mapping. Which of the following statements accurately describes VaR mapping?
+A.Beta is an important factor in mapping fixed-income portfolios.
+B.Duration mapping is an appropriate method for estimating VaR for mapping forwards and
+interest-rate
+C.VaR mapping involves identifying common risk factors among positions in a portfolio and
+mapping all
+D.A return-based analysis may fail to spot style drift or hidden risks.
+参考答案：D
+【莽学解析】VaR mapping involves identifying common risk factors among positions in a portfolio
+and mapping those positions to risk factors. A return-based analysis may fail to spot style
+drift or hidden risks. Duration, is an important factor in mapping fixed-income portfolios. The
+delta-normal method is an appropriate method for estimating VaR for mapping forwards and
+interest-rate swaps.(0)
+ 
+40.The following decision tree of expected 1-year rates is for a 2-year zero-coupon bond with a
+face value of $1. 
+ 
+ 
+Suppose that investors are risk averse and require a risk premium of 30 basis points for each
+year of interest rate risk. What is the investor's expected or required return for a 2-year
+zero-coupon bond with a face value of $1 using the expected 1-year rates in the decision tree?
+A.2.7%.
+B.3.0%.
+C.3.3%.
+D.3.6%.
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+ 
+ 
+41.An analyst is modeling spot rate changes using short rate term structure models. The current
+short-term interest rate is 5% with a volatility of 80 bps. After one month passes the
+realization of dω, a normally distributed random variable with mean 0 and standard deviation 
+, is -0.5. Assume a constant interest rate drift, λ, of 0.36%. What should the analyst compute
+as the new spot rate? 
+A.5.37%
+B.4.63%
+C.5.76%
+D.0.0424
+参考答案：B
+【莽学解析】
+ 
+ 
+ dr = (0.36%/12) + (0.8*(-0.5)) = -0.37% = -37bps Since the initial short-term rate was 5% and
+dr is -0.37%, the new spot rate in one month is: 5% - 0.37% = 4.63% (1)
+ 
+42.John Jones, FRM, is discussing the appropriate usage of mean-reverting models relative to
+no-drift models, models that incorporate drift, and Ho-Lee models. Jones makes the following
+statements: Statement 1: Both Model 1 (no drift) and the Vasicek model assume parallel shifts
+from changes in the short-term rate.  Statement 2: The Vasicek model assumes decreasing
+volatility of future short-term rates while Model 1 assumes constant volatility of future
+short-term rates. Statement 3: The constant drift model (Model 2) is a more flexible model
+than the Ho-Lee model.  How many of his statements are correct? 
+A.0
+B.1
+C.2
+D.3
+参考答案：B
+【莽学解析】Only statement 2 is correct. The Vasicek model implies decreasing volatility and
+non-parallel shifts from changes in short-term rates. The Ho-Lee model is actually more general
+than Model 2 (the no drift and constant drift models are special cases of the Ho-Lee
+model). (5)
+ 
+43.An empirical distribution of equity price derived from the price of options of such stock
+based on BSM that exhibits a fatter right tail than that of a lognormal distribution would
+indicate:
+A.Equal implied volatilities across low and high strike prices.
+B.Greater implied volatilities for low strike prices.
+C.Greater implied volatilities for high strike prices.
+D.Higher implied volatilities for mid-range strike prices.
+参考答案：C
+【莽学解析】An empirical distribution with a fat right tail generates a higher implied
+volatility for higher strike prices due to the increased probability of observing high
+underlying asset prices.  (8)
+ 
+44.You are asked to mark to market a book of plain vanilla stock options. The trader is short
+deep out-of-money options and long at-the-money options. There is a pronounced smile for these
+options. The trader’s bonus increases as the value of his book increases. Which approach
+should you use to mark the book?
+A.Use the implied volatility of at-the-money options because the estimation of the volatility
+is more
+B.Use the average of the implied volatilities for the traded options for which you have data
+because
+C.For each option, use the implied volatility of the most similar option traded on the market.
+D.Use the historical volatility because doing so corrects for the pricing mistakes in the
+option mark
+参考答案：C
+【莽学解析】The prices obtained with C are the right ones because they correspond to prices at
+which you could sell or buy the options.(2)
+ 
+45.A European put option has two years to expiration and a strike price of $101.00. The
+underlying is a 7% annual coupon bond with three years to maturity. Assume that the risk-
+neutral probability of an up move is 0.76 in year 1 and 0.60 in year 2. The current interest
+rate is 3.00%. At the end of year 1, the rate will either be 5.99% or 4.44%. If the rate in
+year 1 is 5.99%, it will either rise to 8.56% or rise to 6.34% in year 2. If the rate in one
+year is 4.44%, it will either rise to 6.34% or rise to 4.70%. The value of the put option today
+is closet to:
+A.$1.17
+B.$1.30
+C.$1.49
+D.$1.98
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46.An six-monthn analyst is using the delta-normal method to determine the VaR of a fixed
+income portfolio. The portfolio contains a long position in 1-year bonds with a $1 million face
+value and a 6% coupon that is paid semi-annually. The interest rates and twelve-month maturity
+zero-coupon bonds are, respectively, 2% and 2.5%. Mapping the long position to standard
+positions in the six-month and twelve-month zeros, respectively, provides which of the
+following mapped positions?
+A.$30,000 and 1,030,000
+B.$29,500 and 975,610
+C.$29,703 and 1,004,878
+D.$30,300 and 1,035,000
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+ 
+ 
+47.Basel II requires a backtest of a bank’s internal value at risk (VaR) model (IMA). Assume
+the bank’s ten-day 99% VaR is $1 million (minimum of 99% is hard-wired per Basel). The null
+hypothesis is: the VaR model is accurate. Out of 1,000 observations, 25 exceptions are observed
+(we saw the actual loss exceed the VaR 25 out of 1000 observations). (Binomial CDF)
+A.We will probably call the VaR model good (accurate) but we risk a Type I error.
+B.We will probably call the VaR model good (accurate) but we risk a Type II error.
+C.We will probably call the model bad (inaccurate) but we risk a Type I error.
+D.We will probably call the model bad (inaccurate) but we risk a Type II error.
+参考答案：C
+【莽学解析】The probability of 25 or more exceptions will only be observed 1 – 99.996%. So, we
+reject the model. Null = good model. To decide the model is bad model is to reject null and
+this implies a risk of type I error.(5)
+ 
+48.Which of the following statements regarding verification of a VAR model by examining its
+failure rates is false?I. The frequency of exceptions should correspond to the confidence level
+used for the model.II. According to Kupiec (1995), we should reject the hypothesis that the
+model is correct if the LR>3.84.III. Backtesting VAR models with lower confidence levels is
+difficult because the number of exceptions is not high enough to provide meaningful
+information.IV. The range for the number of exceptions must strike a balance between the
+chances of rejecting an accurate model (a type 1error) and the chance of accepting an
+inaccurate model (a type2 error)
+A.I and IV
+B.II only
+C.III only
+D.II and IV
+参考答案：C
+【莽学解析】Backtesting VAR models with higher confidence levels is difficult because the
+number of exceptions is not high enough to provide meaningful information.(3)
+ 
+49.An analyst is backtesting a daily holding period VaR model using a 97.5% confidence level
+over a 255-day period and is using a 3.84 test statistic. The following table shows the
+calculated values of a log-likelihood ratio (LR) at a 97.5% confidence level. 
+ 
+ 
+ Based on the above information, which of the following statements accurately describes the
+VaR model that is being backtested?  
+A.If the number of exceptions is more than 3, we would not reject the model.
+B.If the number of exceptions is more than 2 and less than 12, we may commit a Type II error.
+C.If the number of exceptions is less than 2, we would accept the hypothesis that the model is
+correc
+D.If the number of exceptions is less than 2, we may commit a Type II error.
+参考答案：B
+【莽学解析】If the number of exceptions is more than 2 and less than 12, we would not reject
+the model because the calculated LR is less than 3.84. If we do not reject the model, we may
+commit a TypeII error. A Type II error is defined as accepting an inaccurate model. If the
+number of exceptions is less than 2, we reject the model because the calculated LR is greater
+than 3.84. If we accept the model, we cannot commit a Type I error. A Type I error is defined
+as rejecting an accurate model.(5)
+ 
+50.The peaks-over-threshold (POT) approach is used by a firm to apply extreme value theory
+(EVT) to the distribution of excess losses over a high threshold. The firm estimated the
+following parameter values: distribution scale parameter = 0.90, distribution shape parameter =
+0.15, threshold = 1%, and number of observations that exceed threshold / threshold = 5%.
+Compute the 1% VaR in percentage terms and the corresponding expected shortfall measure.
+A.VaR = 2.64%, and ES = 3.98%.
+B.VaR = 2.51%, and ES = 3.54%.
+C.VaR = 2.27%, and ES = 3.21%.
+D.VaR = 2.19%, and ES = 3.12%.
+参考答案：A
+【莽学解析】
