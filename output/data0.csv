@@ -1,0 +1,1034 @@
+ID,Question Number,Share Context,Share Image,Question Text,Image,Options,Answer,Explanation,QA Type,Question Type,Level of Difficulty,Knowledge Topics,General Topics,Book Label,shared_description,description,待处理,Train,Filter,type
+191,9,"Jules Bianchi is a bond analyst for Maneval Investments, lnc. Bianchi gathers data on
+three corporate bonds, as shown in Exhibit 1.
+To assess the interest rate risk of the three bonds, Bianchi constructs two binomial interest
+rate trees based on a 10% interest rate volatility assumption and a current one-year rate of
+1%. Panel A of Exhibit 2 provides an interest rate tree assuming the benchmark yield curve
+shifts down by 30 bps, and Panel B provides an interest rate tree assuming the benchmark yield
+curve shifts up by 30 bps. Bianchi determines that the AI bond is currently trading at an
+option-adjusted spread (OAS) of 13.95 bps relative to the benchmark yield curve.
+Armand Gillette, a convertible bond analyst, stops by Bianchi's office to discuss two
+convertible bonds. One is issued by DeLille Enterprises (DE) and the other is issued by
+Raffarin Incorporated (RI). Selected data for the two bonds are presented in Exhibits 3 and 4.
+ 
+Gillette makes the following comments to Bianchi:■ “The DE bond does not contain any call or
+put options but the RI bond contains both an embedded call option and put option. I expect that
+DeLille Enterprises will soon announce a common stock dividend of €0.70 per share.”■ “My
+belief is that, over the next year, Raffarin's share price will appreciate toward the
+conversion price but not exceed it.”
+ ","['images/FixedIncome_images/share1-9_1.png"", 'images/FixedIncome_images/share1-9_2.png"", 'images/FixedIncome_images/share1-9_3.png"", 'images/FixedIncome_images/share1-9_4.png']","Based on Exhibit 4 and Gillette's forecast regarding Raffarin's share price,",,"{'A': ""lower than the return on Raffarin's common shares"", 'B': ""the same as the return on Raffarin's common shares"", 'C': ""higher than the return on Raffarin's common shares""}",A,"Over the next year, Gillette believes that Raffarin's share price will continue to
+increase towards the conversion price but not exceed it. If Gillette's forecast becomes true,
+the return on the RI bond will increase but at a lower rate than the increase in Raffarin's
+share price because the conversion price is not expected to be reached.",Knowledge Reasoning QA,text+image,Easy,"Convertible bonds, Share price forecast, Return comparison",Fixed Income,FixedIncome,"### Image Description
+
+#### Exhibit 1: Selected Bond Data
+
+1. **Layout and Structure:**
+   - A table with four columns: Issuer, Coupon Rate, Price, and Bond Description.
+
+2. **Text and Instructions:**
+   - Title: ""Exhibit 1. Selected Bond Data""
+   - Note: ""Each bond has a remaining maturity of three years, annual coupon payments, and a credit rating of BBB.""
+
+3. **Tables and Data:**
+   - **Headers:**
+     - Issuer
+     - Coupon Rate
+     - Price
+     - Bond Description
+   - **Rows and Columns:**
+     - **Row 1:**
+       - Issuer: Ayrault, Inc. (AI)
+       - Coupon Rate: 5.25%
+       - Price: 100.200
+       - Bond Description: Callable at par in one year and two years from today
+     - **Row 2:**
+       - Issuer: Blum, Inc. (BI)
+       - Coupon Rate: 5.25%
+       - Price: 101.300
+       - Bond Description: Option-free
+     - **Row 3:**
+       - Issuer: Cresson Enterprises (CE)
+       - Coupon Rate: 5.25%
+       - Price: 102.100
+       - Bond Description: Putable at par in one year from today
+
+#### Exhibit 2: Binomial Interest Rate Trees
+
+1. **Layout and Structure:**
+   - Two panels: Panel A and Panel B.
+
+2. **Text and Instructions:**
+   - Title: ""Exhibit 2. Binomial Interest Rate Trees""
+   - **Panel A:**
+     - Title: ""Interest Rates Shift Down by 30 bps""
+     - Labeled Years: Year 0, Year 1, Year 2
+   - **Panel B:**
+     - Title: ""Interest Rates Shift Up by 30 bps""
+     - Labeled Years: Year 0, Year 1, Year 2
+
+3. **Tables and Data (Interest Rates):**
+   - **Panel A:**
+     - Year 0: 3.7000%
+     - Year 1: 5.1968% (upper branch), 4.2548% (lower branch)
+     - Year 2: 7.0037% (upper), 5.7342%",,,,1,<class 'str'>
+217,35,"Rayes Investment Advisers specializes in fixed-income portfolio management. Meg Rayes,
+the owner of the firm, would like to add bonds with embedded options to the firm's bond
+portfolio. Rayes has asked Mingfang Hsu, one of the firm's analysts, to assist her in selecting
+and analyzing bonds for possible inclusion in the firm's bond portfolio.Hsu first selects two
+corporate bonds that are callable at par and have the same characteristics in terms of
+maturity, credit quality and call dates. Hsu uses the option adjusted spread (OAS) approach to
+analyse the bonds, assuming an interest rate volatility of 10%. The results of his analysis are
+presented in Exhibit 1.
+Hsu then selects the four bonds issued by RW, Inc. given in Exhibit 2. These bonds all have a
+maturity of three years and the same credit rating. Bonds #4 and #5 are identical to Bond #3,
+an option-free bond, except that they each include an embedded option.
+To value and analyze RW's bonds, Hsu uses an estimated interest rate volatility of 15% and
+constructs the binomial interest rate tree provided in Exhibit 3.
+Rayes asks Hsu to determine the sensitivity of Bond #4's price to a 20 bps parallel shift of
+the benchmark yield curve. The results of Hsu's calculations are shown in Exhibit 4.
+Hsu also selects the two floating-rate bonds issued by Varlep, plc given in Exhibit 5. These
+bonds have a maturity of three years and the same credit rating.
+To value Varlep's bonds, Hsu constructs the binomial interest rate tree provided in Exhibit 6.
+Last, Hsu selects the two bonds issued by Whorton, Inc. given in Exhibit 7. These bonds are
+close to their maturity date and are identical, except that Bond #9 includes a conversion
+option. Whorton's common stock is currently trading at $30 per share.
+ 
+ ","['images/FixedIncome_images/share29-37_1.png"", 'images/FixedIncome_images/share29-37_2.png"", 'images/FixedIncome_images/share29-37_3.png"", 'images/FixedIncome_images/share29-37_4.png"", 'images/FixedIncome_images/share29-37_5.png"", 'images/FixedIncome_images/share29-37_6.png"", 'images/FixedIncome_images/share29-37_7.png']",The value of Bond #9 is equal to the value of Bond #10:,,"{'A': ""plus the value of a put option on Whorton's common stock"", 'B': ""plus the value of a call option on Whorton's common stock"", 'C': ""minus the value of a call option on Whorton's common stock""}",B,"A convertible bond includes a conversion option, which is a call option on the
+issuer's common stock. This conversion option gives the bondholders the right to convert their
+debt into equity. Thus, the value of Bond #9, the convertible bond, is equal to the value of
+Bond #10, the underlying option-free bond (straight bond), plus the value of a call option on
+Whorton's common stock.",Knowledge Reasoning QA,text+image,Easy,"Convertible bonds, Call options, Bond valuation",Fixed Income,FixedIncome,"### Description of the Images
+
+#### Exhibit 1: Summary Results of Hsu’s Analysis Using the OAS Approach
+- **Title**: Exhibit 1. Summary Results of Hsu’s Analysis Using the OAS Approach
+- **Table Layout**:
+  - **Headers**: ""Bond"" and ""OAS (in bps)""
+  - **Rows**:
+    - **Bond #1**: OAS of 25.5 basis points
+    - **Bond #2**: OAS of 30.3 basis points
+
+#### Exhibit 2: Bonds Issued by RW, Inc.
+- **Title**: Exhibit 2. Bonds Issued by RW, Inc.
+- **Table Layout**:
+  - **Headers**: ""Bond', ""Coupon', ""Special Provision""
+  - **Rows**:
+    - **Bond #3**: 4.00% annual, no special provision
+    - **Bond #4**: 4.00% annual, Callable at par at the end of years 1 and 2
+    - **Bond #5**: 4.00% annual, Putable at par at the end of years 1 and 2
+    - **Bond #6**: One-year Libor annually, set in arrears
+
+#### Exhibit 3: Binomial Interest Rate Tree Used to Value RW’s Bonds
+- **Title**: Exhibit 3. Binomial Interest Rate Tree Used to Value RW’s Bonds
+- **Structure**:
+  - **Year 0**: 2.5000%
+  - **Year 1**: 
+    - 4.6343%
+    - 3.4331%
+  - **Year 2**: 
+    - 5.3340%
+    - 3.9515%
+    - 2.9274%
+
+#### Exhibit 4: Sensitivity of Bond #4's Price to a Parallel Shift of the Benchmark Yield Curve
+- **Title**: Exhibit 4. Summary Results of Hsu’s Analysis about the Sensitivity of Bond #4’s Price to a Parallel Shift of the Benchmark Yield Curve
+- **Table Layout**:
+  - **Headers**: ""Magnitude of the Parallel Shift in the Benchmark Yield Curve', ""Full Price of Bond #4 (% of par)""
+  - **Rows**:
+    - **+20 bps shift**: Full Price of 100.478
+",,,,1,<class 'str'>
+218,36,"Rayes Investment Advisers specializes in fixed-income portfolio management. Meg Rayes,
+the owner of the firm, would like to add bonds with embedded options to the firm's bond
+portfolio. Rayes has asked Mingfang Hsu, one of the firm's analysts, to assist her in selecting
+and analyzing bonds for possible inclusion in the firm's bond portfolio.Hsu first selects two
+corporate bonds that are callable at par and have the same characteristics in terms of
+maturity, credit quality and call dates. Hsu uses the option adjusted spread (OAS) approach to
+analyse the bonds, assuming an interest rate volatility of 10%. The results of his analysis are
+presented in Exhibit 1.
+Hsu then selects the four bonds issued by RW, Inc. given in Exhibit 2. These bonds all have a
+maturity of three years and the same credit rating. Bonds #4 and #5 are identical to Bond #3,
+an option-free bond, except that they each include an embedded option.
+To value and analyze RW's bonds, Hsu uses an estimated interest rate volatility of 15% and
+constructs the binomial interest rate tree provided in Exhibit 3.
+Rayes asks Hsu to determine the sensitivity of Bond #4's price to a 20 bps parallel shift of
+the benchmark yield curve. The results of Hsu's calculations are shown in Exhibit 4.
+Hsu also selects the two floating-rate bonds issued by Varlep, plc given in Exhibit 5. These
+bonds have a maturity of three years and the same credit rating.
+To value Varlep's bonds, Hsu constructs the binomial interest rate tree provided in Exhibit 6.
+Last, Hsu selects the two bonds issued by Whorton, Inc. given in Exhibit 7. These bonds are
+close to their maturity date and are identical, except that Bond #9 includes a conversion
+option. Whorton's common stock is currently trading at $30 per share.
+ 
+ ","['images/FixedIncome_images/share29-37_1.png"", 'images/FixedIncome_images/share29-37_2.png"", 'images/FixedIncome_images/share29-37_3.png"", 'images/FixedIncome_images/share29-37_4.png"", 'images/FixedIncome_images/share29-37_5.png"", 'images/FixedIncome_images/share29-37_6.png"", 'images/FixedIncome_images/share29-37_7.png']",The minimum value of Bond #9 is equal to the greater of:,,"{'A': ""the conversion value of Bond #9 and the current value of Bond #10."", 'B': ""the current value of Bond #10 and a call option on Whorton's common stock"", 'C': ""the conversion value of Bond #9 and a call option on Whorton's common stock""}",A,"The minimum value of a convertible bond is equal to the greater of the conversion
+value of the convertible bond (i.e., Bond #9) and the current value of the straight bond (i.e.,
+Bond #10).",Knowledge Reasoning QA,text+image,Easy,"Convertible bonds, Conversion value, Straight bonds",Fixed Income,FixedIncome,"### Description of the Image Contents
+
+#### Exhibit 1
+- **Title**: Summary Results of Hsu’s Analysis Using the OAS Approach
+- **Table Description**:
+  - **Headers**: Bond, OAS (in bps)
+  - **Rows**:
+    - Bond #1: 25.5
+    - Bond #2: 30.3
+- **Summary**: This exhibit presents the Option-Adjusted Spread (OAS) for two bonds labeled Bond #1 and Bond #2.
+
+#### Exhibit 2
+- **Title**: Bonds Issued by RW, Inc.
+- **Table Description**:
+  - **Headers**: Bond, Coupon, Special Provision
+  - **Rows**:
+    - Bond #3: 4.00% annual, no special provision
+    - Bond #4: 4.00% annual, callable at par at the end of years 1 and 2
+    - Bond #5: 4.00% annual, putable at par at the end of years 1 and 2
+    - Bond #6: One-year Libor annually, set in arrears
+- **Summary**: The table lists details about bonds issued by RW, Inc., including their coupon rates and any special provisions.
+
+#### Exhibit 3
+- **Title**: Binomial Interest Rate Tree Used to Value RW’s Bonds
+- **Layout**: A tree diagram with interest rates at different nodes.
+  - **Year 0**: 2.5000%
+  - **Year 1**: 4.6343% and 3.4331%
+  - **Year 2**: 5.3340%, 3.9515%, and 2.9274%
+- **Description**: This binary tree illustrates the progression of interest rates over three years for valuing RW’s bonds.
+
+#### Exhibit 4
+- **Title**: Summary Results of Hsu’s Analysis about the Sensitivity of Bond #4’s Price to a Parallel Shift of the Benchmark Yield Curve
+- **Table Description**:
+  - **Headers**: Magnitude of the Parallel Shift in the Benchmark Yield Curve, Full Price of Bond #4 (% of par)
+  - **Rows**:
+    - +20 bps: 100.478
+    - –20 bps: 101.238
+- **Summary**: This table shows how changes",,,,1,<class 'str'>
+219,37,"Rayes Investment Advisers specializes in fixed-income portfolio management. Meg Rayes,
+the owner of the firm, would like to add bonds with embedded options to the firm's bond
+portfolio. Rayes has asked Mingfang Hsu, one of the firm's analysts, to assist her in selecting
+and analyzing bonds for possible inclusion in the firm's bond portfolio.Hsu first selects two
+corporate bonds that are callable at par and have the same characteristics in terms of
+maturity, credit quality and call dates. Hsu uses the option adjusted spread (OAS) approach to
+analyse the bonds, assuming an interest rate volatility of 10%. The results of his analysis are
+presented in Exhibit 1.
+Hsu then selects the four bonds issued by RW, Inc. given in Exhibit 2. These bonds all have a
+maturity of three years and the same credit rating. Bonds #4 and #5 are identical to Bond #3,
+an option-free bond, except that they each include an embedded option.
+To value and analyze RW's bonds, Hsu uses an estimated interest rate volatility of 15% and
+constructs the binomial interest rate tree provided in Exhibit 3.
+Rayes asks Hsu to determine the sensitivity of Bond #4's price to a 20 bps parallel shift of
+the benchmark yield curve. The results of Hsu's calculations are shown in Exhibit 4.
+Hsu also selects the two floating-rate bonds issued by Varlep, plc given in Exhibit 5. These
+bonds have a maturity of three years and the same credit rating.
+To value Varlep's bonds, Hsu constructs the binomial interest rate tree provided in Exhibit 6.
+Last, Hsu selects the two bonds issued by Whorton, Inc. given in Exhibit 7. These bonds are
+close to their maturity date and are identical, except that Bond #9 includes a conversion
+option. Whorton's common stock is currently trading at $30 per share.
+ 
+ ","['images/FixedIncome_images/share29-37_1.png"", 'images/FixedIncome_images/share29-37_2.png"", 'images/FixedIncome_images/share29-37_3.png"", 'images/FixedIncome_images/share29-37_4.png"", 'images/FixedIncome_images/share29-37_5.png"", 'images/FixedIncome_images/share29-37_6.png"", 'images/FixedIncome_images/share29-37_7.png']",The factor that is currently least likely to affect the risk-return,,"{'A': ""Interest rate movements."", 'B': ""Whorton's credit spreads"", 'C': ""Whorton's common stock price movements""}",C,"The risk-return characteristics of a convertible bond depend on the market price of
+the issuer's common stock (underlying share price) relative to the bond's conversion price.
+When the underlying share price is well below the conversion price, the convertible bond
+exhibits mostly bond risk-return characteristics. In this case, the price of the convertible
+bond is mainly affected by interest rate movements and the issuer's credit spreads. In
+contrast, when the underlying share price is above the conversion price, the convertible bond
+exhibits mostly stock risk-return characteristics. In this case, the price of the convertible
+bond is mainly affected by the issuer's common stock price movements. The underlying share
+price ($30) is lower than the conversion price of Bond #9 ($50). Thus, Bond #9 exhibits mostly
+bond risk-return characteristics and is least affected by Whorton's common stock price
+movements.",Knowledge Reasoning QA,text+image,Easy,"Convertible bonds, Bond risk-return characteristics, Interest rate movements",Fixed Income,FixedIncome,"### Image Descriptions
+
+#### Exhibit 1: Summary Results of Hsu's Analysis Using the OAS Approach
+- **Layout**: A table with two columns.
+- **Headers**: 
+  - Bond
+  - OAS (in bps)
+- **Rows**:
+  1. Bond #1 | 25.5
+  2. Bond #2 | 30.3
+- **Details**: The table presents the Option-Adjusted Spread (OAS) in basis points for two bonds.
+
+#### Exhibit 2: Bonds Issued by RW, Inc.
+- **Layout**: A table with three columns.
+- **Headers**: 
+  - Bond
+  - Coupon
+  - Special Provision
+- **Rows**:
+  1. Bond #3 | 4.00% annual | (No special provision noted)
+  2. Bond #4 | 4.00% annual | Callable at par at the end of years 1 and 2
+  3. Bond #5 | 4.00% annual | Putable at par at the end of years 1 and 2
+  4. Bond #6 | One-year Libor annually, set in arrears | (No special provision noted)
+- **Details**: This table outlines bonds by RW, Inc., detailing their coupon rates and any special provisions like call or put options.
+
+#### Exhibit 3: Binomial Interest Rate Tree Used to Value RW’s Bonds
+- **Layout**: A binomial tree with interest rates for Year 0, Year 1, and Year 2.
+- **Structure**:
+  - **Year 0**: 2.5000%
+  - **Year 1**: 
+    - 4.6343% (top branch)
+    - 3.4331% (bottom branch)
+  - **Year 2**: 
+    - 5.3340% (top branch)
+    - 3.9515% (middle branch)
+    - 2.9274% (bottom branch)
+- **Details**: The tree illustrates the progression of interest rates over a two-year period used for bond valuation.
+
+#### Exhibit 4: Sensitivity Analysis of Bond #4 to Benchmark Yield Curve Shifts
+- **Layout**: A table with two columns.
+- **Headers**: 
+  - Magnitude of the Parallel Shift in the Benchmark Yield",,,,,<class 'str'>
+256,14,,,"When dealing with a hedge fund, a bank would most likely negotiate:",,"{'A': ""A one-way agreement in the bank's favor given the bank's stronger credit rating"", 'B': ""A one-way agreement in the bank's favor agreeing to post collateral to the hedge fund"", 'C': ""A two-way agreement given the relatively small difference in credit quality between the two\nentities."", 'D': ""A two-way agreement where both parties agree to post collateral.""}",A,"The bank would most likely negotiate a one-way agreement in its own favor given the
+higher credit quality of the bank. This type of negotiation is typical when there are large
+differences in credit quality between two entities.",Knowledge Reasoning QA,text only,Easy,"Credit Ratings, Collateral Agreements, Hedge Fund Risk Management",Credit Risk Measurement and Management,Credit Risk Measurement and Management1,,,,,,<class 'str'>
+267,25,,,"Each of the following is true about termination and walkaway features in credit contracts
+except?",,"{'A': ""Termination events give an institution the right to terminate a trade prior to their\ncounterparty's credit-worthiness deteriorating to the point of bankruptcy"", 'B': ""A break clause – a.k.a. liquidity put – is an agreement to terminate a transaction at pre-\nspecified dates in the future at market rates."", 'C': ""Break clause are often linked to additional termination events which are not in the\nstandardized ISDA documentation and therefore are a result of negotiations."", 'D': ""Walkaway features are parts of the standardized ISDA documentation and 'should be utilized' ""}",D,"Walkaway feature are not part of the standardized documentation. Walkaway
+features are rather unpleasant and should be avoided for the following reasons: They create
+an additional cost for a counterparty in the event of default. They create moral hazard since
+an institution is given the incentive to contribute to their counterparty’s default due to the
+financial gain they can make. A walkaway feature may be “priced in” to a transaction. The
+possible gains in counterparty default will then offset the negative component due to potential
+losses that may ultimately “hide” some of the risk.",Knowledge Reasoning QA,text only,Easy,"Credit Risk Management, Credit Contracts, ISDA Documentation",Credit Risk Measurement and Management,Credit Risk Measurement and Management1,,,,,1,<class 'str'>
+307,65,,,"Brent Gulick, a credit analyst with Home Town Bank, is considering the loan application of a
+small, local car dealership. The dealership has been solely owned by Bob justice for more than
+20 years and sells three brands of American automobiles. Because of the rural location, most of
+the cars sold in the past by the dealership have been large pick-up trucks and sports utility
+vehicles. However, sales have declined, and gasoline prices have continued to increase. As a
+result, Justice is considering selling a line of hybrid cars. Justice has borrowed from Home
+Town Bank before but currently does not have a balance outstanding with the bank. Which of the
+following statements is not one of the four components of credit analysis Gulick should be
+evaluating when performing the credit analysis for this potential loan?",,"{'A': ""The business environment', competition', and economic climate in the region."", 'B': ""Justice's character and past payment history with the bank"", 'C': ""The car dealership's balance sheets and income statements for the last few years as well as\nJustice's personal financial situation"", 'D': ""The financial health of Justice's friends and family who could be called upon to guarantee""}",D,"There are four primary components of credit risk evaluation: (1) the borrower’s
+(obligor’s) willingness and capacity to repay the loan, (2) the effect of external conditions
+on the borrower’s ability to repay the loan, (3) the inherent characteristics of the credit
+instrument and the extent to which the characteristics affect the borrower’s willingness and
+ability to repay the loan, and (4) the quality and adequacy of risk mitigants such as
+collateral and loan guarantees. In this case, the local business environment, Justice's
+character, his payment history, and the business’s financial positions are all relevant. While
+risk mitigants such as collateral and loan guarantees are part of credit analysis, it is
+unlikely that a local car dealer who has been in business for 20 years would be seeking a loan
+guarantee from a friend or family member. In addition, even if Justice were looking at a
+potential loan guarantor, Gulick would not simply evaluate his “friends and family” but would
+evaluate the specific person or business that intended to guarantee the loan.",Knowledge Reasoning QA,text only,Easy,"Credit Analysis, External Conditions, Credit Risk Mitigants",Credit Risk Measurement and Management,Credit Risk Measurement and Management1,,,,,1,<class 'str'>
+360,118,,,Which of the following statements is correct regarding credit risk scoring models?,,"{'A': ""A pooled model will result in scores ranging from 300 to 850."", 'B': ""A custom model is cheaper to implement than credit bureau scores."", 'C': ""Multiple requests for new credit will reduce an applicant's credit score"", 'D': ""An example of a characteristic in a scoring model is the applicant's current gross salary of""}",C,"An individual's credit file will show a history of credit requests, with multiple
+requests causing an applicant's credit score to decline. A credit bureau score model (rather
+than pooled model) will result in scores ranging from 300 to 850. A custom model is more
+expensive to implement than credit bureau scores. ""Gross salary with current employer"" is an
+example of a characteristic, with the actual salary number itself representing an attribute.纯
+外部的评分模型（Credit Bureau Scores）",Knowledge Reasoning QA,text only,Easy,"Credit risk scoring models, Credit bureau scores, Custom scoring models",Credit Risk Measurement and Management,Credit Risk Measurement and Management1,,,,,,<class 'str'>
+392,150,,,"Which of the following was not a cause of the misalignment between investors, and rating
+agencies' incentives prior to the credit crisis of 2007-2009?",,"{'A': ""Profit motive of the rating agencies."", 'B': ""Pressure from the originators of securitized products."", 'C': ""Manipulation of the ratings process by the originators."", 'D': ""Investors' lack of understanding of the products they were purchasing""}",D,"According to the findings of the congressionally formed Financial Crisis Inquiry
+Commission, the root causes of the misalignment were the flawed computer models at the rating
+agencies, the profit motive of the rating agencies, pressure from the originators, the drive
+for market share coming from the rating agencies, the rating agencies lack of provided (not
+available) resources to conduct the proper due diligence, and the absence of meaningful public
+oversight. A thorough post-audit of the crisis will also reveal that originators also
+manufactured the securitized products to specifically arrive at a AAA rating given their
+acquired knowledge of the rating agencies, decision flow charts.",Knowledge Reasoning QA,text only,Easy,"Incentive Misalignment, Rating Agencies, Financial Crisis of 2007-2009",Credit Risk Measurement and Management,Credit Risk Measurement and Management1,,,,,1,<class 'str'>
+447,54,"Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.
+(“Ambleu”), a multinational corporation, for a client presentation. Ambleu complies with
+IFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,
+Ngcorp and Cendaró, have different functional currencies: Ngcorp uses the Bindiar franc (FB)
+and Cendaró uses the Crenland guinea (CRG).Yu first analyzes the following three transactions
+to assess foreign currency transaction exposure:Transaction 1: Cendaró sells goods to a non-
+domestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a
+loan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its
+presentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit
+terms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2
+and 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31
+December 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that
+Ambleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15
+July 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.
+Prior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with
+her supervisor, who asks Yu the following two questions:Question 1Would a foreign currency
+translation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures
+should be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To
+complete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017
+consolidated financial statements, presented in Exhibit 2.
+Note 3: The parent company transferred NVK15 million to Cendaró on 1 January 2016 to purchase a
+patent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet
+includes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance
+sheet on 15 July 2016.
+ ","['images/FinancialStatementAnalysis_images/share48-56_1.png"", 'images/FinancialStatementAnalysis_images/share48-56_2.png']","Based on Exhibit 2 and Note 2, the change in Ambleu's consolidated income tax",,"{'A': ""decrease in Ambleu's domestic tax rate"", 'B': ""more profitable business mix in its subsidiaries."", 'C': ""stronger Norvoltian krone relative to the currencies of its subsidiaries.""}",B,"The consolidated income tax rate is calculated as income tax expense divided by
+profit before tax. Note 2 shows that Ambleu's consolidated income tax rate decreases by 2.29%,
+from 34.94% (=94/269) in 2016 to 32.65% (=96/294) in 2017. The largest component of the
+decrease stems from the 1.42% change in the effect of tax rates in non-domestic jurisdictions,
+which lowers Ambleu's consolidated income tax rate in 2016 by 3.34% (=9/269) and in 2017 by
+4.76% (=14/294). The decrease in 2017 could indicate that Ambleu's business mix shifted to
+countries with lower marginal tax rates, resulting in a lower consolidated income tax rate and
+more profit. (The change could also indicate that the marginal tax rates decreased in the
+countries in which Ambleu earns profits.)",Knowledge Reasoning QA,text+image,Hard,"Income tax expense, Profit before tax, Marginal tax rates",Financial Reporting and Analysis,Financial Statement Analysis,"### Image Description and Analysis
+
+#### Exhibit 1: Selected Economic Data for Bindiar and Crenland
+
+##### Layout:
+- The table is titled ""Exhibit 1. Selected Economic Data for Bindiar and Crenland.""
+- It is structured with rows and columns including economic metrics for specific dates and years.
+
+##### Table Details:
+1. **Headers:**
+   - Date
+   - Spot FB/NVK Exchange Rate
+   - Bindiar Inflation Rate (%)
+   - Spot CRG/NVK Exchange Rate
+   - Crenland Inflation Rate (%)
+   - Crenland GPI
+
+2. **Data:**
+   - **2015.12.31:**
+     - Spot CRG/NVK Exchange Rate: 5.6780
+     - Crenland GPI: 100.0
+
+   - **2016.6.1:**
+     - Spot FB/NVK Exchange Rate: 4.1779
+
+   - **2016.7.15:**
+     - Spot FB/NVK Exchange Rate: 4.1790
+
+   - **2016.12.31:**
+     - Spot FB/NVK Exchange Rate: 4.2374
+     - Bindiar Inflation Rate (%): 3.1
+     - Spot CRG/NVK Exchange Rate: 8.6702
+     - Crenland Inflation Rate (%): 40.6
+     - Crenland GPI: 140.6
+
+   - **Average 2016:**
+     - Spot FB/NVK Exchange Rate: 4.3450
+
+   - **2017.12.31:**
+     - Spot FB/NVK Exchange Rate: 4.3729
+     - Bindiar Inflation Rate (%): 2.1
+     - Spot CRG/NVK Exchange Rate: 14.4810
+     - Crenland Inflation Rate (%): 62.3
+     - Crenland GPI: 228.2
+
+   - **Average 2017:**
+     - Spot FB/NVK Exchange Rate: 4.3618
+     - Spot CRG/NVK Exchange Rate: 11.5823
+     - Crenland GPI: 186.2
+
+#### Exhibit 2: Selected Information and Notes from Consolidated Financial Statements of Ambleu S.A. (in NVK millions)
+
+##### Layout:
+- The exhibit is titled ""Exhibit ",,,1,1,<class 'str'>
+733,34,,,"A due diligence specialist is evaluating the risk management process of a hedge fund in
+which his company is considering making an investment. Which of the following statements best
+describes criteria used for such an evaluation?",,"{'A': ""Because of the overwhelming importance of tail risk', the company should not invest in the\nfund unless it fully accounts for fat tails using extreme value theory at the 99.99% level when\nestimating VaR."", 'B': ""Today's best practices in risk management require that a fund employ independent risk service\nproviders and that these service providers play important roles in risk-related decisions"", 'C': ""When considering a leveraged fund', the specialist should assess how the fund estimates risks\nrelated to leverage', including funding liquidity risks during periods of market stress."", 'D': ""It is crucial to assess the fund's valuation policy', and in general if more than 10% of asset""}",C,"Generally speaking, with a leveraged fund, an investor will need to evaluate
+historical and current changes in leverage, as well as the level of liquidity of the portfolio,
+particularly during times of market stress. Certain strategies may in fact expose an investor
+to tail risk, so while an investor should inquire whether the manager believes that tail risk
+exists, and whether or not it is hedged, it is then up to the investor to decide whether to
+accept the risk unhedged or hedge it on their own. Many funds employ independent risk service
+providers to report risks to investors, but these firms do not get involved in risk related
+decision making. And finally, while it is important to know what percentage of the assets is
+exchange-traded and marked to market, what might be acceptable may differ depending on the
+strategy of the fund.",Knowledge Reasoning QA,text only,Easy,"Leverage Risks, Liquidity Risk, Risk Assessment Criteria",Risk Management and Investment Management,Risk Management and Investment Management1,,,,,1,<class 'str'>
+743,44,,,"Which of the following statements about risk management in the pension fund industry is
+correct?",,"{'A': ""A pension plan's total VaR is equal to the sum of its policy-mix VaR and active-management\nVaR"", 'B': ""Pension fund risk analysis does not consider performance relative to a benchmark."", 'C': ""In most defined-benefit pension plans', if liabilities exceed assets', the shortfall does not\ncreate a risk for the plan sponsor."", 'D': ""From the plan sponsor's perspective', nominal pension obligations are similar to a short""}",D,Nominal pension obligations are similar to a short position in a bond,Knowledge Reasoning QA,text only,Easy,"Pension fund risk management, Defined-benefit pension plans, Risk analysis and benchmarks",Risk Management and Investment Management,Risk Management and Investment Management1,,,,,1,<class 'str'>
+1102,26,,,"Brandon Wiene is a financial analyst covering the beverage industry. He is evaluating the
+impact of DEF Beverage's new product line of flavored waters. DEF currently has a debt-to-
+equity ratio of 0.6. The new product line would be financed with $50 million of debt and $100
+million of equity. In estimating the valuation impact of this new product line on DEF's value,
+Wiene has estimated the equity beta and asset beta of comparable companies. In calculating the
+equity beta for the product line, Wiene is intending to use DEF's existing capital structure
+when converting the asset beta into a project beta. Which of the following statements is
+correct?",,"{'A': ""Using DEF's debt-to-equity ratio of 0.6 is appropriate in calculating the new product line's\nequity beta"", 'B': ""Using DEF's debt-to-equity ratio of 0.6 is not appropriate', but rather the debt-to-equity\nratio of the new product', 0.5', is appropriate to use in calculating the new product line's\nequity beta"", 'C': ""Wiene should use the new debt-to-equity ratio of DEF that would result from the additional""}",B,"The debt-to-equity ratio of the new product should be used when making the adjustment from the asset beta, derived from the comparable, to the equity beta of the new product. 
+
+This question asks about Brandon Wiene, a financial analyst responsible for the beverage industry. He is evaluating the impact of DEF Beverage's new flavored water product line. DEF currently has a debt-to-equity ratio of 0.6. The new product line will be financed with $50 million in debt and $100 million in equity. When assessing the impact of this new product line on DEF's value, Wiene evaluates the equity betas and asset betas of comparable companies. 
+
+When calculating the product line's equity beta, Wiene intends to use DEF's existing capital structure to convert the asset beta to the project beta. Which of the following statements is correct? 
+
+To analyze the beta values, the capital structure to use is the debt-to-equity ratio of the new product, which should be $50/100 = 0.5$. Therefore, option B is correct",Knowledge Reasoning QA,text only,Easy,"Capital Structure, Equity Beta, Asset Beta",Corporate Finance,level1_公司金融,,,,,,<class 'str'>
+1170,17,"Jack Dewey is managing partner of DC&H, an investment management firm, and Supriya
+Sardar is an equity analyst with the firm. Dewey recently took over management of the firm’s
+Purity Fund. He is developing a fundamental active investment process for managing this fund
+that emphasizes financial strength and demonstrated profitability of portfolio companies. At
+his previous employer, Dewey managed a fund for which his investment process involved taking
+active exposures in sectors based on the macroeconomic environment and demographic trends.Dewey
+and Sardar meet to discuss developing a fundamental active investment process for the Purity
+Fund. They start by defining the investment universe and market opportunity for the fund, and
+then they pre-screen the universe to obtain a manageable set of securities for further, more
+detailed analysis. Next, Dewey notes that industry and competitive analysis of the list of
+securities must be performed. He then asks Sardar to recommend the next step in development of
+the fundamental active management process.During the next few months, Dewey rebalances the
+Purity Fund to reflect his fundamental active investment process. Dewey and Sardar meet again
+to discuss potential new investment opportunities for the fund. Sardar recommends the purchase
+of AZ Industrial, which she believes is trading below its intrinsic value, despite its high
+price-to-book value (P/B) relative to the industry average.Dewey asks Sardar to perform a
+bottom-up style analysis of the Purity Fund based on the aggregation of attributes from
+individual stocks in the portfolio. Dewey plans to include the results of this style analysis
+in a profile he is preparing for the fund.
+ ",,Sardar's recommendation for the next step should be to:,,"{'A': ""review results from back-testing the strategy."", 'B': ""make recommendations for rebalancing the portfolio."", 'C': ""forecast companies' performances and convert those forecasts into valuations""}",C,"The steps to developing a fundamental active investment process are as follows:1
+Define the investment universe and the market opportunity—the perceived opportunity to earn a
+positive risk-adjusted return to active investing, net of costs—in accordance with the
+investment mandate. The market opportunity is also known as the investment thesis.2 Prescreen
+the investment universe to obtain a manageable set of securities for further, more detailed
+analysis.3 Understand the industry and business for this screened set by performing industry
+and competitive analysis and analyzing financial reports.4 Forecast company performance, most
+commonly in terms of cash flows or earnings.5 Convert forecasts to valuations and identify ex
+ante profitable investments.6 Construct a portfolio of these investments with the desired risk
+profile.7 Rebalance the portfolio with buy and sell disciplines.So, Sardar should recommend
+that the next step in the development of the fundamental active management process be
+forecasting companies' performances and converting those forecasts into valuations.",Knowledge Reasoning QA,text only,Easy,"Investment Analysis, Portfolio Management, Fundamental Analysis",Equity Portfolio Management,Equity Portfolio Management,,,,,,<class 'str'>
+1226,41,"Barbara Andrade is an equity analyst who covers the entertainment industry for
+Greengable Capital Partners, a major global asset manager. Greengable owns a significant
+position with a large unrealized capital gain in Mosely Broadcast Group (MBG). On a recent
+conference call, MBG's management states that they plan to increase the proportion of debt in
+the company's capital structure. Andrade is concerned that any changes in MBG's capital
+structure will negatively affect the value of Greengable's investment.To evaluate the potential
+impact of such a capital structure change on Greengable's investment, she gathers the
+information about MBG given in Exhibit 1.
+Andrade expects that an increase in MBG's financial leverage will increase its costs of debt
+and equity. Based on an examination of similar companies in MBG's industry, Andrade estimates
+MBG's cost of debt and cost of equity at various debt-to-total capital ratios, as shown in
+Exhibit 2.","['images/CorporateIssuers_images/share40-42_1.png"", 'images/CorporateIssuers_images/share40-42_2.png']","Holding operating earnings constant, an increase in the marginal tax rate to",,"{'A': ""result in a lower cost of debt capital."", 'B': ""result in a higher cost of debt capital."", 'C': ""not affect the company's cost of capital""}",A,The after-tax cost of debt decreases as the marginal tax rate increases.,Knowledge Reasoning QA,text+image,Hard,"Corporate finance, Tax effects on financing decisions, Cost of capital",Corporate Finance,Corporate Issuers,"### Image Description
+
+The image consists of two tables labeled as ""Exhibit 1"" and ""Exhibit 2."" Both tables present financial information related to MBG.
+
+#### **Exhibit 1: Current Selected Financial Information for MBG**
+This table provides key financial metrics for MBG and is structured as follows:
+
+- **Layout**: 
+  - The table has one header and six rows, each displaying a different financial metric.
+  
+- **Headers and Data**:
+  - **Yield to maturity on debt**: 8.00%
+  - **Market value of debt**: $100 million
+  - **Number of shares of common stock**: 10 million
+  - **Market price per share of common stock**: $30
+  - **Cost of capital if all equity-financed**: 10.3%
+  - **Marginal tax rate**: 35%
+
+This exhibit gives an overview of MBG's current financial standing, including debt-related figures and equity prices.
+
+#### **Exhibit 2: Estimates of MBG's before Tax Costs of Debt and Equity**
+This table illustrates estimates of costs tied to different debt-to-total capital ratios for MBG.
+
+- **Layout**:
+  - The table includes one header with three columns and four rows of data.
+
+- **Columns**:
+  - **Debt-to-Total Capital Ratio (%)**: Specifies the percentage of total capital that is debt.
+  - **Cost of Debt (%)**: Lists estimated costs associated with each debt level.
+  - **Cost of Equity (%)**: Provides estimated costs associated with equity.
+
+- **Data**:
+  - **20% Ratio**: Cost of Debt - 7.7%, Cost of Equity - 12.5%
+  - **30% Ratio**: Cost of Debt - 8.4%, Cost of Equity - 13.0%
+  - **40% Ratio**: Cost of Debt - 9.3%, Cost of Equity - 14.0%
+  - **50% Ratio**: Cost of Debt - 10.4%, Cost of Equity - 16.0%
+
+#### **Additional Details**
+- The tables are neatly organized, with bold headers marking each exhibit.
+- The data is clearly aligned into rows and columns to facilitate easy reading and interpretation.
+- The information aids in understanding MBG's financial structure and cost estimations under various capital structures.
+
+Overall, the tables provide a clear snapshot of",,,1,1,<class 'str'>
+1327,76,,,The most accurate description of nominal GDP is:,,"{'A': ""a measure of total expenditures at current prices."", 'B': ""the value of goods and services at constant prices."", 'C': ""a measure to compare one nation's economy to another""}",A,"Nominal GDP is defined as the value of goods and services measured at
+current prices. Expenditure is used synonymously with the value of goods and services since
+aggregate expenditures must equal aggregate output of an economy.",Knowledge Reasoning QA,text only,Easy,"Gross Domestic Product (GDP), Nominal vs Real GDP, Economic Indicators",Economics,level1_经济学,,,,,1,<class 'str'>
+1423,10,,,"The single-factor model is used to examine the impact of varying default correlations based
+on a credit position's beta. Each individual firm or credit, i, has a beta correlation, βi,
+with the market, m. Which of the following statements most accurately describes the implication
+of using a specific value m for the market parameter in the single-factor model?",,"{'A': ""The conditional\\nprobability of default will be greater than the unconditional probability of"", 'B': ""The\\nunconditional standard deviation is less than the conditional standard deviation."", 'C': ""Individual\\nidiosyncratic shocks', εi', are positively correlated to other firms' shocks"", 'D': ""Individual asset returns', aj', are independent from other firms' shocks and returns""}",D,"Important implication of the single-factor model is thatindividual asset returns,
+αi, and idiosyncratic shocks, εi are independent from other firms' shocks and returns.",Knowledge Reasoning QA,text only,Hard,"Credit risk modeling, Default correlation, Single-factor model",Credit Risk Measurement and Management,Credit Risk Measurement and Management2,,,,1,1,<class 'str'>
+1500,38,,,"Brenden Hemme, a portfolio manager with Quantum Funds, is constructing an equally weighted,
+two-asset portfolio. Asset returns are normally distributed. Hemme would like to limit the
+portfolio VaR to $45 million at the 95% confidence level. He will invest $200 million in each
+asset. Given the following information, determine which two-asset portfolio allows Hemme to
+remain within the proposed risk budget.",images/RiskManagementandInvestmentManagement2_images/38u.png,"{'A': ""Portfolio AB."", 'B': ""Portfolio AC."", 'C': ""Portfolio BC."", 'D': ""All three potential portfolios exceed Hemme's\\nrisk budget""}",C,"Standard deviation of returns for Portfolio AB =  [(0.5)2(10)2 + (0.5)2(9)2 +
+(2x0.5x0.5x10x9x0.6)]1/2 =8.50% VaRAB = 1.6 x 0.085 x $400 = $56.1 million Standard deviation
+of returns for Portfolio AC = [(0.5)2(10)2 + (0.5)2(11)2 + (2x0.5x0.5x10x11x0.0)]1/2 = 7.43%
+VaRAC = 1.65 x 0.743 x $400 = $49.04 million Standard deviation of returns for Portfolio BC =
+[(0.5)2(9)2 + (0.5)2(11)2 + (2x0.5x0.5x9x11x(-0.4))]1/2 = 5.54% VaRBC = 1.65 x 0.0554 x $400 =
+$36.56 million Based on a limit of $45 million, Portfolio BCremains in Hemme’s risk limit. The
+portfolio standard deviation is lower forPortfolio BC because the correlation coefficient is
+negative, reducing the VaR.     (1)",Math Reasoning QA,text+image,Hard,"Value at Risk (VaR), Portfolio Construction, Correlation and Covariance",Risk Management and Investment Management,RiskManagement and Investment Management2,,"The image contains a structured table with information about three different assets. The layout includes three columns with headers and three rows of data. Here's a detailed description:
+
+### Table Layout:
+- **Headers:**
+  - **Asset**: The category or name of the asset.
+  - **Standard Deviation**: The standard deviation associated with each asset, indicating the level of risk or volatility.
+  - **Correlation**: The correlation coefficients between the specified asset and another asset.
+
+### Data:
+- **Row 1:**
+  - **Asset**: Asset A
+  - **Standard Deviation**: 10%
+  - **Correlation**: Correlation of A with B = 0.6
+
+- **Row 2:**
+  - **Asset**: Asset B
+  - **Standard Deviation**: 9%
+  - **Correlation**: Correlation of B with C = -0.4
+
+- **Row 3:**
+  - **Asset**: Asset C
+  - **Standard Deviation**: 11%
+  - **Correlation**: Correlation of C with A = 0
+
+### Labels and Symbols:
+- The text is clear with each correlation value specified precisely.
+- Numerical data is presented with percentages or correlation coefficients.
+
+### Key Insights:
+- Asset A and Asset B have a positive correlation of 0.6, suggesting they move in the same direction.
+- Asset B and Asset C have a negative correlation of -0.4, suggesting they move in opposite directions.
+- Asset C and Asset A are uncorrelated with a coefficient of 0, indicating no linear relationship.
+
+This table effectively summarizes the volatility and correlation between the specified assets, which is useful for assessing risk and diversification strategies.",,1,1,<class 'str'>
+1695,63,,,"Which of the following statements best describes marking-to-market of a futures contract? At
+the:",,"{'A': ""End of the day，the maintenance margin is increased for traders who lost and decreased for\ntraders who gained."", 'B': ""End of the day, the gains or losses are tallied to the trader's account"", 'C': ""Maturity of the futures contract, the gains or losses are tallied to the trader's account"", 'D': ""Conclusion of each trade, the gains or losses from all previous trades in the futures""}",B,"Marking-to-market means that, at the end of the day, all gains or losses are
+tallied to the trader’s account.",Knowledge Reasoning QA,text only,Easy,"Futures Contracts, Mark-to-Market, Margin Requirements",Financial Markets and Products,Financial Markets and Products1,,,,,1,<class 'str'>
+1980,67,,,A dealer bank's liquidity crisis is least likely to be accelerated by:,,"{'A': ""the refusal of repurchase agreement creditors to renew their positions."", 'B': ""the flight of prime brokerage clients."", 'C': ""a counterparty's request for a novation through another dealer bank"", 'D': ""depositors removing their savings from the dealer bank.""}",D,"A liquidity crisis for a dealer bank is accelerated if counterparties try to reduce
+their exposure by restructuring existing OTC derivatives with the dealer or by requesting a
+novation. The flight of repo creditors and prime brokerage clients can also accelerate a
+liquidity crisis. Lastly, the loss of cash settlement privileges is the final collapse of a
+dealer bank's liquidity.",Knowledge Reasoning QA,text only,Easy,"Liquidity risk, Counterparty risk, Prime brokerage.",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man1,,,,,1,<class 'str'>
+2116,11,,,"The CEO of a regional bank understands that failing to anticipate cash flow needs is one of
+the most serious errors that a firm can make and demands that a good liquidity-at-risk (LaR)
+measurement system be an essential part of the bank's risk management framework. Which of the
+following statements concerning LaR is correct?",,"{'A': ""Reducing the basis risk through hedging decreases LaR."", 'B': ""Hedging using futures has the same impact on LaR as\\nhedging using long option positions."", 'C': ""For a hedged portfolio', the LaR can differ\\nsignificantly from the VaR."", 'D': ""A firm's LaR tends to decrease as its credit quality\\ndeclines""}",C,"The LaR can differ substantially from the VaR in a hedgedportfolio, and in
+different situations can be larger or smaller than the VaR.For example, consider a portfolio
+where futures contracts are used tohedge.  While the hedge can reduce theVaR of the portfolio,
+the LaR can be larger than the VaR as the futurescontracts create an exposure to margin calls
+and the potential for cashoutflows. Alternatively, in situations where the hedging instruments
+do notresult in potential cash outflows over the measurement period (e.g. a portfolioof
+European options which do not expire during the period), the LaR can besmaller than the VaR.(1)",Knowledge Reasoning QA,text only,Hard,"Liquidity-at-Risk (LaR), Value-at-Risk (VaR), Hedging Strategies",Operational Risk,Operational Riskand Resiliency2,,,,1,1,<class 'str'>
+2164,13,"Adam Craw, CFA, is chief executive officer (CEO) of Crawfood, a European private equity
+firm specializing in food retailers. The retail food industry has been consolidating during the
+past two years as private equity funds have closed numerous deals and taken many companies
+private.Crawfood recently hired Lillian Voser, a CFA Level II candidate, as a controller. On
+Voser's first day of work, the head of personnel informs her that by signing the employment
+contract, Voser agrees to comply with the company's code of ethics and compliance manual. She
+hands Voser copies of the code and compliance manual without further comment. Voser spends the
+next hour reading both documents. An excerpt from the compliance manual appears in Exhibit 1.
+When she enters her new office that afternoon, Voser finds a large gift basket sent by her
+sister. The card reads “Congratulations on your new position.” The basket is filled with
+expensive high-quality food items from Greenhornfood—a local small, publicly-traded food
+retailer, which produces many delicatessen products under its own brand name.During the next
+two weeks, Voser meets with all of Crawfood's upper management, including the CEO. In his
+office, Craw praises Voser's efforts to complete the CFA program. “The program is demanding,
+but it is worthwhile.” Craw then explains his investment strategy for choosing Crawfood's
+acquisition targets. He points to a large map on the wall with multi-colored pins marking
+Crawfood's previous takeovers. The map shows acquisitions in all the major cities of Germany
+with one exception—the home of Crawfood headquarters. Craw remarks, “We are currently in
+talks for another purchase. Confidentiality prohibits me from discussing it any further, but
+you will hear more about it soon.”Introduced to Greenhornfood by her sister, Voser quickly
+becomes a loyal customer. She considers it the best food retailer in the vicinity and she
+frequently purchases its products.The following week, the local newspaper features an article
+about Greenhornfood and its young founders. The article describes the company's loyal and
+growing customer base as well as its poor quarterly financial results. Voser notes that the
+stock has steadily declined during the past twelve months. She concludes that the company has
+an inexperienced management team, but its popular product line and loyal customer base make the
+company a potential acquisition target. Voser calls her sister and recommends that she purchase
+Greenhornfood shares because “it would be an attractive acquisition for a larger company.”
+Based on Voser's recommendation, her sister buys €3,000 worth of shares.During the following
+two weeks the stock price of Greenhornfood continues to decline. Voser's sister is uncertain of
+what she should do with her position. She seeks Voser's advice. Voser recommends that her
+sister wait another few days before making her decision and promises to analyze the situation
+in the meantime.While walking by Craw's office the following day, Voser sees a document with
+Greenhornfood's distinctive logo and overhears the company's name through an open office door.
+That evening, Voser tells her sister, “with the price decline, the stock is even more
+attractive.” She recommends that her sister increase her position. Based on her recommendation
+her sister buys an additional €3,000 worth of Greenhornfood shares.One month later, Crawfood
+publicly announces the acquisition of Greenhornfood Company at a 20% premium to the previous
+day's closing price. Following the announcement, Voser's sister boasts about Voser's excellent
+recommendation and timing to her broker.Regulatory authorities initiate an investigation into
+suspicious trading in Greenhornfood shares and options preceding the formal announcement of the
+acquisition. Craw receives a letter from regulatory authorities stating that he is the subject
+of a formal investigation into his professional conduct surrounding the acquisition. He learns
+from the compliance officer that Voser is also under investigation. The compliance officer
+provides no details and out of respect for Voser's privacy, Craw makes no inquiries.The
+situation remains unchanged and the matter is still pending with regulatory authorities several
+months later when Craw receives his annual Professional Conduct Statement (PCS) from CFA
+Institute. He reviews the text asking “In the last two years, have you been . . . the subject
+of…any investigation…in which your professional conduct, in either a direct or supervisory
+capacity, was at issue?”
+ ",['images/EthicalandProfessionalStandards_images/share12-17_1.png'],"According to the CFA Institute Standards, must Voser obtain permission from",,"{'A': ""No."", 'B': ""Yes', because the value of the basket is higher than €50."", 'C': ""Yes', because consent is required by the company's compliance procedures""}",A,"According to Standard I(B)–Independence and Objectivity, members must use
+reasonable care and judgment to achieve and maintain independence and objectivity in their
+professional activities. Although it was sent to Voser's office, the gift basket is a private
+gift from Voser's sister and not likely to affect Voser's professional activities. According to
+Excerpt 4 of the Crawfood compliance manual and Standard IV(B)–Additional Compensation
+Arrangements, employees must obtain permission from their employer before accepting gifts,
+compensation, or other benefits that compete with, or might create a conflict of interest with,
+the employer's interests. The gift basket does not create a conflict or compete with the
+employer's interests.",Knowledge Reasoning QA,text+image,Hard,"Standard I(B) – Independence and Objectivity, Standard IV(B) – Additional Compensation Arrangements, Conflict of Interest",Ethicaland Professional Standards,Ethicaland Professional Standards,"**Image Description:**
+
+The image is a text excerpt titled ""Exhibit 1. Crawfood Company Compliance Manual Excerpts."" It contains a list of four compliance rules provided in a structured paragraph format. 
+
+**Text and Instructions:**
+
+1. **Rule 1:** Employees must not accept gifts, benefits, compensation, or consideration that competes with, or might reasonably be expected to create a conflict of interest with their employer’s interest unless they obtain written consent from all parties involved.
+
+2. **Rule 2:** Officers have responsibility for ensuring that their direct reports—that is, employees whom they directly supervise—adhere to applicable laws, rules, and regulations.
+
+3. **Rule 3:** Employees in possession of material nonpublic information should make reasonable efforts to achieve public dissemination of the information if such actions would not breach a duty.
+
+4. **Rule 4:** Employees shall not trade or cause others to trade in securities of food retailers that may be potential takeover targets of their employer.
+
+**Layout and Structure:**
+
+- The layout consists of a numbered list of statements.
+- Each point is clearly separated and numbered from 1 to 4.
+- The title and list are contained within a rectangular border, which adds emphasis to the text.
+
+**Summary:**
+
+This excerpt from the Crawfood Company Compliance Manual outlines essential guidelines related to conflicts of interest, the responsibilities of officers, handling nonpublic information, and trading in securities. Each rule aims to ensure ethical behavior and compliance with laws and regulations. The format is clear and straightforward, intended for easy understanding and application by employees and officers.",,,1,1,<class 'str'>
+2168,17,"Adam Craw, CFA, is chief executive officer (CEO) of Crawfood, a European private equity
+firm specializing in food retailers. The retail food industry has been consolidating during the
+past two years as private equity funds have closed numerous deals and taken many companies
+private.Crawfood recently hired Lillian Voser, a CFA Level II candidate, as a controller. On
+Voser's first day of work, the head of personnel informs her that by signing the employment
+contract, Voser agrees to comply with the company's code of ethics and compliance manual. She
+hands Voser copies of the code and compliance manual without further comment. Voser spends the
+next hour reading both documents. An excerpt from the compliance manual appears in Exhibit 1.
+When she enters her new office that afternoon, Voser finds a large gift basket sent by her
+sister. The card reads “Congratulations on your new position.” The basket is filled with
+expensive high-quality food items from Greenhornfood—a local small, publicly-traded food
+retailer, which produces many delicatessen products under its own brand name.During the next
+two weeks, Voser meets with all of Crawfood's upper management, including the CEO. In his
+office, Craw praises Voser's efforts to complete the CFA program. “The program is demanding,
+but it is worthwhile.” Craw then explains his investment strategy for choosing Crawfood's
+acquisition targets. He points to a large map on the wall with multi-colored pins marking
+Crawfood's previous takeovers. The map shows acquisitions in all the major cities of Germany
+with one exception—the home of Crawfood headquarters. Craw remarks, “We are currently in
+talks for another purchase. Confidentiality prohibits me from discussing it any further, but
+you will hear more about it soon.”Introduced to Greenhornfood by her sister, Voser quickly
+becomes a loyal customer. She considers it the best food retailer in the vicinity and she
+frequently purchases its products.The following week, the local newspaper features an article
+about Greenhornfood and its young founders. The article describes the company's loyal and
+growing customer base as well as its poor quarterly financial results. Voser notes that the
+stock has steadily declined during the past twelve months. She concludes that the company has
+an inexperienced management team, but its popular product line and loyal customer base make the
+company a potential acquisition target. Voser calls her sister and recommends that she purchase
+Greenhornfood shares because “it would be an attractive acquisition for a larger company.”
+Based on Voser's recommendation, her sister buys €3,000 worth of shares.During the following
+two weeks the stock price of Greenhornfood continues to decline. Voser's sister is uncertain of
+what she should do with her position. She seeks Voser's advice. Voser recommends that her
+sister wait another few days before making her decision and promises to analyze the situation
+in the meantime.While walking by Craw's office the following day, Voser sees a document with
+Greenhornfood's distinctive logo and overhears the company's name through an open office door.
+That evening, Voser tells her sister, “with the price decline, the stock is even more
+attractive.” She recommends that her sister increase her position. Based on her recommendation
+her sister buys an additional €3,000 worth of Greenhornfood shares.One month later, Crawfood
+publicly announces the acquisition of Greenhornfood Company at a 20% premium to the previous
+day's closing price. Following the announcement, Voser's sister boasts about Voser's excellent
+recommendation and timing to her broker.Regulatory authorities initiate an investigation into
+suspicious trading in Greenhornfood shares and options preceding the formal announcement of the
+acquisition. Craw receives a letter from regulatory authorities stating that he is the subject
+of a formal investigation into his professional conduct surrounding the acquisition. He learns
+from the compliance officer that Voser is also under investigation. The compliance officer
+provides no details and out of respect for Voser's privacy, Craw makes no inquiries.The
+situation remains unchanged and the matter is still pending with regulatory authorities several
+months later when Craw receives his annual Professional Conduct Statement (PCS) from CFA
+Institute. He reviews the text asking “In the last two years, have you been . . . the subject
+of…any investigation…in which your professional conduct, in either a direct or supervisory
+capacity, was at issue?”
+ ",['images/EthicalandProfessionalStandards_images/share12-17_1.png'],"According to the CFA Standards, Craw must disclose to CFA Institute the",,"{'A': ""his conduct."", 'B': ""Voser's conduct"", 'C': ""neither his conduct nor Voser's conduct""}",A,"As stated on page ix of the Standards of Practice Handbook, “Members and
+candidates must self disclose on the annual Professional Conduct Statement all matters that
+question their professional conduct, such as involvement in civil litigation, a criminal
+investigation, or being the subject of a written complaint.” Standard VII(A)–Conduct as
+Members and Candidates in the CFA Program prohibits conduct that compromises the reputation of
+the CFA designation including misrepresenting information on the Professional Conduct
+Statement. Members are encouraged but not required to report violations of others. At a
+minimum, Craw should remind Voser of her duty to report the investigation.",Knowledge Reasoning QA,text+image,Hard,"Professional Conduct, CFA Institute Standards, Ethics",Ethicaland Professional Standards,Ethicaland Professional Standards,"The image is a snippet titled ""Exhibit 1. Crawfood Company Compliance Manual Excerpts."" It contains a numbered list outlining specific compliance guidelines for employees. Here is a detailed description:
+
+### Text and Instructions:
+- **Title:** ""Exhibit 1. Crawfood Company Compliance Manual Excerpts""
+
+### List of Instructions:
+1. **Gifts and Conflicts of Interest:** 
+   - Employees must not accept any gifts, benefits, compensation, or consideration that could create a conflict of interest with their employer’s interests unless they receive written consent from all parties involved.
+
+2. **Responsibility of Officers:**
+   - Officers are responsible for ensuring that their direct reports, i.e., employees whom they directly supervise, adhere to applicable laws, rules, and regulations.
+
+3. **Public Dissemination of Information:**
+   - Employees with material nonpublic information should make efforts to publicly disseminate it, provided such actions do not breach any duty.
+
+4. **Trading Restrictions:**
+   - Employees are prohibited from trading or instigating others to trade in securities of food retailers that could be potential takeover targets of their employer.
+
+### Layout and Structure:
+- The content is presented as a formal, numbered list under a bold header.
+- Each point is clearly numbered and articulated, focusing on ethical and responsible conduct related to conflicts of interest, regulatory compliance, information dissemination, and trading practices.
+
+No tables, additional labels, special symbols, or financial metrics are present in this excerpt. The structure and content emphasize ethical guidelines and responsibilities for employees and officers within the Crawfood Company.",,,1,1,<class 'str'>
+2174,6,,,Which of the following statements regarding the responsibilities of the chief risk officer (CRO) is least accurate?,,"{'A': "" The CRO should provide the vision for the organization's risk management"", 'B': "" The CRO may have a solid line reporting to the CEO or a dotted line reporting to the CEO and the board."", 'C': "" In addition to providing overall leadership for risk', the CRO should communicate the organization's risk profile to stakeholders"", 'D': "" Although the CRO is responsible for top-level risk management', he is not responsible for the analytical or systems capabilities for risk management.""}",D,"While it is accurate that the CRO is responsible for top-level risk management, he is also responsible for the analytical or systems capabilities for risk management.",Knowledge Reasoning QA,text only,Easy,"CRO responsibilities, risk management",Foundation of Risk Management,foundation of risk management1,,,,,1,<class 'str'>
+2184,16,,,Which of the following statements regarding corporate risk governance is correct?,,"{'A': "" Management of the organization is ultimately responsible for risk oversight."", 'B': "" A risk committee is useful for enforcing the firm's risk governance principles"", 'C': "" Effective risk governance requires multiple levels of accountability and authority."", 'D': "" The point of risk governance is to minimize the amount of risk taken by the organization.""}",B,"The Board of Directors is ultimately responsible for risk oversight. Effective risk governance simply requires clear accountability, authority, and methods of communication; it is not necessary to have multiple levels. The point of risk governance is to consider the methods in which risk-taking is permitted, optimized, and monitored; it is not necessarily to minimize the amount of risk taken. The real point of risk governance is to increase the value of the organization from the perspective of the shareholders and/or stakeholders.",Knowledge Reasoning QA,text only,Easy,"corporate risk governance, risk oversight, risk committee",Foundation of Risk Management,foundation of risk management1,,,,,1,<class 'str'>
+2198,30,,,Which of the following is TRUE about the relationship between the CAPM and the arbitrage pricing model (APT)?,,"{'A': "" CAPM assumes that the market is the only source of covariance between returns."", 'B': "" If we employ a procedure (e.g.', Roll and Ross) and identify more than one common factor', we can logically reject the CAPM."", 'C': "" Similar to the CAPM', in order to test the APT we need to identify a 'Market Portfolio' of all risky assets"", 'D': "" The APT solution with multiple factors appropriately priced is fully consistent with the form of the CAPM.""}",D,The simplest case in which an APT model is consistent with the simple form of the CAPM is the case where the return-generating function is of the form: R(i) = alpha(i) + beta(i) * R + e(i). The APT solution with multiple factors appropriately priced is fully consistent with the form of the CAPM. We wish to stress this point. Employing the Roll and Ross procedure and finding that more than one common factor is significantly different from zero is not sufficient proof to reject any CAPM.,Knowledge Reasoning QA,text only,Easy,"CAPM, APT model, factor pricing",Foundation of Risk Management,foundation of risk management1,,,,,1,<class 'str'>
+2203,35,,,"According to GARP, 'a recent trend among corporations is to use a board-approved risk appetite to guide management (and potentially) to inform investors.' Which of the following statements is TRUE about the firm’s risk appetite?",,"{'A': "" Risk appetite is the total amount of risk a firm can bear without becoming insolvent."", 'B': "" In practice', the risk appetite should be focused on a single thing: one broad', durable philosophical statement that avoids linkages to the firm’s day-to-day risk management operations because these are bound to change."", 'C': "" Although risk appetite has an upper bound (an upper trigger)', it is similar to a one-sided confidence interval: there is no such thing as a lower bound (a lower trigger) for risk appetite given that less risk is better."", 'D': "" A risk appetite includes the mechanisms (e.g.', detailed policy', business-specific risk statements', and a framework for risk limits) that link a top-level statement to the firm's day-to-day risk management operations""}",D,"In regard to A, B and C, each is FALSE. Risk capacity is the total amount of risk a firm can bear without becoming insolvent. In practice, the risk appetite is two things, a top-level statement and the sum of the mechanisms linking this statement to the firm’s day-to-day operations. Risk appetite is bounded on the upside (below risk capacity) but also has a lower bound: the firm does not aspire to be risk-free.",Knowledge Reasoning QA,text only,Easy,"risk appetite, risk management, risk limits",Foundation of Risk Management,foundation of risk management1,,,,,,<class 'str'>
+2208,40,,,"To hedge risk, the firm's toolbox includes derivatives such as swaps, futures, forwards, and options. About the use of derivatives to hedge, each of the following is true EXCEPT which is inaccurate?",,"{'A': "" Derivatives represent a decision to transfer (or mitigate) the risk when the firm either wants to retain or avoid the risk."", 'B': "" Because hedging can only mute the volatility of accrual-based earnings', hedging cannot increase (or even alter) the firm's cash flows and therefore cannot influence agency risks"", 'C': "" A large conglomerate (i.e.', a firm with multiple business units operating in different industries/sectors) is more likely to create natural hedges than a small', focused firm."", 'D': "" Airlines can cross-hedge the cost of jet fuel with futures contracts on (crude or heating) oil', but if the commodity's price drops rapidly', unhedged airlines are likely to outperform their hedged competitors""}",B,"Hedging can make sense for investors if it is used as a tool to increase the firm's cash flows (rather than to reduce equity investor risk). For example, firms may need to offer their customers a stable price over the next three years, which may be impossible without hedging a key cost input. If hedging like this increases customer demand, then equity investors are happy.",Knowledge Reasoning QA,text only,Easy,"hedging, derivatives, risk management",Foundation of Risk Management,foundation of risk management1,,,,,1,<class 'str'>
+2211,43,,,A big part of a risk manager’s job is to identify her firm’s risk factors. Each of the following statements about risk factors is true EXCEPT which is false?,,"{'A': "" Two examples of primary risk factors include the return on a broad stock market index and the risk-free spot interest rate."", 'B': "" For any risk factors that are represented by categorical or discrete variables', the risk manager should seek to replace them with either interval', ratio', or continuous risk factor variables."", 'C': "" One of the risk manager’s key activities is to deconstruct primitive risk factors into the important loss drivers', the relationship of those loss drivers with each other', and the wider business environment."", 'D': "" Machine learning', as a subset of artificial intelligence', holds the potential to help risk managers identify the 'unknown unknowns""}",B,"Instead, many risk factors are characterized by categorical or discrete variables. In terms of option D, GARP writes, 'Across the risk industries, massive computing power can now help risk managers spot patterns and relationships in data more quickly. Unsupervised machine learning can help the risk manager identify the unknown unknowns through identifying clusters and correlations without specifying the area of interest in advance.'",Knowledge Reasoning QA,text only,Easy,"risk factors, machine learning, artificial intelligence",Foundation of Risk Management,foundation of risk management1,,,,,1,<class 'str'>
+2234,69,,,The market portfolio in Capital Market Theory is determined by:,,"{'A': "" A line tangent to the efficient frontier， drawn from any point on the expected return axis."", 'B': "" A straight line drawn to any efficient portfolio."", 'C': "" A line tangent to the efficient frontier, drawn from the risk-free rate of return."", 'D': "" The intersection of the efficient frontier and the investor's highest utility curve""}",C,\text{The Capital Market Line is a straight line drawn from the risk-free rate of return (on the Y axis) through the market portfolio. The market portfolio is determined as where that straight line is exactly tangent to the efficient frontier. ,Knowledge Reasoning QA,text only,Easy,market portfolio,Foundation of Risk Management,foundation of risk management1,,,,,,<class 'str'>
+2239,74,,,"Roger is an analyst employing the capital asset pricing model (CAPM) to estimate the return of a portfolio. However, his colleague Sally makes four observations. Which of the following observations, if true, does NOT violate the assumption of CAPM?
+A. Sally proves that the portfolio securities' returns are heavy-tailed (leptokurtic).
+B. Sally observes that other investors have different views about the expected returns and variances of the portfolio securities.
+C. If Roger makes a purchase of a security in the portfolio, his purchase will NOT increase (or impact) the price of the security.
+D. Sally points out that Roger incurs transaction costs, cannot short sell, and cannot borrow at the risk-rate.",,"{'A': "" Sally proves that the portfolio securities' returns are heavy-tailed (leptokurtic)"", 'B': "" Sally observes that other investors have different views about the expected returns and variances of the portfolio securities."", 'C': "" If Roger makes a purchase of a security in the portfolio, his purchase will NOT increase (or impact) the price of the security."", 'D': "" Sally points out that Roger incurs transaction costs, cannot short sell, and cannot borrow at the risk-rate.""}",C,"In regard to A, standard CAPM utilizes the mean-variance framework such that only the first two moments are considered and returns are assumed multivariate normal. An individual cannot affect the price of a stock by his buying or selling action. This is analogous to the assumption of perfect competition. While no single investor can affect prices by an individual action, investors in total determine prices by their actions. In regard to B, homogenous expectations is arguably the key assumption that leads to equilibrium. In regard to D, transaction cost doesn’t exist in the assumptions of CAPM. Also, short sell and borrow at risk-free rate should be allowed.",Knowledge Reasoning QA,text only,Easy,"CAPM assumptions, market equilibrium",Foundation of Risk Management,foundation of risk management1,,,,,,<class 'str'>
+2267,104,,,"For an investor to move further up the Capital Market Line than the market portfolio, the investor must:",,"{'A': "" reduce the portfolio's risk below that of the market"", 'B': "" continue to invest only in common stocks."", 'C': "" borrow and invest in the market portfolio."", 'D': "" diversify the portfolio even more.""}",C,"Portfolios that lie to the right of the market portfolio on the capital market line ('up' the capital market line) are created by borrowing funds to own more than 100% of the market portfolio (M). The statement, 'diversify the portfolio even more' is incorrect because the market portfolio is fully diversified. Therefore, borrowing and leveraging is the correct action to move further up the line.",Knowledge Reasoning QA,text only,Easy,"Capital Market Line, portfolio theory",Foundation of Risk Management,foundation of risk management1,,,,,1,<class 'str'>
+2268,105,,,"Given a set of risky assets, a Markowitz efficient frontier:",,"{'A': "" can be calculated from the assets' expected returns and the correlations of returns for each pair of assets"", 'B': "" includes all portfolios that reduce the risk level compared to holding a single asset."", 'C': "" cannot be generated unless one of the assets has a beta of zero."", 'D': "" consists of the portfolios that provide the lowest risk for every level of expected return.""}",D,"The Markowitz efficient frontier is the set of possible portfolios that provide the highest return for each level of risk, or the lowest risk for each level of return. To generate an efficient frontier, we need to know the expected returns and standard deviations for each asset, as well as the returns correlations for each pair of assets.",Knowledge Reasoning QA,text only,Easy,"Markowitz efficient frontier, portfolio theory",Foundation of Risk Management,foundation of risk management1,,,,,1,<class 'str'>
+2313,10,,,"Robert Rubin, former Treasury Secretary, decided to stop issuing 30-year Treasury bonds in
+2001 and to replace them by borrowing more with shorter-maturity Treasury bills and notes.
+Which of the following statements concerning this decision is most accurate?",,"{'A': ""If the expectation theory of the term structure is correct, this decision will reduce the\ngovernment's borrowing cost"", 'B': ""If the liquidity preference theory of the term structure is correct, this decision will\nreduce the government's borrowing cost"", 'C': ""If the liquidity preference theory of the term structure is correct, this decision will not\nchange the government's borrowing cost"", 'D': ""If the expectation theory of the term structure is correct, this decision will increase the""}",B,"This question tests the understanding of interest rate term structure theories and expectations theory. 
+
+If expectations theory is correct, the forward rates in the market should equal the market's expectations for future spot rates. Since the question does not mention expectations, it is impossible to determine the relationship between long-term and short-term rates. Therefore, options A and D are irrelevant to the question.
+
+If liquidity preference theory is correct, lenders prefer short-term products while borrowers prefer long-term products. This creates difficulty for both parties to reach an agreement. To accommodate both sides' demands, market makers raise long-term rates and lower short-term rates. This incentivizes lenders to choose longer-term products and borrowers to opt for shorter-term products, resulting in an upward sloping yield curve where short-term borrowing rates are lower than long-term borrowing rates. Therefore, when government borrowing shifts from long-term to short-term, the cost will decrease.
+
+As a result, option C is incorrect, and option B is correct.",Knowledge Reasoning QA,text only,Hard,"Liquidity Preference Theory, Expectation Theory, Term Structure of Interest Rates",Valuation and Risk Models,Valuationand Risk Models2,,,,1,1,<class 'str'>
+2468,9,,,"When investors assume risk in an asset that has a premium above a risk-free rate of return,
+the investor could consider hedging the exposure when the returns are better than expectation
+and lock in profits. Risk exposure can be hedged in many ways. An investor can use options on
+the specific asset, or a financial instrument that is opposite in market direction with the
+asset that the investor owned. Which of the following is not an advantage of hedging risk?",,"{'A': ""By reducing the volatility of earning\\/cash flow by hedging, a firm may reduce the cost of\ncapital and enhance the ability to finance growth."", 'B': ""Good risk management is often an indication to the firm's stakeholders that management is\ndoing a good job, this is often reflected directly in the firm's stock price"", 'C': ""Hedging may allow management better control over the firm's economic performance to better\nachieve the board's objectives"", 'D': ""Risk management requires specialized skills, knowledge, infrastructure, and data acquisition""}",D,"This question examines the advantages and disadvantages of risk hedging.
+
+Option A states that risk hedging can reduce the volatility of company profits, thereby lowering financing costs and enhancing financial growth capability. This is an advantage of risk hedging and does not fit the criteria for selection.
+
+Option B mentions that effective risk management indicates that the company's internal management has strong capabilities, which often reflects positively on the stock price. This is also an advantage of risk hedging and does not fit the criteria for selection.
+
+Option C states that senior management can control costs through risk hedging to manage the company's economic profits, thereby achieving the board's objectives. This is another advantage of risk hedging and does not fit the criteria for selection.
+
+Option D notes that risk management requires specialized skills, knowledge, and relevant tools, making effective risk management challenging. This is a disadvantage of risk hedging and aligns with the criteria for selection.
+
+Therefore, the correct answer is D.",Knowledge Reasoning QA,text only,Hard,"Risk Hedging, Cost of Capital, Economic Performance",Foundation of Risk Management,foundation or risk management2,,,,1,1,<class 'str'>
+2473,14,,,"The board of directors of the company is mainly responsible for supervising management and
+pursuing the responsibilities of the company's management. At most banks, the board of
+directors typically has an audit committee, a risk committee, and a compensation committee,
+which ensure that the company's key policies are effectively implemented. Which of the
+following is NOT correct?",,"{'A': ""The audit committee is responsible for the accuracy of the bank's financial and supervisory\nreporting and is also responsible for ensuring that the bank adheres to minimum or best\npractice standards in other key activities"", 'B': ""Members of the audit committee must have sound financial and legal knowledge."", 'C': ""In a bank, the risk management committee completes risk management work independently and\ndoes not need to report to the board of directors."", 'D': ""Incentive compensation should be aligned with the long-term interests of shareholders and""}",C,"This question examines the responsibilities of the risk committee and the audit committee.
+
+Option A states that the audit committee is responsible for the accuracy of the bank's financial and regulatory reports and ensuring compliance with minimum or best practice standards in other key activities. This statement is correct and does not fit the criteria for selection.
+
+Option B indicates that members of the audit committee must possess strong financial and legal knowledge. This statement is also correct and does not fit the criteria for selection.
+
+Option C states that in banks, the risk management committee is primarily responsible for establishing risk management systems and must report to the board, but does not need to be responsible for specific execution. This statement is incorrect and aligns with the criteria for selection, making it the correct answer.
+
+Option D claims that incentive compensation should align with the long-term interests of shareholders and other stakeholders, as well as risk-adjusted capital returns, which conforms to best practices. This statement is correct and does not fit the criteria for selection.
+
+Therefore, the correct answer is C.",Knowledge Reasoning QA,text only,Hard,"Corporate Governance, Risk Management, Audit Committee Responsibilities",Foundation of Risk Management,foundation or risk management2,,,,1,1,<class 'str'>
+2474,15,,,"An effective audit committee is essential to the directors’ oversight of the firm. To
+improve its corporate governance, the board of a local bank has decided to establish an audit
+committee in order to be accountable for the accuracy and completeness of a firm’s financial
+and regulatory disclosures. Which of the following would be an appropriate role for the audit
+committee?",,"{'A': ""Audit committee is responsible for defining the firm\\u2019s risk management strategy."", 'B': ""Audit committee is responsible for ensuring the firm's compliance with best-practice\nstandards in financial matters"", 'C': ""Audit committee is responsible for undertaking risk management functions on a day-to-day\nbasis."", 'D': ""Audit committee is responsible for ensuring that a firm minimizes its exposure to risks.""}",B,"This question examines the responsibilities and roles of the audit committee.
+
+Option A states that the risk management strategy is the responsibility of the risk committee, not the audit committee. This statement is correct but does not fit the selection criteria.
+
+Option B indicates that the audit committee is responsible for ensuring that the company complies with best practice standards as much as possible regarding financial matters. Therefore, this statement is correct and aligns with the criteria for selection, making it the correct answer.
+
+Option C states that the Chief Risk Officer is responsible for the daily execution of risk management functions, which is not the role of the audit committee. This statement is also correct but does not fit the selection criteria.
+
+Option D claims that ensuring the company minimizes its risk exposure is neither the goal of risk management work nor the responsibility of the audit committee. This statement is correct as well, but it does not fit the selection criteria.
+
+In summary, the correct answer is B.",Knowledge Reasoning QA,text only,Hard,"Corporate governance, Audit committee responsibilities, Compliance and best practices",Foundation of Risk Management,foundation or risk management2,,,,1,1,<class 'str'>
+2485,31,,,The Arbitrage Pricing Theory (APT) has all of the following characteristics EXCEPT:,,"{'A': ""No arbitrage opportunities exist."", 'B': ""The market contains enough stocks so that unsystematic risk can be diversified away."", 'C': ""APT assumes investors hold efficient portfolios and and are risk averse."", 'D': ""Expected asset returns are linear functions of the asset's risk relative to a set of factors""}",C,"This question considers the understanding of the Arbitrage Pricing Theory (APT). 
+
+Option A states that the APT model assumes there are no arbitrage opportunities. This statement is correct and does not fit the criteria for selection.
+
+Option B indicates that the APT model assumes there are enough securities to diversify away systematic risk. This statement is also correct and does not fit the criteria for selection.
+
+Option C states that the APT model does not require the assumption that investors are risk-averse. This statement is incorrect and aligns with the criteria for selection, making it the correct answer.
+
+Option D notes that from the APT model's formula, the expected return of an asset is a linear expression of a series of factors. This statement is correct and does not fit the criteria for selection.
+
+$$
+E(R_P) = R_f + \beta_{P,1}(\lambda_1) + \beta_{P,2}(\lambda_2) + \cdots + \beta_{P,k}(\lambda_k)
+$$",Knowledge Reasoning QA,text only,Hard,"Arbitrage Pricing Theory (APT), Market Efficiency, Diversification",Foundation of Risk Management,foundation or risk management2,,,,1,1,<class 'str'>
+2499,48,,,"Lehman Brothers filed for bankruptcy on September 15, 2008. At the time of its collapse,
+Lehman was the fourth-largest investment bank in the United States. The bank became a symbol of
+the excesses of the 2007-08 Financial Crisis and cost an estimated $10 trillion in lost
+economic output. Which of the following is not a description about Lehman Brother case?",,"{'A': ""With the U.S. housing bubble well under way, Lehman branched invested heavily in the\nsecuritized U.S. real estate market."", 'B': ""As the credit crisis erupted in August 2007, Lehman's large mortgage securities portfolio\nmade it highly susceptible to the deteriorating market conditions"", 'C': ""Lehman could not roll over its debts from the market."", 'D': ""A takeover of Lehman was finally done by Barclays and Bank of America.""}",D,"This question examines the liquidity risk in financing, using the case of Lehman Brothers.
+
+Barclays and Bank of America attempted to facilitate a purchase of Lehman Brothers, but ultimately failed, leading to Lehman's bankruptcy. Statement D is incorrect and aligns with the question's intent; therefore, the answer to this question is D.
+
+Option A: With the rapid accumulation of the U.S. real estate bubble, Lehman Brothers made substantial investments in securitized products from the U.S. real estate market. This statement is correct but does not align with the question's intent.
+
+Option B: Following the outbreak of the subprime crisis in August 2007, Lehman Brothers' large portfolio of mortgage-backed securities made it highly susceptible to the deteriorating market environment. This statement is correct but does not align with the question's intent.
+
+Option C: Lehman Brothers was then struggling to obtain additional liquidity from the market. This statement is correct but does not align with the question's intent.",Knowledge Reasoning QA,text only,Hard,"Financial Crisis of 2007-08, Liquidity Risk, Corporate Bankruptcy",Foundation of Risk Management,foundation or risk management2,,,,1,1,<class 'str'>
+2504,53,,,"Barings Bank eventually collapsed due to Nick Leeson's excessively speculative trading,
+which resulted in massive losses. Which of the following is not the reason for the failure of
+Barings?",,"{'A': ""Nick Leeson was attempting to recover previous trading losses."", 'B': ""The management of the company did not implement effective means of oversight on Nick Leeson."", 'C': ""Inversion of the interest rate curve made the strategy face a huge loss."", 'D': ""Nick Leeson's dual role in Barings allowed him to cover losses""}",C,"This question examines the reasons for the failure of Barings Bank.
+
+Option A: To compensate for earlier losses, Nick Leeson employed a more aggressive investment strategy, which suffered significant losses when the market experienced unexpected conditions. This statement is correct but does not align with the question's intent.
+
+Option B: Due to inadequate internal control systems, senior management was unable to timely identify and control Nick Leeson's speculative trading activities. This statement is correct but does not align with the question's intent.
+
+Option C: The Barings Bank case does not mention the shape of the interest rate curve. This statement is incorrect and aligns with the question's intent; therefore, the answer to this question is C.
+
+Option D: Nick Leeson held dual roles within the company, occupying both investment and office positions, which gave him the power to conceal losses. This statement is correct but does not align with the question's intent.",Knowledge Reasoning QA,text only,Hard,"Operational Risk, Internal Controls, Speculative Trading",Foundation of Risk Management,foundation or risk management2,,,,1,1,<class 'str'>
+2844,17,"Ed Smith is a new trainee in the foreign exchange (FX) services department of a major
+global bank. Smith’s focus is to assist senior FX trader Feliz Mehmet, CFA. Mehmet mentions
+that an Indian corporate client exporting to the United Kingdom wants to estimate the potential
+hedging cost for a sale closing in one year. Smith is to determine the premium/discount for an
+annual (360-day) forward contract using the exchange rate data presented in Exhibit 1.
+Mehmet is also looking at two possible trades to determine their profit potential. The first
+trade involves a possible triangular arbitrage trade using the Swiss, US, and Brazilian
+currencies, to be executed based on a dealer’s bid/offer rate quote of 0.2355/0.2358 in
+CHF/BRL and the interbank spot rate quotes presented in Exhibit 2.
+Mehmet is also considering a carry trade involving the USD and the euro. He anticipates it will
+generate a higher return than buying a one-year domestic note at the current market quote due
+to low US interest rates and his predictions of exchange rates in one year. To help Mehmet
+assess the carry trade, Smith provides Mehmet with selected current market data and his one-
+year forecasts in Exhibit 3.
+Finally, Mehmet asks Smith to assist with a trade involving a US multinational customer
+operating in Europe and Japan. The customer is a very cost-conscious industrial company with an
+AA credit rating and strives to execute its currency trades at the most favorable bid–offer
+spread. Because its Japanese subsidiary is about to close on a major European acquisition in
+three business days, the client wants to lock in a trade involving the Japanese yen and the
+euro as early as possible the next morning, preferably by 8:05 a.m. New York time.
+At lunch, Smith and other FX trainees discuss how best to analyze currency market volatility
+from ongoing financial crises. The group agrees that a theoretical explanation of exchange rate
+movements, such as the framework of the international parity conditions, should be applicable
+across all trading environments. They note such analysis should enable traders to anticipate
+future spot exchange rates. But they disagree on which parity condition best predicts exchange
+rates, voicing several different assessments. Smith concludes the discussion on parity
+conditions by stating to the trainees,
+I believe that in the current environment both covered and uncovered interest rate parity
+conditions are in effect.
+ ","['images/Economics_images/share14-18_1.png"", 'images/Economics_images/share14-18_2.png"", 'images/Economics_images/share14-18_3.png']",The factor least likely to lead to a narrow bid/offer spread for the,,"{'A': ""timing of its trade."", 'B': ""company's credit rating"", 'C': ""pair of currencies involved.""}",B,"While credit ratings can affect spreads, the trade involves spot settlement (i.e.,
+two business days after the trade date), so the spread quoted to this highly rated (AA) firm is
+not likely to be much tighter than the spread that would be quoted to a somewhat lower-rated
+(but still high-quality) firm. The relationship between the bank and the client, the size of
+the trade, the time of day the trade is initiated, the currencies involved, and the level of
+market volatility are likely to be more significant factors in determining the spread for this
+trade.",Knowledge Reasoning QA,text+image,Hard,"Market liquidity, Currency markets, Credit risk",Economics,Economics,"### Image Descriptions
+
+#### Image 1: Currency Data for GBP and INR
+- **Title:** Exhibit 1. Select Currency Data for GBP and INR
+- **Content:** 
+  - **Spot (INR/GBP):** 79.5093
+  - **Annual (360-day) Libor (GBP):** 5.43%
+  - **Annual (360-day) Libor (INR):** 7.52%
+- **Layout:** 
+  - The table has two columns, one for descriptions and one for values. Each entry is aligned horizontally in two rows.
+
+#### Image 2: Interbank Market Quotes
+- **Title:** Exhibit 2. Interbank Market Quotes
+- **Headers:** 
+  - **Currency Pair**
+  - **Bid / Offer**
+- **Rows:**
+  - **CHF/USD:** 0.9799 / 0.9801
+  - **BRL/USD:** 4.1699 / 4.1701
+- **Layout:** 
+  - The table contains two columns running horizontally with clear headers for currency pairs and their respective bid/offers.
+
+#### Image 3: Spot Rates and Interest Rates for Proposed Carry Trade
+- **Title:** Exhibit 3. Spot Rates and Interest Rates for Proposed Carry Trade
+- **Headers:**
+  - **Today's one-year Libor**
+  - **Currency pair (Price/Base)**
+  - **Spot rate today**
+  - **Projected spot rate in one year**
+- **Rows:**
+  - **USD:**
+    - One-year Libor: 0.80%
+    - Currency pair: CAD/USD
+    - Spot rate today: 1.3200
+    - Projected spot rate in one year: 1.3151
+  - **CAD:**
+    - One-year Libor: 1.71%
+    - Currency pair: EUR/CAD
+    - Spot rate today: 0.6506
+    - Projected spot rate in one year: 0.6567
+  - **EUR:**
+    - One-year Libor: 2.20%
+- **Layout:** 
+  - This table consists of multiple columns delineating Libor rates, currency pairs, current spot rates, and projected spot rates, each clearly marked with headers.
+
+### Summary and Insights
+
+- **Image 1** provides a comparison of interest rates and currency spots between GBP and",,,1,1,<class 'str'>
+2847,20,"Connor Wagener, a student at the University of Canterbury in New Zealand, has been
+asked to prepare a presentation on foreign exchange rates for his International Business
+course. Wagener has a basic understanding of exchange rates, but would like a practitioner's
+perspective, and he has arranged an interview with currency trader Hannah McFadden. During the
+interview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as
+to why our New Zealand dollar was affected by the European debt crisis in 2011 and what other
+factors impact it.”In response, McFadden begins with a general discussion of exchange rates.
+She notes that international parity conditions illustrate how exchange rates are linked to
+expected inflation, interest rate differences, and forward exchange rates as well as current
+and expected future spot rates. McFadden makes the following statement:Statement 1:
+“Fortunately, the international parity condition most relevant for FX carry trades does not
+always hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-
+yield currencies and fund their position by shorting, that is borrowing in, low-yield
+currencies. Unfortunately, crashes in currency values can occur which create financial crises
+as traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively
+impacted when highly leveraged carry trades were unwound. In addition to investors, consumers
+and business owners can also affect currency exchange rates through their impact on their
+country's balance of payments. For example, if New Zealand consumers purchase more goods from
+China than New Zealand businesses sell to China, New Zealand will run a trade account deficit
+with China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the
+currency of the country in surplus to appreciate while a deficit will cause currency
+depreciation. Exchange rate changes will result in immediate adjustments in the prices of
+traded goods as well as in the demand for imports and exports. These changes will immediately
+correct the trade imbalance.”McFadden next addresses the influence of monetary and fiscal
+policy on exchange rates:“Countries also exert significant influence on exchange rates through
+both the initial mix of their fiscal and monetary policies, and also by subsequent adjustments
+to those policies. Various models have been developed to identify how these policies affect
+exchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary
+policies affect interest rates and ultimately exchange rates in the short-term.”McFadden
+describes monetary models by stating:Statement 3:“Monetary models of exchange rate
+determination focus on the effects of inflation, price level changes, and risk premium
+adjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments
+and monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal
+policy on exchange rates. I must take a client call, but will return shortly. In the meantime,
+here is some relevant literature on the models I mentioned along with a couple of questions for
+you to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and
+fiscal policies under low capital mobility conditions. Are these policies likely to lead to
+currency appreciation, currency depreciation, or to have no impact?Question 2:Assume a
+developed market (DM) country has an expansive fiscal policy under high capital mobility
+conditions. Why is its currency most likely to depreciate in the long-run under an integrated
+Mundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review
+the questions. McFadden notes that capital flows can have a significant impact on exchange
+rates and have contributed to currency crises in both EM and DM countries. She explains that
+central banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to
+manage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central
+banks tend to be more effective in using exchange rate intervention than DM central banks,
+primarily because of one important factor.”McFadden continues her discussion:Statement 5:“I
+mentioned that capital inflows could cause a currency crisis, leaving fund managers with
+significant losses. In the period leading up to a currency crisis, I would predict that an
+affected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad
+money growth in nominal and real terms will increase.Prediction 3: real exchange rate will be
+substantially higher than its mean level during tranquil periods.After the interview, McFadden
+agrees to meet the following week to discuss more recent events on the New Zealand dollar.
+ ",,"In Statement 2, McFadden is most likely failing to consider the:",,"{'A': ""initial gap between the country's imports and exports"", 'B': ""price elasticity of export demand versus import demand."", 'C': ""lag in the response of import and export demand to price changes.""}",C,"McFadden states that exchange rates will immediately correct the trade imbalance.
+She is describing the Flow Supply/Demand Channel, which assumes that trade imbalances will be
+corrected as the deficit country's currency depreciates, causing its exports to become more
+competitive and its imports to become more expensive. Studies indicate that there can be long
+lags between exchange rate changes, changes in the prices of traded goods and changes in the
+trade balance. In the short-run, exchange rates tend to be more responsive to investment and
+financing decisions.",Knowledge Reasoning QA,text only,Hard,"Exchange Rate Dynamics, Trade Balance Adjustments, Price Elasticity",Economics,Economics,,,,1,1,<class 'str'>
+3072,51,,,"Which of the following statements is not an advantage of spectral risk measures over
+expected shortfall? Spectral risk measures:",,"{'A': ""consider a manager's aversion to risk"", 'B': ""are a special case of expected shortfall measures."", 'C': ""have the ability to modify the risk measure to reflect an investor's specific risk aversion"", 'D': ""have better smoothness properties when weighting observations.""}",B,"Spectral risk measures consider aversion to risk and offer better smoothness
+properties. Expected shortfall is a special case of spectral risk measures.",Knowledge Reasoning QA,text only,Easy,"Spectral Risk Measures, Expected Shortfall, Risk Aversion",Market Risk Measurement and Management,Market Risk Measurement and Management1,,,,,1,<class 'str'>
+3291,24,,,"Asset-liability committee (ALCO), meets regularly to manage the financial firm's interest
+rate risk and other risk exposure, and estimates the firm's risk exposure. As a member of ALCO,
+Jason finds that the bank has negative interest-sensitive gap, which of the following
+statements is correct?",,"{'A': ""The bank is asset sensitive."", 'B': ""If interest rates rise', bank's net interest margin will decrease"", 'C': ""If interest rates rise, bank's net interest margin will increase"", 'D': ""The Interest Sensitivity Ratio (ISR) is more than 1.""}",B,"Interest-sensitive gap = Interest-sensitive assets - Interest-sensitive liabilities. 
+
+A gap less than 0 indicates that interest-sensitive liabilities exceed interest-sensitive assets, making the bank liability-sensitive. When interest rates rise, the interest expenses on the liability side increase more than the interest income on the asset side, resulting in a decline in the bank's net interest margin. When there is a negative interest rate gap, the interest-sensitive ratio is less than 1.",Knowledge Reasoning QA,text only,Hard,"Interest Rate Risk Management, Asset-Liability Management, Net Interest Margin",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2,,,,1,1,<class 'str'>
+3295,28,,,"A credit analyst is evaluating the liquidity of a small regional bank while preparing a
+report for a credit committee meeting. With quarterly financial statements, the analyst
+calculates some relevant liquidity indicators over the past three years. Which of the following
+trends over this period should the analyst be most concerned about in the credit risk report?",,"{'A': ""The bank’s average net federal funds and repurchase agreements position has been increasing."", 'B': ""The bank's capacity ratio has been increasing"", 'C': ""The bank's pledged securities ratio has been decreasing"", 'D': ""The bank's loan commitments ratio has been decreasing""}",B," Capacity ratio is the ratio of net loans and leases to total assets,
+so liquidity decreases when net loans and leases increase relative to total assets, because
+they are often illiquid. A is incorrect. Liquidity increases when overnight loans increase
+relative to overnight borrowing. C is incorrect. Liquidity increases when fewer securities are
+pledged/unavailable to sell relative to total securities. D is incorrect. Liquidity increases
+when loan commitments decreases relative to total assets",Knowledge Reasoning QA,text only,Hard,"Liquidity Risk, Credit Risk, Financial Ratios",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2,,,,1,1,<class 'str'>
+3299,32,,,"Covered interest parity has been systematically violated since the Great Financial Crisis.
+Severe interpretations are available towards these puzzling and consistent phenomena. Which of
+the following is NOT the possible reason led to the violation of CIP?",,"{'A': ""Banks' business model be doomed to use currency derivatives', such as FX swap', to hedge the\nmismatch of currencies"", 'B': ""This circumstance reflects that CIP may be an incorrect theory', more research needs to be\ndone to verify the effectiveness of CIP."", 'C': ""Structural changes in pricing market', credit', counterparty and liquidity risks post-crisis\nhas tightened the limits to arbitrage."", 'D': ""Activities on foreign currency market of institutional investors and non-financial""}",B,"CIP is the closest thing to a physical law in international finance. When violation
+happens, it doesn't mean CIP is incorrect, and two hypotheses are used to explain the
+violation: the increasing demand for currency hedges and arbitrage limits",Knowledge Reasoning QA,text only,Hard,"Covered Interest Parity, Arbitrage, Financial Crises",Liquidity and Treasury Risk Measurement,Liquidity and Treasury Risk Measurement and Man2,,,,1,1,<class 'str'>
+3373,10,,,"Which of the following courses of action will most likely lead to improved conduct and
+culture based on the Group of Thirty (G30)report?",,"{'A': ""Promote leadership in the firm based on quantifiable measures of profitability', sales', and\nother similar qualifications."", 'B': ""Improve the banks reputation to build a moat of protection when other institutions are\ninvolved in scandals so it will not damage the public's trust for their firm"", 'C': ""Focus primarily on improving employee understanding of culture through human resources\ntraining programs and seminars rather than business skill improvement seminars."", 'D': ""Implement cultural changes that focus on soft managerial skills while recognizing that""}",D,"Rebuilding a bank's reputation is a long-term process that requires improved soft
+skills of management related to values and ethics and not just quantifiable performance
+measures used historically. Banking scandals and misconduct have a contagion effect for the
+entire industry, not just those firms involved in misconduct. Employees must be aware of need
+for conduct to improve at all business levels and not just the human resources level.",Knowledge Reasoning QA,text only,Easy,"Corporate Governance, Ethics in Finance, Organizational Behavior",Operational Risk and Resiliency,Operational Riskand Resiliency1,,,,,1,<class 'str'>
+3461,98,,,"Which of the statement can not explain why the supervisory authorities consider that
+managing operational resilience is most effectively addressed by focusing on business services,
+rather than on systems and processes.",,"{'A': ""Operationally resilient business services provided by firms and FMIs(Financial Market\nInfrastructures) directly support resilient economic functions', enabling people to buy goods',\nborrow money and markets to transact. Resilient business services therefore support financial\nstability."", 'B': ""Continuity of business services is also critical to the viability of individual firms and\nFMls', and disruptions can cause harm to consumers and market participants."", 'C': ""The supervisory authorities believe that if firms' and FMls' boards and senior management\nfocus on the operational resilience of their most important business services', this would\nassist the supervisory authorities in furthering their objectives"", 'D': ""Priorities between firms and FMls and the supervisory authorities are always be aligned due""}",D,"Priorities between firms and FMls and the supervisory authorities may not always be
+aligned. It is possible that the supervisory authorities may believe that a disruption to a
+business service would harm their objectives, while a firm or FMI might consider the disrupt
+ion to be a manageable risk.",Knowledge Reasoning QA,text only,Easy,"Operational Resilience, Financial Stability, Risk Management",Operational Risk and Resiliency,Operational Riskand Resiliency1,,,,,1,<class 'str'>
