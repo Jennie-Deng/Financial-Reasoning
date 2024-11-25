@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (FinReasoning)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (FinReasoning)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.6.8 (sftp://sden118@foscsmlprd01.its.auckland.ac.nz:22/usr/bin/python3)" project-jdk-type="Python SDK" />
 </project>
