@@ -1,0 +1,3151 @@
+
+1.If at the beginning the entry recorded was prepaid expense, after the products are delivered
+or the service is rendered, the adjusting entry will most likely results in:
+A.the reduction of an asset and the recording of an expense.
+B.the addition of an asset and the recording of an expense.
+C.the reduction of an asset and the reduction of an debt.
+参考答案：A
+【莽学解析】The adjusting entry to record the expiry of a prepaid expense is the reduction of
+an asset (the prepaid) and the recognition of the expense.
+ 
+2.Cell Services Inc. (CSI) had 1,000,000 average shares outstanding during all of 2009. During
+2009, CSI also had 10,000 options outstanding with exercise prices of $10 each. The average
+stock price of CSI during 2009 was $15. For purposes of computing diluted earnings per share,
+how many shares would be used in the denominator?
+A.1,003,333.
+B.1,006,667.
+C.1,010,000.
+参考答案：A
+【莽学解析】： A is correct. With stock options, the treasury stock method must be used. Under
+that method, the company would receive $100,000 (10,000 × $10) and would repurchase 6,667
+shares ($100,000/$15). The shares for the denominator would be:
+ 
+ 
+3.Interest paid is classified as an operating cash flow under:
+A.US GAAP but may be classified as either operating or investing cash flows under IFRS.
+B.IFRS but may be classified as either operating or investing cash flows under US GAAP.
+C.US GAAP but may be classified as either operating or financing cash flows under IFRS.
+参考答案：C
+【莽学解析】： C is correct. Interest expense is always classified as an operating cash flow
+under US GAAP but may be classified as either an operating or financing cash flow under IFRS.
+ 
+4.A benefit of using the direct method rather than the indirect method when reporting operating
+cash flows is that the direct method:
+A.mirrors a forecasting approach.
+B.is easier and less costly.
+C.provides specific information on the sources of operating cash flows.
+参考答案：C
+【莽学解析】： C is correct. The primary argument in favor of the direct method is that it
+provides information on the specific sources of operating cash receipts and payments. Arguments
+for the indirect method include that it mirrors a forecasting approach and it is easier and
+less costly
+ 
+5.The income statement is best used to evaluate a company’s:
+A.financial position.
+B.sources of cash flow.
+C.financial results from business activities.
+参考答案：C
+【莽学解析】： C is correct. A company’s revenues and expenses are presented on the income
+statement, which is used to evaluate a company’s financial results (or profitability) from
+business activities over a period of time. A company’s financial position is best evaluated by
+using the balance sheet. A company’s sources of cash flow are best evaluated using the cash
+flow statement.
+ 
+6.Cash flows from taxes on income must be separately disclosed under:
+A.IFRS only.
+B.US GAAP only.
+C.both IFRS and US GAAP.
+参考答案：C
+【莽学解析】： C is correct. Taxes on income are required to be separately disclosed under IFRS
+and US GAAP. The disclosure may be in the cash flow statement or elsewhere.
+ 
+7.When calculating diluted EPS, which of the following securities in the capital structure
+increases the weighted average number of common shares outstanding without affecting net income
+available to common shareholders?
+A.Stock options
+B.Convertible debt that is dilutive
+C.Convertible preferred stock that is dilutive
+参考答案：A
+【莽学解析】： A is correct. When a company has stock options outstanding, diluted EPS is
+calculated as if the financial instruments had been exercised and the company had used the
+proceeds from the exercise to repurchase as many shares possible at the weighted average market
+price of common stock during the period. As a result, the conversion of stock options increases
+the number of common shares outstanding but has no effect on net income available to common
+shareholders. The conversion of convertible debt increases the net income available to common
+shareholders by the after-tax amount of interest expense saved. The conversion of convertible
+preferred shares increases the net income available to common shareholders by the amount of
+preferred dividends paid; the numerator becomes the net income.
+ 
+8.Neutrality of information in the financial statements most closely contributes to which
+qualitative characteristic?
+A.Relevance.
+B.Understandability.
+C.Faithful representation.
+参考答案：C
+【莽学解析】： C is correct. The fundamental qualitative characteristic of faithful
+representation is contributed to by completeness, neutrality, and freedom from error.
+ 
+9.In accrual accounting, if an adjusting entry results in the reduction of an asset and the
+recording of an expense, the originating entry recorded was most likely a(n):
+A.prepaid expense
+B.accrued expense
+C.unearned revenue
+参考答案：A
+【莽学解析】The adjusting entry to record the expiry of a prepaid expense is the reduction of
+an asset (the prepaid) and the recognition of the expense.
+ 
+10.A company has total liabilities of ￡35 million and total stockholders’ equity of ￡55
+million. Total liabilities are represented on a vertical common-size balance sheet by a
+percentage closest to:
+A.35%.
+B.39%.
+C.64%.
+参考答案：B
+【莽学解析】： B is correct. Vertical common-size analysis involves stating each balance sheet
+item as a percentage of total assets. Total assets are the sum of total liabilities (￡35
+million) and total stockholders’ equity (￡55 million), or ￡90 million. Total liabilities are
+shown on a vertical common-size balance sheet as (￡35 million/￡90 million) ≈ 39%.
+ 
+11.Fairplay had the following information related to the sale of its products during 2009,
+which was its first year of business:
+ Under the accrual basis of accounting, how much net revenue would be reported on Fairplay’s
+2009 income statement?
+A.$200,000.
+B.$900,000.
+C.$1,000,000.
+参考答案：B
+【莽学解析】： B is correct. Net revenue is revenue for goods sold during the period less any
+returns and allowances, or $1,000,000 minus $100,000 = $900,000.
+ 
+12.US generally accepted accounting principles are currently developed by which entity?
+A.The Securities and Exchange Commission.
+B.The Financial Accounting Standards Board.
+C.The Public Company Accounting Oversight Board.
+参考答案：B
+【莽学解析】： B is correct. The FASB is responsible for the Accounting Standards
+Codification?, the single source of nongovernmental authoritative US generally accepted
+accounting principles.
+ 
+13.Money received from customers for products to be delivered in the future is recorded as:
+A.revenue and an asset.
+B.an asset and a liability.
+C.revenue and a liability.
+参考答案：B
+【莽学解析】： B is correct. The cash received from customers represents an asset. The
+obligation to provide a product in the future is a liability called “unearned income” or
+“unearned revenue.” As the product is delivered, revenue will be recognized and the liability
+will be reduced.
+ 
+14.Which of the following sources of information used by analysts is found outside a company’s
+annual report?
+A.Auditor’s report
+B.Peer company analysis
+C.Management’s discussion and analysis
+参考答案：B
+【莽学解析】： B is correct. When performing financial statement analysis, analysts should
+review all company sources of information as well as information from external sources
+regarding the economy, the industry, the company, and peer (comparable) companies.
+ 
+15.When a company buys shares of its own stock to be held in treasury, it records a reduction
+in:
+A.both assets and liabilities.
+B.both assets and shareholders’ equity.
+C.assets and an increase in shareholders’ equity.
+参考答案：B
+【莽学解析】： B is correct. Share repurchases reduce the company’s cash (an asset).
+Shareholders’ equity is reduced because there are fewer shares outstanding and treasury stock
+is an offset to owners’ equity.
+ 
+16.A company’s profitability over a period of time is best evaluated using the:
+A.balance sheet.
+B.income statement.
+C.cash flow statement.
+参考答案：B
+【莽学解析】： B is correct. A company’s profitability is best evaluated using the income
+statement. The income statement presents information on the financial results of a company’s
+business activities over a period of time by communicating how much revenue was generated and
+the expenses incurred to generate that revenue.
+ 
+17.Which of the following is not a constraint on the financial statements according to the
+Conceptual Framework?
+A.Understandability.
+B.Benefit versus cost.
+C.Balancing of qualitative characteristics.
+参考答案：A
+【莽学解析】： A is correct. Understandability is an enhancing qualitative characteristic of
+financial information—not a constraint.
+ 
+18.Which of the following is not a required financial statement according to IAS No. 1?
+A.Statement of financial position.
+B.Statement of changes in income.
+C.Statement of comprehensive income.
+参考答案：B
+【莽学解析】： B is correct. There is no statement of changes in income. Under IAS No. 1, a
+complete set of financial statements includes a statement of financial position, a statement of
+comprehensive income, a statement of changes in equity, a statement of cash flows, and notes
+comprising a summary of significant accounting policies and other explanatory information.
+ 
+19.A core objective of the International Organization of Securities Commissions is to:
+A.eliminate systemic risk.
+B.protect users of financial statements.
+C.ensure that markets are fair, efficient, and transparent.
+参考答案：C
+【莽学解析】： C is correct. A core objective of IOSCO is to ensure that markets are fair,
+efficient, and transparent. The other core objectives are to reduce, not eliminate, systemic
+risk and to protect investors, not all users of financial statements.
+ 
+20.Golden Cumulus Corp., a commodities trading company, reported interest expense of $19
+million and taxes of $6 million. Interest payable increased by $3 million, and taxes payable
+decreased by $4 million over the period. How much cash did the company pay for interest and
+taxes?
+A.$22 million for interest and $10 million for taxes.
+B.$16 million for interest and $2 million for taxes.
+C.$16 million for interest and $10 million for taxes.
+参考答案：C
+【莽学解析】： C is correct. Interest expense of $19 million less the increase in interest
+payable of $3 million equals interest paid of $16 million. Tax expense of $6 million plus the
+decrease in taxes payable of $4 million equals taxes paid of $10 million.
+ 
+21.Denali Limited, a manufacturing company, had the following income statement information:
+ Denali’s gross profit is equal to:
+A.$280,000.
+B.$500,000.
+C.$1,000,000.
+参考答案：C
+【莽学解析】： C is correct. Gross margin is revenue minus cost of goods sold. Answer A
+represents net income and B represents operating income.
+ 
+22.For financial assets classified as available for sale, how are unrealized gains and losses
+reflected in shareholders’ equity?
+A.They are not recognized.
+B.They flow through retained earnings.
+C.They are a component of accumulated other comprehensive income.
+参考答案：C
+【莽学解析】： C is correct. For financial assets classified as available for sale, unrealized
+gains and losses are not recorded on the income statement and instead are part of other
+comprehensive income. Accumulated other comprehensive income is a component of Shareholders’
+equity
+ 
+23.When, at the end of an accounting period, cash has been paid with respect to an expense
+incurred but not yet recognized in the financial statements, the business should then record:
+A.an accrued expense, an asset.
+B.a prepaid expense, an asset.
+C.an accrued expense, a liability.
+参考答案：B
+【莽学解析】Payment of expenses in advance is called a prepaid expense, which is classified as
+an asset.
+ 
+24.An auditor determines that a company’s financial statements are prepared in accordance with
+applicable accounting standards except with respect to inventory reporting. This exception is
+most likely to result in an audit opinion that is:
+A.adverse.
+B.qualified.
+C.unqualified.
+参考答案：B
+【莽学解析】： B is correct. A qualified audit opinion is one in which there is some scope
+limitation or exception to accounting standards. Exceptions are described in the audit report
+with additional explanatory paragraphs so that the analyst can determine the importance of the
+exception.
+25.Debt due within one year is considered:
+A.current.
+B.preferred.
+C.convertible.
+参考答案：A
+【莽学解析】： A is correct. Current liabilities are those liabilities, including debt, due
+within one year. Preferred refers to a class of stock. Convertible refers to a feature of bonds
+(or preferred stock) allowing the holder to convert the instrument into common stock.
+ 
+26.A company pays its workers on the 1st and the 15th of each month for their service in the
+previous month. The wages earned from the 15th to the 30th of September by the employees are
+best described as a(n):
+A.unearned expense.
+B.accrued expense.
+C.prepaid expense.
+参考答案：B
+【莽学解析】Wage expenses that have been incurred but not yet paid are an example of an accrued
+expense: a liability that has not yet resulted in a cash payment.
+ 
+27.The most likely company to use a liquidity-based balance sheet presentation is a:
+A.bank.
+B.computer manufacturer holding inventories.
+C.software company with trade receivables and payables.
+参考答案：A
+【莽学解析】： A is correct. A liquidity-based presentation, rather than a current/non-current
+presentation, may be used by such entities as banks if broadly presenting assets and
+liabilities in order of liquidity is reliable and more relevant.
+ 
+28.When, at the end of an accounting period, a revenue has been recognized in the financial
+statements but no cash has been received, the amount should be recorded as:
+A.accrued revenue, an asset.
+B.deferred revenue, an asset.
+C.accrued revenue, a liability.
+参考答案：A
+【莽学解析】Cash is to be received after revenue has been recognized but no billing has
+actually occurred, an unbilled (accrued) revenue is recorded. Such accruals would usually occur
+when an accounting period ends prior to a company billing its customer. This type of accrual
+can be contrasted with a simple credit sale, which is reflected as an increase in revenue and
+an increase in accounts receivable. No accrual is necessary.
+ 
+29.A company previously expensed the incremental costs of obtaining a contract. All else being
+equal, adopting the May 2014 IASB and FASB converged accounting standards on revenue
+recognition makes the company’s profitability initially appear:
+A.lower.
+B.unchanged.
+C.higher.
+参考答案：C
+【莽学解析】： C is correct. Under the converged accounting standards, the incremental costs of
+obtaining a contract and certain costs incurred to fulfill a contract must be capitalized. If a
+company expensed these incremental costs in the years prior to adopting the converged
+standards, all else being equal, its profitability will appear higher under the converged
+standards.
+ 
+30.Laurelli Builders (LB) reported the following financial data for year-end 31 December:
+ Which statement about the calculation of LB’s EPS is most accurate?
+A.LB’s basic EPS is $1.12.
+B.LB’s diluted EPS is equal to or less than its basic EPS.
+C.The weighted average number of shares outstanding is 2,210,000.
+参考答案：B
+【莽学解析】： B is correct. LB has warrants in its capital structure; if the exercise price is
+less than the weighted average market price during the year, the effect of their conversion is
+to increase the weighted average number of common shares outstanding, causing diluted EPS to be
+lower than basic EPS. If the exercise price is equal to the weighted average market price, the
+number of shares issued equals the number of shares repurchased. Therefore, the weighted
+average number of common shares outstanding is not affected and diluted EPS equals basic EPS.
+If the exercise price is greater than the weighted average market price, the effect of their
+conversion is anti-dilutive. As such, they are not included in the calculation of basic EPS.
+LB’s basic EPS is $1.22 [= ($3,350,000 – $430,000)/2,400,000]. Stock dividends are treated as
+having been issued retroactively to the beginning of the period.
+ 
+31.The assumption that the effects of transactions and other events are recognized when they
+occur, not when the cash flows occur, is called:
+A.relevance.
+B.accrual basis.
+C.going concern.
+参考答案：B
+【莽学解析】： B is correct. Accrual basis reflects the effects of transactions and other
+events being recognized when they occur, not when the cash flows. These effects are recorded
+and reported in the financial statements of the periods to which they relate.
+ 
+32.For financial assets classified as held to maturity, how are unrealized gains and losses
+reflected in shareholders’ equity?
+A.They are not recognized.
+B.They flow through retained earnings.
+C.They are a component of accumulated other comprehensive income.
+参考答案：A
+【莽学解析】： A is correct. Financial assets classified as held to maturity are measured at
+amortised cost. Gains and losses are recognized only when realized.
+ 
+33.Silverago Incorporated, an international metals company, reported a loss on the sale of
+equipment of $2 million in 2018. In addition, the company’s income statement shows
+depreciation expense of $8 million and the cash flow statement shows capital expenditure of $10
+million, all of which was for the purchase of new equipment. Using the following information
+from the comparative balance sheets, how much cash did the company receive from the equipment
+sale?
+A.$1 million.
+B.$2 million.
+C.$3 million.
+参考答案：A
+【莽学解析】： A is correct. Selling price (cash inflow) minus book value equals gain or loss
+on sale; therefore, gain or loss on sale plus book value equals selling price (cash inflow).
+The amount of loss is given—$2 million. To calculate the book value of the equipment sold,
+find the historical cost of the equipment and the accumulated depreciation on the equipment.
+Beginning balance of equipment of $100 million plus equipment purchased of $10 million minus
+ending balance of equipment of $105 million equals the historical cost of equipment sold, or $5
+million. Beginning accumulated depreciation of $40 million plus depreciation expense for the
+year of $8 million minus ending balance of accumulated depreciation of $46 million equals
+accumulated depreciation on the equipment sold, or $2 million. Therefore, the book value of the
+equipment sold was $5 million minus $2 million, or $3 million. Because the loss on the sale of
+equipment was $2 million, the amount of cash received must have been $1 million.
+ 
+34.Shareholders’ equity reported on the balance sheet is most likely to differ from the market
+value of shareholders’ equity because:
+A.historical cost basis is used for all assets and liabilities.
+B.some factors that affect the generation of future cash flows are excluded.
+C.shareholders’ equity reported on the balance sheet is updated continuously.
+参考答案：B
+【莽学解析】： B is correct. The balance sheet omits important aspects of a company’s ability
+to generate future cash flows, such as its reputation and management skills. The balance sheet
+measures some assets and liabilities based on historical cost and measures others based on
+current value. Market value of shareholders’ equity is updated continuously. Shareholders’
+equity reported on the balance sheet is updated for reporting purposes and represents the value
+that was current at the end of the reporting period.
+ 
+35.Which statement is most accurate? A common-size income statement:
+A.restates each line item of the income statement as a percentage of net income.
+B.allows an analyst to conduct cross-sectional analysis by removing the effect of company size.
+C.standardizes each line item of the income statement but fails to help an analyst identify
+differences in companies’ strategies.
+参考答案：B
+【莽学解析】： B is correct. Common size income statements facilitate comparison across time
+periods (time-series analysis) and across companies (cross-sectional analysis) by stating each
+line item of the income statement as a percentage of revenue. The relative performance of
+different companies can be more easily assessed because scaling the numbers removes the effect
+of size. A common size income statement states each line item on the income statement as a
+percentage of revenue. The standardization of each line item makes a common size income
+statement useful for identifying differences in companies’ strategies.
+ 
+36.A decrease in assets would least likely be consistent with a(n):
+A.increase in expenses.
+B.decrease in revenues.
+C.increase in contributed capital.
+参考答案：C
+【莽学解析】The expanded accounting equation shows that assets = liabilities contributed
+capital beginning retained earnings revenue - expenses - dividends. A decrease in assets is
+consistent with an increase in expenses or a decrease in revenues but not with an increase in
+contributed capital.
+ 
+37.An analyst gathered the following information from a company’s 2018 financial statements
+(in $ millions):
+ Based only on the information above, the company’s 2018 statement of cash flows in the direct
+format would include amounts (in $ millions) for cash received from customers and cash paid to
+suppliers, respectively, that are closest to:
+A.cash received from customers ：249.7， cash paid to suppliers ：169.7
+B.cash received from customers ：259.5， cash paid to suppliers ：174.5
+C.cash received from customers： 259.5 ，cash paid to suppliers 182.1
+参考答案：C
+【莽学解析】： C is correct. Cash received from customers = Sales + Decrease in accounts
+receivable = 254.6 + 4.9 = 259.5. Cash paid to suppliers = Cost of goods sold + Increase in
+inventory – Increase in accounts payable = 175.9 + 8.8 – 2.6 = 182.1.
+ 
+38.Which of the following components of the cash flow statement may be prepared under the
+indirect method under both IFRS and US GAAP?
+A.Operating.
+B.Investing.
+C.Financing.
+参考答案：A
+【莽学解析】： A is correct. The operating section may be prepared under the indirect method.
+The other sections are always prepared under the direct method.
+ 
+39.Accrued expenses (accrued liabilities) are:
+A.expenses that have been paid.
+B.created when another liability is reduced.
+C.expenses that have been reported on the income statement but not yet paid.
+参考答案：C
+【莽学解析】： C is correct. Accrued liabilities are expenses that have been reported on a
+company’s income statement but have not yet been paid.
+ 
+40.Mabel Corporation (MC) reported accounts receivable of $66 million at the end of its second
+fiscal quarter. MC had revenues of $72 million for its third fiscal quarter and reported
+accounts receivable of $55 million at the end of its third fiscal quarter. Based on this
+information, the amount of cash MC collected from customers during the third fiscal quarter is:
+A.$61 million.
+B.$72 million.
+C.$83 million.
+参考答案：C
+【莽学解析】： C is correct. The amount of cash collected from customers during the quarter is
+equal to beginning accounts receivable plus revenues minus ending accounts receivable: $66
+million + $72 million – $55 million = $83 million. A reduction in accounts receivable
+indicates that cash collected during the quarter was greater than revenue on an accrual basis.
+ 
+41.Based on the following information for Star Inc., what are the total net adjustments that
+the company would make to net income in order to derive operating cash flow?
+A.Add $2 million.
+B.Add $6 million.
+C.Subtract $6 million.
+参考答案：B
+【莽学解析】： B is correct. To derive operating cash flow, the company would make the
+following adjustments to net income: Add depreciation (a non-cash expense) of $2 million; add
+the decrease in accounts receivable of $3 million; add the increase in accounts payable of $5
+million; and subtract the increase in inventory of $4 million. Total additions would be $10
+million, and total subtractions would be $4 million, which gives net additions of $6 million.
+ 
+42.Red Road Company, a consulting company, reported total revenues of $100 million, total
+expenses of $80 million, and net income of $20 million in the most recent year. If accounts
+receivable increased by $10 million, how much cash did the company receive from customers?
+A.$90 million.
+B.$100 million.
+C.$110 million.
+参考答案：A
+【莽学解析】： A is correct. Revenues of $100 million minus the increase in accounts receivable
+of $10 million equal $90 million cash received from customers. The increase in accounts
+receivable means that the company received less in cash than it reported as revenue.
+ 
+43.For its fiscal year-end, Sublyme Corporation reported net income of $200 million and a
+weighted average of 50,000,000 common shares outstanding. There are 2,000,000 convertible
+preferred shares outstanding that paid an annual dividend of $5. Each preferred share is
+convertible into two shares of the common stock. The diluted EPS is closest to:
+A.$3.52.
+B.$3.65.
+C.$3.70.
+参考答案：C
+【莽学解析】： C is correct. Diluted EPS = (Net income)/(Weighted average number of shares
+outstanding + New common shares that would have been issued at conversion) =
+$200,000,000/[50,000,000 + (2,000,000 × 2)] = $3.70 The diluted EPS assumes that the preferred
+dividend is not paid and that the shares are converted at the beginning of the period.
+ 
+44.Valuing assets at the amount of cash or equivalents paid or the fair value of the
+consideration given to acquire them at the time of acquisition most closely describes which
+measurement of financial statement elements?
+A.Current cost.
+B.Historical cost.
+C.Realizable value.
+参考答案：B
+【莽学解析】： B is correct. Historical cost is the consideration paid to acquire an asset.
+ 
+45.Green Glory Corp., a garden supply wholesaler, reported cost of goods sold for the year of
+$80 million. Total assets increased by $55 million, including an increase of $5 million in
+inventory. Total liabilities increased by $45 million, including an increase of $2 million in
+accounts payable. The cash paid by the company to its suppliers is most likely closest to:
+A.$73 million.
+B.$77 million.
+C.$83 million.
+参考答案：C
+【莽学解析】： C is correct. Cost of goods sold of $80 million plus the increase in inventory
+of $5 million equals purchases from suppliers of $85 million. The increase in accounts payable
+of $2 million means that the company paid $83 million in cash ($85 million minus $2 million) to
+its suppliers.
+ 
+46.The following information is extracted from Sweetfall Incorporated’s financial statements.
+ The amount of cash Sweetfall Inc. paid to suppliers is:
+A.$25,700.
+B.$26,702.
+C.$27,826.
+参考答案：A
+【莽学解析】： A is correct. The amount of cash paid to suppliers is calculated as follows:=
+Cost of goods sold – Decrease in inventory – Increase in accounts payable= $27,264 – $501 –
+$1,063= $25,700.
+ 
+47.Apex Consignment sells items over the internet for individuals on a consignment basis. Apex
+receives the items from the owner, lists them for sale on the internet, and receives a 25
+percent commission for any items sold. Apex collects the full amount from the buyer and pays
+the net amount after commission to the owner. Unsold items are returned to the owner after 90
+days. During 2009, Apex had the following information: Total sales price of items sold during
+2009 on consignment was €2,000,000. Total commissions retained by Apex during 2009 for these
+items was €500,000. How much revenue should Apex report on its 2009 income statement?
+A.€500,000.
+B.€2,000,000.
+C.€1,500,000.
+参考答案：A
+【莽学解析】： A is correct. Apex is not the owner of the goods and should only report its net
+commission as revenue
+48.A company recently engaged in a non-cash transaction that significantly affected its
+property, plant, and equipment. The transaction is:
+A.reported under the investing section of the cash flow statement.
+B.reported differently in cash flow from operations under the direct and indirect methods.
+C.disclosed as a separate note or in a supplementary schedule to the cash flow statement.
+参考答案：C
+【莽学解析】： C is correct. Because no cash is involved in non-cash transactions, these
+transactions are not incorporated in the cash flow statement. However, non-cash transactions
+that significantly affect capital or asset structures are required to be disclosed either in a
+separate note or a supplementary schedule to the cash flow statement.
+ 
+49.For its fiscal year-end, Calvan Water Corporation (CWC) reported net income of $12 million
+and a weighted average of 2,000,000 common shares outstanding. The company paid $800,000 in
+preferred dividends and had 100,000 options outstanding with an average exercise price of $20.
+CWC’s market price over the year averaged $25 per share. CWC’s diluted EPS is closest to:
+A.$5.33.
+B.$5.54.
+C.$5.94.
+参考答案：B
+【莽学解析】： B is correct. The formula to calculate diluted EPS is as follows: Diluted EPS =
+(Net income – Preferred dividends)/ [Weighted average number of shares outstanding + (New
+shares that would have been issued at option exercise – Shares that could have been purchased
+with cash received upon exercise) × (Proportion of year during which the financial instruments
+were outstanding)]. The underlying assumption is that outstanding options are exercised, and
+then the proceeds from the issuance of new shares are used to repurchase shares already
+outstanding: Proceeds from option exercise = 100,000 × $20 = $2,000,000 Shares repurchased =
+$2,000,000/$25 = 80,000 The net increase in shares outstanding is thus 100,000 – 80,000 =
+20,000. Therefore, the diluted EPS for CWC = ($12,000,000 – $800,000)/2,020,000 = $5.54.
+ 
+50.In 2018, a company using US GAAP made cash payments of $6 million for salaries, $2 million
+for interest expense, and $4 million for income taxes. Additional information for the company
+is provided in the table:
+ Based only on the information given, the company’s operating cash flow for 2018 is closest
+to:
+A.$6 million.
+B.$10 million.
+C.$14 million.
+参考答案：A
+【莽学解析】： A is correct. Operating cash flows = Cash received from customers – (Cash paid
+to suppliers + Cash paid to employees + Cash paid for other operating expenses + Cash paid for
+interest + Cash paid for income taxes) Cash received from customers = Revenue + Decrease in
+accounts receivable= $37 + $3 = $40 million Cash paid to suppliers = Cost of goods sold +
+Increase in inventory + Decrease in accounts payable = $16 + $4 + $2 = $22 million Therefore,
+the company’s operating cash flow = $40 – $22 – Cash paid for salaries – Cash paid for
+interest – Cash paid for taxes = $40 – $22 – $6 – $2 – $4 = $6 million.
+ 
+51.Which of the following is most likely to appear in the operating section of a cash flow
+statement under the indirect method?
+A.Net income.
+B.Cash paid to suppliers.
+C.Cash received from customers.
+参考答案：A
+【莽学解析】： A is correct. Under the indirect method, the operating section would begin with
+net income and adjust it to arrive at operating cash flow. The other two items would appear in
+the operating section under the direct method.
+ 
+52.An example of a contra asset account is:
+A.depreciation expense.
+B.sales returns and allowances.
+C.allowance for doubtful accounts.
+参考答案：C
+【莽学解析】： C is correct. A contra asset account is netted against (i.e., reduces) the
+balance of an asset account. The allowance for doubtful accounts reduces the balance of
+accounts receivable. Accumulated depreciation, not depreciation expense, is a contra asset
+account. Sales returns and allowances create a contra account that reduce sales, not an asset.
+ 
+53.Which of the following best describes why the notes that accompany the financial statements
+are required? The notes:
+A.permit flexibility in statement preparation.
+B.standardize financial reporting across companies.
+C.provide information necessary to understand the financial statements.
+参考答案：C
+【莽学解析】： C is correct. The notes provide information that is essential to understanding
+the information provided in the primary statements.
+ 
+54.According to the Conceptual Framework for Financial Reporting, which of the following is not
+an enhancing qualitative characteristic of information in financial statements?
+A.Accuracy.
+B.Timeliness.
+C.Comparability.
+参考答案：A
+【莽学解析】： A is correct. Accuracy is not an enhancing qualitative characteristic. Faithful
+representation, not accuracy, is a fundamental qualitative characteristic.
+ 
+55.The information provided by a balance sheet item is limited because of uncertainty
+regarding:
+A.measurement of its cost or value with reliability.
+B.the change in current value following the end of the reporting period.
+C.the probability that any future economic benefit will flow to or from the entity.
+参考答案：B
+【莽学解析】： B is correct. Balance sheet information is as of a specific point in time, and
+items measured at current value reflect the value that was current at the end of the reporting
+period. For all financial statement items, an item should be recognized in the financial
+statements only if it is probable that any future economic benefit associated with the item
+will flow to or from the entity and if the item has a cost or value that can be measured with
+reliability.
+ 
+56.The item “retained earnings” is a component of:
+A.assets.
+B.liabilities.
+C.shareholders’ equity.
+参考答案：C
+【莽学解析】： C is correct. The item “retained earnings” is a component of shareholders’
+equity.
+ 
+57.Accounting policies, methods, and estimates used in preparing financial statements are most
+likely to be found in the:
+A.auditor’s report.
+B.management commentary.
+C.notes to the financial statements.
+参考答案：C
+【莽学解析】： C is correct. The notes disclose choices in accounting policies, methods, and
+estimates.
+ 
+58.Under IFRS, a loss from the destruction of property in a fire would most likely be
+classified as:
+A.continuing operations.
+B.discontinued operations.
+C.other comprehensive income.
+参考答案：A
+【莽学解析】： A is correct. A fire may be infrequent, but it would still be part of continuing
+operations and reported in the profit and loss statement. Discontinued operations relate to a
+decision to dispose of an operating division.
+ 
+59.A company chooses to change an accounting policy. This change requires that, if practical,
+the company restate its financial statements for:
+A.all prior periods.
+B.current and future periods.
+C.prior periods shown in a report.
+参考答案：C
+【莽学解析】： C is correct. If a company changes an accounting policy, the financial
+statements for all fiscal years shown in a company’s financial report are presented, if
+practical, as if the newly adopted accounting policy had been used throughout the entire
+period; this retrospective application of the change makes the financial results of any prior
+years included in the report comparable. Notes to the financial statements describe the change
+and explain the justification for the change.
+ 
+60.Which of the following would an analyst most likely be able to determine from a common-size
+analysis of a company’s balance sheet over several periods?
+A.An increase or decrease in sales.
+B.An increase or decrease in financial leverage.
+C.A more efficient or less efficient use of assets.
+参考答案：B
+【莽学解析】： B is correct. Common-size analysis (as presented in the reading) provides
+information about composition of the balance sheet and changes over time. As a result, it can
+provide information about an increase or decrease in a company’s financial leverage.
+ 
+61.An analyst gathered the following information from a company’s 2018 financial statements
+(in $ millions):
+ In 2018, the company declared and paid cash dividends of $10 million and recorded depreciation
+expense in the amount of $25 million. The company considers dividends paid a financing
+activity. The company’s 2018 cash flow from operations (in $ millions) was closest to
+A.25.
+B.45.
+C.75.
+参考答案：B
+【莽学解析】： B is correct. All dollar amounts are in millions. Net income (NI) for 2018 is
+$35. This amount is the increase in retained earnings, $25, plus the dividends paid, $10.
+Depreciation of $25 is added back to net income, and the increases in accounts receivable, $5,
+and in inventory, $3, are subtracted from net income because they are uses of cash. The
+decrease in accounts payable is also a use of cash and, therefore, a subtraction from net
+income. Thus, cash flow from operations is $25 + $10 + $25 – $5 – $3 – $7 = $45.
+ 
+62.Purple Fleur S.A., a retailer of floral products, reported cost of goods sold for the year
+of $75 million. Total assets increased by $55 million, but inventory declined by $6 million.
+Total liabilities increased by $45 million, and accounts payable increased by $2 million. The
+cash paid by the company to its suppliers is most likely closest to:
+A.$67 million.
+B.$79 million.
+C.$83 million.
+参考答案：A
+【莽学解析】： A is correct. Cost of goods sold of $75 million less the decrease in inventory
+of $6 million equals purchases from suppliers of $69 million. The increase in accounts payable
+of $2 million means that the company paid $67 million in cash ($69 million minus $2 million).
+ 
+63.What type of audit opinion is preferred when analyzing financial statements?
+A.Qualified.
+B.Adverse.
+C.Unqualified.
+参考答案：C
+【莽学解析】： C is correct. An unqualified opinion is a “clean” opinion and indicates that
+the financial statements present the company’s performance and financial position fairly in
+accordance with a specified set of accounting standards.
+ 
+64.The initial measurement of goodwill is most likely affected by:
+A.an acquisition’s purchase price.
+B.the acquired company’s book value.
+C.the fair value of the acquirer’s assets and liabilities.
+参考答案：A
+【莽学解析】： A is correct. Initially, goodwill is measured as the difference between the
+purchase price paid for an acquisition and the fair value of the acquired, not acquiring,
+company’s net assets (identifiable assets less liabilities).
+ 
+65.Information about management and director compensation are least likely to be found in the:
+A.auditor’s report.
+B.proxy statement.
+C.notes to the financial statements.
+参考答案：A
+【莽学解析】： A is correct. Information about management and director compensation is not
+found in the auditor’s report. Disclosure of management compensation is required in the proxy
+statement, and some aspects of management compensation are disclosed in the notes to the
+financial statements.
+ 
+66.The role of financial statement analysis is best described as:
+A.providing information useful for making investment decisions.
+B.evaluating a company for the purpose of making economic decisions.
+C.using financial reports prepared by analysts to make economic decisions.
+参考答案：B
+【莽学解析】： B is correct. The primary role of financial statement analysis is to use
+financial reports prepared by companies to evaluate their past, current, and potential
+performance and financial position for the purpose of making investment, credit, and other
+economic decisions.
+ 
+67.Interim financial reports released by a company are most likely to be:
+A.monthly.
+B.unaudited.
+C.unqualified.
+参考答案：B
+【莽学解析】： B is correct. Interim reports are typically provided semiannually or quarterly
+and present the four basic financial statements and condensed notes. They are not audited.
+Unqualified is a type of audit opinion
+ 
+68.Which of the following elements of financial statements is most closely related to
+measurement of performance?
+A.Assets.
+B.Expenses.
+C.Liabilities.
+参考答案：B
+【莽学解析】： B is correct. The elements of financial statements related to the measure of
+performance are income and expenses.
+ 
+69.Which of the following is most likely classified as a current liability?
+A.Payment received for a product due to be delivered at least one year after the balance sheet
+date
+B.Payments for merchandise due at least one year after the balance sheet date but still within
+a normal operating cycle
+C.Payment on debt due in six months for which the company has the unconditional right to defer
+settlement for at least one year after the balance sheet date
+参考答案：B
+【莽学解析】： B is correct. Payments due within one operating cycle of the business, even if
+they will be settled more than one year after the balance sheet date, are classified as current
+liabilities. Payment received in advance of the delivery of a good or service creates an
+obligation or liability. If the obligation is to be fulfilled at least one year after the
+balance sheet date, it is recorded as a non-current liability, such as deferred revenue or
+deferred income. Payments that the company has the unconditional right to defer for at least
+one year after the balance sheet may be classified as non-current liabilities.
+ 
+70.An audit opinion of a company's financial reports is most likely intended to:
+A.detect fraud.
+B.reveal misstatements.
+C.assure that financial information is presented fairly.
+参考答案：C
+【莽学解析】
+ 
+71.Distinguishing between current and non-current items on the balance sheet and presenting a
+subtotal for current assets and liabilities is referred to as:
+A.a classified balance sheet.
+B.an unclassified balance sheet.
+C.a liquidity-based balance sheet.
+参考答案：A
+【莽学解析】： A is correct. A classified balance sheet is one that classifies assets and
+liabilities as current or non-current and provides a subtotal for current assets and current
+liabilities. A liquidity-based balance sheet broadly presents assets and liabilities in order
+of liquidity.
+ 
+72.White Flag, a women’s clothing manufacturer, reported salaries expense of $20 million. The
+beginning balance of salaries payable was $3 million, and the ending balance of salaries
+payable was $1 million. How much cash did the company pay in salaries?
+A.$18 million.
+B.$21 million.
+C.$22 million.
+参考答案：C
+【莽学解析】： C is correct. Beginning salaries payable of $3 million plus salaries expense of
+$20 million minus ending salaries payable of $1 million equals $22 million. Alternatively, the
+expense of $20 million plus the $2 million decrease in salaries payable equals $22 million.
+ 
+73.An independent audit report is most likely to provide:
+A.absolute assurance about the accuracy of the financial statements.
+B.reasonable assurance that the financial statements are fairly presented.
+C.a qualified opinion with respect to the transparency of the financial statements.
+参考答案：B
+【莽学解析】： B is correct. The independent audit report provides reasonable assurance that
+the financial statements are fairly presented, meaning that there is a high probability that
+the audited financial statements are free from material error, fraud, or illegal acts that have
+a direct effect on the financial statements.
+ 
+74.The valuation technique under which assets are recorded at the amount that would be received
+in an orderly disposal is:
+A.current cost.
+B.present value.
+C.realizable value.
+参考答案：C
+【莽学解析】： C is correct. The amount that would be received in an orderly disposal is
+realizable value.
+ 
+75.All of the following are current assets except:
+A.cash.
+B.goodwill.
+C.inventories.
+参考答案：B
+【莽学解析】： B is correct. Goodwill is a long-term asset, and the others are all current
+assets.
+76.The non-controlling (minority) interest in consolidated subsidiaries is presented on the
+balance sheet:
+A.as a long-term liability.
+B.separately, but as a part of shareholders’ equity.
+C.as a mezzanine item between liabilities and shareholders’ equity.
+参考答案：B
+【莽学解析】： B is correct. The non-controlling interest in consolidated subsidiaries is shown
+separately as part of shareholders’ equity.
+ 
+77.The financial statement that presents a shareholder’s residual claim on assets is the:
+A.balance sheet.
+B.income statement.
+C.cash flow statement.
+参考答案：A
+【莽学解析】： A is correct. Owners’ equity is the owners’ residual interest in (i.e.,
+residual claim on) the company’s assets after deducting its liabilities, which is information
+presented on the balance sheet
+ 
+78.The cash received prior to the recognition of revenue in the financial statements is
+recorded as:
+A.deferred revenue, an asset.
+B.accrued revenue, a liability.
+C.deferred revenue, a liability.
+参考答案：C
+【莽学解析】Cash received prior to revenue recognition increases cash and deferred or unearned
+revenue. This is a liability until the company provides the promised goods or services.
+ 
+79.When, at the end of an accounting period, cash has not been paid with respect to an expense
+that has been incurred, the business should then record:
+A.an accrued expense, an asset.
+B.a prepaid expense, an asset.
+C.an accrued expense, a liability.
+参考答案：C
+【莽学解析】When an expense is incurred and no cash has been paid, expenses are increased and a
+liability ("accrued expense") is established for the same amount.
+ 
+80.The assumption that an entity will continue to operate for the foreseeable future is called:
+A.accrual basis.
+B.comparability.
+C.going concern.
+参考答案：C
+【莽学解析】： C is correct. The Conceptual Framework identifies two important underlying
+assumptions of financial statements: accrual basis and going concern. Going concern is the
+assumption that the entity will continue to operate for the foreseeable future. Enterprises
+with the intent to liquidate or materially curtail operations would require different
+information for a fair presentation.
+ 
+81.A company’s financial position would best be evaluated using the:
+A.balance sheet.
+B.income statement.
+C.statement of cash flows.
+参考答案：A
+【莽学解析】： A is correct. The balance sheet portrays the company’s financial position on a
+specified date. The income statement and statement of cash flows present different aspects of
+performance during the period.
+ 
+82.A conversion of a face value $1 million convertible bond for $1 million of common stock
+would most likely be:
+A.reported as a $1 million investing cash inflow and outflow.
+B.reported as a $1 million financing cash outflow and inflow.
+C.reported as supplementary information to the cash flow statement.
+参考答案：C
+【莽学解析】： C is correct. Non-cash transactions, if significant, are reported as
+supplementary information, not in the investing or financing sections of the cash flow
+statement.
+ 
+83.A company’s profitability for a period would best be evaluated using the:
+A.balance sheet.
+B.income statement.
+C.statement of cash flows.
+参考答案：B
+【莽学解析】： B is correct. Profitability is the performance aspect measured by the income
+statement. The balance sheet portrays the financial position. The statement of cash flows
+presents a different aspect of performance.
+ 
+84.For financial assets classified as trading securities, how are unrealized gains and losses
+reflected in shareholders’ equity?
+A.They are not recognized.
+B.They flow through income into retained earnings.
+C.They are a component of accumulated other comprehensive income.
+参考答案：B
+【莽学解析】： B is correct. For financial assets classified as trading securities, unrealized
+gains and losses are reported on the income statement and flow to shareholders’ equity as part
+of retained earnings.
+ 
+85.HVG, LLC paid $12,000 of cash to a real estate company upon signing a lease on 31 December
+2005. The payment represents a $4,000 security deposit and $4,000 of rent for each of January
+2006 and February 2006. Assuming that the correct accounting is to reflect both January and
+February rent as prepaid, the most likely effect on HVG's accounting equation in December 2005
+is:
+A.no net change in assets.
+B.a decrease in assets of $8,000.
+C.a decrease in assets of $12,000.
+参考答案：A
+【莽学解析】The payment of January rent represents prepaid rent (an asset), which will be
+adjusted at the end of January to record rent expense. Cash (an asset) decreases by $12,000.
+Deposits (an asset) increase by $4,000. Prepaid rent (an asset) increases by $8,000. There is
+no net change in assets.
+ 
+86.Under which section of a manufacturing company’s cash flow statement are the following
+activities reported? Item 1: Purchases of securities held for trading Item 2: Sales of
+securities considered cash equivalents
+A.Both items are investing activities.
+B.Both items are operating activities.
+C.Only Item 1 is an investing activity.
+参考答案：B
+【莽学解析】： B is correct. The purchase and sale of securities considered cash equivalents
+and securities held for trading are considered operating activities even for companies in which
+this activity is not a primary business activity.
+ 
+87.Cameron and Caspar formed a new company with an investment of $500,000 on July 1 2014. The
+most likely effect of this transaction on the company's accounting equation at the time of the
+formation is an increase in cash and:
+A.an increase in revenue.
+B.an increase in liabilities.
+C.an increase in contributed capital.
+参考答案：C
+【莽学解析】This is a contribution of capital by the owners. Assets would increase by $500,000
+and contributed capital would increase by $500,000, maintaining the balance of the accounting
+equation.
+ 
+88.Under IFRS, income includes increases in economic benefits from:
+A.increases in liabilities not related to owners’ contributions.
+B.enhancements of assets not related to owners’ contributions.
+C.increases in owners’ equity related to owners’ contributions.
+参考答案：B
+【莽学解析】： B is correct. Under IFRS, income includes increases in economic benefits from
+increases in assets, enhancement of assets, and decreases in liabilities.
+ 
+89.Which of the following is an example of a financing activity on the cash flow statement
+under US GAAP?
+A.Payment of interest.
+B.Receipt of dividends.
+C.Payment of dividends.
+参考答案：C
+【莽学解析】： C is correct. Payment of dividends is a financing activity under US GAAP.
+Payment of interest and receipt of dividends are included in operating cash flows under US
+GAAP. Note that IFRS allow companies to include receipt of interest and dividends as either
+operating or investing cash flows and to include payment of interest and dividends as either
+operating or financing cash flows.
+ 
+90.When computing net cash flow from operating activities using the indirect method, an
+addition to net income is most likely to occur when there is a:
+A.gain on the sale of an asset.
+B.loss on the retirement of debt.
+C.decrease in a deferred tax liability.
+参考答案：B
+【莽学解析】： B is correct. An addition to net income is made when there is a loss on the
+retirement of debt, which is a non-operating loss. A gain on the sale of an asset and a
+decrease in deferred tax liability are both subtracted from net-income.
+ 
+91.Zimt AG uses the FIFO method, and Nutmeg Inc. uses the LIFO method. Compared to the cost of
+replacing the inventory, during periods of rising prices the ending inventory balance reported
+by (periodic inventory system applied):
+A.Zimt is too high.
+B.Nutmeg is too low.
+C.Nutmeg is too high.
+参考答案：B
+【莽学解析】： B is correct. Nutmeg uses the LIFO method, and thus some of the inventory on the
+balance sheet was purchased at a (no longer available) lower price. Zimt uses the FIFO method,
+so the carrying value on the balance sheet represents the most recently purchased units and
+thus approximates the current replacement cost. ： Z公司使用的是先进先出法，而N公司使用后进先出
+法，意味着Z公司报告的期末存货是最近买入的存货，接近当前存货市场价值，而N公司的期末存货价值体现
+的是较早买入的存货，在存货价值逐渐上升的时候，低于当前存货市场价值 因此相比当前的存货重置成本
+，即当前存货的市场价值，期末存货Z公司接近市场价值，而N公司低于市场价值，因此选择B选项。
+ 
+92.Like many technology companies, TechnoTools operates in an environment of declining prices.
+Its reported profits will tend to be highest if it accounts for inventory using the (periodic
+inventory system applied):
+A.FIFO method.
+B.LIFO method.
+C.weighted average cost method.
+参考答案：B
+【莽学解析】： B is correct. In a declining price environment, the newest inventory is the
+lowest-cost inventory. In such circumstances, using the LIFO method (selling the newer, cheaper
+inventory first) will result in lower cost of sales and higher profit. ： 在物价持续下降的时候
+，后进先出法计量的COGS最低，从而毛利润最高。而先进先出法下COGS最高，而计量的毛利润最低，加权平
+均法下的毛利润和COGS都处于后进先出法和先进先出法之间。 因此这道题目选择的是B选项。
+ 
+93.Which inventory method is least likely to be used under IFRS?
+A.First in, first out (FIFO).
+B.Last in, first out (LIFO).
+C.Weighted average.
+参考答案：B
+【莽学解析】： B is correct. The last in, first out (LIFO) method is not permitted under IFRS.
+The other two methods are permitted. ： 这道题问在国际准则下最不可能使用的存货计量方式 国际准则
+下允许的计量方式包括个别计价法、先进先出法和加权平均法 后进先出法是不被允许的 因此这道题目选择
+的是B选项
+ 
+94.Which of the following would best explain an increase in receivables turnover?
+A.The company adopted new credit policies last year and began offering credit to customers with
+weak credit histories.
+B.Due to problems with an error in its old credit scoring system, the company had accumulated a
+substantial amount of uncollectible accounts and wrote off a large amount of its receivables.
+C.To match the terms offered by its closest competitor, the company adopted new payment terms
+now requiring net payment within 30 days rather than 15 days, which had been its previous
+requirement.
+参考答案：B
+【莽学解析】： B is correct. A write off of receivables would decrease the average amount of
+accounts receivable (the denominator of the receivables turnover ratio), thus increasing this
+ratio. Customers with weaker credit are more likely to make payments more slowly or to pose
+collection difficulties, which would likely increase the average amount of accounts receivable
+and thus decrease receivables turnover. Longer payment terms would likely increase the average
+amount of accounts receivable and thus decrease receivables turnover. ： 应收帐款周转率等于销售
+收入（赊销收入）除以应收帐款。 A选项说公司采用了新的信贷政策，开始给信用较差的公司提供赊销，而
+信用较差的企业还款期会更长，导致企业的应收帐款周转率下降，A选项错误。 B选项说由于企业的信用评级
+系统出错，公司累计了大量未收回的应收帐款，期初计提了对应的减值。应收帐款减值之后，应收帐款下降
+，应收帐款周转率上升，B选项正确 C选项或为了和企业竞争者竞争，公司新的信贷体系延长收款期，从15天
+上升到30天。应收帐款周转天数上升，导致企业应收帐款周转率下降，C选项错误。
+ 
+95.Compared to using the FIFO method to account for inventory, during periods of rising prices,
+a company using the LIFO method is most likely to report higher (periodic inventory system
+applied):
+A.net income.
+B.cost of sales.
+C.income taxes.
+参考答案：B
+【莽学解析】： B is correct. The LIFO method increases cost of sales, thus reducing profits and
+the taxes thereon. ： 相比先进先出法，在存货价格逐步上升的阶段，采用后进先出法的公司当期记录更
+高的COGS和较低的存货，因此企业净利润偏低，当期交的所得税偏低，因此选择B选项。
+ 
+96.The carrying value of inventories reflects:
+A.their historical cost.
+B.their current value.
+C.the lower of historical cost or net realizable value.
+参考答案：C
+【莽学解析】： C is correct. Under IFRS, inventories are carried at historical cost, unless net
+realizable value of the inventory is less. Under US GAAP, inventories are carried at the lower
+of cost or market. ： 这道题目问的是存货的账面价值是反映的是？ 存货的账面价值是历史成本与可变现
+净值两者取其低得到的，因此这道题目选择的是C选项。
+ 
+97.LIFO reserve is most likely to increase when inventory unit:
+A.costs are increasing.
+B.costs are decreasing.
+C.levels are decreasing.
+参考答案：A
+【莽学解析】： A is correct. LIFO reserve is the FIFO inventory value less the LIFO inventory
+value. In periods of rising inventory unit costs, the carrying amount of inventory under FIFO
+will always exceed the carrying amount of inventory under LIFO. The LIFO reserve may increase
+over time as a result of the increasing difference between the older costs used to value
+inventory under LIFO and the more recent costs used to value inventory under FIFO. When
+inventory unit levels are decreasing, the company will experience a LIFO liquidation, reducing
+the LIFO reserve. ： 后进先出储备等于先进先出存货价值减去后进先出存货价值。在存货单位成本上升期
+间，先进先出存货的账面价值总是超过后进先出存货的账面价值。后进先出法储备可能会随着时间的推移而
+增加，这是因为用于后进先出法下存货估值的较旧成本与用于后进先出法下存货估值的较新成本之间的差异
+越来越大。当库存单位水平下降时，公司将经历后进先出清算，减少后进先出准备金。
+ 
+98.During the process data phase of financial statement analysis, an analyst will most likely
+develop a:
+A.common-size balance sheet.
+B.statement of purpose.
+C.statement of cash flows.
+参考答案：A
+【莽学解析】During the process data phase, an analyst will produce a variety of reports and
+documents based on the information collected. These may include common-size statements, ratios
+and graphs, forecasts, adjusted statements, and analytical results.在处理数据阶段，分析员将根据
+收集到的信息生成各种报告和文档。这些可能包括共同规模报表、比率和图表、预测、调整报表和分析结果
+。
+ 
+99.Fernando’s Pasta purchased inventory and later wrote it down. The current net realisable
+value is higher than the value when written down. Fernando’s inventory balance will most
+likely be:
+A.higher if it complies with IFRS.
+B.higher if it complies with US GAAP.
+C.the same under US GAAP and IFRS.
+参考答案：A
+【莽学解析】： A is correct. IFRS require the reversal of inventory write-downs if net
+realisable values increase; US GAAP do not permit the reversal of write-downs. ： F公司的存货在
+购买之后发生减值，而当前其存货的可变现净值高于了减值后的账面价值，在国际准则下由于允许存货回转
+至原值，但是美国准则下减值之后不允许回转，因此F公司的存货期末价值在国际准则下会高于美国准则下的
+金额。选择A选项。
+ 
+100.An analyst is evaluating the solvency and liquidity of Apex Manufacturing and has collected
+the following data (in millions of euro):
+ Which of the following would be the analyst’s most likely conclusion?
+A.The company is becoming increasingly less solvent, as evidenced by the increase in its debt-
+to-equity ratio from 0.35 to 0.50 from FY3 to FY5.
+B.The company is becoming less liquid, as evidenced by the increase in its debt-to-equity ratio
+from 0.35 to 0.50 from FY3 to FY5.
+C.The company is becoming increasingly more liquid, as evidenced by the increase in its debt-
+to-equity ratio from 0.35 to 0.50 from FY3 to FY5.
+参考答案：A
+【莽学解析】： A is correct. The company is becoming increasingly less solvent, as evidenced by
+its debt-to-equity ratio increasing from 0.35 to 0.50 from FY3 to FY5. The amount of a
+company’s debt and equity do not provide direct information about the company’s liquidity
+position. Debt to equity: FY5: 2,000/4,000 = 0.5000 FY4: 1,900/4,500 = 0.4222 FY3: 1,750/5,000
+= 0.3500 ： 根据题目信息，从第3年到第5年企业的债务股本比从0.35（1750/5000）上升到了
+0.5（2000/4000），而债务股本比反应的是企业的长期偿债能力，指标越高意味着企业的长期偿债能力越差
+，A选项正确。
+ 
+101.A company using the LIFO method reports the following in ￡:
+ Cost of goods sold for 2018 under the FIFO method is closest to:
+A.￡48,530.
+B.￡49,080.
+C.￡52,520.
+参考答案：B
+【莽学解析】： B is correct. The adjusted COGS under the FIFO method is equal to COGS under the
+LIFO method less the increase in LIFO reserve: COGS (FIFO) = COGS (LIFO) – Increase in LIFO
+reserve COGS (FIFO) = ￡50,800 – (￡4,320 – ￡2,600) COGS (FIFO) = ￡49,080 ： 先进先出法下
+COGS=后进先出法下COGS- 后进先出法储备的变化 先进先出法下COGS=50800-（4320-2600）=49080 因此这道
+题目最终选择B选项。
+ 
+102.Nutmeg, Inc. uses the LIFO method to account for inventory. During years in which inventory
+unit costs are generally rising and in which the company purchases more inventory than it sells
+to customers, its reported gross profit margin will most likely be (periodic inventory system
+applied):
+A.lower than it would be if the company used the FIFO method.
+B.higher than it would be if the company used the FIFO method.
+C.about the same as it would be if the company used the FIFO method.
+参考答案：A
+【莽学解析】： A is correct. LIFO will result in lower inventory and higher cost of sales in
+periods of rising costs compared to FIFO. Consequently, LIFO results in a lower gross profit
+margin than FIFO. ： N公司使用后进先出法，而在存货价格逐步上升的时候，N公司的COGS相比先进先出法
+会偏高，而期末存货相比先进先出法会偏低，因此N公司的毛利比先进先出法低，选择A选项。
+ 
+103.Zimt AG started business in 2017 and uses the FIFO method. During 2017, it purchased 45,000
+units of inventory at €10 each and sold 40,000 units for €20 each. In 2018, it purchased
+another 50,000 units at €11 each and sold 45,000 units for €22 each. Its 2018 ending
+inventory balance (€ thousands) was closest to (periodic inventory system applied):
+A.€105.
+B.€109.
+C.€110.
+参考答案：C
+【莽学解析】： C is correct. Zimt uses the FIFO method, and thus the first 5,000 units sold in
+2018 depleted the 2017 inventory. Of the inventory purchased in 2018, 40,000 units were sold
+and 10,000 remain, valued at €11 each, for a total of €110,000. ： 在先进先出法下，Z公司
+2018年卖出的45000件存货中，5000件是2017年买入的，40000件是2018年买入的，总成本
+=5000*10＋40000*11=490,000 期末剩下了10000件存货是2018年买入的，单价为11，因此期末存货价值为
+110,000 选择C选项。
+ 
+104.Assuming no changes in other variables, which of the following would decrease ROA?
+A.A decrease in the effective tax rate.
+B.A decrease in interest expense.
+C.An increase in average assets.
+参考答案：C
+【莽学解析】： C is correct. Assuming no changes in other variables, an increase in average
+assets (an increase in the denominator) would decrease ROA. A decrease in either the effective
+tax rate or interest expense, assuming no changes in other variables, would increase ROA. ： 在
+其他要素不变的情况下，ROA=NI/平均总资产 有效税率的下降会导致企业的净利润上升，ROA会上升，A选项
+不会导致ROA下降。 利息费用的下降也会导致企业净利润的上升，ROA上升，B选项不会导致ROA下降。 平均
+资产的上升而NI不变的情况下，ROA下降，C选项说法正确。
+ 
+105.A decomposition of ROE for Integra SA is as follows:
+ Which of the following choices best describes reasonable conclusions an analyst might make
+based on this ROE decomposition?
+A.Profitability and the liquidity position both improved in FY12.
+B.The higher average tax rate in FY12 offset the improvement in profitability, leaving ROE
+unchanged.
+C.The higher average tax rate in FY12 offset the improvement in efficiency, leaving ROE
+unchanged.
+参考答案：C
+【莽学解析】： C is correct. The increase in the average tax rate in FY12, as indicated by the
+decrease in the value of the tax burden (the tax burden equals one minus the average tax rate),
+offset the improvement in efficiency indicated by higher asset turnover) leaving ROE unchanged.
+The EBIT margin, measuring profitability, was unchanged in FY12 and no information is given on
+liquidity. ： 根据题目给出的信息，通过杜邦五分法可以看出，企业的盈利能力（EBIT margin）是没有发
+生变化的，两年都是10%，而五分法中没有反应流动性的指标，因此A选项不对 B选项说12年的税率的上升导
+致ROE的下降最终被企业盈利能力的上升抵消，从而ROE不变，但是实际上盈利能力并没有改变，因此B不对
+C选项说税率上升导致ROE的下降被经营效率（asset turnover反应）的上升而抵消，而asset turnover确实
+是从1.4上升到了1.5，因此C选项正确
+ 
+106.An analyst evaluating three industrial companies calculates the following ratios:
+ The company with both the lowest financial leverage and the greatest ability to meet interest
+payments is:
+A.Company A.
+B.Company B.
+C.Company C.
+参考答案：B
+【莽学解析】： B is correct. Company B has the lowest debt-to-equity ratio, indicating the
+lowest financial leverage, and the highest interest coverage ratio, indicating the greatest
+number of times that EBIT covers interest payments. ： 公司B的负债与股本比率最低，表明财务杠杆
+率最低，利息保障率最高，表明息税前利润涵盖利息支付的次数最多。因此选择B选项。
+ 
+107.Compared to using the weighted average cost method to account for inventory, during a
+period in which prices are generally rising, the current ratio of a company using the FIFO
+method would most likely be (periodic inventory system applied):
+A.lower.
+B.higher.
+C.dependent upon the interaction with accounts payable.
+参考答案：B
+【莽学解析】： B is correct. In a rising price environment, inventory balances will be higher
+for the company using the FIFO method. Accounts payable are based on amounts due to suppliers,
+not the amounts accrued based on inventory accounting. ： 相比加权平均法，在物价持续上升的时候
+，先进先出法下会计量更高的存货价值，因此先进先出法下的流动比率高于加权平均法下的流动比率。
+ 
+108.A creditor most likely would consider a decrease in which of the following ratios to be
+positive news?
+A.Interest coverage (times interest earned).
+B.Debt-to-total assets.
+C.Return on assets.
+参考答案：B
+【莽学解析】： B is correct. In general, a creditor would consider a decrease in debt to total
+assets as positive news. A higher level of debt in a company’s capital structure increases the
+risk of default and will, in general, result in higher borrowing costs for the company to
+compensate lenders for assuming greater credit risk. A decrease in either interest coverage or
+return on assets is likely to be considered negative news. ： 题目问的是债权人会认为哪一个指标
+的下降会是一个好消息 A选项利息保障倍数越高越好，因此这个指标的下降是坏消息而不是好消息。 B选项
+的债务资产比越小越好，这个指标的下降对于债权人是一个好消息。 C选项的总资产回报率越大越好，因此
+这个指标的下降对于债权人是坏消息。 因此这道题目最终选择的是B选项。
+ 
+109.An analyst is interested in assessing both the efficiency and liquidity of Spherion PLC.
+The analyst has collected the following data for Spherion:
+ Based on this data, what is the analyst least likely to conclude?
+A.Inventory management has contributed to improved liquidity.
+B.Management of payables has contributed to improved liquidity.
+C.Management of receivables has contributed to improved liquidity.
+参考答案：C
+【莽学解析】： C is correct. The analyst is unlikely to reach the conclusion given in Statement
+C because days of sales outstanding increased from 23 days in FY1 to 25 days in FY2 to 28 days
+in FY3, indicating that the time required to collect receivables has increased over the period.
+This is a negative factor for Spherion’s liquidity. By contrast, days of inventory on hand
+dropped over the period FY1 to FY3, a positive for liquidity. The company’s increase in days
+payable, from 35 days to 40 days, shortened its cash conversion cycle, thus also contributing
+to improved liquidity. ： 题目问的是根据题目给出的信息，分析师最不可能得出的结论是哪个。 根据题
+目给出的信息，存货周转天数从第一年到第三年逐步下降，意味着存货的管理效率上升，企业的流动性提升
+，A选项的结论分析师可以得出。 应付账款的周转天数上升，意味着企业的付款时间变长，企业的流动性变
+好，B选项的结论分析师可以得出。 应收帐款周转天数逐步上升，意味着企业的收款周期变长，企业流动性
+变差而不是变化，因此C选项的结论分析师无法得出。 这道题目选择C选项。
+ 
+110.A write down of the value of inventory to its net realizable value will have a positive
+effect on the:
+A.balance sheet.
+B.income statement.
+C.inventory turnover ratio.
+参考答案：C
+【莽学解析】： C is correct. Activity ratios (for example, inventory turnover and total asset
+turnover) will be positively affected by a write down to net realizable value because the asset
+base (denominator) is reduced. On the balance sheet, the inventory carrying amount is written
+down to its net realizable value and the loss in value (expense) is generally reflected on the
+income statement in cost of goods sold, thus reducing gross profit, operating profit, and net
+income. ： 存货减值到可变现净值之后，资产负债表中存货下降，是负面影响，利润表中COGS上升导致利润
+下降，也是负面影响。但是存货周转率由于COGS的上升和存货金额的下降导致周转率上升，产生正面影响
+，因此这道题目选择C选项。
+ 
+111.Compared with a company that uses the FIFO method, during a period of rising unit inventory
+costs, a company using the LIFO method will most likely appear more:
+A.liquid.
+B.efficient.
+C.profitable.
+参考答案：B
+【莽学解析】： B is correct. During a period of rising inventory prices, a company using the
+LIFO method will have higher cost of cost of goods sold and lower inventory compared with a
+company using the FIFO method. The inventory turnover ratio will be higher for the company
+using the LIFO method, thus making it appear more efficient. Current assets and gross profit
+margin will be lower for the company using the LIFO method, thus making it appear less liquid
+and less profitable. ： 在存货价格上涨的时期，采用后进先出法的公司与采用先进先出法的公司相比
+，其销售成本较高，存货较低。采用后进先出法的公司，存货周转率会更高，因此显得更有效率。采用后进
+先出法的公司，流动资产和毛利率会较低，因此流动性和盈利能力都会降低。因此这道题目选择B选项。
+ 
+112.An analyst is evaluating the solvency and liquidity of Apex Manufacturing and has collected
+the following data (in millions of euro). What would be the most reasonable explanation of the
+financial data?
+A.The decline in the company’s equity results from a decline in the market value of this
+company’s common shares.
+B.The €250 increase in the company’s debt from FY3 to FY5 indicates that lenders are viewing
+the company as increasingly creditworthy.
+C.The decline in the company’s equity indicates that the company may be incurring losses,
+paying dividends greater than income, and/or repurchasing shares.
+参考答案：C
+【莽学解析】： C is correct. The decline in the company’s equity indicates that the company
+may be incurring losses, paying dividends greater than income, or repurchasing shares. Recall
+that Beginning equity + New shares issuance – Shares repurchased + Comprehensive income –
+Dividends = Ending equity. The book value of a company’s equity is not affected by changes in
+the market value of its common stock. An increased amount of lending does not necessarily
+indicate that lenders view a company as increasingly creditworthy. Creditworthiness is not
+evaluated based on how much a company has increased its debt but rather on its willingness and
+ability to pay its obligations. (Its financial strength is indicated by its solvency,
+liquidity, profitability, efficiency, and other aspects of credit analysis.) ： 根据题目提供的
+信息，企业所有者权益的下降和他市场价值的变化没有必然联系，主要和企业的回购、企业支付股利或者企
+业的亏损有关，因此A选项错误，C选项正确。 而债务上升了250，意味着企业的债务比例上升，企业长期偿
+债能力是变差的，信用水平下降，而不是上升，因此B选项错误。 这道题目最终选择C选项。
+ 
+113.Company A adheres to US GAAP and Company B adheres to IFRS. Which of the following is most
+likely to be disclosed on the financial statements of both companies?
+A.Any material income resulting from the liquidation of LIFO inventory
+B.The amount of inventories recognized as an expense during the period
+C.The circumstances that led to the reversal of a write down of inventories
+参考答案：B
+【莽学解析】： B is correct. Both US GAAP and IFRS require disclosure of the amount of
+inventories recognized as an expense during the period. Only US GAAP allows the LIFO method and
+requires disclosure of any material amount of income resulting from the liquidation of LIFO
+inventory. US GAAP does not permit the reversal of prior-year inventory write downs. ： 公司A遵
+循美国准则，而公司B遵循国际准则，由于国际准则不允许后进先出法，因此B公司不会披露后进先出法下存
+货的清算对企业利润的影响。美国准则下不允许存货减值之后的回转，因此A公司不会披露存货的回转。A和
+B两个公司都会披露的是当期存货相关的费用化的成本，因此B选项正确。
+ 
+114.Brown Corporation had average days of sales outstanding of 19 days in the most recent
+fiscal year. Brown wants to improve its credit policies and collection practices and decrease
+its collection period in the next fiscal year to match the industry average of 15 days. Credit
+sales in the most recent fiscal year were $300 million, and Brown expects credit sales to
+increase to $390 million in the next fiscal year. To achieve Brown’s goal of decreasing the
+collection period, the change in the average accounts receivable balance that must occur is
+closest to:
+A.+$0.41 million.
+B.–$0.41 million.
+C.–$1.22 million.
+参考答案：A
+【莽学解析】： A is correct. The average accounts receivable balances (actual and desired) must
+be calculated to determine the desired change. The average accounts receivable balance can be
+calculated as an average day’s credit sales times the DSO. For the most recent fiscal year,
+the average accounts receivable balance is $15.62 million [= ($300,000,000/365) × 19]. The
+desired average accounts receivable balance for the next fiscal year is $16.03 million (=
+($390,000,000/365) × 15). This is an increase of $0.41 million (= 16.03 million – 15.62
+million). An alternative approach is to calculate the turnover and divide sales by turnover to
+determine the average accounts receivable balance. Turnover equals 365 divided by DSO. Turnover
+is 19.21 (= 365/19) for the most recent fiscal year and is targeted to be 24.33 (= 365/15) for
+the next fiscal year. The average accounts receivable balances are $15.62 million (=
+$300,000,000/19.21), and $16.03 million (= $390,000,000/24.33). The change is an increase in
+receivables of $0.41 million ：
+115.Cinnamon Corp. started business in 2017 and uses the weighted average cost method. During
+2017, it purchased 45,000 units of inventory at €10 each and sold 40,000 units for €20 each.
+In 2018, it purchased another 50,000 units at €11 each and sold 45,000 units for €22 each.
+Its 2018 cost of sales (€ thousands) was closest to (periodic inventory system applied):
+A.€490.
+B.€491.
+C.€495.
+参考答案：B
+【莽学解析】： B is correct. Cinnamon uses the weighted average cost method, so in 2018, 5,000
+units of inventory were 2017 units at €10 each and 50,000 were 2008 purchases at €11. The
+weighted average cost of inventory during 2008 was thus (5,000 × 10) + (50,000 × 11) = 50,000
++ 550,000 = €600,000, and the weighted average cost was approximately €10.91 =
+€600,000/55,000. Cost of sales was €10.91 × 45,000, which is approximately €490,950. ： 在
+加权平均法下，C公司2018年的存货平均成本为 在2018年C公司卖出45000件，因此总成本为491,000 选择B选
+项
+ 
+116.An analyst is evaluating the balance sheet of a US company that uses last in, first out
+(LIFO) accounting for inventory. The analyst collects the following data:
+ After adjusting the amounts to convert to the first in, first out (FIFO) method, inventory at
+31 December 2006 would be closest to:
+A.$600,000.
+B.$620,000.
+C.$670,000.
+参考答案：C
+【莽学解析】： C is correct. To convert LIFO inventory to FIFO inventory, the entire LIFO
+reserve must be added back: $600,000 + $70,000 = $670,000. ：企业从后进先出法转换为先进先出法后
+，先进先出法下的存货=后进先出法下存货＋后进先出储备=600,000＋70,000=670,000，因此选择C选项。
+ 
+117.Zimt AG wrote down the value of its inventory in 2017 and reversed the write-down in 2018.
+Compared to the ratios that would have been calculated if the write-down had never occurred,
+Zimt’s reported 2017 (periodic inventory system applied):
+A.current ratio was too high.
+B.gross margin was too high.
+C.inventory turnover was too high.
+参考答案：C
+【莽学解析】： C is correct. The write-down reduced the value of inventory and increased cost
+of sales in 2017. The higher numerator and lower denominator mean that the inventory turnover
+ratio as reported was too high. Gross margin and the current ratio were both too low. ： Z公司
+的存货在2017年减值之后，在2018年回转。那么在2017年，减值的金额会计入COGS当中，相比没有发生减值
+，发生减值之后Z公司当期的COGS上升，期末存货金额下降，因此发生减值后2017年Z公司流动比率下降，毛
+利润率下降，而存货周转率上升，因此选择C选项。
+ 
+118.Carrying inventory at a value above its historical cost would most likely be permitted if:
+A.the inventory was held by a producer of agricultural products.
+B.financial statements were prepared using US GAAP.
+C.the change resulted from a reversal of a previous write-down.
+参考答案：A
+【莽学解析】： A is correct. IFRS allow the inventories of producers and dealers of
+agricultural and forest products, agricultural produce after harvest, and minerals and mineral
+products to be carried at net realisable value even if above historical cost. (US GAAP
+treatment is similar.) ： 存货账面价值高于其历史成本，只会出现在农林矿产品当中。 农林矿产品可以
+适用可变现净值进行对应的计量，因此其账面净值可以高于历史成本。 因此这道题目选择A选项。
+ 
+119.During periods of rising inventory unit costs, a company using the FIFO method rather than
+the LIFO method will report a lower:
+A.current ratio.
+B.inventory turnover.
+C.gross profit margin.
+参考答案：B
+【莽学解析】： B is correct. During a period of rising inventory costs, a company using the
+FIFO method will allocate a lower amount to cost of goods sold and a higher amount to ending
+inventory as compared with the LIFO method. The inventory turnover ratio is the ratio of cost
+of sales to ending inventory. A company using the FIFO method will produce a lower inventory
+turnover ratio as compared with the LIFO method. The current ratio (current assets/current
+liabilities) and the gross profit margin [gross profit/sales = (sales less cost of goods
+sold)/sales] will be higher under the FIFO method than under the LIFO method in periods of
+rising inventory unit costs. ： 在存货价值上升的时候，相比后进先出法，先进先出法下存货账面价值
+偏高，而COGS偏低。因此先进先出法下流动比率是偏高的，存货周转率偏低，而净利润是偏高的，因此先进
+先出法下较低的是B选项，存货周转率。
+ 
+120.In a period of declining inventory unit costs and constant or increasing inventory
+quantities, which inventory method is most likely to result in a higher debt-to-equity ratio?
+A.LIFO
+B.FIFO
+C.Weighted average cost
+参考答案：B
+【莽学解析】： B is correct. In an environment of declining inventory unit costs and constant
+or increasing inventory quantities, FIFO (in comparison with weighted average cost or LIFO)
+will have higher cost of goods sold (and net income) and lower inventory. Because both
+inventory and net income are lower, total equity is lower, resulting in a higher debt-to-equity
+ratio. ： 在存货价格持续下降的时候，先进先出法下会记录最高的COGS，从而导致企业净利润最低，当期
+结转到留存收益部分也就是最低的，从而企业的所有者权益在先进先出法下也就是最低的。企业债务不受企
+业存货计量方式的影响，因此最低的所有者权益会带来最高的债务股本比，因此这道题目选择的是B选项。
+ 
+121.A company incurs the followings costs related to its inventory during the year:
+ Theamount charged to inventory cost (in millions) is closest to:
+A.￥175,000.
+B.￥177,000.
+C.￥185,000.
+参考答案：A
+【莽学解析】The costs to include in inventories are all costs of purchase, costs of conversion,
+and other costs incurred in bringing the inventories to their present location and condition.
+存货成本包括所有采购成本、转换成本以及将存货运至当前位置和状态所产生的其他成本。
+ 
+ 
+122.Which ratio would a company most likely use to measure its ability to meet short-term
+obligations?
+A.Current ratio.
+B.Payables turnover.
+C.Gross profit margin.
+参考答案：A
+【莽学解析】： A is correct. The current ratio is a liquidity ratio. It compares the net amount
+of current assets expected to be converted into cash within the year with liabilities falling
+due in the same period. A current ratio of 1.0 would indicate that the company would have just
+enough current assets to pay current liabilities. ： 为了度量企业的短期偿债能力，分析师最有可能
+看的是企业的流动性指标，流动性指标包括流动比率，速动比率和现金比率等，因此选择A选项。
+ 
+123.What does the P/E ratio measure?
+A.The “multiple” that the stock market places on a company’s EPS.
+B.The relationship between dividends and market prices.
+C.The earnings for one common share of stock.
+参考答案：A
+【莽学解析】： A is correct. The P/E ratio measures the “multiple” that the stock market
+places on a company’s EPS. ： 市盈率指标反映的是企业每股股价和每股EPS之间的乘数关系，P/E，因此
+A选项正确。 B选项反应的是企业每股股价和股利的关系是指股利收益率D/P，而不是市盈率。 C选项的每股
+普通股的收益是指每股收益而非市盈率。 因此这道题目最终选项的是A选项。
+ 
+124.Which of the following most likely signals that a manufacturing company expects demand for
+its product to increase?
+A.Finished goods inventory growth rate higher than the sales growth rate
+B.Higher unit volumes of work in progress and raw material inventories
+C.Substantially higher finished goods, with lower raw materials and work-in-process
+参考答案：B
+【莽学解析】： B is correct. A significant increase (attributable to increases in unit volume
+rather than increases in unit cost) in raw materials and/or work-in-progress inventories may
+signal that the company expects an increase in demand for its products. If the growth of
+finished goods inventories is greater than the growth of sales, it could indicate a decrease in
+demand and a decrease in future earnings. A substantial increase in finished goods inventories
+while raw materials and work-in-progress inventories are declining may signal a decrease in
+demand for the company’s products. ： 原材料和/或在建工程库存的大幅增加（归因于单位体积的增加
+而非单位成本的增加）可能表明公司预期其产品的需求会增加。如果产成品库存的增长大于销售的增长，则
+可能表明需求减少，未来收入减少。在原材料和在制品库存下降的同时，产成品库存大幅增加，可能意味着
+公司产品需求减少，因此这道题目选择B选项。
+ 
+125.Defining total asset turnover as revenue divided by average total assets, all else equal,
+impairment write-downs of long-lived assets owned by a company will most likely result in an
+increase for that company in:
+A.the debt-to-equity ratio but not the total asset turnover.
+B.the total asset turnover but not the debt-to-equity ratio.
+C.both the debt-to-equity ratio and the total asset turnover.
+参考答案：C
+【莽学解析】： C is correct. Impairment write-downs reduce equity in the denominator of the
+debt-to-equity ratio but do not affect debt, so the debt-to-equity ratio is expected to
+increase. Impairment write-downs reduce total assets but do not affect revenue. Thus, total
+asset turnover is expected to increase. ： 这道题目问的是如果总资产周转率等于销售收入除以当期平
+均总资产，那么在其他条件不变的情况下，企业拥有的长期资产发生减值，会导致以下哪一个指标上升。 由
+于资产减值导致利润表当中净利润下降，因此所有者权益下降，debt to equity的指标是上升的。 而资产减
+值之后，销售收入不变，平均总资产下降，总资产周转率上升。 因此两个指标都是上升，这道题目最终选择
+的是C选项。
+ 
+126.An analyst evaluating a company’s solvency gathers the following information:
+ The company’s debt-to-assets ratio is closest to:
+A.0.18.
+B.0.27.
+C.0.37.
+参考答案：A
+【莽学解析】
+ 
+企业的债务资产比=总债务/总资产=(1,258＋321)/(8,750) = 1,579/8,750 = 0.18
+ 
+127.Zimt AG uses the FIFO method, and Nutmeg Inc. uses the LIFO method. Compared to the cost of
+replacing the inventory, during periods of rising prices, the cost of sales reported by
+(periodic inventory system applied):
+A.Zimt is too low.
+B.Nutmeg is too low.
+C.Nutmeg is too high.
+参考答案：A
+【莽学解析】： A is correct. Zimt uses the FIFO method, so its cost of sales represents units
+purchased at a (no longer available) lower price. Nutmeg uses the LIFO method, so its cost of
+sales is approximately equal to the current replacement cost of inventory. ： Z公司使用的是先进
+先出法，而N公司使用后进先出法，意味着Z公司报告的COGS是较早买入的存货，在物价持续上升时候，低于
+当前的市场价值，而N公司的COGS则是最近买入的存货，接近当前存货市场价值 因此相比当前的存货重置成
+本，即当前存货的市场价值，Z公司COGS偏低，N公司相等，因此选择A选项。
+ 
+128.Galambos Corporation had an average receivables collection period of 19 days in 2003.
+Galambos has stated that it wants to decrease its collection period in 2004 to match the
+industry average of 15 days. Credit sales in 2003 were $300 million, and analysts expect credit
+sales to increase to $400 million in 2004. To achieve the company’s goal of decreasing the
+collection period, the change in the average accounts receivable balance from 2003 to 2004 that
+must occur is closest to:
+A.–$420,000.
+B.$420,000.
+C.$836,000.
+参考答案：C
+【莽学解析】： C is correct. Accounts receivable turnover is equal to 365/19 (collection period
+in days) = 19.2 for 2003 and needs to equal 365/15 = 24.3 in 2004 for Galambos to meet its
+goal. Sales/turnover equals the accounts receivable balance. For 2003, $300,000,000/19.2 =
+$15,625,000, and for 2004, $400,000,000/24.3 = $16,460,905. The difference of $835,905 is the
+increase in receivables needed for Galambos to achieve its goal. ： 应收帐款周转率=销售收入/平
+均应收帐款，应收帐款周转天数=365/应收帐款周转率=(365×平均应收帐款)/销售收入 根据题目信息，更改
+政策之前应收帐款周转天数为19天 19=(平均应收帐款×365)/300,000,000，得到平均应收帐款在期初修改政
+策前为15,625,000 更改政策之后，应收帐款周转天数会变为15天，销售收入为400 million 15=(平均应收帐
+款×365)/400,000,000，得到平均应收帐款期末会变为16,460,905 因此应收帐款上升了835,905。 选择C选
+项。
+ 
+129.Carey Company adheres to US GAAP, whereas Jonathan Company adheres to IFRS. It is least
+likely that (periodic inventory system applied):
+A.Carey has reversed an inventory write-down.
+B.Jonathan has reversed an inventory write-down.
+C.Jonathan and Carey both use the FIFO inventory accounting method.
+参考答案：A
+【莽学解析】： A is correct. US GAAP do not permit inventory write-downs to be reversed.
+ 
+130.An investor concerned whether a company can meet its near-term obligations is most likely
+to calculate the:
+A.current ratio.
+B.return on total capital.
+C.financial leverage ratio.
+参考答案：A
+【莽学解析】： A is correct. The current ratio provides a comparison of assets that can be
+turned into cash relatively quickly and liabilities that must be paid within one year. The
+other ratios are more suited to longer-term concerns. ： 如果投资者想要知道企业是否能够满足短期
+之内的偿债义务，需要看企业的流动性指标，包括流动比率、速动比率和现金比率，因此这道题目最终选择
+的是A选项。
+ 
+131.An analyst observes the following data for two companies:
+ Which of the following choices best describes reasonable conclusions that the analyst might
+make about the two companies’ ability to pay their current and long-term obligations?
+A.Company A’s current ratio of 4.0 indicates it is more liquid than Company B, whose current
+ratio is only 1.2, but Company B is more solvent, as indicated by its lower debt-to-equity
+ratio.
+B.Company A’s current ratio of 0.25 indicates it is less liquid than Company B, whose current
+ratio is 0.83, and Company A is also less solvent, as indicated by a debt-to-equity ratio of
+200 percent compared with Company B’s debt-to-equity ratio of only 30 percent.
+C.Company A’s current ratio of 4.0 indicates it is more liquid than Company B, whose current
+ratio is only 1.2, and Company A is also more solvent, as indicated by a debt-to-equity ratio
+of 200 percent compared with Company B’s debt-to-equity ratio of only 30 percent.
+参考答案：A
+【莽学解析】： A is correct. Company A’s current ratio of 4.0 (= $40,000/$10,000) indicates it
+is more liquid than Company B, whose current ratio is only 1.2 (= $60,000/$50,000). Company B
+is more solvent, as indicated by its lower debt-to-equity ratio of 30 percent (=
+$150,000/$500,000) compared with Company A’s debt-to-equity ratio of 200 percent (=
+$60,000/$30,000). ： 根据题目信息，计算出来的流动比率A公司为4，B公司为1.2，因此A公司的流动性比
+B公司的流动性高。而债务股本比A公司是2，B公司只有0.3，因此长期偿债能力B公司比A公司要好。因此这道
+题目最终选择A选项。
+ 
+132.The most stringent test of a company’s liquidity is its:
+A.cash ratio.
+B.quick ratio.
+C.current ratio.
+参考答案：A
+【莽学解析】： A is correct. The cash ratio determines how much of a company’s near-term
+obligations can be settled with existing amounts of cash and marketable securities. ： 衡量企业
+流动性最严格的指标是现金比率，剔除了流动资产当中流动性不好的存货和应收帐款，因此是最严格的指标
+，这道题目选择A选项。
+ 
+133.Which of the following ratios would be most useful in determining a company’s ability to
+cover its lease and interest payments?
+A.ROA.
+B.Total asset turnover.
+C.Fixed charge coverage.
+参考答案：C
+【莽学解析】： C is correct. The fixed charge coverage ratio is a coverage ratio that relates
+known fixed charges or obligations to a measure of operating profit or cash flow generated by
+the company. Coverage ratios, a category of solvency ratios, measure the ability of a company
+to cover its payments related to debt and leases. ： 租赁和利息支付是企业的固定支出，衡量企业能
+够满足企业固定费用的支付的指标是固定费用保障倍数，选择C选项。
+ 
+134.During 2009, Accent Toys Plc., which began business in October of that year, purchased
+10,000 units of a toy at a cost of €10 per unit in October. The toy sold well in October. In
+anticipation of heavy December sales, Accent purchased 5,000 additional units in November at a
+cost of €11 per unit. During 2009, Accent sold 12,000 units at a price of €15 per unit. Under
+the first in, first out (FIFO) method, what is Accent’s cost of goods sold for 2009?
+A.€120,000.
+B.€122,000.
+C.€124,000.
+参考答案：B
+【莽学解析】： B is correct. Under the first in, first out (FIFO) method, the first 10,000
+units sold came from the October purchases at ￡10, and the next 2,000 units sold came from the
+November purchases at ￡11. ： 这道题目问的是根据题目提供的信息，A公司用的是先进先出法的情况下
+，A公司在09年确认的COGS是多少。 由于企业用的是先进先出法，在09年最先卖出的是10月份买入的10000件
+，单价是10，同时卖出了11月买入的5000件中的2000件，单价是11。 因此09年A公司确认的
+COGS=10000*10＋2000*11=122000 选择B选项
+ 
+135.If inventory unit costs are increasing from period-to-period, a LIFO liquidation is most
+likely to result in an increase in:
+A.gross profit.
+B.LIFO reserve.
+C.inventory carrying amounts.
+参考答案：A
+【莽学解析】： A is correct. When the number of units sold exceeds the number of units
+purchased, a company using LIFO will experience a LIFO liquidation. If inventory unit costs
+have been rising from period-to-period and a LIFO liquidation occurs, it will produce an
+increase in gross profit as a result of the lower inventory carrying amounts of the liquidated
+units (lower cost per unit of the liquidated units). ： 这道题目问的是如果存货成本持续上升的时
+候，后进先出清算最有可能导致哪一项的上升。后进先出清算指的是企业存货买入少于卖出的存货。那么由
+于存货价格持续上升，卖出的存货价格会低于市场价值，那么COGS当中会下降，因此企业的毛利润会上升。
+而由于存货数量减少，早期买入的存货会被卖出，后进先出储备会下降，同时存货的账面价值会下降。因此
+这道题目最终选择A选项。
+ 
+136.Using the information presented in Exhibit
+ 
+ The financial leverage ratio for SAP Group at 31 December 2017 is closest to:
+A.1.50.
+B.1.66.
+C.2.00.
+参考答案：B
+【莽学解析】： B is correct. The financial leverage ratio (Total assets ÷ Total equity) is
+1.66 (= €42,497 ÷ €25,540). ： 财务杠杆比率=总资产/总所有者权益=4242,497 ÷ 25,540=1.66 选择
+B选项
+ 
+137.An analyst compiles the following data for a company:
+ Based only on the information above, the most appropriate conclusion is that, over the period
+FY13 to FY15, the company’s:
+A.net profit margin and financial leverage have decreased.
+B.net profit margin and financial leverage have increased.
+C.net profit margin has decreased but its financial leverage has increased.
+参考答案：C
+【莽学解析】： C is correct. The company’s net profit margin has decreased and its financial
+leverage has increased. ROA = Net profit margin × Total asset turnover. ROA decreased over the
+period despite the increase in total asset turnover; therefore, the net profit margin must have
+decreased. ROE = Return on assets × Financial leverage. ROE increased over the period despite
+the drop in ROA; therefore, financial leverage must have increased. ： 根据杜邦分析方法
+ROE=ROA*financial leverage=net profit margin*total asset turnover*financial leverage 因此根据题
+目给出的信息 financial leverage=ROE/ROA，net profit margin=ROA/total asset turnover 因此企业的
+财务杠杆上升，而净利润率下降，选择C选项
+ 
+138.An investor worried about a company’s long-term solvency would most likely examine its:
+A.current ratio.
+B.return on equity.
+C.debt-to-equity ratio.
+参考答案：C
+【莽学解析】： C is correct. The debt-to-equity ratio, a solvency ratio, is an indicator of
+financial risk. ： A选项流动比率衡量的是企业的短期偿债能力而非长期，A选项错误。 B选项衡量的是企
+业的盈利能力，B选项错误 C选项衡量的是企业长期的偿债能力，C选项正确。
+ 
+139.When comparing a US company that uses the last in, first out (LIFO) method of inventory
+with companies that prepare their financial statements under international financial reporting
+standards (IFRS), analysts should be aware that according to IFRS, the LIFO method of
+inventory:
+A.is never acceptable.
+B.is always acceptable.
+C.is acceptable when applied to finished goods inventory only.
+参考答案：A
+【莽学解析】： A is correct. LIFO is not permitted under IFRS. ：后进先出法在国际准则下是不允许
+使用的，因此这道题目选择A选项。
+ 
+140.Compared to a company that uses the FIFO method, during periods of rising prices a company
+that uses the LIFO method will most likely appear more (periodic inventory system applied):
+A.liquid.
+B.efficient.
+C.profitable.
+参考答案：B
+【莽学解析】： B is correct. LIFO will result in lower inventory and higher cost of sales.
+Gross margin (a profitability ratio) will be lower, the current ratio (a liquidity ratio) will
+be lower, and inventory turnover (an efficiency ratio) will be higher. ： 在存货价值上升的阶段
+，相比先进先出法，后进先出法计量的COGS偏高，因此毛利润低于先进先出法的毛利润。同时后进先出法下
+存货金额低于先进先出法下存货金额，因此流动比率后进先出法下较低。而存货周转率由于后进先出法下
+COGS偏高而存货偏低，导致存货周转率偏高，效率相比先进先出法下偏高，选择B选项。
+ 
+141.Using the information presented in Exhibit
+ 
+ the quick ratio for SAP Group at 31 December 2017 is closest to:
+A.1.00.
+B.1.07.
+C.1.17.
+参考答案：B
+【莽学解析】： B is correct. The quick ratio ([Cash + Marketable securities + Receivables] ÷
+Current liabilities) is 1.07 ([= €4,011 + €990 + €5,899] ÷ €10,210). As noted in the text,
+the largest component of the current financial assets are loans and other financial
+receivables. Thus, financial assets are included in the quick ratio but not the cash ratio. ：
+ 
+142.Which is an appropriate method of preparing a common-size cash flow statement?
+A.Show each item of revenue and expense as a percentage of net revenue.
+B.Show each line item on the cash flow statement as a percentage of net revenue.
+C.Show each line item on the cash flow statement as a percentage of total cash outflows.
+参考答案：B
+【莽学解析】： B is correct. An appropriate method to prepare a common-size cash flow statement
+is to show each line item on the cash flow statement as a percentage of net revenue. An
+alternative way to prepare a statement of cash flows is to show each item of cash inflow as a
+percentage of total inflows and each item of cash outflows as a percentage of total outflows.
+： 在企业编制同比现金流量表的时候有两种编制方法，一种是将所有项目转化为每一项目占销售收入的百分
+比，另一种是将所有现金流出项目转化为每一项目占总流出的比例，所有现金流入项目转化为每一项目占总
+流入的比例。 因此这道题目选择的是B选项。 A选项描述的是同比利润表，而C选项的表述不完备。
+ 
+143.An analyst observes a decrease in a company’s inventory turnover. Which of the following
+would most likely explain this trend?
+A.The company installed a new inventory management system, allowing more efficient inventory
+management.
+B.Due to problems with obsolescent inventory last year, the company wrote off a large amount of
+its inventory at the beginning of the period.
+C.The company installed a new inventory management system but experienced some operational
+difficulties resulting in duplicate orders being placed with suppliers.
+参考答案：C
+【莽学解析】： C is correct. The company’s problems with its inventory management system
+causing duplicate orders would likely result in a higher amount of inventory and would,
+therefore, result in a decrease in inventory turnover. A more efficient inventory management
+system and a write off of inventory at the beginning of the period would both likely decrease
+the average inventory for the period (the denominator of the inventory turnover ratio), thus
+increasing the ratio rather than decreasing it. ： 企业的存货周转率下降的话，A选项说公司使用了
+新的存货管理系统，从而导致存货管理效率上升，存货管理效率上升之后存货周转率应当是上升而不是下降
+，因此A选项说法不会导致存货周转率下降。 B选项说由于存货过时导致企业在期初的时候将一大部分存货计
+提了减值，存货减值之后COGS上升，同时inventory下降，导致inventory turnover上升而不是下降，因此
+B选项说法不对。 C选项说企业采用了新的存货管理系统，但是使用的时候操作上有问题，会导致重复下单
+，重复下单之后inventory上升，COGS不变的情况下inventory上升，导致企业的inventory turnover下降
+，C选项说法正确。
+ 
+144.The following presents selected financial information for a company:
+ The financial leverage ratio is closest to:
+A.0.113
+B.0.277
+C.2.452
+参考答案：C
+【莽学解析】： C is correct. The financial leverage ratio is calculated as follows: ： 企业财务
+杠杆比率等于平均总资产除以平均所有者权益 根据题目信息得到，平均总资产/平均所有者权益
+=45,981/18,752=2.452
+ 
+145.Zimt AG wrote down the value of its inventory in 2017 and reversed the write-down in 2018.
+Compared to the results the company would have reported if the write-down had never occurred,
+Zimt’s reported 2018 (periodic inventory system applied):
+A.profit was overstated.
+B.cash flow from operations was overstated.
+C.year-end inventory balance was overstated.
+参考答案：A
+【莽学解析】： A is correct. The reversal of the write-down shifted cost of sales from 2018 to
+2017. The 2017 cost of sales was higher because of the write-down, and the 2018 cost of sales
+was lower because of the reversal of the write-down. As a result, the reported 2018 profits
+were overstated. Inventory balance in 2018 is the same because the write-down and reversal
+cancel each other out. Cash flow from operations is not affected by the non-cash write-down,
+but the higher profits in 2018 likely resulted in higher taxes and thus lower cash flow from
+operations. ： Z公司的存货在2017年减值之后，在2018年回转。那么在2018年，回转的金额会导致2018年
+COGS下降，相比没有发生减值，发生减值在回转之后，2018年Z公司当期的COGS下降，期末存货金额上升
+，2018年Z公司毛利润高于没有发生减值，而是否减值不影响现金流，对于CFO无影响。而减值之后再回转
+，存货价值变为没有发生减值前的账面价值，因此存货期末金额和未发生减值相等。因此这道题目最终选择
+A选项。
+ 
+146.During 2009, Accent Toys Plc., which began business in October of that year, purchased
+10,000 units of a toy at a cost of €10 per unit in October. The toy sold well in October. In
+anticipation of heavy December sales, Accent purchased 5,000 additional units in November at a
+cost of €11 per unit. During 2009, Accent sold 12,000 units at a price of €15 per unit, what
+would Accent’s cost of goods sold be under the weighted average cost method?
+A.€120,000.
+B.€122,000.
+C.€124,000.
+参考答案：C
+【莽学解析】： C is correct. Under the weighted average cost method:
+ $155,000/15,000 units = $10.3333 × 12,000 units = $124,000. ： 这道题目问的是根据题目提供的信
+息，A公司用的是加权平均成本法的情况下，A公司在09年确认的COGS是多少。 由于企业用的是加权平均成本
+法，首先计算出A公司在09年购买存货的平均成本 在09年总共卖出12000件 因此09年A公司确认的
+COGS=10.33*12000=124000 选择C选项
+ 
+147.An analyst gathered the following data for a company ($ millions):
+ The average age and average depreciable life of the company’s fixed assets at the end of 2001
+are closest to:
+A.Average Age ：1.75 years，Average Depreciable Life：7 years
+B.Average Age：1.75 years，Average Depreciable Life：14 years
+C.Average Age：4.00 years，Average Depreciable Life：7 years
+参考答案：C
+【莽学解析】： C is correct. The company made no additions to or deletions from the fixed asset
+account during the year, so depreciation expense is equal to the difference in accumulated
+depreciation at the beginning of the year and the end of the year, or $0.4 million. Average age
+is equal to accumulated depreciation/depreciation expense, or $1.6/$0.4 = 4 years. Average
+depreciable life is equal to ending gross investment/depreciation expense = $2.8/$0.4 = 7
+years. ：根据题目背景信息，企业2001年计提折旧金额为400,000，累计折旧总额为1,600,000。因此平均年
+限等于累计折旧/折旧费用，即1,600,000/ 400,000=4年。平均折旧年限等于期末总投资/折旧费用
+=2,800,000 /400,000=7年。因此这道题目选择C选项。
+148.Regarding a company’s debt obligations, which of the following is most likely presented on
+the balance sheet?
+A.Effective interest rate
+B.Maturity dates for debt obligations
+C.The portion of long-term debt due in the next 12 months
+参考答案：C
+【莽学解析】： C is correct. The non-current liabilities section of the balance sheet usually
+includes a single line item of the total amount of a company’s long-term debt due after 1
+year, and the current liabilities section shows the portion of a company’s long-term debt due
+in the next 12 months. Notes to the financial statements generally present the stated and
+effective interest rates and maturity dates for a company’s debt obligations ： 资产负债表的非
+流动负债部分通常包括一年后到期的公司长期债务总额的一个单项，流动负债部分显示公司未来12个月内到
+期的长期债务部分。财务报表附注通常列示公司债务的规定利率和有效利率及到期日。选择C选项。
+ 
+149.A company issues €10,000,000 face value of 10-year bonds dated 1 January 2015 when the
+market interest rate on bonds of comparable risk and terms is 6%. The bonds pay 7% interest
+annually on 31 December. Based on the effective interest rate method, the interest expense on
+31 December 2015 is closest to:
+A.€644,161.
+B.€700,000.
+C.€751,521.
+参考答案：A
+【莽学解析】： A is correct. The following illustrates the keystrokes for many financial
+calculators to calculate sales proceeds of €10,736,008.71:
+ The interest expense is calculated by multiplying the carrying amount at the beginning of the
+year by the effective interest rate at issuance. As a result, the interest expense at 31
+December 2015 is €644,161 (€10,736,008.71 × 6%). ： 通过使用金融计算器，可以得到
+N=10，PMT=700,000，I/Y=6，FV=10,000,000?PV= 10,736,008.71 因此企业当期确认的利息费用为
+10,736,008.71*6%=644,161 选择A选项
+ 
+150.Habel Inc. owns equipment with a tax base of $400,000 and a carrying value of $600,000.
+Habel also has a tax loss carry forward of $200,000 that is expected to be utilized in the
+foreseeable future. Deferred tax items on the balance sheet are valued based on a tax rate of
+30%. If the tax rate is expected to increase to 35%, the adjustments to the value of deferred
+tax items will most likely cause Habel’s total liabilities-to-equity ratio to:
+A.decrease.
+B.remain unchanged.
+C.increase.
+参考答案：C
+【莽学解析】The $200,000 difference between the tax base and the carrying value of the
+equipment gives rise to a taxable temporary difference that leads to a deferred tax liability
+of $60,000 ($200,000 × 30%). The tax loss carry forward of $200,000 leads to a deferred tax
+asset of $60,000 ($200,000 × 30%). The increase in the tax rate from 30% to 35% will increase
+both the DTL and the DTA by $10,000 ($200,000 × 5%). Equity is unchanged. Therefore, the total
+liabilities-to-equity ratio will increase because of the increase in the deferred tax
+liability.首先，看税率不变（30%）的时候，此时有两个影响。第一，税基与设备账面价值之间的200000美
+元差额产生了应纳税暂时性差异，导致了60000美元（200000×30%）的递延所得税负债。第二，税收损失结
+转200000美元导致递延所得税资产为60000美元（200000×30%）。其次，税率从30%提高到35%，此时，由于
+税率增加，DTL和DTA都将增加10000美元（200000×5%）。delta DTA与delta DTL互相抵消，所以权益不变。
+这里要求的是L/E的比率，E不变，L由于递延所得税负债的增加而增加，所以L/E的比率将增加。
+ 
+151.Income tax expense reported on a company’s income statement equals taxes payable, plus the
+net increase in:
+A.deferred tax assets and deferred tax liabilities.
+B.deferred tax assets, less the net increase in deferred tax liabilities.
+C.deferred tax liabilities, less the net increase in deferred tax assets.
+参考答案：C
+【莽学解析】： C is correct. Higher reported tax expense relative to taxes paid will increase
+the deferred tax liability, whereas lower reported tax expense relative to taxes paid increases
+the deferred tax asset. ： 根据所得税费用计算公式，当期所得税费用=应付税费＋递延所得税负债的变
+动-递延所得税资产的变动 因此这道题目最终选择的是C选项。
+ 
+152.Under IFRS, an impairment loss on a property, plant, and equipment asset is measured as the
+excess of the carrying amount over the asset’s:
+A.fair value.
+B.recoverable amount.
+C.undiscounted expected future cash flows.
+参考答案：B
+【莽学解析】： B is correct. Under IFRS, an impairment loss is measured as the excess of the
+carrying amount over the asset’s recoverable amount. The recoverable amount is the higher of
+the asset’s fair value less costs to sell and its value in use. Value in use is a discounted
+measure of expected future cash flows. Under US GAAP, assessing recoverability is separate from
+measuring the impairment loss. If the asset’s carrying amount exceeds its undiscounted
+expected future cash flows, the asset’s carrying amount is considered unrecoverable and the
+impairment loss is measured as the excess of the carrying amount over the asset’s fair value.
+： 根据国际准则，减值损失按账面价值超过资产可收回金额的部分计量。可收回金额为资产的公允价值减去
+出售成本和使用价值的两者当中较高者。使用价值是对预期未来现金流的贴现。 根据美国准则，评估可收回
+性与衡量减值损失是分开的。如果该资产的账面价值超过其未折现的预期未来现金流量，则该资产的账面价
+值被视为不可收回，减值损失按账面价值超过该资产公允价值的部分计量。 因此这道题目选择B选项。
+ 
+153.When accounting standards require an asset to be expensed immediately but tax rules require
+the item to be capitalized and amortized, the company will most likely record:
+A.a deferred tax asset.
+B.a deferred tax liability.
+C.no deferred tax asset or liability.
+参考答案：A
+【莽学解析】： A is correct. The capitalization will result in an asset with a positive tax
+base and zero carrying value. The amortization means the difference is temporary. Because there
+is a temporary difference on an asset resulting in a higher tax base than carrying value, a
+deferred tax asset is created. ： 会计上将这笔花费费用化，而税法上将这笔花费资本化，此时税法上
+会确认对应的资产，但是会计上并不确认对应的资产，此时产生的是暂时性差异。由于资产存在暂时性差异
+，同时税法上确认资产的金额高于会计上确认资产的借，因此产生递延所得税资产。这道题目选择A选项。
+ 
+154.Fairmont Golf issued fixed rate debt when interest rates were 6 percent. Rates have since
+risen to 7 percent. Using only the carrying amount (based on historical cost) reported on the
+balance sheet to analyze the company’s financial position would most likely cause an analyst
+to:
+A.overestimate Fairmont’s economic liabilities.
+B.underestimate Fairmont’s economic liabilities.
+C.underestimate Fairmont’s interest coverage ratio.
+参考答案：A
+【莽学解析】： A is correct. When interest rates rise, bonds decline in value. Thus, the
+carrying amount of the bonds being carried on the balance sheet is higher than the market
+value. The company could repurchase the bonds for less than the carrying amount, so the
+economic liabilities are overestimated. Because the bonds are issued at a fixed rate, there is
+no effect on interest coverage. ： 当市场利率上升的时候，债券价格下降，而资产负债表中根据有效利
+率法记录的债券价值并不会因为利率的上升而调整，因此利率下降会高估F公司的负债。
+ 
+155.When certain expenditures result in tax credits that directly reduce taxes, the company
+will most likely record:
+A.a deferred tax asset.
+B.a deferred tax liability.
+C.no deferred tax asset or liability.
+参考答案：C
+【莽学解析】： C is correct. Tax credits that directly reduce taxes are a permanent difference,
+and permanent differences do not give rise to deferred tax. ： 税收抵免属于永久性差异，永久性差
+异不会产生递延税，因此这道题目最终选择C选项。
+ 
+156.Under US GAAP, which of the following would require the lessee to classify a lease as a
+capital lease?
+A.The term is 60% of the useful life of the asset.
+B.The lease contains an option to purchase the asset at fair value.
+C.The present value of the lease payments is 95% of the fair value.
+参考答案：C
+【莽学解析】： C is correct. If the present value of the lease payments is greater than 90% of
+the fair value of the asset, the lease is considered a capital lease. A lease with a term that
+is 75% or more of the useful life of the asset is deemed to be a capital lease. The option to
+purchase the asset must be deemed to be cheap (bargain purchase option), not just include the
+option to purchase the asset. ： 如果租赁付款的现值大于资产公允价值的90%，则该租赁被视为融资租
+赁。 如果租赁期限为资产使用寿命的75%以上的，视为资本租赁。 如果有低价购买资产的选择权，则该租赁
+可以视为是融资租赁，而不仅仅包括购买资产的选择权。 选择C选项。
+ 
+157.Midland Brands issues three-year bonds dated 1 January 2015 with a face value of
+$5,000,000. The market interest rate on bonds of comparable risk and term is 3%. If the bonds
+pay 2.5% annually on 31 December, bonds payable when issued are most likely reported as closest
+to:
+A.$4,929,285.
+B.$5,000,000.
+C.$5,071,401.
+参考答案：A
+【莽学解析】： A is correct. The following illustrates the keystrokes for many financial
+calculators to calculate sales proceeds of $4,929,284.72:
+ 根据题目信息，使用金融计算器可以求出对应结果 其中
+N=3，I/Y=3，PMT=5,000,000*2.5%=125,000，FV=5,000,000，CPT，PV= 4,929,285. 选择A选项。 或者根据
+题目信息可知，有效利率为3%而息票率为2.5%，因此这个债券为折价债券，三个选项中得到的结果只有A选项
+为折价债券。
+ 
+158.Debt covenants are least likely to place restrictions on the issuer’s ability to:
+A.pay dividends.
+B.issue additional debt.
+C.issue additional equity.
+参考答案：C
+【莽学解析】： C is correct. Covenants protect debtholders from excessive risk taking,
+typically by limiting the issuer’s ability to use cash or by limiting the overall levels of
+debt relative to income and equity. Issuing additional equity would increase the company’s
+ability to meet its obligations, so debtholders would not restrict that ability. ： 条款通过限
+制发行人使用现金的能力或限制债务相对于收入和权益的总体水平，保护债务人免受过度的风险承担。增发
+股本将提高公司履行义务的能力，因此债权人不会限制这种能力。因此这道题目选择C选项。
+ 
+159.A company purchases a piece of equipment for €1,500. The equipment is expected to have a
+useful life of five years and no residual value. In the first year of use, the units of
+production are expected to be 15% of the equipment’s lifetime production capacity and the
+equipment is expected to generate €1,500 of revenue and incur €500 of cash expenses. The
+depreciation method yielding the lowest operating profit on the equipment in the first year of
+use is:
+A.straight line.
+B.units of production.
+C.double-declining balance.
+参考答案：C
+【莽学解析】： C is correct. The operating income or earnings before interest and taxes will be
+lowest for the method that results in the highest depreciation expense. The double-declining
+balance method results in the highest depreciation expense in the first year of
+use.Depreciation expense: Straight line = €1,500/5 = €300. Double-declining balance = €1,500
+× 0.40 = €600. Units of production = €1,500 × 0.15 = €225. ： 要保证营业收入或税前收益最低
+，意味着当期计提的折旧费用应当是最高的。双倍余额递减法产生的折旧费用在使用的第一年最高，因此选
+择的是C选项。 具体三种方法下的折旧费用为： 直线折旧法下：折旧费用=1500/5=300 双倍余额递减法下
+：折旧费用=1500/5*2=600 产量折旧法下：折旧费用=1500*0.15=225
+ 
+160.An analyst is studying the impairment of the manufacturing equipment of WLP Corp., a UK-
+based corporation that follows IFRS. He gathers the following information about the equipment:
+ The amount of the impairment loss on WLP Corp.’s income statement related to its
+manufacturing equipment is closest to:
+A.￡2,300,000.
+B.￡3,100,000.
+C.￡4,600,000.
+参考答案：B
+【莽学解析】： B is correct. The impairment loss equals ￡3,100,000.Impairment = max (Fair
+value less costs to sell; Value in use) – Net carrying amount= max (16,800,000 – 800,000;
+14,500,000) – 19,100,000 = –3,100,000. ： 国际准则下长期资产减值是对比资产的账面净值和其可回
+收金额。 可回收金额是长期资产的使用价值和公允价值扣除销售成本之后的金额两者之中取其高，因此这道
+题目当中使用价值为14,500,000，公允价值扣除销售成本=16,800,000-800,000 = 16,000,000，因此此时资
+产的可回收金额为16,000,000 该资产账面净值为19,100,000，大于资产的可回收金额，因此该资产发生减值
+，确认的减值损失为19,100,000-16,000,000=3,100,000，选择B选项。
+ 
+161.A company purchases equipment for $200,000 with a five-year useful life and salvage value
+of zero. It uses the double-declining balance method of depreciation for two years, then shifts
+to straight-line depreciation at the beginning of Year 3. Compared with annual depreciation
+expense under the double-declining balance method, the resulting annual depreciation expense in
+Year 4 is:
+A.smaller.
+B.the same.
+C.greater.
+参考答案：C
+【莽学解析】： C is correct. Shifting at the end of Year 2 from double-declining balance to
+straight-line depreciation methodology results in depreciation expense being the same in each
+of Years 3, 4, and 5. Shifting to the straight-line methodology at the beginning of Year 3
+results in a greater depreciation expense in Year 4 than would have been calculated using the
+double-declining balance method. Depreciation expense Year 4 (Using double-declining balance
+method all five years)= 2 × Annual depreciation % using straight-line method × carrying
+amount at end of Year 3 = 40% × $43,200 Depreciation expense Year 4 with switch to straight-
+line method in Year 3 = 1/3 × Remaining depreciable cost at start of Year 3 = 1/3 × $72,000=
+$24,000 ： 在第2年末，从双倍余额递减法转向直线折旧法，导致第3年、第4年和第5年的折旧费用相同。在
+第三年年初，采用直线法计算折旧费用，导致第四年的折旧费用高于采用双倍余额递减法计算的折旧费用。
+第4年折旧费用（全部五年采用双倍余额递减法）=1*1/5*第三期期末资产账面价值=40%*43200=17280 第4年
+折旧费用（第三年变为直线折旧法）=1/3*72000=24000 因此这道题目选择C选项。
+ 
+162.A company issues $1,000,000 face value of 10-year bonds on 1 January 2015 when the market
+interest rate on bonds of comparable risk and terms is 5%. The bonds pay 6% interest annually
+on 31 December. At the time of issue, the bonds payable reflected on the balance sheet is
+closest to:
+A.$926,399.
+B.$1,000,000.
+C.$1,077,217.
+参考答案：C
+【莽学解析】C is correct. The bonds will be issued at a premium because the coupon rate is
+higher than the market interest rate. The following illustrates the keystrokes for many
+financial calculators to calculate sales proceeds of $1,077,217.35:
+ Thus, the sales proceeds are reported on the balance sheet as an increase in long-term
+liability, bonds payable of $1,077,217. ： 根据题目信息，使用金融计算器可以求出对应结果 其中
+N=10，I/Y=5，PMT=1,000,000*6%=60,000，FV=1,000,000，CPT，PV=1,077,217 选择C选项。 或者根据题目
+信息可知，有效利率为5%而息票率为6%，因此这个债券为溢价债券，三个选项中得到的结果只有C选项为溢价
+债券。
+ 
+163.Which of the following is a required financial statement disclosure for long-lived
+intangible assets under US GAAP?
+A.The useful lives of assets
+B.The reversal of impairment losses
+C.Estimated amortization expense for the next five fiscal years
+参考答案：C
+【莽学解析】： C is correct. Under US GAAP, companies are required to disclose the estimated
+amortization expense for the next five fiscal years. Under US GAAP, there is no reversal of
+impairment losses. Disclosure of the useful lives—finite or indefinite and additional related
+details—is required under IFRS. ： 美国准则下，企业需要披露资产预估的未来五年的摊销费用。 由于
+美国准则不允许减值之后发生回转，因此美国准则下不需要披露减值之后需要回转的金额。 对于无形资产
+，不管是否有确定的使用年限，对于使用年限的披露是国际准则下要求的，而不是美国准则。 因此这道题目
+最终选择C选项。
+ 
+164.For a bond issued at a premium, using the effective interest rate method, the:
+A.carrying amount increases each year.
+B.amortization of the premium increases each year.
+C.premium is evenly amortized over the life of the bond.
+参考答案：B
+【莽学解析】： B is correct. The amortization of the premium equals the interest payment minus
+the interest expense. The interest payment is constant and the interest expense decreases as
+the carrying amount decreases. As a result, the amortization of the premium increases each
+year. ： 在有效利率法下，溢价债券的账面价值会随着债券到期时间的临近逐年下降，每年溢价摊销的金额
+会逐年上升（即溢价债券账面价值每年下降的金额）。因此这道题目最终选择B选项。
+ 
+165.A financial analyst is analyzing the amortization of a product patent acquired by MAKETTI
+S.p.A., an Italian corporation. He gathers the following information about the patent:
+ If the analyst uses the units-of-production method, the amortization expense on the patent for
+fiscal year 2009 is closest to:
+A.€414,286.
+B.€662,857.
+C.€828,571.
+参考答案：B
+【莽学解析】： B is correct. Using the units-of-production method, depreciation expense amounts
+toDepreciation expense = 5,800,000 × (20,000/175,000) = 662,857 ： 产量折旧法下，当期折旧费用
+=5,800,000*(20,000/175,000)=662.587 选择B选项。
+ 
+166.The gain or loss on a sale of a long-lived asset to which the revaluation model has been
+applied is most likely calculated using sales proceeds less:
+A.carrying amount.
+B.carrying amount adjusted for impairment.
+C.historical cost net of accumulated depreciation.
+参考答案：A
+【莽学解析】The gain or loss on the sale of long-lived assets is computed as the sales proceeds
+minus the carrying amount of the asset at the time of sale. This is true under the cost and
+revaluation models of reporting long-lived assets. In the absence of impairment losses, under
+the cost model, the carrying amount will equal historical cost net of accumulated
+depreciation.出售长期资产的利得或损失按出售时的出售价格减去资产账面价值计算。
+ 
+167.Under the revaluation model for property, plant, and equipment and the fair model for
+investment property:
+A.fair value of the asset must be able to be measured reliably.
+B.net income is affected by all changes in the fair value of the asset.
+C.net income is never affected if the asset increases in value from its carrying amount.
+参考答案：A
+【莽学解析】： A is correct. Under both the revaluation model for property, plant, and
+equipment and the fair model for investment property, the asset’s fair value must be able to
+be measured reliably. Under the fair value model, net income is affected by all changes in the
+asset’s fair value. Under the revaluation model, any increase in an asset’s value to the
+extent that it reverses a previous revaluation decrease will be recognized on the income
+statement and increase net income. ： 在不动产、厂房和设备的重估值模型和投资性房地产的公允模型
+下，资产的公允价值必须能够可靠地计量。 在公允价值模型下，净收益受资产公允价值变动的影响。 在重
+估值模型下，资产价值的任何增加，只要它逆转了以前的重估减少，将在损益表上确认，并增加净收入。 因
+此这道题目选择A选项。
+ 
+168.A financial analyst is studying the income statement effect of two alternative depreciation
+methods for a recently acquired piece of equipment. She gathers the following information about
+the equipment’s expected production life and use:
+ Compared with the units-of-production method of depreciation, if the company uses the
+straight-line method to depreciate the equipment, its net income in Year 1 will most likely be:
+A.lower.
+B.higher.
+C.the same.
+参考答案：A
+【莽学解析】： A is correct. If the company uses the straight-line method, the depreciation
+expense will be one-fifth (20 percent) of the depreciable cost in Year 1. If it uses the units-
+of-production method, the depreciation expense will be 19 percent (2,000/10,500) of the
+depreciable cost in Year 1. Therefore, if the company uses the straight-line method, its
+depreciation expense will be higher and its net income will be lower. ： 如果公司采用直线折旧法
+法，折旧费用为第一年应计折旧费用的五分之一（20%）。 如果采用产量折旧法，折旧费用为第一年应计折
+旧费用的19%（2000/10500）。 因此如果公司采用直线折旧法法，折旧费用会更高，净收入会更低，因此选
+择A选项。
+169.According to IFRS, all of the following pieces of information about intangible assets must
+be disclosed in a company’s financial statements and footnotes except for:
+A.fair value.
+B.impairment loss.
+C.amortization rate.
+参考答案：A
+【莽学解析】： A is correct. IFRS do not require fair value of intangible assets to be
+disclosed. ： 国际准则下，无形资产的公允价值不要求披露。选择A选项。
+ 
+170.When both the timing and amount of tax payments are uncertain, analysts should treat
+deferred tax liabilities as:
+A.equity.
+B.liabilities.
+C.neither liabilities nor equity.
+参考答案：C
+【莽学解析】： C is correct. The deferred tax liability should be excluded from both debt and
+equity when both the amounts and timing of tax payments resulting from the reversals of
+temporary differences are uncertain. ： 说过递延所得税未来会回转的金额和时间都不确定，那么分析
+师会忽略掉这一笔递延所得税负债，因此这道题目最终选择C选项。
+ 
+171.Which of the following characteristics is most likely to differentiate investment property
+from property, plant, and equipment?
+A.It is tangible.
+B.It earns rent.
+C.It is long-lived.
+参考答案：B
+【莽学解析】： B is correct. Investment property earns rent. Investment property and property,
+plant, and equipment are tangible and long-lived. ： 投资性房地产指的是用于获得租金或者获得资本
+利得的房地产。 投资性房地产，机器厂房设备都是有形长期资产 因此这道题目选择B选项。
+ 
+172.Using the effective interest rate method, the reported interest expense of a bond issued at
+a premium will:
+A.decrease over the term of the bond.
+B.increase over the term of the bond.
+C.remain unchanged over the term of the bond
+参考答案：A
+【莽学解析】Interest expense is based on the book value of the bond. As the premium is
+amortized, the book value of the bond decreases until it reaches face value.利息费用以债券的账
+面价值为基础。随着溢价的摊销，债券的账面价值下降，直至达到面值。
+ 
+173.At the beginning of 2009, Glass Manufacturing purchased a new machine for its assembly line
+at a cost of $600,000. The machine has an estimated useful life of 10 years and estimated
+residual value of $50,000. Under the straight-line method, how much depreciation would Glass
+take in 2010 for financial reporting purposes?
+A.$55,000.
+B.$60,000.
+C.$65,000.
+参考答案：A
+【莽学解析】： A is correct. Straight-line depreciation would be ($600,000 – $50,000)/10, or
+$55,000. ： 这道题目问的是根据题目提供的信息，G公司如果用的是直线折旧法，那么G公司在10年的报表
+上应当确认的折旧费用是多少。 直线折旧法下 选择A选项
+ 
+174.A firm issues a bond with a coupon rate of 5.00% when the market interest rate is 5.50% on
+bonds of comparable risk and terms. One year later, the market interest rate increases to
+6.00%. Based on this information, the effective interest rate is:
+A.5.00%.
+B.5.50%.
+C.6.00%.
+参考答案：B
+【莽学解析】： B is correct. The market interest rate at the time of issuance is the effective
+interest rate that the company incurs on the debt. The effective interest rate is the discount
+rate that equates the present value of the coupon payments and face value to their selling
+price. Consequently, the effective interest rate is 5.50%. ： 发行时的市场利率是公司对债务所产
+生的实际利率。实际利率是贴现率，等于息票支付的现值和票面价值与其售价相等。因此，实际利率为
+5.50%，选择B选项。
+ 
+175.A company is comparing straight-line and double-declining balance amortization methods for
+a non-renewable six-year license, acquired for €600,000. The difference between the Year 4
+ending net book values using the two methods is closest to:
+A.€81,400.
+B.€118,600.
+C.€200,000.
+参考答案：A
+【莽学解析】： A is correct. As shown in the following calculations, at the end of Year 4, the
+difference between the net book values calculated using straight-line versus double-declining
+balance is closest to €81,400. Net book value end of Year 4 using straight-line method =
+€600,000 – [4 × (€600,000/6)] = €200,000. Net book value end of Year 4 using double-
+declining balance method = €600,000 (1 – 33.33%)4 ≈ €118,600. ： 采用直线法计算的第4年末账
+面净值=600000-[4×（600000/6）]=200000。 采用双倍余额递减法的第4年末账面净值
+=600000（1–33.33%）4≈118600。 因此，在第4年末，采用直线法计算的账面净值与双倍余额递减法计算的
+账面净值之间的差额最接近81400，选择A选项。
+ 
+176.Deferred tax liabilities should be treated as equity when:
+A.they are not expected to reverse.
+B.the timing of tax payments is uncertain.
+C.the amount of tax payments is uncertain.
+参考答案：A
+【莽学解析】： A is correct. If the liability will not reverse, there will be no required tax
+payment in the future and the “liability” should be treated as equity. ： 当分析师认为企业的
+抵押所得税负债未来不会回转的时候，会将这一笔递延所得税负债视为是所有者权益，因此这道题目选择A选
+项。
+177.A company incurs a capital expenditure that may be amortized over five years for accounting
+purposes, but over four years for tax purposes. The company will most likely record:
+A.a deferred tax asset.
+B.a deferred tax liability.
+C.no deferred tax asset or liability.
+参考答案：B
+【莽学解析】： B is correct. The difference is temporary, and the tax base will be lower
+(because of more rapid amortization) than the carrying value of the asset. The result will be a
+deferred tax liability. ： 会计上五年摊销而税法上进行四年摊销，此时产生的是暂时性差异，同时企业
+会计上确认的资产金额高于税法上确认的资产金额，因此产生的是递延所得税负债，选择B选项。
+ 
+178.Analysts should treat deferred tax liabilities that are expected to reverse as:
+A.equity.
+B.liabilities.
+C.neither liabilities nor equity.
+参考答案：B
+【莽学解析】： B is correct. If the liability is expected to reverse (and thus require a cash
+tax payment) the deferred tax represents a future liability. ： 在分析师观点下，如果未来企业的
+递延所得税负债预期会回转，那么分析师会将他视为是负债，因此这道题目选择B选项。
+ 
+179.A company is most likely to:
+A.use a fair value model for some investment property and a cost model for other investment
+property.
+B.change from the fair value model when transactions on comparable properties become less
+frequent.
+C.change from the fair value model when the company transfers investment property to property,
+plant, and equipment.
+参考答案：C
+【莽学解析】： C is correct. A company will change from the fair value model to either the cost
+model or revaluation model when the company transfers investment property to property, plant,
+and equipment. ： 如果公司将投资性房地产的归类转变为机器厂房设备，那么对于这一类资产的计量方式
+可以 从公允价值模型变为成本模型或者重估值模型。选择C选项。
+ 
+180.Under IFRS, what must be disclosed under the cost model of valuation for investment
+properties?
+A.Useful lives
+B.The method for determining fair value
+C.Reconciliation between beginning and ending carrying amounts of investment property
+参考答案：A
+【莽学解析】： A is correct. Under IFRS, when using the cost model for its investment
+properties, a company must disclose useful lives. The method for determining fair value, as
+well as reconciliation between beginning and ending carrying amounts of investment property, is
+a required disclosure when the fair value model is used. ： 根据国际准则，当使用投资性房地产的
+成本模型时，公司必须披露使用寿命。在使用公允价值模型时，确定公允价值的方法以及投资性房地产的期
+初和期末账面价值之间的调节是一项必要的披露，因此这道题目选择A选项。
+181.A company acquires a patent with an expiration date in six years for ￥100 million. The
+company assumes that the patent will generate economic benefits that will decline over time and
+decides to amortize the patent using the double-declining balance method. The annual
+amortization expense in Year 4 is closest to:
+A.￥6.6 million.
+B.￥9.9 million.
+C.￥19.8 million.
+参考答案：B
+【莽学解析】： B is correct. As shown in the following calculations, under the double-declining
+balance method, the annual amortization expense in Year 4 is closest to ￥9.9 million. Annual
+amortization expense = 2 × Straight-line amortization rate × Net book value.Amortization
+expense Year 4 = 33.3% × ￥29.6 million = ￥9.9 million. ： 采用双倍余额递减法下，年摊销费用
+＝2×直线摊销率×账面净值。 带入具体数值，第四年摊销费用=2×(1/6) ×29.6=9.9 million 因此第四年
+的摊销费用为990万 选择B选项。
+ 
+182.If a company uses the fair value model to value investment property, changes in the fair
+value of the asset are least likely to affect:
+A.net income.
+B.net operating income.
+C.other comprehensive income.
+参考答案：C
+【莽学解析】： C is correct. When a company uses the fair value model to value investment
+property, changes in the fair value of the property are reported in the income statement—not
+in other comprehensive income. ： 如果企业用公允价值模型计量投资性房地产，那么公允价值的改变都
+会计入利润表，而不是其他综合收益，因此这道题目选择C选项。
+ 
+183.Company AAA issues 10-year bonds on 1 January 2013, the bonds are priced at ￡107,306 with
+face value 100,000, market interest rates are 6%, coupon rates are 7%, interest paid annually
+on 31 December. The carrying value of the bonds as of 31 December 2013 will be closest to:
+A.￡107,306.
+B.￡106,801.
+C.￡107,919.
+参考答案：B
+【莽学解析】There are two ways to determine the value of the bonds on 31 December 2014.
+ 
+ 
+184.Consolidated Enterprises issues €10 million face value, five-year bonds with a coupon rate
+of 6.5 percent. At the time of issuance, the market interest rate is 6.0 percent. Using the
+effective interest rate method of amortisation, the carrying value after one year will be
+closest to:
+A.€10.17 million.
+B.€10.21 million.
+C.€10.28 million.
+参考答案：A
+【莽学解析】： A is correct. The coupon rate on the bonds is higher than the market rate, which
+indicates that the bonds will be issued at a premium. Taking the present value of each payment
+indicates an issue date value of €10,210,618. The interest expense is determined by
+multiplying the carrying amount at the beginning of the period (€10,210,618) by the market
+interest rate at the time of issue (6.0 percent) for an interest expense of €612,637. The
+value after one year will equal the beginning value less the amount of the premium amortised to
+date, which is the difference between the amount paid (€650,000) and the expense accrued
+(€612,637) or €37,363. €10,210,618 – €37,363 = €10,173,255 or €10.17 million. ： 债券的
+票面利率高于市场利率，表明债券将溢价发行。 通过使用金融计算器，可以得到FV=10 million，PMT=0.65
+million，I/Y=6，N=5?PV= 10.21 million 根据BASE法则，B=10.21 million，A=10.21 million
+*6%=612,637，S=650,000，得到E=10.17 million 因此这道题目选择A选项。
+ 
+185.All else equal, in the fiscal year when long-lived equipment is purchased:
+A.depreciation expense increases.
+B.cash from operations decreases.
+C.net income is reduced by the amount of the purchase.
+参考答案：A
+【莽学解析】： A is correct. In the fiscal year when long-lived equipment is purchased, the
+assets on the balance sheet increase and depreciation expense on the income statement increases
+because of the new long-lived asset. ： 其他条件都相同的情况下，当期采购长期资产之后会计提对应
+的折旧，因此当期折旧费用会上升。购买长期资产的现金流出属于投资活动现金流的流出，和经营活动现金
+流无关。而净利润会减少当期该资产计提的折旧费用的金额，而不是购买资产的总金额。因此这道题目最终
+选择A选项。
+ 
+186.Costs incurred for intangible assets are generally expensed when they are:
+A.internally developed.
+B.individually acquired.
+C.acquired in a business combination.
+参考答案：A
+【莽学解析】： A is correct. The costs to internally develop intangible assets are generally
+expensed when incurred. ： 对于无形资产而言，自主开发的无形资产相关的费用通常情况下需要费用化在
+利润表当中，因此这道题目选择的是A选项。
+ 
+187.Innovative Inventions, Inc. needs to raise €10 million. If the company chooses to issue
+zero-coupon bonds, its debt-to-equity ratio will most likely:
+A.rise as the maturity date approaches.
+B.decline as the maturity date approaches.
+C.remain constant throughout the life of the bond.
+参考答案：A
+【莽学解析】： A is correct. The value of the liability for zero-coupon bonds increases as the
+discount is amortised over time. Furthermore, the amortised interest will reduce earnings at an
+increasing rate over time as the value of the liability increases. Higher relative debt and
+lower relative equity (through retained earnings) will cause the debt-to-equity ratio to
+increase as the zero-coupon bonds approach maturity. ： 零息债券的负债价值随着每期折价部分的摊
+销而增加。此外，随着负债价值的增加，摊销利息将以不断增加的利率减少收益。随着零息债券接近到期日
+，较高的相对债务和较低的相对权益（通过留存收益）将导致债务股本比增加。
+ 
+188.The impairment of intangible assets with finite lives affects:
+A.the balance sheet but not the income statement.
+B.the income statement but not the balance sheet.
+C.both the balance sheet and the income statement.
+参考答案：C
+【莽学解析】： C is correct. The carrying amount of the asset on the balance sheet is reduced
+by the amount of the impairment loss, and the impairment loss is reported on the income
+statement. ： 无形资产发生减值之后，资产负债表中资产的账面价值会减去减值损失的金额，减值损失在
+损益表中列报。
+ 
+189.The most likely costs included in both the cost of inventory and property, plant, and
+equipment are:
+A.selling costs.
+B.storage costs.
+C.delivery costs.
+参考答案：C
+【莽学解析】： C is correct. Both the cost of inventory and property, plant, and equipment
+include delivery costs, or costs incurred in bringing them to the location for use or resale.
+： 这道题目问的是以下哪一个费用最有可能既包括在存货当中，也包括在长期资产的机器、厂房设备
+（PPE）当中。 A选项销售费用是需要费用化在利润表当中的，因此不会包括在存货或者PPE当中，A选项错误
+。 B选项库存费用，PPE不存在库存费用，而存货的库存费用是否包括在存货这个科目下，需要看库存费用发
+生时存货是否达到了可销售状态。因此B选项错误 C选项运输费用，原材料需要涉及到运输，同时机器设备需
+要运输到指定位置才能进行更新，因此存货和PPE都有运输费用，且需要资本化在资产负债表。 因此这道题
+目选择的是C选项。
+ 
+190.On 1 January 2010, Elegant Fragrances Company issues ￡1,000,000 face value, five-year
+bonds with annual interest payments of ￡55,000 to be paid each 31 December. The market
+interest rate is 6.0 percent. Using the effective interest rate method of amortisation, Elegant
+Fragrances is most likely to record:
+A.an interest expense of ￡55,000 on its 2010 income statement.
+B.a liability of ￡982,674 on the 31 December 2010 balance sheet.
+C.a ￡58,736 cash outflow from operating activity on the 2010 statement of cash flows
+参考答案：B
+【莽学解析】： B is correct. The bonds will be issued at a discount because the market interest
+rate is higher than the stated rate. Discounting the future payments to their present value
+indicates that at the time of issue, the company will record ￡978,938 as both a liability and
+a cash inflow from financing activities. Interest expense in 2010 is ￡58,736 (￡978,938 times
+6.0 percent). During the year, the company will pay cash of ￡55,000 related to the interest
+payment, but interest expense on the income statement will also reflect ￡3,736 related to
+amortisation of the initial discount (￡58,736 interest expense less the ￡55,000 interest
+payment). Thus, the value of the liability at 31 December 2010 will reflect the initial value
+(￡978,938) plus the amortised discount (￡3,736), for a total of ￡982,674. The cash outflow
+of ￡55,000 may be presented as either an operating or financing activity under IFRS. ： 通过使
+用金融计算器，FV=1 million，PMT=55,000，I/Y=6，N=5，CPT，PV= 978,938 根据BASE法则
+，B=978,938，A=978938*6%=58,736，S=55,000，得到E=982674. 在选项中，A选项应当确认的interest
+expense是978,938*6%=58736，而不是55,000 C选项中CFO应当确认的是55,000而不是58736. B选项正确
+ 
+191.Juan Martinez, CFO of VIRMIN, S.A., is selecting the depreciation method to use for a new
+machine. The machine has an expected useful life of six years. Production is expected to be
+relatively low initially but to increase over time. The method chosen for tax reporting must be
+the same as the method used for financial reporting. If Martinez wants to minimize tax payments
+in the first year of the machine’s life, which of the following depreciation methods is
+Martinez most likely to use?
+A.Straight-line method.
+B.Units-of-production method.
+C.Double-declining balance method.
+参考答案：C
+【莽学解析】： C is correct. If Martinez wants to minimize tax payments in the first year of
+the machine’s life, he should use an accelerated method, such as the double-declining balance
+method. ： 如果M公司想要让第一年所支付的税费是最小的，那么需要当期税前利润最低，也就是折旧费用
+在第一年应当是最高的，因此应当使用的方法是加速折旧法，比如双倍余额递减法，选择C选项。
+ 
+192.Under US GAAP, a lessor’s reported revenues at lease inception will be highest if the
+lease is classified as:
+A.a sales-type lease.
+B.an operating lease.
+C.a direct financing lease.
+参考答案：A
+【莽学解析】： A is correct. A sales-type lease treats the lease as a sale of the asset, and
+revenue is recorded at the time of sale equal to the present value of future lease payments.
+Under a direct financing lease, only interest income is reported as earned. Under an operating
+lease, revenue from rent is reported when collected. ： 销售型租赁将租赁视为资产的出售，在出售
+时收入与未来租赁付款的现值相等，同时每期会确认利息收入。 根据直接融资租赁，只有利息收入确认为收
+入。 根据经营租赁，租金收入在收取时确认。 选择A选项。
+ 
+193.CROCO S.p.A sells an intangible asset with a historical acquisition cost of €12 million
+and an accumulated depreciation of €2 million and reports a loss on the sale of €3.2 million.
+Which of the following amounts is most likely the sale price of the asset?
+A.€6.8 million
+B.€8.8 million
+C.€13.2 million
+参考答案：A
+【莽学解析】： A is correct. Gain or loss on the sale = Sale proceeds – Carrying amount.
+Rearranging this equation, Sale proceeds = Carrying amount + Gain or loss on sale. Thus, Sale
+price = (12 million – 2 million) + (–3.2 million) = 6.8 million. ： 卖出长期资产的利得或损失
+=卖出长期资产获得资金-账面净值 因此买出资产获得的资金=账面净值＋利得或损失 因此销售价格=（12-
+2）＋ （-3.2）=6.8 million 选择A选项。
+ 
+194.Lesp Industries issues five-year bonds dated 1 January 2015 with a face value of $2,000,
+000 and 3% coupon rate paid annually on 31 December. The market interest rate on bonds of
+comparable risk and term is 4%. The sales proceeds of the bonds are $1,910,964. Under the
+effective interest rate method, the interest expense in 2017 is closest to:
+A.$77,096.
+B.$77,780.
+C.77,807.
+参考答案：B
+【莽学解析】： B is correct. The interest expense for a given year is equal to the carrying
+amount at the beginning of the year times the effective interest of 4%. Under the effective
+interest rate method, the difference between the interest expense and the interest payment
+(based on the coupon rate and face value) is the discount amortized in the period, which
+increases the carrying amount annually. For 2017, the interest expense is the beginning
+carrying amount ($1,944,499) times the effective interest of 4%. ：
+ 通过使用金融计算器，可以得到N=5，PMT=60,000，I/Y=4，FV=2,000,000?PV= 1,910,964 根据BASE法则 因
+此17年记录的利息费用为77,780，选择B选项。
+ 
+195.A company issues $30,000,000 face value of five-year bonds dated 1 January 2015 when the
+market interest rate on bonds of comparable risk and terms is 5%. The bonds pay 4% interest
+annually on 31 December. Based on the effective interest rate method, the carrying amount of
+the bonds on 31 December 2015 is closest to:
+A.$28,466,099.
+B.$28,800,000.
+C.$28,936,215.
+参考答案：C
+【莽学解析】C is correct. The following illustrates the keystrokes for many financial
+calculators to calculate sales proceeds of $28,701,157.00:
+The following table illustrates interest expense, premium amortization, and carrying amount
+(amortized cost) for 2015.
+ 
+The carrying amount at the end of the year is found by adding the amortization of the discount
+to the carrying amount at the beginning of the year. As a result, the carrying amount on 31
+December 2015 is $28,936,215. Alternatively, the following illustrates the keystrokes for many
+financial calculators to calculate the carrying value at the end of first year of $28,936, 215:
+ 通过使用金融计算器，可以得到N=5，PMT=1,200,000，I/Y=5，FV=30,000,000?PV= 28,701,157 根据BASE法
+则，B=28,701,157，A=28,701,157 *5%=$1,435,057.85，S=1,200,000，得到E=28,936,214.85 选择C选项。
+ 
+ 
+196.According to IFRS, all of the following pieces of information about property, plant, and
+equipment must be disclosed in a company’s financial statements and footnotes except for:
+A.useful lives.
+B.acquisition dates.
+C.amount of disposals.
+参考答案：B
+【莽学解析】： B is correct. IFRS do not require acquisition dates to be disclosed. ： 国际准则
+下，获取资产的具体时间无需进行披露。选择B选项。
+ 
+197.The gain or loss on a sale of a long-lived asset to which the revaluation model has been
+applied is most likely calculated using sales proceeds less:
+A.carrying amount.
+B.carrying amount adjusted for impairment.
+C.historical cost net of accumulated depreciation.
+参考答案：A
+【莽学解析】： A is correct. The gain or loss on the sale of long-lived assets is computed as
+the sales proceeds minus the carrying amount of the asset at the time of sale. This is true
+under the cost and revaluation models of reporting long-lived assets. In the absence of
+impairment losses, under the cost model, the carrying amount will equal historical cost net of
+accumulated depreciation. ： 在成本模型和重估值模型下，出售长期资产的利得或损失按出售时的出售收
+益减去资产账面价值计算，选择A选项。
+ 
+198.Which combination of depreciation methods and useful lives is most conservative in the year
+a depreciable asset is acquired?
+A.Straight-line depreciation with a short useful life.
+B.Declining balance depreciation with a long useful life.
+C.Declining balance depreciation with a short useful life.
+参考答案：C
+【莽学解析】： C is correct. This would result in the highest amount of depreciation in the
+first year and hence the lowest amount of net income relative to the other choices. ： 这道题目
+问的是哪一个折旧方法和使用年限的结合会更加保守。 保守型的会计处理方法更倾向于多记录费用，少记录
+收入，而双倍余额递减法在第一年记录的折旧费用会高于直线折旧法，同时资产的使用年限越短，平均每期
+确认的折旧费用会更高，因此保守型的会计处理方法更倾向用双倍余额递减法，同时使用更短的使用年限 这
+道题目选择的是C选项
+ 
+199.An analyst in the finance department of BOOLDO S.A., a French corporation, is computing the
+amortization of a customer list, an intangible asset, for the fiscal year ended 31 December
+2009. She gathers the following information about the asset:
+The customer list is expected to result in extra sales for three years after acquisition. The
+present value of these expected extra sales exceeds the cost of the list.If the analyst uses
+the straight-line method, the amount of accumulated amortization related to the customer list
+as of 31 December 2009 is closest to:
+A.€600,000.
+B.€1,200,000.
+C.€1,533,333.
+参考答案：B
+【莽学解析】： B is correct. Using the straight-line method, accumulated amortization amounts
+toAccumulated amortization = [(2,300,000 – 500,000)/3 years] × 2 years = 1,200,000 ： 直线折
+旧法下，累计折旧金额=（2,300,000-500,000）/3*2=1,200,000 选择B选项。
+ 
+200.Intangible assets with finite useful lives mostly differ from intangible assets with
+infinite useful lives with respect to accounting treatment of:
+A.revaluation.
+B.impairment.
+C.amortization.
+参考答案：C
+【莽学解析】： C is correct. An intangible asset with a finite useful life is amortized,
+whereas an intangible asset with an indefinite useful life is not. ： 有确定使用年限的无形资产
+和没有确定使用年限的无形资产的差异在于有确定使用年限的无形资产定期需要计提摊销，但是没有确定使
+用年限的无形资产无需计提摊销，因此两者的计量差异在摊销，选择C选项。
+ 
+201.When constructing an asset for sale, directly related borrowing costs are most likely:
+A.expensed as incurred.
+B.capitalized as part of inventory.
+C.capitalized as part of property, plant, and equipment.
+参考答案：B
+【莽学解析】： B is correct. When a company constructs an asset, borrowing costs incurred
+directly related to the construction are generally capitalized. If the asset is constructed for
+sale, the borrowing costs are classified as inventory. ： 在建造资产过程当中，相关的借款成本
+（即利息费用）是可以资本化在资产负债表中的。由于这个资产持有是为了销售，因此这个资产需要归类为
+存货，因此这道题目选择的是B选项。
+ 
+202.Oil Exploration LLC paid $45,000 in printing, legal fees, commissions, and other costs
+associated with its recent bond issue. It is most likely to record these costs on its financial
+statements as:
+A.an asset under US GAAP and reduction of the carrying value of the debt under IFRS.
+B.a liability under US GAAP and reduction of the carrying value of the debt under IFRS.
+C.a cash outflow from investing activities under both US GAAP and IFRS.
+参考答案：A
+【莽学解析】： A is correct. Under US GAAP, expenses incurred when issuing bonds are generally
+recorded as an asset and amortised to the related expense (legal, etc.) over the life of the
+bonds. Under IFRS, they are included in the measurement of the liability. The related cash
+flows are financing activities. ： 在美国准则下，发行费用会确认为一项递延资产，在债券到期期限内
+每年计提摊销 而国际准则下发行费用直接会抵扣负债 因此这道题目选择的是A选项。
+ 
+203.Under US GAAP, when assets are acquired in a business combination, goodwill most likely
+arises from:
+A.contractual or legal rights.
+B.assets that can be separated from the acquired company.
+C.assets that are neither tangible nor identifiable intangible assets.
+参考答案：C
+【莽学解析】： C is correct. Under both International Financial Reporting Standards (IFRS) and
+US GAAP, if an item is acquired in a business combination and cannot be recognized as a
+tangible asset or identifiable intangible asset, it is recognized as goodwill. Under US GAAP,
+assets arising from contractual or legal rights and assets that can be separated from the
+acquired company are recognized separately from goodwill. ： 在美国准则下，公司并购过程中产生的
+商誉属于不可辨认无形资产，因此它既不是有形资产，也不是可辨认无形资产，选择C选项。
+ 
+204.A company receives advance payments from customers that are immediately taxable but will
+not be recognized for accounting purposes until the company fulfills its obligation. The
+company will most likely record:
+A.a deferred tax asset.
+B.a deferred tax liability.
+C.no deferred tax asset or liability.
+参考答案：A
+【莽学解析】： A is correct. The advances represent a liability for the company. The carrying
+value of the liability exceeds the tax base (which is now zero). A deferred tax asset arises
+when the carrying value of a liability exceeds its tax base. ： 企业提前收钱，会计上会确认为负
+债，但是税法上立刻确认收入并当期交税，而不是确认负债，此时产生的是暂时性差异，会计上需要确认递
+延所得税资产，因此选择A选项。
+ 
+205.Which of the following is an example of an affirmative debt covenant? The borrower is:
+A.prohibited from entering into mergers.
+B.prevented from issuing excessive additional debt.
+C.required to perform regular maintenance on equipment pledged as collateral.
+参考答案：C
+【莽学解析】： C is correct. Affirmative covenants require certain actions of the borrower.
+Requiring the company to perform regular maintenance on equipment pledged as collateral is an
+example of an affirmative covenant because it requires the company to do something. Negative
+covenants require that the borrower not take certain actions. Prohibiting the borrower from
+entering into mergers and preventing the borrower from issuing excessive additional debt are
+examples of negative covenants. ： 确定性条款要求借款人采取某些行动。 要求公司对作为抵押物的设
+备进行定期维护是确定性条款的一个例子，因为它要求公司采取行动。 消极契约要求借款人不采取某些行动
+。禁止借款人进行合并和防止借款人发行过多的额外债务是消极契约的例子。 因此这道题目宣传
+ 
+206.Which of the following will cause a company to show a lower amount of amortization of
+intangible assets in the first year after acquisition?
+A.A higher residual value.
+B.A higher amortization rate.
+C.A shorter useful life.
+参考答案：A
+【莽学解析】： A is correct. A higher residual value results in a lower total depreciable cost
+and, therefore, a lower amount of amortization in the first year after acquisition (and every
+year after that). ： 较高的残值会导致总共需要折旧的金额较低，导致平均每年计提的摊销金额会更低
+，因此第一年计提的摊销金额也是较低的。选择A选项。 较高的摊销率会导致第一年摊销金额较高，而更短
+的使用年限会导致当年计提的摊销费用较高。
+ 
+207.Comte Industries issues $3,000,000 worth of three-year bonds dated 1 January 2015. The
+bonds pay interest of 5.5% annually on 31 December. The market interest rate on bonds of
+comparable risk and term is 5%. The sales proceeds of the bonds are $3,040,849. Under the
+straight-line method, the interest expense in the first year is closest to:
+A.$150,000.
+B.$151,384.
+C.$152,042.
+参考答案：B
+【莽学解析】： B is correct. Under the straight-line method, the bond premium is amortized
+equally over the life of the bond. The annual interest payment is $165,000 ($3,000,000 × 5.5%)
+and annual amortization of the premium under the straight-line method is $13,616 [($3,040,849
+– $3,000,000)/3)]. The interest expense is the interest payment less the amortization of the
+premium ($165,000 – $13,616 = $151,384). ： 这道题目考察的是债券摊销的直线摊销法。 所谓直线摊
+销法，也就是将溢价债券（或者折价债券）需要摊销的金额（即面值和真实金额两者的差）按照债券的到期
+时间均匀分摊，每年债券账面价值的改变是相同的 根据题目信息，该溢价债券的溢价部分为3,040,849-
+3,000,000=40,849 直线摊销法下每年摊销的溢价部分=40,849/3=13,616 因此当期确认的利息费用=每年支付
+的息票-溢价摊销=3,000,000×5.5%-13,616=151,384 选择B选项。
+ 
+208.When accounting standards require recognition of an expense that is not permitted under tax
+laws, the result is a:
+A.deferred tax liability.
+B.temporary difference.
+C.permanent difference.
+参考答案：C
+【莽学解析】： C is correct. Accounting items that are not deductible for tax purposes will not
+be reversed and thus result in permanent differences. ： 由于这笔费用会计上认可并确认为费用，但
+是税法上并不认可这笔费用，因此未来这笔差异不会回转，此时形成的是永久性差异，因此选择C选项。
+ 
+209.The management of Bank EZ repurchases its own bonds in the open market. They pay €6.5
+million for bonds with a face value of €10.0 million and a carrying value of €9.8 million.
+The bank will most likely report:
+A.other comprehensive income of €3.3 million.
+B.other comprehensive income of €3.5 million.
+C.a gain of €3.3 million on the income statement.
+参考答案：C
+【莽学解析】： C is correct. A gain of €3.3 million (carrying amount less amount paid) will be
+reported on the income statement. ： 债券账面价值为9.8million，但是企业用6.5 million偿还了这笔
+负债，企业从中获利3.3million，同时这个利得会记录在企业的利润表当中，因此选择C选项。
+ 
+210.Companies X and Z have the same beginning-of-the-year book value of equity and the same tax
+rate. The companies have identical transactions throughout the year and report all transactions
+similarly except for one. Both companies acquire a ￡300,000 printer with a three-year useful
+life and a salvage value of ￡0 on 1 January of the new year. Company X capitalizes the printer
+and depreciates it on a straight-line basis, and Company Z expenses the printer. The following
+year-end information is gathered for Company X.
+Based on the information given, Company Z’s return on equity using year-end equity will be
+closest to:
+A.5.4%.
+B.6.1%.
+C.7.5%.
+参考答案：B
+【莽学解析】英文：B is correct. Company Z’s return on equity based on year-end equity value
+will be 6.1%. Company Z will have an additional ￡200,000 of expenses compared with Company X.
+Company Z expensed the printer for ￡300,000 rather than capitalizing the printer and having a
+depreciation expense of ￡100,000 like Company X. Company Z’s net income and shareholders’
+equity will be ￡150,000 lower (= ￡200,000 × 0.75) than that of Company X.
+ 这道题目当中，他说X和Z这两个公司所有的信息都是一样的，只不过X公司对于一个30万的打印机费用采取
+了资本化，三年折旧，而Z公司采取了费用化。这里给了我们X公司相关的一些信息，然后让我们计算Z公司的
+权益回报率。 根据题目信息，X公司的净利润是750000，对于打印机的费用选择了资本化，而且是三年直线
+折旧。那这个时候相当于它记录在利润表当中的费用是10万的折旧费用。而Z公司将这笔费用进行了费用化
+，所以这个时候及公司他确认的费用是30万。因此X公司的税前利润会比Z公司的税前利润高20万，而税后的
+净利润只高了15万（20*0.75）。那这个时候Z公司的净利润=750000-150000=600000 而X公司期末的所有者权
+益时是10 million，同时这10million当中包含了当期X公司当期记录的净利润75万。因此计算Z公司所有者权
+益的时候，需要将当年净利润的差异做一个调整，也就是将X公司的10million的所有者权益调减15万，得到
+985万。 因此最终计算出来的股东回报率=600000/9850000=6.1%，选择B选项。
+ 
+ 
+211.Investment property is most likely to:
+A.earn rent.
+B.be held for resale.
+C.be used in the production of goods and services.
+参考答案：A
+【莽学解析】： A is correct. Investment property earns rent. Inventory is held for resale, and
+property, plant, and equipment are used in the production of goods and services. ： 投资性房地
+产持有的目的是为了获得租金或者资本利得，持有存货是为了销售，而机器厂房设备是为了日常货物和服务
+的生产，因此这道题目选择A选项。
+ 
+212.A financial analyst at BETTO S.A. is analyzing the result of the sale of a vehicle for
+85,000 Argentine pesos (ARP) on 31 December 2009. The analyst compiles the following
+information about the vehicle:
+The result of the sale of the vehicle is most likely:
+A.a loss of ARP 15,000.
+B.a gain of ARP 15,000.
+C.a gain of ARP 18,333.
+参考答案：B
+【莽学解析】： B is correct. The result on the sale of the vehicle equals Gain or loss on the
+sale = Sale proceeds – Carrying amount = Sale proceeds – (Acquisition cost – Accumulated
+depreciation) = 85,000 – {100,000 – [((100,000 – 10,000)/9 years) × 3 years]}=15,000 ： 资
+产每年折旧金额=（100,000-10,000）/9=10,000每年 累计折旧=10,000*3=30,000 资产的账面净值=历史成本
+-累计折旧=100,000-30,000=70,000 卖出长期资产的利得=卖出长期资产获得资金-账面净值=85,000-
+70,000=15,000 选择B选项。
+ 
+213.A company enters into a finance lease agreement to acquire the use of an asset for three
+years with lease payments of €19,000,000 starting next year. The leased asset has a fair
+market value of €49,000,000 and the present value of the lease payments is €47,250,188. Based
+on this information, the value of the leaseliability reported on the company’s balance sheet
+at lease inception is closest to:
+A.€47,250,188.
+B.€49,000,000.
+C.€57,000,000.
+参考答案：A
+【莽学解析】： A is correct. Underthe revised reporting standards under IFRS and US GAAP, a
+lessee must recognizean asset and a lease liability at inception of each of its leases (with
+anexception for short-term leases). The lessee reports a “right-of-use” (“ROU”)asset and a
+lease liability, calculated essentially as the present value offixed lease payments, on its
+balance sheet. Thus, at lease inception, thecompany will record a lease liability on the
+balance sheet of €47,250,188. ： A是正确的。根据国际财务报告准则（IFRS）和美国公认会计准则（US
+GAAP）修订后的报告准则，承租人必须在每项租赁开始时确认资产和租赁负债（短期租赁除外）。承租人在
+其资产负债表上报告“使用权”资产和租赁负债，基本上按固定租赁付款的现值计算。因此，在租赁开始时
+，公司将在资产负债表中记录47250188欧元的租赁负债。
+ 
+214.For a lessor, the leased asset appears on the balance sheet and continues to be depreciated
+when the lease is classified as:
+A.a sales-type lease.
+B.an operating lease.
+C.a financing lease.
+参考答案：B
+【莽学解析】： B is correct. When a lease is classified as an operating lease, the underlying
+asset remains on the lessor’s balance sheet. The lessor will record a depreciation expense
+that reduces the asset’s value over time. ： 当租赁被归类为经营租赁时，标的资产仍保留在出租人
+的资产负债表上。 出租人将记录折旧费用，该费用随着时间的推移而降低资产价值。 选择B选项。
+ 
+215.A company redeems $1,000,000 face value bonds with a carrying value of $990,000. If the
+call price is 104 the company will:
+A.reduce bonds payable by $1,000,000.
+B.recognize a loss on the extinguishment of debt of $50,000.
+C.recognize a gain on the extinguishment of debt of $10,000.
+参考答案：B
+【莽学解析】： B is correct. If a company decides to redeem a bond before maturity, bonds
+payable is reduced by the carrying amount of the debt. The difference between the cash required
+to redeem the bonds and the carrying amount of the bonds is a gain or loss on the
+extinguishment of debt. Because the call price is 104 and the face value is $1,000,000, the
+redemption cost is 104% of $1,000,000 or $1,040,000. The company’s loss on redemption would be
+$50,000 ($990,000 carrying amount of debt minus $1,040,000 cash paid to redeem the callable
+bonds). ： 企业提前赎回债券，根据题目信息，赎回价格为104，即以面值的104%进行赎回，因此公司债券
+的赎回价格为1,040,000，债券账面价值为990,000，因此企业花了更高的价格赎回债券，产生损失，损失是
+1,040,000-990,000=50,000，选择B选项。
+ 
+216.At the beginning of 2009, Glass Manufacturing purchased a new machine for its assembly line
+at a cost of $600,000. The machine has an estimated useful life of 10 years and estimated
+residual value of $50,000. How much depreciation would Glass take in 2009 for financial
+reporting purposes under the double-declining balance method?
+A.$60,000.
+B.$110,000.
+C.$120,000.
+参考答案：C
+【莽学解析】： C is correct. Double-declining balance depreciation would be $600,000 × 20
+percent (twice the straight-line rate). The residual value is not subtracted from the initial
+book value to calculate depreciation. However, the book value (carrying amount) of the asset
+will not be reduced below the estimated residual value. ： 这道题目问的是根据题目提供的信息
+，G公司如果用的是双倍余额递减法，那么G公司在10年的报表上应当确认的折旧费用是多少。 选择C选项
+ 
+217.Which of the following amortization methods is most likely to evenly distribute the cost of
+an intangible asset over its useful life?
+A.Straight-line method.
+B.Units-of-production method.
+C.Double-declining balance method.
+参考答案：A
+【莽学解析】： A is correct. The straight-line method is the method that evenly distributes the
+cost of an asset over its useful life because amortization is the same amount every year. ： 直
+线折旧法意味着在资产的使用年限内，每年的折旧金额是均匀分布的，每年确认的折旧费用相同。因此这道
+题目选择A选项。
+ 
+218.A company is experiencing a period of strong financial performance. In order to increase
+the likelihood of exceeding analysts’ earnings forecasts in the next reporting period, the
+company would most likely undertake accounting choices for the period under review that:
+A.inflate reported revenue.
+B.delay expense recognition.
+C.accelerate expense recognition
+参考答案：C
+【莽学解析】： C is correct. In a period of strong financial performance, managers may pursue
+accounting choices that increase the probability of exceeding earnings forecasts for the next
+period. By accelerating expense recognition or delaying revenue recognition, managers may
+inflate earnings in the next period and increase the likelihood of exceeding targets. ： 在财务
+表现强劲的时期，为了平滑各期间的收益，管理者可能会通过加速费用确认或延迟收入确认，降低本期收益
+，增加下一期收益。
+ 
+219.A high-quality financial report may reflect:
+A.earnings smoothing.
+B.low earnings quality.
+C.understatement of asset impairment.
+参考答案：B
+【莽学解析】： B is correct. High-quality financial reports offer useful information, meaning
+information that is relevant and faithfully represents actual performance. Although low
+earnings quality may not be desirable, if the reported earnings are representative of actual
+performance, they are consistent with high-quality financial reporting. Highest-quality
+financial reports reflect both high financial reporting quality and high earnings quality. ：
+最高质量的财务报告既要高财务报告质量又要高收益质量。 高报告质量指：财务报告提供了有用的信息，即
+相关的、忠实地反映实际业绩的信息。 高收益质量说明公司收益是充足且可持续的。 高收益质量一般是更
+高的要求，首先要满足高报告质量，也就是报表是真实的，才能谈得上高收益质量。 反之，尽管低收益质量
+是投资者不喜欢的，但如果报告忠实反映的企业的状况，依旧可以看成高报告质量。 这题问高报告质量，没
+有要求高收益质量，所以选择B选项。 A平滑收益，C低估资产减值都属于财务操纵，所以会影响财务报告的
+真实公允性，都不属于高报告质量。
+ 
+220.Which technique most likely increases the cash flow provided by operations?
+A.Stretching the accounts payable credit period
+B.Applying all non-cash discount amortization against interest capitalized
+C.Shifting classification of interest paid from financing to operating cash flows
+参考答案：A
+【莽学解析】： A is correct. Managers can temporarily show a higher cash flow from operations
+by stretching the accounts payable credit period. In other words, the managers delay payments
+until the next accounting period. Applying all non-cash discount amortization against interest
+capitalized causes reported interest expenses and operating cash outflow to be higher,
+resulting in a lower cash flow provided by operations. Shifting the classification of interest
+paid from financing to operating cash flows lowers the cash flow provided by operations. ： 管
+理者可以通过延长应付账款信用期来暂时显示较高的经营现金流。换言之，管理者将付款推迟到下一个会计
+期间。 将所有非现金折扣摊销应用于利息资本化会导致报告的利息费用和经营现金流出较高，从而导致经营
+活动提供的现金流较低。 将从融资支付的利息分类改为经营性现金流量会降低经营活动提供的现金流量。选
+择A选项
+ 
+221.Which attribute of financial reports would most likely be evaluated as optimal in the
+financial reporting spectrum?
+A.Conservative accounting choices
+B.Sustainable and adequate returns
+C.Emphasized pro forma earnings measures
+参考答案：B
+【莽学解析】： B is correct. At the top of the quality spectrum of financial reports are
+reports that conform to GAAP, are decision useful, and have earnings that are sustainable and
+offer adequate returns. In other words, these reports have both high financial reporting
+quality and high earnings quality. ： 在财务报告的质量范围中，最重要的是符合公认会计原则、决策
+有用、收益可持续、回报充足的报告。 也就是说，这些报告既具有较高的财务报告质量，又具有较高的收益
+质量。选择B选项
+ 
+222.Which of the following is an indication that a company may be recognizing revenue
+prematurely? Relative to its competitors, the company’s:
+A.asset turnover is decreasing.
+B.receivables turnover is increasing.
+C.days sales outstanding is increasing.
+参考答案：C
+【莽学解析】： C is correct. If a company’s days sales outstanding (DSO) is increasing
+relative to competitors, this may be a signal that revenues are being recorded prematurely or
+are even fictitious. There are numerous analytical procedures that can be performed to provide
+evidence of manipulation of information in financial reporting. These warning signs are often
+linked to bias associated with revenue recognition and expense recognition policies. ： 如果一
+家公司的应收账款销售天数（DSO）相对于竞争对手有所增加，这可能是一个信号，表明收入记录过早，甚至
+是虚构的。有许多分析程序可以执行，以提供证据操纵信息的财务报告。这些警告信号通常与收入确认和费
+用确认政策相关的偏差有关。选择C选项
+ 
+223.One concern when screening for stocks with low price-to-earnings ratios is that companies
+with low P/Es may be financially weak. What criterion might an analyst include to avoid
+inadvertently selecting weak companies?
+A.Net income less than zero
+B.Debt-to-total assets ratio below a certain cutoff point
+C.Current-year sales growth lower than prior-year sales growth
+参考答案：B
+【莽学解析】： B is correct. A lower value of debt/total assets indicates greater financial
+strength. Requiring that a company’s debt/total assets be below a certain cutoff point would
+allow the analyst to screen out highly leveraged and, therefore, potentially financially weak
+companies. ：较低的债务价值/总资产表明更大的财务实力。要求一家公司的债务/总资产低于某个临界点
+，将使分析师能够筛选出杠杆率高的公司，因此，可能是财务薄弱的公司。这道题最终选择B选项。
+ 
+224.Low quality earnings most likely reflect:
+A.low-quality financial reporting.
+B.company activities which are unsustainable.
+C.information that does not faithfully represent company activities.
+参考答案：B
+【莽学解析】： B is correct. Earnings quality pertains to the earnings and cash generated by
+the company’s actual economic activities and the resulting financial condition. Low-quality
+earnings are likely not sustainable over time because the company does not expect to generate
+the same level of earnings in the future or because earnings will not generate sufficient
+return on investment to sustain the company. Earnings that are not sustainable decrease company
+value. Earnings quality is distinguishable from financial reporting quality, which pertains to
+the quality of the information contained in financial reports. ： 盈余质量是指公司实际经济活动
+产生的收益和现金以及由此产生的财务状况，因此意味着公司的经营活动当前处于不可持续的状态。因此B选
+项正确。 A选项指的是低质量的财务报告，而低质量的财务报告体现出来的是企业的财务报表无法反应真实
+的财务信息，而较低的盈余质量并不能反应企业的财务质量。 C选项说信息无法真实的反应公司的活动，描
+述的是财务报告质量的问题，并不是低盈余质量的问题。
+ 
+225.Which of the following situations will most likely motivate managers to inflate reported
+earnings?
+A.Possibility of bond covenant violation
+B.Earnings in excess of analysts’ forecasts
+C.Earnings that are greater than the previous year
+参考答案：A
+【莽学解析】： A is correct. The possibility of bond covenant violations may motivate managers
+to inflate earnings in the reporting period. In so doing, the company may be able to avoid the
+consequences associated with violating bond covenants. ： 违反债券契约的可能性可能会促使经理人
+在报告期内虚增收益。这样做，公司可能能够避免违反债券契约的后果。选择A选项
+ 
+226.In a comprehensive financial analysis, financial statements should be:
+A.used as reported without adjustment.
+B.adjusted after completing ratio analysis.
+C.adjusted for differences in accounting standards, such as international financial reporting
+standards and US generally accepted accounting principles.
+参考答案：C
+【莽学解析】： C is correct. Financial statements should be adjusted for differences in
+accounting standards (as well as accounting and operating choices). These adjustments should be
+made prior to common-size and ratio analysis. ：企业财务报表应根据会计准则的差异（以及会计和经
+营选择）进行调整，而这些调整应在同比报表分析和比率分析之前进行。因此这道题目选择C选项。
+ 
+227.Which of the following concerns would most likely motivate a manager to make conservative
+accounting choices?
+A.Attention to future career opportunities
+B.Expected weakening in the business environment
+C.Debt covenant violation risk in the current period
+参考答案：B
+【莽学解析】： B is correct. Managers may be motivated to understate earnings in the reporting
+period and increase the probability of meeting or exceeding the next period’s earnings target.
+： 管理者可能会有动机低估报告期内的收益，增加达到或超过下一期收益目标的可能性。选择B选项
+228.Which of the following is most likely to be considered a potential benefit of accounting
+conservatism?
+A.A reduction in litigation costs
+B.Less biased financial reporting
+C.An increase in current period reported performance
+参考答案：A
+【莽学解析】： A is correct. Conservatism reduces the possibility of litigation and, by
+extension, litigation costs. Rarely, if ever, is a company sued because it understated good
+news or overstated bad news. Accounting conservatism is a type of bias in financial reporting
+that decreases a company’s reported performance. Conservatism directly conflicts with the
+characteristic of neutrality. ： 保守主义减少了诉讼的可能性，进而降低了诉讼成本。很少有公司因为
+低估好消息或夸大坏消息而被起诉。会计稳健性是财务报告中的一种偏差，它会降低公司的报告业绩。保守
+主义直接与中立性相冲突。选择A选项
+ 
+229.When a database eliminates companies that cease to exist because of a merger or bankruptcy,
+this can result in:
+A.look-ahead bias.
+B.back-testing bias.
+C.survivorship bias.
+参考答案：C
+【莽学解析】： C is correct. Survivorship bias exists when companies that merge or go bankrupt
+are dropped from the database and only surviving companies remain. Look-ahead bias involves
+using updated financial information in back-testing that would not have been available at the
+time the decision was made. Back-testing involves testing models in prior periods and is not,
+itself, a bias. ：当合并或破产的公司被从数据库中删除，而只剩下幸存的公司时，幸存者偏差就存在了
+。前瞻性偏差包括在作出决定时不可用的后验中使用更新的财务信息。反向测试涉及到在以前的时间段内测
+试模型，而它本身并不是一种偏见。因此这道题目最终选择C选项。
+ 
+230.Financial reports of the lowest level of quality reflect:
+A.fictitious events.
+B.biased accounting choices.
+C.accounting that is non-compliant with GAAP.
+参考答案：A
+【莽学解析】： A is correct. Financial reports span a quality continuum from high to low based
+on decision-usefulness and earnings quality. The lowest-quality reports portray fictitious
+events, which may misrepresent the company’s performance and/or obscure fraudulent
+misappropriation of the company’s assets. ： 基于决策有用性和收益质量，财务报告从高到低是一个
+质量连续体。 最低质量的报告描绘了虚构的事件，这些事件可能歪曲公司的业绩和/或掩盖欺诈性挪用公司
+资产的行为。 选择A选项。
+ 
+231.Bias in revenue recognition would least likely be suspected if:
+A.the firm engages in barter transactions.
+B.reported revenue is higher than the previous quarter.
+C.revenue is recognized before goods are shipped to customers.
+参考答案：B
+【莽学解析】： B is correct. Bias in revenue recognition can lead to manipulation of
+information presented in financial reports. Addressing the question as to whether revenue is
+higher or lower than the previous period is not sufficient to determine if there is bias in
+revenue recognition. Additional analytical procedures must be performed to identify warning
+signals of accounting malfeasance. Barter transactions are difficult to value properly and may
+result in bias in revenue recognition. Policies that make it easier to prematurely recognize
+revenue, such as before goods are shipped to customers, may be a warning sign of accounting
+malfeasance. ： 收入确认的偏差可能导致对财务报告中所列信息的操纵。 解决收入是否高于或低于上期的
+问题不足以确定收入确认是否存在偏差。必须执行额外的分析程序，以识别会计渎职的警告信号。 易货交易
+很难正确估价，可能导致收入确认的偏差。使过早确认收入变得更容易的政策，例如在货物运送给客户之前
+，可能是会计失职的警告信号。选择B选项
+ 
+232.When earnings are increased by deferring research and development (R&D) investments til the
+next reporting period, this choice is considered:
+A.non-compliant accounting.
+B.earnings management as a result of a real action.
+C.earnings management as a result of an accounting choice.
+参考答案：B
+【莽学解析】： B is correct. Deferring research and development (R&D) investments into the next
+reporting period is an example of earnings management by taking a real action. ： 将研发
+（R&D）投资推迟至下一个报告期是采取实际行动进行盈余管理的一个例子。选择B选项。
+ 
+233.Which of the following conditions best explains why a company’s manager would obtain
+legal, accounting, and board level approval prior to issuing low-quality financial reports?
+A.Motivation
+B.Opportunity
+C.Rationalization
+参考答案：C
+【莽学解析】： C is correct. Typically, conditions of opportunity, motivation, and
+rationalization exist when individuals issue low-quality financial reports. Rationalization
+occurs when an individual is concerned about a choice and needs to be able to justify it to
+herself or himself. If the manager is concerned about a choice in a financial report, she or he
+may ask for other opinions to convince herself or himself that it is okay. ： 通常，当个人发布
+低质量的财务报告时，存在机会、动机和合理化的条件。 当一个人关心一个选择并且需要能够为自己的选择
+辩护时，合理化就发生了。 如果经理担心财务报告中的选择，她或他可能会征求其他意见，以使自己相信这
+是可以的。选择C选项
+ 
+234.Which of the following is most likely to reflect conservative accounting choices?
+A.Decreased reported earnings in later periods
+B.Increased reported earnings in the period under review
+C.Increased debt reported on the balance sheet at the end of the current period
+参考答案：C
+【莽学解析】： C is correct. Accounting choices are considered conservative if they decrease
+the company’s reported performance and financial position in the period under review.
+Conservative choices may increase the amount of debt reported on the balance sheet. They may
+decrease the revenues, earnings, and/or operating cash flow reported for the period and
+increase those amounts in later periods. ： 如果会计选择降低了公司在审查期内的报告业绩和财务状
+况，则认为会计选择是保守的。 保守的选择可能会增加资产负债表上报告的债务数额。他们可能会减少本期
+报告的收入、收益和/或经营现金流，并在后期增加这些金额。选择C选项
+ 
+235.When screening for potential equity investments based on return on equity, to control risk,
+an analyst would be most likely to include a criterion that requires:
+A.positive net income.
+B.negative net income.
+C.negative shareholders’ equity.
+参考答案：A
+【莽学解析】： A is correct. Requiring that net income be positive would eliminate companies
+that report a positive return on equity only because both net income and shareholders’ equity
+are negative. ：要求净收入为正的规定将消除那些只因为净收入和股东权益都为负而报告正股本回报率的
+公司，因此选择A选项。
+ 
+236.To properly assess a company’s past performance, an analyst requires:
+A.high earnings quality.
+B.high financial reporting quality.
+C.both high earnings quality and high financial reporting quality.
+参考答案：B
+【莽学解析】： B is correct. Financial reporting quality pertains to the quality of the
+information contained in financial reports. If financial reporting quality is low, the
+information provided is of little use in assessing the company’s performance. Financial
+reporting quality is distinguishable from earnings quality, which pertains to the earnings and
+cash generated by the company’s actual economic activities and the resulting financial
+condition. ： 分析师为类评估企业过去的业绩表现，需要保证企业财务报表所提供的信息是真实可靠的
+，因此需要企业有较高的财务报告的质量。 而收益质量是分析师在评估过程中需要得到的结论，因此分析师
+是不需要要求企业有较高的收益质量的，因此这道题目选择B选项。
+ 
+237.If a company uses a non-GAAP financial measure in an SEC filing, then the company must:
+A.give more prominence to the non-GAAP measure if it is used in earnings releases.
+B.provide a reconciliation of the non-GAAP measure and equivalent GAAP measure.
+C.exclude charges requiring cash settlement from any non-GAAP liquidity measures.
+参考答案：B
+【莽学解析】： B is correct. If a company uses a non-GAAP financial measure in an SEC filing,
+it is required to provide the most directly comparable GAAP measure with equivalent prominence
+in the filing. In addition, the company is required to provide a reconciliation between the
+non-GAAP measure and the equivalent GAAP measure. Similarly, IFRS require that any non-IFRS
+measures included in financial reports must be defined and their potential relevance explained.
+The non-IFRS measures must be reconciled with IFRS measures. ： 如果一家公司在美国证券交易委员
+会（SEC）的文件中使用了非公认会计原则的财务衡量标准，则需要在文件中提供具有同等重要性的最直接可
+比公认会计原则衡量标准。 此外，公司还需提供非公认会计原则计量与等效公认会计原则计量之间的调节。
+同样，国际准则要求，必须界定财务报告中包括的任何非国际准则措施，并解释其潜在相关性。非国际财务
+报告准则措施必须与国际财务报告准则措施相协调。选择B选项
+ 
+238.A company wishing to increase earnings in the reporting period may choose to:
+A.decrease the useful life of depreciable assets.
+B.lower estimates of uncollectible accounts receivables.
+C.classify a purchase as an expense rather than a capital expenditure.
+参考答案：B
+【莽学解析】： B is correct. If a company wants to increase reported earnings, the company’s
+managers may reduce the allowance for uncollected accounts and the related expense reported for
+the period. Decreasing the useful life of depreciable assets would increase depreciation
+expense and decrease earnings in the reporting period. Classifying a purchase as an expense,
+rather than capital expenditure, would decrease earnings in the reporting period. The use of
+accrual accounting may result in estimates in financial reports, because all facts associated
+with events may not be known at the time of recognition. These estimates can be grounded in
+reality or managed by the company to present a desired financial picture. ： 如果公司希望增加报
+告的收益，公司经理可以降低对应收账款未收回部分的估计。 报告期内，降低应计折旧资产的使用寿命，会
+增加折旧费用，减少收益。 将购买企业的费用支出费用化而不是资本化，将减少报告期内的收入。 使用权
+责发生制会计可能会导致财务报告中的估计，因为在确认时可能不知道与事件相关的所有事实。这些估计可
+以建立在现实的基础上，也可以由公司管理，以呈现所需的财务状况。选择B选项
+ 
+239.An audit opinion of a company’s financial reports is most likely intended to:
+A.detect fraud.
+B.reveal misstatements.
+C.assure that financial information is presented fairly.
+参考答案：C
+【莽学解析】： C is correct. An audit is intended to provide assurance that the company’s
+financial reports are presented fairly, thus providing discipline regarding financial reporting
+quality. Regulatory agencies usually require that the financial statements of publicly traded
+companies be audited by an independent auditor to provide assurance that the financial
+statements conform to accounting standards. Privately held companies may also choose to obtain
+audit opinions either voluntarily or because an outside party requires it. An audit is not
+typically intended to detect fraud. An audit is based on sampling and it is possible that the
+sample might not reveal misstatements. ： 审计旨在确保公司财务报告的公允列报，从而提供有关财务
+报告质量的纪律。监管机构通常要求上市公司的财务报表由独立审计师审计，以确保财务报表符合会计准则
+。 私营公司也可以选择自愿或因外部要求而获得审计意见。审计通常不是为了发现欺诈。 审计是以抽样为
+基础的，抽样可能不会揭示错报。选择C选项
+ 
+240.To compute tangible book value, an analyst would:
+A.add goodwill to stockholders’ equity.
+B.add all intangible assets to stockholders’ equity.
+C.subtract all intangible assets from stockholders’ equity.
+参考答案：C
+【莽学解析】： C is correct. Tangible book value removes all intangible assets, including
+goodwill, from the balance sheet. ：在计算企业有形资产的账面价值时，需要剔除掉企业资产负债表中
+所有无形资产价值，包括商誉。
+ 
+241.Earnings that result from non-recurring activities most likely indicate:
+A.lower-quality earnings.
+B.biased accounting choices.
+C.lower-quality financial reporting.
+参考答案：A
+【莽学解析】： A is correct. Earnings that result from non-recurring activities are
+unsustainable. Unsustainable earnings are an example of lower-quality earnings. Recognizing
+earnings that result from non-recurring activities is neither a biased accounting choice nor
+indicative of lower quality financial reporting because it faithfully represents economic
+events. ：非经常性活动产生的收入是不可持续的，而不可持续的收入是低质量收入的一个例子。 确认非经
+常性活动产生的收益既不是有偏见的会计选择，也不是低质量财务报告的标志，因为它忠实地反映了经济事
+件。选择A选项。
+ 
+242.If a particular accounting choice is considered aggressive in nature, then the financial
+performance for the reporting period would most likely:
+A.be neutral.
+B.exhibit an upward bias.
+C.exhibit a downward bias.
+参考答案：B
+【莽学解析】： B is correct. Aggressive accounting choices aim to enhance the company’s
+reported performance by inflating the amount of revenues, earnings, and/or operating cash flow
+reported in the period. Consequently, the financial performance for that period would most
+likely exhibit an upward bias. ： 积极的会计选择旨在通过夸大本期报告的收入、收益和/或经营现金流
+的数量来提高公司的报告业绩。因此，这一时期的财务业绩很可能表现出向上的偏向。选择B选项
+ 
+243.Which of the following situations represents a motivation, rather than an opportunity, to
+issue low-quality financial reports?
+A.Poor internal controls
+B.Search for a personal bonus
+C.Inattentive board of directors
+参考答案：B
+【莽学解析】： B is correct. Motivation can result from pressure to meet some criteria for
+personal reasons, such as a bonus, or corporate reasons, such as concern about future
+financing. Poor internal controls and an inattentive board of directors offer opportunities to
+issue low-quality financial reports. ： 出于个人原因（如奖金）或出于公司原因（如对未来融资的担
+忧）而要求满足某些标准的压力可能会产生激励。 内部控制不力和董事会的疏忽为发布低质量的财务报告提
+供了机会。选择B选项
+ 
+244.Which of the following statements most likely describes a situation that would motivate a
+manager to issue low-quality financial reports?
+A.The manager’s compensation is tied to stock price performance.
+B.The manager has increased the market share of products significantly.
+C.The manager has brought the company’s profitability to a level higher than competitors.
+参考答案：A
+【莽学解析】： A is correct. Managers often have incentives to meet or beat market
+expectations, particularly if management compensation is linked to increases in stock prices or
+to reported earnings. ： 管理者通常有满足或超出市场预期的动机，特别是当管理层薪酬与股价上涨或报
+告的收益挂钩时。选择A选项
+ 
+245.Which of the following best describes an opportunity for management to issue low-quality
+financial reports?
+A.Ineffective board of directors
+B.Pressure to achieve some performance level
+C.Corporate concerns about financing in the future
+参考答案：A
+【莽学解析】： A is correct. Opportunities to issue low-quality financial reports include
+internal conditions, such as an ineffective board of directors, and external conditions, such
+as accounting standards that provide scope for divergent choices. Pressure to achieve a certain
+level of performance and corporate concerns about future financing are examples of motivations
+to issue low-quality financial reports. Typically, three conditions exist when low-quality
+financial reports are issued: opportunity, motivation, and rationalization. ： 发布低质量财务报
+告的机会包括内部条件，如董事会效率低下；外部条件，如会计准则，为不同的选择提供了余地。 业绩达到
+一定水平的压力和企业对未来融资的担忧是发布低质量财务报告的动机之一。 通常，低质量财务报告发布时
+存在三个条件：机会、动机和合理化。选择A选项
+ 
+246.The information provided by a low quality financial report will most likely:
+A.decrease company value.
+B.indicate earnings are not sustainable.
+C.impede the assessment of earnings quality.
+参考答案：C
+【莽学解析】Financial reporting quality pertains to the quality of the information contained in
+financial reports. High-quality financial reports provide decision-useful information that
+faithfully represents the economic reality of the company. Low-quality financial reports impede
+assessment of earnings quality. Financial reporting quality is distinguishable from earnings
+quality, which pertains to the earnings and cash generated by the company's actual economic
+activities and the resulting financial condition. Low quality earnings are not sustainable and
+decrease company value.财务报告质量与财务报告所载信息的质量有关。高质量的财务报告提供了决策有用
+的信息，忠实地代表了公司的经济现实。低质量的财务报告阻碍了对盈余质量的评估。财务报告质量区别于
+收益质量，收益质量是指公司实际经济活动产生的收益和现金以及由此产生的财务状况。低质量的收益是不
+可持续的，会降低公司价值。

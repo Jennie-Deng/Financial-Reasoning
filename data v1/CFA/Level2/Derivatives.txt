@@ -1,0 +1,578 @@
+Derivatives
+共享题干题
+【题干】Sonal Johnson is a risk manager for a bank. She manages the bank's risks using a
+combination of swaps and forward rate agreements (FRAs).Johnson prices a three-year Libor-based
+interest rate swap with annual resets using the present value factors presented in Exhibit 1.
+Johnson also uses the present value factors in Exhibit 1 to value an interest rate swap that
+the bank entered into one year ago as the pay-fixed (receive-floating) party. Selected data for
+the swap are presented in Exhibit 2. Johnson notes that the current equilibrium two-year fixed
+swap rate is 1.12%.
+One of the bank's investments is exposed to movements in the Japanese yen, and Johnson desires
+to hedge the currency exposure. She prices a one-year fixed-for-fixed currency swap involving
+yen and US dollars, with a quarterly reset. Johnson uses the interest rate data presented in
+Exhibit 3 to price the currency swap.
+Johnson next reviews an equity swap with an annual reset that the bank entered into six months
+ago as the receive-fixed, pay-equity party. Selected data regarding the equity swap, which is
+linked to an equity index, are presented in Exhibit 4. At the time of initiation, the
+underlying equity index was trading at 100.00.
+The equity index is currently trading at 103.00, and relevant US spot rates, along with their
+associated present value factors, are presented in Exhibit 5.
+Johnson reviews a 6×9 FRA that the bank entered into 90 days ago as the pay-fixed/receive-
+floating party. Selected data for the FRA are presented in Exhibit 6, and current Libor data
+are presented in Exhibit 7. Based on her interest rate forecast, Johnson also considers whether
+the bank should enter into new positions in 1 × 4 and 2 × 5 FRAs.
+ 
+Three months later, the 6 × 9 FRA in Exhibit 6 reaches expiration, at which time the three-
+month US dollar Libor is 1.10% and the six-month US dollar Libor is 1.20%. Johnson determines
+that the appropriate discount rate for the FRA settlement cash flows is 1.10%.
+ 
+1.【单项选择题】Based on Exhibit 1, Johnson should price the three-year Libor-based interest
+rate swap at a fixed rate closest to:
+A.0.34%.
+B.1.16%.
+C.1.19%.
+参考答案：C
+【莽学解析】The swap pricing equation is
+That is, the fixed swap rate is equal to 1 minus the final present value factor (in this case,
+Year 3) divided by the sum of the present values (in this case, the sum of Years 1, 2, and 3).
+The sum of present values for Years 1, 2, and 3 is calculated as
+ 
+ 
+ 
+2.【单项选择题】From the bank's perspective, using data from Exhibit 1, the current value of
+the swap described in Exhibit 2 is closest to:
+A.–$2,951,963.
+B.–$1,849,897.
+C.–$1,943,000.
+参考答案：B
+【莽学解析】The value of a swap from the perspective of the receive-fixed party is calculated
+as
+The swap has two years remaining until expiration. The sum of the present val?ues for Years 1
+and 2 is
+Given the current equilibrium two-year swap rate of 1.00% and the fixed swap rate at initiation
+of 3.00%, the swap value per dollar notional is calculated asV = (0.03 – 0.0112)×1.967975 =
+0.0336998The current value of the swap, from the perspective of the receive-fixed party, is
+$50,000,000 × 0.035998 = $1,849,897.From the perspective of the bank, as the receive-floating
+party, the value of the swap is –$1,849,897.
+ 
+ 
+3.【单项选择题】Based on Exhibit 3, Johnson should determine that the annualized equilibrium
+fixed swap rate for Japanese yen is closest to:
+A.0.0624%.
+B.0.1375%.
+C.0.2496%.
+参考答案：C
+【莽学解析】The equilibrium swap fixed rate for yen is calculated as
+The yen present value factors are calculated as
+90-day PV factor = 1/ [1 0.0005(90/360)] = 0.999875.180-day PV factor = 1/ [1 0.0010(180/360)]
+= 0.999500.270-day PV factor = 1/ [1 0.0015(270/360)] = 0.998876.360-day PV factor = 1/ [1
+0.0025(360/360)] = 0.997506.Sum of present value factors = 3.995757.Therefore, the yen periodic
+rate is calculated as
+The annualized rate is (360/90) times the periodic rate of 0.0624%, or 0.2496%.
+ 
+ 
+4.【单项选择题】From the bank's perspective, using data from Exhibits 4 and 5, the fair value
+of the equity swap is closest to:
+A.–$1,139,425.
+B.–$781,323.
+C.–$181,323.
+参考答案：B
+【莽学解析】The value of an equity swap is calculated as
+The swap was initiated six months ago, so the first reset has not yet passed; thus, there are
+five remaining cash flows for this equity swap. The fair value of the swap is determined by
+comparing the present value of the implied fixed-rate bond with the return on the equity index.
+The fixed swap rate of 2.00%, the swap notional amount of $20,000,000, and the present value
+factors in Exhibit 5 result in a present value of the implied fixed-rate bond’s cash flows of
+$19,818,677:
+The value of the equity leg of the swap is calculated as (103/100) ($20,000,000) =
+$20,600,000.Note the swap’s notional amount and the implied fixed-rate bond’s par value are
+both $20,000,000; therefore, the term – PV(Par – NAE) reduces to zero.
+The swap was designed to profit if rates fell or equities declined. Neither happened, so the
+swap value will be negative for the bank. The fair value of the equity swap, from the
+perspective of the bank (receive-fixed, pay-equity party) is calculated asVEQ = $19,818,677 -
+$20,600,000 = –781,323
+ 
+ 
+5.【单项选择题】Based on Exhibit 5, the current value of the equity swap described in Exhibit 4
+would be zero if the equity index was currently trading the closest to:
+A.97.30.
+B.99.09.
+C.100.00.
+参考答案：B
+【莽学解析】The equity index level at which the swap's fair value would be zero can be
+calculated by setting the swap valuation formula equal to zero and solving for St:
+The value of the fixed leg of the swap has a present value of $19,818,677, or 99.0934% of par
+value:
+Treating the swap notional value as par value and substituting the present value of the fixed
+leg and S0 into the equation yields
+ 
+ 
+ 
+6.【单项选择题】From the bank's perspective, based on Exhibits 6 and 7, the value of the 6 × 9
+FRA 90 days after inception is closest to:
+A.$14,817.
+B.$19,647.
+C.$29,635.
+参考答案：A
+【莽学解析】The current value of the 6 × 9 FRA is calculated as
+The 6 × 9 FRA expires six months after initiation. The bank entered into the FRA 90 days ago;
+thus, the FRA will expire in 90 days. To value the FRA, the first step is to compute the new
+FRA rate, which is the rate on Day 90 of an FRA that expires in 90 days in which the underlying
+is the 90-day Libor, or FRA (90,90,90):
+Exhibit 7 indicates that L90 (180) = 0.95% and L90 (90) = 0.90%, soFRA (90, 90,90) = {[1
+0.0095(180/360)]/[1 0.0090(90/360)] - 1}/(90/360)FRA (90, 90,90) = [(1.00475/1.00225) - 1](4) =
+0.009978, or 0.9978%Therefore, given the FRA rate at initiation of 0.70% and notional principal
+of $20 million from Exhibit 1, the current value of the forward contract is calculated asVg
+(0,h,m) = V90(0,180,90)V90 (0,180,90) = $20,000,000[(0.009978 - 0.0070)(90/360)]/[1
+0.0095(180/360)].V90 (0,180,90) = $14,887.75/1.00475 = $14,817.37.
+ 
+ 
+7.【单项选择题】Based on Exhibit 7, the no-arbitrage fixed rate on a new 1 × 4 FRA is closest
+to:
+A.0.65%.
+B.0.73%.
+C.0.98%.
+参考答案：C
+【莽学解析】The no-arbitrage fixed rate on the 1 × 4 FRA is calculated as
+For a 1 × 4 FRA, the two rates needed to compute the no-arbitrage FRA fixed rate are L(30) =
+0.75% and L(120) = 0.92%. Therefore, the no-arbitrage fixed rate on the 1 × 4 FRA rate is
+calculated asFRA (0, 30, 90) = {[1 0.0092(120/360)]/[1 0.0075(30/360)] - 1}/(90/360).FRA
+(0,30,90) = [(1.003066/1.000625) - 1]4 = 0.009761, or 0.98% rounded.
+ 
+ 
+8.【单项选择题】Based on Exhibit 7, the fixed rate on a new 2 × 5 FRA is closest to:
+A.0.61%.
+B.1.02%.
+C.1.71%.
+参考答案：B
+【莽学解析】The fixed rate on the 2 × 5 FRA is calculated as
+For a 2 × 5 FRA, the two rates needed to compute the no-arbitrage FRA fixed rate are L(60) =
+0.82% and L(150) = 0.94%. Therefore, the no-arbitrage fixed rate on the 2 × 5 FRA rate is
+calculated asFRA (0,60,90) = {[1 0.0094(150/360)]/[1 0.0082(60/360)] - 1}/(90/360)FRA (0,60,90)
+= [(1.003917/1.001367) - 1]4 = 0.010186, or 1.02% rounded
+ 
+ 
+9.【单项选择题】Based on Exhibit 6 and the three-month US dollar Libor at expiration, the
+payment amount that the bank will receive to settle the 6 × 9 FRA is closest to:
+A.$19,945.
+B.$24,925.
+C.$39,781.
+参考答案：A
+【莽学解析】Given a three-month US dollar Libor of 1.10% at expiration, the settlement amount
+for the bank as the receive-floating party is calculated as
+Therefore, the bank will receive $19,945 (rounded) as the receive-floating party.
+ 
+【题干】Trident Advisory Group manages assets for high-net-worth individuals and family
+trusts.Alice Lee, chief investment officer, is meeting with a client, Noah Solomon, to discuss
+risk management strategies for his portfolio. Solomon is concerned about recent volatility and
+has asked Lee to explain options valuation and the use of options in risk management.Options on
+StockLee begins: “We use the Black-Scholes-Merton (BSM) model for option valuation. To fully
+understand the BSM model valuation, one needs to understand the assumptions of the model. These
+assumptions include normally distributed stock returns, constant volatility of return on the
+underlying, constant interest rates, and continuous prices” Lee uses the BSM model to price
+TCB, which is one of Solomon's holdings. Exhibit 1 provides the current stock price (S),
+exercise price (X), risk-free interest rate (r), volatility (σ), and time to expiration (T) in
+years as well as selected outputs from the BSM model. TCB does not pay a dividend.
+Options on FuturesThe Black model valuation and selected outputs for options on another of
+Solomon's holdings, the GPX 500 Index (GPX), are shown in Exhibit 2. The spot index level for
+the GPX is 187.95, and the index is assumed to pay a continuous dividend at a rate of 2.2% (5)
+over the life of the options being valued, which expire in 0.36 years. A futures contract on
+the GPX also expiring in 0.36 years is currently priced at 186.73.
+After reviewing Exhibit 2, Solomon asks Lee which option Greek letter best describes the
+changes in an option's value as time to expiration declines.Solomon observes that the market
+price of the put option in Exhibit 2 is $7.20. Lee responds that she used the historical
+volatility of the GPX of 24% as an input to the BSM model, and she explains the implications
+for the implied volatility for the GPX.Options on Interest Rates
+Solomon forecasts the three-month Libor will exceed 0.85% in six months and is considering
+using options to reduce the risk of rising rates. He asks Lee to value an interest rate call
+with a strike price of 0.85%. The current three-month Libor is 0.60%, and an FRA for a three-
+month Libor loan beginning in six months is currently 0.75%.
+Hedging Strategy for the Equity Index
+Solomon's portfolio currently holds 10,000 shares of an exchange-traded fund (ETF) that tracks
+the GPX. He is worried the index will decline. He remarks to Lee, “You have told me how the
+BSM model can provide useful information for reducing the risk of my GPX position” Lee
+suggests a delta hedge as a strategy to protect against small moves in the GPX Index.
+Lee also indicates that a long position in puts could be used to hedge larger moves in the GPX.
+She notes that although hedging with either puts or calls can result in a delta-neutral
+position, they would need to consider the resulting gamma.
+ 
+10.【单项选择题】Based on Exhibit 1 and the BSM valuation approach, the initial portfolio
+required to replicate the long call option payoff is:
+A.Long 0.3100 shares of TCB stock and short 0.5596 shares of a zero-coupon bond.
+B.Long 0.6217 shares of TCB stock and short 0.1500 shares of a zero-coupon bond.
+C.Long 0.6217 shares of TCB stock and short 0.5596 shares of a zero-coupon bond.
+参考答案：C
+【莽学解析】The no-arbitrage approach to creating a call option involves buying Delta = N (d1)
+= 0.6217 shares of the underlying stock and financing with –N (d2) =-0.5596 shares of a risk-
+free bond priced at exp (-rt)(X) = exp(-0.0022 x 0.25) (55) = $54.97 per bond. Note that the
+value of this replicating portfolio is nsS + nBB = 0.6217(57.03) - 0.5596(54.97) = $4.6943 (the
+value of the call option with slight rounding error).
+ 
+11.【单项选择题】To determine the long put option value on TCB stock in Exhibit 1, the correct
+BSM valuation approach is to compute:
+A.0.4404 times the present value of the exercise price minus 0.6217 times the price of TCB
+stock.
+B.0.4404 times the present value of the exercise price minus 0.3783 times the price of TCB
+stock.
+C.0.5596 times the present value of the exercise price minus 0.6217 times the price of TCB
+stock.
+参考答案：B
+【莽学解析】The formula for the BSM price of a put option isp = e-rtXN(-d2)-SN (-d1). N (-d1) =
+1 - N(d1) = 1 - 0.6217 = 0.3783, and N(-d2) = 1 - N(d2) = 1 - 0.5596 = 0.4404.Note that the BSM
+model can be represented as a portfolio of the stock (nsS) and zero-coupon bonds (NBB). For a
+put, the number of shares is ns = -N (-d1) ＜ 0 and the number of bonds is nB=-N (d2) > 0. The
+value of the replicating portfolio is nSS + nBB = -0.3783(57.03) + 0.4404(54.97) = $2.6343 (the
+value of the put option with slight rounding error). B is a risk-free bond priced at exp (-
+rt)(X) = exp(-0.0022 x 0.25)(55) = $54.97.
+ 
+ 
+12.【单项选择题】What are the correct spot value (S) and the risk-free rate (r) that Lee should
+use as inputs for the Black model?
+A.186.73 and 0.39%, respectively
+B.186.73 and 2.20%, respectively
+C.187.95 and 2.20%, respectively
+参考答案：A
+【莽学解析】Black's model to value a call option on a futures contract is c = e-rT[F0(T)N(d1) -
+XN(d2)]. The underlying F0 is the futures price (186.73). The correct discount rate is the
+risk-free rate, r = 0.39%.
+ 
+13.【单项选择题】Which of the following is the correct answer to Solomon's question regarding
+the option Greek letter?
+A.Vega
+B.Theta
+C.Gamma
+参考答案：B
+【莽学解析】Lee is pointing out the option price's sensitivity to small changes in time. In the
+BSM approach, option price sensitivity to changes in time is given by the option Greek theta.
+ 
+14.【单项选择题】Based on Solomon's observation about the model price and market price for the
+put option in Exhibit 2, the implied volatility for the GPX is most likely:
+A.Less than the historical volatility.
+B.Equal to the historical volatility.
+C.Greater than the historical volatility.
+参考答案：A
+【莽学解析】The put is priced at $7.4890 by the BSM model when using the historical volatility
+input of 24%. The market price is $7.20. The BSM model overpricing suggests the implied
+volatility of the put must be lower than 24%.
+ 
+15.【单项选择题】The valuation inputs used by Lee to price a call reflecting Solomon's interest
+rate views should include an underlying FRA rate of:
+A.0.60% with six months to expiration.
+B.0.75% with nine months to expiration.
+C.0.75% with six months to expiration.
+参考答案：C
+【莽学解析】Solomon's forecast is for the three-month Libor to exceed 0.85% in six months. The
+correct option valuation inputs use the six-month FRA rate as the underlying, which currently
+has a rate of 0.75%.
+ 
+16.【单项选择题】The strategy suggested by Lee for hedging small moves in Solomon's ETF
+position would most likely involve:
+A.Selling put options.
+B.Selling call options.
+C.Buying call options.
+参考答案：B
+【莽学解析】Because selling call options creates a short position in the ETF that would hedge
+his current long position in the ETF.Exhibit 2 could also be used to answer the question.
+Solomon owns 10,000 shares of the GPX, each with a delta of +1; by definition, his portfolio
+delta is +10,000. A delta hedge could be implemented by selling enough calls to make the
+portfolio delta neutral:
+ 
+ 
+ 
+17.【单项选择题】Lee's put-based hedge strategy for Solomon's ETF position would most likely
+result in a portfolio gamma that is:
+A.Negative.
+B.Neutral.
+C.Positive.
+参考答案：C
+【莽学解析】Because the gamma of the stock position is 0 and the put gamma is always non-
+negative, adding a long position in put options would most likely result in a positive
+portfolio gamma. Gamma is the change in delta from a small change in the stock's value. A stock
+position always has a delta of +1. Because the delta does not change, gamma equals 0.The gamma
+of a call equals the gamma of a similar put, which can be proven using put–call parity.
+ 
+【题干】Bruno Sousa has been hired recently to work with senior analyst Camila Rocha. Rocha
+gives him three option valuation tasks.Alpha CompanySousa's first task is to illustrate how to
+value a call option on Alpha Company with a one-period binomial option pricing model. It is a
+non-dividend-paying stock, and the inputs are as follows.● The current stock price is 50, and
+the call option exercise price is 50.● In one period, the stock price will either rise to 56
+or decline to 46.● The risk-free rate of return is 5% per period.Based on the model, Rocha
+asks Sousa to estimate the hedge ratio, the risk-neutral probability of an up move, and the
+price of the call option. In the illustration, Sousa is also asked to describe related
+arbitrage positions to use if the call option is overpriced relative to the model.Beta
+CompanyNext, Sousa uses the two-period binomial model to estimate the value of a European-
+style call option on Beta Company's common shares. The inputs are as follows.
+● The current stock price is 38, and the call option exercise price is 40.
+● The up factor (u) is 1.300, and the down factor (d) is 0.800.
+● The risk-free rate of return is 3% per period.
+Sousa then analyzes a put option on the same stock. All of the inputs, including the exercise
+price, are the same as for the call option. He estimates that the value of a European-style put
+option is 4.53. Exhibit 1 summarizes his analysis. Sousa next must determine whether an
+American-style put option would have the same value.Exhibit 1. Two-period Binomial European-
+Style Put Option on Beta Company
+Sousa makes two statements with regard to the valuation of a European-style option under the
+expectations approach.Statement 1: The calculation involves discounting at the risk-free
+rate.Statement 2: The calculation uses risk-neutral probabilities instead of true
+probabilities.Rocha asks Sousa whether it is ever profitable to exercise American options prior
+to maturity. Sousa answers, “I can think of two possible cases. The first case is the early
+exercise of an American call option on a dividend-paying stock. The second case is the early
+exercise of an American put option.”
+Interest Rate OptionThe final option valuation task involves an interest rate option. Sousa
+must value a two-year, European-style call option on a one-year spot rate. The notional value
+of the option is 1 million, and the exercise rate is 2.75%. The risk-neutral probability of an
+up move is 0.50. The current and expected one-year interest rates are shown in Exhibit 2, along
+with the values of a one-year zero-coupon bond of 1 notional value for each interest
+rate.Exhibit 2. Two-Year Interest Rate Lattice for an Interest Rate Option
+Rocha asks Sousa why the value of a similar in-the-money interest rate call option decreases if
+the exercise price is higher. Sousa provides two reasons.Reason 1: The exercise value of the
+call option is lower.Reason 2: The risk-neutral probabilities are changed.
+ 
+18.【单项选择题】The optimal hedge ratio for the Alpha Company call option using the one-
+period binomial model is closest to:
+A.0.60.
+B.0.67.
+C.1.67.
+参考答案：A
+【莽学解析】The hedge ratio requires the underlying stock and call option values for the up
+move and down move. S<sup>+</sup> = 56, and S<sup>-</sup> = 46. c<sup>+</sup> =
+Max(0,S<sup>+</sup> - X) =Max(0,56 - 50) = 6, and c<sup>-</sup> = Max(0,S<sup>-</sup> - X) =
+Max(0,46 - 50) = 0. The hedge ratio is
+ 
+ 
+ 
+19.【单项选择题】The risk-neuvtral probability of the up move for the Alpha Company stock is
+closest to:
+A.0.06.
+B.0.40.
+C.0.65.
+参考答案：C
+【莽学解析】For this approach, the risk-free rate is r = 0.05, the up factor is u =
+S<sup>+</sup>/S = 56/50 = 1.12, and the down factor is d = S<sup>-</sup>/S = 46/50 = 0.92. The
+risk- neutral probability of an up move is
+ 
+ 
+ 
+20.【单项选择题】The value of the Alpha Company call option is closest to:
+A.3.71.
+B.5.71.
+C.6.19.
+参考答案：A
+【莽学解析】The call option can be estimated using the no-arbitrage approach or the
+expectations approach. With the no-arbitrage approach, the value of the call option is
+c = hS + PV (-hS<sup>-</sup> + c<sup>-</sup>).h = (c<sup>+</sup> - c<sup>-</sup>) /
+(S<sup>+</sup> - S<sup>-</sup>) = (6 - 0)/ (56 - 46) = 0.60.c = (0.60 x 50) + (1/1.05) x [(-
+0.60 x 46) + 0].c = 30 - [(1/1.05) x 27.6] = 30 - 26.286 = 3.714.
+Using the expectations approach, the risk-free rate is r = 0.05, the up factor is u
+=S<sup>+</sup>/S = 56/50 = 1.12, and the down factor is d = S<sup>-</sup>/S = 46/50 = 0.92. The
+value of the call option is
+Both approaches are logically consistent and yield identical values.
+ 
+ 
+21.【单项选择题】For the Alpha Company option, the positions to take advantage of the arbitrage
+opportunity are to write the call and:
+A.Short shares of Alpha stock and lend.
+B.Buy shares of Alpha stock and borrow.
+C.Short shares of Alpha stock and borrow.
+参考答案：B
+【莽学解析】You should sell (write) the overpriced call option and then go long (buy) the
+replicating portfolio for a call option. The replicating portfolio for a call option is to buy
+h shares of the stock and borrow the present value of (hS<sup>-</sup> - c<sup>-</sup>).c = hS +
+PV (-hS<sup>-</sup> + c<sup>-</sup>).h = (c<sup>+</sup> - c<sup>-</sup>)/(S<sup>+</sup> -
+S<sup>-</sup>) = (6 - 0)/(56 - 46) = 0.60.For the example in this case, the value of the call
+option is 3.714. If the option is overpriced at, say, 4.50, you short the option and have a
+cash flow at Time 0 of +4.50. You buy the replicating portfolio of 0.60 shares at 50 per share
+(giving you a cash flow of -30) and borrow (1/1.05) x [(0.60 x 46) - 0] = (1/1.05) x 27.6 =
+26.287. Your cash flow for buying the replicating portfolio is -30 + 26.287 = -3.713. Your net
+cash flow at Time 0 is + 4.50 - 3.713 = 0.787. Your net cash flow at Time 1 for either the up
+move or down move is zero. You have made an arbitrage profit of 0.787.In tabular form, the cash
+flows are as follows:
+ 
+ 
+ 
+22.【单项选择题】The value of the European-style call option on Beta Company shares is closest
+to:
+A.4.83.
+B.5.12.
+C.7.61.
+参考答案：A
+【莽学解析】
+ 
+ 
+23.【单项选择题】The value of the American-style put option on Beta Company shares is closest
+to:
+A.4.53.
+B.5.15.
+C.9.32.
+参考答案：B
+【莽学解析】Using the expectations approach, the risk-neutral probability of an up move is
+An American-style put can be exercised early. At Time Step 1, for the up move, p<sup>+</sup> is
+0.2517 and the put is out of the money and should not be exercised early (X ＜ S, 40 ＜ 49.4).
+However, at Time Step 1, p<sup>-</sup> is 8.4350 and the put is in the money by 9.60 (X - S =
+40 - 30.40). So, the put is exercised early, and the value of early exercise (9.60) replaces
+the value of not exercising early (8.4350) in the binomial tree. The value of the put at Time
+Step 0 is now
+Following is a supplementary note regarding Exhibit 1.The values in Exhibit 1 are calculated as
+follows.
+ 
+ 
+ 
+24.【单项选择题】Which of Sousa's statements about binomial models is correct?
+A.Statement 1 only
+B.Statement 2 only
+C.Both Statement 1 and Statement 2
+参考答案：C
+【莽学解析】Both statements are correct. The expected future payoff is calculated using risk-
+neutral probabilities, and the expected payoff is discounted at the risk-free rate.
+ 
+25.【单项选择题】Based on Exhibit 2 and the parameters used by Sousa, the value of the interest
+rate option is closest to:
+A.5,251.
+B.6,236.
+C.6,429.
+参考答案：C
+【莽学解析】
+26.【单项选择题】Which of Sousa's reasons for the decrease in the value of the interest rate
+option is correct?
+A.Reason 1 only
+B.Reason 2 only
+C.Both Reason 1 and Reason 2
+参考答案：A
+【莽学解析】Reason 1 is correct: A higher exercise price does lower the exercise value (payoff)
+at Time 2. Reason 2 is not correct because the risk-neutral probabilities are based on the
+paths that interest rates take, which are determined by the market and not the details of a
+particular option contract.
+ 
+【题干】Tim Doyle is a portfolio manager at BestFutures Group, a hedge fund that frequently
+enters into derivative contracts either to hedge the risk of investments it holds or to
+speculate outside of those investments. Doyle works alongside Diane Kemper, a junior analyst at
+the hedge fund. They meet to evaluate new investment ideas and to review several of the firm’s
+existing investments.Carry Arbitrage ModelDoyle and Kemper discuss the carry arbitrage model
+and how they can take advantage of mispricing in bond markets. Specifically, they would like to
+execute an arbitrage transaction on a Eurodollar futures contract in which the underlying
+Eurodollar bond is expected to make an interest payment in two months. Doyle makes the
+following statements:Statement 1: If the Eurodollar futures price is less than the price
+suggested by the carry arbitrage model, the futures contract should be purchased.Statement 2:
+Based on the cost of carry model, the futures price would be higher if the underlying
+Eurodollar bond’s upcoming interest payment was expected in five months instead of two.
+Three-Year Treasury Note Futures ContractKemper then presents two investment ideas to Doyle.
+Kemper’s first investment idea is to purchase a three-year Treasury note futures contract. The
+underlying 1.5%, semi-annual three-year Treasury note is quoted at a clean price of 101. It has
+been 60 days since the three-year Treasury note’s last coupon payment, and the next coupon
+payment is payable in 120 days. Doyle asks Kemper to calculate the full spot price of the
+underlying three-year Treasury note.10-Year Treasury Note Futures ContractKemper’s second
+investment idea is to purchase a 10-year Treasury note futures contract. The underlying 2%,
+semi-annual 10-year Treasury note has a dirty price of 104.17. It has been 30 days since the
+10-year Treasury note’s last coupon payment. The futures contract expires in 90 days. The
+quoted futures contract price is 129. The current annualized three-month risk-free rate is
+1.65%. The conversion factor is 0.7025. Doyle asks Kemper to calculate the equilibrium quoted
+futures contract price based on the carry arbitrage model.
+Japanese Government BondsAfter discussing Kemper’s new investment ideas, Doyle and Kemper
+evaluate one of their existing forward contract positions. Three months ago, BestFutures took a
+long position in eight 10-year Japanese government bond (JGB) forward contracts, with each
+contract having a contract notional value of 100 million yen. The contracts had a price of
+JPY153 (quoted as a percentage of par) when the contracts were purchased.Now, the contracts
+have six months left to expiration and have a price of JPY155. The annualized six-month
+interest rate is 0.12%. Doyle asks Kemper to value the JGB forward position.
+Interest Rate SwapsAdditionally, Doyle asks Kemper to price a one-year plain vanilla swap. The
+spot rates and days to maturity at each payment date are presented in Exhibit 1.
+Finally, Doyle and Kemper review one of BestFutures’s pay-fixed interest rate swap positions.
+Two years ago, the firm entered into a JPY5 billion five-year interest rate swap, paying the
+fixed rate. The fixed rate when BestFutures entered into the swap two years ago was 0.10%. The
+current term structure of interest rates for JPY cash flows, which are relevant to the interest
+rate swap position, is presented in Exhibit 2.
+Doyle asks Kemper to calculate the value of the pay-fixed interest rate swap.
+ 
+27.【单项选择题】Which of Doyle’s statements regarding the Eurodollar futures contract price
+is correct?
+A.Only Statement 1.
+B.Only Statement 2
+C.Both Statement 1 and Statement 2.
+参考答案：C
+【莽学解析】Doyle’s first statement is correct. Unless the Eurodollar futures contract’s
+quoted price is equal to the no-arbitrage futures price, there is an arbitrage opportunity.
+Moreover, if the quoted futures price is less than the no-arbitrage futures price, then to take
+advantage of the arbitrage opportunity, the Eurodollar futures contract should be purchased and
+the underlying Eurodollar bond should be sold short. Doyle would then lend the short sale
+proceeds at the risk-free rate. The strategy that comprises those transactions is known as
+reverse carry arbitrage.
+Doyle’s second statement is also correct. Based on the cost of carry model, the futures price
+is calculated as the future value of the sum of the underlying plus the underlying carry costs
+minus the future value of any ownership benefits. If the Eurodollar bond’s interest payment
+was expected in five months instead of two, the benefit of the cash flow would occur three
+months later, so the future value of the benefits term would be slightly lower. Therefore, the
+Eurodollar futures contract price would be slightly higher if the Eurodollar bond’s interest
+payment was expected in five months instead of two months.
+A is incorrect because Doyle’s Statement 2 is correct (not incorrect). Based on the cost of
+carry model, the futures price would be higher if the underlying Eurodollar bond’s interest
+payment took place in five months instead of two months.
+B is incorrect because Doyle’s Statement 1 is correct (not incorrect). If the Eurodollar’s
+futures contract price is less than the price suggested by the carry arbitrage model, the
+futures contract should be purchased.
+ 
+28.【单项选择题】The full spot price of the three-year Treasury note is:
+A.101.00.
+B.101.25.
+C.101.50.
+参考答案：B
+【莽学解析】The full spot price of the three-year Treasury note is calculated as:
+S0 = Quoted bond price + Accrued interest = B0 + AI0.
+Accrued interest (AI) = Accrural period × Periodic coupon amount = (NAD / NTD) × (C / n)
+AI = (60/180) × (0.015/2) = 0.25.
+S0 = 101 + 0.25 = 101.25.
+A is incorrect because 101 is the quoted clean (not the full spot) price of the three-year
+Treasury note. The clean price excludes accrued interest; the full price, also referred to as
+the dirty price, includes accrued interest.
+C is incorrect because the number of days until the next coupon payment (instead of the accrual
+period) is incorrectly used to compute accrued interest:
+AI = (120/180) × (0.015/2) = 0.50.
+S0 = 101 + 0.50 = 101.50.
+ 
+29.【单项选择题】The equilibrium 10-year Treasury note quoted futures contract price is closest
+to:
+A.147.94.
+B.148.89.
+C.149.78.
+参考答案：A
+【莽学解析】The equilibrium 10-year quoted futures contract price based on the carry arbitrage
+model is calculated as:
+Q<sub>0</sub> = (1/CF) × [FV(B<sub>0</sub> + AI<sub>0</sub>)－FVCI].
+CF = 0.7025.
+B<sub>0</sub> = 104.00.
+AI<sub>0</sub> = 0.17.
+AI<sub>T</sub> = (120/180 × 0.02/2) = 0.67.
+FVCI = 0.
+Q<sub>0</sub> = (1/0.7025) × [(1+0.0165)3/12 (104.17)－0]=147.94
+B is incorrect because accrued interest at expiration is not subtracted in the equilibrium
+quoted futures contract price formula:
+Q<sub>0</sub> = (1/0.7025) × [(1+0.0165)3/12(104.17)－0.67－0] =149.78.
+ 
+30.【单项选择题】The value of the JGB long forward position is closest to:
+A.JPY15,980,823.
+B.JPY15,990,409.
+C.JPY16,000,000.
+参考答案：B
+【莽学解析】The value of the JGB forward position is calculated as:
+Vt = PV[Ft－ F0] = (155-153) / (1+0.0012) = 1.9980.
+ 0.019980 × (JPY100,000,000) × 8 = JPY15,980,823.
+C is incorrect because the absolute difference (not the present value of the difference)
+between the price when the contracts were purchased and the current price of the contracts was
+computed:
+Vt = [Ft－F0] = (155-153) = 2.
+ 0.02 (JPY100,000,000) × 8 = JPY16,000,000.
+ 
+31.【单项选择题】Based on Exhibit 1, the fixed rate of the one-year plain vanilla swap is
+closest
+A.0.12%.
+B.0.55%.
+C.0.72%.
+参考答案：B
+【莽学解析】
+ 
+ 
+32.【单项选择题】Based on Exhibit 2, the value of the pay-fixed interest rate swap is closest
+to:
+A.–JPY6,491,550.
+B.–JPY2,980,500.
+C.–JPY994,793.
+参考答案：B
+【莽学解析】

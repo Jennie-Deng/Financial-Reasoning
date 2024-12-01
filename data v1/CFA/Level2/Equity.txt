@@ -1,0 +1,597 @@
+Equity Valuation
+共享题干题
+【题干】Cátia Pinho is a supervisor in the equity research division of Suite Securities. Pinho
+asks Flávia Silveira, a junior analyst, to complete an analysis of Adesivo S.A., Enviado S.A.,
+and Gesticular S.A.Pinho directs Silveira to use a valuation metric that would allow for a
+meaningful ranking of relative value of the three companies’ shares. Exhibit 1 provides
+selected financial information for the three companies.
+Silveira reviews underlying trailing EPS for Adesivo. Adesivo has basic trailing EPS of
+BRL0.84. Silveira finds the following note in Adesivo’s financial statements:“On a per share
+basis, Adesivo incurred in the last four quartersi. from a lawsuit, a non-recurring gain of
+BRL0.04; andii. from factory integration, a non-recurring cost of BRL0.03 and a recurring cost
+of BRL0.01 in increased depreciation.”Silveira notes that Adesivo is forecasted to pay
+semiannual dividends of BRL0.24 next year. Silveira estimates five-year earnings growth rates
+for the three companies, which are presented in Exhibit 2.
+Pinho asks Silveira about the possible use of the price-to-sales ratio (P/S) in assessing the
+relative value of the three companies. Silveira tells Pinho:Statement 1The P/S is not affected
+by revenue recognition practices.Statement 2The P/S is less subject to distortion from expense
+accounting than is the P/E.
+Pinho asks Silveira about using the Fed and Yardeni models to assess the value of the equity
+market. Silveira states:Statement 3The Fed model concludes that the market is undervalued when
+the market’s current earnings yield is greater than the 10-year Treasury bond yield.Statement
+4The Yardeni model includes the consensus five-year earnings growth rate forecast for the
+market index.
+Silveira also analyzes the three companies using the enterprising value (EV)-to-EBITDA
+multiple. Silveira notes that the EBITDA for Gesticular for the most recent year is BRL560
+million and gathers other selected information on Gesticular, which is presented in Exhibit 4.
+Pinho asks Silveira about the use of momentum indicators in assessing the shares of the three
+companies. Silveira states:Statement 5Relative-strength indicators compare an equity’s
+performance during a period with the performance of some group of equities or its own past
+performance.Statement 6In the calculation of standardized unexpected earnings (SUE), the
+magnitude of unexpected earnings is typically scaled by the standard deviation of analysts’
+earnings forecasts.
+ 
+1.【单项选择题】Based on Pinho’s directive and the data from the last four quarters presented
+in Exhibit 1, the valuation metric that Silveira should use is the:
+A.price-to-earnings ratio (P/E).
+B.production-to-demand ratio (P/D).
+C.earnings-to-price ratio (E/P).
+参考答案：C
+【莽学解析】The E/P based on trailing earnings would offer the most meaningful ranking of the
+shares. Using E/P places Gesticular’s negative EPS in the numerator rather than the
+denominator, leading to a more meaningful ranking.
+ 
+2.【单项选择题】Based on Exhibit 1 and the note to Adesivo’s financial statements, the
+trailing P/E for Adesivo using underlying EPS is closest to:
+A.17.7.
+B.18.2.
+C.18.4.
+参考答案：C
+【莽学解析】The EPS figure that Silveira should use is diluted trailing EPS of R$0.81, adjusted
+as follows:
+ 1. Subtract the BRL0.04 non-recurring legal gain.
+ 2. Add BRL0.03 for the non-recurring factory integration charge.
+No adjustment needs to be made for the BRL0.01 charge related to depreciation because it is a
+recurring charge.
+Therefore, underlying trailing EPS = BRL0.81 – BRL0.04 ＋ BRL0.03 = BRL0.80 and trailing P/E
+using underlying trailing EPS = BRL14.72/BRL0.80 = 18.4.
+ 
+ 
+3.【单项选择题】Based on Exhibits 1 and 2, which company’s shares are the most attractively
+priced based on the five-year forward P/E-to-growth ratio (PEG)?
+A.Adesivo
+B.Enviado
+C.Gesticular
+参考答案：A
+【莽学解析】The forward PEG for the three companies are calculated as follows:
+Forward P/E = Stock’s Current Price/Forecasted EPS
+Forward PEG = Forward P/E /Expected earnings growth rate (in percentage terms)
+Adesivo forward P/E = BRL14.72/ BRL0.91 = 16.18
+Adesivo forward PEG = 16.18/16.67 = 0.97
+Enviado forward P/E = BRL72.20/ BRL3.10 = 23.29
+Enviado forward PEG = 23.29/21.91 = 1.06
+Gesticular forward P/E = BRL132.16/ BRL2.85 = 46.37
+Gesticular forward PEG = 46.37/32.33 = 1.43
+Adesivo has the lowest forward PEG of 0.97, indicating that it is the most undervalued of the
+three equities based on the forward PEG ratio.
+ 
+4.【单项选择题】Which of Silveira’s statements concerning the use of the P/S is correct?
+A.Statement 1 only
+B.Statement 2 only
+C.Both Statement 1 and Statement 2
+参考答案：B
+【莽学解析】Statement 2 is correct because sales, as the top line of the income statement, are
+less subject to accounting distortion or manipulation than are other fundamentals, such as
+earnings. Statement 1 is incorrect because sales figures can be distorted by revenue
+recognition practices, in particular those tending to speed up the recognition of revenues.
+ 
+5.【单项选择题】Which of Silveira’s statements concerning the Fed and Yardeni models is
+correct?
+A.Statement 3 only
+B.Statement 4 only
+C.Both Statement 3 and Statement 4
+参考答案：C
+【莽学解析】The Fed model considers the equity market to be undervalued when the market’s
+current earnings yield is greater than the 10-year Treasury bond yield. The Yardeni model
+incorporates the consensus five-year earnings growth rate forecast for the market index, a
+variable missing in the Fed model.
+ 
+6.【单项选择题】Based on Exhibit 4, Gesticular’s EV/EBITDA multiple is closest to:
+A.11.4.
+B.13.7.
+C.14.6.
+参考答案：B
+【莽学解析】The EV for Gesticular is calculated as follows:
+EV = Market value of debt ＋ Market value of common equity ＋ Market value of preferred equity
+– Cash and short-term investments
+EV = BRL1,733 million ＋ BRL6,766 million ＋ BRL275 million – BRL581 million – BRL495 million
+= BRL7,698 million
+EV/EBITDA = BRL7,698 million/ BRL560 million = 13.7
+ 
+7.【单项选择题】Which of Silveira’s statements concerning momentum indicators is correct?
+A.Statement 5 only
+B.Statement 6 only
+C.Both Statement 5 and Statement 6
+参考答案：A
+【莽学解析】Relative-strength indicators compare an equity’s performance with the performance
+of a group of equities or with its own past performance. SUE is unexpected earnings scaled by
+the standard deviation in past unexpected earnings (not the standard deviation of analysts’
+earnings forecasts, which is used in the calculation of the scaled earnings surprise).
+ 
+【题干】Bruno Santos is an equity analyst with a regional investment bank. Santos reviews the
+growth prospects and quality of earnings for Phoneutria Enterprises, one of the companies he
+follows. He has developed a stock valuation model for this firm based on its forecasted
+fundamentals. His revenue growth rate estimate is less than that implied by the market
+price.Phoneutria’s financial statements over the past five years show strong performance, with
+above average growth. Santos has decided to use a lower forecasted growth rate in his models,
+reflecting the effect of “regression to the mean” over time. He notes two reasons for his
+lower growth rate forecast:Reason 1 Successful companies tend to draw more competition, putting
+their high profits under pressure.Reason 2 Phoneutria’s intellectual property and franchise
+agreements will be weakening over time.Santos meets with Walter Hartmann, a newly hired
+associate in his department. In their conversation, Hartmann states, “Security analysts
+forecast company performance using both top-down and bottom-up analysis. I can think of three
+examples:1 A restaurant chain forecasts its sales to be its market share times forecast
+industry sales.2 An electric utility company forecasts that its sales will grow proportional to
+increases in GDP.3 A retail furniture company forecasts next year’s sales by assuming that the
+sales in its newly built stores will have similar sales per square meter to that of its
+existing stores.”Hartmann is reviewing some possible trades for three stocks in the health
+care industry based on a pairs-trading strategy. Hartmann’s evaluations are as follows:● HG
+Health is 15% overvalued.● Corgent Cell Sciences is 10% overvalued.● Johnson Labs is 15%
+undervalued.
+ 
+8.【单项选择题】Based on Santos’s revenue growth rate estimate, the shares of Phoneutria are
+most likely:
+A.undervalued.
+B.fairly valued.
+C.overvalued.
+参考答案：C
+【莽学解析】If the revenue growth rate inferred by the market price exceeds the growth rate
+that the firm could reasonably expect, Santos should conclude that the market price is too high
+and thus that the firm is overvalued.
+ 
+9.【单项选择题】Which of the reasons given by Santos most likely justifies a reduction in
+Phoneutria’s forecasted growth rate?
+A.Reason 1 only
+B.Reason 2 only
+C.Both Reason 1 and Reason 2
+参考答案：C
+【莽学解析】Increased competition for successful firms can cause a regression to the mean of a
+company’s growth rate. Expiring and weakening intellectual property and franchise agreements
+can also reduce potential growth.
+ 
+10.【单项选择题】Which of Hartmann’s examples of company performance forecasting best
+describes an example of bottom-up forecasting?
+A.Restaurant chain
+B.Electric utility company
+C.Retail furniture company
+参考答案：C
+【莽学解析】The retail furniture company forecasting sales based on sales per square meter is
+an example of bottom-up forecasting because it aggregates forecasts at a micro level to larger-
+scale forecasts.
+ 
+11.【单项选择题】Based on his trading strategy, which of the following should Hartmann
+recommend?
+A.Short HG Health and Corgent Cell Sciences
+B.Buy Johnson Labs and Corgent Cell Sciences
+C.Buy Johnson Labs and short Corgent Cell Sciences
+参考答案：C
+【莽学解析】Pairs trading involves buying an undervalued stock and shorting an overvalued stock
+in the same industry. Hartmann should buy Johnson Labs (15% undervalued) and short Corgent Cell
+Sciences (10% overvalued).
+ 
+【题干】Ryan Leigh is preparing a presentation that analyzes the valuation of the common stock
+of two companies under consideration as additions to his firm’s recommended list, Emerald
+Corporation and Holt Corporation. Leigh has prepared preliminary valuations of both companies
+using an FCFE model and is also preparing a value estimate for Emerald using a dividend
+discount model. Holt’s 2019 and 2020 financial statements, contained in Exhibits 1 and 2, are
+prepared in accordance with US GAAP.
+Leigh presents his valuations of the common stock of Emerald and Holt to his supervisor, Alice
+Smith. Smith has the following questions and comments:1 “I estimate that Emerald’s long-term
+expected dividend payout rate is 20% and its return on equity is 10% over the long term.”2
+“Why did you use an FCFE model to value Holt’s common stock? Can you use a DDM instead?”3
+“How did Holt’s FCFE for 2020 compare with its FCFF for the same year? I recommend you use an
+FCFF model to value Holt’s common stock instead of using an FCFE model because Holt has had a
+history of leverage changes in the past.”4 “In the last three years, about 5% of Holt’s
+growth in FCFE has come from decreases in inventory.”Leigh responds to each of Smith’s points
+as follows:1 “I will use your estimates and calculate Emerald’s long-term, sustainable
+dividend growth rate.”2 “There are two reasons why I used the FCFE model to value Holt’s
+common stock instead of using a DDM. The first reason is that Holt’s dividends have differed
+significantly from its capacity to pay dividends. The second reason is that Holt is a takeover
+target and once the company is taken over, the new owners will have discretion over the uses of
+free cash flow.”3 “I will calculate Holt’s FCFF for 2020 and estimate the value of Holt’s
+common stock using an FCFF model.”4 “Holt is a growing company. In forecasting either Holt’s
+FCFE or FCFF growth rates, I will not consider decreases in inventory to be a long-term source
+of growth.”
+ 
+12.【单项选择题】Which of the following long-term FCFE growth rates is most consistent with the
+facts and stated policies of Emerald?
+A.5% or lower.
+B.2% or higher.
+C.8% or higher.
+参考答案：C
+【莽学解析】The sustainable growth rate is return on equity (ROE) multiplied by the retention
+ratio. ROE is 10%, and the retention ratio is 1 – Payout ratio, or 1.0 – 0.2 = 0.8. The
+sustainable growth rate is 0.8 × 10% = 8%. FCFE growth should be at least 8% per year in the
+long term.
+ 
+13.【单项选择题】Do the reasons provided by Leigh support his use of the FCFE model to value
+Holt’s common stock instead of using a DDM?
+A.Yes.
+B.No, because Holt’s dividend situation argues in favor of using the DDM.
+C.No, because FCFE is not appropriate for investors taking a control perspective.
+参考答案：A
+【莽学解析】Justifications for choosing the FCFE model over the DDM include the following:●
+The company pays dividends, but its dividends differ significantly from the company’s capacity
+to pay dividends (the first reason given by Leigh).
+● The investor takes a control perspective (the second reason given by Leigh)
+ 
+ 
+14.【单项选择题】Holt's FCFF (in millions) for 2020 is closest to:
+A.$308.
+B.$370.
+C.$422.
+参考答案：A
+【莽学解析】
+ 
+ 
+15.【单项选择题】Holt's FCFE (in millions) for 2020 is closest to:
+A.$175.
+B.$250.
+C.$364.
+参考答案：B
+【莽学解析】FCFE = NI + NCC – FCInv – WCInv + Net borrowing. In this case:NI=$485
+millionNCC=Depreciation expense = $270 millionFCInv = Net purchase of fixed assets = Increase
+in gross fixed assets = 4,275 – 3,752=$523 millionWCInv = Increase in accounts
+receivable+Increase in inventory – Increase in accounts payable – Increase in accrued
+liabilities=(770 – 711)+(846 – 780) – (476 – 443)-(149 – 114)= $57 millionNet borrowing
+=Increase in notes payable + Increase in long–term debt=(465 – 450)+(1,575 – 1,515)=$75
+millionFCFE = 485+270 – 523 – 57+75 = $250millionAn alternative calculation isFCFE = FCFF –
+Int(1 – Tax rate) + Net borrowingFCFE = 307.6 – 195(1 – 0.32) + (15 +60) = $250 million
+ 
+ 
+16.【单项选择题】Leigh's comment about not considering decreases in inventory to be a source of
+long-term growth in free cash flow for Holt is:
+A.inconsistent with a forecasting perspective.
+B.mistaken because decreases in inventory are a use rather than a source of cash.
+C.consistent with a forecasting perspective because inventory reduction has a limit,
+particularly for a growing firm.
+参考答案：C
+【莽学解析】Inventory cannot be reduced below zero. Furthermore, sales growth tends to increase
+inventory.
+ 
+17.【单项选择题】Smith's recommendation to use a FCFF model to value Holt is:
+A.logical, given the prospect of Holt changing capital structure.
+B.not logical because a FCFF model is used only to value the total firm.
+C.not logical because FCFE represents a more direct approach to free cash flow valuation.
+参考答案：A
+【莽学解析】The FCFF model is often selected when the capital structure is expected to change
+because FCFF estimation may be easier than FCFE estimation in the presence of changing
+financial leverage.
+ 
+【题干】Nigel French, an analyst at Taurus Investment Management, is analyzing Archway
+Technologies, a manufacturer of luxury electronic auto equipment, at the request of his
+supervisor, Lukas Wright. French is asked to evaluate Archway’s profitability over the past
+five years relative to its two main competitors, which are located in different countries with
+significantly different tax structures.French begins by assessing Archway’s competitive
+position within the luxury electronic auto equipment industry using Porter’s five forces
+framework. A summary of French’s industry analysis is presented in Exhibit 1.
+French notes that for the year just ended (2019), Archway’s cost of goods sold was 30% of
+sales. To forecast Archway’s income statement for 2020, French assumes that all companies in
+the industry will experience an inflation rate of 8% on the cost of goods sold. Exhibit 2 shows
+French’s forecasts relating to Archway’s price and volume changes.
+After putting together income statement projections for Archway, French forecasts Archway’s
+balance sheet items; He uses Archway’s historical efficiency ratios to forecast the company’s
+working capital accounts.Based on his financial forecast for Archway, French estimates a
+terminal value using a valuation multiple based on the company’s average price-to-earnings
+multiple (P/E) over the past five years. Wright discusses with French how the terminal value
+estimate is sensitive to key assumptions about the company’s future prospects. Wright asks
+French:“What change in the calculation of the terminal value would you make if a technological
+development that would adversely affect Archway was forecast to occur sometime beyond your
+financial forecast horizon?”
+ 
+18.【单项选择题】Which return metric should French use to assess Archway’s five-year historic
+performance relative to its competitors?
+A.Return on equity
+B.Return on invested capital
+C.Return on capital employed
+参考答案：C
+【莽学解析】The return on capital employed (ROCE) is a pre-tax return measure that can be
+useful in the peer comparison of companies in countries with different tax structures.
+Archway’s two main competitors are located in different countries with significantly different
+tax structures, and therefore, a pre-tax measure of return on capital employed is better than
+an after-tax measure.
+ 
+19.【单项选择题】Based on the current competitive landscape presented in 1, French should
+conclude that Archway’s ability to:
+A.pass along price increases is high.
+B.demand lower input prices from suppliers is low.
+C.generate above-average returns on invested capital is low.
+参考答案：A
+【莽学解析】Porter’s five forces framework in Exhibit 1 describes an industry with high
+barriers to entry, high customer switching costs (suggesting a low threat of substitutes), and
+a specialized product (suggesting low bargaining power of buyers). Furthermore, the primary
+production inputs from the large group of suppliers are considered basic commodities
+(suggesting low bargaining power of suppliers). These favorable industry characteristics will
+likely enable Archway to pass along price increases and generate above-average returns on
+invested capital.
+20.【单项选择题】Based on the current competitive landscape presented in 1, Archway’s
+operating profit margins over the forecast horizon are least likely to:
+A.decrease.
+B.remain constant.
+C.increase.
+参考答案：A
+【莽学解析】The current favorable characteristics of the industry (high barriers to entry, low
+bargaining power of suppliers and buyers, low threat of substitutes), coupled with Archway’s
+dominant market share position, will likely lead to Archway’s profit margins being at least
+equal to or greater than current levels over the forecast horizon.
+ 
+21.【单项选择题】Based on Exhibit 2, Archway’s forecasted gross profit margin for 2020 is
+closest to:
+A.62.7%.
+B.67.0%.
+C.69.1%.
+参考答案：C
+【莽学解析】The calculation of Archway’s gross profit margin for 2020, which reflects the
+industry-wide 8% inflation on cost of goods sold (COGS), is calculated as follows:
+Revenue growth = (1 ＋ Price increase for revenue) × (1 ＋ Volume growth) – 1
+Revenue growth = (1.05) × (0.97) – 1 = 1.85%
+COGS increase = (1 ＋ Price increase for COGS) × (1 ＋ Volume growth) – 1
+COGS increase = (1.08) × (0.97) – 1 = 4.76%
+Forecasted revenue = Base revenue × Revenue growth increase
+Forecasted revenue = 100 × 1.0185 = 101.85
+Forecasted COGS = Base COGS × COGS increase
+Forecasted COGS = 30 × 1.0476 = 31.43
+Forecasted gross profit = Forecasted revenue – Forecasted COGS
+Forecasted gross profit = 101.85 – 31.43 = 70.42
+Forecasted gross profit margin = Forecasted gross profit/Forecasted revenue
+Forecasted gross profit margin = 70.42/101.85 = 69.14%
+ 
+22.【单项选择题】French’s approach to forecasting Archway’s working capital accounts would be
+most likely classified as a:
+A.hybrid approach.
+B.top-down approach.
+C.top-down approach.
+参考答案：C
+【莽学解析】French is using a bottom-up approach to forecast Archway’s working capital
+accounts by using the company’s historical efficiency ratios to project future performance.
+ 
+23.【单项选择题】The most appropriate response to Wright’s question about the technological
+development is to:
+A.increase the required return.
+B.decrease the price-to-earnings multiple.
+C.decrease the perpetual growth rate.
+参考答案：B
+【莽学解析】If the future growth or profitability of a company is likely to be lower than the
+historical average (in this case, because of a potential technological development), then the
+target multiple should reflect a discount to the historical multiple to reflect this difference
+in growth and/or profitability. If a multiple is used to derive the terminal value of a
+company, the choice of the multiple should be consistent with the long-run expectations for
+growth and required return. French tells Wright he believes that such a technological
+development may have an adverse impact on Archway beyond the forecast horizon.
+ 
+【题干】Yandie Izzo manages a dividend growth strategy for a large asset management firm. Izzo
+meets with her investment team to discuss potential investments in three companies: Company A,
+Company B, and Company C. Statements of cash flow for the three companies are presented in
+Exhibit 1.
+Izzo’s team first discusses key characteristics of Company A. The company has a history of
+paying modest dividends relative to FCFE, has a stable capital structure, and is owned by a
+controlling investor.The team also considers the impact of Company A’s three non-cash
+transactions in the most recent year on its FCFE, including the following:● Transaction 1: A
+$900 million loss on a sale of equipment● Transaction 2: An impairment of intangibles of $400
+million● Transaction 3: A $300 million reversal of a previously recorded restructuring
+chargeIn addition, Company A’s annual report indicates that the firm expects to incur
+additional non-cash charges related to restructuring over the next few years.To value the three
+companies’ shares, one team member suggests valuing the companies’ shares using net income as
+a proxy for FCFE. Another team member proposes forecasting FCFE using a sales-based methodology
+based on the following equation:FCFE = NI – (1 – DR)(FCInv – Dep) – (1 – DR)(WCInv)Izzo’s
+team ultimately decides to use actual free cash flow to value the three companies’ shares.
+Selected data and assumptions are provided in Exhibit 2.
+The team calculates the intrinsic value of Company B using a two-stage FCFE model. FCFE growth
+rates for the first four years are estimated at 10%, 9%, 8%, and 7%, respectively, before
+declining to a constant 6% starting in the fifth year.To calculate the intrinsic value of
+Company C’s equity, the team uses the FCFF approach assuming a single-stage model where FCFF
+is expected to grow at 5% indefinitely.
+ 
+24.【单项选择题】Based on Company A’s key characteristics, which discounted cash flow model
+would most likely be used by the investment team to value Company A’s shares?
+A.DDM
+B.FCFE
+C.FCFF
+参考答案：B
+【莽学解析】Company A has a history of paying modest dividends relative to FCFE. An FCFF or
+FCFE model provides a better estimate of value over a DDM model when dividends paid differ
+significantly from the company’s capacity to pay dividends. Also, Company A has a controlling
+investor; with control comes discretion over the uses of free cash flow. Therefore, there is
+the possibility that the controlling shareholder could change the dividend policy. Finally,
+Company A has a stable capital structure; using FCFE is a more direct and simpler method to
+value a company’s equity than using FCFF when a company’s capital structure is stable.
+ 
+25.【单项选择题】Which non-cash transaction should be subtracted from net income in arriving at
+Company A’s FCFE?
+A.Transaction 1
+B.Transaction 2
+C.Transaction 3
+参考答案：C
+【莽学解析】The applicable non-cash adjustments to net income in arriving at FCFE are as
+follows:
+In the case of Transaction 1, a loss reduces net income and thus must be added back in arriving
+at FCFE. Similarly, an impairment of intangibles (Transaction 2) reduces net income and thus
+must be added back in arriving at FCFE. Transaction 3 (reversal of a restructuring charge)
+would increase net income and thus must be subtracted in arriving at FCFE.
+ 
+ 
+26.【单项选择题】Based on Exhibit 1, Company A’s FCFE for the most recent year is closest to:
+A.$5,318 million.
+B.$6,126 million.
+C.$7,126 million.
+参考答案：C
+【莽学解析】FCFE for Company A for the most recent year is calculated as follows:
+Net non-cash charges are found by adding depreciation to other non-cash expenses: $500 million
++ $1,000 million = $1,500 million.Investment in working capital is calculated by netting the
+increase in accounts receivable, the decrease in accounts payable, and the increase in other
+current liabilities: –$452 million – $210 million + $540 million = –$122 million
+(outflow).Net borrowing repayment is calculated by netting the increase in notes payable and
+the decrease in long-term debt: $25 million – $1,500 million = –$1,475 million (outflow).
+ 
+ 
+27.【单项选择题】Based on Exhibit 1, using net income as a proxy for Company B’s FCFE would
+result in an intrinsic value that is:
+A.lower than the intrinsic value if actual FCFE were used.
+B.equal to the intrinsic value if actual FCFE were used.
+C.higher than the intrinsic value if actual FCFE were used.
+参考答案：A
+【莽学解析】FCFE is significantly higher than net income for Company B: Net income = $1,212
+million. FCFE for Company B is calculated as:
+ 
+Investment in working capital is calculated by adding the increase in accounts receivable, the
+increase in inventories, the increase in accounts payable, and the increase in other current
+liabilities: –$150 million – $200 million + $100 million + $14 million = –$236 million. Net
+borrowing is calculated by adding the increase in notes payable to the decrease in long-term
+debt: $3,000 million – $1,000 million = $2,000 million.Therefore, using net income of $1,212
+million as a proxy for FCFE ($2,264 million) for Company B would result in a much lower
+valuation estimate than if actual FCFE were used.
+ 
+28.【单项选择题】Based on Exhibit 1, using the proposed sales-based methodology to forecast
+FCFE would produce an inaccurate FCFE projection for which company?
+A.Company A
+B.Company B
+C.Company C
+参考答案：A
+【莽学解析】In addition to significant non-cash charges other than depreciation in the most
+recent year, the annual report indicates that Company A expects to recognize additional non-
+cash charges related to restructuring over the next few years. The given equation for
+forecasting assumes that the only non-cash charge is depreciation. When the company being
+analyzed has significant non-cash charges other than depreciation expense, this sales-based
+methodology will result in a less accurate estimate of FCFE than one obtained by forecasting
+all the individual components of FCFE.
+ 
+29.【单项选择题】Based on Exhibits 1 and 2 and the proposed two-stage FCFE model, the intrinsic
+value of Company B’s equity is closest to:
+A.$70,602 million.
+B.$73,588 million.
+C.$79,596 million.
+参考答案：C
+【莽学解析】The required rate of return on equity for Company B is r=E(R<sub>i</sub>)
+=R<sub>F</sub> β<sub>i</sub>[E(R<sub>M</sub>) –R<sub>F</sub>] = 3% 0.90(7%) = 9.3%. FCFE for
+the most recent year for Company B is:
+The required rate of return on equity for Company B isr = E(R<sub>i</sub>) = R<sub>F</sub>
+β<sub>i</sub>[E(R<sub>M</sub>) – R<sub>F</sub>] = 3% 0.90(7%) = 9.3%.The most recent FCFE
+grows for the next four years at annual growth rates of 10%, 9%, 8%, and 7%, respectively, and
+then 6% thereafter:
+The present value of FCFE for the first four years is calculated as follows:PV = 2,490.40/1.093
+1 ＋ 2,714.54/1.0932 ＋ 2,931.70/1.0933 ＋ 3,136.92/1.0934PV = 2,278.50 ＋2,272.25 ＋2,245.22
+＋2.197.97 = 8,993.94The present value of the terminal value is calculated as follows:PV of TV4
+= 3,325.13/(0.093-0.06)(1.093)4=70,601.58So, the estimated total market value of the equity is
+8,993.94＋70,601.58 = 79,595.52 ≈ $79,596 million.
+ 
+ 
+30.【单项选择题】Based on Exhibits 1 and 2 and the proposed single-stage FCFF model, the
+intrinsic value of Company C’s equity is closest to:
+A.$277,907 million.
+B.$295,876 million.
+C.$306,595 million.
+参考答案：C
+【莽学解析】Company C’s firm value is calculated as follows:
+ 
+【题干】BJL Financial provides clients with professional investment management services that
+are tailored to the specific needs of each client. The firm's portfolio manager, Angelique
+Kwaza, has called a meeting with the senior analyst, Samira Khan, to discuss the quarterly
+rebalancing of three client portfolios. The valuation model used in the analyses is the
+discounted dividend model.● Client 1 has a portfolio with significant exposure to dividend-
+paying stocks.● Client 2 is interested in including preferred stock in the portfolio.● Client
+3 has a growth-oriented equity-only portfolio.Khan has identified two utilities (ABC and XYZ)
+for possible inclusion in Client l's portfolio, as shown in Exhibit 1. She uses a discount rate
+of 7% for both common stocks.
+Kwaza asks Khan to investigate the most appropriate models for valuing utility companies. She
+tells Khan about the following points mentioned in various research reports on the utilities
+sector.● Report 1: A resurgence in domestic manufacturing activity will generate longterm
+growth in earnings and dividends that exceeds the cost of equity.● Report 2: Share repurchases
+are expected to increase. The report expresses confidence in the forecasts regarding the
+magnitude and timing of these repurchases.● Report 3: The report forecasts earnings growth of
+4.5%. The key growth drivers are increases in population and business creation associated with
+stable GDP growth of 2.75%.For Client 2's portfolio, Khan has identified the non-callable
+perpetual preferred stocks of Standard Company and Main Company.● The Standard Company's
+preferred stock pays 2.75% on a par value of $100. Khan believes it to be fairly valued at a
+market price of $49.60.● The perpetual preferred stock of Main Company has a par value of $50
+per share and pays an annual dividend of 5.5%. Khan estimates a capitalization rate at 6%. The
+current market price of Main Company preferred stock is $42.Finally, Khan has identified three
+stocks, shown in Exhibit 2, as likely candidates for Client 3's portfolio.
+ 
+ 
+31.【单项选择题】Based on the Gordon growth model, the justified leading P /E for ABC stock is
+closest to:
+A.17.1.
+B.17.7.
+C.20.0.
+参考答案：A
+【莽学解析】The justified leading P /E is calculated as
+where b is the retention ratio, 1- b is the dividend payout ratio, r is the discount rate, and
+g is the long-term growth rate.ABC's dividend payout rate, 1 - b, is given as 0.60. For Company
+ABC, the justified leading P/E is
+ 
+ 
+ 
+32.【单项选择题】Based on its justified leading P /E and the Gordon growth model, XYZ stock is:
+A.undervalued.
+B.fairly valued.
+C.overvalued.
+参考答案：B
+【莽学解析】The justified leading P /E is calculated as
+where b is the retention ratio, 1- b is the dividend payout ratio, r is the discount rate, and
+g is the long-term growth rate.The justified leading P /E is
+XYZ's actual leading P/E is
+Because the justified leading P/E equals the actual leading P/E, the stock is fairly valued.
+ 
+ 
+33.【单项选择题】Which sector report best describes a situation in which the Gordon growth
+model could be used to value utility stocks?
+A.Report 1
+B.Report 2
+C.Report 3
+参考答案：B
+【莽学解析】Because the Gordon growth model can accurately value companies that are
+repurchasing shares when the analyst can appropriately adjust the dividend growth rate for the
+impact of share repurchases.
+ 
+34.【单项选择题】Based on Khan's estimate of the capitalization rate, Main Company's preferred
+stock is:
+A.undervalued.
+B.fairly valued.
+C.overvalued.
+参考答案：A
+【莽学解析】The value of a share of Main Company's preferred stock is
+The current price of a share of Main Company's preferred stock is $42, so the stock is
+currently undervalued.
+ 
+35.【单项选择题】The capitalization rate of the preferred stock of Standard Company is closest
+to:
+A.2.75%.
+B.4.96%.
+C.5.54%.
+参考答案：C
+【莽学解析】The value of non-callable fixed-rate perpetual preferred stock is calculated as
+where D is the constant dividend per share and r is the discount rate. The discount rate of a
+perpetuity is often called the capitalization rate.For Standard Company, the dividend is D =
+2.75% x $100 = $2.75.Therefore,
+ 
+ 
+ 
+36.【单项选择题】Based on Exhibit 2, which stock can most appropriately be valued using a
+three-stage DDM with the second and third stages being treated as an H-model?
+A.BIOK
+B.CCAX
+C.HLTY
+参考答案：A
+【莽学解析】Because the dividend growth is declining linearly during the second stage of a
+three-stage DDM used to value BIOIK. As noted in the text, a three-stage valuation clearly has
+an H-model process in the second and third stages. In contrast, abrupt-rather than linearly
+declining-dividend growth rates are implied for CCAX and HLTV.
+ 
+37.【单项选择题】Which of the following models is most appropriate for valuing HLTV?
+A.H-model
+B.Three-stage DDM
+C.Gordon growth model
+参考答案：B
+【莽学解析】Because HLTV is forecast to have three growth stages: the growth phase (2 years at
+27%), the transition phase (10 years at 12%), and the mature phase. Because the earnings growth
+has three stages and the dividend payout ratio is stable, a three-stage DDM is appropriate.

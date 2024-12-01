@@ -1,0 +1,1279 @@
+
+1.An analyst is constructing an interest rate tree with monthly time steps; i.e., t = 1/12. The
+current short-term rate is 4.0%. His term structure model assumes an annual basis point
+volatility of 180bps. He employs Model 1 which assumes normally distributed rates and zero
+drift. Here is his rate tree:
+  
+What is the un-displayed missing value?
+A.4.20%
+B.4.83%
+C.5.04%
+D.6.59%
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+2.The current short-term rate is 4.00%. Under a Ho-Lee Model with time-dependent drift, the
+time step is monthly and the annualized drifts are as follows: +100bps in the first month and
++80bps in the second month. The annual basis point volatility is 200bps.
+What is the value of the missing node?
+A.2.447%
+B.2.677%
+C.2.995%
+D.3.256%
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+3.An analyst constructed an interest rate tree with monthly time steps, where t = 1/12. The
+current short-term rate is 3.0%. His term structure model assumes an annual basis point
+volatility of 200bps with an annual drift of 50bps. He employs Model 2 which assumes normally
+distributed rates and incorporating drift. Here is his rate tree:
+ 
+ 
+What is the un-displayed missing value?
+A.1.93%
+B.2.17%
+C.2.38%
+D.3.01%
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+4.Suppose an investor expects that the 1-year rate will remain at 6% for the first year for a
+2-year zero-coupon bond. The investor also projects a 50% probability that the 1-year spot rate
+will be 8% in one year and a 50% probability that the 1-year spot rate will be 4% in one year.
+Which of the following inequalities most accurately reflects the convexity effect for this 2-
+year bond using Jensen’s inequality formula?
+A.$0.89031 > $0.89000
+B.$0.89000 > $0.80000
+C.$0.94340 > $0.89031
+D.$0.94373 > $0.94340
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+5.A risk-free zero-coupon bond with a face value of USD 1,000 and a maturity of one year is
+being traded at a price of USD 941. The current risk-free 6-month interest rate is 6%. An
+analyst uses a simple two-period risk-neutral binomial pricing model that assumes the risk-free
+6-month interest rate in 6 months will be either 6.5% or 5.5%. The risk-neutral probability
+model suggests that:
+A.The 6-month risk-free interest rate is equally likely to decrease to 5.5%
+B.The 6-month risk-free interest rate is more likely to decrease to 5.5% than to increases to
+6.5%.
+C.The 6-month risk-free interest rate is less likely to decrease to 5.5% than to increase to
+6.5%.
+D.There is insufficient information to determine the risk-neutral probabilities.
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+6.An investor expects the current 1-year rate for a zero-coupon bond to remain at 6%, the 1-
+year rate next year to be 8%, and the 1-year rate in two years to be 10%. What is the 3-year
+spot rate for a zero-coupon bond with a face value of $1, assuming all investors have the same
+expectations of future 1-year rates for zero-coupon bonds?
+A.7.888%
+B.7.988%
+C.8.000%
+D.8.088%
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+7.Using Model 2, assume a current short-term rate of 8%, an annual drift of 50bps, and a short-
+term rate standard deviation of 2%. In addition, assume the ex-post realization of the dw
+random variable is 0.3. After constructing a 2-period interest rate tree with annual periods,
+what is the interest rate in the middle node at the end of year 2?
+A.8.0%.
+B.8.8%.
+C.9.0%.
+D.9.6%.
+参考答案：C
+【莽学解析】Using Model2 notation:current short-term rate,r0=8%drift,λ=0.5%standard deviation,
+α = 2%random variable, dw = 0.3change in time, dt = 1Since we are asked to find the interest
+rate at the second period middlenode using Model 2, we know that the tree will recombine to
+thefollowing rate:r0＋2λdt=8% ＋ 2× 0.5%×1 = 9%
+ 
+8.An analyst is employing the Cox-Ingersoll-Ross model for the short-term rate process. His
+assumptions include:
+Ⅰ. t = 1/12
+Ⅱ. r0 = 1.00%
+Ⅲ. σ=2.50%
+Ⅳ. central tendency = 8.00%
+Ⅴ. speed of mean reversion = 0.60
+Ⅵ. For the first month, dω=0.160
+ 
+What is the short-rate in the first month under this CIR process?
+A.-0.250%
+B.0.444%
+C.1.390%
+D.2.172%
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+9.Which of the following statements is/are correct regarding the pricing of fixed-income
+securities?
+Ⅰ. The put price serves as the floor value for a puttable bond when interest rates rise.
+Ⅱ. The more frequent the time steps used for projected fixed-income security values, the more
+accurate the pricing.
+Ⅲ. The Black-Scholes-Merton model is preferred for the pricing of fixed income securities
+because of its continuous time assumption.
+A.II only
+B.I and II only
+C.I and III only
+D.I, II, and III
+参考答案：B
+【莽学解析】A putable bond allows the bond to be put back to the issuer at a set price when
+interest rates rise, so statement I is correct. The more frequent the time intervals used for
+projected fixed-income security values, the more accurate the pricing, so statement II is
+correct. However, the Black-Scholes-Merton model is not appropriate for the pricing of fixed-
+income securities because: (1) it assumes that there is no upper limit to the security’s
+price; (2) it assumes that interest rates are constant; and it assumes that price volatility is
+constant. Thus, Statement III is incorrect.
+ 
+10.Using Model1, assume the current short-term interest rate is 5%, annual volatility is 80bps,
+and dw, a normally distributed random variable with mean 0 and standard deviation, √dt, has an
+expected value of zero. After one month, the realization of dw is -0.5. What is the change in
+the spot rate and the new spot rate?
+A.0.4%\t\t5.4%
+B.-0.4%\t\t4.6%
+C.0.8%\t\t5.8%
+D.-0.8%\t\t4.2%
+参考答案：B
+【莽学解析】Modell has a no-drift assumption. Using this model, the change in the interest rate
+is predicted as: dr=σdw dr=0.8%×(?0.5)=?0.4%=?40 basis point Since the initial rate was 5%
+and dr = -0.40%, the new spot rate in one month is: 5% ? 0.40% = 4.60%
+ 
+11.Suppose investors have interest rate expectations as illustrated in the decision tree below
+where the 1-year rate is expected to be 8%, 6%, or 4% in the second year and either 7% or 5% in
+the first year for a zero-coupon bond.
+ 
+If investors are risk-neutral, what is the price of a $1 face value 2-year zero-coupon bond
+today?
+A.$0.88113.
+B.$0.88634.
+C.$0.89007.
+D.$0.89032
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+12.A risk manager is pricing a 10-year call option on 10-year Treasuries using a successfully
+tested pricing model. Current interest rate volatility is high and the risk manager is
+concerned about the effect this may have on short-term rates when pricing the option. Which of
+the following actions would best address the potential for negative short-term interest rates
+to arise in the model?
+A.The risk manager uses a normal distribution of interest rates.
+B.When short-term rates are negative, the risk manager adjusts the risk-neutral probabilities.
+C.When short-term rates are negative, the risk manager increases the volatility.
+D.When short-term rates are negative, the risk manager sets the rate to zero.
+参考答案：D
+【莽学解析】Negative short-term interest rates can arise in models for which the terminal
+distribution of interest rates follows a normal distribution. The existence of negative
+interest rates does not make much economic sense since market participants would generally not
+lend cash at negative interest rates when they can hold cash and earn a zero return. One method
+that can be used to address the potential for negative interest rates when constructing
+interest rate trees is to set all negative interest rates to zero. This localizes the change in
+assumptions to points in the distribution corresponding to negative interest rates and
+preserves the original rate tree for all other observations. In comparison, adjusting the risk
+neutral probabilities would alter the dynamics across the entire range of interest rates and
+therefore not be an optimal approach.When a model displays the potential for negative short-
+term interest rates, it can still be a desirable model to use in certain situations, especially
+in cases where the valuation depends more on the average path of the interest rate, such as in
+valuing coupon bonds. Therefore, the potential for negative rates does not automatically rule
+out the use of the model.
+ 
+13.What is the impact on the bond price-yield curve if, all other factors held constant, the
+maturity of a zero-coupon bond increases? The pricing curve becomes:
+A.less concave.
+B.more concave.
+C.less convex.
+D.more convex.
+参考答案：D
+【莽学解析】As the maturity of a bond increases, the price-yield relationship becomes more
+convex.
+ 
+14.Using Model 1, assume the current short-term interest rate is 5%, annual volatility is
+80bps, and dω, a normally distribution random variable with mean 0 and standard deviation
+√dt, has an expected value of zero. After one month, the realization of dω is -0.5. What is
+the change in the spot rate and the new spot rate?
+A.0.40% （Change in Spot）； 5.40%（New Spot Rate）
+B.-0.40%（Change in Spot） ； 4.60%（New Spot Rate）
+C.0.80% （Change in Spot）； 5.80%（New Spot Rate）
+D.-0.80%（Change in Spot） ； 4.20%（New Spot Rate）
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+15.The Bureau of Labor Statistics has just reported an unexpected short-term increase in high-
+priced luxury automobiles. What is the most likely anticipated impact on a mean-reverting model
+of interest rates?
+A.The economic information is long-lived with a low mean reversion parameter.
+B.The economic information is short-lived with a low mean reversion parameter.
+C.The economic information is long-lived with a high mean reversion parameter.
+D.The economic information is short-lived with a high mean reversion parameter.
+参考答案：D
+【莽学解析】The economic news is most likely short-term in nature. Therefore, the mean
+reversion parameter is high so the mean reversion adjustment per period will be relatively
+large.
+ 
+16.Using the Vasicek model, assume a current short-term rate of 6.2% and an annual volatility
+of the interest rate process of 2.5%. Also assume that the long-run mean-reverting level is
+13.2% with a speed of adjustment of 0.4. Within a binomial interest rate tree, what are the
+upper and lower node rates after the first month?
+A.(Upper node)6.67%,(Lower node)5.71%
+B.(Upper node)6.67%,(Lower node)6.24%
+C.(Upper node)7.16%,(Lower node)6.24%
+D.(Upper node)7.16%\t\t,(Lower node)5.71%
+参考答案：D
+【莽学解析】
+ 
+ 
+ 
+17.Which of the following statements best characterizes the differences between the Ho-Lee
+model with drift and the lognormal model with drift?
+A.In the Ho-Lee model and the lognormal model the drift terms are multiplicative.
+B.In the Ho-Lee model and the lognormal model the drift terms are additive.
+C.In the Ho-Lee model the drift terms are multiplicative, but in the lognormal model the drift
+terms are additive.
+D.In the Ho-Lee model the drift terms are additive, but in the lognormal model the drift terms
+are multiplicative.
+参考答案：D
+【莽学解析】The Ho-Lee model with drift is very flexible, allowing the drift terms each period
+to vary. Hence, the cumulative effect is additive. In contrast, the lognormal model with drift
+allows the drift terms to vary, but the cumulative effect is multiplicative.
+ 
+18.Which of the following statements about callable bonds compared to non-callable bonds is
+false?
+A.They have less price volatility.
+B.They have negative convexity.
+C.Capital gains are capped as yields rise.
+D.At low yields, reinvestment rate risk rises.
+参考答案：C
+【莽学解析】Callable bonds have the following characteristics:Less price volatility.Negative
+convexity.Capital gains are capped as yields fall.Exhibit increased reinvestment rate risk when
+yields fall.
+ 
+19.Regarding the pricing of fixed-income investments with binomial trees, a risk-neutral
+approach assumes that the value of the asset:
+A.Does not change
+B.Changes in a random way
+C.Grows at the risk-free rate
+D.Grows at the rate of expected returns.
+参考答案：C
+【莽学解析】A risk-neutral approach is one in which the value of the underlying asset is
+assumed to grow at the risk-free rate.
+ 
+20.Tuckman's Model 1 assumes zero drift and is also called a normal model. His Model 2 adds a
+term for drift. Each of the following is true about these two models, according to Tuckman,
+EXCEPT for:
+A.A weakness of Model 1 (normal model) is that the short-term rate can become negative
+B.Model 1 implies a term structure that is perfectly flat at the current rate for all
+maturities, including the long-term rates
+C.Model 2 is more capable of producing an upward-sloping term structure, which is often
+observed
+D.Model 2 is an equilibrium model, rather than an arbitrage-free model, because no attempt is
+made to match the term structure closely
+参考答案：B
+【莽学解析】Model 1 implies a structure, but only in the near term: convexity effects produce a
+downward-sloping term structure in the overall
+ 
+21.The Black-Scholes-Merton option pricing model is not appropriate for valuing options on
+corporate bonds because corporate bonds:
+A.have credit risk.
+B.have an upper price bound.
+C.have constant price volatility.
+D.are not priced by arbitrage.
+参考答案：B
+【莽学解析】The Black-Scholes-Merton model cannot be used for the valuation of fixed-income
+securities because it makes the following assumptions, which are not reasonable for valuing
+fixed-income securities:●There is no upper price bound.●The risk-free rate is constant.●Bond
+volatility is constant.
+ 
+22.A risk manager is pricing a 10-year call option on 10-year Treasuries using a successfully
+tested pricing model. Current interest rate volatility is high and the risk manager is
+concerned about the effect this may have on short-term rates when pricing the option. Which of
+the following actions would best address the potential for negative short-term interest rates
+to arise in the model?
+A.The risk manager uses a normal distribution of interest rates.
+B.When short-term rates are negative, the risk manager adjusts the risk-neutral probabilities.
+C.When short-term rates are negative, the risk manager increases the volatility.
+D.When short-term rates are negative, the risk manager sets the rate to zero.
+参考答案：D
+【莽学解析】Negative short-term interest rates can arise in models for which the terminal
+distribution of interest rates follows a normal distribution. The existence of negative
+interest rates does not make much economic sense since market participants would generally not
+lend cash at negative interest rates when they can hold cash and earn a zero return. One method
+that can be used to address the potential for negative interest rates when constructing
+interest rate trees is to set all negative interest rates to zero. This localizes the change in
+assumptions to points in the distribution corresponding to negative interest rates and
+preserves the original rate tree for all other observations. In comparison, adjusting the risk
+neutral probabilities would alter the dynamics across the entire range of interest rates and
+therefore not be an optimal approach. When a model displays the potential for negative short-
+term interest rates, it can still be a desirable model to use in certain situations, especially
+in cases where the valuation depends more on the average path of the interest rate, such as in
+valuing coupon bonds. Therefore, the potential for negative rates does not automatically rule
+out the use of the model.
+ 
+23.An analyst is building a short-term interest rate tree according to the Vasicek Model which
+is characterized by mean reversion. t = 1/12. The current short-term rate is 8.00%. The annual
+volatility is 200bps. The central tendency is 3.00%. The speed of mean reversion is equal to
+0.60. Here is his rate tree:
+ 
+ 
+ 
+ 
+What is the value in the Vasicek tree for Rud?
+A.6.833%
+B.7.513%
+C.8.019%
+D.9.225%
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+24.A risk manager is constructing a term structure model and intends to use the Cox-Ingersoll-
+Roll Model. Which of the following describes this model?
+A.The model presumes that the volatility of the short rate will increase at a predetermined
+rate.
+B.The model presumes that the volatility of the short rate will decline exponentially to a
+constant level.
+C.The model presumes that the basis-point volatility of the short rate will be proportional to
+the rate.
+D.The model presumes that the basis-point volatility of the short rate will be proportional to
+the square root of the rate.
+参考答案：D
+【莽学解析】In the CIR model, the basis-point volatility of the short rate is not independent
+of the short rate as other simpler models assume. The annualized basis-point volatility equals
+and therefore increases as a function of the square root of the rate.
+ 
+25.Which of the following choices correctly characterizes basis point volatility and yield
+volatility as a function of the level of the rate within the lognormal model?
+A.(Basis Point Volatility) Increases,(Yield Volatility) constant
+B.(Basis Point Volatility) Increases,(Yield Volatility) decreases
+C.(Basis Point Volatility) decreases,(Yield Volatility) constant
+D.(Basis Point Volatility) decreases,(Yield Volatility) decreases
+参考答案：A
+【莽学解析】Choices B and D can be eliminated because yield volatility is constant. Basis point
+volatility under the CIR model increases at a decreasing rate, whereas basis point volatility
+under the lognormal model increases linearly. Therefore, basis point volatility is an
+increasing function for both models.
+ 
+26.Which of the following statements regarding the differences between Basel I, Basel II.5, and
+the Fundamental Review of the Trading Book (FRTB) for market risk capital calculations is
+incorrect?
+A.Both Basel I and Basel II.5 require calculation of VaR with a 99% confidence interval.
+B.FRTB requires the calculation of expected shortfall with a 97.5% confidence interval.
+C.FRTB requires adding a stressed VaR measure to complement the expected shortfall calculation.
+D.The 10-day time horizon for market risk capital proposed under Basel I incorporates a recent
+period of time, which typically ranges from one to four years.
+参考答案：C
+【莽学解析】Basel I and Basel II.5 use VaR with a 99% confidence interval and the FRTB uses the
+expected shortfall with a 97.5% confidence interval. Basel I market risk capital requirements
+produced a very current result because the 10-day horizon incorporated a recent period of time.
+The FRTB does not require adding a stressed VaR to the expected shortfall calculation. It was
+Basel II.5 that required the addition of a stressed VaR.
+ 
+27.What is the difference between using a 95% value at risk (VaR) and a 95% expected shortfall
+(ES) for a bond portfolio with $825 million in assets and a probability of default of 3%?
+A.Both measures will show the same result.
+B.The VaR shows a loss of $495 million while the expected shortfall shows no loss.
+C.The VaR shows no loss while the expected shortfall shows a $495 million loss.
+D.The VaR shows no loss while the expected shortfall shows a $395 million loss.
+参考答案：C
+【莽学解析】The VaR measure would show a $0 loss because the probability of default is less
+than 5%. Having a 3% probability means that three out of five times, in the tail, the portfolio
+will experience a total loss. The potential loss is $495 million(= 3/5 x $825 million).
+ 
+28.Which of the following statements represents a criteria for classifying an asset into the
+trading book?
+I. The bank must be able to physically trade the asset.
+II. The risk of the asset must be managed by the bank's trading desk.
+A.I only.
+B.II only.
+C.Both I and II.
+D.Neither I nor II.
+参考答案：C
+【莽学解析】The criteria for classification as a trading book asset are: (1) the bank must be
+able to physically trade the asset, and (2) the bank must manage the associated risks on the
+trading desk.
+ 
+29.Which of the following statements comparing VaR with expected shortfall is true?
+A.Expected shortfall is sub-additive while VaR is not.
+B.Both VaR and expected shortfall measure the amount of capital an investor can expect to lose
+over a given time period and are, therefore, interchangeable as risk measures.
+C.Both VaR and expected shortfall depend on the assumption of a normal distribution of returns.
+D.VaR can vary according to the confidence level selected, but expected shortfall will not.
+参考答案：A
+【莽学解析】VaR measures the expected amount of capital one can expect to lose within a given
+confidence level over a given period of time. One of the problems with VaR is that it does not
+provide information about the expected size of the loss beyond the VaR. VaR is often
+complemented by the expected shortfall, which measures the expected loss conditional on the
+loss exceeding the VaR. Note that since expected shortfall is based on VaR, changing the
+confidence level may change both measures. A key difference between the two measures is that
+VaR is not sub-additive, meaning that the risk of two funds separately may be lower than the
+risk of a portfolio where the two funds are combined. Violation of the sub-additive assumption
+is a problem with VaR that does not exist with expected shortfall.
+ 
+30.Which of the following risks is specifically recognized by the incremental risk charge
+(IRC)?
+A.Expected shortfall risk, because it is important to understand the amount of loss potential
+in the tail.
+B.jump-to-default risk, as measured by 99.9% VaR, because a default could cause a significant
+loss for the bank.
+C.Equity price risk, because a change in market prices could materially impact mark-to-market
+accounting for risk.
+D.Interest rate risk, as measured by 97.5% expected shortfall, because an increase in interest
+rates could cause a significant loss for the bank.
+参考答案：B
+【莽学解析】The two types of risk recognized by the incremental risk charge are: (1) credit
+spread risk, and (2) jump-to-default risk. Jump-to-default risk is measured by 99.9% VaR and
+not 97.5% expected shortfall.
+ 
+31.Expected shortfall is generally suggested as a better alternative than VaR during market
+turmoil. Which of the following statements regarding VaR and ES is true?
+A.ES leads to more required economic capital than VaR does for the same confidence level.
+B.While VaR ensures that the estimate of portfolio risk is less than or equal to the sum of the
+risks of that portfolio’s positions, ES does not.
+C.Both VaR and ES account for the severity of losses beyond the confidence threshold.
+D.ES is relatively easier to backtest than VaR.
+参考答案：A
+【莽学解析】ES is slowly gaining popularity among financial risk managers. Despite criticism
+focused on the complexity, computational burden, and backtesting issues associated with
+expected shortfall, the recent literature suggests that many issues have been resolved or have
+been identified as less severe than originally expected, including improvements in backtesting
+methodologies. VaR has been criticized for its lack of subadditivity. Expected shortfall is
+subadditive.
+ 
+32.In estimating correlation matrices, risk managers often assume an underlying distribution
+for the correlations. Which of the following statements most accurately describes the best-fit
+distributions for equity correlation distributions, bond correlation distributions, and default
+probability correlation distributions? The best-fit distribution for the equity, bond, and
+default probability correlation distributions, respectively are:
+A.lognormal, generalized extreme value, and normal.
+B.Johnson SB, generalized extreme value, and Johnson SB.
+C.beta, normal, and beta.
+D.Johnson SB, normal, and beta.
+参考答案：B
+【莽学解析】Equity correlation distributions and default probability correlation distributions
+are best fit with the Johnson SB distribution. Bond correlation distributions are best fit with
+the generalized extreme value distribution.
+ 
+33.In May of 2005, several large hedge funds had speculative positions in the collateralized
+debt obligations (CDOs) tranches. These hedge funds were forced into bankruptcy due to the lack
+of understanding of correlations across tranches. Which of the following statements best
+describes the positions held by hedge funds at this time and the role of changing correlations?
+Hedge funds held:
+A.a long equity tranche and short mezzanine tranche when the correlations in both tranches
+decreased.
+B.a short equity tranche and long mezzanine tranche when the correlations in both tranches
+increased.
+C.a short senior tranche and long mezzanine tranche when the correlation in the mezzanine
+tranche increased.
+D.a long mezzanine tranche and short equity tranche when the correlation in the mezzanine
+tranche decreased.
+参考答案：A
+【莽学解析】A number of large hedge funds were long on the CDO equity tranche and short on the
+CDO mezzanine tranche. Following the change in bond ratings for Ford and General Motors, the
+equity tranche spread increased dramatically. This caused losses on the short equity tranche
+position.
+At the same time, the correlation decreased for CDOs in the mezzanine tranche, which led to
+losses in the mezzanine tranche.
+ 
+34.Suppose a creditor makes a $4 million loan to company X and a $4 million loan to company Y.
+Based on historical information of companies in this industry, companies X and Y each have a 7%
+default probability and a default correlation coefficient of 0.6. The expected loss for this
+creditor under the worst case scenario assuming loss given default is 100% is closest to:
+A.$280,150.
+B.$351,680.
+C.$439,600.
+D.$560,430.
+参考答案：B
+【莽学解析】
+ 
+ 
+Thus, the expected loss for the worst case scenario for the creditor is:
+EL=0.04396×$8,000,000=$351,680
+ 
+35.Suppose a risk manager examines the correlations and correlation volatility of stocks in the
+Dow jones Industrial Average (Dow) for the period beginning in 1972 and ending in 2012.
+Expansionary periods are defined as periods where the U.S. gross domestic product (GDP) growth
+rate is greater than 3.5%, periods are normal when the GDP growth rates are between 0 and 3.5%,
+and recessions are periods with two consecutive negative GOP growth rates. Which of the
+following statements characterizes correlation and correlation volatilities for this sample?
+The risk manager will most likely find that
+A.correlations and correlation volatility are highest for recessions.
+B.correlations and correlation volatility are highest for expansionary periods.
+C.correlations are highest for normal periods, and correlation volatility is highest for
+recessions.
+D.correlations are highest for recessions, and correlation volatility is highest for normal
+periods.
+参考答案：D
+【莽学解析】Findings of an empirical study of monthly correlations of Dow stocks from 1972 to
+2012 revealed the highest correlation levels for recessions and the highest correlation
+volatilities for normal periods. The correlation volatilities during a recession and normal
+period were 80.5% and 83.4%, respectively.
+ 
+36.The risk measure that extracts the dependence structure from the joint distribution function
+created from several continuous marginal distribution functions is known as a:
+A.Copula
+B.Volatility
+C.Correlation
+D.Multivariate correlation
+参考答案：A
+【莽学解析】A copula is a risk measure that extracts the dependence structure from the joint
+distribution function created from several continuous marginal distribution functions.
+ 
+37.Which of the following measures is most likely an example of a dynamic financial correlation
+measure?
+A.Pairs trading.
+B.Value at risk (VaR).
+C.Binomial default correlation model.
+D.Correlation copulas for collateralized debt obligations (CDOs).
+参考答案：A
+【莽学解析】Dynamic financial correlations measure the comovement of assets over time. Examples
+of dynamic financial correlations are pairs trading, deterministic correlation approaches, and
+stochastic correlation processes. The other choices are examples of static financial
+correlations.
+ 
+38.A risk manager uses the past 480 months of correlation data from the Dow Jones Industrial
+Average (Dow) to estimate the long-run mean correlation of common stocks and the mean reversion
+rate. Based on historical data, the long-run mean correlation of Dow stocks was 34%, and he
+regression output estimates the following regression relationship: Y = 0.215 - 0.77X. Suppose
+that in April 2014, the average monthly correlation for all Dow stocks was 33%. What is the
+estimated one-period autocorrelation for this time period based on the mean reversion rate
+estimated in the regression analysis?
+A.23%
+B.26%
+C.30%
+D.33%
+参考答案：A
+【莽学解析】The autocorrelation for a one-period lag is 23% for the same sample. The sum of the
+mean reversion rate (77% given the beta coefficient of -0.77) and the one-period
+autocorrelation rate will always equal 100%.
+ 
+39.The relationship of correlation risk to credit risk is an important area of concern for risk
+managers. Which of the following statements regarding default probabilities and default
+correlations is incorrect?
+A.Creditors benefit by diversifying exposure across industries to lower the default
+correlations of debtors.
+B.The default term structure increases with time to maturity for most?investment grade bonds.
+C.The probability of default is higher in the long-term time horizon for non-investment grade
+bonds.
+D.For non-investment grade bonds , the probability of default is higher in the immediate time
+horizon.
+参考答案：C
+【莽学解析】The probability of default is higher in the immediate time horizon for?non-
+investment grade bonds. The probability of default decreases over?time if the company survives
+the near-term distressed situation.
+ 
+40.Suppose mean reversion exists for a variable with a value of 30 at time period t – 1.
+Assume that the long-run mean value for this variable is 40 and ignore the stochastic term
+included in most regressions of financial data. What is the expected change in value of the
+variable for the next period if the mean reversion rate is 0.4.
+A.-10
+B.-4
+C.4
+D.10
+参考答案：C
+【莽学解析】The mean reversion rate, α, indicates the speed of the change or reversion back to
+the mean. If the mean reversion rate is 0.4 and the difference between the last variable and
+long-run mean is 10 (= 40 – 30), the expected change for the next period is 4 (i.e., 0.4×10 =
+4)
+ 
+41.Suppose a risk manager creates a copula function, C, defined by the equation:
+ 
+ 
+Which of the following statements does not accurately describe this copula function?
+A.Gi  (ui)are standard normal univariate distributions.
+B.Fn is the joint cumulative distribution function.
+C.F1 is the inverse function of Fn that is used in the mapping process.
+D.ρF is the correlation matrix structure of the joint cumulative function Fn.
+参考答案：A
+【莽学解析】Gi (ui )  are marginal distributions that do not have well-known distribution
+properties.
+ 
+42.New copula correlation models were used by traders and risk managers during the 2007-2009
+global financial crisis. This led to miscalculations in the underlying risk for structured
+products such as collateralized debt obligation (CDO) models. Which of the following statements
+least likely explains the failure of these new copula correlation models during the financial
+crisis?
+A.The copula correlation models assumed a negative correlation between the equity and senior
+tranches of CDOs.
+B.Correlations for equity tranches of CDOs increased during the financial crisis.
+C.The correlation copula models were calibrated with data from time periods that had low risk.
+D.Correlations for senior tranches of CDOs decreased during the financial crisis.
+参考答案：D
+【莽学解析】During the crisis, the correlations for both the equity and senior tranches of CDOs
+significantly increased causing losses in value for both.
+ 
+43.Which of the following statements best describes a Gaussian copula?
+A.A major disadvantage of a Gaussian copula model is the transformation of the original
+marginal distributions in order to define the correlation matrix.
+B.The mapping of each variable to the new distribution is done by defining a mathematical
+relationship between marginal and unknown distributions.
+C.A Gaussian copula maps the marginal distribution of each variable to the standard normal
+distribution.
+D.A Gaussian copula is seldom used in financial models because ordinal numbers are required.
+参考答案：C
+【莽学解析】Observations of the unknown marginal distributions are mapped to the standard
+normal distribution on a percentile-to-percentile basis to create a Gaussian copula.
+ 
+44.Suppose an individual buys a correlation swap with a fixed correlation of 0.2 and a notional
+value of $1 million for one year. The realized pairwise correlations of the daily log returns
+at maturity for three assets are ρ1,2= 0.7, ρ3,1 = 0.2, and ρ3,2 = 0.3. What is the
+correlation swap buyer's payoff at maturity?
+A.$100,000.
+B.$200,000.
+C.$300,000.
+D.$400,000.
+参考答案：B
+【莽学解析】
+ 
+The payoff for the correlation buyer is then calculated as:
+$1,000,000 × (0.4－0.2) = $200,000
+ 
+45.A risk manager uses the past 480 months of correlation data from the Dow Jones Industrial
+Average (Dow) to estimate the long-run mean correlation of common stocks and the mean reversion
+rate. Based on historical data, the long-run mean correlation of Dow stocks was 32%, and the
+regression output estimates the following regression relationship: Y = 0.215 – 0.75X. Suppose
+that in April 2014, the average monthly correlation for all Dow stocks was 36%. What is the
+expected correlation for May 2014 assuming the mean reversion rate estimated in the regression
+analysis?
+A.32%
+B.33%
+C.35%
+D.37%
+参考答案：B
+【莽学解析】There is a -4% difference from the long-run mean correlation and April 2014
+correlation (32% - 36% = -4%). The inverse of the β coefficient in the regression relationship
+implies a mean reversion rate of 75%. Thus, the expected correlation for May 2014 is 33%:
+St=0.75(32%－36%)＋ 0.36=0.33
+ 
+46.Assume that a trader is making a relative value trade, selling a U.S. Treasury bond and
+correspondingly purchasing a U.S. Treasury TIPS. Based on the current spread between the two
+securities, the trader shorts $100 million of the nominal bond and purchases $89.8 million of
+TIPS. The trader then starts to question the amount of the hedge due to changes in yields on
+TIPS in relation to nominal bonds. He runs a regression and determines from the output that the
+nominal yield changes by 1.0274 basis points per basis point change in the real yield. Would
+the trader adjust the hedge, and if so, by how much?
+A.No.
+B.Yes, by $2.46 million (purchase additional TIPS)
+C.Yes, by $2.5 million (sell a portion of the TIPS)
+D.Yes, by $2.11 million (Purchase additional TIPS)
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+47.Assume that a trader is making a relative value trade, selling a U.S. Treasury bond and
+correspondingly purchasing a U.S. Treasury TIPS. Based on the current spread between the two
+securities, the trader shorts $100 million of the nominal bond and purchases $89.8 million of
+TIPS. The trader then starts to question the amount of the hedge due to changes in yields on
+TIPS in relation to nominal bonds. He runs a regression and determines from the output that the
+nominal yield changes by 1.0274 basis points per basis point change in the real yield. Would
+the trader adjust the hedge, and if so, by how much?
+A.No
+B.Yes, by $2.46 million (purchase additional TIPS)
+C.Yes, by $2.5 million (sell a portion of the TIPS)
+D.Yes, by $2.11 million (Purchase additional TIPS)
+参考答案：B
+【莽学解析】The trader would need to adjust the hedge as follow:
+$89.8 million×1.0274 = $92.26 million
+Thus, the trader needs to purchase additional TIPS worth $2.46 million.
+ 
+48.If a trader is creating a fixed income hedge, which hedging methodology would be least
+effective if the trader is concerned about the dispersion of the change in the nominal yield
+for a particular change in the real yield?
+A.One-variable regression hedge.
+B.DV01 hedge
+C.Two-variable regression hedge.
+D.Principal components hedge.
+参考答案：B
+【莽学解析】The DV01 hedge assumes that the yield on the bond and the assumed hedging
+instruments rises and falls by the same number of basis points; so with a DV01 hedge, there is
+not much the trader can do to allow for dispersion between nominal and real yields.
+ 
+49.What is the primary difference between historical simulation and bootstrapped historical
+simulation?
+A.Bootstrapping is non-parametric.
+B.Bootstrapping can be used to compute both value at risk (VaR) and expected shortfall (ES).
+C.Bootstrapping does not require a variance-covariance matrix.
+D.Bootstrapping generates multiple samples.
+参考答案：D
+【莽学解析】In regard to (A), (B) and (C), each are true of both HS and bootstrapped HS (so
+they are not differences). But while historical simulation computes based on the single sample,
+bootstrapping generates multiple samples where each sample is drawn with replacement from the
+original historical data.
+ 
+50.Which of the following statements comparing VaR with expected shortfall is true?
+A.Expected shortfall is sub-additive while VaR is not.
+B.Both VaR and expected shortfall measure the amount of capital an investor can expect to lose
+over a given time period and are, therefore, interchangeable as risk measures.
+C.Both VaR and expected shortfall depend on the assumption of a normal distribution of returns.
+D.VaR can vary according to the confidence level selected, but expected shortfall will not.
+参考答案：A
+【莽学解析】VaR measures the expected amount of capital one can expect to lose within a given
+confidence level over a given period of time. One of the problems with VaR is that it does not
+provide information about the expected size of the loss beyond the VaR. VaR is often
+complemented by the expected shortfall, which measures the expected loss conditional on the
+loss exceeding the VaR. Note that since expected shortfall is based on VaR, changing the
+confidence level may change both measures. A key difference between the two measures is that
+VaR is not sub-additive, meaning that the risk of two funds separately may be lower than the
+risk of a portfolio where the two funds are combined. Violation of the sub-additive assumption
+is a problem with VaR that does not exist with expected shortfall.
+ 
+51.Which of the following statements is not an advantage of spectral risk measures over
+expected shortfall? Spectral risk measures:
+A.consider a manager's aversion to risk.
+B.are a special case of expected shortfall measures.
+C.have the ability to modify the risk measure to reflect an investor's specific risk aversion.
+D.have better smoothness properties when weighting observations.
+参考答案：B
+【莽学解析】Spectral risk measures consider aversion to risk and offer better smoothness
+properties. Expected shortfall is a special case of spectral risk measures.
+ 
+52.A risk manager is analyzing a 1-day 98% VaR model. Assuming 252 days in a year, what is the
+maximum number of daily losses exceeding the 1-day 98% VaR that is acceptable in a 1-year
+backtest to conclude, at a 95% confidence level, that the model is calibrated correctly?
+A.5
+B.9
+C.10
+D.12
+参考答案：B
+【莽学解析】
+So the maximum number of exceedances would be 9 to conclude that the model is calibrated
+correctly.
+ 
+53.A risk analyst is comparing the use of parametric and non-parametric approaches for
+calculating VaR and is concerned about some of the characteristics present in the loss data.
+Which of the following distribution characteristics would make parametric approaches the
+favored method to use?
+A.Skewness in the distribution
+B.Fat tails in the distribution
+C.Scarcity of high magnitude loss events.
+D.Heteroskedasticity in the distribution
+参考答案：C
+【莽学解析】Non-parametric approaches can accommodate fat tails, skewness, and any other non-
+normal features that can cause problems for parametric approaches. However, if the data period
+that is used in estimation includes few losses or losses with low magnitude, non-parametric
+methods will often produce risk measures that are too low. Hence, parametric methods would be
+more appropriate in those situations.
+ 
+54.What type of liquidity risk is most troublesome for complex trading positions?
+A.Endogenous.
+B.Market-specific.
+C.Exogenous.
+D.Spectral.
+参考答案：A
+【莽学解析】Endogenous liquidity risk is especially relevant for complex trading positions
+ 
+55.Which of these statements regarding risk factor mapping approaches is/are correct?
+Ⅰ. Under the cash flow mapping approach, only the risk associated with the average maturity of
+a fixed-income portfolio is mapped.
+Ⅱ. Cash flow mapping is the least precise method of risk mapping for a fixed-income portfolio.
+Ⅲ. Under the duration mapping approach, the risk of a bond is mapped to a zero-coupon bond of
+the same duration.
+Ⅳ. Using more risk factors generally leads to better risk measurement but also requires more
+time to be devoted to the modeling process and risk computation.
+A.I and II
+B.I, III, and IV
+C.III and IV
+D.IV only
+参考答案：C
+【莽学解析】Under the cash flow mapping approach, each payment (and not only the last one) is
+associated with a different risk factor, so statement I. is incorrect. Statement II.is
+incorrect because the CF mapping approach is more correct than duration or maturity mapping.
+ 
+56.Computing VaR on a portfolio containing a very large number of positions can be simplified
+by mapping these positions to a smaller number of elementary risk factors. Which of the
+following mappings would be adequate?
+A.USD\/EUR forward contracts are mapped on the USD\/JPY spot exchange rate.
+B.Each position in a corporate bond portfolio is mapped on the bond with the closest maturity
+among a set of government bonds.
+C.Government bonds paying regular coupons are mapped on zero-coupon government bonds.
+D.A position in the stock market index is mapped on a position in a stock within that index.
+参考答案：C
+【莽学解析】Mapping government bonds paying regular coupons onto zero coupon government bonds
+is an adequate process, because both categories of bonds are government issued and therefore
+have a very similar sensitivity to risk factors. However, this is not a perfect mapping since
+the sensitivity of both classes of bonds to specific risk factors (i.e., changes in interest
+rates) may differ.
+ 
+57.Unconditional testing does not reflect:
+A.the size of the portfolio.
+B.the number of exceptions.
+C.the confidence level chosen.
+D.the timing of the exceptions.
+参考答案：D
+【莽学解析】Unconditional testing does not capture the timing of exceptions.
+ 
+58.The Basel Committee has established four categories of causes for exceptions. Which of the
+following does not apply to one of those categories?
+A.The sample is small.
+B.lntraday trading activity.
+C.Model accuracy needs improvement.
+D.The basic integrity of the model is lacking.
+参考答案：A
+【莽学解析】Causes include the following: bad luck, intraday trading activity, model accuracy
+needs improvement, and the basic integrity of the model is lacking.
+ 
+59.Basel II requires a backtest at a 99% confidence level of a bank's internal value at risk
+(VaR) model (IMA). Assume the bank's ten-day 99% VaR is $1 million (minimum of 99% is hard-
+wired per Basel). The null hypothesis is: the VaR model is accurate. Out of 1,000 observations,
+25 exceptions are observed (we saw the actual loss exceed the VaR 25 out of 1000 observations).
+A.We will probably call the VaR model good (accurate) but we risk a Type I error.
+B.We will probably call the VaR model good (accurate) but we risk a Type II error.
+C.We will probably call the model bad (inaccurate) but we risk a Type I error.
+D.We will probably call the model bad (inaccurate) but we risk a Type II error.
+参考答案：C
+【莽学解析】We reject the model. Null = good model. To decide the model is bad model is to
+reject null and this implies a risk of type I error.
+ 
+60.In setting the threshold in the POT approach, which of the following statements is the most
+accurate? Setting the threshold relatively high makes the model:
+A.More applicable but decreases the number of observations in the modeling procedure.
+B.Less applicable and decreases the number of observations in the modeling procedure.
+C.More applicable but increases the number of observations in the modeling procedure.
+D.Less applicable but increases the number of observations in the modeling procedure.
+参考答案：A
+【莽学解析】There is a trade-off in setting the threshold. It must be high enough for the
+appropriate theorems to hold, but if set too high; there will not be enough observations to
+estimate the parameters.
+ 
+61.The peaks-over-threshold approach generally requires:
+A.More estimated parameters than the GEV approach and shares one parameter with the GEV
+B.Fewer estimated parameters than the GEV approach and shares one parameter with the GEV
+C.More estimated parameters than the GEV approach and does not share any parameters with the
+GEV approach.
+D.Fewer estimated parameters than the GEV approach and does not share any parameters with the
+GEV approach.
+参考答案：B
+【莽学解析】Answer: BThe POT approach generally has fewer parameters, but both POT and GEV
+approaches share the shape parameter ξ. Typical financial data have ξ>0, which implies fat
+tails.
+ 
+62.All of the following approaches improve the traditional historical simulation approach for
+estimating VaR except the:
+A.Volatility-weighted historical simulation.
+B.Age-weighted historical simulation.
+C.Market-weighted historical simulation.
+D.Correlation-weighted historical simulation.
+参考答案：C
+【莽学解析】Age-weighted historical simulation weights observations higher when they appear
+closer to the event date. Volatility-weighted historical simulation adjusts for changing
+volatility levels in the data. Correlation-weighted historical simulation incorporates
+anticipated changes in correlation between assets in the portfolio.
+ 
+63.Mill Street Bank has accumulated a long history of loan returns. Mill Street believes that
+the underlying distribution of loan returns should follow a normal distribution with a mean of
+ten and a standard deviation of three. The following table identifies tail VaRs at different
+confidence levels. Assume the initial analysis uses five tail slices. Calculate the expected
+shortfall at the 95% confidence level and identify the effect on ES when the number of tail
+slices increases.
+ 
+ 
+A.（ExpectedShortfall）3.72;(IncreasingSlices) ES increases
+B.（Expected Shortfall）3.72;(Increasing Slices)  ES decreases
+C.（Expected Shortfall）3.90;(Increasing Slices)  ES increases
+D.（Expected Shortfall）3.90;(Increasing Slices)  ES decreases
+参考答案：C
+【莽学解析】The expected shortfall calculation takes the average of the expected shortfalls at
+varying confidences in the tail region. Since we are told that there are only five tail slices,
+there will be four (i.e., n-1) VaR quantiles. Therefore, S = [(3.25＋  3.6＋ 4.00＋ 4.75) / (5
+- 1)] = 3.90. Note that the tail VaR at 95% is not included in the calculation since ES is the
+average loss beyond 5% VaR. In addition, as the number of tail slices increases, the average ES
+will increase as the number of higher confidence tail VaRs increases.
+ 
+64.Which of the following methods is not one of the three approaches for mapping a portfolio of
+fixed-income securities onto risk factors ?
+A.Principle mapping
+B.Duration mapping
+C.Cash flow mapping
+D.Present value mapping
+参考答案：D
+【莽学解析】Present value mapping is not one of the approaches.
+ 
+65.There is a short position in 1-year bonds with a $150 million face value and a 6% annual
+interest rate, with interest paid semiannually. The annualized interest rate on zero-coupon
+bonds is 3.8% for a 6-month maturity and 4.1% for a 12-month maturity. Decompose the bond into
+the cash flows of the two standard instruments, and then determine the present value of the
+cash flows of the standard instruments. What are the present values of each cash flow?
+A.（PV of CF1）-$4,117,945；（PV of CF2） -$139,882,651
+B.（PV of CF1）-$4,226,094；（PV of CF2） -$143,793,919
+C.（PV of CF1）-$4,416,094 ；（PV of CF2）-$148,414,986
+D.（PV of CF1）-$4,879,542；（PV of CF2） -$144,244,783
+参考答案：C
+【莽学解析】The standard instruments are -150,000,000×(0.06/2) = -$4,500,000 for six months,
+and -$4,500,000 – $150,000,000 = -$154,500,000 for 12 months. The present values are -
+$4,500,000/1.019 = -$4,416,094 and -$154,500,000/1.041 = -$148,414,986
+ 
+66.Assume the profit/loss distribution for XYZ is normally distributed with an annual mean of
+$20 million and a standard deviation of $10 million. The 5% VaR is calculated and interpreted
+as which of the following statements?
+A.5% probability of losses of at least $3.50 million.
+B.5% probability of earnings of at least $3.50 million.
+C.95% probability of losses of at least $3.50 million.
+D.95% probability of earnings of at least $3.50 million.
+参考答案：D
+【莽学解析】The value at risk calculation at 95% confidence is: -20 million＋1.65×10 million=
+-$3.50 million. Since the expected loss is negative and VaR is an implied negative amount, the
+interpretation is that XYZ will earn less than ＋$3.50 million with 5% probability, which is
+equivalent to XYZ earning at least ＋$3.50 million with 95% probability.
+ 
+67.Extreme value theory (EVT) can assist with value at risk (VaR) calculations by providing
+better probability estimates of observing extreme losses than that indicated by a standard
+normal distribution because empirical distributions exhibit fat tails. If one uses the
+generalized Pareto distribution (GPD method to generate parameter estimates for the shape
+parameter, fat tails will indicate a:
+A.positive parameter estimate and VaR calculations that are too large
+B.negative parameter estimate and VaR calculations that are too small
+C.positive parameter estimate and VaR calculations that are too small
+D.negative parameter estimate and VaR calculations that are too large
+参考答案：C
+【莽学解析】Fat tails will generate a positive shape parameter, which indicates that VaR
+estimates are probably too small.
+ 
+68.A mutual fund has USD 50 billion in assets. The risk manager computes the daily VaR at
+various confidence levels as follow:
+ 
+ 
+What is the closest estimate of the daily expected shortfall at the 97.5% confidence level?
+A.USD 821 million
+B.USD 895 million
+C.USD 919 million
+D.USD 1,023 million
+参考答案：D
+【莽学解析】An estimate of the expected shortfall can be obtained by taking the average of the
+VaRs for the various confidence levels that are greater than 97.5%. This leads to an estimate
+of USD 1,022,750,000.
+ 
+69.Which of the following statements about expected shortfall estimates and coherent risk
+measures are true?
+A.Expected shortfall and coherent risk measures estimate quantiles for the entire loss
+distribution.
+B.Expected shortfall and coherent risk measures estimate quantiles for the tail region.
+C.Expected shortfall estimates quantiles for the tail region and coherent risk measures
+estimate quantiles for the non-tail region only.
+D.Expected shortfall estimates quantiles for the entire distribution and coherent risk measures
+estimate quantiles for the tail region only.
+参考答案：B
+【莽学解析】ES estimates quantiles for n-1 equal probability masses in the tail region only.
+The coherent risk measure estimates quantiles for the entire distribution including the tail
+region.
+ 
+70.A risk manager is backtesting a sample at the 95% confidence level to see if a VaR model
+needs to be recalibrated. He is using 252 daily returns for the sample and discovered 17
+exceptions. What is the Z-Score for this sample when conducting VaR model verification?
+A.0.62
+B.1.27
+C.1.64
+D.2.86
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+71.What is a key weakness of the value at risk (VaR) measure? VaR:
+A.does not consider the severity of losses in the tail of the returns distribution.
+B.is quite difficult to compute.
+C.is sub-additive.
+D.has an insufficient amount of back-testing data.
+参考答案：A
+【莽学解析】VaR does not consider losses beyond the VaR threshold level.
+ 
+72.Which of the following statements most likely increases standard errors from coherent risk
+measures?
+A.Increasing sample size and increasing the left tail probability.
+B.Increasing sample size and decreasing the left tail probability.
+C.Decreasing sample size and increasing the left tail probability.
+D.Decreasing sample size and decreasing the left tail probability.
+参考答案：C
+【莽学解析】
+ 
+ 
+As the left tail probability, p, increases, the probability of tail events increases, which
+also increases the standard error. Mathematically, p(1- p) increases as p increases until p =
+0.5. Small values of p imply smaller standard errors.
+ 
+73.Which of these statements regarding risk factor mapping approaches is/are correct?
+I. Under the cash flow mapping approach, only the risk associated with the average maturity of
+a fixed-income portfolio is mapped.
+II. Cash flow mapping is the least precise method of risk mapping for a fixed-income portfolio.
+III. Under the duration mapping approach, the risk of a bond is mapped to a zero-coupon bond of
+the same duration.
+IV. Using more risk factors generally leads to better risk measurement but also requires more
+time to be devoted to the modeling process and risk computation.
+A.I and II
+B.I, III, and IV
+C.III and IV
+D.IV only
+参考答案：C
+【莽学解析】Under the cash flow mapping approach, each payment (and not only the last one) is
+associated with a different risk factor, so statement I. is incorrect. Statement II.is
+incorrect because the CF mapping approach is more correct than duration or maturity mapping.
+ 
+74.The quantile-quantile plot is best used for what purpose?
+A.Testing an empirical distribution from a theoretical distribution.
+B.Testing a theoretical distribution from an empirical distribution.
+C.Identifying an empirical distribution from a theoretical distribution.
+D.Identifying a theoretical distribution from an empirical distribution.
+参考答案：C
+【莽学解析】Once a sample is obtained, it can be compared to a reference distribution for
+possible identification. The QQ plot maps the quantiles one to one. If the relationship is
+close to linear, then a match for the empirical distribution is found. The QQ plot is used for
+visual inspection only without any formal statistical test.
+75.In modeling extreme values using the generalized extreme value (GEV) distribution, cases
+where the tail index parameter is less than zero:
+A.Cannot be modeled, and they are usually not of interest in financial risk management.
+B.Can be modeled, but they are usually not of interest in financial risk management.
+C.Can be modeled, and they are usually of the most interest in financial risk management.
+D.Cannot be modeled, but would be of interest in financial risk management if they could be
+modeled.
+参考答案：B
+【莽学解析】The case where the tail parameter in a generalized extreme value distribution is
+less than zero, ξ< 0, can be modeled. However, they would be thin-tailed distributions, which
+are usually not part of financial risk modeling.
+ 
+76.A risk manager has estimated a portfolio’s 1-year VaR for various confidence levels as
+shown in the table below:
+ 
+ 
+What is the best estimate of the 1-year 97.5% expected shortfall?
+A.1.9600
+B.2.0537
+C.2.2168
+D.2.2810
+参考答案：D
+【莽学解析】(2.0537+2.1701+2.3263+2.5738)/4 = 2.2810
+ 
+77.According to the Fisher-Tippett theorem, as the sample size n gets large, the distribution
+of extremes converges to:
+A.a normal distribution.
+B.a uniform distribution.
+C.a generalized Pareto distribution.
+D.a generalized extreme value distribution.
+参考答案：D
+【莽学解析】The Fisher-Tippett theorem says that as the sample size n gets large, the
+distribution of extremes, denoted Mn, converges to a generalized extreme value (GEV)
+distribution.
+ 
+78.The lowest six returns for a portfolio are shown in the following table.
+ 
+ 
+What will the 5% VaR be under the hybrid approach?
+A.-3.10%
+B.-3.04%
+C.-2.96%
+D.-2.90%
+参考答案：C
+【莽学解析】The fifth and sixth lowest returns have cumulative weights of 4.81% and 5.08%,
+respectively. The point halfway between these two returns is interpolated as -3.00% with a
+cumulative weight of 4.945%, calculated as follows: (4.81%＋5.08%)/2. Further interpolation is
+required to find the 5th percentile VaR level with a return somewhere between -3.00% and -
+2.90%, so -2.96% is the only possible answer.
+ 
+79.An analyst is using the delta-normal method to determine the VAR of a fixed income
+portfolio. The portfolio contains a long position in 1-year bonds with a $1 million face value
+and a 6% coupon that is paid semiannually. The interest rates on 6- and 12-month maturity zero-
+coupon bonds are 2% and 2.5%, respectively. Mapping the long position to standard positions in
+the 6- and 12-month zeros, respectively, provides which of the following mapped positions?
+A.$29,703 and $1,004,878.
+B.$30,000 and $1,030,000.
+C.$29,500 and $975,610.
+D.$30,300 and $1,035,000.
+参考答案：A
+【莽学解析】
+ 
+80.In setting the threshold in the POT approach, which of the following statements is the most
+accurate? Setting the threshold relatively high makes the model:
+A.More applicable but decreases the number of observations in the modeling procedure.
+B.Less applicable and decreases the number of observations in the modeling procedure.
+C.More applicable but increases the number of observations in the modeling procedure.
+D.Less applicable but increases the number of observations in the modeling procedure.
+参考答案：A
+【莽学解析】There is a trade-off in setting the threshold. It must be high enough for the
+appropriate theorems to hold, but if set too high; there will not be enough observations to
+estimate the parameters.
+ 
+81.The annual mean and volatility of a portfolio are 10% and 40%, respectively. The current
+value of the portfolio is GBP 100,000. How does the 1-year 95% VaR that is calculated using a
+normal distribution assumption (normal VaR) compare with the 1-year 95% VaR that is calculated
+using the lognormal distribution assumption (lognormal VaR)?
+A.Lognormal VaR is greater than normal VaR by GBP 13,040
+B.Lognormal VaR is greater than normal VaR by GBP 17,590
+C.Lognormal VaR is less than normal VaR by GBP 13,040
+D.Lognormal VaR is less than normal VaR by GBP 17,590
+参考答案：C
+【莽学解析】Normal VaR=|0.1-1.645×0.4|=0.558
+Lognormal VaR=1-exp[0.1-1.645×0.4]=0.4276
+Hence, with a portfolio of GBP 100,000 this translates to GBP 13,040.
+ 
+82.The VaR at a 95% confidence level is estimated to be 1.56 from a historical simulation of
+1,000 observations. Which of the following statements is most likely true?
+A.The parametric assumption of normal returns is correct.
+B.The parametric assumption of lognormal returns is correct.
+C.The historical distribution has fatter tails than a normal distribution.
+D.The historical distribution has thinner tails than a normal distribution.
+参考答案：D
+【莽学解析】The historical simulation indicates that the 5% tail loss begins at 1.56, which is
+less than the 1.65 predicted by a standard normal distribution. Therefore, the historical
+simulation has thinner tails than a standard normal distribution.
+
+83.Which of the following statements about volatility-weighting is true?
+A.Historic returns are adjusted, and the VaR calculation is more complicated.
+B.Historic returns are adjusted, and the VaR calculation procedure is the same.
+C.Current period returns are adjusted, and the VaR calculation is more complicated.
+D.Current period returns are adjusted, and the VaR calculation is the same.
+参考答案：B
+【莽学解析】The volatility-weighting method adjusts historic returns for current volatility.
+Specifically, return at time t is multiplied by (current volatility estimate/volatility
+estimate at time t). However, the actual procedure for calculating VaR using a historical
+simulation method is unchanged; it is only the inputted data that changes.
+ 
+84.Which of the following statements is true regarding the bootstrap simulation method used in
+VaR estimation?
+Ⅰ. Bootstrapping uses actual market data
+Ⅱ. The bootstrapping method always uses a time horizon based on the time scale of the
+historical data
+Ⅲ. Bootstrapping is based on synthesis of normally distributed random numbers
+A.I only
+B.II only
+C.I and III
+D.I, II and III
+参考答案：A
+【莽学解析】Bootstrapping uses actual market data. Bootstrapping can be done with data that
+uses the same time line as the one of interest or shorter term data. MC is based on a synthesis
+of normally distributed random numbers.
+ 
+85.The peaks-over-threshold approach generally requires:
+A.More estimated parameters than the GEV approach and shares one parameter with the GEV
+B.Fewer estimated parameters than the GEV approach and shares one parameter with the GEV
+C.More estimated parameters than the GEV approach and does not share any parameters with the
+GEV approach.
+D.Fewer estimated parameters than the GEV approach and does not share any parameters with the
+GEV approach.
+参考答案：B
+【莽学解析】The POT approach generally has fewer parameters, but both POT and GEV approaches
+share the shape parameter ξ. Typical financial data have ξ>0, which implies fat tails.
+ 
+86.With all other things being equal, a risk monitoring system that assumes constant volatility
+for equity returns will understate the implied volatility for which of the following positions
+by the largest amount:
+A.Short position in an at-the-money call.
+B.Long position in an at-the-money call.
+C.Short position in a deep out-of-the-money call.
+D.Long position in a deep in-the-money call.
+参考答案：D
+【莽学解析】A plot of the implied volatility of an option as a function of its strike price
+demonstrates a pattern known as the volatility smile or volatility skew. The implied volatility
+decreases as the strike price increases. Thus, all else equal, a risk monitoring system which
+assumes constant volatility for equity returns will understate the implied volatility for a
+long position in a deep-in-the-money call.
+ 
+87.A risk manager is in the process of valuing several European option positions on a non-
+dividend-paying stock XYZ that is currently priced at GBP 30. The implied volatility skew,
+estimated using the Black-Scholes-Merton model and the current prices of actively traded
+European-style options on stock XYZ at various strike prices, is:
+ 
+ 
+ 
+ 
+ 
+Assuming that the implied volatility at GBP 30 is used to conduct the valuation, which of the
+following long positions will be undervalued?
+A.An out-of-the-money call.
+B.An in-the-money call
+C.An at-the-money put
+D.An in-the-money put
+参考答案：B
+【莽学解析】Answer: B.An in-the-money call has strike price below 30. Therefore, using the
+chart above, its implied volatility is greater than the at-the-money volatility, so using the
+at-the-money implied volatility would result in pricing an in-the-money call option lower than
+its fair price.
+ 
+88.The market price of a European call is $3.00 and its Black-Scholes price is $3.50.The Black-
+Scholes price of a European put option with the same strike price and time to maturity is
+$2.00.What should the market price of this option be?
+A.$1.50
+B.$2.00
+C.$1.00
+D.$0.50
+参考答案：A
+【莽学解析】Based on the put-call parity, cbs + Ke-rT = pbs + S0e-qT and cmkt + Ke-rT = pmkt +
+S0e-qT We can know that:cbs - cmkt = pbs - pmkt And cbs = $3.50, cmkt = $3.00, pbs = $2.00.So
+pmkt = $1.50.Choose A
+ 
+89.Which of the following statements is incorrect regarding volatility smiles?
+A.Currency options exhibit volatility smiles because the at-the-money options have higher
+implied volatility than away-from-the-money options.
+B.Volatility frowns result when jumps occur in asset prices.
+C.Equity options exhibit a volatility smirk because low strike price options have greater
+implied volatility.
+D.Relative to currency traders, it appears that equity traders’ expectations of extreme price
+movements are more asymmetric.
+参考答案：A
+【莽学解析】Currency options exhibit volatility smiles because the at-the-money options have
+lower implied volatility than away-from-the-money options.Equity traders believe that the
+probability of large price decreases is greater than the probability of large price increases.
+Currency traders’ beliefs about volatility are more symmetric as there is no large skew in the
+distribution of expected currency values.
+ 
+90.Compared to at-the-money currency options, out-of-the-money currency options exhibit which
+of the following volatility traits?
+A.Lower implied volatility.
+B.A frown.
+C.A smirk.
+D.Higher implied volatility.
+参考答案：D
+【莽学解析】Answer: D.Away-from-the-money currency options have greater implied volatility than
+at-the-money options. This pattern results in a volatility smile.
+ 
+91.Which of the following statements is incorrect regarding volatility smiles?
+A.Currency options exhibit volatility smiles because the at-the-money options have higher
+implied volatility than away-from-the-money options.
+B.Volatility frowns result when jumps occur in asset prices.
+C.Equity options exhibit a volatility smirk because low strike price options have greater
+implied volatility.
+D.Relative to currency traders, it appears that equity traders’ expectations of extreme price
+movements are more asymmetric.
+参考答案：A
+【莽学解析】Answer: A.Currency options exhibit volatility smiles because the at-the-money
+options have lower implied volatility than away-from-the-money options.Equity traders believe
+that the probability of large price decreases is greater than the probability of large price
+increases. Currency traders’ beliefs about volatility are more symmetric as there is no large
+skew in the distribution of expected currency values.
+ 
+92.Which of the following regarding equity option volatility is true?
+A.There is higher implied price volatility for away-from-the-money equity options.
+B.“Crashophobia” suggests actual equity volatility increases when stock prices decline.
+C.Compared to the lognormal distribution, traders believe the probability of large down
+movements in price is similar to large up movements.
+D.Increasing leverage at lower equity prices suggests increasing volatility.
+参考答案：D
+【莽学解析】Answer: D.There is higher implied price volatility for low strike price equity
+options. “Crashophobia” is based on the idea that large price declines are more likely than
+assumed in Black-Scholes-Merton prices, not that volatility increases when prices decline.
+Compared to the lognormal distribution, traders believe the probability of large down movements
+in price is higher than large up movements. Increasing leverage at lower equity prices suggests
+increasing volatility.
+ 
+93.The ‘Sticky Strike Rule’ assumes that implied volatility is:
+A.The same across maturities for given strike prices
+B.The same for short time periods
+C.The same across strike prices for given maturities
+D.Different across strike prices for given maturities
+参考答案：B
+【莽学解析】The sticky strike rule, when applied to calculating option sensitivity measures,
+assumes implied volatility is the same over short time periods.

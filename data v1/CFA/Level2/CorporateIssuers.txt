@@ -1,0 +1,1114 @@
+Corporate Issuers
+共享题干题
+【题干】Modern Auto, an automobile parts supplier, has made an offer to acquire Sky Systems,
+creator of software for the airline industry. The offer is to pay Sky Systems' shareholders the
+current market value of their stock in Modern Auto's stock. The relevant information it used in
+those calculations is given below:
+Although the total earnings of the combined company will not increase and are estimated to be
+$130 million, Charles Wilhelm (treasurer of Modern Auto) argues that there are two attractive
+reasons to merge. First, Wilhelm says, “The merger of Modern Auto and Sky Systems will result
+in lower risk for our shareholders because of the diversification effect.” Second, Wilhelm
+also says, “If our EPS increases, our stock price will increase in line with the EPS increase
+because our P/E will stay the same.”Sky Systems managers are not interested in the offer by
+Modern Auto. The managers, instead, approach HiFly, Inc., which is in the same industry as Sky
+Systems, to see if it would be interested in acquiring Sky Systems. HiFly is interested, and
+both companies believe there will be synergies from this acquisition. If HiFly were to acquire
+Sky Systems, it would do so by paying $400 million in cash.
+ 
+1.【单项选择题】The acquisition of Sky Systems by Modern Auto and the acquisition of Sky
+Systems by HiFly, respectively, would be examples of a:
+A.vertical merger and a horizontal merger.
+B.conglomerate merger and a vertical merger.
+C.conglomerate merger and a horizontal merger.
+参考答案：C
+【莽学解析】汽车零部件供应商，飞机行业软件设计商，跨行业，合并是企业集团合并。HiFly,Inc.和Sky
+System是同行业，合并是横向合并。
+ 
+2.【单项选择题】If Sky Systems were to be acquired by Modern Auto under the terms of the
+original offer, the post-merger EPS of the new company would be closest to:
+A.$2.00.
+B.$2.32.
+C.$2.63.
+参考答案：C
+【莽学解析】EPS is $2.63.Because Modern Auto's stock price is $40 and Sky Systems' stock price
+is $25, Modern Auto will acquire Sky Systems by exchanging 1 of its shares for 40/25 = 1.60
+shares of Sky Systems. There are 15 million shares of Sky Systems. Their acquisition will take
+15/1.60 = 9.375 million shares of Modern Auto. The total number of shares after the merger =
+49.375 million. The EPS after the merger = 130/49.375 = $2.63.
+ 
+3.【单项选择题】Are Wilhelm's two statements about his shareholders benefiting from the
+diversification effect of the merger and about the increase in the stock price, respectively,
+correct?
+A.The Merger Will Result in Lower Risk for Shareholders：No; Stock Price Will Increase in Line
+with the EPS Increase：No.
+B.The Merger Will Result in Lower Risk for Shareholders：No; Stock Price Will Increase in Line
+with the EPS Increase：Yes.
+C.The Merger Will Result in Lower Risk for Shareholders：Yes; Stock Price Will Increase in Line
+with the EPS Increase：No.
+参考答案：A
+【莽学解析】Both of the statements by Wilhelm are wrong.The first statement is wrong because
+diversification by itself does not lower risk for shareholders. Investors can diversify very
+cheaply on their own by purchasing stocks of different companies (for example, a Modern Auto
+shareholder could purchase stocks of Sky Systems).The second statement is also wrong. The P/E
+ratio will not necessarily remain the same following the merger and is more likely to decline.
+The pre-merger P/E for Modern Auto is 40/2.50 = 16. After the merger, the EPS would be $130
+million/49.375 million shares, or 2.6329. The post-merger P/E will probably fall to 40/2.6329 =
+15.19.
+ 
+ 
+4.【单项选择题】Which of the following defenses best describes the role of HiFly in the
+acquisition scenario?
+A.Crown jewel.
+B.Pac-Man.
+C.White knight.
+参考答案：C
+【莽学解析】Sky Systems表示并不想被Modern Auto收购，Sky Systems和HiFly是同一行业且HiFly愿意以一
+个合理的价格收购Sky Systems，则HiFly是一个白衣骑士。
+ 
+5.【单项选择题】Suppose HiFly acquires Sky Systems for the stated terms. The gain to Sky
+Systems shareholders resulting from the merger transaction would be closest to:
+A.$25 million.
+B.$160 million.
+C.$375 million.
+参考答案：A
+【莽学解析】Target shareholders' gain = Premium = PT-VTPT= Price paid for the target company =
+$400 million as provided in the vignetteVT= Pre-merger value of the target = $25 share price ×
+15 million shares = $375 million $400 million – $375 million = $25 million
+ 
+【题干】María Hernández is a sell-side analyst covering the electronics industry in Spain. One
+of the companies she follows, SG Electronics, S.A., has recently announced plans to begin
+producing and selling a new series of video cameras. Hernández estimates that this project will
+increase the value of the company and, consequently, she plans on changing her research opinion
+on the company from a “hold” to a “buy.” Her initial financial predictions for the project
+are:● Fixed capital equipment outlay is €2,750,000.● At the beginning of the project, a
+required increase in current assets of €200,000 and a required increase in current liabilities
+of €125,000.● Straight-line depreciation to zero over a five-year life.● Project life of
+five years.● Incremental annual unit sales of 3,000 at a unit price of €600.● Annual fixed
+cash expenses of €125,000; variable cash expenses of €125 per unit.● The capital equipment
+is expected to be sold for €450,000 at the end of Year 5. At the end of the project, the net
+working capital investment will be recovered.● Tax rate of 40 percent.● Based on the capital
+asset pricing model, the required rate of return is 12 percent.Hernández estimates the expected
+net present value (NPV) of the project to be €975,538 and the internal rate of return (IRR) to
+be 24.6 percent. She also performs a sensitivity analysis by changing the input variable
+assumptions used in her initial analysis.When reviewing Hernández's work, her supervisor,
+Arturo Costa, notes that she did not include changes in the depreciation method, initial fixed
+capital outlay, or inflation assumptions in her sensitivity analysis. As a result, Costa asks
+the following questions:Question 1“What would be the effect on the project's NPV if the
+initial fixed capital equipment outlay increased from €2,750,000 to €3,000,000, everything
+else held constant?”Question 2“How would a higher than expected inflation rate affect the
+value of the real tax savings from depreciation and the value of the real after-tax interest
+expense, everything else held constant?”Question 3“You are using a required rate of return of
+12 percent when the company's weighted average cost of capital (WACC) is 10 percent. Why are
+you using a required rate of return for the project greater than the company's WACC?”Before
+ending the meeting, Costa tells Hernández: “Last year the company produced a prototype at a
+cost of €500,000. Now management is having doubts about the market appeal of the product in
+its current design, and so they are considering delaying the start of the project for a year,
+until the prototype can be shown to industry experts.”
+ 
+6.【单项选择题】Using Hernández's initial financial predictions, the estimated annual after-tax
+operating cash flow is closestto:
+A.€780,000.
+B.€1,000,000.
+C.€1,075,000.
+参考答案：B
+【莽学解析】Using equationCF = (S – C) × (1 – T) T×D, the numbers are:Sales = P × Q =
+€600 × 3,000 = €1,800,000Costs = Variable cost × Q Fixed costs = (125 × 3,000) €125,000 =
+500,000Depreciation expense = €2,750,000 ÷ 5 = €550,000CF = (1,800,000– 500,000) × (1 –
+0.40) (550,000 × 0.40)= 780,000 220,000 = €1,000,000.
+ 
+ 
+7.【单项选择题】Using Hernández's initial financial predictions, the estimated terminal year
+after-tax non-operating cash flow is closest to:
+A.€195,000.
+B.€270,000.
+C.€345,000.
+参考答案：C
+【莽学解析】The terminal year non-operating cash flow includes the after-tax salvage value and
+the recovery of net working capital = €450,000 × (1 – 0.40) + €75,000 = €345,000.(Note:
+Terminal year recovery of net working capital investment = Decrease in current assets –
+Decrease in current liabilities = €200,000 – €125,000 = €75,000.)
+ 
+ 
+8.【单项选择题】Hernández's best response to Costa's first question is that the project's NPV
+would decrease by an amountclosest to:
+A.€142,000.
+B.€178,000.
+C.€250,000.
+参考答案：B
+【莽学解析】Calculations: The outlay is higher by €250,000, which will increase annual
+depreciation by €50,000 over the 5-year period. The annual additional tax savings from the
+higher depreciation expense is: 50,000 × (0.40) = 20,000. Therefore NPV should decrease by:
+ 
+ 
+ 
+9.【单项选择题】Hernández's best response to Costa's second question is that:
+A.real tax savings from depreciation and real interest expense would be lower.
+B.real tax savings from depreciation would be higher and real interest expense would be lower.
+C.real tax savings from depreciation would be lower and real interest expense would be higher.
+参考答案：A
+【莽学解析】Higher than expected inflation increases the corporation's real taxes because it
+reduces the value of the depreciation tax shelter; it also decreases the real interest expense
+because payments to bondholders in real terms are lower than expected.
+ 
+10.【单项选择题】Hernández's best response to Costa's third question is: “Because:
+A.the project will plot above the security market line.”
+B.the project's beta is greater than the company's beta.”
+C.the project's IRR is greater than the required rate of return.”
+参考答案：B
+【莽学解析】When a project is more or less risky than the company, project beta and not WACC
+should be used to establish the required rate of return for the capital project. In this case,
+the required rate of return is greater than the WACC, which means the project beta (risk) is
+greater than the company's beta.
+ 
+11.【单项选择题】Should Costa's end-of-meeting comments result in changes to Hernández's
+capital budgeting analysis?
+A.No.
+B.Yes, but only to incorporate the possible delay.
+C.Yes, to incorporate both the possible delay and the cost of producing the prototype.
+参考答案：B
+【莽学解析】Timing options (e.g., delay investing) should be included in the NPV analysis, but
+sunk costs should not.
+【题干】Mark Zin and Stella Lee are CEO and CFO, respectively, of Moonbase Corporation. They
+are concerned that Moonbase is undervalued and subject to a hostile takeover bid. To assess the
+value of their own firm, they are reviewing current financial data for Jupiter PLC, Saturn
+Corporation, and Voyager Corporation, three firms they believe are comparable to Moonbase.
+Zin believes Moonbase should trade at similar multiples to these firms and that each valuation
+ratio measure is equally valid. Moonbase has a current stock price of $34.00 per share,
+earnings of $1.75 per share, book value of $8.50 per share, and cash flow of $3.20 per share.
+Using the average of each of the three multiples for the three comparable firms, Zin finds that
+Moonbase is undervalued.Lee states that the low valuation reflects current poor performance of
+a subsidiary of Moonbase. She recommends that the board of directors consider divesting the
+subsidiary in a manner that would provide cash inflow to Moonbase.Zin proposes that some action
+should be taken before a hostile takeover bid is made. He asks Lee if changes can be made to
+the corporate governance structure in order to make it more difficult for an unwanted suitor to
+succeed.In response, Lee makes two comments of actions that would make a hostile takeover more
+difficult. Lee's first comment is “Moonbase can institute a poison pill that allows our
+shareholders, other than the hostile bidder, to purchase shares at a substantial discount to
+current market value.” Lee's second comment is: “Moonbase can instead institute a poison put.
+The put allows shareholders the opportunity to redeem their shares at a substantial premium to
+current market value.”Zin is also concerned about the general attitude of outside investors
+with the governance of Moonbase. He has read brokerage reports indicating that the Moonbase
+governance ratings are generally low. Zin believes the following statements describe
+characteristics that should provide Moonbase with a strong governance rating.Statement 1:
+Moonbase's directors obtain advice from the corporate counsel to aid them in assessing the
+firm's compliance with regulatory requirements.Statement 2: Five of the ten members of the
+board of directors are not employed by Moonbase and are considered independent. Though not
+employed by the company, two of the independent directors are former executives of the company
+and thus can contribute useful expertise relevant for the business.Statement 3: The audit
+committee of the board is organized so as to have sufficient resources to carry out its task,
+with an internal staff that reports routinely and directly to the audit committee.Zin is
+particularly proud of the fact that Moonbase has begun drafting a “Statement of Corporate
+Governance” (SCG) that will be available on the company website for viewing by shareholders,
+investment analysts, and any interested stakeholders. In particular, the SCG pays special
+attention to policies that ensure effective contributions from the board of directors. These
+policies include the following:Policy 1: Training is provided to directors prior to joining the
+board and periodically thereafter.Policy 2: Statements are provided of management's assessment
+of the board's performance of its fiduciary responsibilities.Policy 3: Statements are provided
+of directors' responsibilities regarding oversight and monitoring of the firm's risk management
+and compliance functions.Zin concludes the discussion by announcing that Johann Steris, a
+highly regarded ex-CFO of a major corporation, is under consideration as a member of an
+expanded board of directors. Zin states that Steris meets all the requirements as an
+independent director including the fact that he will not violate the interlocking directorship
+requirement. Steris also will bring experience as a member of the compensation committee of the
+board of another firm. He also comments that Steris desires to serve on either the audit or
+compensation committee of the Moonbase board and that good governance practice suggests that
+Steris would not be prohibited from serving on either committee.
+ 
+12.【单项选择题】The value the CEO estimated based on comparable company analysis is closest
+to:
+A.$37.33.
+B.$39.30.
+C.$40.80.
+参考答案：B
+【莽学解析】Value is $39.30.Average P/E ratio is 21.33 = (23.00 + 19.50 + 21.50)/3Value based
+on P/E ratio = 21.33 (1.75) = 37.33Average P/B ratio is 4.80 = (4.24 + 5.25 + 4.91)/3Value
+based on P/B ratio = 4.80 (8.50) = 40.80Average P/CF ratio is 12.43 = (12.60 + 11.40 +
+13.30)/3Value based on P/CF ratio = 12.43 (3.20) = 39.79Since Zin believes each valuation ratio
+is equally valid, value is a simple average of the three values.Value = (37.33 + 40.80 +
+39.79)/3 = 39.30
+ 
+ 
+13.【单项选择题】The divestiture technique that Lee is recommending is most likely:
+A.a spin-off.
+B.a split-off.
+C.an equity carve-out.
+参考答案：C
+【莽学解析】An equity carve-out involves sale of equity in a new legal entity to outsiders, and
+would thus result in a cash inflow for Moonbase. A spin-off or a split-off does not generate a
+cash flow to the firm.
+ 
+14.【单项选择题】With regard to poison pills and puts, Lee's comments are:
+A.correct.
+B.incorrect with regard to the poison put.
+C.incorrect with regard to the poison pill.
+参考答案：B
+【莽学解析】The first comment about the poison pill is correct, but the second comment is
+incorrect. Shareholders do not “put” their shares to the company; rather bondholders can
+exercise the put in the event of a hostile takeover. Bondholders have the right to sell their
+bonds back to the target at a redemption price that is pre-specified in the bond indenture,
+typically at or above par value.
+ 
+15.【单项选择题】Which statement by Zin provides the most support for a strong governance
+rating?
+A.Statement 1
+B.Statement 2
+C.Statement 3
+参考答案：C
+【莽学解析】Statement 3 provides the most support for a strong governance rating. The statement
+describes the manner in which the audit committee should work. The other two statements do not
+support a strong governance rating as each casts doubt about the independence of the board from
+management's control.
+ 
+16.【单项选择题】Which policy of the Statement of Corporate Governance is least likely to
+ensure effective contributions from the board of directors?
+A.Policy 1
+B.Policy 2
+C.Policy 3
+参考答案：B
+【莽学解析】The second policy is least likely to ensure effective contributions from the board.
+The board through self-assessment, and not management, should assess the board’s performance.
+ 
+17.【单项选择题】Is Zin's comment that good governance practice does not preclude Steris from
+serving on either of the two committees of the Moonbase board correct?
+A.Yes.
+B.No, good governance practice precludes Steris from serving on the audit committee.
+C.No, good governance practice precludes Steris from serving on the compensation committee.
+参考答案：A
+【莽学解析】As an independent director, without an interlocking relationship and with the
+expertise required, Steris would be eligible to serve on either of the two committees.
+ 
+【题干】Karen Maghami is a portfolio manager for a mutual fund. Maghami, working with analyst
+Marcel Lynbrock, is researching two companies: Syvie Electric and EnileGEN. Located in the same
+country, both companies produce electricity from conventional and renewable sources. Maghami
+wants to integrate environmental, social, and governance (ESG) factors into the analysis of
+each company’s financial statements.Syvie Electric is a stock exchange- listed, state- owned
+enterprise (SOE). The sovereign government holds 58% of shares; remaining shares are publicly
+traded. EnileGEN is a public company owned primarily by institutional investors.Lynbrock starts
+with an analysis of corporate governance factors. Relevant information about the two companies
+is summarized in Exhibit 1.
+After reviewing the corporate governance information, Maghami and Lynbrock focus on factors
+related to environmental and social considerations. Lynbrock asks Maghami, “What resource
+would you recommend using to find a list of ESG factors material to the electricity generation
+sector?”Next, Maghami and Lynbrock discuss the effect of expected regulatory changes on stock
+and bond values for both companies. The government recently announced that it intends to
+authorize a new environmental regulation requiring that a minimum of 35% of electricity be
+produced from renewable sources. ?The exact timing of the new regulation is unknown, but
+EnileGEN already exceeds the minimum level by a significant margin. Maghami notes that the new
+regulation should give EnileGEN a competitive edge in the industry, and for scenario analysis
+purposes, she asks Lynbrock to assume that the regulation will take effect in two years.
+Lynbrock uses a discounted cash flow model to value EnileGEN stock under the assumption
+requested by Maghami.Lynbrock believes that the new regulation will make three of Syvie
+Electric’s coal-fired power stations no longer financially viable within 10 years following
+implementation. Maghami asks Lynbrock to estimate the potential effect on Syvie Electric’s
+balance sheet and the potential impact on the value of Syvie Electric bonds.Maghami reads in
+Syvie Electric’s most recent financial statements that the company plans to issue green bonds.
+Maghami asks Lynbrock to evaluate any possible valuation risks or opportunities associated with
+green bonds. Lynbrock tells Maghami the following:Statement 1: Green bonds offer higher
+protection for an investor because they typically are backed by the income derived from the
+environmental project they are used to fund.Statement 2: Issuing green bonds ensures a lower
+cost of capital because the green feature typically results in a tighter credit spread compared
+with conventional bonds.Statement 3: A unique risk related to green bonds is greenwashing,
+which is the risk that the bond’s proceeds are not actually used for a beneficial
+environmental or climate-related project.
+ 
+18.【单项选择题】Based on Exhibit 1 and their ownership structures, market scrutiny of Syvie
+Electric’s management is most likely:
+A.lower than EnileGEN.
+B.the same as EnileGEN.
+C.higher than EnileGEN.
+参考答案：A
+【莽学解析】Syvie Electric is a listed SOE with a mixed-ownership model in which 58% of the
+shares are owned by a sovereign government. The remaining shares trade on a public stock
+market. A mixed-ownership model tends to have lower market scrutiny of management than that of
+corporate ownership models. Additionally, Syvie Electric has a lower percentage of directors
+with industry experience compared to EnileGEN. A board with experience that is not directly
+related to the company’s core operations may lack sufficient expertise to govern. EnileGEN’s
+shares are owned primarily by institutional investors. Even though EnileGEN has dispersed
+ownership, institutional investors can promote good corporate governance by holding a
+company’s board and management accountable when the board or management does not appear to be
+acting in the best interests of shareholders. Consequently, market scrutiny of Syvie
+Electric’s management is most likely lower compared with EnileGEN.
+ 
+19.【单项选择题】Based on the ownership structures of Syvie Electric and EnileGEN, a
+principal–principal problem is most likely to occur in the case of:
+A.only EnileGEN.
+B.only Syvie Electric.
+C.both Syvie Electric and EnileGEN.
+参考答案：B
+【莽学解析】Syvie Electric’s largest shareholder owns 58% of the shares; therefore, the
+company can be described as having concentrated ownership and concentrated voting power. The
+combination of concentrated ownership and concentrated voting power is generally associated
+with controlling shareholders maintaining a position of power over both managers and minority
+shareholders, known as a principal–principal problem. EnileGEN’s largest stockholder owns 9%
+of shares; hence, the company can be classified as having dispersed ownership. EnileGEN also
+has a straight voting policy, which results in each of the shareholders having one vote per
+share; thus, EnileGEN also has dispersed voting power. The combination of dispersed ownership
+and dispersed voting power is generally associated with shareholders who lack the power to
+exercise control over managers. This conflict is known as a principal–agent problem.
+Consequently, the principal–principal problem is most likely to occur in Syvie Electric, not
+in EnileGEN.
+ 
+20.【单项选择题】Based on Exhibit 1, which of the following statements is correct?
+A.Due to also being on the board, the EnileGEN CEO has two votes for each share owned.
+B.In the case of managerial misconduct, EnileGEN may be able to recover previously paid
+remuneration.
+C.Syvie Electric’s corporate structure can be described as having concentrated ownership and
+dispersed voting power.
+参考答案：B
+【莽学解析】EnileGEN has a clawback policy, which allows a company to recover previously paid
+remuneration if certain events—such as financial restatements, misconduct, breach of the law,
+or risk management deficiencies— are uncovered. Consequently, EnileGEN may be able to recover
+previously paid remuneration from management in case of misconduct.
+A is incorrect because even though EnileGEN’s CEO also serves as chair of the board (CEO
+duality), the CEO does not hold dual-class shares because the company has a straight voting
+policy (i.e., one share, one vote). Consequently, the CEO of EnileGEN does not have two votes
+for each share.
+C is incorrect because Syvie Electric has concentrated ownership and concentrated voting power
+(58% of shares are owned by a single shareholder). Consequently, Syvie Electric’s ownership
+structure cannot be described as concentrated ownership with dispersed voting power.
+ 
+21.【单项选择题】In response to Maghami’s ESG question, Lynbrock should most likely recommend
+using:
+A.the SASB Materiality Map.
+B.the Green Bond Principles.
+C.each company’s sustainability report.
+参考答案：A
+【莽学解析】Maghami wants to find a resource that lists ESG factors material to the electricity
+generation sector. In an ESG context, materiality typically refers to ESG-related issues that
+are expected to a?ect a company’s operations, its financial performance, and the valuation of
+its securities. The Sustainability Accounting Standards Board (the SASB) seeks to promote
+uniform accounting standards for sustainability reporting. For this purpose, the SASB developed
+the SASB Materiality Map, which lists relevant ESG-related, sector-specific factors that the
+organization deems to be material.
+B is incorrect because the Green Bond Principles are voluntary standards to guide issuers in
+the determination of labeling a bond green. The Green Bond Principles do not provide a list of
+ESG-related factors that are material to a specific sector.
+C is incorrect because companies’ definitions of materiality in an ESG context may di?er in
+usefulness. For example, some companies may use the term “material” in emphasizing positive
+ESG information even though such information may have little impact on the company’s
+operations or financial performance. Other companies may minimize or not report negative ESG
+information that investors might consider material. Consequently, a company’s sustainability
+report is not as likely as a SASB Materiality Map to provide a list of ESG-related factors that
+are material to a specific sector.
+ 
+22.【单项选择题】To reflect the effect of the regulatory scenario requested by Maghami on
+EnileGEN’s stock value, Lynbrock should:
+A.increase the credit spread.
+B.decrease the discount rate.
+C.increase projected operating costs.
+参考答案：B
+【莽学解析】For scenario analysis purposes, Maghami asks Lynbrock to assume that the new
+environmental regulation will take effect in two years. In equity security analysis, ESG-
+related factors are often analyzed in the context of forecasting financial metrics and ratios,
+by adjusting valuation model variables (e.g., discount rate), or using sensitivity and/or
+scenario analysis. Lynbrock should decrease the discount rate given that EnileGEN should have a
+competitive edge over its competitors due to the new environmental regulation.
+A is incorrect because Lynbrock is estimating the expected effect of the new environmental
+regulation on EnileGEN’s stock, not bond, value. Additionally, to justify a credit spread
+increase, the risk for a company would have to increase. Instead, the anticipated environmental
+regulation should give EnileGEN a competitive edge, thereby reducing risk.
+C is incorrect because the new environmental regulation should not impact EnileGEN’s operating
+costs. The company already exceeds the minimum percentage of renewably sourced electric
+production expected to be required by the new regulation.
+ 
+23.【单项选择题】To reflect the effect of the new regulation on Syvie Electric’s balance
+sheet, Lynbrock should:
+A.increase terminal value.
+B.increase impaired assets.
+C.decrease capital expenditures.
+参考答案：B
+【莽学解析】Syvie Electric is facing risk from stranded assets—that is, assets that are
+obsolete or not economically viable owing to changes in regulatory or government policy. ESG-
+related adjustments to a company’s balance sheet often reflect an analyst’s estimate of
+impaired assets. A is incorrect because adjusting terminal value applies to equity valuation;
+it is not an adjustment to a company’s balance sheet.
+C is incorrect because decreasing capital expenditures would be reflected in the income and
+cash flow statements, not the balance sheet.
+ 
+24.【单项选择题】Under the regulatory scenario requested by Maghami, Lynbrock should increase
+the credit spread of a Syvie Electric 10-year bond:
+A.less than the spread of a 2-year bond.
+B.by the same amount as the spread of a 2-year bond.
+C.more than the spread of a 2-year bond.
+参考答案：C
+【莽学解析】Syvie Electric is facing risk from stranded assets—that is, assets that are
+obsolete or not economically viable owing to changes in regulatory or government policy. The
+new environmental regulation is expected to be in effect in 2 years, so a 10-year bond will be
+more negatively impacted than a current 2-year bond. To reflect this, Lynbrock should increase
+the credit spread of the 10-year bond more than the spread of the 2-year bond.
+ 
+25.【单项选择题】Which of Lynbrock’s statements about green bonds is correct?
+A.Statement 1
+B.Statement 2
+C.Statement 3
+参考答案：C
+【莽学解析】Statement 3 is correct because one unique risk of green bonds is greenwashing,
+which is the risk that the bond’s proceeds are not actually used for a beneficial
+environmental or climate-related project. Greenwashing can result in an investor overpaying for
+a bond (if the investor paid a premium for the bond’s green feature) or holding a bond that
+does not satisfy a prescribed environmental or climate investment mandate.
+A is incorrect because Statement 1 is incorrect. Green bonds are typically similar to an
+issuer’s conventional bonds, with the exception that the bond proceeds are earmarked for green
+projects. Green bonds normally have the same credit ratings and bondholder recourse as
+conventional bonds of the same issuer (all else being equal).
+B is incorrect because Statement 2 is incorrect. It is true that some green bonds command a
+premium, or tighter credit spread, versus comparable conventional bonds because of high market
+demand. This would reduce a company’s cost of capital. However, issuing green bonds does not
+always ensure a lower cost of capital for a company because green bonds are typically similar
+to an issuer’s conventional bonds. Green bonds normally have the same credit ratings and
+bondholder recourse as conventional bonds of the same issuer. Furthermore, green bonds may be
+less liquid than conventional bonds, such that they don’t command a premium from investors.
+Green bonds also have higher reporting and monitoring costs than conventional bonds, thus
+potentially resulting in higher costs for the issuer.
+ 
+【题干】The capital budgeting committee for Laroache Industries is meeting. Laroache is a North
+American conglomerate that has several divisions. One of these divisions, Laroache Livery,
+operates a large fleet of vans. Laroache’s management is evaluating whether it is optimal to
+operate new vans for two, three, or four years before replacing them. The managers have
+estimated the investment outlay, annual after-tax operating expenses, and after-tax salvage
+cash flows for each of the service lives. Because revenues and some operating costs are
+unaffected by the choice of service life, they were ignored in the analysis. Laroache Livery’s
+opportunity cost of funds is 10 percent. The following table gives the cash flows in thousands
+of Canadian dollars (C$).
+Schoeman Products, another division of Laroache, has evaluated several investment projects and
+now must choose the subset of them that fits within its C$40 million capital budget. The
+outlays and NPVs for the six projects are given below. Schoeman cannot buy fractional projects
+and must buy all or none of a project. The currency amounts are in millions of Canadian
+dollars.
+Schoeman wants to determine which subset of the six projects is optimal.A final proposal comes
+from the division Society Services, which has an investment opportunity with a real option to
+invest further if conditions warrant. The crucial details are as follows:The original project:
+An outlay of C$190 million at time zero.Cash flows of C$40 million per year for Years 1–10 if
+demand is “high.”Cash flows of C$20 million per year for Years 1–10 if demand is
+“low.”Additional cash flows with the optional expansion project:An outlay of C$190 million at
+time one.Cash flows of C$40 million per year for Years 2–10 if demand is “high.”Cash flows
+of C$20 million per year for Years 2–10 if demand is “low.”Whether demand is “high” or
+“low” in Years 1–10 will be revealed during the first year. The probability of “high”
+demand is 0.50, and the probability of “low” demand is 0.50.The option to make the expansion
+investment depends on making the initial investment. If the initial investment is not made, the
+option to expand does not exist.The required rate of return is 10 percent.Society Services
+wants to evaluate its investment alternatives.The internal auditor for Laroache Industries has
+made several suggestions for improving capital budgeting processes at the company. The internal
+auditor’s suggestions are as follows:Suggestion 1“In order to put all capital budgeting
+proposals on an equal footing, the projects should all use the risk-free rate for the required
+rate of return.”Suggestion 2“Because you cannot exercise both of them, you should not permit
+a given project to have both an abandonment option and an expansion/growth option.”Suggestion
+3“When rationing capital, it is better to choose the portfolio of investments that maximizes
+the company NPV than the portfolio that maximizes the company IRR.”Suggestion 4“Project betas
+should be used for establishing the required rate of return whenever the project’s beta is
+different from the company’s beta.”
+ 
+26.【单项选择题】What is the optimal service life for Laroche Livery’s fleet of vans?
+A.Two years.
+B.Three years.
+C.Four years.
+参考答案：B
+【莽学解析】The way to solve the problem is to calculate the equivalent annual annuity and
+choose the service life with the lowest annual cost. For a two-year service life, the NPV is:
+The EAA (PV = –46,776.86, N = 2, and i = 10%) is –26,952.38.For a three-year service life,
+the NPV is:
+The EAA (PV = –65,559.73, N = 3, and i = 10%) is –26,362.54.For a four-year service life, the
+NPV is:
+The EAA (PV = –87,211.26, N = 4, and i = 10%) is –27,512.61.The three-year service life has
+the lowest annual cost. Laroche should replace the vans every three years.
+ 
+ 
+27.【单项选择题】The optimal subset of the six projects that Schoeman is considering consists
+of Projects:
+A.1 and 5.
+B.2, 3, and 4.
+C.2, 4, 5, and 6.
+参考答案：A
+【莽学解析】To help the selection process, use the profitability index for each project, which
+shows the total present value per dollar invested.
+Try to incorporate the high PI projects into the budget using trial and error. These trials
+include the following:
+Among the sets of projects suggested, the optimal set is the one with the highest NPV, provided
+its total outlay does not exceed C$40 million. The set consisting of Projects 1 and 5 produces
+the highest NPV.
+ 
+ 
+28.【单项选择题】What is the NPV (C$ millions) of the original project for Society Services
+without considering the expansion option?
+A.–6.11.
+B.–5.66.
+C.2.33.
+参考答案：B
+【莽学解析】If demand is “high,” the NPV is:
+If demand is “low,” the NPV is:
+The expected NPV is 0.50×(55.783) + 0.50×(–67.109) = –C$5.663 million
+ 
+29.【单项选择题】What is the NPV (C$ millions) of the optimal set of investment decisions for
+Society Services including the expansion option?
+A.6.34.
+B.12.68.
+C.31.03.
+参考答案：B
+【莽学解析】Assume we are at time = 1. The NPV of the expansion (at time 1) if demand is
+“high” is:
+The NPV of the expansion (at time 1) if demand is “low” is:
+The optimal decision is to expand if demand is “high” and not expand if “low.” Because the
+expansion option is exercised only when its value is positive, which happens 50 percent of the
+time, the expected value of the expansion project, at time zero, is
+The total NPV of the initial project and the expansion project isNPV = –C$5.663 million +
+C$18.346 million = C$12.683 millionThe optional expansion project, handled optimally, adds
+sufficient value to make this a positive NPV project.
+ 
+ 
+30.【单项选择题】Should the capital budgeting committee accept the internal auditor’s first
+and second suggestions, respectively?
+A.No for Suggestions 1 and 2.
+B.No for Suggestion 1 and Yes for Suggestion 2.
+C.Yes for Suggestion 1 and No for Suggestion 2.
+参考答案：A
+【莽学解析】Both suggestions are bad. In valuing projects, expected cash flows should be
+discounted at required rates of return that reflect their risk, not at a risk-free rate that
+ignores risk. Even though both options cannot be simultaneously exercised, they can both add
+value. If demand is high, you can exercise the growth option, and if demand is low, you can
+exercise the abandonment option.
+ 
+31.【单项选择题】Should the capital budgeting committee accept the internal auditor’s third
+and fourth suggestions, respectively?
+A.No for Suggestions 3 and 4.
+B.Yes for Suggestions 3 and 4.
+C.No for Suggestion 3 and Yes for Suggestion 4.
+参考答案：B
+【莽学解析】Both suggestions are good. Choosing projects with high might cause the company to
+concentrate on short-term projects that reduce the NPV of the company. Whenever the project
+risk differs from the company risk, a project-specific required rate of return should be used.
+ 
+【题干】Janet Wu is treasurer of Wilson Paper Company, a manufacturer of paper products for the
+office and school markets. Wilson Paper is selling one of its divisions for $70 million cash.
+Wu is considering whether to recommend a special dividend of $70 million or a repurchase of 2
+million shares of Wilson common stock in the open market. She is reviewing some possible
+effects of the buyback with the company's financial analyst. Wilson has a long-term record of
+gradually increasing earnings and dividends. Wilson's board has also approved capital spending
+of $15 million to be entirely funded out of this year's earnings.
+ 
+32.【单项选择题】Wilson's share buyback could be a signal that the company:
+A.is decreasing its financial leverage.
+B.views its shares as undervalued in the marketplace.
+C.has more investment opportunities than it could fund internally.
+参考答案：B
+【莽学解析】Management sometimes undertakes share repurchases when it views shares as being
+undervalued in the marketplace.
+ 
+33.【单项选择题】The most likely tax environment in which Wilson Paper's shareholders would
+prefer that Wilson repurchase its shares (share buybacks) instead of paying dividends is one in
+which:
+A.the tax rate on capital gains and dividends is the same.
+B.capital gains tax rates are higher than dividend income tax rates.
+C.capital gains tax rates are lower than dividend income tax rates.
+参考答案：C
+【莽学解析】Shareholders would prefer that the company repurchase its shares instead of paying
+dividends when the tax rate on capital gains is lower than the tax rate on dividends.
+ 
+【题干】Carlos Velasquez, CFA, is a financial analyst with Embelesado, S.A., a Spanish
+manufacturer of sailboats and sailing equipment. Velasquez is evaluating a proposal for
+Embelesado to build sailboats for a foreign competitor that lacks production capacity and sells
+in a different market. The sailboat project is perceived to have the same risk as Embelesado's
+other projects.The proposal covers a limited time horizon—three years—after which the
+competitor expects to be situated in a new, larger production facility. The limited time
+horizon appeals to Embelesado, which currently has excess capacity but expects to begin its own
+product expansion in slightly more than three years.Velasquez has collected much of the
+information necessary to evaluate this proposal in Exhibits 1 and 2.
+Velasquez recognizes that Embelesado is currently financed at its target capital structure and
+expects that the capital structure will be maintained if the sailboat project is undertaken.
+Embelesado's managers disagree, however, about the method that should be used to evaluate
+capital budgeting proposals.One of Embelesado's vice presidents asks Velasquez the following
+questions:Question 1Will projects that meet a corporation's payback criterion for acceptance
+necessarily have a positive net present value (NPV)?Question 2For mutually exclusive projects,
+will the NPV and internal rate of return (IRR) methods necessarily agree on project
+ranking?Question 3For the sailboat project, what will be the effects of using accelerated
+depreciation (for both book and tax accounting) instead of straight-line depreciation on a) the
+NPV and b) the total net cash flow in the terminal year?Question 4Assuming a 13 percent
+discount rate, what will be the increase in the sailboat project's NPV if the expected market
+value of the facility at end of project is €15 million rather than €5 million?
+ 
+34.【单项选择题】The weighted average cost of capital for Embelesado is closest to:
+A.10.78%.
+B.11.20%.
+C.11.85%.
+参考答案：B
+【莽学解析】The weighted average cost of capital for Embelesado is calculated as:WACC=(Market
+weight of debt×After-tax cost of debt)=(Market weight of equity×Cost of equity)WACC = wd kd
+×(1 – T) wcs kcs=0.231×(8.0%)×(1 – 0.35) 0.769×(13.0%)= 1.201% 9.997%WACC = 11.198% =
+11.20%
+ 
+ 
+35.【单项选择题】The total net cash flow (in € Millions) for the sailboat project in its
+terminal year is closest to:
+A.33.00.
+B.39.75.
+C.43.00.
+参考答案：C
+【莽学解析】The terminal year cash flow is:
+ 
+ 
+ 
+36.【单项选择题】The IRR for the sailboat project is closest to:
+A.18.5%.
+B.19.7%.
+C.20.3%.
+参考答案：C
+【莽学解析】This is the IRR for a project with the following cash flows: (€70,000) in Year 0,
+€29,750 at Years 1 and 2, and €43,000 at Year 3.
+ 
+ 
+ 
+37.【单项选择题】The best responses that Velasquez can make to Question 1 and Question 2 are:
+A.No No
+B.No Yes
+C.Yes No
+参考答案：A
+【莽学解析】Projects with shorter paybacks do not necessarily have a positive NPV. For mutually
+exclusive projects, the NPV and IRR criteria will not necessarily provide the same project
+ranking.
+ 
+38.【单项选择题】In response to Question 3, what are the most likely effects on the NPV and the
+total net cash flow in the terminal year, respectively?
+A.Increase Increase
+B.Increase Decrease
+C.Decrease Increase
+参考答案：B
+【莽学解析】Additional depreciation in earlier time periods will shield Embelesado from
+additional taxes, thus increasing the net cash flows in earlier years of the project and
+increasing the project's NPV. However, this also means that there will be less depreciation
+expense in the terminal year of the project, thus shielding less income and increasing taxes.
+Terminal-year net cash flow will likely decrease.
+ 
+39.【单项选择题】In response to Question 4, the increase in the sailboat project's NPV(in €
+Millions) is closest to:
+A.4.50.
+B.6.50.
+C.6.76.
+参考答案：A
+【莽学解析】The entire €10 million will be subject to taxes, resulting in an additional €6.5
+million after taxes. As indicated below, when discounted at 13 percent for three years, this
+has a present value of €4.5048 (rounded to €4.50 million):
+ 
+【题干】Barbara Andrade is an equity analyst who covers the entertainment industry for
+Greengable Capital Partners, a major global asset manager. Greengable owns a significant
+position with a large unrealized capital gain in Mosely Broadcast Group (MBG). On a recent
+conference call, MBG's management states that they plan to increase the proportion of debt in
+the company's capital structure. Andrade is concerned that any changes in MBG's capital
+structure will negatively affect the value of Greengable's investment.To evaluate the potential
+impact of such a capital structure change on Greengable's investment, she gathers the
+information about MBG given in Exhibit 1.
+Andrade expects that an increase in MBG's financial leverage will increase its costs of debt
+and equity. Based on an examination of similar companies in MBG's industry, Andrade estimates
+MBG's cost of debt and cost of equity at various debt-to-total capital ratios, as shown in
+Exhibit 2.
+40.【单项选择题】MBG is best described as currently:
+A.25% debt-financed and 75% equity-financed.
+B.33% debt-financed and 66% equity-financed.
+C.75% debt-financed and 25% equity-financed.
+参考答案：A
+【莽学解析】The market value of equity is ($30)(10,000,000) = $300,000,000. With the market
+value of debt equal to $100,000,000, the market value of the company is $100,000,000
+$300,000,000 = $400,000,000. Therefore, the company is $100,000,000/$400,000,000 = 0.25 or 25%
+debt-financed.
+ 
+41.【单项选择题】Holding operating earnings constant, an increase in the marginal tax rate to
+40 percent would:
+A.result in a lower cost of debt capital.
+B.result in a higher cost of debt capital.
+C.not affect the company's cost of capital.
+参考答案：A
+【莽学解析】The after-tax cost of debt decreases as the marginal tax rate increases.
+ 
+42.【单项选择题】According to the pecking order theory, MBG’s announced capital structure
+change may be optimal:
+A.because debt is cheaper than equity on an after- tax basis.
+B.if new equity is issued before new debt as a source of capital.
+C.if new debt is issued after all internally generated funds are first used as sources of
+capital.
+参考答案：C
+【莽学解析】If internally generated funds have already been fully used, the use of new debt may
+be optimal according to the pecking order theory of capital structure.
+ 
+【题干】Josh Logan is a buy-side equity analyst who follows Durtech. Logan's supervisor
+believes that Durtech is a likely takeover candidate and has asked Logan to estimate the
+company's value per share in the event of an “all stock” takeover bid. Logan plans to
+estimate Durtech's value per share using three approaches: discounted cash flow, comparable
+company analysis, and comparable transaction analysis.Durtech has 1.2 million common shares
+outstanding and no outstanding long-term debt or preferred stock. Logan estimates that
+Durtech's free cash flows at the end of the next three years will be $5.0 million, $6.0
+million, and $7.0 million, respectively. After Year 3, he projects that free cash flow will
+grow at 5 percent per year. He determines the appropriate discount rate for this free cash flow
+stream is 15 percent per year.
+Applying discounted cash flow analysis to the preceding information, Logan determines that
+Durtech’s fair enterprise value is $61.8 million. In a separate analysis based on ratios,
+Logan estimates that at the end of the third year, Durtech will be worth 10 times its Year 3
+free cash flow.Logan gathers data on two companies comparable to Durtech: Alphatech and
+Betatech. He believes that price-to-earnings, price-to-sales, and price-to-book-value per share
+of these companies should be used to value Durtech. The relevant data for the three companies
+are given in Exhibit 1.
+Logan also identifies one recent takeover transaction and analyzes its takeover premium (the
+amount by which its takeover price per share exceeds its current stock price). Omegatech is
+comparable to the possible transaction on Durtech. Omegatech had a stock price of $44.40 per
+share prior to a newspaper report of a takeover rumor. After the takeover rumor was reported,
+the price rose immediately to $60.30 per share. Eventually, the takeover offer was accepted by
+Omegatech's shareholders for $55.00 per share. One-year trailing earnings per share for
+Omegatech immediately prior to the takeover were $1.25 per share.
+ 
+43.【单项选择题】Based on Exhibit 1 and the mean of each of the valuation ratios, Logan's
+estimate of Durtech's value per share should be closest to:
+A.$30.44.
+B.$33.67.
+C.$34.67.
+参考答案：B
+【莽学解析】
+ 
+ 
+44.【单项选择题】Based upon the premium on a recent comparable transaction, Logan's best
+estimate of the takeover premium for Durtech is closest to:
+A.19.9%.
+B.23.9%.
+C.35.8%.
+参考答案：B
+【莽学解析】A comparable transaction sells for premium of 55/44.4 – 1 = 23.9%.
+45.【单项选择题】Using comparable transaction analysis, Logan's estimate of the fair
+acquisition value per share for Durtech is closest to:
+A.$35.52.
+B.$42.59.
+C.$44.00.
+参考答案：C
+【莽学解析】Omegatech's transaction P/E ratio: 55/1.25 = 44. So estimated fair acquisition
+value per share is 44 × 1 = $44.00.
+ 
+【题干】Maximilian Bohm is reviewing several capital budgeting proposals from subsidiaries of
+his company. Although his reviews deal with several details that may seem like minutiae, the
+company places a premium on the care it exercises in making its investment decisions.The first
+proposal is a project for Richie Express, which is investing $500,000, all in fixed capital, in
+a project that will have operating income after taxes of $20,000 and depreciation of $40,000
+each year for the next three years. Richie Express will sell the asset in three years, paying
+30 percent taxes on any excess of the selling price over book value. The proposal indicates
+that a $647,500 terminal selling price will enable the company to earn a 15 percent internal
+rate of return on the investment. Bohm doubts that this terminal value estimate is
+correct.Another proposal concerns Gasup Company, which does natural gas exploration. A new
+investment has been identified by the Gasup finance department with the following projected
+cash flows:● Investment outlays are $6 million immediately and $1 million at the end of the
+first year.● After-tax operating cash flows are $0.5 million at the end of the first year and
+$4 million at the end of each of the second, third, fourth, and fifth years. In addition, an
+after-tax outflow occurs at the end of the five-year project that has not been included in the
+operating cash flows: $5 million required for environmental cleanup.● The required rate of
+return on natural gas exploration is 18 percent.The Gasup analyst is unsure about the
+calculation of the NPV and the IRR because the outlay is staged over two years.Finally,
+Dominion Company is evaluating two mutually exclusive projects: The Pinto grinder involves an
+outlay of $100,000, annual after-tax operating cash flows of $45,000, an after-tax salvage
+value of $25,000, and a three-year life. The Bolten grinder has an outlay of $125,000, annual
+after-tax operating cash flows of $47,000, an after-tax salvage value of $20,000, and a four-
+year life. The required rate of return is 10 percent. The net present value (NPV) and
+equivalent annual annuity (EAA) of the Pinto grinder are $30,691 and $12,341, respectively.
+Whichever grinder is chosen, it will have to be replaced at the end of its service life. The
+analyst is unsure about which grinder should be chosen.Bohm and his colleague Beth Goldberg
+have an extended conversation about capital budgeting issues, including several comments listed
+below. Goldberg makes two comments about real options:Comment 1“The abandonment option is
+valuable, but it should be exercised only when the abandonment value is above the amount of the
+original investment.”Comment 2“If the cost of a real option is less than its value, this will
+increase the NPV of the investment project in which the real option is embedded.”Bohm also
+makes several comments about specific projects under consideration:Comment AThe land and
+building were purchased five years ago for $10 million. This is the amount that should now be
+included in the fixed capital investment.”Comment B“We can improve the project's NPV by using
+the after-tax cost of debt as the discount rate. If we finance the project with 100 percent
+debt, this discount rate would be appropriate.”Comment C“It is generally safer to use the NPV
+than the IRR in making capital budgeting decisions. However, when evaluating mutually exclusive
+projects, if the projects have conventional cash flow patterns and have the same investment
+outlays, it is acceptable to use either the NPV or IRR.”Comment D“You should not base a
+capital budgeting decision on its immediate impact on earnings per share (EPS).”
+ 
+46.【单项选择题】What terminal selling price is required for a 15 percent internal rate of
+return on the Richie project?
+A.$588,028.
+B.$593,771.
+C.$625,839.
+参考答案：C
+【莽学解析】The after-tax operating cash flow for each of the next three years is $20,000 +
+$40,000 = $60,000. The book value in three years will be $380,000 (the original cost less three
+years’ depreciation). So the terminal year after-tax non-operating cash flow will be
+Sal<sub>3</sub>-0.3×(Sal<sub>3</sub>-$380,000), where Sal<sub>3</sub> is the selling price.
+For a 15 percent return, the PV of future cash flows must equal the investment:
+There are several paths to follow to solve for Sal<sub>3</sub>.
+ 
+ 
+ 
+47.【单项选择题】The NPV and IRR, respectively, of the Gasup Company investment are closest to:
+A.$509,600 and 21.4%.
+B.$509,600 and 31.3%.
+C.$946,700 and 31.3%.
+参考答案：A
+【莽学解析】The cash flows (in $ million) for the 5-year gas project are as follows:
+Given the required rate of return of 18 percent, the NPV can be calculated with Equation 2 or
+with a financial calculator:
+Similarly, the IRR can be calculated from Equation 3:
+Solving for r with a financial calculator or spreadsheet software will yield 21.4 percent for
+the internal rate of return. Note that in spite of the fact that we are dealing with a
+nonconventional cash flow pattern, the IRR has a unique solution. The NPV profile declines as
+the required rate of return increases, and the NPV value crosses the x-axis (required rate of
+return) only one time, at 21.4 percent.
+ 
+ 
+48.【单项选择题】Of the two grinders that the Dominion Company is evaluating, B?hm should
+recommend the:
+A.Bolten grinder because its NPV is higher than the Pinto grinder NPV.
+B.Bolten grinder because its EAA is higher than the Pinto grinder EAA.
+C.Pinto grinder because its EAA is higher than the Bolten grinder EAA.
+参考答案：C
+【莽学解析】Because the mutually exclusive projects have unequal lives, the EAA should be used
+instead of the NPV. The NPV and EAA for the Pinto grinder are correct. For the Bolten grinder,
+the NPV is
+To find the Bolten EAA, take the NPV for Bolten and annualize it for four years (N = 4, PV =
+37,644, and i = 10%). The Bolten EAA is $11,876. Consequently, the Pinto grinder has the better
+EAA of $12,341.
+ 
+ 
+49.【单项选择题】Are Goldberg's comments about real options correct?
+A.No for Comment 1 and Comment 2.
+B.No for Comment 1 and Yes for Comment 2.
+C.Yes for Comment 1 and No for Comment 2.
+参考答案：B
+【莽学解析】Goldberg’s first comment is wrong. A project should be abandoned in the future
+only when its abandonment value is more than the discounted value of the remaining cash flows.
+Goldberg’s second comment is correct.
+ 
+50.【单项选择题】Is Bohm most likely correct regarding Comment A about the $10 million
+investment and Comment B about using the after-tax cost of debt?
+A.No for both comments.
+B.Yes for both comments.
+C.No for Comment A and Yes for Comment B.
+参考答案：A
+【莽学解析】The $10 million original cost is a sunk cost and not relevant. The correct
+investment is today’s opportunity cost, the market value today. The correct discount rate is
+the project required rate of return.
+ 
+51.【单项选择题】Is Bohm most likely correct regarding Comment C that it is acceptable to use
+either NPV or IRR and Comment D about the immediate impact on EPS?
+A.No for both comments.
+B.Yes for both comments.
+C.No for Comment C and Yes for Comment D.
+参考答案：C
+【莽学解析】Even if they are the same size, a short-term project with a high IRR can have a
+lower NPV than a longer-term project. The immediate impact on EPS does not capture the full
+effect of the cash flows over the project’s entire life.
+ 
+【题干】Mei Yang is head of analyst recruiting for PPA Securities. She has been very frustrated
+by the number of job applicants who, in spite of their stellar pedigrees, seem to have little
+understanding of basic financial concepts. Yang has written a set of conceptual questions and
+simple problems for the human resources department to use to screen for the better candidates
+in the applicant pool. A few of her corporate finance questions and problems follow.Concept
+1“A company invests in depreciable assets, financed partly by issuing fixed rate bonds. If
+inflation is lower than expected, the value of the real tax savings from depreciation and the
+value of the real after-tax interest expense are both reduced.”Concept 2“Sensitivity analysis
+and scenario analysis are useful tools for estimating the impact on a project’s NPV of
+changing the value of one capital budgeting input variable at a time.”Concept 3“When
+comparing two mutually exclusive projects with unequal lives, the IRR is a good approach for
+choosing the better project because it does not require equal lives.”Concept 4“Project
+specific betas should be used instead of company betas whenever the risk of the project differs
+from that of the company.”Problem“Bo Gansu Electronics Co., Ltd. is investing CNY100 in a
+project that is being depreciated straight line to zero over a two- year life with no salvage
+value. The project will generate earnings before interest and taxes of CNY50 each year for two
+years. Bo Gansu Company’s weighted average cost of capital and required rate of return for the
+project are both 12%, and its tax rate is 30%.”
+ 
+52.【单项选择题】For Concept 1, the statement is correct regarding the effects on:
+A.the real tax savings from depreciation, but incorrect regarding the real after-tax interest
+expense.
+B.both the real tax savings from depreciation and the real after-tax interest expense.
+C.neither the real tax savings from depreciation nor the real after-tax interest expense.
+参考答案：C
+【莽学解析】The value of the depreciation tax savings is increased, and the value of the real
+after-tax interest expense is also increased. Due to the lower inflation, the value has
+increased (essentially discounting at a lower rate).
+ 
+53.【单项选择题】For Concept 2, the statement is correct regarding:
+A.sensitivity analysis, but not correct regarding scenario analysis.
+B.scenario analysis, but not correct regarding sensitivity analysis.
+C.both sensitivity analysis and scenario analysis.
+参考答案：A
+【莽学解析】The statement is correct for sensitivity analysis, but not for scenario analysis
+(in which several input variables are changed for each scenario).
+ 
+54.【单项选择题】Are the statements identified as Concept 3 and Concept 4 correct?
+A.No for Concepts 3 and 4.
+B.No for Concept 3, but yes for Concept 4.
+C.Yes for Concept 3, but no for Concept 4.
+参考答案：B
+【莽学解析】Either the least-common multiple of lives or the equivalent annual annuity approach
+should be used (both use the NPV, not the IRR). Concept 4 is correct as given.
+ 
+55.【单项选择题】The after-tax operating cash flows in euros for the Fontenot Company are:
+A.CNY 50 in both years.
+B.CNY 70 in both years.
+C.CNY 85 in both years.
+参考答案：C
+【莽学解析】The problem gives EBIT not EBITDA.
+ 
+【题干】Nanjing Techno Group is considering the purchase of a new 60-ton stamping press. The
+press costs CNY360,000, and an additional CNY40,000 is needed to install it. The press will be
+depreciated straight line to zero over a five- year life. The press will generate no additional
+revenues, but it will reduce cash operating expenses by CNY140,000 annually. The press will be
+sold for CNY120,000 after five years. An inventory investment of CNY60,000 is required during
+the life of the investment. Nanjing Techno is in the 40% tax bracket.
+ 
+56.【单项选择题】What is the Nanjing Techno net investment outlay?
+A.CNY400,000.
+B.CNY420,000.
+C.CNY460,000.
+参考答案：C
+【莽学解析】The investment outlay is
+ 
+ 
+ 
+57.【单项选择题】Nanjing Techno’s incremental annual after- tax operating cash flow is closest
+to:
+A.CNY116,000.
+B.CNY124,000.
+C.CNY140,000.
+参考答案：A
+【莽学解析】Depreciation will be 400,000/5 = 80,000 per year. The annual after-tax operating
+cash flow is
+ 
+ 
+ 
+58.【单项选择题】What is the terminal year after-tax non-operating cash flow at the end of year
+five?
+A.CNY108,000.
+B.CNY132,000.
+C.CNY180,000.
+参考答案：B
+【莽学解析】The terminal year non-operating cash flow is
+ 
+【题干】Lindsay White, CFA, is an analyst with a firm in London, England. She is responsible
+for covering five companies in the Consumer Staples industry. White believes the domestic and
+global economies will grow slightly below average over the next two years, but she is also
+concerned about the possibility of a mild recession taking hold. She has been asked to review
+the companies that she covers, and she has collected information about them, presented in
+Exhibit 1. White has estimated that earnings before interest and taxes (EBIT) will remain
+constant for all five companies for the foreseeable future. Currency is in terms of the British
+pound (￡).The marginal corporate tax rate is 30% for all five companies.
+Based on conversations with management of the five companies, as well as on her own independent
+research and analysis, White notes the following:Aquarius:● has lower bonding costs than does
+Bema.● has a higher percentage of tangible assets to total assets than does Bema.● has a
+higher degree of operating leverage than does Bema.Garth:● invests significantly less in
+research and development than does Holte.● has a more highly developed corporate governance
+system than does Holte.● has more business risk than does Holte.In addition, White has reached
+various conclusions regarding announcements by Bema, Garth, and Vega:Announcement Bema has
+announced that it will issue debt and use the proceeds to repurchase shares. As a result of
+this debt-financed share repurchase program, Bema indicates that its debt/equity ratio will
+increase to 0.6 and its before-tax cost of debt will be 6%.Conclusion As a result of the
+announced program, Bema's total market value should decrease relative to
+Aquarius's.Announcement Garth has announced that it plans to abandon the prior policy of all-
+equity financing by the issuance of ￡1 million in debt in order to buy back an equivalent
+amount of equity. Garth's before-tax cost of debt is 6%.Conclusion This change in capital
+structure is reasonable, but Garth should take care subsequently to maintain a lower D/E ratio
+than Holte.Announcement Vega has announced that it intends to raise capital next year, but is
+unsure of the appropriate method of raising capital.Conclusion White has concluded that Vega
+should apply the pecking order theory to determine the appropriate method of raising capital.
+ 
+59.【单项选择题】Based on Exhibit 1 and White's notes, which of the following is most
+consistent with White's conclusion regarding Garth's announcement?
+A.Garth has more business risk than does Holte.
+B.Garth invests significantly less in research and development than does Holte.
+C.Garth has a more highly developed corporate governance system than does Holte.
+参考答案：A
+【莽学解析】The statement implies that Garth possesses a lower ability to assume debt than does
+Holte, all else being equal.
+ 
+60.【单项选择题】Based on White's conclusion regarding determining the appropriate method of
+raising capital, Vega should raise capital in the following order:
+A.debt, internal financing, equity.
+B.equity, debt, internal financing.
+C.internal financing, debt, equity.
+参考答案：C
+【莽学解析】According to the pecking order theory, managers prefer internal financing. If
+internal financing is not sufficient, managers next prefer debt, and finally equity.
+ 
+【题干】Geet Patel is a sell- side analyst who covers the pharmaceutical industry. One of the
+companies she follows, PRT-Assam Pharma, is evaluating a regional distribution center. The
+financial predictions for the capital project are as follows:● Fixed capital outlay is INR1.50
+billion.● Investment in net working capital is INR0.40 billion.● Straight-line depreciation
+is over a six-year period with zero salvage value.● Project life is 12 years.● Additional
+annual revenues are INR0.10 billion.● Annual cash operating expenses are reduced by INR0.25
+billion.● The capital equipment is sold for INR0.50 billion in 12 years.● Tax rate is 40
+percent.● Required rate of return is 12 percent.Simpson is evaluating this investment to see
+whether it has the potential to affect Bayonne Pharma's stock price.Simpson estimates the NPV
+of the project to be INR0.41 billion, which should increase the value of the company.Simpson is
+evaluating the effects of other changes to her capital budgeting assumptions. She wants to know
+the effect of a switch from straight-line to accelerated depreciation on the company's
+operating income and the project's NPV. She also believes that the initial outlay might be much
+smaller than initially assumed. Specifically, she thinks the outlay for fixed capital might be
+INR0.24 billion lower, with no change in salvage value.When reviewing her work, Simpson's
+supervisor provides the following comments. “I note that you are relying heavily on the NPV
+approach to valuing the investment decision. I don't think you should use an IRR because of the
+multiple IRR problem that is likely to arise with the Bayonne Pharma project. However, the
+equivalent annual annuity would be a more appropriate measure to use for the project than the
+NPV. I suggest that you compute an EAA.”
+ 
+61.【单项选择题】Simpson should estimate the after-tax operating cash flow for Years 1–6 and
+7–12, respectively, to be closest to:
+A.€0.31 billion and €0.21 billion.
+B.€0.31 billion and €0.25 billion.
+C.€0.35 billion and €0.25 billion.
+参考答案：A
+【莽学解析】The annual depreciation charge for Years 1–6 is 1.5/6 = 0.25. Annual after-tax
+operating cash flows for Years 1–6 are:
+Annual after-tax operating cash flows for Years 7–12 are:
+ 
+ 
+ 
+62.【单项选择题】Simpson should estimate the initial outlay and the terminal year non-operating
+cash flow, respectively, to be closest to:
+A.€1.50 billion and €0.70 billion.
+B.€1.90 billion and €0.70 billion.
+C.€1.90 billion and €0.90 billion.
+参考答案：B
+【莽学解析】Outlay at time zero is:
+Terminal year after-tax non-operating cash flow is
+ 
+ 
+ 
+63.【单项选择题】Is Simpson's estimate of the NPV of the project correct?
+A.Yes.
+B.No. The NPV is –€0.01 billion.
+C.No. The NPV is €0.34 billion.
+参考答案：B
+【莽学解析】期初投资-1.9，1-6年ATOCF是0.31，7-12年ATOCF是0.21，12年终值是0.7，NPV用计算器计算得
+出，等于-0.01。
+ 
+64.【单项选择题】A switch from straight-line to accelerated depreciation would:
+A.increase the NPV and decrease the first year operating income after taxes.
+B.increase the first year operating income after taxes and decrease the NPV.
+C.increase both the NPV and first year operating income after taxes.
+参考答案：A
+【莽学解析】Accelerated depreciation shifts depreciation expense toward the earlier years so
+that first-year operating income after taxes will be lower. However, because depreciation is a
+noncash expense, it must be added back to operating income after taxes in order to obtain
+after-tax operating cash flow. This process shifts cash flows from later years to earlier
+years, increasing the NPV.
+ 
+65.【单项选择题】If the outlay is lower by the amount that Simpson suggests, the project NPV
+should increase by an amount closestto:
+A.€0.09 billion.
+B.€0.14 billion.
+C.€0.17 billion.
+参考答案：C
+【莽学解析】The outlay is lower by €0.24, which will decrease the annual depreciation by
+€0.04 for the first six years. The annual additional taxes from the loss of the depreciation
+tax shelter are €0.04(0.40) = €0.016. The after-tax cash flows are higher by €0.24 at time
+zero (because of the smaller investment) and lower by €0.016 for the first six years. The NPV
+increases by:
+ 
+ 
+ 
+66.【单项选择题】How would you evaluate the comments by Simpson's supervisor about not using
+the IRR and about using the EAA? The supervisor is:
+A.incorrect about both.
+B.correct about IRR and incorrect about EAA.
+C.incorrect about IRR and correct about EAA.
+参考答案：A
+【莽学解析】Both of the supervisor's comments are incorrect. Because the Bayonne Pharma project
+is a conventional project (an outflow followed by inflows), the multiple IRR problem cannot
+occur. The EAA is preferred over the NPV when dealing with mutually exclusive projects with
+differing lives, a scenario which is not relevant for this decision. The Bayonne Pharma project
+is free-standing, so the NPV approach is appropriate.

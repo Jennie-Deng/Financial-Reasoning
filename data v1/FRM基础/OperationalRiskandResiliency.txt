@@ -1,0 +1,1820 @@
+
+1.Which of the following factors would increase the likelihood of positive risk behaviors?
+A.Employees who are more risk averse.
+B.Employees who are well compensated.
+C.Employees who are new to the organization.
+D.Employees at a junior level of the organization.
+参考答案：A
+【莽学解析】In terms of positive risk behaviors, they are likely to be demonstrated by
+employees who（1） have been employed by the organization for the longest, （2）are more senior
+level, （3）are more risk averse, and（4）who have an affirmative view of risk management.
+There is no evidence to suggest that employees who are well compensated will necessarily
+exhibit more positive risk behaviors.在积极的风险行为方面，有可能表现为：（1）在组织中任职时间
+最长；（2）更高级别；（3）更厌恶风险；（4）对风险管理持肯定态度的员工。没有证据表明，薪酬高的员
+工必然会表现出更积极的风险行为。
+ 
+2.The basis of enterprise risk management(ERM)is that
+A.risks are managed within each risk unit but centralized at the senior management level.
+B.the silo approach to risk management is the optimal risk management strategy.
+C.risks should be managed and centralized within each risk unit.
+D.it is necessary to appoint a chief risk officer to oversee most risks.
+参考答案：A
+【莽学解析】The basis of enterprise risk management（ERM） is that risks are managed within
+each risk unit but centralized at the senior management level The traditional approach to risk
+management was the silo approach under which each firm unit was responsible for managing its
+own risks, setting its own policies and standards, without coordination between the risk units.
+ERM is a superior approach because management benefits from an integrated approach to handling
+all risks（for example, management can see risks within the firm that cancel out and,
+therefore, do not need to be separately hedged）. It is common, but not necessary, to appoint a
+chief risk officer to oversee all risks under ERM.全面风险管理（ERM）的基础是风险在每个风险单元
+内进行管理，但集中在高级管理层。传统的风险管理方法是筒仓法，每个业务单元负责管理自己的风险，制
+定自己的政策和标准，而不进行风险单位之间的协调。全面风险管理是一种优越的方法，从整体上管理风险
+（例如，管理层可以看到公司内部可以相互抵消的风险，因此不需要单独对冲）。任命一名首席风险官
+（CRO）监督全面风险管理下的所有常见的风险。
+ 
+3.On the assumption that culture is directly applicable to business situations, which of the
+following statements regarding the relationship between risk culture and business performance
+is least accurate?
+A.Culture has a fixed impact on business performance.
+B.Culture has a variable impact on business performance in the long term.
+C.Culture has a variable impact on business performance in the short.
+D.Culture that is outdated will result in static business performance.
+参考答案：C
+【莽学解析】Assuming culture is directly applicable to business situations, then culture can
+have a major impact on business performance. There are two schools of thought:（1） it could
+have a fixed impact, or（2） it could have a variable impact over a longer term. The effects of
+culture take a significant amount of time to affect business performance therefore it is least
+likely to impact business performance in the short term. Risk culture that is outdated will
+likely result in static or declining business performance.假设文化直接适用于业务情况，那么文化
+可以对业务绩效产生重大影响。有两种思想流派：（1）它可能产生固定的影响，或（2）它可能产生长期的
+可变影响。文化的影响需要相当长的时间来影响企业绩效，因此在短期内影响企业绩效的可能性最小。过时
+的风险文化可能会导致业务绩效停滞或下降。
+ 
+4.Which of the following internal controls does not effectively reduce operational risk?
+A.Separation of trading from accounting and data entry.
+B.Automated reminders of payments required and contract expirations.
+C.A multitude of users can modify trade tickets so that errors may be quickly corrected.
+D.Reconciling results from different systems to ensure data integrity.
+参考答案：C
+【莽学解析】Proper practice limits the amount of people who can change trade tickets and what
+information can be changed once a ticket is written. Double checking work, separating duties,
+and automatic reminders all help lower operational risk.双重检查、职责分离和自动提醒都有助于降
+低操作风险。C选项，用户可以修改交易单，以便快速更正错误。这样可能会引入更多的操作风险。
+ 
+5.You are a member of the senior management team at a bank where you have spent a significant
+amount of time assisting with the development of a risk appetite framework (RAF). With regard
+to the RAF, Which of the following recommendations would you most likely be willing to make Ⅰ.
+In communicating the RAF to the bank's employees, information on the banks risk capacity versus
+current amount of risk undertaken should be provided. Ⅱ. An effective RAF should focus
+primarily on setting appropriate risk limits within the bank and its respective business units.
+A.I only
+B.II only
+C.Both I and II
+D.Neither I nor II
+参考答案：A
+【莽学解析】In terms of communicating the RAF with the bank's employees additional information
+on the firm's risk capacity versus current amount of risk undertaken should be provided to
+assist employees with understanding the RAF An effective RAF must go beyond the mere setting of
+risk limits. The best practice would be to educate the employees who must comply with those
+limits Those employees should understand the background and reasons for the limits together
+with their impact on the firm's revenue/ profits, client service, and total risk.在与银行员工沟
+通RAF时，应提供有关公司风险能力与当前承担风险量的额外信息，以帮助员工了解RAF。有效的RAF必须超越
+单纯的风险限额设置。最佳做法是教育必须遵守这些限制的员工，这些员工应了解限制的背景和原因，以及
+这些限制对公司收入/利润、客户服务和总风险的影响。
+ 
+6.Which of the following statements regarding the structured process involved with risk
+appetite frameworks(RAF)and strategic and business planning is most accurate?
+A.The process concludes with making any needed changes to the business unit plans.
+B.The process aims to transform as many of the qualitative objectives into measurable
+objectives as possible.
+C.The process begins with either a divisional risk appetite statement or the communication of a
+risk posture from each of the divisions Within the firm.
+D.The process will differ depending on whether the firm’s planning process is top down from
+the board\/senior management or bottom up from the business unit managers.
+参考答案：B
+【莽学解析】The process may involve providing additional financial information such as
+liquidity, leverage, and capital objectives; the idea is to try to transform“ as many of the
+qualitative objectives into measurable objectives as possible. Such guidance is intended for
+the business unit managers to determine their strategic and capital plans that are more aligned
+with the firm overall. Choice A is not correct because the final step of the process involves
+not only changes made to the business unit plans but also possibly changes to the firm's
+overall risk appetite. If the overall risk appetite is changed there must be justification to
+do so and it must be done in a transparent manner. Choice C is not correct because the
+structured process begins with either a complete risk appetite statement from the board or some
+fundamental risk parameters for the individual business units to consider. Choice D is not
+correct because the same general steps of the process apply regardless of whether the firm’s
+planning process is top down or bottom up.该过程可能涉及提供额外的财务信息，如流动性、杠杆率和
+资本目标；其目的是试图将“尽可能多的定性目标转变为定量的目标”。该指南旨在让业务部门经理确定更
+符合公司整体的战略和资本计划。 A是不正确的，因为流程的最后一步不仅涉及对业务部门计划的更改，还
+可能涉及对公司整体风险偏好的更改。如果整体风险偏好发生变化，就必须有理由，而且必须以透明的方式
+进行。 C是不正确的，因为结构化过程开始于董事会的完整风险偏好陈述或个别业务单位考虑的一些基本风
+险参数。 D是不正确的，因为无论公司的规划过程是自上而下还是自下而上，流程的步骤都适用。
+ 
+7.In regard to Risk Governance and the firm's operational risk (OpRisk) Policy , each of the
+following is true EXCEPT which is not?
+A.It is the responsibility of the Board of Directors to ensure that a strong OpRisk management
+culture exists throughout the whole organization
+B.With respect to the risk taxonomy exercise, the best approach to the classification
+methodology is to either (i) use a cause-driven method; or (ii) use a mixture of causedrive,
+impact-driven, and event-driven methods
+C.Common industry practice for sound OpRisk governance often relies on three lines of defense:
+Business line management; an independent corporate OpRisk management function; and an
+independent review (usually internal audit)
+D.An OpRisk Policy defines a firm's operational risk management framework and includes the
+following, among other components: a risk taxonomy; loss collection (defines what losses or
+incidents should be reported and discusses concepts of near-misses and recoveries); validation
+(how the risk assessment and measurement are validated, how frequent validation takes place,
+and which departments are responsible for the validation); and governance (where the OpRisk
+policy is situated, which committee approves it, and how the OpRisk governance works)
+参考答案：B
+【莽学解析】In the cause-driven method, the risk classification is based on the reasons that
+cause operational losses. This usually follows the old OpRisk definition (which most firms use
+in their annual reports) in which OpRisk is defined as a function of 'people, systems, and
+external events'.The event-driven risk classification is probably the most common one used by
+large firms. It classifies risk according to OpRisk events. This is the classification used by
+the Basel Committee.在原因驱动法中，风险分类是基于造成经营损失的原因。这通常遵循旧的OpRisk定义
+。其中OpRisk被定义为人员、系统、外部事件和内部流程不完善带来的风险。 事件驱动的风险分类可能是大
+型企业最常用的分类方法。它根据OpRisk事件对风险进行分类。这是巴塞尔委员会使用的分类。
+ 
+8.For risk culture to be effective, there should be a proper tradeoff between risk-taking and
+control. Too much strict regulation and actions taken to completely eliminate risk is
+unrealistic. At the same time, the fear of making mistakes by company personnel only leads to
+inaction. So, an effective or sound risk culture should balance between risk-taking and
+maintaining an appropriate level of control. Which of the following is not a Characteristic of
+a strong risk culture ?
+A.A strong risk culture encompasses an ongoing, dynamic, and formal as well as informal
+process. It keeps evolving over time with shifts in external and internal factors that affect
+the behaviors and decisions of the personnel of an organization.
+B.Sound risk culture is an integral part of a business and is not linked to supervision alone.
+C.Establishing a healthy risk culture is a system that deals with just the enhancement of
+technical skills rather than a collective process.
+D.In a healthy risk culture, the concept of complying with compliance is replaced by compliance
+to conduct.
+参考答案：C
+【莽学解析】Establishing a healthy risk culture is a collective process rather than a system
+that deals with just the enhancement of technical skills.建立一个健康的风险文化是一个系统过程
+，而不是一个只涉及提高技术技能的系统。
+ 
+9.A bank credit officer, who has reviewed a loan application, has made the following statement:
+“On a standalone basis, I was not very keen on granting this loan however, I granted this loan
+after looking at the overall asset portfolio of the bank.” Based on the above statement, which
+of the following is true.
+A.The correlation of the newly granted loan with the overall portfolio is low and therefore the
+credit officer was right in granting the loan.
+B.The correlation of the newly granted loan with the overall portfolio is low and therefore the
+credit officer was wrong in granting the loan.
+C.The correlation of the newly granted loan with the overall portfolio is high and therefore
+the credit officer was right in granting the loan.
+D.The correlation of the newly granted loan with the overall portfolio is high and therefore
+the credit officer was wrong in granting the loan.
+参考答案：A
+【莽学解析】A Correct. The risk of a loan at the portfolio level is guided by both its
+systematic risk and unsystematic risk. Therefore low correlation of the new loan with the
+overall existing portfolio make it better investment decision due to diversifications benefits.
+Therefore, the credit officer was right in his reasoning.A是正确的。在投资组合层面上，贷款的风
+险由其系统性风险和非系统性风险共同引导。因此，由于新贷款与现有投资组合的相关性较低，使其具有分
+散化效果，从而使其成为更好的投资决策。因此，信贷员的推理是正确的。
+ 
+10.Which of the following courses of action will most likely lead to improved conduct and
+culture based on the Group of Thirty (G30)report?
+A.Promote leadership in the firm based on quantifiable measures of profitability, sales, and
+other similar qualifications.
+B.Improve the banks reputation to build a moat of protection when other institutions are
+involved in scandals so it will not damage the public's trust for their firm.
+C.Focus primarily on improving employee understanding of culture through human resources
+training programs and seminars rather than business skill improvement seminars.
+D.Implement cultural changes that focus on soft managerial skills while recognizing that
+rebuilding the public's trust is a long-term process.
+参考答案：D
+【莽学解析】Rebuilding a bank's reputation is a long-term process that requires improved soft
+skills of management related to values and ethics and not just quantifiable performance
+measures used historically. Banking scandals and misconduct have a contagion effect for the
+entire industry, not just those firms involved in misconduct. Employees must be aware of need
+for conduct to improve at all business levels and not just the human resources level.重建一家银
+行的声誉是一个长期的过程，需要提高与价值观和道德规范相关的管理软技能，而不仅仅是历史上使用的可
+量化的业绩衡量指标。银行丑闻和不当行为对整个行业都有传染效应，而不仅仅是那些涉及不当行为的公司
+。员工必须意识到需要在所有业务层面而不仅仅是人力资源层面上改进行为。
+ 
+11.Which of the following is not a major challenge for banks in reporting measures of conduct
+and culture？
+A.Quality data are often not available to enable boards and management to drill down into
+detail at the business level.
+B.Standardized measures are more difficult to define for smaller regional banks than for global
+banks.
+C.Limited, asymmetric data make comparisons difficult for identifying trends and relationships
+with other variables.
+D.Management teams at banks are inexperienced in implementing a reporting process for conduct
+and culture.
+参考答案：B
+【莽学解析】A major challenge in reporting measures of conduct and culture is that it is
+difficult to define standardized measures that are meaningful across business units and large
+geographical regions.行为和文化的汇报方法中的一个主要挑战，是很难在不同业务条线和地理区域中定义
+一个有意义的标准化的方法。
+ 
+12.From an operational risk perspective, the risks that are unlikely to jeopardize the future
+of the firm are:
+A.low-frequency, high-severity risks
+B.risks related to business practices
+C.risks related to internal fraud
+D.high-frequency, low-severity risks
+参考答案：D
+【莽学解析】Due to their predictable nature and small size, the risks that are unlikely to
+jeopardize the future of the firm are high-frequency, low-severity events. Note that risks
+related to fraud and business practices tend to create the largest unexpected losses and can
+therefore jeopardize the firm.请注意，与欺诈和商业操作相关的风险往往会造成最大的意外损失，因此
+可能危及公司。
+ 
+13.A major challenge for banks is dealing with inappropriate behaviory employees who are
+overachievers based on traditional performance-driven measures. Which of the following
+compensation plans best describes recommended methods to mitigate this risk?
+A.Compensation should not be strictly based on sales data and overachievers should not be
+terminated but appropriately reprimanded.
+B.Compensation linked to sales volume is appropriate for front-line staff but not upper
+management.
+C.Compensation should focus on employee behavior related to customer satisfaction and ethical
+behavior consistent with firm values.
+D.Because compensation linked to firm profitability is a way to reduce agency costs, upper
+management should always have compensation plans based on quantifiable measures of performance.
+参考答案：C
+【莽学解析】Recent scandals criticizing banks for overly aggressive sales tactics have led
+numerous financial institutions to remove sales-driven incentives for front-line employees and
+replace these measures with alternative measures such as customer satisfaction. Improper
+compensation incentives can lead to misconduct. Terminations for breaches of conduct may
+provide teachable moments for redefining culture when dealing with inappropriate behaviors by
+employees who are overachievers based on traditional performance-driven measures.最近有丑闻批评
+银行过于激进的销售策略，导致许多金融机构取消了对一线员工的销售激励措施，代之以客户满意度等替代
+措施。不当的薪酬激励可能导致不当行为。
+ 
+14.George is a trader at a large commercial bank who has continued to increase his bonus each
+year by producing more and more profit for the bank. In order to increase profits, George has
+been forced to increase the riskiness of his positions despite the written risk appetite and
+tolerance statements provided to all employees of the bank. The bank seems happy with his
+performance so George takes that as a sign of approval of his methods for improving
+profitability. Which of the following pairs of the 11 fundamental principles of risk management
+has the bank most clearly violated in this situation?
+A.Principle 1 (a strong risk management culture) and Principle 11 (the bank should make clear
+disclosures of operational risks to stakeholders).
+B.Principle 2 (develop an integrated approach to operational risk management).
+C.Principle 3 (approve and review the operational risk framework) and Principle 4 (develop risk
+appetite and tolerance statements).
+D.Principle 5 (develop a well-defined governance structure) and Principle 6 (understand the
+risk and incentives related to risk inherent in the bank’s business lines and processes).
+参考答案：D
+【莽学解析】It is clear that the bank has not considered the incentives that are related to
+risk taking in the bank. George has been given the risk appetite and tolerance statements but
+senior managers keep rewarding George for high returns and seem to be ignoring the fact that
+they are the result of higher risks. Thus, there are incentives linked to increasing risk. The
+governance structure may or may not be well defined, but regardless, is not being adhered to.
+Based on the choices provided, the best match for the scenario is a violation of Principles 5
+and 6.很明显，银行没有考虑与银行承担风险有关的激励措施。George得到了风险偏好和容忍度的声明，但
+高级管理人员一直在奖励George获得的高回报，但是忽略了这样一个事实，即他们是高风险的。因此，存在
+与风险增加相关的激励措施。治理结构可能定义得很好，也可能定义得不好，但无论如何，都没有得到遵守
+。违反原则5和6。
+ 
+15.If we want to evaluate a firm in order to determine whether they have a robust risk appetite
+framework (RAF) and whether the firm has a strong risk culture, according to the Institute of
+International Finance, which of the following is LEAST indicative or LEAST relevant to the
+evaluation?
+A.Simple and uniform set of indicators which can be monitored on a single screen (dashboard
+view).
+B.Inextricable link to strategy development and business plans.
+C.Clarity of ownership and responsibility of risk.
+D.Regular dialog (communication) about risk appetite and evolving risk profiles.
+参考答案：A
+【莽学解析】●It is not possible to look at a simple and uniform set of indicators.
+●Supervisors are encouraged to take a broad perspective when forming views regarding firms’
+commitment to, and progress in, the implementation of RAFs. The process is complex and time
+consuming, and it touches fundamentally on culture and behaviors in organizations.●Assessments
+of commitment and success need to reflect this complexity. Successful outcomes are not
+reflected in the creation of ever more granular limit structures, and no single set of
+indicators or checklists can capture individual firm's progress in this area.稳健的风险偏好框架
+（RAF）和强大的风险文化不可能只是一套简单、统一的指标。 实施RAF的过程既复杂又耗时，它从根本上涉
+及到组织中的文化和行为。
+ 
+16.Which of the following is true about the firm's risk appetite framework (RAF)?
+A.A risk appetite framework (RAF), if supported by a strong risk culture, should be able to
+substitute for systems, controls and limits.
+B.The risk appetite framework should be developed in a top-down style, at the board, and should
+produce a discrete set of mechanisms.
+C.Aspirational statements relating to “zero tolerance” of certain types of risk are essential
+as most risks can be completely avoided.
+D.The risk appetite framework is an iterative learn-by-doing process which requires significant
+time and resources and yields a diversity of approaches among firms.
+参考答案：D
+【莽学解析】The risk appetite framework is an iterative learn-by-doing process which requires
+significant time and resources and yields a diversity of approaches among firms. Implementing
+Robust Risk Appetite Frameworks to Strengthen Financial Institutions, Institute of
+international Finance: "Developing a risk appetite framework requires significant time and
+intellectual resources. The firms that have made the most progress report a substantial element
+of ‘learning by doing’ in an iterative manner over time, and that ongoing dialogue and
+communication at all levels of the firm have been crucial in this process. Risk appetite cannot
+be implemented through top-down decrees, but instead needs to be embraced and understood
+throughout a firm. Business leaders need to be given time to define and embed the concepts of
+risk appetite into their decision-making processes, and this engagement takes time to evolve
+and mature. For this reason, the creation and evolution of a strong risk appetite framework is
+a multiyear journey—results do not appear instantly."风险偏好框架是一个循序渐进的“边做边学
+”的过程，需要大量的时间和资源，并且会在企业之间产生多种方法。实施稳健的风险偏好框架以增强金融
+机构，国际金融学院：“制定风险偏好框架需要大量的时间和智力资源。取得最大进展的公司报告说，这是
+“边干边学”的重要内容。随着时间的流逝，公司各级的持续对话和沟通在此过程中至关重要。不能通过自
+上而下的法令来实现风险承受能力，而需要在整个公司中接受和理解。需要一定的时间来定义风险偏好的概
+念并将其嵌入到决策过程中，并且这种参与需要一定的时间才能发展和成熟，因此，建立和发展强大的风险
+偏好框架需要花费多年的时间，而结果却并非如此立即出现。”
+ 
+17.Jimi Chong is a risk analyst at a mid-sized financial institution. He has recently come
+across an article that described the enterprise risk management(ERM)process. Chong does not
+believe this is a well-written article and he identified four statements that he thinks are
+incorrect. Which of the following statements identified by chong is actually correct?
+A.One of the drawbacks of a fully centralized ERM process is over-hedging risks and taking out
+excessive insurance coverage.
+B.Effective ERM has three key benefits: improved business performance, better risk reporting,
+and stronger stakeholder management.
+C.Managing downside risk and earnings volatility are optional ERM strategies.
+D.A prudent ERM strategy allows a firm to accept more of the profitable risks.
+参考答案：D
+【莽学解析】A strong ERM strategy allows a firm to accept more of the profitable risks and
+reject unprofitable risks. Over-hedging risks and taking out excessive insurance coverage are
+issues faced by companies that do not have an integrated ERM strategy. In addition to improved
+business performance and better risk reporting, the third benefit of effective ERM is improved
+organizational effectiveness .Managing downside risk and earnings volatility are strategies
+typical of companies with a defensive approach to risk management, whereas effective ERM
+focuses on optimizing performance, influencing pricing and allocating resources effectively.一
+个强大的全面风险管理（ERM）战略允许一个公司接受更多的有益风险，并拒绝无益的风险。过度对冲风险和
+采取过度的保险覆盖是一个没有全面风险管理（ERM）战略公司面临的问题。除了提高业务绩效和更好的风险
+报告之外，有效的全面风险管理的第三个好处是提高组织管理效率。管理下行风险和收益波动是典型的防御
+策略，而有效的全面风险管理侧重于优化绩效，有效影响定价和资源配置。
+ 
+18.Which of the following strategies can contribute to minimizing operational risk? Ⅰ.
+Individual responsible for committing to transaction should perform clearance and accounting
+functions. Ⅱ. To value current positions, price information should be obtained from external
+sources. Ⅲ. Compensation scheme for trader should be directly linked to calendar revenues. Ⅳ.
+Trade tickets need to be confirmed with the counterparty.
+A.I and II.
+B.II and IV.
+C.III and IV.
+D.I, II, and III.
+参考答案：B
+【莽学解析】II and IV are both correct. I is incorrect because it violates the separation of
+duties principle. III is incorrect because it ignores the amount of risk assumed by the trader
+and may encourage taking risks that may not become evident during the calendar period.II 和
+IV都是正确的。I是不正确的，因为这违反了职责分离原则。III是不正确的，交易员的薪酬方案不应与日常
+收入直接挂钩，这样会使得交易员冒更多的风险。
+ 
+19.The members of the board of directors should have which of the following responsibilities
+related to risk management: Ⅰ. The board must approve the firm's risk management policies and
+procedures. Ⅱ. The board must be able to evaluate the performance of risk management
+activities. Ⅲ. The board must maintain oversight of risk management activities.
+A.I and II only.
+B.II and III only.
+C.I and III only.
+D.I, II, and III.
+参考答案：D
+【莽学解析】The boards of directors for banks have responsibility for: (1) approval of risk
+management policies and procedures, (2) ensuring that operating managers have the requited
+technical capabilities, (3) evaluating performance of risk management activities, and (4)
+maintaining oversight of risk management activities.银行董事会的职责是：（1）批准风险管理政策和
+程序；（2）确保运营经理具备所需的技术能力；（3）评估风险管理活动的绩效；（4）保持对风险管理活动
+的监督。
+ 
+20.Which of the following statements regarding the responsibilities of the chief risk
+officer(CRO) is least accurate?
+A.The CRO should provide the vision for the organizations risk management.
+B.In addition to providing overall leadership for risk, the CRO should communicate the
+organizations risk profile to stakeholders.
+C.Although the CRO is responsible for top-level risk management, he is not responsible for the
+analytical or systems capabilities for risk management.
+D.The CRO may have a solid line reporting to the CEO or a dotted line reporting to the CEO and
+the board.
+参考答案：C
+【莽学解析】While it is accurate that the CRO is responsible for top-level risk management, he
+is also responsible for the analytical or systems capabilities for risk management.首席风险官
+(CRO)不仅负责顶级层面的(top-level )风险管理，而且也负责风险管理的分析或系统能力。
+ 
+21.It would be prudent for a trader to direct accounting entries in the following situation:
+A.Never.
+B.When senior management of the firm and the Board of Directors are aware and have approved
+such on an exception basis.
+C.When audit controls are such that the entries are reviewed on a regular basis to ensure
+detection of irregularities.
+D.Solely during such times as staffing turnover requires the trader to back-fill until
+additional personnel can be hired and trained.
+参考答案：A
+【莽学解析】In accordance with the separation of duties principle, it would never be
+appropriate for a trader to direct the accounting entries.根据职责分离原则，交易者指导会计分录
+永远不合适。
+ 
+22.Which of the following statements regarding corporate and/or risk culture is correct?
+A.Risk culture is consistent with corporate culture.
+B.Legal and regulatory factors have a greater impact on corporate culture than risk culture.
+C.Corporate culture explains why an organization reacts a certain way to a current business
+situation.
+D.Organizations operating in countries with reliable information sources tend to have less
+aggressive risk cultures.
+参考答案：C
+【莽学解析】Corporate culture results from common values, fundamental assumptions, beliefs,
+behaviors, and past business decisions. Within an organization, the participants integrate
+those factors so that they may become internalized core values. In short, the corporate culture
+may explain how or why an organization reacts a certain way to a current business situation.公
+司文化源于共同的价值观、基本假设、信念、行为和过去的商业决策。在一个组织内，参与者将这些因素整
+合起来，使其成为内在化的核心价值观。简言之，公司文化可以解释一个组织如何或为什么以某种方式对当
+前的业务状况作出反应。
+ 
+23.Which is the best definition of a firm's risk appetite?
+A.The existing levels of risk being run by a firm.
+B.The maximum amount of risk a firm is technically able to assume given its capital base.
+C.The amount and type of risk that a company is able and willing to accept in pursuit of its
+business objectives.
+D.The norms and traditions of behavior of individuals and of groups within an organization that
+determine the way in which they identify, understand, discuss, and act on the risks the
+organization confronts and the risks it takes.
+参考答案：C
+【莽学解析】●Risk appetite is the amount and type of risk that a company is able and willing
+to accept in pursuit of its business objectives. ●In regard to incorrect (A) and (B), "Risk
+appetite in this sense is linked to but conceptually separate from 'risk capacity,' which is
+the maximum amount of risk a firm is technically able to assume given its capital base,
+liquidity, borrowing capacity, and regulatory constraints. It is also distinct from but related
+to the existing levels of risk being run by a firm. It is obviously essential to ensure that a
+firm's risk appetite is defied in such a way as to ensure that it does not exceed the firm's
+risk capacity." ●In regard to incorrect (D), "Risk culture can be defined as the norms and
+traditions of behavior of individuals and of groups within an organization that determine the
+way in which they identify, understand, discuss, and act on the risks the organization
+confronts and the risks it takes.”风险偏好是指一家公司为追求其业务目标而能够并愿意接受的风险的
+数量和类型。 A和B不正确，“在这个意义上，风险偏好与风险能力（risk capacity）有关，但在概念上是
+分开的，风险能力（risk capacity）是一家公司在技术上能够承担的最大风险量，考虑到其资本基础、流动
+性、借贷能力和监管限制。风险能力（risk capacity）也有别于公司经营的现有风险水平，但与之相关。显
+然，必须确保公司的风险承受能力受到挑战，以确保其不超过公司的风险承受能力。” D不正确，“风险文
+化（Risk culture）可以定义为组织内个人和群体的行为规范和传统，这些规范和传统决定了他们识别、理
+解、讨论和应对组织面临的风险和承担风险的方式。”
+ 
+24.Lisa Tahara, FRM, is a risk specialist on the board of directors of a financial institution.
+Her current task involves the implementation of a new risk appetite framework(RAF) for the
+firm. Which of the following concerns is Lisa least likely to have?
+A.The mitigation of nonquantifiable risks.
+B.The relationship between risk appetite and employee remuneration.
+C.The educating and training of top management on the details of the RAF.
+D.The development of an approach to translate risk appetite statements into risk limits and
+tolerances.
+参考答案：C
+【莽学解析】●Top-level management is most likely to be very well versed in the RAF and its
+impact on the firm. however, this may not be the case with middle management. Therefore, Lisa
+would more likely be concerned about training a broader range of employees below top-level
+management on the details of the RAF. ●Choice A is not correct because Lisa would be concerned
+with how the RAF would fully incorporate the nonquantifiable risks especially because it is
+difficult to identify and properly mitigate such risks. ●Choice B is not correct because to
+ensure a clear connection between the RAF and risk culture, risk appetite must be clearly tied
+to employee remuneration. ●Choice D is not correct because in the context of aggregating
+risks, the challenge remains in developing one standard approach to translate high level risk
+appetite statements into more objective measures in the form of risk limits and tolerances for
+each of the business units.高层管理人员很可能非常精通RAF及其对公司的影响。然而，中层管理人员可
+能不是这样。因此，Lisa可能更关心对于中层员工和基层员工的培训。 A是不正确的，因为Lisa会关注RAF如
+何将不可量化的风险完全纳入其中，因为它很难识别和降低。 B是不正确的，因为为了确保RAF和风险文化之
+间有明确的联系，风险偏好必须明确地与员工薪酬挂钩。 D是不正确的，因为在综合风险的背景下，仍然存
+在着一个挑战，即为每个业务部门制定一种标准方法，将高水平（high level ）的风险偏好声明转化为具体
+的风险限额和容忍度。
+ 
+25.Which of following recommended by the Group of Thirty (2015 and 2018 recommendations) for
+improving the conduct and culture of banks is wrong?
+A.Banks should look at culture and look to achieve consistent behavior and conduct aligned with
+firm values, as key to strategic success.
+B.Asset owners and third-party fund managers should tell boards directly that they consider
+effective governance and accountability to be a priority cultural matter for the firm and
+investors.
+C.Banks should remove the link between quantitative sales targets and compensation for sales
+staff to minimize the pressure that can lead to misconduct and help staff prioritize meeting
+customer\/client needs.
+D.Banks should ensure that the third line of defense is robust, operational dependent, suitably
+staffed, and has a clear mandate to examine adherence to standards.
+参考答案：D
+【莽学解析】The third line of defense should be robust and operational independent.第三道防线应
+该是强大的，独立运作的。
+ 
+26.As a risk manager for Bank ABC, John is asked to calculate the market risk capital charge of
+the bank’s trading portfolio under the internal models approach using the information given in
+the table below. Assuming the return of the bank’s trading portfolio is normally distributed,
+what is the market risk charge of the trading portfolio? VaR (95%, 1-day) of last trading day
+USD 40,000 Average VaR (95%, 1-day) for last 60 trading days USD 20,000 Multiplication Factor 3
+A.USD 84,582
+B.USD 134,594
+C.USD 268,200
+D.USD 222,893
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+27.Duane Danning is a junior risk analyst at a large risk management firm. He has been asked to
+assess the firm’s risk modeling practices and evaluate potential ways in which errors could be
+introduced into models. In his analysis, Danning indicates that errors can be introduced into
+models through programming bugs and errors in VaR estimates but rarely through incorrect
+position mappings. Danning’s analysis is most accurate with regard to:
+A.Only programming bugs and incorrect position mappings.
+B.Only programming bugs and errors in VaR estimates.
+C.Only errors in VaR estimates.
+D.Only incorrect position mappings.
+参考答案：B
+【莽学解析】Danning's analysis is most accurate with regard to only programming bugs and errors
+in VaR estimates. Incorrect position mappings can also lead to material errors in risk
+models.Danning的分析是最准确的，只涉及编程错误和VaR估计错误。错误的头寸映射也可能导致风险模型中
+的重大错误。
+ 
+28.Greg Nugent, a regulator with the Office of the Comptroller of the Currency, is presenting
+research on stress tests to a group of regulators. He is explaining that macro-variable stress
+testing can be misleading for some banks because of geographical differences in macro risk
+factors. He gives the example of the wide range of unemployment rates across the United States
+following the 2007-2009 financial crisis. Which type of loan did Nugent most likely identify as
+having losses tied to unemployment rates?
+A.Residential real estate loans.
+B.Credit card loans.
+C.Commercial real estate loans.
+D.Industrial term loans.
+参考答案：B
+【莽学解析】Credit card losses are particularly sensitive to unemployment figures.For example,
+unemployment was 12.9% in Nevada in July 2011，3.3% in North Dakota, and the national
+unemployment rate was 9.1%.Credit card loss rates varied dramatically from region to region
+during this period. Residential mortgages are affected by unemployment as well but people are
+generally more likely to quit paying credit card bills before mortgages.信用卡损失对失业数字特
+别敏感。例如，内华达州2011年7月的失业率为12.9%，北达科他州为3.3%，全国失业率为9.1%。在此期间
+，信用卡损失率因地区而异。住房抵押贷款也受到失业率的影响。
+ 
+29.Which of the following statements regarding the role of employees in making an organization
+more cyber resilient is correct
+A.Effective cyber training requires the full buy-in of all employees.
+B.Effective gamification requires mandatory participation of the employees.
+C.To date, studies of incentive training have shown incentivized training yields limited but
+positive results.
+D.Treating cyber security as a competitive game would not be considered appropriate.
+参考答案：A
+【莽学解析】Training that is ultimately effective requires staff to fully buy-in to the process
+and participate; the more interactive, the better.One of the principles of gamification is to
+make participation voluntary, not mandatory. In fact, one study at a major corporation showed
+very clear and strongly-positive results with regard to phishing links and emails as a result
+of incentivized training. Treating cyber security as a competitive game, with scores posted,
+for example, is not inappropriate.最终有效的培训要求员工完全接受过程并参与；互动越多越好。游戏
+化的原则之一是让参与成为自愿的，而不是强制性的。事实上，一项研究表明，通过激励性培训，在网络钓
+鱼链接和电子邮件方面取得了非常明确和积极的成果。把网络安全当作一个竞争性的游戏，比如，把分数公
+布出来，这并不不合适。
+ 
+30.The use of which of the following items is meant more for protecting against risk
+deterioration?
+A.Risk based pricing.
+B.Management incentives.
+C.Credit portfolio management.
+D.Customer profitability analysis.
+参考答案：C
+【莽学解析】Credit portfolio management is used as a means to protect against risk
+deterioration. In contrast, risk based pricing is used to maximize the bank's profitability；
+customer profitability analysis is used to determine unprofitable or only slightly profitable
+customers； and management incentives are used to motivate managers to participate in the
+technical aspects of the economic capital allocation process.信用组合管理被用作防范风险恶化的一
+种手段。相比之下，基于风险的定价会使银行的盈利能力最大化；客户盈利能力分析被用于确定不盈利或仅
+微利的客户；管理激励被用于激励管理者积极参与经济资本的配置过程。
+ 
+31.A common trade during 2004 and 2005 was to sell protection on the equity tranche and buy
+protection of the mezzanine tranche of the CDX.NA.IG index. Which of the following statements
+regarding this trade is least accurate?
+A.The trade was set up to be default-risk neutral at initiation.
+B.The trade was short credit spread risk on the equity tranche and long credit spread risk on
+the mezzanine tranche.
+C.The main motivation for the trade was to achieve a positively convex payoff profile.
+D.The trade was designed to benefit from credit spread volatilities.
+参考答案：B
+【莽学解析】The trade was long credit and credit spread risk on the equity tranche and short
+credit and credit spread risk on the mezzanine tranche. The other statements are accurate.B正好
+方向说反。其他的说法是正确的。
+ 
+32.Which of the following statements is most likely correct Ⅰ Under the expected losses
+methodologies, loss estimation involves three elements: probability of default, loss given
+default, and exposure at default. Ⅱ Net interest income projections should incorporate
+changing conditions for balance sheet positions including embedded options, prepayment rates,
+loan performance, and repricing rates.
+A.I only.
+B.II only.
+C.Both I and II.
+D.Neither I nor II.
+参考答案：C
+【莽学解析】Both statements are correct. Loss estimation involves probability of default, loss
+given default, and exposure at default. Net interest income projections should incorporate
+changing conditions for balance sheet positions, including embedded options, prepayment rates,
+loan performance, and repricing rates.两种说法都是正确的。损失估计包括违约概率、违约损失率和违
+约风险敞口。净利息收入预测应考虑资产负债表头寸不断的变化，包括嵌入期权、提前还款率、贷款绩效和
+重新定价率。
+ 
+33.An operational risk manager is asked to report a bank’s operational risk capital under the
+Standardized Measurement Approach (SMA) proposed by the Basel Committee in March 2016. The
+treasury department produces the following data for the bank, calculated according to the SMA
+guidelines: ● Business Indicator (BI): EUR 1,200 million ● Internal Loss Multiplier: 1 In
+addition, the manager uses the Business Indicator buckets in the Business Component presented
+in the table below:
+ 
+ 
+ What is the correct operational risk capital that the bank should report under the SMA?
+A.EUR 120 million
+B.EUR 150 million
+C.EUR 158 million
+D.EUR 180 million
+参考答案：B
+【莽学解析】B is correct. Under the revised Standardized Measurement Approach, operational risk
+capital is equal to the Business Indicator Component multiplied by the Internal Loss
+Multiplier.The Business Indicator Component is determined by the Business Indicator (BI), which
+is made up of almost the same P&L items that are found in the composition of Gross Income (GI).
+The main difference relates to how the items are combined. The BI uses positive values of its
+components, thereby avoiding counterintuitive negative contributions from some of the bank’s
+businesses to the capital charge (e.g. negative P&L on the trading book), which is possible
+under the GI. In addition, the BI includes income statement items related to activities that
+produce operational risk that are omitted (e.g. P&L on the banking book) or netted (e.g. fee
+expenses, other operating expenses) in the GI.In this case, the BI is already given as EUR
+1,200 million.Therefore, with a BI of EUR 1,200 million falling into the BI range of Bucket 2,
+and given that the Internal Loss Multiplier is equal to 1, the calculation of the operational
+risk capital for the bank in Bucket 2 is calculated as follows:SMA operational risk capital
+(Bucket 2) = BIC×1 = EUR 120 million + 0.15(BI – EUR 1 billion) = EUR 120 million + 0.15(EUR
+1,200 million – EUR 1,000 million) = EUR 150 million.BI=EUR 1,200 millionSMA下操作风险资本金
+(Bucket 2) = BIC×1 = EUR 120 million＋0.15(BI – EUR 1 billion) = EUR 120 million＋  
+0.15(EUR 1,200 million – EUR 1,000 million) = EUR 150 million
+ 
+34.In managing model risk, risk managers should do all of the following expect:
+A.Try to eliminate model risk.
+B.Avoid adding complexity to a model unless there is a strong need.
+C.Backtest and stress test models.
+D.Check the sensitivity of a model’s performance to changes in key assumptions.
+参考答案：A
+【莽学解析】Model risk cannot be eliminated. A risk manager can protect against some of the
+adverse consequences of model risk by becoming aware of the limitations of a model and applying
+it only to situations for which it is appropriate.模型风险无法消除。风险管理者可以通过了解模型
+的局限性并正确使用，来防范模型风险的不利后果。
+ 
+35.Which of the following changes in stress testing was not the result of the 2009 Supervisory
+Capital Assessment Program(SCAP)?
+A.Banks are now required to provide the results of their own scenario stress tests.
+B.Stress scenarios are now broader in nature.
+C.Stress testing now focuses on the whole firm.
+D.Stress testing now focuses on revenues, costs, and projected losses.
+参考答案：A
+【莽学解析】The 2009 U.S. bank stress test, known as the Supervisory capital Assessment
+Program（SCAP）， was the first macro-prudential stress test after the 2007-2009 financial
+crisis.SCAP是次贷危机后第一个基于宏观审慎的压力测试框架。
+ 
+36.For banks that use the advanced internal ratings-based (advanced IRB) approach to credit
+risk, the primary inputs to the capital calculations are:
+A.Credit assessments of external rating agencies.
+B.The banks’ internal assessments of key risk drivers.
+C.Mandated by bank supervisors.
+D.Interest rates.
+参考答案：B
+【莽学解析】Under the advanced IRB approach, the bank uses its own internal measures of credit
+risk and exposure in capital calculations.在高级内部评级法中，银行可以自行估计PD、LGD、EAD。
+ 
+37.Which of the following is not a source of model risk?
+A.Programming errors.
+B.Failure to recalibrate models.
+C.Minimal rounding errors from algorithms.
+D.Implementation of models for situations for which the models were not originally designed.
+参考答案：C
+【莽学解析】Answer: CMinimal rounding errors is an attractive feature of an algorithm.模型风险
+包含两大类问题，一是模型建模本身相关的问题，包括模型的假设、参数等问题；而是模型使用的相关问题
+。最小舍入误差是算法的一个有吸引力的特征。
+ 
+38.An analyst is discussing net interest income projections with a colleague. Which of the
+following items should not be incorporated into net interest income projections?
+A.Prepayment rates.
+B.Balance sheet positions.
+C.Forward earnings guidance.
+D.Embedded options.
+参考答案：C
+【莽学解析】Net interest income projections should incorporate changing conditions for balance
+sheet positions, including embedded options, prepayment rates, loan performance, and repricing
+rates.净利息收入预测应考虑资产负债表头寸不断的变化，包括嵌入期权、提前还款率、贷款绩效和重新定
+价率。
+ 
+39.Under Basel II, if a bank uses the internal ratings-based (IRB) foundation approach for the
+calculation of credit risk, the bank uses:
+A.Internal estimates of default probabilities and external estimates for other model inputs.
+B.Internal estimates of default probabilities and internal estimates for other model inputs.
+C.External estimates of default probabilities and external estimates for other model inputs.
+D.External estimates of default probabilities and internal estimates for other model inputs.
+参考答案：A
+【莽学解析】Under the IRB foundation approach the bank uses internal estimates of default
+probabilities and external estimates for other model inputs. Under the IRB advanced approach
+the bank would use internal estimates for all inputs. Under the standardized approach all
+inputs are external estimates.在基础内部评级法中，银行自己可自行计量的参数是违约概率PD，而 其他
+参数或参数计算方法，则由巴塞尔委员会决定（LGD、EAD、M和ρ由巴塞尔委员会决定）。 在高级内部评级
+法中，银行可以自行估计PD、LGD、EAD以及公司业务、主权债、同业业务风险敞口的调整年限。 在标准法下
+，所有输入都需要外部估计。
+ 
+40.A bank simulates the distribution of its operational losses. It finds that the loss that
+corresponds to the 99.9th percentile of potential losses is $250,000 and the mean of the
+distribution is $30,000. An estimate of operational risk economic capital is closest to:
+A.$220,000.
+B.$30,000.
+C.$250,000.
+D.$270,000.
+参考答案：A
+【莽学解析】Operational risk economic capital is the difference between the loss at a given
+confidence level and the expected loss. In this case, $250,000 – $30,000 = $220,000.操作风险经
+济资本= VaR（x%）-EL=$250,000 – $30,000 = $220,000。
+ 
+41.The Basel II Accord recommends basic methods for assessing operational risk that estimate
+the risk by:
+A.Applying a floating percentage to operating assets based on their risk profiles.
+B.Multiplying annual gross income by a set percentage.
+C.Adding a premium to the credit risk measures used by the bank.
+D.Adjusting the required capital by a fixed percentage of total bank assets.
+参考答案：B
+【莽学解析】The basic indicator approach and the standardized approach both multiply gross
+income by a set percentage to estimate operational risk.基本指标法和标准化法都将总收入乘以一个
+固定的百分比来估计操作风险。
+ 
+42.Pillar 1 of the Basel II framework allows banks to use various approaches to calculate the
+capital requirements for credit risk, operational risk and market risk. Which of the following
+Basel II approaches allows a bank to explicitly recognize diversification benefits?
+A.The internal models approach for market risk.
+B.The internal ratings based approach for credit risk.
+C.The basic indicator approach for operational risk.
+D.The standardized approach for operational risk.
+参考答案：A
+【莽学解析】The internal models approach allows banks to use risk measures derived from their
+own internal risk management models, subject to a set of qualitative conditions and
+quantitative standards. In terms of risk aggregation within market risk, banks are explicitly
+allowed to recognize empirical correlations across broad market risk categories, and, thus,
+diversification benefits.内部模型方法允许银行使用从自身内部风险管理模型中衍生出来的风险度量，但
+要遵循一套定性和定量标准。就市场风险内的风险加总而言，银行要考虑其风险分散化效果，从而获得分散
+化收益。
+ 
+43.The role of senior managers in managing model risk includes all of the following except
+A.Becoming expert modelers.
+B.Establishing an organizational framework that implements sound risk management procedures.
+C.Questioning model features.
+D.Understanding the fundamentals of model risk.
+参考答案：A
+【莽学解析】Senior managers need not be expert modelers, but they do need to understand the
+fundamentals of model risk so that they can ask the right questions and implement sound risk
+management procedures.高级管理人员不必是专家模型师，但确实需要了解模型风险的基本原理，以便他们
+能够提出正确的问题并实施健全的风险管理程序。
+ 
+44.Which of the following two model errors in the RMBS valuation and risk models are considered
+to have contributed the most to a significant underestimation of systematic risk in subprime
+RMBS returns during 2008-2009?
+A.The assumption of future house price appreciation and the assumption of high correlations
+among regional housing markets.
+B.The assumption of future house price declines and the assumption of high correlations among
+regional housing markets.
+C.The assumption of future house price appreciation and the assumption of low correlations
+among regional housing markets.
+D.The assumption of future house price declines and the assumption of low correlations among
+regional housing markets.
+参考答案：C
+【莽学解析】The two model errors considered to have contributed the most to a significant
+underestimation of systematic risk were (1) the assumption of future house price appreciation,
+and (2) the assumption of low correlations among regional housing markets.被认为对系统风险的显
+著低估贡献最大的两个模型误差是（1）未来房价升值的假设，以及（2）区域房地产市场之间低相关性的假
+设。这是造成次贷危机发生主要的原因之一。
+ 
+45.Given the following information, what is Bank A’s net stable funding ratio?
+ 
+A.65%
+B.89%
+C.105%
+D.125%
+参考答案：C
+【莽学解析】The longer-term funding ratio is equal to the available amount of stable funding
+divided by the required amount of stable funding. Under Basel III, this ratio must exceed 100%.
+Bank A’s net stable funding ratio = $210/$200 = 105%.净稳定融资比率=可用的稳定资金(Amount of
+stable funding, ASF)/(所需的稳定资金(Required Amount of stable funding, RSF))=210/200=105%
+ 
+46.“Convolution” means:
+A.Projecting frequency and severity probability distributions into independent losses over a
+time period.
+B.Analyzing frequency and severity loss data with regression analysis techniques.
+C.Reducing loss frequency and severity through a coordinated risk-management program.
+D.Combining frequency and severity probability distributions into independent losses over a
+time period.
+参考答案：D
+【莽学解析】Convolution means combining frequency and severity probability distributions into
+independent losses over a time period.卷积意味着在一段时间内将损失发生的频率和严重性的概率分布
+合并成独立的损失。
+ 
+47.Which of the following is false regarding frequency distributions of operational risk events
+and severity distributions of operational risk events? They:
+A.Can be combined in a process known as convolution.
+B.Generally follow the same distribution.
+C.Can help the analyst ascertain the cause of operational losses.
+D.Must account for interdependencies when aggregating across many processes.
+参考答案：B
+【莽学解析】Total risk is composed of frequency and severity. A Poisson distribution is
+frequently assumed for the distribution of operational risk event frequency. The severity of
+each event often follows a different distribution, such as a lognormal. These distributions can
+be combined into a single operational loss distribution in a process known as convolution.
+Separating losses into likelihood and severity allows the analyst to determine whether
+operational losses stem from low frequency high severity events or high frequency low severity
+events and aids diagnosis. If this analysis is repeated for multiple processes in the firm,
+which is necessary to estimate total operational risk using a bottom-up approach, then the
+analyst must consider correlations among the different processes.总风险由损失频率和损失严重性组
+成。操作风险事件频率的分布通常假设为泊松分布。每个事件损失的严重性通常遵循不同的分布，如对数正
+态分布。 利用卷积，这些分布可以组合成单个操作损失分布。将损失分为低频高损事件和高频低损事件，便
+于采取不同的建模方式和管理方式。 如果对企业中的多个流程重复进行分析（这是使用自下而上的方法估计
+总风险所必需的），那么分析师必须考虑不同流程之间的相关性。
+ 
+48.Capital is used to protect the bank from which of the following risks:
+A.Risks with an extreme financial impact.
+B.High frequency low loss events.
+C.Low frequency risks with significant financial impact.
+D.High frequency uncorrelated events.
+参考答案：C
+【莽学解析】Low-frequency, high-severity risks will create the largest unexpected losses and,
+therefore, require risk capital to prevent losses.低频高损事件会造成最大的意外损失，因此，需要
+风险资本来防止损失。
+ 
+49.Which of the following characteristics outlined describe the measurement of stressed value
+at risk?
+A.The stressed VaR is calculated on a monthly basis.
+B.Historical bank data from the same portfolio is used in measuring SVaR.
+C.The stressed confidence interval is a 95% one-tailed test.
+D.The multiplication factor used in calculating SVaR is the same as that for VaR.
+参考答案：B
+【莽学解析】The stressed value at risk should be calculated on a weekly basis. This measure is
+calculated by combining current portfolio performance data based on the 10-day, 99% confidence
+interval with firm’s historical data from a significantly financially stressed period of the
+same portfolio.压力VaR应每周计算一次，通过某一压力年份的数据得到的，在数据特征上，市场风险资本
+金要求依旧是10天的窗口期，99%的置信水平。
+ 
+50.Thrift Bank carries risk-weighted assets (RWA) of $40.0 billion. In regard to its eligible
+regulatory capital, the bank holds: $2.8 billion of Common Equity Tier 1 Capital (“Core Tier
+1”) $0.2 billion of Additional Tier 1 Capital $1.4 billion of Tier 2 Capital (“Gone
+concern”) Does Thrift Bank meet the Basel III capital requirements?
+A.No, because Tier 1 Capital is not at least 8.5%
+B.No, because Total Capital is not at least 10.5%
+C.Yes, because Tier 1 is at least 4.0%
+D.Yes, because Tier 2 is at least 2.5%
+参考答案：A
+【莽学解析】Answer: ANo, because Tier 1 Capital is not at least 8.5%Basel III requires Core
+Tier 1 (Common Equity) of 7.0%, Tier 1 of 8.5%, and Tobal Capital of 10.5%:Core Tier 1 (Common
+Equity) ratio of at least 7.0% = 4.5% 2.5% Conservation Buffer. Thrift Bank holds exactly
+sufficient Common Equity: 2.8/40.0 =7.0%.Tier 1 (Common Equity Additional Tier 1) ratio of at
+least 8.5% = 6.0% Tier 1 2.5% Conservation buffer.Thrift Bank only holds Tier 1:3.0/40.0 =
+7.5%Total Capital ratio of 10.5% = 8.0% total capital 2.5% Conversation Buffer. Thrift Bank
+holds Total Capital:4.4/40.0 = 11.0%该银行的一级资本充足率并没有达到8.5%，巴塞尔协议III要求在考
+虑留存缓释资本后，银行的一级资本充足率至少要达到8.5%，一级核心资本充足率至少达到7%，总资本充足
+率至少达到10.5%。该银行的一级核心资本充足率恰好是2.8/40=7%，但是一级资本的充足率是3/40=7.5%，并
+没有达到8.5%的要求，总资本是4.4/40=11%，符合要求，综上所述，选择A。
+ 
+51.The most data intensive approach to assessing regulatory capital for operational risk is
+the:
+A.Basic indicator approach.
+B.Standardized approach.
+C.Foundation internal ratings based approach.
+D.Advanced measurement approach.
+参考答案：D
+【莽学解析】The most data intensive approach to assessing regulatory capital for operational
+risk is the advanced measurement approach. Note that the foundation internal ratings-based
+approach is used for assessing credit risk.高级计量法（AMA）非常灵活，它对数据的要求非常高，要
+求金融机构同时使用内部数据、外部数据、情景分析数据以及内部控制环境的一些数据，不仅要把银行的业
+务分成8大业务条线，而且要把损失分成7大类损失事件。
+ 
+52.The use of performance metrics to assist in determining an acceptable level of performance
+by a service provider would most appropriately be included in which of the following provisions
+of a contract with a financial institution?
+A.Customer complaints.
+B.Default and termination.
+C.Indemnification.
+D.Right to audit.
+参考答案：B
+【莽学解析】With regard to the default and termination provision, common reasons include poor
+performance and nonperformance of duties, which would be detected through the use of
+performance metrics. The customer complaints provision deals with which party will deal with
+customer complaints. The indemnification provision deals with the service provider to indemnify
+the financial institution in the event of any legal proceedings arising from the service
+provider's negligence. The right to audit provision deals with allowing the financial
+institution to audit the service provider.关于违约和终止条款，常见的原因包括履行不力和不履行职
+责，通过使用绩效指标来发现。
+53.Which of the statements about incident response and crisis management is wrong ?
+A.The aim of cyber resilience is to maintain a system’s capability to deliver the intended
+outcome at all times, including crisis when regular delivery has failed.
+B.To balance risk with opportunity, a corporate risk-based strategy needs to be put in place
+that manages the vulnerabilities, threats, risks and impacts.
+C.Successful training can be achieved only with full staff engagement. If the training is
+perceived as dull, tedious and boring, the results are likely to be disappointing, Unless the
+training is technically expert.
+D.Gamification usually means awarding points to employees who do the right thing, with various
+forms of recognition, including badges, prizes, and a leader board listing point totals.
+参考答案：C
+【莽学解析】Successful training can be achieved only with full staff engagement. If the
+training is perceived as dull, tedious and boring, the results are likely to be disappointing,
+No matter how technically expert the training is.只有全员参与，才能取得成功的培训。如果训练被认
+为是枯燥、乏味和无聊的，那么无论训练在技术上多么专业，结果都可能令人失望。
+ 
+54.The advanced internal ratings based (IRB) approach to calculating risk weights differs from
+the foundation IRB approach in that the advanced approach:
+A.Allows for internal estimates of loss given default (LGD) and exposure at default (EAD).
+B.Relies on supervisory estimates for most risk parameters.
+C.Offers less flexibility in estimating risk parameters.
+D.Allows for internal estimates of probability of default (PD) and exposure at default (EAD).
+参考答案：A
+【莽学解析】The advanced IRB approach offers more flexibility, because it does not rely on
+supervisory estimates of risk parameters. Both the foundation and advanced approaches allow for
+internal estimates of PD, but the foundation approach requires the use of supervisory estimates
+for all other parameters.在高级内部评级法中，银行可以自行估计PD、LGD、EAD以及公司业务、主权债、
+同业业务风险敞口的调整年限。
+ 
+55.Impact tolerances are least likely to provide a
+A.framework for firms and FMIs to prioritize business services and allocate investments and
+resources.
+B.clear framework for testing operational resilience.
+C.focal point for communication and reporting with supervisory authorities.
+D.standardized benchmark for all firms regardless of firm size or geographical location.
+参考答案：D
+【莽学解析】Impact tolerances provide a framework for firms and FMIs in prioritizing business
+services and appropriately allocating investments and resources, a clear framework for testing
+operational resilience and a focal point for communication and reporting with supervisory
+authorities. Individual firms and FMIs are expected to define their own impact tolerances and
+no standard or benchmark currently exists.监管机构认为，为最重要的业务服务设置冲击容忍度可以
+：（1）支持公司和财务管理公司优先考虑投资和资源分配；（2）当公司和金融市场基础设施要测试自己的
+弹性时，提供明确的范围；（3）提供监督参与的重点。通过设定和明确的冲击容忍度，另一个好处是，企业
+有可能更全面地考虑替代方案。
+ 
+56.In characterizing various dimensions of a bank's data, the Basel Committee has suggested
+several principles to promote strong and effectiv risk data aggregation capabilities. Which
+statement correctly describes a recommendation which the bank should follow in accordance with
+the given principle？
+A.The integrity principle recommends that data aggregation should be completely automated
+without any manual intervention
+B.The completeness principle recommends that a financial institution should capture data on its
+entire universe of material risk exposures.
+C.The adaptability principle recommends that a bank should frequently update its risk reporting
+systems to incorporate changes in best practices.
+D.The accuracy principle recommends that the risk data be reconciled with management s
+estimates of risk exposure prior to aggregation.
+参考答案：B
+【莽学解析】The completeness principle recommends that a bank be able to capture and aggregate
+all data on the material risks to which it is exposed across the organization. This will allow
+it to identify and report risk exposures, concentrations, and set exposure limits.完整性原则建
+议银行能够捕获和汇总其在整个组织中所面临的重大风险的所有数据，这将使其能够识别和报告风险暴露
+，风险集中度和设定暴露限值。
+ 
+57.Which of the statements regarding on resilient security solution is wrong ?
+A.A resilient strategy for coping with a cyber attack should minimize the instrusion dwell
+time, which is the time from initial system compromise to the time the malware ceases to be
+effective.
+B.Anomaly detection algorithms use state-of-the art artificial intelligence methods,
+incorporating sophisticated Bayesian techniques of statistical inference. These probabilistic
+tools for searching for discrepancies have been refined using ideas developed for big data
+analysis.
+C.Conducting a pen test to prove that a missing patch is a security issue typically raises the
+cost of testing, and runs the expensive risk of potential system downtime.
+D.Junior security personnel may work obsessively to reduce vulnerability where they find it and
+the effectiveness of risk reduction should be considered prior to the cost on risk management.
+参考答案：D
+【莽学解析】Whereas risk reduction is essential, cost-conscious senior management and their
+accountants are particularly interested in the risk-return trade-off. The actual level of risk
+reduction achieved may in fact be lower than is optimistically perceived.虽然降低风险至关重要
+，但注重成本的高级管理人员应该对风险-回报的权衡更感兴趣。
+ 
+58.Which of the following securities is included in Tier 1 capital? Ⅰ. Common equity. Ⅱ.
+Subordinated debt. Ⅲ. Hybrid instruments. Ⅳ. Cumulative perpetual preferred stock.
+A.I only
+B.I and II only
+C.I and IV only
+D.I, II, III, and IV
+参考答案：A
+【莽学解析】Tier 1 capital, also called core capital, is composed of common equity,
+noncumulative perpetual preferred stock, and minority equity interest in consolidated
+subsidiaries, less goodwill and other deductions. Tier 2 capital, also called supplementary
+capital, is composed of hybrid instruments that are structured to be more or less permanent.
+Subordinated debt is a component of Tier 3 Capital.一级资本包括普通股股东权益、非累积永久优先股
+、合并子公司的少数股权权益、已披露准备金，减去商誉和其他扣除额。
+ 
+59.Suppose that a business line of a bank has a loan book of USD 100 million. The average
+interest rate is 10%. The book is funded at a cost of USD 5.5 million. The economic capital
+against these loans is USD 7.5 million (7.5% of the loan value) and is invested in low risk
+securities earning 5.5% per annum. Operating costs are USD 1.5 million per annum and the
+expected loss on this portfolio is assumed to be 1% per annum (i.e., USD 1 million). The firm's
+cost of capital is 15%. The RAROC for this business line is:
+A.26.7%
+B.37.1%
+C.21.2%
+D.32.2%
+参考答案：D
+【莽学解析】如下： RAROC= (100*0.1-5.5-1.5-1 7.5*0.055)/7.5=2.4125 / 7.5 = 32.2%.
+ 
+60.Which approach(es) examine firm-specific impacts of adverse events?
+A.Operational resilience approach.
+B.Traditional approach.
+C.Both the operational resilience approach and the traditional approach.
+D.Neither the operational resilience approach nor the traditional approach.
+参考答案：C
+【莽学解析】Both approaches examine the firm-specific impact of adverse events,however, the
+operational resilience approach also examines the macroeconomic impact.这两种方法都考察了不利事
+件对企业的具体影响，然而，运营弹性也考察了宏观经济影响。
+ 
+61.Gerard Kuper is modeling the number of operational risk loss events that could adversely
+impact Bank ABC in 2010. He expects the number of operational risk loss events for the year to
+be relatively small. Which type of distribution is he least likely to use?
+A.Normal distribution.
+B.Binomial distribution.
+C.Negative binomial distribution.
+D.Poisson distribution.
+参考答案：A
+【莽学解析】The last three distributions require the number n to be positive, which is not the
+case for the normal distribution.建模损失频率一般用离散的分布。A选项是正态分布，是连续分布，不
+合适。
+ 
+62.A measure intended to protect the banking sector by taking macro-environment factors into
+consideration is the:
+A.Leverage ratio.
+B.Procyclical deleveraging ratio.
+C.Countercyclical buffer.
+D.Counterparty credit risk adjustor.
+参考答案：C
+【莽学解析】The countercyclical buffer requires that banking authorities monitor credit growth
+and other system-wide factors. If system-wide risks increase, authorities can require banks to
+hold additional capital, called the countercyclical buffer.逆周期缓冲资本旨在抑制顺周期效应造成
+的影响，增加超额资本储备，用于弥补因经济衰退导致的损失，以保证商业银行能够持续地达到最低资本充
+足率要求。各国监管机构可根据自身情况自行确定不同时期的逆周期缓冲资本，其范围在0至2.5%之间。在正
+常市场情况下，逆周期缓冲资本设为2.5%，当经济衰退时，银行可以以合理的速度释放缓冲资本以此减轻周
+期性影响。
+ 
+63.The Supervisory Review Process does not include which of the following elements?
+A.Verifying compliance with Pillar 2.
+B.Reviewing internal control systems.
+C.Assessing operational risks.
+D.Assessing credit concentration risk.
+参考答案：A
+【莽学解析】The Supervisory Review Process is Pillar 2 and should include verifying compliance
+with Pillars 1 and 3.监督审查是支柱2，包括核查对支柱1和支柱3的遵守情况。
+ 
+64.Capital Bank has a loan portfolio that consists of $100 million of high quality (AAA rated)
+sovereign debt, $50 million of AAA-rated corporate debt, and $50 million of B-rated corporate
+debt. Use the Basel II standardized approach to calculate the capital requirement. Assume that
+the corporate risk weightings are 20 percent for AAA-rated debt and 100 percent for B-rated
+debt.
+A.$6.4 million.
+B.$4.8 million.
+C.$11.2 million.
+D.$16.0 million.
+参考答案：B
+【莽学解析】capital = $100×0%×8%＋ $50×20%×8%＋ $50×100%×8% = $4.80资本金= $100×0%×8%＋
+$50×20%×8%＋ $50×100%×8% = $4.80
+ 
+65.The CFO at a bank is preparing a report to the board of directors on its compliance with
+Basel requirements. The bank’s average capital and total exposure for the most recent quarter
+is as follows: 
+ 
+ 
+ Using the Basel III framework, which of the following is the best estimate of the bank’
+current leverage rate?
+A.2.94%
+B.3.70%
+C.4.68%
+D.5.08%
+参考答案：B
+【莽学解析】For Basel III purposes, the leverage ratio is Tier 1 Capital/Total Exposure =
+136/3,678 =3.70%.杠杆率=一级资本/总的风险敞口=136/3,678 = 3.70%.
+ 
+66.The liquidity requirement designed to improve bank resiliency to liquidity shocks over a
+one-year horizon is called the:
+A.Liquidity coverage ratio.
+B.Net stable funding ratio.
+C.Contractual maturity mismatch ratio.
+D.Available unencumbered assets ratio.
+参考答案：B
+【莽学解析】The net stable funding ratio is intended to promote medium- and long-term funding
+of the bank’s activities. It is defined as the available amount of stable funding divided by
+the required amount of stable funding, and it must be greater than 100%.净稳定融资比率侧重于一
+年期间内的流动性风险管理，即长期流动性风险管理。净稳定融资比率=可用的稳定资金(Amount of stable
+funding, ASF)/(所需的稳定资金(Required Amount of stable funding, RSF))≥100 %。
+ 
+67.The new operational risk capital requirements under the Basel III reforms are determined by
+measures of the bank's:
+A.leverage and income.
+B.income and historical operational risk losses.
+C.income and expected operational risk losses.
+D.leverage and expected operational risk losses.
+参考答案：B
+【莽学解析】Operational risk capital requirements are determined by measures of the bank’s
+income and historical operational risk losses, both of which are assumed to be positively
+correlated to future operational risk.操作风险资本要求由银行收入和历史操作风险损失的确定，这两
+项指标均假定与未来操作风险正相关。
+ 
+68.As a result of the new Basel standards, every bank must now calculate explicit capital
+charges to cover operational risk using one of three approaches: the basic indicator approach
+(BIA), the standardized approach (SA), and the advanced measurement approach (AMA). Which of
+the following statements are true with respect to these operational risk approaches? Ⅰ. In
+practice the AMA is the most stringent approach for operational risk. Ⅱ. The most popular
+method to satisfy the AMA is the loss distribution approach. Ⅲ. The AMA allows a bank to build
+its own operational risk model and measurement system comparable to market risk standards. Ⅳ.
+BIA is widely used in insurance and actuarial science.
+A.II only.
+B.III and IV.
+C.II and III.
+D.None are correct.
+参考答案：C
+【莽学解析】Statement I is incorrect. AMA is the most flexible method. Statement II is correct.
+The most popular method to satisfy the AMA is the loss distribution approach (LDA). Statement
+III is correct. The AMA method allows a bank to build its own operational risk model and
+measurement system that is comparable to market risk standards. Statement IV is incorrect. LDA
+is widely used in insurance and actuarial science.I不正确。AMA是最灵活的方法。 II正确。满足
+AMA的最常用方法是损失分布法（LDA）。 III正确。AMA允许银行建立自己的操作风险模型和测量系统。
+IV不正确。LDA广泛应用于保险和精算领域。
+ 
+69.Which of the following statements regarding risk management programs with service providers
+to manage outsourcing risk is correct?
+A.The program should focus on business continuity and contingency.
+B.The program should contain more detail if there are only a few outsourced activities to
+established service providers.
+C.The program should contain adequate oversight and controls over all activities that impact
+the financial institution.
+D.The program should require risk assessments to be updated as a result of updated risk
+mitigation techniques on a sufficiently regular basis.
+参考答案：A
+【莽学解析】Unexpected events could result in the inability of the service provider to provide
+its services to the financial institution. Depending on the nature and importance of the
+services provided, the financial institution may be exposed to substantial losses as a result
+of the inability of the service provider to provide its services. Therefore, business
+continuity and contingency plans should be a key focus in any risk management program with
+service providers.The program should contain less detail if there are only a few outsourced
+activities to established service providers given that the risk to the financial institution
+would be reduced substantially as a result of the service provider being established. The
+program should not deal with all activities that impact the financial institution but instead
+focus only on those that have a material impact. The program should require risk mitigation
+techniques to be updated on a sufficiently regular basis as a result of updated risk
+assessments.意外事件可能导致服务提供商无法向金融机构提供服务。金融机构可能因服务提供者无法提供
+服务而遭受重大损失。因此，业务连续性和应急计划应是与服务提供商合作的风险管理计划中的关键点。
+ 
+70.Which of the following statements about the differences between market and operational
+value-at-risk at financial institutions are correct? Ⅰ. The distribution of operational risk
+events must include sufficient mass in the extreme tail, making an assumption of a lognormal
+distribution invalid. Ⅱ. The typical time horizon of market VaR calculations is 1 day, whereas
+the typical time horizon of operational VaR calculations is 1 year. Ⅲ. Since prices are
+sufficiently available for liquid assets at all times, the market risk of liquid assets can be
+modeled using continuous distributions, but the nature of operational risk events requires
+using discrete distributions. Ⅳ. Market VaR requires a higher confidence level than
+operational VaR.
+A.I, II, and III.
+B.I, II and IV.
+C.I, II, III and IV.
+D.III and IV.
+参考答案：A
+【莽学解析】●I. Correct. Low-Frequency, High Severity operational loss events imply that the
+distribution of operational loss events has sufficient mass in the extreme tail, so use of a
+lognormal distribution would be invalid. ●II. Correct. The typical time horizon of market VaR
+calculations is 1 day, whereas the typical time horizon of operational VaR calculations is 1
+year. ●III. Correct. Since prices are sufficiently available for liquid assets at all times,
+the market risk of liquid assets can be modeled using continuous distributions, but the nature
+of operational risk events requires using discrete distributions. ●IV. Incorrect. The
+confidence level for any VaR is a parameter set by the user.I正确。低频、高损的操作风险损失事件
+意味着操作风险损失事件的分布在极端尾部，因此使用对数正态分布来建模是无效的。 II正确。市场风险
+VaR计算的典型时间范围是1天，而操作风险VaR计算的典型时间范围是1年。 III正确。由于流动性好的资产
+在任何时候都有足够的价格，流动性好的资产的市场风险可以用连续分布来建模，但操作风险事件的性质要
+求使用离散分布。 IV不正确。任何变量的置信水平都是用户设置。通常来说，市场风险的置信水平低于操作
+风险。
+ 
+71.Ki Dean, FRM, is a consultant for U.S. based McGreggor Bank. Dean attended a meeting where a
+Senior Vice President made the following statements about the Basel II Accord. Ⅰ. By switching
+from the standardized approach to the foundation IRB approach, our risk weightings for a
+majority of the bank’s assets are lower, which could reduce our capital requirements by
+as.much as 15% next year. Ⅱ. Under the IRB advanced approach, we generate all the estimates
+used in the models. Ⅲ. Pillar 2 concerns external monitoring and supervisory review. How many
+of the statements are correct?
+A.None.
+B.One.
+C.Two.
+D.Three.
+参考答案：B
+【莽学解析】Only Statement II is correct. Statement I is incorrect. There is a transition
+period whereby the capital requirement under IRB cannot be less than 90% of the capital
+requirement the previous year and 80% in the second year. Statement III is also incorrect.
+Pillar 2 concerns supervisory review, Pillar 3 concerns market discipline, including external
+review.只有II是正确的。 I不正确。有一个过渡期，IRB下的资本要求不得低于上一年资本要求的90%和第二
+年资本要求的80%。 III不正确。支柱2涉及监督审查，支柱3涉及市场纪律，包括外部审查。
+ 
+72.Under the new Basel accord, which of the following best defines the overall minimum capital
+ratio?
+A.(Total Capital) \/ (Credit Risk + Market Risk + Operational Risk) = Capital Ratio > 8%
+B.(Total Capital) \/ (Credit Risk+ Market Risk + Operational Risk) = Capital Ratio < 8%
+C.(Total Capital) \/ (Credit Risk + Market Risk) = 8%
+D.(Tier 1 Capital) \/ (Market Risk + Operational Risk) = 8%
+参考答案：A
+【莽学解析】Under the New Basel Accord, the ratio of total capital to risk-weighted assets
+(which account for credit, market, and operational risk) must be greater than 8 percent.巴塞尔
+Ⅱ延续了商业银行资本充足率不低于8%的要求，计算公式如下：
+ 
+73.Which of the following statements regarding model risk is correct?
+A.Shortcuts and simplifications will increase model risk.
+B.Managing model risk requires proper segregation of duties.
+C.With the appropriate procedures and tools, model risk can be eliminated.
+D.Like many other risks, model risk has both an upside and a downside component.
+参考答案：B
+【莽学解析】A proper "effective challenge"of models is a key part of managing model risk and
+would require proper segregation of duties. In that regard, the model development process and
+the critical review of the model must be done by different parties in order to maintain proper
+independence and objectivity.对模型进行适当的“有效挑战”是管理模型风险的关键部分，需要适当的职
+责分工。在这方面，必须由不同的当事方对模型开发过程和模型提出批判性评论，并保持适当的独立性和客
+观性。
+ 
+74.The risk of the occurrence of a significant difference between the mark-to-model value of a
+complex and/or illiquid instrument and the price at which the same instrument is revealed to
+have trade in the market is referred to as:
+A.Dynamic risk
+B.Liquidity risk
+C.Mark-to-market risk
+D.Model risk
+参考答案：D
+【莽学解析】Answer: DA. Undefined termB. The risk of not being able to sell an asset quicklyC.
+Undefined termD. This is how model risk is defined in the reading没有A和C选项这两种说法，B选项
+指的是无法快速出售资产的风险，D选项代表的含义正是题干的表述。
+ 
+75.What is correct in the following description of pressure VaR? I Under the Basel II.5
+framework, Banks can pick the year they consider to be the worst performing as a source of data
+for measuring VaR of market risk pressures. II In the calculation of market risk capital,
+Stressed VaR replaced VaR in the original internal model method. III In the Basel II. 5
+framework, market risk capital requirements is at least two time of that in the Basel II within
+the framework of market risk capital requirements. IV When calculating pressure VaR, Banks can
+choose confidence level according to their own scale. V The penalty multiplier in the market
+risk capital formula is determined by the Basel committee and has a minimum value of 3.
+A.I and IV
+B.I and III
+C.I、III and IV
+D.I、III and V
+参考答案：B
+【莽学解析】巴塞尔II.5颁布期初，监管层要求银行必须使用2008年的金融环境作为压力测试中的压力环境
+，但这一规定在后来的商讨中被取消，现在银行可以使用自己认为表现最糟糕的一年的情景作为压力环境。
+在引入了压力VaR之后，计量市场风险资本金的内部模型法就更新成了如下形式：
+ 
+ 
+76.An important source of model risk is incorrect model specification. Which of the following
+is not an example of model specification error?
+A.Omitting an important risk factor from the model.
+B.Assuming that variables are independent when significant correlations exist.
+C.Assuming data is from a particular distribution when a more accurate distribution is
+available.
+D.Estimating the model using data from an inappropriate sample period.
+参考答案：D
+【莽学解析】Using data from an inappropriate sample period is an example of calibration
+error.校准误差的一个例子是使用来自不适当的采样周期的数据。
+ 
+77.Which of the following statements is most likely correct?
+A.The internal controls policy of BHCs requires that senior management should furnish the board
+of directors with sufficient information to comprehend the BHC risk exposures.
+B.A governance policy offers fundamental guidelines and principles to BHCs for the capital
+issuance, use, distribution, and planning purposes.
+C.Suspension or reduction in dividends or repurchase programs do not fell under the capital
+policy of BHCs.
+D.Designing and testing a scenario-related default of a major counterparty is an example of BHC
+stress testing and a stress scenario design policy.
+参考答案：D
+【莽学解析】The first statement is the requirement of the governance policy and not the
+internal control policy. The second statement falls under capital policy and not the governance
+policy. Regarding the third statement, capital contingency plans (e.g., suspension or reduction
+in dividends or repurchase programs) are a key part of capital policies of BHCs detailing the
+actions intended to be taken under deficiencies in capital position. The fourth statement is
+correct. Many different scenarios, including counterparty default, fall under the BHCs stress
+testing and scenario design policy.A选项是治理政策的要求，而不是内部控制政策。B选项说法属于资本
+政策，而不是治理政策。C选项，资本应急计划（例如，暂停或减少股息或回购计划）是银行控股公司资本政
+策的一个关键部分，详细说明了在资本状况不足的情况下拟采取的行动。D选项是正确的。许多不同的情景
+，包括交易对手违约，都属于银行控股公司的压力测试和情景设计政策。
+ 
+78.Consider a bank that wants to model processing errors in its retail banking business. The
+number of such errors in a given year is denoted by random variable N. The dollar loss amount
+when a processing error occurs is denoted by random variable S. Which of the following
+procedures is the most likely implementation of the first step of the loss distribution
+approach?
+A.Convolute a marginal Poisson distribution (to characterize N) with a Weibull (to characterize
+S).
+B.Convolute a marginal Poisson distribution (to characterize S) with a Weibull (to characterize
+N).
+C.Convolute a marginal lognormal distribution (to characterize N) with a Weibull (to
+characterize S).
+D.Convolute a marginal Poisson distribution (to characterize N) with a negative binomial (to
+Characterize S).
+参考答案：A
+【莽学解析】Poisson is a popular discrete distribution used to model frequency; Weibull is a
+typical continuous distribution, which generalizes the exponential distribution and has a
+positive domain, used to model severity.建模损失频率N，使用离散型分布，这里选Poisson分布，建模
+损失严重性程度S，使用连续型分布，这里选Weibull 分布。
+ 
+79.Which of the following is not a methodology allowed by Basel II accord for measuring Credit
+Risk?
+A.Measure credit risk in a standardized manner, supported by external credit assessments.
+B.A methodology, which is subject to the explicit approval of the banks. A supervisor would
+allow banks to use their internal rating systems for credit risk.
+C.Use external ratings for certain assets and use internal ratings for the rest of the assets.
+D.None of the above.
+参考答案：C
+【莽学解析】A. Incorrect. As it is a method allowed by Basel II for measuring Credit Risk. B.
+Incorrect. As it is a method allowed by Basel II for measuring Credit Risk. C. Correct. As
+Basel II committee does not allow cherry picking. D. Incorrect. As C is correct.A不正确。因为这
+是新巴塞尔协议允许用来衡量信用风险的一种方法。B不正确。因为这是新巴塞尔协议允许用来衡量信用风险
+的一种方法。 C正确。因为新巴塞尔协议委员会不允许采摘樱桃（cherry picking）。D不正确。因为C是正
+确的。
+ 
+80.An approach to assessing regulatory capital for operational risk that bases the capital
+charge upon a fixed percentage of an indicator (gross income) of operational risk exposure,
+where the percentage differs across business lines is the:
+A.Basic indicator approach.
+B.Internal measurement approach.
+C.Loss distribution approach.
+D.Standardized approach.
+参考答案：D
+【莽学解析】The standardized approach to measuring operational risk allows banks to divide
+activities along standardized business lines. The percentages of gross income differ across
+business lines in the standardized approach.标准法在基本指标法的基础上更加细致，它不是针对整个
+银行总的收入来分析的，而是把银行的所有业务条线分成八类，八类业务条线对应不同的权重。
+ 
+81.Improving operational resilience of firms and financial market infrastructures(FMls)is
+dependent upon effectively managing processes, practices, and culture related to critical
+business services Following the best practices methodology outlined by supervisory authorities
+in the United Kingdom, which of the following statements best describes the first step toward
+improving operational resiliency for a firm or FMI?
+A.Assessing the impact of a failure or disruption in a system or process.
+B.Identifying the most critical business services in various circumstances.
+C.Investing in systems and training to improve response and recovery from disruptions.
+D.Mapping key business services to systems and processes.
+参考答案：B
+【莽学解析】Supervisory authorities suggest that the first step for developing an effective
+operational resilience plan is identifying the most important business services for firms and
+FMIs.监管机构建议，制定有效的运营弹性计划的第一步是确定对企业和FMls而言最重要的业务服务。
+ 
+82.Which of the following statements is incorrect about the foundation IRB and the advanced IRB
+approaches for credit risk capital charge in the Basel II Accord?
+A.Under the advanced IRB approach, banks are allowed to use their own estimates of PD, LGD,
+EAD, and correlation coefficient, within the risk-weight functions provided by the supervisors.
+B.Under the foundation IRB approach, banks provide their own estimates of PD and rely on
+supervisory estimates for other risk components.
+C.Banks adopting the advanced IRB approach are expected to continue to employ this approach. A
+voluntary return to the standardized approach is permitted.
+D.Under both foundation IRB and advanced IRB approaches, the expected loss is not included in
+the credit risk capital charge.
+参考答案：A
+【莽学解析】Under the advanced IRB approach, banks are allowed to provide their own estimate of
+PD, LGD, and EAD, but must use the correlation coefficient formula specified by the
+supervisor.根据高级内部评级法，银行可以提供自己的PD、LGD和EAD估计，但必须使用监管机构规定的相关
+系数公式。
+ 
+83.The capital conservation buffer:
+A.Will provide an extra 2.5% Common Equity Tier 1 capital buffer in times of stress.
+B.Will be used exclusively to protect banks from the losses garnered from OTC derivatives
+trading.
+C.Is required only for banks with inadequate liquidity coverage and net stable funding source
+ratios.
+D.Is covered in the increased Common Equity Tier 1 capital to risk-weighted assets ratio that
+will increase to 4.5% from the current 2% over the next few years.
+参考答案：A
+【莽学解析】The capital conservation buffer is intended to provide an extra cushion against
+loss in times of stress. It is 2.5% Common Equity Tier 1 capital to risk-weighted assets, which
+in effect increases the total Common Equity Tier 1 capital ratio to 7%.巴塞尔Ⅲ要求商业银行在正
+常情况下需持有一级核心（普通股）资本进行缓冲，该资本被称为留存缓冲资本（Capital Conservation
+Buffer，CCB），其数值等于风险加权资产的2.5%。巴塞尔委员会之所以会出台这个规定，是希望商业银行能
+够在危机发生时候使用缓冲资本吸收损失。
+ 
+84.Which of the following best describes economic capital? Economic capital measures the amount
+of:
+A.Capital a firm must maintain to cover a significant credit loss and remain solvent.
+B.Cash a firm must maintain to cover a significant credit loss and remain solvent.
+C.Capital a firm must maintain to cover an average credit loss and remain solvent.
+D.Cash a firm must maintain to cover a credit loss in the 25 percentile and remain solvent.
+参考答案：A
+【莽学解析】Answer: A Economic capital measures the amount of capital a firm must maintain to
+cover a significant credit loss and remain solvent.经济资本衡量的是企业必须维持的资本金额，以弥
+补重大信贷损失并保持偿付能力。
+ 
+85.The seven principles of an effective capital adequacy process for bank holding
+companies(BHCs)subject to the Capital Plan rule include which of the following? Ⅰ Oversight
+from peer BHCs. Ⅱ Annual reporting to the stock exchange(where their stock is listed).
+A.I only.
+B.II only
+C.Both I and II.
+D.Neither I nor II.
+参考答案：D
+【莽学解析】Oversight from peer BHCs and annual reporting to the stock exchange are not
+included in the seven principles of an effective capital adequacy process来自同业银行控股公司
+（BHC）的监督和向证券交易所提交的年度报告不包括在有效资本充足率程序的七项原则中。
+ 
+86.Which of the following provisions would a financial institution least likely include in a
+contract with a third-party service provider?
+A.Establishment and monitoring of performance standards.
+B.Indemnification.
+C.Ownership and license.
+D.Right to audit.
+参考答案：D
+【莽学解析】The right to audit provision is optional and is the least important provision of
+the four listed. The use of performance standards essential for monitoring and oversight
+purposes that may result in the determination of default by the service provider and possible
+termination of the contract The indemnification provision is important because it financial
+institution in the event of any legal proceedings arising from deals with the service provider
+indemnifying （i.e, holding harmless）th the service provider's negligence. The ownership and
+license provision is crucial because it would state when service providers are permitted to use
+the financial institution’s property （i.e. data and equipment）as well as clarify the
+ownership and control of data produced by a service provider.跟外包服务的提供商签订谨慎的合约条
+款来控制风险，合约条款要有对于外包公司的职责范围权限的明确设定，合同的条款包括：合同双方的权利
+义务范围、合同的成本和薪酬、外包公司审计的权利、服务商的业绩评估的标准、在接受外包服务时数据的
+保密性要求、外包服务商权利的分配、外包服务商的资质、合同的终止、赔偿条款、定义违约的情况、客户
+争端的处置、服务商参与的保险业务、分包合约的具体规定、外包服务商应急计划的设置，对于外国的服务
+商，要明确规定法律适用范围。这些因素能够更好的控制外包服务商的行为。 审计权条款是所列四项条款中
+最不重要的一项。
+ 
+87.Operational risk loss data is not easy to collect within an institution, especially for
+extreme loss data. Therefore, financial institutions usually attempt to obtain external data,
+but doing so may create biases in estimating loss distribution. Which of the following
+statements regarding characteristics of external loss data is incorrect?
+A.undefinedExternal loss data often exhibits scale bias as operational risk losses tend to be
+positively related to the size of the institution (i.e., scale of its operations).
+B.External loss data often exhibits truncation bias as minimum loss thresholds for collecting
+loss data are not uniform across all institutions.
+C.External loss data often exhibits data capture bias as the likelihood that an operational
+risk loss is reported is positively related to the size of the loss.
+D.The biases associated with external loss data are more important for large losses in relation
+to a bank’s assets or revenue than for small losses.
+参考答案：D
+【莽学解析】The biases associated with external loss data are important for all losses in
+relation to a bank’s assets or revenue.与外部损失数据相关的偏差，对于与银行资产或收入相关的所
+有损失都很重要。
+ 
+88.Last year, Goodholdings Bank released a major upgrade of its custom-built enterprise
+resource planning (ERP) software platform. However, the release exposed problems with the
+extant codebase. Consultants were hired to re-factor the code and resolve the so-called
+technical debt. Technical debt is the development effort required to fix structural software
+problems that remain in code due to sub-optimal programming practices; for example, a quick fix
+might satisfy an immediate user requirement but interfere with long-term compatibility or
+performance. Management views the cost of hiring the consultants as an operational loss. To
+which event risk category should the loss be assigned?
+A.Internal fraud.
+B.Business disruption and system failures.
+C.Employment Practices and Workplace Safety.
+D.None of the above, technical debt is an exception that is excluded from the taxonomy.
+参考答案：B
+【莽学解析】Business disruption and system failures includes hardware and software.业务中断和系
+统故障包括硬件和软件。
+ 
+89.The chief risk officer of a newly-formed public company is looking to establish a cyber risk
+management framework within the company Which function would be included in the framework?
+A.Adapt.
+B.Describe.
+C.Develop.
+D.Protect.
+参考答案：D
+【莽学解析】The five functions are:（1） identify, （2） protect, 3）detect, （4） respond
+and（5）recover. Protect focuses on important safeguards which will enable the continued
+delivery of crucial services.国家标准与技术研究院（NIST）提出的网络风险管理框架包含五个功能
+：（1）识别。建立一个对管理系统，人员，资产，数据和功能的网络安全风险有所了解的组织。（2）保护
+。制定并实施适当的保障措施，以确保提供批评性服务。（3）检测。制定并实施适当的活动，以识别网络安
+全事件的发生。（4）响应。制定并实施适当的活动，以对检测到的网络安全事件采取措施。（5）恢复。制
+定并实施适当的活动，以维护计划和恢复能力因意外的网络安全受损的联系或服务。
+ 
+90.A firm’s financial planning department reports that a project’s proposed risk-adjusted
+return on capital (RAROC) is 13%, the risk-free rate is 3%, the market return is 11%, and the
+firm’s equity beta is 1.3. Use adjusted risk-adjusted return on capital (ARAROC) to determine
+whether or not the project should be accepted. This firm should:
+A.Reject the project because its expected ARAROC is higher than the risk-free rate.
+B.Accept the project because its expected ARAROC is higher than the market’s risk-free rate
+C.Accept the project because its expected ARAROC is lower than the market’s risk-free rate
+D.Reject the project because its expected ARAROC is lower than the market’s risk-free rate
+参考答案：D
+【莽学解析】● ARAROC = 0.13-1.3×(0.11-0.03)=2.6% ● The project should be rejected because
+the ARAROC of 2.6% is less than the risk-free rate.ARAROC = 0.13-1.3×(0.11-0.03)=2.6% 因为
+2.6%小于无风险利率3%，所以拒绝该项目。
+ 
+91.Tier 1 capital includes all of the following except:
+A.Asset revaluation reserves.
+B.Common stock.
+C.Noncumulative preferred shares.
+D.Disclosed reserves.
+参考答案：A
+【莽学解析】Tier 1 capital consists of common stockholders' equity, noncumulative perpetual
+preferred stock, minority equity interests in consolidated subsidiaries, and disclosed
+reserves, less goodwill and other deductions.一级资本包括普通股股东权益、非累积永久优先股、合并
+子公司的少数股权权益、已披露准备金，减去商誉和其他扣除额。
+ 
+92.Which of the following aggregation methodologies is characterized by great difficulty in
+validating parameterization and building a joint distribution?
+A.Copulas
+B.Constant diversification
+C.Variance-covariance matrix
+D.Full modeling\/Simulation
+参考答案：A
+【莽学解析】Copulas have two notable disadvantages: (1) parameterization is very difficult to
+validate, and (2) building a joint distribution is very difficult.copula有两个显著的缺点
+：（1）参数很难验证，（2）建立联合分布很难。
+ 
+93.Under the amendment to the Capital Accord to Incorporate Market Risks, value at risk:
+A.Must be calculated using a 99th percentile one tailed confidence interval and a 10-day
+holding period.
+B.Must be calculated using a 99th percentile one tailed confidence interval, but may use a
+shorter holding period and a square root of time scaling.
+C.May use any percentile (e.g., 95th as used in RiskMetrics) scale to the 99th percentile using
+normal distribution assumptions, may use a shorter or longer holding period than 10-days, and
+scale using the square root of time.
+D.May use any percentile or holding period as long as backtesting results are satisfactory.
+参考答案：B
+【莽学解析】The Amendment allows the use of an internal model (under certain circumstances) and
+specifies that the model use a 99 percent confidence level and a 10-day holding period. It does
+allow a single-day volatility to be scaled to 10-day volatility with the square root of time
+rule.96年修正案允许使用内部模型（在某些情况下），并规定模型使用99%的置信水平和10天的持有期。它
+确实允许使用平方根法则将单日波动率调整为10日波动率。
+ 
+94.In the Basel II Standardized Approach for operational risk, the beta factor serves as a
+proxy for the industry-wide relationship between the operational risk loss experience for a
+given business line and the aggregate level of gross income for that business line. Which of
+the following lines has the highest beta factor?
+A.Corporate finance.
+B.Retail banking.
+C.Commercial banking.
+D.Asset management.
+参考答案：A
+【莽学解析】
+ 
+ As a result, the answer is A. 
+.8大业务条线及其对应的权重公司金融、交易和销售、结算：18%商业银行、托管业务：15%零售银行、零售
+经纪、资产管理：12%
+ 
+95.The Basel III reforms restricted the use of internal model approaches for all of the
+following risk categories except:
+A.credit risk.
+B.systemic risk.
+C.operational risk.
+D.credit valuation risk.
+参考答案：B
+【莽学解析】The use of internal model approaches are restricted for credit risk, operational
+risk, and credit valuation risk.内部模型方法的使用仅限于信用风险、操作风险和信用评估风险。
+ 
+96.Assume that a loan has the following characteristics: ●Gross revenue is expected to be $5.0
+million ●Interest expense is $3.0 million ●Expected return on the $6.0 million in economic
+capital is $175,000 ●Expected loss on the loan is $250,000 ●Other costs associated with
+making the loan equal $1.0 million. What is the risk-adjusted return on capital (RAROC) for
+this loan?
+A.10.42%
+B.15.42%
+C.22.92%
+D.32.08%
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+97.Which statement is true regarding Common Equity Tier 1 capital?
+A.Common Equity Tier 1 capital to risk-weighted assets must be 6% beginning January 1, 2015.
+B.Preferred stock will make up the bulk of Common Equity Tier 1 capital because shareholders
+cannot force the bank into bankruptcy.
+C.Common Equity Tier 1 capital has the least-stringent requirements for what constitutes
+capital.
+D.To qualify as common shares that may be used for Common Equity Tier 1 capital, investors of
+the shares must have a residual claim to the assets.
+参考答案：D
+【莽学解析】Answer: DCommon Equity Tier 1 capital to risk-weighted assets must be 4.5%
+beginning January 1, 2015. Common stock plus retained earnings, not preferred stock, must make
+up the bulk of Common Equity Tier 1 capital. The requirements for Common Equity Tier 1 capital
+are the most-stringent, not the least-stringent. Investors of the common shares must have a
+residual claim to the assets.普通股/风险加权资产比例不得低于4.5%，一级核心资本由普通股，留存收
+益等资产构成，且不包含商誉和递延所得税资产，作为一级核心资本，普通股的定义是最为严格的。因此选
+择D。
+ 
+98.Which of the statement can not explain why the supervisory authorities consider that
+managing operational resilience is most effectively addressed by focusing on business services,
+rather than on systems and processes.
+A.Operationally resilient business services provided by firms and FMIs(Financial Market
+Infrastructures) directly support resilient economic functions, enabling people to buy goods,
+borrow money and markets to transact. Resilient business services therefore support financial
+stability.
+B.Continuity of business services is also critical to the viability of individual firms and
+FMls, and disruptions can cause harm to consumers and market participants.
+C.The supervisory authorities believe that if firms' and FMls' boards and senior management
+focus on the operational resilience of their most important business services, this would
+assist the supervisory authorities in furthering their objectives.
+D.Priorities between firms and FMls and the supervisory authorities are always be aligned due
+to fact that the disruption to a business service would in no ways to be an uncontrolled risk.
+参考答案：D
+【莽学解析】Priorities between firms and FMls and the supervisory authorities may not always be
+aligned. It is possible that the supervisory authorities may believe that a disruption to a
+business service would harm their objectives, while a firm or FMI might consider the disrupt
+ion to be a manageable risk.公司和金融基础设施系统以及监管机构之间的优先级可能并不总是一致的。
+监管当局可能认为，业务服务中断会损害他们的目标，而公司则可能认为中断是一个可控的风险。
+ 
+99.The risk management department at Southern Essex Bank is trying to assess the impact of the
+capital conservation and countercyclical buffers defined in the Basel III framework. They
+consider a scenario in which the bank’s capital and risk-weighted assets are as shown in the
+table below (all values are in EUR millions): 
+ 
+ 
+ Assuming that all Basel III phase-ins have occurred and that the bank’s required
+countercyclical buffer is 0.75%, which of the capital ratios does the bank satisfy?
+A.The CET1 capital ratio only.
+B.The CET1 capital ratio plus the capital conservation buffer only.
+C.The CET1 capital ratio plus the capital conservation buffer and the countercyclical buffer.
+D.None of the above.
+参考答案：B
+【莽学解析】The bank has CET1 capital ratio of (230/3110) or 7.4%. This ratio meets the 4.5%
+minimum and the additional 2.5% capital conservation buffer but not the additional
+countercyclical buffer of 0.75% (4.5%＋  2.5%＋ 0.75% = 7.75%).资本充足率=230/3110=7.4%。该比
+率满足4.5%的最低比率和2.5%的超额资本缓冲，但不满足0.75%的逆周期缓冲。4.5%＋2.5%＋0.75%=7.75%
+ 
+100.Trader Ben Smith enters a foreign exchange (FX) spot transaction, buying euros for dollars.
+He then quickly enters another transaction selling euros for dollars. He makes a quick profit
+from these two transactions, however due to confusion in the back office, settlement to the
+counterparty is delayed to four days later. The counterparty demands compensation for the
+delayed settlement and the claim includes lost (forgone) interest. The cost of the mistake
+exceeds the profit on the trade, resulting in an operational loss. To which Level 1 event risk
+category should this loss be assigned?
+A.Improper Business or Market Practices.
+B.Business Disruption and System failures.
+C.Clients, Products, and Business Practices.
+D.Execution, Delivery & Process Management.
+参考答案：D
+【莽学解析】Losses of this event type are quite frequent as these can be due to human errors,
+mis-communications, and so on, which are very common in an environment where banks have to
+process millions of transactions per day.这种事件类型的损失相当频繁，因为这些可能是由于人为错误
+、错误通信等造成的，是非常常见的。
+ 
+101.Which of the following items is least likely to be a key consideration when testing models?
+A.Testing for potential weaknesses.
+B.Testing with extreme values as inputs.
+C.Testing under normal market conditions.
+D.Testing other models that rely on the subject model.
+参考答案：C
+【莽学解析】Although testing is done under normal market conditions, a more accurate statement
+would be that testing is done under a wide variety of market conditions, including those that
+are unusual or extreme. Testing for potential weaknesses, using extreme values as inputs, and
+testing other models that use the outputs of the subject model as inputs are all important
+considerations when testing models.尽管测试是在正常市场条件下进行的，但更准确的说法是，测试是在
+各种市场条件下进行的，包括那些不寻常或极端的市场条件。在测试模型时，测试潜在的弱点、使用极端值
+，以及其他模型的输出的内容作为输入的因素，都是重要的考虑因素。
+ 
+102.Bank Inc,(Bank)operates in the United States and has a service contract in place with
+Service Co (Service), which operates in France Service manages a significant amount of
+confidential customer data for Bank, and recently a computer glitch at service resulted in the
+accidental public disclosure of confidential customer data. As a result of the data breach,
+which of the following risks is bank least likely to face?
+A.Compliance risk.
+B.Country risk.
+C.Legal risk.
+D.Operational risk.
+参考答案：B
+【莽学解析】Country risk refers to using a service provider based in a foreign country and
+subjecting the financial institution to potential economic and political risks in that country.
+Clearly, it is not a relevant risk arising from the breach of confidential customer
+data.Compliance risk is a possibility given the apparent lack of security controls of the
+service provider that resulted in the data breach.Operational risk is clearly a relevant risk
+to the financial institution here given the data breach caused by the service provider. Legal
+risk is clearly a relevant risk given that the customers affected by the data breach may sue
+the financial institution as a result of the breach.国家风险是指利用设在外国的服务提供商，使金
+融机构在该国面临潜在的经济和政治风险。很明显，这不是因泄露机密客户数据而产生的相关风险。合规风
+险（Compliance Risk） ，指的是提供外包服务的服务商的业务操作是否满足当地市场上法律法规的要求
+，如果触发违规的话，就可能会出现合规的风险。比如外包公司是美国的咨询公司，那么这家公司就要遵守
+美国的法律要求。操作风险（Operational Risk） ，指的是由于服务商在业务操作过程中可能会面临的一些
+内外部事件，系统性问题，或者是人为的问题带来的一些操作风险。法律风险（Legal Risk） ，指的是外包
+公司提供外包业务过程中面临的法律费用、法律诉讼的可能性带来的风险。
+ 
+103.Which of the following model validation processes is specifically characterized by the
+limitation that it provides little comfort that the model actually reflects reality
+A.Backtesting.
+B.Benchmarking.
+C.Stress testing.
+D.Qualitative review.
+参考答案：B
+【莽学解析】With benchmarking and hypothetical portfolio testing, the process has its
+limitations because it can only compare one model against another and may provide little
+comfort that the model actually reflects "reality. " All that the process is able to do is
+provide broad comparisons confirming that input parameters or model outputs are broadly
+comparable.通过benchmarking和假设的投资组合测试，有其局限性。因为它只能将一个模型与另一个模型进
+行比较，并且对于模型实际反映的“现实”可能不会提供多少解释力度。该过程所能做的就是提供广泛的比
+较，确认输入参数或模型输出具有广泛的可比性。
+ 
+104.With respect to managing and mitigating money laundering and the financing of
+terrorism(ML/FT)risks in a bank, bank tellers and branch managers are examples of：
+A.the first line of defense.
+B.the second line of defense.
+C.the most important line of defense.
+D.lower level bank employees that have little to do with financial crime risk management.
+参考答案：A
+【莽学解析】To mitigate ML/FT risks, the first line of defense is the business units(e.g, the
+front office and customer facing activities). They identify, assess, and control ML/FT risks
+through policies and procedures that should be specified in writing and communicated to bank
+personnel. The second line of defense is the chief officer in charge of ML/FT. The third line
+of defense is internal and external audits.3 道防线：第 1 道，以整个金融机构中所有的参与人员为
+主体，要对他们进行一定的培训和教育，使得他们有足够的能力来实施整个金融机构的反洗钱和反恐融资的
+政策和流程。第 2 道，专门设立的反洗钱和反恐融资风险管理部门的首席风险管理官，进行反洗钱和反恐融
+资责任义务的监控和管理。 第 3 道，内部的审计，对于反洗钱和反恐融资风险管理的操作进行独立的持续
+的评估，来帮助了解这一部分的风险管理的落实情况是怎样的。
+ 
+105.Credit risk mitigation techniques under the Basel II Accord include which of the following?
+Ⅰ. Adjusting required capital for changes in the value of collateral. Ⅱ. Using the risk
+weight of the collateral in lieu of the borrower’s risk weight for the secured portion of the
+exposure.
+A.I only.
+B.II only.
+C.Both I and II.
+D.Neither I nor II.
+参考答案：C
+【莽学解析】Credit risk mitigation techniques can be either simple or comprehensive. Under the
+simple approach, the risk weight of the collateral is used in lieu of the borrower’s risk
+weight for the secured portion of the exposure. Under the comprehensive approach, the value of
+the collateral is adjusted periodically and that value is deducted from the exposure.信用风险缓
+解技术可以是简单的，也可以是全面的。在简单方法下，使用抵押品的风险权重代替借款人对风险敞口担保
+部分的风险权重。在综合法下，抵押品的价值定期调整，并从风险敞口中扣除。
+ 
+106.Which of the following is an example of external data that the chief money laundering and
+financing of terrorism(ML/FT)officer should analyze and understand in order to manage and
+mitigate ML/FT risks?
+A.Transaction data.
+B.Payment message streams.
+C.Country reports.
+D.Customer passports and identity cards.
+参考答案：C
+【莽学解析】The bank's understanding of inherent money laundering and the financing of
+terrorism(ML/FT)risks is based on both internal and external data sources including operational
+and transaction data(internal)and national risk assessments and country reports from
+international organizations(external).银行对洗钱和恐怖主义（ML/FT）风险的理解是基于内部和外部数
+据来源，包括运营和交易数据（内部）和国家风险评估以及国际组织（外部）的国家报告。
+ 
+107.The formation of large bank holding companies results in diseconomies of scope with respect
+to:
+A.Risk management.
+B.Technology.
+C.Marketing.
+D.Financial innovation.
+参考答案：A
+【莽学解析】Some argue that information technology, marketing, and financial innovation result
+in economies of scope for large bank holding companies. Conversely, the recent financial crisis
+raised the concern that the size of bank holding companies creates diseconomies of scope with
+respect to risk management.一些人认为，信息技术、市场营销和金融创新导致了大型银行控股公司
+（BHC）的范围经济。相反，最近的金融危机引发了人们的担忧，即银行控股公司的规模在风险管理方面造成
+范围不经济。
+ 
+108.Bilateral clearing in the over-the-counter(OTC)market is most likely to entail:
+A.an exchange acting as a guarantor for the completion of a trade.
+B.quotes being electronically posted.
+C.two parties clearing transactions with each other.
+D.a third party collecting margin from the two parties to the trade.
+参考答案：C
+【莽学解析】Bilateral clearing in an OTC market involves two parties clearing the transactions
+with each other at mutually agreed-upon terms.场外交易市场的双边结算，是指交易双方按照约定的条
+件进行结算。
+ 
+109.Piper Hook, a bank examiner, is trying to make sense of stress tests done by one of the
+banks she examines. The stress tests are multi-factored and complex. The bank is using multiple
+extreme scenarios to test capital adequacy, making it difficult for Hook to interpret the
+results. One of the key stress test design challenges that look must deal with in her
+examination of stress tests is
+A.Multiplicity.
+B.Efficiency.
+C.Coherence.
+D.Efficacy.
+参考答案：C
+【莽学解析】One of the challenges of designing useful stress tests is coherence. The
+sensitivities and scenarios must be extreme but must also be reasonable or possible （i.e.，
+coherent）. Problems are inherently multi-factored making it more difficult to design a
+coherent stress test. hook is dealing with the possibly incoherent results of the banks stress
+tests.设计有用的压力测试的挑战之一是连贯性。敏感性和情景必须是极端的，但也必须是合理的或可能的
+（即连贯的）。Hook正在处理银行压力测试可能出现的不连贯结果。
+ 
+110.Backtesting is most appropriately classified in which element of the validation process?
+A.Evaluation of conceptual soundness.
+B.Ongoing monitoring.
+C.Outcomes analysis.
+D.Postvalidation review.
+参考答案：C
+【莽学解析】Backtesting is a specific type of outcomes analysis.回测是一种特殊类型的结果分析。
+ 
+111.Pillar III of the Basel II accord includes all of the following requirements for
+internationally active banks except:
+A.A formal disclosure policy should be established, and supported by a bank’s board of
+directors.
+B.Banks should operate above minimum regulatory capital ratios.
+C.Financial statements that fairly reflect financial condition should be published regularly.
+D.There should be specific remedial actions in the event of nondisclosure.
+参考答案：B
+【莽学解析】The requirement to operate above minimum regulatory capital ratios is a requirement
+laid out in Pillar II regarding the interaction of supervisors and internationally active
+banks. Note that Pillar III relates to market discipline and disclosure.关于监管机构和国际活跃
+银行之间的相互作用，第二支柱中规定了高于最低监管资本比率的要求。请注意，第三支柱涉及市场纪律和
+披露。
+ 
+112.The ability of financial firms and systems to recover from an operational disruption and
+continue operations is a key concern for maintaining the financial stability of the economy.
+Under which of the following scenarios are supervisory authorities more concerned about the
+occurrence of systemic risk related to the failure of financial firms or financial market
+infrastructures ( FMIs)?
+A.a dynamic environment and more reliance on outsourcing to third parties.
+B.a dynamic environment and numerous stakeholders across international borders.
+C.a static environment and more reliance on outsourcing to third parties.
+D.a static environment and numerous stakeholders across international borders.
+参考答案：A
+【莽学解析】Changing dynamic business environments combined with more reliance on third parties
+who provide outsourced technological services increases the potential for systemic risk
+associated with firms and FMIs.不断变化的动态业务环境加上对提供外包技术服务的第三方的更多依赖
+，增加了企业和FMI的系统性风险。
+ 
+113.When performing due diligence on a service provider, ascertaining the sufficiency of its
+insurance coverage would most appropriately be covered under which of the following categories?
+A.Business background, reputation, and strategy.
+B.Financial performance and condition.
+C.Operations and internal controls.
+D.Oversight and monitoring.
+参考答案：B
+【莽学解析】●A review of a potential service provider's financial performance and condition
+would include queries regarding its level of insurance coverage. ●The area of business
+background, reputation, and strategy takes a more global view of the service provider and would
+be far less concerned with financial matters such as insurance.Operations and internal controls
+deal with compliance with relevant laws and regulations, for example and would be less
+concerned with financial matters such as insurance.Oversight and monitoring is not an element
+within the due diligence process, but it is one of the elements（together with due
+diligence）of an effective risk management program with service providers.对潜在服务提供者的财
+务业绩和状况的审查将包括对其保险范围水平的询问。 业务背景、声誉和战略领域对服务提供商的看法更为
+全球化，而对保险等财务事项的关注则要少得多。 运营和内部控制涉及遵守相关法律法规，例如，对保险等
+财务事项的关注较少。 监督和监测不是尽职调查过程中的要素，但它是与服务提供商有效风险管理计划的要
+素（连同尽职调查）。

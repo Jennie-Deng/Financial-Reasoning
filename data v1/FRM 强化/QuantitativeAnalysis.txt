@@ -1,0 +1,882 @@
+定量分析
+单项选择题
+1.Jamison and Bronson are applying for the residential mortgage loans in National Savings, a
+large local bank. Generally, the bank’s decisions of making loans or not is independent among
+borrowers, but not independent in a recessionary condition. In normal conditions, Jamison has a
+probability of 70% to get the mortgage successfully, and Bronson has a probability of 80%.
+While in the recessionary economy, the bank is going to reduce the loan scale. Thus, Jamison
+would have a lower probability of 30%, and Bronson would have a rate of 35%. Based on the
+information above, Jamison makes three statements:Statement 1: There is a probability of 56%
+that both of them could get mortgages from the bank generally.Statement 2: Because the bank’s
+decisions of making loans are unconditionally independent, hence they must be conditionally
+independent.Statement 3: There is a probability of 10.5% that they could get mortgages from the
+bank when the economy is in recession.How many of the statements above is(are) correct?
+A.0.
+B.1.
+C.2.
+D.3.
+参考答案：B
+【莽学解析】Answer: B该题主要考点为条件独立和无条件独立的判断。对于statement 1，在通常情况下
+，银行发放贷款的决策可以认为是独立的，根据独立事件联合概率等于各自概率的乘积，可以得到Jamison和
+Bronson都可以成功获得贷款的概率是 。对于statement 2，无条件独立不一定能推出条件独立，反之，条件
+独立也不一定得到无条件独立，所以第二句陈述错误。对于statement 3，在经济衰退的时候，由于银行预期
+缩减贷款规模，因而是否发放贷款给Jamison和Bronson的决策不再独立，不满足无条件独立性。此时求解在
+经济衰退的情况下他们同时获得贷款的概率不能直接用两个条件概率相乘（　）。所以第三句陈述错误。因
+此，第一句陈述正确，第二句和第三句陈述错误，B选项正确。
+ 
+2.Bond A and Bond B have the same rating and probability of default. The estimated probability
+that both bonds will default during the next year is 5%. If Bond A defaults next year, there is
+a 50% probability that Bond B will also default. What is the probability that neither Bond A
+nor Bond B will default over the next year?
+A.75%.
+B.80%.
+C.85%
+D.95%.
+参考答案：C
+【莽学解析】
+ 
+ 
+3.To apply central tendency and dispersion analysis, the risk manager measures the mean and
+standard deviation of the distribution of the exceedances. What is the mean and standard
+deviation of the number of exceedances over a period of 250 trading days?
+A.Mean= 6, standard deviation=2.475
+B.Mean= 2.5, standard deviation=1.573
+C.Mean=6, standard deviation=1.573
+D.Mean= 2.5, standard deviation=2.475
+参考答案：B
+【莽学解析】
+ 
+ 
+4.
+A.3.00%.
+B.4.00%.
+C.7.89%.
+D.10.53%.
+参考答案：C
+【莽学解析】
+ 
+ 
+5.An operational risk manager uses the Poisson distribution to estimate the frequency of losses
+in excess of USD 2 million during the next year. It is observed that the frequency of losses
+greater than USD 2 million is 3 per year on average over the last 10 years. If this observation
+is indicative of future occurrences and all the losses are independent of each other, what is
+the probability of at most one loss over USD 2 million occurring during the next two years?
+A.1.01%
+B.1.40%
+C.1.61%
+D.1.74%
+参考答案：D
+【莽学解析】
+ 
+ 
+6.Jackson Lu, FRM, participates in a shareholders’ meeting of HITE Inc., a company he follows.
+In the meeting, the board announces that the company has a probability of 60% to pay dividend
+if the economy blooms in the next quarter, or a probability of 30% if the economy oscillates
+continuously. An economist predicts the economy has a probability of 20% to trend upward, and
+80% to oscillate. Based on his understanding of the company, what is the probability that the
+economy actually blooms on the condition that HITE Inc. pays dividend?
+A.33%.
+B.72%.
+C.66%.
+D.45%
+参考答案：A
+【莽学解析】
+ 
+ 
+7.
+A.
+B.
+C.
+D.
+参考答案：D
+【莽学解析】
+ 
+ 
+8.The following graphs show the cumulative distribution function (CDF) of four different random
+variables. The dotted vertical line indicates the mean of the distribution. Assuming each
+random variable can only be valued between -10 and 10, which of the following distributions has
+the highest variance?
+A.
+B.
+C.
+D.
+参考答案：D
+【莽学解析】Answer: D本题主要考点为累积分布函数（CDF）与方差大小的关系。方差（variance）衡量的
+是随机变量偏离均值的离散程度。在上述四个图形当中，选项D中的累计分布函数与横坐标轴和虚线围成的面
+积最大，表明随机变量在概率分布中偏离均值的比例更多。因此正确选项为D。对于选项A和B，累计分布函数
+在围绕均值附近的变化较为陡峭，表明随机变量更多的集中分布在均值附近，此时方差较小。因此，该选项
+错误。对于选项C，累计分布函数与横坐标轴和虚线围成的面积小于选项D，表明随机变量在概率分布中偏离
+均值的比例小于选项D，因此方差小于选项D。因此，该选项错误。
+9.Olive, FRM is concerned with using common measures such as four named moments, quantiles,
+interquartile range to describe features of the observed data. Concerning properties of these
+measures, she has made the following two statements:Statement 1: The interquartile range (IQR)
+is defined as the difference between the 75% and 25% quantiles.Statement 2: Although random
+variables can be heavily fat-tailed, the interquartile range is robust to apply and well-
+defined.Statement 3: The interquartile range (IQR) is usually used to measure the central
+tendency of the observed data.Statement 4: The interquartile range (IQR) is a measure of
+dispersion that is comparable to the standard deviation.How many statements above is/are most
+likely correct?
+A.1
+B.2
+C.3
+D.4
+参考答案：C
+【莽学解析】Answer: C本题主要考点为分位数相关内容的定性判断。对于Statement 1，四分位矩（IQR）被
+定义为75%分位数与25%分位数的差值。故该陈述正确。对于Statement 2，即使变量分布为严重肥尾，分位数
+也不受极端值影响，总是可以被明确定义，能够稳健地得到使用。故该陈述正确。四分位矩（IQR）是75%和
+25%的分位数之差，与标准差类似，反映的是观测值的离散程度而非中心趋势。故陈述3错误，陈述4正确。因
+此，有三个陈述正确，正确答案为C。
+ 
+10.
+A.Positively  Leptokurtic
+B.Negatively  Platykurtic
+C.Positively  Platykurtic
+D.Negatively  Leptokurtic
+参考答案：D
+【莽学解析】Answer: D本题主要考点为偏度（skewness）和峰度（kurtosis）的判断。由于中位数
+（14.3%）高于均值（9.5%），因此分布呈现负偏（Negatively）。由于超额峰度（Excess kurtosis）大于
+0，所以分布呈现尖峰态（Leptokurtic）。因此正确选项为D。
+ 
+11.Both probability density function (PDF) and cumulative distribution function (CDF) are used
+to find the probability that a continuous random variable lies in a certain range. However,
+there is a major difference between these two functions. Given this CDF, which of the following
+would most likely be the PDF of this continuous random variable and what kind of distribution
+does this variable follow?
+A.
+B.
+C.
+D.
+参考答案：C
+【莽学解析】Answer: C解析：该题主要考点为累计分布函数（CDF）与概率密度函数（PDF）之间的关系。在
+累计分布函数（CDF）图形中，累计概率以恒定的速率上升之后呈现水平状态，表明其对应的概率密度函数
+（PDF）在特定区间内随机变量是等概率发生的。其对应的分布应为均匀分布（Uniform Distribution）。因
+此正确选项为C。对于选项A、B、D，其概率密度函数图形显示出随机变量在尾部发生的概率小，在中间区域
+则发生的概率高，即随机变量在特定区间内并不是等概率发生的。因此这些选项错误。
+ 
+12.A risk analyst is assessing the return distribution for an investment portfolio. Compared to
+a normal distribution, the return distribution for this portfolio has identical expectation and
+variance, but it has a relatively large number of observations in both tails, and the
+observations in the right tail outnumber those in the left tail. Which of the following
+statements best describes the distribution’s characteristics?
+A.Positively skewed and Leptokurtic.
+B.Negatively skewed and Leptokurtic.
+C.Positively skewed and Platykurtic.
+D.Negatively skewed and Platykurtic.
+参考答案：A
+【莽学解析】Answer: A本题主要考点为偏度（skewness）和峰度（kurtosis）的判断。由于题目中回报的概
+率分布与正态分布的期望和方差相同，但是在双尾有更多的观察值，表明该分布呈现出肥尾的形状，符合尖
+峰态（Leptokurtic）的特征。又由于该分布在右尾的观测值超过左尾的观测值，表明该分布呈现出正偏
+（Positively skewed）的形状。因此正确选项为A。(0)
+ 
+13.
+Which of the following statements regarding is NOT correct?
+A.The expectation of Y equals to -29.
+B.The standard deviation of Y equals to 12.
+C.The Skewness of Y equals to -4.
+D.The Kurtosis of Y equals to 6.
+参考答案：C
+【莽学解析】
+ 
+ 
+14.A risk manager is backtesting a firm’s model for estimating 1-day 99% VaR and observes five
+exceedances over the prior 150 trading days. Assuming the model is correctly calibrated, and
+all the exceedances are independent of each other, what is the probability that there are
+exactly six exceedances over a period of 250 trading days?
+A.0.84%
+B.2.75%
+C.36.97%
+D.39.25%
+参考答案：B
+【莽学解析】
+ 
+ 
+15.Which of the following statements is the most accurate about the relationship between a
+normal distribution and a Student’s t-distribution that have the same mean and standard
+deviation?
+A.They have the same skewness and the same kurtosis.
+B.The Student\u2019s t-distribution has a larger skewness and a larger kurtosis.
+C.The kurtosis of a Student\u2019s t-distribution converges to that of the normal distribution
+as the number of degrees of freedom increases.
+D.Given the same confidence level, t-distribution has a narrower confidence interval than z-
+distribution.
+参考答案：C
+【莽学解析】Answer: C解析：该题主要考点为正态分布和t分布的性质。当自由度上升时，t分布趋近正态分
+布，其峰度也趋近正态分布，因此正确选项为C。对于选项A，在均值与方差相等的前提下，正态分布与t分布
+都是对称分布，因此二者偏度相等都为0；而t分布相对正态分布呈现出肥尾状态，因此峰度更高，所以二者
+峰度并不相等。因此，该选项错误。对于选项B，t分布与正态分布偏度相同，峰度不同。因此，该选项错误
+。对于选项D，置信度相同时，t分布相对正态分布有更宽的置信区间。因此，该选项错误。
+ 
+16.
+A.9.7%.
+B.15.5%.
+C.20.1%.
+D.25.0%.
+参考答案：C
+【莽学解析】
+ 
+ 
+17.
+A.52.98%
+B.54.38%
+C.57.93%
+D.58.32%
+参考答案：D
+【莽学解析】
+ 
+ 
+18.Benjamin has just graduated from college and joined in a well-known investment bank. As an
+outstanding graduate, Benjamin is asked to give a lecture regarding distributions commonly used
+in finance to sophomores who also major in finance. When reviewing related topics, Benjamin
+finds out several points that are frequently misunderstood. He plans to do a quick quiz about
+those points during the lecture. If you are one of the students, which of the following
+statements is most likely correct?
+A.T-distribution and F-distribution are frequently used in hypothesis test. When testing the
+hypothesis of equality of two means, we\u2019d better use t-distribution. Besides, t-
+distribution is more suitable in a joint test than F-distribution.
+B.The graphs of PDFs (probability density functions) for lognormal distribution, X2distribution
+and F-distribution are alike, all of which are left skewed and bounded from below by zero.
+C.Lognormal distribution is used to model asset returns or profit\/loss.
+D.When two normal distributions are mixed, the mixed distribution may be skewed.
+参考答案：D
+【莽学解析】
+ 
+19.Given that X and Y are random variables, and a, b, c, and d are constants, which of the
+following statements is most likely incorrect?
+A.
+B.
+C.
+D.
+参考答案：C
+【莽学解析】
+ 
+ 
+20.
+A.18%
+B.30%
+C.33%
+D.38%
+参考答案：B
+【莽学解析】
+ 
+ 
+21.
+What is conditional expectation of the portfolio return given a bearish market condition?
+A.5.40%
+B.2.33%
+C.1.67%
+D.0%
+参考答案：C
+【莽学解析】
+ 
+22.
+A.5%
+B.10%
+C.90%
+D.95%
+参考答案：D
+【莽学解析】
+ 
+ 
+23.Adam Farman has been asked to estimate the volatility of a technology stock index. He has
+identified a sample statistic which has an expected value equal to the population volatility
+and has determined that increasing his sample size will decrease the sampling error for this
+statistic. His statistic can best be described as:
+A.Unbiased and efficient
+B.Unbiased and consistent
+C.Efficient and consistent
+D.Unbiased only
+参考答案：B
+【莽学解析】Answer: B解析：该题主要考点为优质估计量具备的性质。无偏（unbiased）估计量是指估计量
+的期望值等于总体参数，与题中所述一致。一致的（consistent）估计量是指随着样本容量的增大，估计准
+确性提高，抽样误差减少，与题中所述一致。有效（efficient）估计量是指在所有无偏估计量中方差最小的
+估计量，题目中未提到。因此，正确选项为B。
+ 
+24.AnalystRob hasidentified anestimator, denotedT(.), whichqualifiesasthebest linear
+unbiasedestimator(BLUE).IfT(.)isBLUE,whichofthefollowingmustalsonecessarilybe true?
+A.T(.) must have the minimum variance among all possible estimators.
+B.T(.) must be the most efficient (the "best") among all possible estimators.
+C.T(.) is superior to all non-linear estimators.
+D.Among the class of unbiased estimators that are linear, T(.) has the smallest variance.
+参考答案：D
+【莽学解析】
+ 
+25.
+A.0
+B.1
+C.2
+D.3
+参考答案：A
+【莽学解析】
+ 
+ 
+26.The parameters of a normal distribution have been estimated from an extremely large data
+set. The Z value of 2.33 is used to form a two-sided confidence interval around the sample
+mean, based on the distribution parameters estimated. The most likely correct statement
+regarding the confidence interval is:
+A.5% of all observations will be falling outside the confidence interval.
+B.There is a 1% probability of a particular observation falling outside the confidence
+interval.
+C.There is a 1% probability of a particular observation is smaller than the lower limit of the
+confidence interval.
+D.99.5% of all observations will be falling inside the confidence interval.
+参考答案：C
+【莽学解析】该题主要考点为置信区间相关性质。在双尾的正态分布下，Z值为 2.33的置信区间覆盖了98%的
+观察值，显著性水平代表了观测值落在置信区间外的概率α=1-98%=2%。每边的尾部概率为1%，这意味着观察
+值小于置信区间下限概率为1%，观察值大于置信区间上限的概率也为1%。因此，正确选项为C。
+ 
+27.An investment analyst takes a random sample of 100 aggressive equity funds and calculates
+the average beta as 1.7. The sample betas have a standard deviation of 0.4. Using a 95%
+confidence interval and a z-statistic, which of the following statements about the confidence
+interval and its interpretation is most likely accurate? The analyst can be confident at the
+95% level that the interval:
+A.from 0.916 to 2.484 includes the mean of the sample betas.
+B.from 1.622 to 1.778 includes the mean of the sample betas.
+C.from 0.916 to 2.484 includes the mean of the population beta.
+D.from 1.622 to 1.778 includes the mean of the population beta.
+参考答案：D
+【莽学解析】该题主要考点为置信区间的构建。根据中心极限定理，大样本的情况下样本均值的抽样分布近
+似于正态分布。对于95%置信水平的双尾置信区间，在正态分布下依赖因子为1.96，则置信区间为：
+在95%的置信水平下总体beta会落在区间[1.622,1.778]中。因此，正确选项为D。
+ 
+28.To estimate the mean monthly return of the whole sector of growth style mutual funds in the
+United States, Amity, an analyst in Golden Investment Group, have drawn a sample with 10
+monthly returns of growth style funds in the United States. The sample mean and standard
+deviation are 1% and 2%, respectively. Which of the following is the 95% confidence interval
+for the mean return?
+A.-3.46% to 5.46%
+B.-3.52% to 5.52%
+C.-0.4103% to 2.41%
+D.-0.43% to 2.43%
+参考答案：D
+【莽学解析】该题主要考点为置信区间的构建。构建小样本量的置信区间适用t分布。对于双尾95%置信水平
+的区间，自由度为n-1=9，在单尾的t分布表中对应的t统计量为2.262。
+因此，正确选项为D。
+ 
+29.An analyst is running a hypothesis test and conducting a two-tailed test to determine if
+small-cap returns are significantly different from 10%. The sample size is 200 and the
+calculated t-statistic is 2.3. Using a 5% level of significance, which of the following
+statements is most likely correct?
+A.Reject the null hypothesis and conclude that small-cap returns are not significantly
+different from 10%.
+B.Fail to reject the null hypothesis and conclude that small-cap returns are significantly
+different from 10%.
+C.Fail to reject the null hypothesis and conclude that small-cap returns are close enough to
+10% that we cannot say they are significantly different from 10%.
+D.Reject the null hypothesis and conclude that small-cap returns are significantly different
+from 10%.
+参考答案：D
+【莽学解析】该题主要考点为假设检验结果的判断。原假设是H0: x = 10%；备择假设是Ha: x≠10%。在5%的
+显著性水平下，大样本量双尾检验的关键值近似为1.96。因为计算出的t统计量大于关键值(2.3 >1.96)，所
+以拒绝原假设，得出小盘股收益率显著不同于10%的结论。因此，正确选项为D。
+ 
+30.One company suspects the producers of adulterating milk are not doing their jobs. By
+measuring the freezing point of milk, one can detect whether the milk has been mixed with
+water. The freezing temperature of natural milk approximately follows a normal distribution,
+with a mean value of -0.545℃ and a standard deviation of 0.008℃. The addition of water to
+milk can raise the freezing temperature close to the freezing temperature of thewater. The
+company conducts a hypothesis test with a null hypothesis that the mean value of the freezing
+temperature of natural milk is no greater than -0.545℃. At the 5% significance level, the
+company measures the freezing temperature of five batches of milk submitted by the producers
+and calculates the sample mean of -0.535℃. Can the producers be considered to deceit the
+company?
+A.Yes, because the test statistic is larger than 1.96.
+B.Yes, because the p-value is smaller than the size of the test.
+C.No, because -0.545℃ is not falling into the confidence interval.
+D.No, because the test statistic is smaller than 1.96.
+参考答案：B
+【莽学解析】
+ 
+ 
+31.
+A.P (Type I error) increases     P (Type I error) increases
+B.P (Type I error) decreases     P (Type II error) increases
+C.P (Type II error) increases     P (Type I error) decreases
+D.P (Type II error) decreases     P (Type II error) decreases
+参考答案：B
+【莽学解析】该题主要考点为影响两类错误的因素。第一类错误是在原假设正确时拒绝它的错误（拒真）。
+第二类错误是在原假设错误时没有拒绝它的错误（存伪）。显著性水平的降低会使第一类错误发生的概率降
+低，使第二类错误发生的概率增加。减少样本容量会同时增加两种错误发生可能性。因此，正确选项为B。
+ 
+32.According to the Basel back-testing framework guidelines, penalties start to apply if there
+are five or more exceptions during the previous year. The probability of the Type I error for
+this test is 11 percent and the power of the test is 87 percent. This implies that there is:
+A.89% probability regulators will reject the correct model.
+B.11% probability regulators will reject the incorrect model.
+C.87% probability regulators will not reject the correct model.
+D.13% probability regulators will not reject the incorrect model.
+参考答案：D
+【莽学解析】该题主要考点为两类错误的概念及性质。未拒绝错误的模型犯的是第二类错误，犯该类错误的
+概率等于1-87%=13%。因此，正确选项为D。对于选项A，拒绝正确的模型犯的是第一类错误，犯该类错误的概
+率是11%而非89%。因此，该选项错误。对于选项B，拒绝错误模型的概率等于检验统计力（powerof
+test），即87%。因此，该选项错误。对于选项C，拒绝正确模型的概率为11%，未拒绝正确模型的概率为1-
+11%=89%。因此，该选项错误。
+33.
+ 
+Using the ordinary least squares technique, which of the following models will she obtain?
+A.
+B.
+C.
+D.
+参考答案：B
+【莽学解析】该题主要考点为运用最小二乘法计算一元线性回归系数。回归模型的斜率项和截距项计算如下
+：
+因此，正确选项为B。
+ 
+34.
+A.Reject the null hypothesis because the t-statistic is 82.2727, which is greater than 1.96.
+B.Fail to reject the null hypothesis because the t-statistic is 1.1039, which is smaller than
+1.96.
+C.Reject the null hypothesis because the p-value is 0.00000, which is far smaller than 5%.
+D.Can’t make decision to reject the null hypothesis or not using the information in the table.
+参考答案：B
+【莽学解析】
+ 
+ 
+35.
+A.From 0.6853 to 1.0283.
+B.From 0.7124 to 1.0012.
+C.From 0.5487 to 1.1521.
+D.From 0.4569 to 1.2658.
+参考答案：A
+【莽学解析】
+ 
+ 
+36.
+A.The correlation coefficient between X (industry index’s return) and Y (stock’s return) is
+0.889.
+B.The industry index coefficient is significant at a 99% confidence interval.
+C.If the return on the industry index is 4%, the stock's expected return is 9.7%.
+D.The variation of industry returns explains 21% of the variation of company returns.
+参考答案：D
+【莽学解析】
+ 
+ 
+37.Kellen Xavier, FRM, is analyzing the key factors that affect a celebrity’s popularity. She
+runs a multiple regression of several male celebrities’ popularity levels against their
+singing skills, dancing skills, rapping skills, and basketball skills. She wants to test
+whether these four skills as a whole have significant explanatory power on a celebrity’s
+popularity. What kind of hypothesis test should Kellen run and what should be the most
+reasonable null hypothesis?
+A.Hypothesis test with single coefficient;
+B.Four individual hypothesis tests with every single coefficient (t-test);
+C.Joint Hypothesis test (F-test);
+D.Joint Hypothesis test (F-test);
+参考答案：C
+【莽学解析】
+ 
+ 
+38.Which statement regarding the determination coefficient R² is correct?
+A.For a simple linear regression, the squared correlation between dependent and independent
+variable is equal to the coefficient of determination.
+B.The increasing in adjusted R² after adding a new independent variable indicates that new
+variable is statistically significant.
+C.The value for adjusted R² and R² ranges from 0 to 1.
+D.For the same model, adjusted R² could be higher than R².
+参考答案：A
+【莽学解析】
+ 
+ 
+39.An analyst runs a regression of monthly stock returns on four independent variables over 48
+months. From the regression, the total sum of squares (TSS) is 580, and the residual sum of
+squared (RSS) is 220. The regression coefficient of determination(R2) and the adjusted R2are
+closest to:
+A.62%58.5%
+B.38% 41.5%
+C.62% 41.5%
+D.38%58.5%
+参考答案：A
+【莽学解析】
+ 
+ 
+40.
+ 
+ 
+ 
+A.I, II, and III
+B.I and IV
+C.III and IV
+D.I, III, and IV
+参考答案：D
+【莽学解析】该题主要考点为多元线性回归斜率系数的假设检验和方程的联合假设检验。对于陈述I，使用
+t检验，H0:B0=0。p值为0.0007，小于显著性水平5%，应拒绝原假设。符合题意。对于陈述II，使用t检验
+，H0:B1=0。p值为0.3026，大于显著性水平5%，不能拒绝原假设。不符合题意。对于陈述III，使用t检验
+，H0:B2=0。p值为0.0004，小于显著性水平5%，应拒绝原假设。符合题意。对于陈述IV，使用联合假设检验
+F检验，原假设为H0:B1= B2= 0。根据ANOVA分析表，F检验统计量的p值为0.0012，小于显著性水平5%，应拒
+绝原假设。符合题意。综上所述，陈述I，陈述III和陈述IV在5%的显著性水平下，都可以拒绝原假设，符合
+题意。因此，正确选项为D。
+ 
+41.Alpha Robin, FRM, analyst from Golden Fund, examines a single-factor regression for a hedge
+fund and makes the following two statements:Statement 1: Heteroskedasticity exists if the
+regression residuals are correlated with their lagged values.Statement 2: Heteroskedasticity
+does not affect the consistency or unbiasedness of the OLS parameter estimator.Which of
+Lockwood’s statements is correct?
+A.Statement 1 is correct, and Statement 2 is correct.
+B.Statement 1 is correct, and Statement 2 is incorrect.
+C.Statement 1 is incorrect, and Statement 2 is correct.
+D.Statement 1 is incorrect, and Statement 2 is incorrect.
+参考答案：C
+【莽学解析】本题主要考点为异方差的概念和性质。对于陈述I，异方差表示回归残差的方差会随着自变量的
+变化而变化，并非表示回归残差与其滞后项有关系。因此，陈述I错误。对于陈述II，异方差不会影响最小二
+乘法下估计参数的一致性和无偏性。因此，陈述II正确。综上所述，正确答案为C。
+ 
+42.A risk manager is examining the relationship between portfolio manager’s years of working
+experience and the returns of their portfolios. He performs an ordinary least squares (OLS)
+regression of last year’s portfolio returns (Y) on the portfolio managers’ years of working
+experience (X) and provides the following scatter plot to his supervisor:
+Which of the following statistical characteristicscan his supervisorobserve from the scatter
+plot?
+A.Perfect collinearity
+B.Heteroscedasticity
+C.Omitted variable bias
+D.Homoscedasticity
+参考答案：B
+【莽学解析】本题主要考点为使用散点图判断异方差（heteroscedasticity）现象。从散点图可以看出，残
+差项的方差随着自变量（组合经理的工作年限）的增加而增加，呈现异方差现象。
+ 
+43.Tom Freddy, FRM, is currently analyzing the performance of several portfolio managers. He is
+conducting an ordinary least squares regression of the daily returns ofeach manager’s
+portfolio on their salaries. He concludes that a manager’s salary is a key drive to their
+portfolio’s performance. Tom clearly knows that ages only affect their salaries and do not
+affect portfolio’s performance, while portfolio management skills and stock picking skills
+affect both salaries and portfolio’s performance, and loyalty to the firm affects neither the
+salaries nor the performance.Does Tom make an omitted variable bias? If yes, what variable is
+most likely omitted?
+A.Yes. Manager\u2019s age.
+B.Yes. Manager\u2019s portfolio management skills and stock picking skills.
+C.Yes. Manager\u2019s loyalty to the company.
+D.No. There is no omitted variable bias.
+参考答案：B
+【莽学解析】本题主要考点为遗漏变量偏误的定性辨析。遗漏变量指的是同时满足以下条件：（1）和现有自
+变量相关；（2）是因变量的决定因素。Tom将组合的业绩对基金经理的工资水平做回归，在考虑因素中，投
+资经理的技能和选股能力（portfolio management skills and stock picking skills）和其工资水平、组
+合表现都有关系，即该变量与现有自变量相关且可影响因变量，满足遗漏变量的两个条件，因此是遗漏变量
+。因此，正确选项为B。
+ 
+44.Multicollinearity, omitted variable bias and heteroscedasticity have different impacts on
+ordinary least squares (OLS) estimators. Which of the following statements is least likely
+correct regarding these impacts?
+A.Perfect collinearity will cause the software and computer crashed.
+B.Multicollinearity will cause the OLS estimator biased.
+C.Omitted variable bias will cause the OLS estimator biased.
+D.Heteroscedasticity will cause the OLS estimator inefficient but won\u2019t cause it biased.
+参考答案：B
+【莽学解析】本题主要考点为多重共线性、遗漏变量偏误和异方差带来的有关后果。当存在多重共线性时
+，最小二乘估计量仍然满足无偏性。因此，B选项陈述错误，符合题意，为正确选项。对于A选项，完全多重
+共线性会造成严重问题，使得估计的斜率系数的分母为零，进而导致计算机无法运行该结果。因此，该陈述
+正确，不符合题意，为错误选项。对于C选项，遗漏变量偏误会使得最小二乘估计量不满足无偏性和一致性
+，出现偏差。因此，该陈述正确，不符合题意，为错误选项。对于D选项，异方差会低估估计的斜率系数的标
+准误，使得最小二乘估计量不再有效，但该估计量仍满足无偏性。因此，该陈述正确，不符合题意，为错误
+选项。
+ 
+45.
+A.Heteroskedasticity
+B.Multicollinearity
+C.Perfect collinearity
+D.Too small sample size
+参考答案：C
+【莽学解析】该题主要考点为线性回归问题的定性辨析。该题对应的模型用4个虚拟变量来反映每个季度的销
+量情况，会存在完全多重共线性问题，该问题会导致最小二乘法失灵。因此，正确选项为C。
+ 
+46.Oliver, FRM, wants to assess the sensitivity of his portfolio return to various candidate
+variables including interest rate, GDP, CPI and GNP etc. using linear regression method. He is
+concerned with the problem of including irrelevant variable and omitting a relevant variable in
+his regression model. Then he decides to employ either the m-fold cross-validation or General-
+to-specific (GtS) model selection method to choose a final model. Which of the following
+statements is most likely to be correct regarding the two methods?
+A.General-to-specific model begins by specifying a small model that includes few relevant
+variables.
+B.The regression model selected by GtS model selection method contains no coefficients that are
+statistically insignificant.
+C.The out-of-sample prediction is performed when using the GtS model selection method.
+D.Based on the GtS method, the regression model with smallest out-of-sample sum of squared
+residuals is chosen from the set of candidate regression models.
+参考答案：B
+【莽学解析】该题主要考点为GtS和m-fold交叉验证两种方法的定性比较。GtS方法通过对模型中的变量回归
+系数做假设检验，逐步剔除不显著的变量，直至模型中所含变量的回归系数均显著为止，即最终模型所含变
+量不存在系数不显著的情况。因此，正确选项为B。对于选项A，GtS方法的基本思想是从一个包含较多变量的
+大模型入手，逐步剔除不显著的变量，而非从包含少数变量的小模型入手。因此，该选项错误。对于选项
+C，用样本外数据做模型检验是m-fold交叉验证方法的基本思想，而非GtS方法。因此，该选项错误。对于选
+项D，利用样本外数据计算的RSS（sum of squared residuals）最小的候选模型为最终模型，该做法是m-
+fold交叉验证方法的思路，而非GtS方法。因此，该选项错误。
+ 
+47.Regardingwhite noise, each of the following statementsis true except：
+A.If a process is zero-mean white noise, then it must be Gaussian white noise.
+B.If a process is Gaussian white noise, then it must be zero-mean white noise.
+C.If a process is Gaussian white noise, then it must be independent white noise.
+D.If a process has zero mean, constant variance and no autocorrelation, then it is white noise.
+参考答案：A
+【莽学解析】解析：该题的主要考点是零均值白噪声（zero-mean white noise）、高斯白噪声（Gaussian
+white noise）和独立白噪声（independent white noise）的辨析。零均值白噪声是不相关的，但未必是序
+列独立和服从正态分布的高斯白噪声。因此，该选项描述错误，符合题意，为正确选项。对于选项B，高斯白
+噪声是序列独立和服从正态分布的，满足零均值白噪声的所有特征。因此，该选项描述正确，不符合题意
+，为错误选项。对于选项C，高斯白噪声是序列独立和服从正态分布的，一定是独立的白噪声。因此，该选项
+描述正确，不符合题意，为错误选项。对于选项D，一个零均值、方差恒定且无自相关性的过程是白噪声。因
+此，该选项描述正确，不符合题意，为错误选项。
+ 
+48.Which statement（　） regarding white noise is(are) correct?
+A.III and IV
+B.I and III
+C.I and II
+D.II only
+参考答案：D
+【莽学解析】
+ 
+ 
+49.Rodney Rothman intends to research the cyclicity of economic growth that cannot be captured
+by trends or seasonalities. Firstly, he calculates ACF (autocorrelation function)and PACF
+(partial autocorrelation function) for the economic data and makes two statements on his
+notebook as follows:
+Which of the two statements is/are correct?
+A.Statement 1?
+B.Statement 2
+C.Both two statements
+D.Neither of the two statements
+参考答案：C
+【莽学解析】
+ 
+ 
+50.
+A.Statement 1
+B.Statement 2
+C.Statement 3
+D.Statement 4
+参考答案：D
+【莽学解析】
+51.Cecilia in Golden Investment group is analyzing and trying to forecast the price performance
+of Stock XYZ. After collecting the historical time series data of Stock XYZ, Cecilia draws the
+ACF (autocorrelation function) and PACF (partial autocorrelation function). It turns out that
+both graphics of the ACF and the PACF present a slow decay pattern. Which of following is most
+suitable to model the price performance of Stock XYZ?
+A.AR (1)
+B.MA (1)
+C.AR (2)
+D.ARMA (1,1)
+参考答案：D
+【莽学解析】该题的主要考点是根据自相关函数（autocorrelation function, ACF）和偏自相关函数
+（partial autocorrelation function, PACF）的特征选择合适的时间序列模型。ARMA（1,1）模型的自相关
+函数（ACF）和偏自相关函数（PACF）都具有衰减（decay）的特征，而AR(1)、MA（1）和AR（2）模型的自相
+关函数和偏自相关函数不同时具有衰减特征。因此，正确选项是D。
+ 
+52.
+A.AR (2)
+B.MA (2)
+C.ARMA (2,2)
+D.AR (1)
+参考答案：B
+【莽学解析】该题的主要考点是根据自相关函数（autocorrelation function, ACF）和偏自相关函数
+（partial autocorrelation function, PACF）的特征选择合适的时间序列模型。首先，左图中偏自相关函
+数的数值随着滞后阶数p的增大而逐渐减小到接近0，体现衰减（decay）的特征；其次，右图中自相关函数的
+数值在滞后二阶后直接降低到0，体现出截尾（cutoff）的特征。只有一阶移动平均MA（2）模型同时符合上
+述两个特征。因此，正确的选项是B。
+ 
+53.Oliver, a junior risk analyst in a hedge fund, is trying to forecast the expected return of
+a stock using the following AR (1) model:
+Oliver is confused about the significant influences by covariance stationarity on the
+forecasting model and the implications by the model. Which of the following statements
+regarding Oliver’s concern is most likely incorrect?
+A.
+B.
+C.
+D.
+参考答案：A
+【莽学解析】
+ 
+ 
+54.Jack is a regression analyst working in Golden Finance and now makesa regression equation
+utilizing dummy variables to explain whether different cities have influenced the company’s
+sale volumes. There are six cities in which this company’s cars are sold.
+Where:
+The intercept represents the sale volumes of：
+A.All cities in total.
+B.First city.
+C.Sixth city.
+D.No cities, but a residual.
+参考答案：C
+【莽学解析】
+ 
+ 
+55.A junior risk analyst at a major global bank is conducting a time series analysis of equity
+returns. The manager is concerned with random walks leading to the non-stationarity in time
+series. Then he turns to his director for advices regarding random walk process. The risk
+director makes the following statements:Statement 1: Random walk processes place equal weight
+on all shocks and the initial value, and so a shock in period t permanently affects all future
+values.Statement 2: Random walk processes become more dispersed over time.Which of the
+statements is(are) most likely correct?
+A.Only statement 1
+B.Only statement 2
+C.Both statement 1 and statement 2
+D.Neither statement 1 nor statement 2
+参考答案：C
+【莽学解析】
+ 
+ 
+56.
+A.Only statement 1
+B.Only statement 2
+C.Both statement 1 and statement 2
+D.Neither statement 1 nor statement 2
+参考答案：A
+【莽学解析】
+ 
+ 
+57.Time Trends, Seasonalities and Cycles are the typical components of non-stationary time
+series. Teresa, FRM part I candidate, is reviewing non-stationary time series section and makes
+four statements. Which of the following statements is most likely correct?
+A.Polynomial trend could be used when time series have a constant growth rate.
+B.It\u2019s better to use polynomial trend to model seasonalities.
+C.After modeling time trends and seasonalities, the residuals from models are a series of white
+noise.
+D.Cycles are any sort of dynamics not captured by trends or seasonalities.
+参考答案：D
+【莽学解析】该题的主要考点是时间趋势（time trends）、季节性（seasonalities）和周期性
+（cycles）相关的知识点。周期性是指任何没有被趋势性或者季节性所体现的波动性。因此，正确选项是D。
+对于选项A，若时间序列有恒定的增长率，应当用对数线性趋势（log-linear trend）而非多项式趋势
+（polynomial trend）。因此，该选项错误。对于选项B，应当用哑变量而非多项式趋势体现季节性。因此
+，该选项错误。对于选项C，时间趋势和季节性是非平稳的时间序列，其残差项不是白噪声（white
+noise）。因此，该选项错误。
+ 
+58.Serena is a risk analyst in Golden Investment Group. She is monitoring the return volatility
+of Security Alpha based on a 12-month lookback window of monthly returns. She calculated the
+standard deviation of the monthly returns of 3%. Which of the following is most likely correct?
+A.The implied volatility of semi-annual returns is 18%.
+B.The implied volatility of semi-annual returns is 7.35%.
+C.The estimated volatility of semi-annual returns is 18%.
+D.The estimated volatility of semi-annual returns is 7.35%.
+参考答案：D
+【莽学解析】该题主要考点为波动率的计算。在使用过去的月度回报率计算波动率时可以借助平方根法则来
+进行时间长度的调整，而隐含波动率的计算需借助期权价格来倒推，故根据题干条件无法求解隐含波动率。
+按照平方根法则，估计的半年期的波动率为：
+综上所述，正确选项为D。
+ 
+59.Musab, FRM, is conducting an equity portfolio optimization process. When running a scenario
+analysis in Bloomberg terminal, he notices that the rate of return on the portfolio is highly
+correlated with the price of crude oil. As the return on the portfolio and the price of crude
+oil exhibit both linear and nonlinear dependence, Musab decides to take both dependences into
+consideration. Which of the following statements is least likely correct regarding the
+measurement of dependence?
+A.In the regression:
+if Y and X are standardized to have unit variance, then the regression coefficient is equal to
+the linear correlation estimate.
+B.Kendal’s tau has values that always lie between -1 and 1 and is scale invariant.
+C.Spearman’s correlation is robust to outliers by taking both ranks and values of X and Y into
+account.
+D.Pearson’s correlation and the regression slope are intimately related, and the regression
+slope is zero only if the correlation is zero.
+参考答案：C
+【莽学解析】
+ 
+ 
+60.Lorenz, FRM, is constructing an equity portfolio for Golden Investment. He thought the
+return of individual stock follows a normal distribution. However, after collecting the daily
+return of four stocks: BDEV.L, BNZL.L, HL.L and HLMA.L, from London Stock Exchange, he notice
+the potential non-normality problem as shown in the following PDFs. The most common violation
+of the normality assumption on stock returns is skewness and fat tail.
+ 
+ 
+Which of the following statements is most likely to be incorrect?
+A.If the skewness and excess kurtosis of BNZL.L return are 0.25 and 1.59 separately, the return
+distribution for BNZL.L is positively skewed and fat tailed.
+B.The Jarque-Bera test is used to check whether the returns are normally distributed with the
+alternative hypothesis that the returns do not follow a normal distribution.
+C.The null hypothesis of Jarque-Bera test could be summarized as: the skewness is equal to 0
+and the kurtosis is equal to 3.
+D.If the excess kurtosis of HL.L is 1.46, the return distribution for HL.L is thin-tailed.
+参考答案：D
+【莽学解析】该题主要考点为回报率分布的性质。当超峰度值大于0时，该随机变量（回报率）的分布为肥尾
+。选项D描述错误，符合题意，为正确选项。对于选项A，当偏度值等于0.25，超峰度值等于1.59时，该随机
+变量（回报率）的分布为正偏且肥尾。因此，该选项描述正确，不符合题意，为错误选项。对于选项
+B，Jarque-Bera检验是用来检验随机变量是否服从正态分布的检验。该检验中的原假设为随机变量（回报率
+）服从正态分布。因此，该选项描述正确，不符合题意，为错误选项。对于选项C，Jarque-Bera检验是用来
+检验随机变量是否服从正态分布的检验。该检验的原假设为随机变量（回报率）服从正态分布，偏度值等于
+0，峰度值等于3。因此，该选项描述正确，不符合题意，为错误选项。
+ 
+61.A risk manager is performing the risk analysis for a bond portfolio regarding the tail risk.
+When assessing the dependence between a corporate bond and U.S treasury bond, he is concerned
+with the nonlinear dependence between the two bonds. The manager then considers using
+Pearson’s correlation, Spearman’s correlation or Kendal’s tau to measure the nonlinear
+dependence. Which of the following is most likely correct with regarding to the listed
+measurements?
+A.Pearson\u2019s correlation performs better when measuring the nonlinear dependence because it
+takes the ranks of observations into consideration.
+B.Linear correlation performs better when it is used to capture the dependence of asset returns
+with common heteroskedasticity.
+C.Spearman\u2019s correlation is robust to outliers because only the ranks are used, while
+Kendal\u2019s tau only takes the values of different variables into consideration.
+D.It is invariant with respect to any monotonic increasing transformation of variables when
+using Spearman\u2019s correlation.
+参考答案：D
+【莽学解析】该题主要考点为回报率分布的性质。斯皮尔曼相关系数只是用变量的排序值而非取值，因此变
+量的单调递增变形不会影响该相关系数值。因此，正确选项为D。对于选项A，皮尔森相关系数用于测量线性
+相关关系，会用到变量的取值。因此，该选项错误。对于选项B，线性相关系数对于存在异方差的数据进行计
+量时和正常情况并无区别。因此，该选项错误。对于选项C，斯皮尔曼相关系数与肯德尔的tau相关系数均只
+考虑随机变量X和Y取值的排序，不考虑随机变量本身的取值。因此，对随机变量X和Y做单调递增变形不会改
+变上述两个系数值，且两个系数均对异常值不敏感，具有良好的适应性。因此，该选项错误。
+ 
+62.Which one of the following statements about Monte Carlo simulation is false?
+A.Monte Carlo simulation can be used with a lognormal distribution.
+B.The major advantage of Monte Carlo simulation is that the quality of the simulation outputs
+is less affected by the quality of the model inputs as the number of the replication in the
+simulation gets larger.
+C.One drawback of Monte Carlo simulation is that it is computationally very intensive.
+D.It is very costly to reduce the standard error of the simulation by increasing the number of
+the trials.
+参考答案：B
+【莽学解析】该题主要考点为蒙特卡洛模拟的性质。蒙特卡洛模拟法的缺点之一为输出结果的质量会受到输
+入参数质量较大的影响。选项B描述错误，符合题意，为正确选项。对于选项A，蒙特卡洛模拟依赖于某一分
+布，该分布可以是对数正态分布。因此，该选项描述正确，不符合题意，为错误选项。对于选项C，蒙特卡洛
+模拟法的缺点之一为计算量大。因此，该选项描述正确，不符合题意，为错误选项。对于选项D，在模拟过程
+中，通过增加模拟次数来减少标准误的做法的计算成本较高。因此，该选项描述正确，不符合题意，为错误
+选项。
+ 
+63.Monte Carlo simulation and bootstrapping are two major methods to simulate a sample that is
+large enough for further statistical analysis. Both methods have their preferred application
+scenarios. However, the Monte Carlo simulation result in the sample may have a sufficiently
+large standard error causing insignificant conclusion. Among the following descriptionsof
+different ways to reduce the sampling error when doing Monte Carlo simulation, which is most
+likely correct?
+A.Increasing the number of simulation draws won\u2019t help improving the accuracy of
+simulation because each draw is independent from each other.
+B.Control variates is a way to reduce sample error by construct variables with negative
+correlation with previously simulated values.
+C.Antithetic variables help to reduce simulation sampling error by simulate another familiar
+random variable other than the target one.
+D.Compared with Control variates and Antithetic variables, increasing the number of simulation
+draws is not efficient enough.
+参考答案：D
+【莽学解析】这题主要考点为减少蒙特卡洛模拟误差的方法的性质。在蒙特卡洛模拟中，直接增加模拟的次
+数可减少模拟误差，比如模拟次数是原来的100倍，误差缩小至原来的0.1倍。但该做法耗时费力，不够高效
+，故引入对偶法和控制变元法以提高模拟效率。因此正确选项为D。对于选项A，在蒙特卡洛模拟中，增加模
+拟的次数可以降低模拟误差、增加模拟精确度。因此，该选项错误。对于选项B，构建与原模拟值负相关的对
+偶变量是关于对偶法的描述，而非控制变元法的描述。因此，该选项错误。对于选项C，通过模拟另一个更熟
+悉的变量以降低模拟误差是控制变元法的做法，而非对偶法的做法。因此，该选项错误。
+ 
+64.A risk analyst in a global investment bank is computing the expected payoff of a stock
+option. Because of the limited observations of the potential value for the option, he decides
+to use bootstrapping method to numerically approximate the expected value of the stock option.
+Which of the following statements regarding bootstrapping method is most likely correct?
+A.The observed data is assumed to follow a normal distribution when using bootstrapping method.
+B.When using bootstrapping, the user specifies a complete Data Generating Process (DGP) that is
+used to produce the simulated data.
+C.The anomaly of the financial market poses challenges on bootstrapping.
+D.The result of bootstrapping is irrelevant with structural changes in markets.
+参考答案：C
+【莽学解析】该题主要考点为脱靴法的性质。当金融市场出现巨大变化或有异象（anomaly）发生时，脱靴法
+的结果会受到较大的影响。因此，正确选项为C。对于选项A，脱靴法不对数据做分布的假设。因此，该选项
+错误。对于选项B，数据生成流程（DGP）是蒙特卡洛模拟的第一步，和脱靴法无关。因此，该选项错误。对
+于选项D，当金融市场出现巨大变化时，脱靴法的结果会受到很大的影响。因此，该选项错误。
+ 
+65.A data analyst at a large bank is assessing the valuation of a unique stock option with few
+known properties.The analyst is considering using simulation to model the option’s potential
+value. The analyst considerswhether to use Monte Carlo simulation or bootstrapping to conduct
+the analysis. Which of the followingstatements about bootstrapping is correct?
+A.Data used for bootstrapping follow a standard normal distribution.
+B.Data used for bootstrapping are resampled with replacement.
+C.Data used for bootstrapping come from a variable with known properties.
+D.Data used for bootstrapping are resampled such that all possible outcomes in a probability
+space are present.
+参考答案：B
+【莽学解析】该题主要考点为脱靴法的性质。脱靴法采用有放回地抽样（withreplacement）。因此，正确选
+项为B。对于选项A，脱靴法的数据来自于某一变量的取值，不需要知道该变量的特征及对应分布。因此，该
+选项错误。对于选项C，脱靴法的数据来自于某一变量的取值，不需要知道该变量的特征及对应分布。因此
+，该选项错误。对于选项D，脱靴法并不会保证样本空间中所有的可能的结果都被抽取到。因此，该选项错误
+。

@@ -1,0 +1,736 @@
+1.Fill in the blanks with the correct words: An American waterfall distributes performance fees
+on a(n) ___________ basis and is more advantageous to the ___________.
+A.deal-by-deal; LPs
+B.aggregate fund; LPs
+C.deal-by-deal; GP
+参考答案：C
+【莽学解析】C is correct. American waterfalls, also known as deal-by-deal waterfalls, pay
+performance fees after every deal is completed and are more advantageous to the GP because they
+get paid sooner (compared with European, or whole-of-fund, waterfalls). ：C是正确的。美国瀑布
+，也称为逐笔交易瀑布，在每笔交易完成后支付绩效费用，对GP更有利，因为他们更快获得支付（与欧洲或
+整个基金瀑布相比）。
+ 
+2.Compared with direct investment in infrastructure, publicly traded infrastructure securities
+are characterized by:
+A.higher concentration risk.
+B.more-transparent governance.
+C.greater control over the infrastructure assets.
+参考答案：B
+【莽学解析】B is correct. Publicly traded infrastructure securities, which include shares of
+companies, exchange-traded funds, and listed funds that invest in infrastructure, provide the
+benefits of transparent governance, liquidity, reasonable fees, market prices, and the ability
+to diversify across underlying assets. Direct investment in infrastructure involves a large
+capital investment in any single project, resulting in high concentration risks. Direct
+investment in infrastructure provides control over the assets and the opportunity to capture
+the assets’ full value. ：B是正确的。公开交易的基础设施证券，包括投资于基础设施的公司、交易所
+交易基金和上市基金，它们具有透明的治理体系、流动性、合理的费用、市场价格以及跨基础资产多样化的
+特征。对基础设施的直接投资涉及对单个项目的大量资本投资，将会导致高集中性的风险。对基础设施的直
+接投资是对资产的直接控制并且能够拥有获取资产全部价值的机会。
+ 
+3.The investment method that typically requires the greatest amount of or most thorough due
+diligence from an investor is:
+A.fund investing.
+B.co-investing.
+C.direct investing.
+参考答案：C
+【莽学解析】C is correct. Due diligence in direct investing will usually be more thorough and
+more rigid from an investor’s perspective because of the absence of a fund manager that would
+otherwise conduct a large portion of the necessary due diligence. ：C是正确的。从投资者的角度来
+看，直接投资的尽职调查通常会更彻底、更严格，因为没有一位基金经理，否则将进行大部分必要的尽职调
+查。
+ 
+4.The majority of real estate property may be classified as either:
+A.debt or equity.
+B.commercial or residential.
+C.direct ownership or indirect ownership.
+参考答案：B
+【莽学解析】B is correct. The majority of real estate property may be classified as either
+commercial or residential.：B是正确的。大多数房地产可分为商业地产或住宅地产。
+ 
+5.In comparison to other alternative investment approaches, co-investing is most likely:
+A.more expensive.
+B.subject to adverse selection bias.
+C.the most flexible approach for the investor.
+参考答案：B
+【莽学解析】B is correct. Co-investing may be subject to adverse selection bias. For example,
+the fund manager may make less attractive investment opportunities available to the co-investor
+while allocating its own capital to more appealing deals.A is incorrect because co-investing is
+likely not more expensive than fund investing since co-investors can co-invest an additional
+amount alongside the fund directly in a fund investment without paying management fees on the
+capital that has been directly invested.C is incorrect because direct investing, not co-
+investing, provides the greatest amount of flexibility for the investor. B是正确的。共同投资可
+能受到逆向选择偏差的影响。例如，基金经理可能会向共同投资者提供吸引力较低的投资机会，同时将自己
+的资本分配给更具吸引力的交易。A是不正确的，因为共同投资可能不会比基金投资更昂贵，因为共同投资者
+可以与基金一起直接共同投资基金投资，而无需支付直接投资资本的管理费。C是不正确的，因为直接投资
+，而不是共同投资，为投资者提供了最大的灵活性。
+ 
+6.A collateralized loan obligation specialist is most likely to:
+A.sell its debt at a single interest rate.
+B.cater to niche borrowers in specific situations.
+C.rely on diverse risk profiles to complete deals.
+参考答案：C
+【莽学解析】C is correct. A CLO manager will extend several loans to corporations (usually to
+firms involved in LBOs, corporate acquisitions, or other similar types of transactions), pool
+these loans, and then divide that pool into various tranches of debt and equity that range in
+seniority and security. The CLO manager will then sell each tranche to different investors
+according to their risk profiles; the most senior portion of the CLO will be the least risky,
+and the most junior portion of the CLO (i.e., equity) will be the riskiest. A is incorrect
+because with the different CLO tranches having distinct risks varying with their seniority and
+security, they will be priced over a range of interest rates. In contrast, unitranche debt
+combines different tranches of secured and unsecured debt into a single loan with a single,
+blended interest rate.B is incorrect because debt extended to niche borrowers in specific
+situations is more commonly offered through specialty loans. For example, in litigation
+finance, a specialist funding company provides debt to a client to finance the borrower’s
+legal fees and expenses in exchange for a portion of any case winnings. ：C是正确的。CLO经理将
+向公司（通常是参与杠杆收购、公司收购或其他类似交易的公司）发放几笔贷款，将这些贷款集中起来，然
+后将这些贷款分为不同的债务和股权，这些债务和股权在等级和安全性方面都有不同。然后，CLO经理将根据
+不同投资者的风险状况，将每一部分出售给不同的投资者；CLO中最高级的部分风险最低，最低级的部分（即
+股权）风险最高。A是不正确的，因为不同的CLO份额具有不同的风险，随着其资历和安全性的不同，它们将
+在一系列利率上定价。相比之下，unitranche债务将不同的有担保和无担保债务组合成单一贷款，利率为单
+一混合利率。B是不正确的，因为在特定情况下，延伸到利基借款人的债务通常通过专业贷款提供。例如，在
+诉讼融资中，专业融资公司向客户提供债务，为借款人的法律费用和开支提供资金，以换取任何案件赢款的
+一部分。
+ 
+7.Which of the following statements is true for REITs?
+A.According to GAAP, equity REITs are exempt from reporting earnings per share.
+B.Though equity REIT correlations with other asset classes are typically moderate, they are
+highest during steep market downturns.
+C.The REIT corporation pays taxes on income, and the REIT shareholder pays taxes on the REIT’s
+dividend distribution of after-tax earnings.
+参考答案：B
+【莽学解析】B is correct. Real estate investments, including REITs, provide important portfolio
+benefits due to moderate correlation with other asset classes. However, there are periods when
+equity REIT correlations with other securities are high, and their correlations are highest
+during steep market downturns.A is incorrect because equity REITs, like other public companies,
+must report earnings per share based on net income as defined by GAAP or IFRS.C is incorrect
+because REITs can avoid this double taxation. A REIT can avoid corporate income taxation by
+distributing dividends equal to 90%–100% of its taxable net rental income. This ability to
+avoid double taxation is the main appeal of the REIT structure. ：B是正确的。房地产投资，包括房
+地产投资信托，由于它与其他资产类别的相关性适中，所以它能够给投资组合提供重要的收益。然而，在某
+些时期，股票型REIT与其他证券的相关性较高，当市场急剧下跌时，它们的相关性最高。A是不正确的，因为
+股权REIT和其他上市公司一样，必须根据GAAP或IFRS定义的净收入报告每股收益。C是不正确的，因为REIT可
+以避免这种双重征税。REIT可以通过分配相当于其应纳税净租金收入90%-100%的股息来避免企业所得税。避
+免双重征税的能力是REIT结构的主要吸引力。
+ 
+8.Capricorn Fund of Funds invests GBP 100 million in each of Alpha Hedge Fund and ABC Hedge
+Fund. Capricorn FOF has a “1 and 10” fee structure. Management fees and incentive fees are
+calculated independently at the end of each year. After one year, net of their respective
+management and incentive fees, the investment in Alpha is valued at GBP80 million and the
+investment in ABC is valued at GBP140 million. The annual return to an investor in Capricorn,
+net of fees assessed at the fund of funds level, is closest to:
+A.7.9%.
+B.8.0%.
+C.8.1%.
+参考答案：A
+【莽学解析】A is correct. Because the net investor return is 7.9%, calculated as: First, note
+that “1 and 10” refers to a 1% management fee, and a 10% incentive fee. End of year capital =
+GBP140 million＋ GBP80 million = GBP220 million． Management fee = GBP220 million × 1% =
+GBP2.2 million． Incentive fee = (GBP220－GBP200) million × 10% = GBP2 million． Total fees to
+Capricorn = (GBP2.2 ＋GBP2) million = GBP4.2 million． Investor net return: (GBP220
+－GBP200－GBP4.2) / GBP200 = 7.9% ： A是正确的。因为投资者净回报率为7.9%，计算如下： 首先，请注
+意，“1和10”是指1%的管理费和10%的激励费。 期末账户值= GBP140 million ＋GBP80 million = GBP220
+million． 管理费= GBP220 million × 1% = GBP2.2 million． 激励费= (GBP220 － GBP200) million ×
+10% = GBP2 million． 总费用 = (GBP2.2＋GBP2) million = GBP4.2 million． 投资者净回报率: (GBP220
+－ GBP200 － GBP4.2) / GBP200 = 7.9%
+ 
+9.A hedge fund has the following fee structure: Annual management fee based on year-end AUM 2%
+Incentive fee 20% Hurdle rate before incentive fee collection starts 4% Current high-water mark
+$610 million The fund has a value of $583.1 million at the beginning of the year. After one
+year, it has a value of $642 million before fees. The net return to an investor for this year
+is closest to:
+A.6.72%.
+B.6.80%.
+C.7.64%.
+参考答案：C
+【莽学解析】C is correct. The management fee for the year is$642 × 0.02 = $12.84 million.
+Because the ending value exceeds the high-water mark, the hedge fund can collect an incentive
+fee. The incentive fee is{$642 – [$610 × (1＋ 0.04)]} × 0.20 = $1.52 million. The net return
+to the investor for the year is[($642 – $12.84 – $1.52)/$583.1] – 1 = 7.64%. ： C是正确的。
+本年度的管理费为： $642 × 0.02 = $12.84 million. 由于期末值超过了高水位线，因此可以收取激励费
+： {$642 – [$610 × (1＋ 0.04)]} × 0.20 = $1.52 million. 本年投资者净回报率： [($642 –
+$12.84 – $1.52)/$583.1] – 1 = 7.64%
+ 
+10.An investor seeks a current income stream as a component of total return, and desires an
+investment that historically has low correlation with other asset classes. The investment most
+likely to achieve the investor’s goals is:
+A.timberland.
+B.collectibles.
+C.commodities.
+参考答案：A
+【莽学解析】A is correct. Timberland offers an income stream based on the sale of timber
+products as a component of total return and has historically generated returns not highly
+correlated with other asset classes. ： A是正确的。林地提供了一个基于木材产品销售的收入，作为总
+回报的一部分，并且历史上产生的回报与其他资产类别的相关性不高。
+ 
+11.Risks in infrastructure investing are most likely greatest when the project involves:
+A.construction of infrastructure assets.
+B.investment in existing infrastructure assets.
+C.investing in assets that will be leased back to a government.
+参考答案：A
+【莽学解析】A is correct. Infrastructure projects involving construction have more risk than
+investments in existing assets with a demonstrated cash flow or investments in assets that are
+expected to generate regular cash flows. ：A是正确的。涉及建设的基础设施项目的风险高于对产生现
+金流的现有资产的投资，或者高于将产生正常现金流的资产的投资。
+ 
+12.As the loan-to-value ratio increases for a real estate investment, risk most likely
+increases for:
+A.debt investors only.
+B.equity investors only.
+C.both debt and equity investors.
+参考答案：C
+【莽学解析】C is correct. The higher the loan-to-value ratio, the higher leverage is for a real
+estate investment, which increases the risk to both debt and equity investors. ：C是正确的。贷
+款价值比越高，房地产投资的杠杆率越高，这会增加债务和股权投资者的风险。
+ 
+13.Private equity funds are most likely to use:
+A.merger arbitrage strategies.
+B.leveraged buyouts.
+C.market-neutral strategies.
+参考答案：B
+【莽学解析】B is correct. The majority of private equity activity involves leveraged buyouts.
+Merger arbitrage and market neutral are strategies used by hedge funds. ： B是正确的。私募股权
+中包括杠杆收购投资。合并套利和市场中性是对冲基金使用的策略。
+ 
+14.An alternative investment fund’s hurdle rate is a:
+A.rate unrelated to a catch-up clause.
+B.tool to protect clients from paying twice for the same performance.
+C.minimum rate of return the GP must exceed in order to earn a performance fee.
+参考答案：C
+【莽学解析】C is correct. An alternative investment fund’s hurdle rate is a minimum rate of
+return the GP must exceed in order to earn a performance fee.A is incorrect because if a catch-
+up clause is included in the partnership agreement, the catch-up clause permits distributions
+in relation to the hurdle rate.B is incorrect because it is a high-water mark (not a hurdle
+rate) that protects clients from paying twice for the same performance. ：C是正确的。另类投资基
+金的最低回报率是GP为赚取绩效费必须超过的最低回报率。A是不正确的，因为如果合伙协议中包含追赶条款
+，追赶条款允许与最低利率相关的分配。B是不正确的，因为它是一个高水位线（不是一个最低要求回报率
+），可以保护客户不为相同的性能支付两倍的费用。
+ 
+15.Which of the following statements is true regarding mortgage-backed securities?
+A.Insurance companies prefer the first-loss tranche.
+B.When interest rates rise, prepayments will likely accelerate.
+C.When interest rates fall, the low-risk senior tranche will amortize more quickly.
+参考答案：C
+【莽学解析】C is correct. When interest rates decline, borrowers are likely to refinance their
+loans at a faster pace than before, resulting in faster amortization of each MBS tranche,
+including the senior tranche, which is the lowest-risk tranche.A is incorrect because risk-
+averse investors, primarily insurance companies, prefer the lowest-risk tranches, which are the
+first to receive interest and principal. The junior-most tranche is referred to as the first-
+loss tranche. It is the highest-risk tranche and is the last to receive interest and principal
+distributions.B is incorrect because when interest rates rise, prepayments will likely slow
+down, lengthening the duration of most MBS tranches. Prepayments will likely increase when
+interest rates decline, because borrowers are likely to refinance their loans at a faster pace.
+：C是正确的。当利率下降时，借款人可能会更快得进行再融资，导致MBS每个层级的摊销速度更快了，包括
+风险最低的高级层。A是不正确的，因为厌恶风险的投资者，主要是保险公司，更喜欢风险最低的部分，这些
+部分首先获得利息和本金。最次要的部分称为第一损失部分。这是风险最高的部分，也是最后一个获得利息
+和本金分配的部分。B是不正确的，因为当利率上升时，预付款可能会放缓，延长大多数MBS部分的期限。当
+利率下降时，预付款可能会增加，因为借款人可能会以更快的速度为贷款再融资。
+ 
+16.Hedge funds are similar to private equity funds in that both:
+A.are typically structured as partnerships.
+B.assess management fees based on assets under management.
+C.do not earn an incentive fee until the initial investment is repaid.
+参考答案：A
+【莽学解析】A is correct. Private equity funds and hedge funds are typically structured as
+partnerships where investors are limited partners (LP) and the fund is the general partner
+(GP). The management fee for private equity funds is based on committed capital whereas for
+hedge funds the management fees are based on assets under management. For most private equity
+funds, the general partner does not earn an incentive fee until the limited partners have
+received their initial investment back. ：A是正确的。私募股权基金和对冲基金的结构通常为合伙制
+，投资者为有限合伙人，基金为普通合伙人。私募股权基金的管理费基于承诺资本，而对冲基金的管理费基
+于管理的资产。对于大多数私募股权基金而言，普通合伙人在有限合伙人收回其初始投资之前不会获得激励
+费。
+ 
+17.Which of the following is true regarding private equity performance calculations?
+A.The money multiple calculation relies on the amount and timing of cash flows.
+B.The IRR calculation involves the assumption of two rates.
+C.Because private equity funds have low volatility, accounting conventions allow them to use a
+lagged mark-to- market process.
+参考答案：B
+【莽学解析】B is correct. The determination of an IRR involves certain assumptions about a
+financing rate to use for outgoing cash flows (typically a weighted average cost of capital)
+and a reinvestment rate assumption to make on incoming cash flows (which must be assumed and
+may or may not actually be earned).A is incorrect because the money multiple calculation
+completely ignores the timing of cash flows.C is incorrect because it is somewhat of a reversal
+of cause and effect: Private equity (PE) funds can appear to have low volatility because of the
+lag in their mark-to-market process. It’s not that PE investments don’t actually rise and
+fall behind the scenes with economic influences, but accounting conventions may simply leave
+longer-lived investments marked at their initial cost for some time or with only modest
+adjustments to such carrying value until known impairments or realization events begin to
+transpire. Also, because PE funds are not easily marked to market, their returns can appear
+somewhat smoothed, making them appear more resilient and less correlated with other assets than
+they really are. The slowness to re-mark them can unfortunately be confused by investors as an
+overall lack of volatility.：B是正确的。内部收益率的确定包括对用于现金流流出（通常为加权平均资
+本成本）的融资率的假设，以及对现金流流入（必须假设且可能赚取或可能不会赚取）的再投资率的假设。
+A是不正确的，因为货币倍数计算完全忽略了现金流的时间。C是不正确的，因为它在某种程度上是因果颠倒
+的：私募股权（PE）基金可能因为其按市值计价过程的滞后而表现出较低的波动性。这并不是说私募股权投
+资实际上不会随着经济影响而在幕后涨落，而是会计惯例可能只会让寿命较长的投资在一段时间内以初始成
+本计价，或者在已知的减值或变现事件开始发生之前，只对这些账面价值进行适度调整。此外，由于私募股
+权基金不容易按市值计价，它们的回报可能会显得较为平稳，使它们看起来更具弹性，与其他资产的相关性
+也比实际情况要小。不幸的是，投资者可能会把重新标记它们的缓慢程度混淆为总体缺乏波动性。
+ 
+18.A characteristic of farmland strongly distinguishing it from timberland is its:
+A.commodity price-driven returns.
+B.inherent rigidity of production for output.
+C.value as an offset to other human activities.
+参考答案：B
+【莽学解析】B is correct. Unlike timberland products, farm products must be harvested when
+ripe, so there is little flexibility in the production process. In contrast, timber (trees) can
+be grown and easily “stored” by simply not harvesting. This feature offers the flexibility of
+harvesting more trees when timber prices are up and delaying harvests when prices are down. A
+is incorrect because just as a primary return driver for timberland is change in commodity
+price (of lumber from cut wood) in either the spot or futures price, farmland’s returns are
+driven by agricultural commodity prices, with commodity futures contracts potentially combined
+with farmland holdings to generate an overall hedged return. C is incorrect because for both
+farmland and timberland owned or leased for the benefit of the bounty each generates in the
+form of crops and more broadly timber, since these resources consume carbon as part of the
+plant life cycle, the considered value comes not just from the harvest but also from the offset
+to other human activities.：B是正确的。与林地产品不同，农产品必须在成熟时收割，因此生产过程几乎
+没有灵活性。相反，木材（树木）可以通过简单的不采伐来生长和容易地“储存”。这项功能提供了在木材
+价格上涨时收获更多树木和在价格下跌时推迟收获的灵活性。A是不正确的，因为正如t林地的主要回报驱动
+因素是现货或期货价格中商品价格的变化一样，农田的回报由农业商品价格驱动，商品期货合同可能与农田
+持有量相结合，以产生整体对冲回报。C是不正确的，因为对于以农作物和更广泛的木材形式产生的赏金为目
+的而拥有或租赁的农田和林地，由于这些资源作为植物生命周期的一部分消耗碳，所考虑的价值不仅来自收
+获，还来自对其他人类活动的抵消。
+ 
+19.A private equity fund desiring to realize an immediate and complete cash exit from a
+portfolio company is most likely to pursue a(n):
+A.IPO.
+B.trade sale.
+C.recapitalization.
+参考答案：B
+【莽学解析】B is correct. Private equity funds can realize an immediate cash exit in a trade
+sale. Using this strategy, the portfolio company is typically sold to a strategic buyer. ： B是
+正确的。私募股权基金可以在交易出售中实现即期现金流。利用这种策略，投资组合公司通常被出售给战略
+买家。
+ 
+20.Until the committed capital is fully drawn down and invested, the management fee for a
+private equity fund is based on:
+A.invested capital.
+B.committed capital.
+C.assets under management.
+参考答案：B
+【莽学解析】B is correct. Until the committed capital is fully drawn down and invested, the
+management fee for a private equity fund is based on committed capital, not invested capital.
+： B是正确的。在承诺资本全部提取和投资之前，私募股权基金的管理费是基于承诺资本，而不是投资资本
+。
+ 
+21.Both event-driven and macro hedge fund strategies use:
+A.long–short positions.
+B.a top-down approach.
+C.long-term market cycles.
+参考答案：A
+【莽学解析】A is correct. Long–short positions are used by both types of hedge funds to
+potentially profit from anticipated market or security moves. Event-driven strategies use a
+bottom-up approach and seek to profit from short-term events typically involving a corporate
+action, such as an acquisition or a restructuring. Macro strategies seek to profit from
+expected movements in evolving economic variables. ：A是正确的。两种类型的对冲基金都利用多空头
+寸从预期的市场或证券走势中获利。事件驱动型战略采用自下而上的方法，寻求从通常涉及公司行为（如收
+购或重组）的短期事件中获利。宏观战略寻求从不断变化的经济变量的预期变化中获利。
+ 
+22.Hedge fund losses are most likely to be magnified by a:
+A.margin call.
+B.lockup period.
+C.redemption notice period.
+参考答案：A
+【莽学解析】A is correct. Margin calls can magnify losses. To meet the margin call, the hedge
+fund manager may be forced to liquidate a losing position in a security, which, depending on
+the position size, could exert further price pressure on the security, resulting in further
+losses. Restrictions on redemptions, such as lockup and notice periods, may allow the manager
+to close positions in a more orderly manner and minimize forced-sale liquidations of losing
+positions. ：A正确。追加保证金可以放大损失。为了满足追加保证金的要求，对冲基金经理可能会被迫清
+算证券中的亏损头寸，这取决于头寸规模，可能会对证券施加进一步的价格压力，导致进一步亏损。对赎回
+的限制，如锁定期和通知期，可以使经理人以更有序的方式平仓，并尽量减少对损失头寸的强制平仓。
+ 
+23.Which of the following statements about commodity investing is invalid?
+A.Few commodity investors trade actual physical commodities.
+B.Commodity producers and consumers both hedge and speculate.
+C.Commodity indexes are based on the price of physical commodities.
+参考答案：C
+【莽学解析】C is correct. Commodity indexes typically use the price of futures contracts on the
+commodities included in them rather than the prices of the physical commodities themselves in
+order to be transparent, investable, and replicable. A is incorrect because trading in physical
+commodities is primarily limited to a smaller group of entities that are part of the physical
+supply chain. Thus, most commodity investors do not trade actual physical commodities but,
+rather, trade commodity derivatives. B is incorrect because although supply chain participants
+use futures to hedge their forward purchases and sales of the physical commodities, those
+commodity producers and consumers nonetheless both hedge and speculate on commodity prices.
+：C是正确的。为了透明、可投资和可复制，商品指数通常使用其所含商品的期货合约价格，而不是实物商品
+本身的价格。 A是不正确的，因为实物商品的交易主要限于作为实物供应链一部分的一小部分实体。因此
+，大多数商品投资者并不交易实际的实物商品，而是交易商品衍生品。 B是不正确的，因为尽管供应链参与
+者使用期货来对冲他们对实物商品的远期购买和销售，但这些商品生产者和消费者仍然对商品价格进行对冲
+和投机。
+ 
+24.Angel investing capital is typically provided in which stage of financing?
+A.Later-stage.
+B.Formative-stage.
+C.Mezzanine-stage.
+参考答案：B
+【莽学解析】B is correct. Formative-stage financing occurs when the company is still in the
+process of being formed and encompasses several financing steps. Angel investing capital is
+typically raised in this early stage of financing. ： B是正确的。形成阶段融资是指公司仍在形成过
+程中，包括若干融资步骤。天使投资资本通常是在融资的早期阶段筹集的。
+ 
+25.Which is not true of mark-to-model valuations?
+A.Return volatility may be understated.
+B.Returns may be smooth and overstated.
+C.A calibrated model will produce a reliable liquidation value.
+参考答案：C
+【莽学解析】C is correct. It is not true that a calibrated model will produce a reliable
+liquidation value in a mark-to-model valuation. The need to use a model for valuation arises
+when an asset is so illiquid that there are not reliable market values available. A model may
+reflect only an imperfect theoretical valuation, not a true liquidation value, should
+liquidation become necessary. The illiquid nature of alternative assets means that estimates,
+rather than observable transaction prices, may have been used for valuation purposes. A and B
+are not correct because they are both true statements.：C是正确的。在按模型定价的估值中，经校准
+的模型会产生可靠的清算价值，这是不正确的。当一项资产流动性极低，没有可靠的市场价值可用时，就需
+要使用估值模型。如果需要清算，模型可能只反映不完善的理论估值，而不是真实的清算价值。另类资产的
+低流动性意味着，可将估计值而非观察的交易价格用于估值。A和B是不正确的，因为它们都是正确的陈述。
+ 
+26.Which of the following relates to a benefit when owning real estate directly?
+A.Taxes
+B.Capital requirements
+C.Portfolio concentration
+参考答案：A
+【莽学解析】A is correct. When owning real estate directly, there is a benefit related to
+taxes. The owner can use property non-cash depreciation expenses to reduce taxable income and
+lower the current income tax bill. In fact, accelerated depreciation and interest expense can
+reduce taxable income below zero in the early years of asset ownership, and losses can be
+carried forward to offset future income. Thus, a property investment can be cash-flow positive
+while generating accounting losses and deferring tax payments. If the tax losses do not reverse
+during the life of the asset, depreciation-recapture taxes can be triggered when the property
+is sold. B is incorrect because the large capital requirement is a major disadvantage of
+investing directly in real estate. C is incorrect because a disadvantage for smaller investors
+who own real estate directly is that they bear the risk of portfolio concentration. ：A是正确的
+。当直接拥有房地产时，有一个与税收有关的好处。业主可以使用财产非现金折旧费用来减少应纳税所得额
+并降低当期所得税账单。事实上，加速折旧和利息支出可以在资产所有权的早期将应税收入降至零以下，损
+失可以结转以抵消未来收入。因此，房地产投资在产生会计损失和延期纳税的同时，可以实现现金流正。如
+果税务损失在资产的使用寿命期间没有逆转，则在出售资产时可能会触发折旧再捕获税。 B是不正确的，因
+为大量的资本要求是直接投资房地产的一个主要缺点。 C是不正确的，因为直接拥有房地产的小投资者的一
+个缺点是他们承担投资组合集中的风险。
+ 
+27.Which of the following is least likely to be considered an alternative investment?
+A.Real estate
+B.Commodities
+C.Long-only equity funds
+参考答案：C
+【莽学解析】C is correct. Long-only equity funds are typically considered traditional
+investments and real estate and commodities are typically classified as alternative
+investments. ：C是正确的。长期股权基金通常被视为传统投资，而房地产和大宗商品通常被归类为另类投
+资。
+ 
+28.An analyst wanting to assess the downside risk of an alternative investment is least likely
+to use the investment’s:
+A.Sortino ratio.
+B.value at risk (VaR).
+C.standard deviation of returns.
+参考答案：C
+【莽学解析】C is correct. Downside risk measures focus on the left side of the return
+distribution curve, where losses occur. The standard deviation of returns assumes that returns
+are normally distributed. Many alternative investments do not exhibit close-to-normal
+distributions of returns, which is a crucial assumption for the validity of a standard
+deviation as a comprehensive risk measure. Assuming normal probability distributions when
+calculating these measures will lead to an underestimation of downside risk for a negatively
+skewed distribution. Both the Sortino ratio and the VaR measure are measures of downside
+risk.：C是正确的。下行风险指标集中在收益分布曲线的左侧，即损失发生的地方。收益的标准差假设收益
+为正态分布。许多另类投资没有表现出接近正态分布的回报，这是标准差作为综合风险度量有效性的关键假
+设。在计算这些度量时，假设正态概率分布将导致低估负偏分布的下行风险。索提诺比率和VaR指标都是下行
+风险的指标。
+ 
+29.Compared with traditional investments, alternative investments are more likely to have:
+A.greater use of leverage.
+B.long-only positions in liquid assets.
+C.more transparent and reliable risk and return data.
+参考答案：A
+【莽学解析】A is correct. Investing in alternative investments is often pursued through such
+special vehicles as hedge funds and private equity funds, which have flexibility to use
+leverage. Alternative investments include investments in such assets as real estate, which is
+an illiquid asset, and investments in such special vehicles as private equity and hedge funds,
+which may make investments in illiquid assets and take short positions. Obtaining information
+on strategies used and identifying reliable measures of risk and return are challenges of
+investing in alternatives. ： A是正确的。投资于另类投资通常是通过对冲基金和私募股权基金这样的特
+殊工具进行的，这些具有使用杠杆的灵活性。另类投资包括对非流动资产房地产等资产的投资，以及对私募
+股权和对冲基金等特殊工具的投资，这些工具可能投资于非流动资产，可能做空。获取有关所用战略的信息
+并确定可靠的风险和回报衡量标准是另类投资的挑战。
+ 
+30.A significant challenge to investing in timber is most likely its:
+A.high correlation with other asset classes.
+B.dependence on an international competitive context.
+C.return volatility compounded by financial market exposure.
+参考答案：B
+【莽学解析】B is correct. A primary risk of timber is the international competitive landscape.
+Timber is a globally sold and consumed commodity subject to world trade interruptions. So the
+international context can be considered one of its major risk factors. A is incorrect because
+timberland offers an income stream based on the sale of trees, wood, and other timber products
+that has not been highly correlated with other asset classes. C is incorrect because investors
+are interested in timber because of its global nature (everyone requires shelter), the current
+income generated from the sale of the crop, inflation protection from holding the land, and its
+safe haven characteristics (it offers some insulation from financial market volatility). ：B是
+正确的。木材的主要风险是国际竞争格局。木材是受世界贸易中断影响的全球销售和消费商品。因此，国际
+环境可被视为其主要风险因素之一。 A是不正确的，因为timberland提供的收入流基于树木、木材和其他木
+材产品的销售，而这些产品与其他资产类别没有高度关联。 C是不正确的，因为投资者对木材感兴趣是因为
+木材的全球性质（每个人都需要庇护所）、出售作物产生的当前收入、防止持有土地的通货膨胀以及木材的
+避风港特征（它提供了一些金融市场波动的隔离）。
+ 
+31.The privatization of an existing hospital is best described as:
+A.a greenfield investment.
+B.a brownfield investment.
+C.an economic infrastructure investment.
+参考答案：B
+【莽学解析】B is correct. Investing in an existing infrastructure asset with the intent to
+privatize, lease, or sell and lease back the asset is referred to as a brownfield investment.
+An economic infrastructure asset supports economic activity and includes such assets as
+transportation and utility assets. Hospitals are social infrastructure assets, which are
+focused on human activities. ：B是正确的。对现有基础设施资产进行投资，以私有化、租赁或出售并租
+赁该资产称为褐地投资。经济基础设施资产支持经济活动，包括运输和公用事业资产等资产。医院是社会基
+础设施资产，主要关注人类活动。
+ 
+32.Relative to traditional investments, alternative investments are least likely to be
+characterized by:
+A.high levels of transparency.
+B.limited historical return data.
+C.significant restrictions on redemptions.
+参考答案：A
+【莽学解析】A is correct. Alternative investments are characterized as typically having low
+levels of transparency. ： A是正确的。另类投资的特点是透明度低。
+ 
+33.Which of the following forms of infrastructure investments is the most liquid?
+A.An unlisted infrastructure mutual fund
+B.A direct investment in a greenfield project
+C.An exchange-traded master limited partnership (MLP)
+参考答案：C
+【莽学解析】C is correct. A publicly traded infrastructure security, such as an exchange-traded
+MLP, provides the benefit of liquidity. ：C是正确的。公开交易的基础设施证券，例如交易所交易的
+MLP，具有提供流动性的优点。
+34.An investor may prefer a single hedge fund to a fund of funds if he seeks:
+A.due diligence expertise.
+B.better redemption terms.
+C.a less complex fee structure.
+参考答案：C
+【莽学解析】C is correct. Hedge funds of funds have multi-layered fee structures, whereas the
+fee structure for a single hedge fund is less complex. Funds of funds presumably have some
+expertise in conducting due diligence on hedge funds and may be able to negotiate more
+favorable redemption terms than an individual investor in a single hedge fund could. ：C是正确
+的。基金的对冲基金具有多层次的费用结构，而单个对冲基金的费用结构则不那么复杂。基金中的基金可能
+在对对冲基金进行尽职调查方面具有一定的专业知识，并且可能能够协商比单个对冲基金中的个人投资者更
+有利的赎回条款。
+ 
+35.An equity hedge fund following a fundamental growth strategy uses fundamental analysis to
+identify companies that are most likely to:
+A.be undervalued.
+B.be either undervalued or overvalued.
+C.experience high growth and capital appreciation.
+参考答案：C
+【莽学解析】C is correct. Fundamental growth strategies take long positions in companies
+identified, using fundamental analysis, to have high growth and capital appreciation.
+Fundamental value strategies use fundamental analysis to identify undervalued companies.
+Market-neutral strategies use quantitative and/or fundamental analysis to identify under- and
+overvalued companies. ： C是正确的。基本面增长策略在通过基本面分析确定的具有高增长和资本增值的
+公司中采取多头头寸。基本价值战略使用基本分析来确定被低估的公司。市场中性策略使用定量或基本面分
+析来识别低估和高估的公司。
+ 
+36.The distribution method by which profits generated by a fund are allocated between LPs and
+the GP is called:
+A.a waterfall.
+B.an 80\/20 split.
+C.a fair division.
+参考答案：A
+【莽学解析】A is correct. Although profits are typically split 80/20 between LPs and the GP,
+the distribution method of profits is not called an “80/20 split.” “Fair division” is not a
+real term that exists in the industry.：A是正确的。虽然利润通常在有限合伙人和普通合伙人之间以
+80/20的比例分配，但利润分配方法并不称为“80/20比例分配”。行业中并不存在“公平分配”这一术语。
+ 
+37.From the perspective of the investor, the most active approach to investing in alternative
+investments is:
+A.co-investing.
+B.fund investing.
+C.direct investing.
+参考答案：C
+【莽学解析】C is correct. From the perspective of the investor, direct investing is the most
+active approach to investing because of the absence of fund managers and the services and
+expertise they generally provide. A is incorrect because co-investing includes fund investing,
+which requires less due diligence compared with direct investing. B is incorrect because fund
+investing in alternative assets demands less participation from the investor compared with the
+direct and co-investing approaches because an investor depends on the fund manager to identify,
+select, and manage the fund’s investments. ：C是正确的。从投资者的角度来看，直接投资是最积极的
+投资方式。A是不正确的，因为共同投资包括基金投资，与直接投资相比，基金投资需要更少的尽职调查。
+B是不正确的，因为与直接投资和共同投资方法相比，基金投资另类资产需要较少的投资者参与，因为投资者
+依赖基金经理来识别、选择和管理基金的投资。
+ 
+38.Which approach is most commonly used by equity hedge strategies?
+A.Top down
+B.Bottom up
+C.Market timing
+参考答案：B
+【莽学解析】B is correct. Most equity hedge strategies use a bottom-up strategy. A is incorrect
+because most equity hedge strategies use a bottom-up (not top-down) strategy C is incorrect
+because most equity hedge strategies use a bottom-up (not market-timing) strategy. ：B是正确的
+。大多数股票对冲策略采用自下而上的策略。A是不正确的，因为大多数股票对冲策略使用自下而上（而不是
+自上而下）策略C是不正确的，因为大多数股票对冲策略使用自下而上（而不是市场时机）策略。
+ 
+39.United Capital is a hedge fund with $250 million of initial capital. United charges a 2%
+management fee based on assets under management at year end, and a 20% incentive fee based on
+returns in excess of an 8% hurdle rate. In its first year, United appreciates 16%. Assume
+management fees are calculated using end-of-period valuation. The investor’s net return
+assuming the performance fee is calculated net of the management fee is closest to:
+A.11.58%.
+B.12.54%.
+C.12.80%.
+参考答案：B
+【莽学解析】B is correct. The net investor return is 12.54%, calculated as:End of year capital
+= $250 million × 1.16 = $290 million Management fee = $290 million × 2% = $5.8 million Hurdle
+amount = 8% of $250 million = $20 million Incentive fee = ($290 - $250 - $20 - $5.8) million ×
+20% = $2.84 millionTotal fees to United Capital =($5.8$2.84)million = $8.64 millionInvestor net
+return: ($290 - $250 - $8.64) / $250 = 12.54% ： B是正确的。投资者净回报率为12.54%，计算如下：
+期末账户值 = $250 million × 1.16 = $290 million 管理费= $290 million × 2% = $5.8 million 最低
+要求回报（题目不说明则默认hard hurdle rate）= 8% of $250 million = $20 million; 激励费= ($290 -
+$250 - $20 - $5.8) million × 20% = $2.84 million 总费用= ($5.8$2.84) million = $8.64 million
+投资者净回报率：($290 - $250 - $8.64) / $250 = 12.54%
+ 
+40.An investor is seeking an investment that can take long and short positions, may use multi-
+strategies, and historically exhibits low correlation with a traditional investment portfolio.
+The investor’s goals will be best satisfied with an investment in:
+A.real estate.
+B.a hedge fund.
+C.a private equity fund.
+参考答案：B
+【莽学解析】B is correct. Hedge funds may use a variety of strategies (event-driven, relative
+value, macro and equity hedge), generally have a low correlation with traditional investments,
+and may take long and short positions. ： B是正确的。对冲基金可能使用多种策略（事件驱动、相对价
+值、宏观和股票对冲），通常与传统投资的相关性较低，可能采取多头和空头头寸。
+ 
+41.Alternative investment funds are typically managed:
+A.actively.
+B.to generate positive beta return.
+C.assuming that markets are efficient
+参考答案：A
+【莽学解析】A is correct. There are many approaches to managing alternative investment funds
+but typically these funds are actively managed. ： A是正确的。管理另类投资基金通常都是积极管理
+的。
+ 
+42.The following information applies to Rotunda Advisors, a hedge fund: $288 million in assets
+under management (AUM) as of prior year-end 2% management fee (based on year-end AUM) 20%
+incentive fee calculated: net of management fee using a 5% soft hurdle rate using a high-water
+mark (high-water mark is $357 million) Current year fund return is 25% The total fee earned by
+Rotunda in the current year is closest to:
+A.$7.20 million.
+B.$20.16 million.
+C.$21.60 million.
+参考答案：A
+【莽学解析】A is correct. Rotunda earns a management fee of $7.20 million but does not earn an
+incentive fee because the year-end fund value net of management fee does not exceed the high-
+water mark of $357 million. End-of-year AUM = Prior year-end AUM × (1 Fund return) = $288
+million × 1.25 = $360 million. $360 million × 2% = $7.20 million management fee. $360 million
+– $7.2 million = $352.8 million AUM net of management fee. The year-end AUM net of fees does
+not exceed the $357 million high-water mark. Therefore, no incentive fee is earned. ： A是正确
+的。Rotunda赚了720万美元的管理费，但没有得到激励费，因为年终基金价值扣除管理费后未超过3.57亿美
+元的高水位线。 期末资产管理规模 = Prior year-end AUM × (1＋Fund return) = $288 million × 1.25
+= $360 million $360 million × 2% = $7.20 million 管理费 $360 million – $7.2 million = $352.8
+million AUM 扣除管理费 期末管理规模扣除管理费后，没有超过高水位线$357million. 因此不收取激励费
+。
+ 
+43.An investor chooses to invest in a brownfield rather than a greenfield infrastructure
+project. The investor is most likely motivated by:
+A.growth opportunities.
+B.predictable cash flows.
+C.higher expected returns.
+参考答案：B
+【莽学解析】B is correct. A brownfield investment is an investment in an existing
+infrastructure asset, which is more likely to have a history of steady cash flows compared with
+that of a greenfield investment. Growth opportunities and returns are expected to be lower for
+brownfield investments, which are less risky than greenfield investments. ：B是正确的。褐地投资
+是对现有基础设施资产的投资，与绿地投资相比，褐地投资更有可能拥有稳定的现金流。褐地投资的增长机
+会和回报预期相对较低，它的风险也低于绿地投资。
+ 
+44.An investor in a private equity fund is concerned that the general partner can receive
+incentive fees in excess of the agreed-on incentive fees by making distributions over time
+based on profits earned rather than making distributions only at exit from investments of the
+fund. Which of the following is most likey to protect the investor from the general partner
+receiving excess fees?
+A.A high hurdle rate
+B.A clawback provision
+C.A lower capital commitment
+参考答案：B
+【莽学解析】B is correct. A clawback provision requires the general partner in a private equity
+fund to return any funds distributed (to the general partner) as incentive fees until the
+limited partners have received back their initial investments and the contracted portion of the
+total profits. A high hurdle rate will result in distributions occurring only after the fund
+achieves a specified return. A high hurdle rate decreases the likelihood of, but does not
+prevent, excess distributions. Management fees, not incentive fees, are based on committed
+capital. ： B是正确的。追回条款要求私募股权基金的普通合伙人将分配给普通合伙人的激励费返还，直至
+有限合伙人收回初始投资和合同部分的总利润。较高的最低回报率将导致只有在基金获得特定回报后才进行
+分配。高门槛率会降低超额分配的可能性，但不会阻止超额分配。C错误，管理费而不是激励费，是基于承诺
+资本的。
+ 
+45.What is the most significant drawback of a repeat sales index to measure returns to real
+estate?
+A.Sample selection bias
+B.Understatement of volatility
+C.Reliance on subjective appraisals
+参考答案：A
+【莽学解析】A is correct. A repeat sales index uses the changes in price of repeat-sale
+properties to construct the index. Sample selection bias is a significant drawback because the
+properties that sell in each period vary and may not be representative of the overall market
+the index is meant to cover. The properties that transact are not a random sample and may be
+biased toward properties that changed in value. Understated volatility and reliance on
+subjective appraisals by experts are drawbacks of an appraisal index.：A是正确的。重复销售指数
+使用重复销售房地产的价格变化来构建指数。样本选择偏差是一个显著的缺点，因为每个时期销售的房地产
+不同，可能无法代表指数所涵盖的整个市场。房地产的交易不是一个随机样本，可能偏向于价值发生的变化
+。低估波动性以及依赖专家的主观评估是评估指数的缺点。
+ 
+46.The Sharpe ratio is a less-than-ideal performance measure for alternative investments
+because:
+A.it uses a semi-deviation measure of volatility.
+B.returns of alternative assets are not normally distributed.
+C.alternative assets exhibit low correlation with traditional asset classes.
+参考答案：B
+【莽学解析】B is correct. The Sharpe ratio assumes normally distributed returns. However,
+alternative assets tend to have non-normal return distributions with significant skewness (fat
+tails in one direction or the other) and kurtosis (sharper peak than a normal distribution has,
+with fatter tails). Therefore, the Sharpe ratio may not be a good risk-adjusted performance
+measure to rely on for alternative investments.A is incorrect because the Sharpe ratio does not
+use a semi-deviation measure of volatility; it uses standard deviation. The Sortino ratio uses
+a semi-deviation measure of volatility. Further, the use of semi-deviation instead of standard
+deviation actually makes the Sortino ratio a more attractive measure of alternative asset
+performance than the Sharpe ratio. C is incorrect because correlation does not enter into the
+calculation of the Sharpe ratio. However, it is true that alternative assets can have low
+correlations with other asset classes. In contrast to the Sharpe ratio, the Treynor ratio
+incorporates the beta of the alternative asset relative to a benchmark, which is conceptually
+similar to correlation.：B是正确的。夏普比率假设收益为正态分布。然而，替代资产往往具有非正态收
+益分布，具有显著的偏度（一个方向或另一个方向的厚尾）和峰度（尖峰比正态分布更尖锐，尾巴更厚）。
+因此，夏普比率可能不是替代投资所依赖的经风险调整的良好业绩指标。A是不正确的，因为夏普比率没有使
+用波动性的半偏差度量；它使用标准差。索蒂诺比率使用波动性的半偏差度量。此外，使用半偏差代替标准
+偏差实际上使索蒂诺比率成为比夏普比率更具吸引力的替代资产绩效衡量指标。C是不正确的，因为相关性没
+有进入夏普比率的计算。然而，替代资产与其他资产类别的相关性很低，这是事实。与夏普比率不同，特雷
+诺比率包含了替代资产相对于基准的贝塔系数，这在概念上类似于相关性。
+ 
+47.The first stage of financing at which a venture capital fund most likely invests is the:
+A.seed stage.
+B.mezzanine stage.
+C.angel investing stage.
+参考答案：A
+【莽学解析】A is correct. The seed stage supports market research and product development and
+is generally the first stage at which venture capital funds invest. The seed stage follows the
+angel investing stage. In the angel investing stage, funds are typically provided by
+individuals (often friends or family), rather than a venture capital fund, to assess an idea’s
+potential and to transform the idea into a plan. Mezzanine-stage financing is provided by
+venture capital funds to prepare the portfolio company for its IPO. ： A是正确的。种子期支持市
+场研究和产品开发，通常是风险投资基金投资的第一阶段。种子阶段在天使投资阶段之后。在天使投资阶段
+，基金通常由个人（通常是朋友或家人）提供，而不是风险投资基金，以评估一个想法的潜力，并将想法转
+化为一个计划。夹层融资是由风险投资基金提供的，为投资组合公司的IPO做准备。
+ 
+48.The potential benefits of allocating a portion of a portfolio to alternative investments
+include:
+A.ease of manager selection.
+B.improvement in the portfolio’s risk–return relationship.
+C.accessible and reliable measures of risk and return.
+参考答案：B
+【莽学解析】B is correct. Adding alternative investments to a portfolio may provide
+diversification benefits because of these investments’ less than perfect correlation with
+other assets in the portfolio. As a result, allocating a portion of one’s funds to
+alternatives could potentially result in an improved risk–return relationship. Challenges to
+allocating a portion of a portfolio to alternative investments include obtaining reliable
+measures of risk and return as well as selecting portfolio managers for the alternative
+investments. ：B是正确的。由于这些投资与投资组合中的其他资产之间的相关性不够完美，因此向投资组
+合中添加替代投资可能会带来多元化收益。因此，将一部分资金分配给替代品可能会改善风险回报关系。将
+投资组合的一部分分配给另类投资的挑战包括获得可靠的风险和回报指标，以及为另类投资选择投资组合经
+理。

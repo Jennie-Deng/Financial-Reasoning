@@ -1,0 +1,2125 @@
+
+1.The present value (PV) of an investment with the following year-end cash flows (CF) and a 12%
+required annual rate of return is closest to:
+CF1=100,000 euro dollar for year 1; CF2=150,000 euro dollar for year 2; CF3=CF4=0 euro dollar
+for year 3&4; CF5=-10,000 euro dollar for year 5.
+A.€201,747.
+B.€203,191.
+C.€227,573.
+参考答案：B
+【莽学解析】B is correct, as shown in the following table.
+ 
+B正确。BAII Plus计算器，CF页面下，2ND CE/C清楚历史记录，依次按
+：CFo=0C01=100,000F01=1C02=150,000F02=1C03=0F03=2（表示第三笔现金流为0，分别发生在第三年和第四
+年末，一共两笔）C04=-10,000F04=1 NPV页面下：I=12CPT NPV=203,190.52
+ 
+ 
+2.Consider the following 20 items listed in ascending order:
+The median value of the items is closest to:
+A.4.
+B.5.
+C.3.
+参考答案：A
+【莽学解析】The median is the value of the middle item of a set of items that has been sorted
+into ascending or descending order. In an even-numbered sample, we define the median as the
+mean of the values of items occupying the n/2 and (n +2)/2 positions (the two middle items).
+The n/2 item is the 10th item and the (n +2)/2 item is the 11th item. The value of the 10th
+item is 3; the value of the 11th item is 5. The mean of 3 and 5 is 4. 中位数是按升序或降序排序
+的一组项的中间项的值。在偶数样本中，我们将中位数定义为占据n/2和（n＋2）/2位置（中间两个项目）的
+项目值的平均值。在题干中，n/2项是第10项，（n＋2）/2项是第11项。 因为第10项的值是3；第11项的值是
+5。 3和5的平均数是(3＋5）/2=4。
+ 
+3.When we calculate the kurtosis, what is the power of the kurtosis?
+A.2.
+B.3.
+C.4.
+参考答案：C
+【莽学解析】Sample kurtosis is measured using deviations raised to the fourth power.样本峰度是
+用提高到四次方的偏差来测量的。
+ 
+4.The covariance of returns is positive when the returns on two assets tend to:
+A.have the same expected values.
+B.be above their expected value at different times.
+C.be on the same side of their expected value at the same time.
+参考答案：C
+【莽学解析】： C is correct. The covariance of returns is positive when the returns on both
+assets tend to be on the same side (above or below) their expected values at the same time,
+indicating an average positive relationship between returns. ： C正确。 当两种资产的收益同时趋
+于同一方向(高于或低于)期望值时，收益的协方差为正，说明收益之间的平均正相关关系。
+ 
+5.The mean monthly return and the standard deviation for three industry sectors are shown in
+the following exhibit.
+Based on the coefficient of variation, the riskiest sector is:
+A.utilities.
+B.materials.
+C.industrials.
+参考答案：B
+【莽学解析】B is correct. The coefficient of variation (CV) is the ratio of the standard
+deviation to the mean, where a higher CV implies greater risk per unit of return.
+ B正确。 变异系数(CV)是标准差与均值的比值，变异系数越大，单位收益的风险越大。
+CV(UTIL)=s/X=1.23%/2.10%=0.59. CV(MATR)=s/X=1.35%/1.25%=1.08. CV(INDU)=s/X=1.52%/3.01%=0.51.
+ 
+ 
+6.At the beginning of Year X, an investor allocated his retirement savings in the asset classes
+shown in the following exhibit and earned a return for Year X as also shown.
+The portfolio return for Year X is closest to:
+A.5.1%.
+B.5.3%.
+C.6.3%.
+参考答案：C
+【莽学解析】： C is correct. The portfolio return must be calculated as the weighted mean
+return, where the weights are the allocations in each asset class: (0.20 × 8%) ＋ (0.40 ×
+12%) ＋【0.25×(-3%)】＋ (0.15 × 4%) = 6.25%, or ≈ 6.3%. 去年，一位投资者将他的退休储蓄分配到
+如下表所示的资产类别中。问2015年的投资组合收益率最接近多少。 C正确。 投资组合的回报须以加权平均
+回报计算，其中的权重是每种资产类别的配置: (0.20×8%)＋(0.40×12%)＋【0.25×(-3%)】＋(0.15×4%)=
+6.25%或≈6.3%。
+7.An analyst is using the data in the following exhibit to prepare a statistical report.
+The cumulative relative frequency for the bin -1.71% ≤ x ＜ 2.03% is closest to:
+A.0.250.
+B.0.333.
+C.0.583.
+参考答案：C
+【莽学解析】C is correct. The cumulative relative frequency of a bin identifies the fraction of
+observations that are less than the upper limit of the given bin. It is determined by summing
+the relative frequencies from the lowest bin up to and including the given bin. The following
+exhibit shows the relative frequencies for all the bins of the data from the previous exhibit:
+The bin -1.71% ≤ x ＜ 2.03% has a cumulative relative frequency of 0.583.
+. 根据题目中表格信息，题目问：区间-1.71% ≤ x ＜ 2.03%对应的累积相对频率是多少？一个区间的累积
+相对频率，应该包含“小于给定区间上限”的观测值的部分。它是由最低区间到并包括给定区间的相对频率
+之和决定的。表中显示了题目表中所有数据区间的相对频率。区间-1.71% ≤ x ＜ 2.03%对应的累积相对频
+率为0.583。 补充： 数据中的最大值和最下值可以找到，差值为9.47-（-9.19）=18.66 题目问的一个区间
+是-1.71至2.03，差值为3.74 于是18.66可以分成？个3.74的区间呢？18.66/3.74=5个 第一个upper limit是
+-5.45=-9.19＋3.74
+ 
+ 
+8.Annual returns and summary statistics for three funds are listed in the following exhibit:
+The fund that shows the highest absolute dispersion is:
+A.Fund PQR if the measure of dispersion is the range.
+B.Fund XYZ if the measure of dispersion is the variance.
+C.Fund ABC if the measure of dispersion is the mean absolute deviation.
+参考答案：C
+【莽学解析】C is correct. The mean absolute deviation (MAD) of Fund ABC’s returns is greater
+than the MAD of both of the other funds.
+The numbers shown for variance are understood to be in “percent squared” terms so that when
+taking the square root, the result is standard deviation in percentage terms. Alternatively, by
+expressing standard deviation and variance in decimal form, one can avoid the issue of units;
+in decimal form, the variances for Fund ABC, Fund XYZ, and Fund PQR are 0.0317, 0.0243, and
+0.0110, respectively.
+C正确。 ABC基金回报的平均绝对偏差(MAD)大于其他两个基金的MAD。 ABC基金的MAD = [|-20-(-4)|＋|23-
+(-4)|＋|-14-(-4)|＋|5-(-4)|＋|-14-(-4)|]/5=14.4% XYZ基金的MAD =[|-33-(-10.8)|＋|-12-(-
+10.8)|＋|-12-(-10.8)|＋|-8-(-10.8)|＋|11-(-10.8)|]/5=9.8% PQR基金的MAD=[|-14-(-5)|＋|-18-(-
+5)|＋|6-(-5)|＋|-2-(-5)|＋|3-(-5)|]/5=8.8% A和B错误: 方差的数字被理解为“百分比的平方”的形式
+，所以当取平方根时，结果就是百分比的标准偏差。或者，用小数表示标准差和方差，就可以避免单位的问
+题;以小数形式表示，基金ABC、基金XYZ和基金PQR的方差分别为0.0317、0.0243和0.0110。
+ 
+ 
+9.For a credit card, it charges 15% compounded monthly. Its effective annual rate is closet to?
+A.15.78%
+B.18.85%
+C.16.08%
+参考答案：C
+【莽学解析】EAR=（1＋15%/12）^12-1=16.08%EAR=（1＋15%/12）^12-1=16.08%
+ 
+10.US and Spanish bonds have return standard deviations of 0.64 and 0.56, respectively. If the
+correlation between the two bonds is 0.24, the covariance of returns is closest to:
+A.0.086.
+B.0.335.
+C.0.390.
+参考答案：A
+【莽学解析】： A is correct. The covariance is the product of the standard deviations and
+correlation using the formula Cov(US bond returns, Spanish bond returns) = σ(US bonds) × σ
+(Spanish bonds) × ρ(US bond returns, Spanish bond returns) = 0.64 × 0.56 × 0.24 = 0.086. ：
+A正确。 协方差是标准差和相关系数的乘积，用以下公式计算：Cov(美国债券的回报,西班牙债券的回报
+)=σ(美国国债)×σ(西班牙债券)×ρ(美国债券的回报,西班牙债券的回报)= 0.64×0.56×0.24 = 0.086。
+ 
+11.Which of the following is a property of two dependent events?
+A.The two events must occur simultaneously.
+B.The probability of one event influences the probability of the other event.
+C.The probability of the two events occurring is the product of each event’s probability.
+参考答案：B
+【莽学解析】： B is correct. The probability of the occurrence of one is related to the
+occurrence of the other. If we are trying to forecast one event, information about a dependent
+event may be useful. 这题问：如果两个事件是dependent不独立的，以下哪个说法正确？A说：两个事件一
+定同时发生，翻译成数学公式就是P(AB）=100%。这句话本身是不对的。可以举一个反例。两个事件不独立
+，说明AB的发生是互相影响的，但是这种影响是什么未知。也有可能是A发生了B一定不发生，此时说明AB一
+定不能同时发生，此时AB是互斥事件，P(AB）=0.B说：一个事件会受到另外事件发生的影响，这个是
+dependent event的定义。dependent event是不独立事件，也就是两件事件的发生是互相影响的。C说：两件
+事情发生的概率是两个事件各自概率的乘积，翻译成数学公式就是P(AB）=P(A)*P(B)。只有独立事件才有
+P(AB）=P(A)*P(B)，这里说的是不独立事件，所以C的说法也是错误的。
+ 
+12.If the risk-free rate is equal to zero and the mean is less than the standard deviation,
+compared with Sharp ratio, the coefficient of variation is:
+A.Greater.
+B.Same.
+C.Less.
+参考答案：A
+【莽学解析】Sharpe ratio = [expected return (mean) – risk-free rate]/standard
+deviation=mean/standard deviation; CV=standard deviation/expected return. The mean is less than
+the standard deviation, so compared with Sharp ratio, the coefficient of variation is greater.
+夏普比率=[预期回报（平均值）-无风险比率]/标准差=平均值/标准差； 变异系数=标准差/预期回报。 与标
+准差相比，变异系数的值更大。
+ 
+13.An analyst estimates that 20% of high-risk bonds will fail (go bankrupt). If she applies a
+bankruptcy prediction model, she finds that 70% of the bonds will receive a “good” rating,
+implying that they are less likely to fail. Of the bonds that failed, only 50% had a “good”
+rating. Use Bayes’ formula to predict the probability of failure given a “good” rating.
+(Hint, let P(A) be the probability of failure, P(B) be the probability of a “good” rating,
+P(B | A) be the likelihood of a “good” rating given failure, and P(A | B) be the likelihood
+of failure given a “good” rating.)
+A.5.7%
+B.14.3%
+C.28.6%
+参考答案：B
+【莽学解析】B is correct. With Bayes’ formula, the probability of failure given a “good”
+rating is whereP(A) = 0.20 = probability of failureP(B) = 0.70 = probability of a “good”
+ratingP(B | A) = 0.50 = probability of a “good” rating given failureWith these estimates, the
+probability of failure given a “good” rating is If the analyst uses the bankruptcy prediction
+model as a guide, the probability of failure declines from 20% to 14.3%. B正确。题目考察的就是
+贝叶斯公式的运用。 根据题意可知： 债券破产的概率：P(A) = 0.20 债券获得“良好”评级的概率为
+：P(B) = 0.70 在给定债券破产的前提下获得“良好”评级的概率为：P(B | A) = 0.50 那么，根据贝叶斯
+公式，在获得“良好”评级的前提下，债券破产概率：
+ 
+14.A bar chart that orders categories by frequency in descending order and includes a line
+displaying cumulative relative frequency is referred to as a:
+A.Pareto Chart.
+B.grouped bar chart.
+C.frequency polygon.
+参考答案：A
+【莽学解析】A is correct. A bar chart that orders categories by frequency in descending order
+and includes a line displaying cumulative relative frequency is called a Pareto Chart. A Pareto
+Chart is used to highlight dominant categories or the most important groups. B is incorrect
+because a grouped bar chart or clustered bar chart is used to present the frequency
+distribution of two categorical variables. C is incorrect because a frequency polygon is used
+to display frequency distributions.A是正确的。将类别结果按频率降序排列并包含显示累积相对频率的
+线条的柱状图称为帕累托图。帕累托图用于突出主要类别或最重要的群体。
+ 
+15.An analyst develops the following covariance matrix of returns:
+The correlation of returns between the hedge fund and the market index is closest to:
+A.0.005.
+B.0.073.
+C.0.764.
+参考答案：C
+【莽学解析】： C is correct. The correlation between two random variables Ri and Rj is defined
+as ρ(Ri,Rj) = Cov(Ri,Rj)/[σ(Ri)σ(Rj)]. Using the subscript i to represent hedge funds and
+the subscript j to represent the market index, the standard deviations are σ(Ri) = 2561/2 = 16
+and σ(Rj) = 811/2 = 9. Thus, ρ(Ri,Rj) = Cov(Ri,Rj)/[σ(Ri) σ(Rj)] = 110/(16 × 9) = 0.764.
+： C正确。 两个随机变量之间的相关性Ri和Rj被定义为ρ(Ri, Rj) = Cov (Ri, Rj) /(σ(Ri)σ(Rj)]。使
+用下标代表对冲基金和下标j代表市场指数,标准偏差是σ(Ri) = 256^(1/2) = 16和σ(Rj) = 81^(1/2) =
+9。因此,ρ(Ri, Rj) = Cov (Ri, Rj) /(σ(Ri)σ(Rj)] = 110 / (16×9) = 0.764。
+ 
+16.If the probability that Zolaf Company sales exceed last year's sales is 0.167, the odds for
+exceeding sales are closest to:
+A.1 to 5.
+B.1 to 6.
+C.5 to 1.
+参考答案：A
+【莽学解析】： A is correct. Given odds for E of a to b, the implied probability of E = a/(a +
+b). Stated in terms of odds a to b with a = 1, b = 5, the probability of E = 1/(1 + 5) = 1/6 =
+0.167. This result confirms that a probability of 0.167 for beating sales is odds of 1 to 5. ：
+A正确。这里要求的是exceeding sales的odds for。所以for后面的“exceeding sales”就是对应的事件该
+事件发生的概率题干给出是0.167.odds for=P(E)/[1-P(E)]=0.167/(1-0.167)=0.2
+ 
+17.Which of the following correlation coefficients indicates the weakest linear relationship
+between two variables?
+A.–0.67
+B.–0.24
+C.0.33
+参考答案：B
+【莽学解析】： B is correct. Correlations near +1 exhibit strong positive linearity, whereas
+correlations near –1 exhibit strong negative linearity. A correlation of 0 indicates an
+absence of any linear relationship between the variables. The closer the correlation is to 0,
+the weaker the linear relationship. ： B正确。 相关系数在＋1附近表现出很强的正线性，而在-1附近
+表现出很强的负线性。相关性为0表示变量之间不存在任何线性关系。相关性越接近0，线性关系越弱。
+ 
+18.Which probability estimate most likely varies greatly between people?
+A.An a priori probability
+B.An empirical probability
+C.A subjective probability
+参考答案：C
+【莽学解析】C is correct. A subjective probability draws on personal or subjective judgment
+that may be without reference to any particular data. C正确。 主观概率利用个人或主观判断，与任
+何特定数据可能无关。
+ 
+19.Data values that are categorical and not amenable to being organized in a logical order are
+most likely to be characterized as:
+A.ordinal data.
+B.discrete data.
+C.nominal data.
+参考答案：C
+【莽学解析】C is correct. Nominal data are categorical values that are not amenable to being
+organized in a logical order. A is incorrect because ordinal data are categorical data that can
+be logically ordered or ranked. B is incorrect because discrete data are numerical values that
+result from a counting process; thus, they can be ordered in various ways, such as from highest
+to lowest value. C是正确的。名义数据是分类值，并不表示逻辑或者排列顺序。 A是不正确的，因为排序
+数据是可以逻辑排序或排序的分类数据。 B是不正确的，因为离散数据是计数过程中产生的数值；因此，它
+们可以以各种方式排序，例如从最高值到最低值。
+ 
+20.For a lump sum investment of ￥250,000 invested at a stated annual rate of 3% compounded
+daily, the number of months needed to grow the sum to ￥1,000,000 is closest to:
+A.555.
+B.563.
+C.576.
+参考答案：A
+【莽学解析】A is correct. The effective annual rate (EAR) is calculated as follows:
+Solving for N on a financial calculator results in (where FV is future value and PV is present
+value):
+ 
+方法一（对应） BAII plus金融计算器不可以直接计算：log以x为底y的对数，不过有ln这个功能，ln表示的
+是log以e为底。可以使用“换底公式”，1.040353^t=4求t，计算过程如下： 用计算器求EAR： 1.2ND 2 2ND
+CE/C 2.NOM：3 ENTER 3.↓ ↓ C/Y：365 ENTER 4.↑ CPT：EFF=3.045326 计算t年（先算年再转换成月，如
+果先计算再转换成月不知1个月=?天） 250,000x(1＋EAR)^t=1,000,000 1.03045326^t=4
+log(1.03045326)4=t 利用换底公式： [Log（　）4]/[Log（　）1.03045326]=t Ln4/Ln1.03045326=t 分别
+用计算器计算Ln4和Ln1.03045326： 按：4 Ln得1.386294；1.03045326 Ln得0.0299999；t=46.211704(年)
+计算月的个数：n=tx12=46.211704x12=554.540453 方法二（绕开Ln） 因为PMT=0，表示现金流发生的频率
+（一年多少次）没有限制，N（一共多少期）没有限制，只要PMT和N匹配即可，此时N可以是天，也可以是年
+按天来算：PV=-250,000，FV=1,000,000，PMT=0，I/Y=3/365，CPT N=16,687.27453 Number of
+months=16,687.27453/365 x12 = 46.21171104x12=554.5405按年来算：PV=-
+250,000，FV=1,000,000，PMT=0，I/Y=3. 045326，CPT N=46.2117 Number of months=46.2117 x 12 =
+554.5404
+ 
+ 
+21.The probability of an event given that another event has occurred is a:
+A.joint probability.
+B.marginal probability.
+C.conditional probability.
+参考答案：C
+【莽学解析】： C is correct. A conditional probability is the probability of an event given
+that another event has occurred. ： C正确。 条件概率是一个事件在另一个事件已经发生的情况下发生
+的概率。
+ 
+22.Which valuation tool is recommended to be used if the goal is to make comparisons of three
+or more variables over time?
+A.Heat map
+B.Bubble line chart
+C.Scatter plot matrix
+参考答案：B
+【莽学解析】B is correct. A bubble line chart is a version of a line chart where data points
+are replaced with varying-sized bubbles to represent a third dimension of the data. A line
+chart is very effective at visualizing trends in three or more variables over time. A is
+incorrect because a heat map differentiates high values from low values and reflects the
+correlation between variables but does not help in making comparisons of variables over time. C
+is incorrect because a scatterplot matrix is a useful tool for organizing scatterplots between
+pairs of variables, making it easy to inspect all pairwise relationships in one combined
+visual. However, it does not help in making comparisons of these variables over time.B是正确的
+。气泡线图是折线图的一个版本，其中数据点被替换为不同大小的气泡，以表示数据的第三维。折线图在可
+视化三个或更多变量随时间变化的趋势方面非常有效。A是不正确的，热力图区分高值和低值，并反映变量之
+间的相关性，但无助于随时间变化的变量间比较。C是不正确的，散点图矩阵是组织变量对之间散点图的有用
+工具，可以方便地在一个组合视觉中检查所有成对关系。然而，随着时间的推移，这无助于对这些变量进行
+比较。
+ 
+23.The value in six years of $75,000 invested today at a stated annual interest rate of 7%
+compounded quarterly is closest to:
+A.$112,555.
+B.$113,330.
+C.$113,733.
+参考答案：C
+【莽学解析】C is correct, as shown in the following (where FV is future value and PV is present
+value):
+ C正确。 方法一：FV=PV(1＋r/m)^(m*N), FV6=$75,000(1＋0.07/4)^(4*6)=$113,733.21 方法二
+：PV=75,000，N=4*6，I/Y=7/4，PMT=0，CPT FV=113,733.21
+ 
+ 
+24.Consider two variables, A and B. If variable A has a mean of －0.56, variable B has a mean
+of 0.23, and the covariance between the two variables is positive, the correlation between
+these two variables is:
+A.negative.
+B.zero.
+C.positive.
+参考答案：C
+【莽学解析】C is correct. The correlation coefficient is positive because the covariance is
+positive. The fact that one or both variables have a negative mean does not affect the sign of
+the correlation coefficient.因为协方差为正，所以相关系数为正。一个或两个变量的平均值均为负并不
+影响相关系数的符号。故选项C是正确的
+ 
+25.Himari Fukumoto has joined a new firm and is selecting mutual funds in the firm’s pension
+plan. If 10 mutual funds are available, and she plans to select four, how many different sets
+of mutual funds can she choose?
+A.210
+B.720
+C.5,040
+参考答案：A
+【莽学解析】A is correct. The number of combinations is the number of ways to pick four mutual
+funds out of 10 without regard to order, which is
+ 
+A正确。组合数，指的是不考虑顺序的前提下，从10只共同基金中选择4只的方法数为：
+ 
+ 
+26.Grandparents are funding a newborn’s future university tuition costs, estimated at
+$50,000/year for four years, with the first payment due as a lump sum in 18 years. Assuming a
+6% effective annual rate, the required deposit today is closest to:
+A.$60,699.
+B.$64,341.
+C.$68,201.
+参考答案：B
+【莽学解析】B is correct. First, find the present value (PV) of an ordinary annuity in Year 17
+that represents the tuition costs:
+Then, find the PV of the annuity in today’s dollars (where FV is future value):
+ B正确。 在BNG模式下，计算4笔学费在t=18时间点上的PV18： FV=0，N=4，I/Y=6，PMT=-50,000，CPT
+PV18=183,650.5975 在END模式下，将PV18折现到t=0时间点：
+FV18=PV18=183,650.5975，N=18，I/Y=6，PMT=0，CPT PV=64,340.8456
+ 
+27.Given a €1,000,000 investment for four years with a stated annual rate of 3% compounded
+continuously, the difference in its interest earnings compared with the same investment
+compounded daily is closest to:
+A.€1.
+B.€6.
+C.€455.
+参考答案：B
+【莽学解析】B is correct. The difference between continuous compounding and daily compounding
+is €127,496.85 – €127,491.29 = €5.56, or ≈ €6, as shown in the following
+calculations.With continuous compounding, the investment earns (where PV is present value)
+With daily compounding, the investment earns:
+ 
+方法一：连续复利和每日复利的差是： €127,496.85–€127,491.29 =€5.56, or≈€6，相关计算如下所
+示。 连续复利情况下，投资收益（PV表示的是现值）： PV*e^(rs*N) = €1,000,000*e^(0.03*4) –
+€1,000,000= €1,127,496.85 – €1,000,000= €127,496.85 以日计息，这个投资的收益为:
+€1,000,000*(1 0.03/365)^ (365*4) – €1,000,000 = €1,127,491.29 – €1,000,000 =
+€127,491.29. 方法二(注意不要保留小数带入，直接计算结果带入第三排键)：
+PV=1,000,000，N=365*4，I/Y=3/365，PMT=0，CPT FV=-1,127,491.29 PV=1,000,000，N=4，I/Y=( e^3%-
+1)*100，PMT=0，CPT FV=-1,127,496.85
+ 
+ 
+28.An analyst developed two scenarios with respect to the recovery of $100,000 principal from
+defaulted loans:
+The amount of the expected recovery is closest to:
+A.$36,400.
+B.$63,600.
+C.$81,600.
+参考答案：B
+【莽学解析】： B is correct. If Scenario 1 occurs, the expected recovery is 60% ($50,000)40%
+($30,000) = $42,000, and if Scenario 2 occurs, the expected recovery is 90%
+($80,000)10%($60,000) = $78,000. Weighting by the probability of each scenario, the expected
+recovery is 40%($42,000)60%($78,000) = $63,600. Alternatively, first calculating the
+probability of each amount occurring, the expected recovery is
+(40%)(60%)($50,000)(40%)(40%)($30,000)(60%)(90%)($80,000)(60%)(10%)($60,000) = $63,600. ： B正
+确。 如果发生场景1，预期的恢复是60%($50,000)40%($30,000)= $42,000，如果发生场景2，预期的恢复是
+90%($80,000)10%($60,000)= $78,000。按照每种情况的概率进行加权，预期复苏为40%(42,000美元
+)60%(78,000美元)= 63,600美元。 或者，首先计算每个金额发生的概率，预期回收率为
+(40%)(60%)($50,000)(40%)(40%)($30,000)(60%)(90%)($80,000)(60%)(10%)($60,000)= $63,600。
+ 
+29.Given a portfolio of five stocks, how many unique covariance terms, excluding variances, are
+required to calculate the portfolio return variance?
+A.10
+B.20
+C.25
+参考答案：A
+【莽学解析】： A is correct. A covariance matrix for five stocks has 5 × 5 = 25 entries.
+Subtracting the 5 diagonal variance terms results in 20 off-diagonal entries. Because a
+covariance matrix is symmetrical, only 10 entries are unique (20/2 = 10). ： A正确。 五只股票的
+协方差矩阵有5×5 = 25项。减去5个对角线方差项，得到20个非对角线项。因为协方差矩阵是对称的，所以
+只有10个协方差项是唯一的(20/2 = 10)。
+ 
+30.A correlation of 0.34 between two variables, X and Y, is best described as:
+A.changes in X causing changes in Y.
+B.a positive association between X and Y.
+C.a curvilinear relationship between X and Y.
+参考答案：B
+【莽学解析】B is correct. The correlation coefficient is positive, indicating that the two
+seriesmove together. 相关系数为正，表明这两个变量正相关变化的。因此，选项B是正确的
+ 
+31.Published ratings on stocks ranging from 1 (strong sell) to 5 (strong buy) are examples of
+which measurement scale?
+A.Ordinal
+B.Continuous
+C.Nominal
+参考答案：A
+【莽学解析】A is correct. Ordinal scales sort data into categories that are ordered with
+respect to some characteristic and may involve numbers to identify categories but do not assure
+that the differences between scale values are equal. The buy rating scale indicates that a
+stock ranked 5 is expected to perform better than a stock ranked 4, but it tells us nothing
+about the performance difference between stocks ranked 4 and 5 compared with the performance
+difference between stocks ranked 1 and 2, and so on.A是正确的。排序数据可对观测值进行排序并分类
+，涉及到的数字仅用来识别类别，但不能确保类别间的差异是相等的。买入评级量表表明，排名5的股票预期
+表现优于排名4的股票，但它没有告诉我们排名4和5的股票与排名1和2的股票相比的表现差异是怎样的。
+ 
+32.Which of the following risk premiums is most relevant in explaining the difference in yields
+between 30-year bonds issued by the US Treasury and 30-year bonds issued by a small private
+issuer?
+A.Inflation
+B.Maturity
+C.Liquidity
+参考答案：C
+【莽学解析】： C is correct. US Treasury bonds are highly liquid, whereas the bonds of small
+issuers trade infrequently and the interest rate includes a liquidity premium. This liquidity
+premium reflects the relatively high costs (including the impact on price) of selling a
+position. ： C正确。 美国国债的流动性很强，而小型发行人的债券交易较少，其利率包含流动性溢价。这
+种流动性溢价反映了卖出头寸的相对较高成本(考虑了流动性对于债券本身价格的影响)。
+ 
+33.A manager will select 20 bonds out of his universe of 100 bonds to construct a portfolio.
+Which formula provides the number of possible portfolios?
+A.Permutation formula
+B.Multinomial formula
+C.Combination formula
+参考答案：C
+【莽学解析】： C is correct. The combination formula provides the number of ways that r objects
+can be chosen from a total of n objects, when the order in which the r objects are listed does
+not matter. The order of the bonds within the portfolio does not matter. ： C正确。 组合公式提
+供了从总共n个对象中选择r个对象的方法的数量，而r个对象的排列顺序并不重要。投资组合中债券的顺序并
+不重要。
+ 
+34.Which of the following statements is most accurate? If the covariance of returns between two
+assets is 0.0023, then:
+A.the assets’ risk is near zero.
+B.the asset returns are unrelated.
+C.the asset returns have a positive relationship.
+参考答案：C
+【莽学解析】： C is correct. The covariance of returns is positive when the returns on both
+assets tend to be on the same side (above or below) their expected values at the same time. ：
+C正确。 当两种资产的回报率趋向于同一水平(高于或低于期望值)时，回报率的协方差为正。
+ 
+35.An analyst calculated the excess kurtosis of a stock’s returns as -0.75. From this
+information, we conclude that the distribution of returns is:
+A.normally distributed.
+B.thin-tailed compared to the normal distribution.
+C.fat-tailed compared to the normal distribution.
+参考答案：B
+【莽学解析】B is correct. The distribution is thin-tailed relative to the normal distribution
+because the excess kurtosis is less than zero.选项B是正确的。由于分布的超额峰度是小于0的，那么
+可以得出：该分布相对于正态分布是低峰的，即低峰瘦尾。
+36.Which of the following is a potential problem with interpreting a correlation coefficient?
+A.Outliers
+B.Spurious correlation
+C.Both outliers and spurious correlation
+参考答案：C
+【莽学解析】C is correct. Both outliers and spurious correlation are potential problems with
+interpreting correlation coefficients.异常值和伪相关都是解释相关系数的潜在问题。因此，选项C是正
+确的
+ 
+37.An analyst produces the following joint probability function for a foreign index (FI) and a
+domestic index (DI).
+The covariance of returns on the foreign index and the returns on the domestic index is closest
+to:
+A.26.39.
+B.26.56.
+C.28.12.
+参考答案：B
+【莽学解析】B is correct. The covariance is 26.56, calculated as follows. First, expected
+returns are
+ 
+B正确。 协方差为26.56，计算方法如下:首先，预期回报是: E(RFI)
+=(0.25×25)＋(0.50×15)＋(0.25×10)= 6.25 ＋ 7.50 ＋ 2.50 = 16.25 和 E(RDI) =(0.25×30)＋
+(0.50×25) ＋(0.25×15)= 7.50＋ 12.50 ＋ 3.75 = 23.75。 Covariance is Cov(RFI,RDI) = 0.25[(25
+– 16.25)(30 – 23.75)]＋ 0.50[(15 – 16.25)(25 – 23.75)]＋ 0.25[(10 – 16.25)(15 – 23.75)]=
+13.67 ＋ (–0.78) ＋13.67 = 26.56.
+ 
+ 
+38.The median is closest to:
+A.34.51.
+B.100.49.
+C.102.98.
+参考答案：B
+【莽学解析】B is correct. The median is indicated within the box, which is the 100.49 in this
+diagram. 中位数，指的就是箱体中间的那条线所对应的数值，也就是图中的100.49.
+ 
+39.Given the following timeline and a discount rate of 4% a year compounded annually, the
+present value (PV), as of the end of Year 5 (PV5 ), of the cash flow received at the end of
+Year 20 is closest to:
+ 
+A.$22,819.
+B.$27,763.
+C.$28,873.
+参考答案：B
+【莽学解析】B is correct. The PV in Year 5 of a $50,000 lump sum paid in Year 20 is $27,763.23
+(where FV is future value):
+ B正确。 在END模式下，FV=50,000，N=15，I/Y=4，PMT=0，CPT PV= -27,763.23
+ 
+ 
+40.The average return for Portfolio A over the past twelve months is 3%, with a standard
+deviation of 4%. The average return for Portfolio B over this same period is also 3%, but with
+a standard deviation of 6%. The geometric mean return of Portfolio A is 2.85%. The geometric
+mean return of Portfolio B is:
+A.less than 2.85%.
+B.equal to 2.85%.
+C.greater than 2.85%.
+参考答案：A
+【莽学解析】A is correct. The more disperse a distribution, the greater the difference between
+the arithmetic mean and the geometric mean.选项A是正确的。对于任何一个数据集来说，算术平均数是
+唯一的，而且其数值大小与数据集中每一个数据都有关，如果数据集中有异常值，将会使算术平均数发生很
+大的变化。因此，当数据集越分散，对算数平均数的影响就越大，也就使得算术平均值和几何平均值之间的
+差异越大。
+ 
+41.The following exhibit shows the annual MSCI World Index total returns for a 10-year period.
+ 
+The fourth quintile return for the MSCI World Index is closest to:
+A.20.65%.
+B.26.03%.
+C.27.37%.
+参考答案：B
+【莽学解析】B is correct. Quintiles divide a distribution intofifths, with the fourth quintile
+occurring at the point at which 80% of theobservations lie below it. The fourth quintile is
+equivalent to the 80thpercentile. To find the yth percentile (Py), we first must determine
+itslocation. The formula for the location (Ly) of a yth percentile in an arraywith n entries
+sorted in ascending order is Ly = (n＋ 1) × (y/100). In this case,n = 10 and y = 80%, so L80 =
+(10＋1) × (80/100) = 11 × 0.8 = 8.8. With the data arranged in ascending order
+(－40.33%,－5.02%, 9.57%, 10.02%, 12.34%, 15.25%, 16.54%, 20.65%, 27.37%, and 30.79%), the8.8th
+position would be between the 8th and 9th entries, 20.65% and 27.37%,respectively. Using linear
+interpolation, P80 = X8＋ (Ly – 8) × (X9 – X8), P80= 20.65＋ (8.8 – 8) × (27.37 – 20.65)
+= 20.65＋ (0.8 × 6.72) = 20.65＋ 5.38=26.03%. 五分位数把一个分布分成五分之三，而第四分位数出现
+在80%的观察值低于它的地方。第四个五分位数相当于第80个百分位数。要找到第yth百分位数(Py)，首先必
+须确定它的位置。按升序排列n个元素的数组中第y百分位的位置(Ly)公式为Ly = (n＋1)×(y/100)。此时，n
+= 10, y = 80%，所以L80 =(10＋1)×(80/100)= 11×0.8 = 8.8。 数据按升序排列(－40.33%、－5.02%、
+9.57%、10.02%、12.34%、15.25%、16.54%、20.65%、27.37%和30.79%)，8.8位分别位于第8和第9项之间，分
+别为20.65%和27.37%。采用线性插值，P80 = X8＋ (Ly - 8)×(X9 - X8)， P80 = 20.65＋(8.8 -
+8)×(27.37 - 20.65)= 20.65＋ (0.8×6.72)= 20.65＋ 5.38= 26.03%。
+ 
+42.The probability distribution for a company‘s sales is:
+The standard deviation of sales is closest to:
+A.$9.81 million.
+B.$12.20 million.
+C.$32.40 million.
+参考答案：A
+【莽学解析】A is correct. The analyst must first calculate expected sales as 0.05 × $70 + 0.70
+× $40 + 0.25 × $25 = $3.50 million + $28.00 million + $6.25 million = $37.75 million. After
+calculating expected sales, we can calculate the variance of sales:
+The standard deviation of sales is thus σ = ($96.18)^1/2 = $9.81 million.
+A正确。 分析师必须首先计算预期销售额为0.05×$70＋0.70×$40＋0.25×$25 =$37.75 million。 通过计
+算期望销售额，可以计算出销售额的方差: σ^2= P(70)(70- E(销售))^2＋P(40)[ 40 - E(销售)]^2＋
+P(25)(25- E(销售))^2 = 0.05(70 - 37.75)^2＋0.70(40 - 37.75)^2＋ 0.25(25 - 37.75)^2 = 52 mil＋
+3.54 mil＋40.64 mil = 96.18 mil。 销售的标准偏差是σ=(96.18)^1/2 = 9.81 mil
+ 
+ 
+43.In probability theory, exhaustive events are best described as events:
+A.have a probability of zero.
+B.are mutually exclusive.
+C.include all potential outcomes.
+参考答案：C
+【莽学解析】： C is correct. The term “exhaustive” means that the events cover all possible
+outcomes. ： C正确。遍历一词是指事件包括所有可能的结果。
+ 
+44.Investors should most likely be attracted to return distributions that are:
+A.Normal.
+B.Positively skewed.
+C.Negatively skewed.
+参考答案：B
+【莽学解析】Investors should be attracted by a positive skew because the mean return falls
+above the median.投资者应该被一个正偏态的分布所吸引，因为平均回报率高于中位数。由于正偏的分布
+，极端情况主要出现在右边，当极端情况出现时，往往意味着有非常大的利得，对于投资者有利。
+ 
+45.Given a stated annual interest rate of 6% compounded quarterly, the level amount that,
+deposited quarterly, will grow to ￡25,000 at the end of 10 years is closest to:
+A.￡461.
+B.￡474.
+C.￡836.
+参考答案：A
+【莽学解析】A is correct. To solve for an annuity (A) payment, when the future value (FV),
+interest rate, and number of periods is known, use the following equation:
+ 这里用金融计算器的第三排五个键计算，大原则是知道4个键可以求余下的那个。 这里需要求的是PMT，所
+以需要输入余下四个键。第一，清空：2nd FV，清空之前所有输入的数据。第二，保证在END模式下第三，输
+入：先输入数字，再按第三排的功能键。FV=25,000，N=10*4，I/Y=6/4，PV=0，第四，计算：CPT PMT=-
+460.677542
+ 
+ 
+46.A tree-map is best suited to illustrate:
+A.underlying trends over time.
+B.joint variations in two variables.
+C.value differences of categorical groups.
+参考答案：C
+【莽学解析】C is correct. A tree-map is a graphical tool used to display and compare
+categorical data. It consists of a set of colored rectangles to represent distinct groups, and
+the area of each rectangle is proportional to the value of the corresponding group. A is
+incorrect because a line chart, not a tree-map, is used to display the change in a data series
+over time. B is incorrect because a scatter plot, not a tree-map, is used to visualize the
+joint variation in two numerical variables. 树图是一种用于显示和比较分类数据的图形工具。它由一
+组表示不同组的彩色矩形组成，每个矩形的面积与相应组的值成比例。A是不正确的，折线图是用来显示数据
+序列随时间的变化。B是不正确的，散点图用于可视化两个数值变量的联合变化。
+ 
+47.A heat map is best suited for visualizing the:
+A.frequency of textual data.
+B.degree of correlation between different variables.
+C.shape, center, and spread of the distribution of numerical data.
+参考答案：B
+【莽学解析】B is correct. A heat map is commonly used for visualizing the degree of correlation
+between different variables. A is incorrect because a word cloud, or tag cloud, not a heat map,
+is a visual device for representing textual data with the size of each distinct word being
+proportional to the frequency with which it appears in the given text. C is incorrect because a
+histogram, not a heat map, depicts the shape, center, and spread of the distribution of
+numerical data. B是正确的，热力图，通常用于显示不同变量之间的关联程度。A是不正确的，因为词云是
+表示文本数据的可视化设备，每个不同单词的大小与它在给定文本中出现的频率成比例。C是不正确的，直方
+图描述了数值数据分布的形状、中心和分布。
+ 
+48.After estimating the probability that an investment manager will exceed his benchmark return
+in each of the next two quarters, an analyst wants to forecast the probability that the
+investment manager will exceed his benchmark return over the two-quarter period in total.
+Assuming that each quarter’s performance is independent of the other, which probability rule
+should the analyst select?
+A.Addition rule
+B.Multiplication rule
+C.Total probability rule
+参考答案：B
+【莽学解析】B is correct. Because the events are independent, the multiplication rule is most
+appropriate for forecasting their joint probability. The multiplication rule for independent
+events states that the joint probability of both A and B occurring is P(AB) = P(A)P(B). B正确。
+由于事件是相互独立的，乘法法则最适合预测它们的联合概率。独立事件的乘法法则表明A和B同时发生的概
+率是P(AB) = P(A)P(B)。 定义A事件：接下来的第一个季度超过benchmark 定义B事件：接下来的第二个季度
+超过benchmark 题目问两个事件同时发生概率为多少？ A和B事件相互独立，所以P(AB)=P(A)xP(B)
+ 
+49.The following is a frequency polygon of monthly exchange rate changes in the US
+dollar/Japanese yen spot exchange rate for a four-year period. A positive change represents yen
+appreciation (the yen buys more dollars), and a negative change represents yen depreciation
+(the yen buys fewer dollars).
+ 
+Based on the chart, yen appreciation:
+A.occurred more than 50% of the time.
+B.was less frequent than yen depreciation.
+C.in the 0.0 to 2.0 interval occurred 20% of the time.
+参考答案：A
+【莽学解析】A is correct. Twenty observations lie in the interval “0.0 to 2.0,” and six
+observations lie in the “2.0 to 4.0” interval. Together, they represent 26/48, or 54.17%, of
+all observations, which is more than 50%.图中，横轴是日元相对与美元汇率变动的百分比；纵坐标代表
+落在一个区间中数据的个数（absolute frequency）。在折线图中，横坐标是某一个区间的中点，比如，折
+线图中的第一个点，横坐标是-5%，纵坐标是3，代表在-5%为中点的左右两边的区间内，落入的数据个数是
+3个。此时，我们从左往右标出5个区间，如图。每个区间的绝对频数看纵坐标：第一个区间的纵坐标
+（absolute frequency）=3；第二个区间=8；第三个区间=11；第四个区间=20；第5个区间=6，总共48个数据
+。题目问：日元升值的说法哪个是正确的？A: 日元升值发生的次数的概率超过50%首先，升值代表的就是横
+坐标>0%，也就是图上4和5两个区间，发生的次数的概率，就是落在区间中的数据占比（相对频率）=落在4和
+5区间上的数据总个数/所有区间的总个数=（20＋ 6）/(3 ＋8＋ 11＋ 20 6)=54%>50%，所以A正确。 B说日
+元升值比贬值发生的频率低。这句话不对，在A问中已经计算出，日元升值的概率约为54%，所以日元贬值的
+概率是1-54%=46%，应该是贬值的频率低，而不是升值的频率低，B错误。 C说日元升值比例为0-2的区间上对
+应发生的概率是20%。从图上看，升值比例看横轴，横坐标0-2的区间，对应的就是第四个区间，也就是以
+1%为中心的区间。这个区间中，数据落入的个数是20个，总数据个数是48个。20/48＝42%，也就是说，在这
+个区间中，数据的占比应该是42%而不是C选项中说的20%。所以C的说法也是错误的。
+ 
+50.In a frequency distribution, the absolute frequency measure:
+A.represents the percentages of each unique value of the variable.
+B.represents the actual number of observations counted for each unique valueof the variable.
+C.allows for comparisons between datasets with different numbers of total observations.
+参考答案：B
+【莽学解析】B is correct. In a frequency distribution, the absolute frequency, or simply the
+raw frequency, is the actual number of observations counted for each unique value of the
+variable. A is incorrect because the relative frequency, which is calculated as the absolute
+frequency of each unique value of the variable divided by the total number of observations,
+presents the absolute frequencies in term of percentages. C is incorrect because the relative
+(not absolute) frequency provides a normalized measure of the distribution of the data,
+allowing comparisons between datasets with different numbers of total observations. B是正确的。
+在频率分布中，绝对频数，指的是落在每一个区间中的观测值的个数。 A是不正确的，相对频率，指的是落
+在某一个区间中数据的占比，通常用百分比的形式表示。 C是不正确的，相对频率提供了数据分布的标准化
+度量，允许对具有不同总观察数的数据集之间进行比较。
+ 
+51.A sports car, purchased for ￡200,000, is financed for five years at an annual rate of 6%
+compounded monthly. If the first payment is due in one month, the monthly payment is closest
+to:
+A.￡3,847.
+B.￡3,867.
+C.￡3,957.
+参考答案：B
+【莽学解析】B is correct, calculated as follows (where A is annuity and PV is present value):
+ B正确。 这里说“pmt due in one month”是指第一笔现金流在第一个月月末付款，所以是一个后付年金的
+形式。 在END模式下，FV=0，PV=200,000，N=5*12，I/Y=6/12，CPT PMT=3,866.56
+ 
+ 
+52.A perpetual preferred stock makes its first quarterly dividend payment of $2.00 in five
+quarters. If the required annual rate of return is 6% compounded quarterly, the stock’s
+present value is closest to:
+A.$31.
+B.$126.
+C.$133.
+参考答案：B
+【莽学解析】B is correct. The value of the perpetuity one year from now is calculated as: PV =
+A/r, where PV is present value, A is annuity, and r is expressed as a quarterly required rate
+of return because the payments are quarterly.
+ B正确。 一年后的永续年金价值计算如下：PV = A/r，其中PV为现值，A为年金，r表示为季度要求收益率
+，因为支付是按季度来的： PV4 = $2.00/(0.06/4)= $133.33。 今天时间点上的现值是： PV0=
+FV4*(1＋r)^(–N)=$133.33*(1＋0.015)^(–4) = $125.62≈$126. 注意：第一笔现金流（股利）发生在
+t=5时刻，第二年第一个季度末，PV算下来是在t=4时刻的现值PV4，所以还要折现一次到t=0时刻。
+ 
+ 
+53.Florence Hixon is screening a set of 100 stocks based on two criteria (Criterion 1 and
+Criterion 2). She set the passing level such that 50% of the stocks passed each screen. For
+these stocks, the values for Criterion 1 and Criterion 2 are not independent but are positively
+related. How many stocks should pass Hixon’s two screens?
+A.Less than 25
+B.25
+C.More than 25
+参考答案：C
+【莽学解析】C is correct. Let event A be a stock passing the first screen (Criterion 1) and
+event B be a stock passing the second screen (Criterion 2). The probability of passing each
+screen is P(A) = 0.50 and P(B) = 0.50. If the two criteria are independent, the joint
+probability of passing both screens is P(AB) = P(A)P(B) = 0.50 × 0.50 = 0.25, so 25 out of 100
+stocks would pass both screens. However, the two criteria are positively related, and P(AB) ≠
+0.25. Using the multiplication rule for probabilities, the joint probability of A and B is
+P(AB) = P(A | B) P(B). If the two criteria are not independent, and if P(B) = 0.50, then the
+contingent probability of P(A | B) is greater than 0.50. So the joint probability of P(AB) =
+P(A | B)P(B) is greater than 0.25. More than 25 stocks should pass the two screens. C正确。假设
+一只股票通过标准1的事件为A，一只股票通过标准2的事件为B，那么通过两个标准的概率=事件AB同时发生的
+概率=P(AB)=P(A)*P(B/A) 因为标准1和标准2的设定是正相关的，那也就意味着当股票通过其中一个标准时
+，再通过另一个标准的概率是增加的，故P(B/A)>P(B)=0.5 所以P(AB)=P(A)*P(B/A)>0.25，因此最后通过两
+个标准的股票数量是大于25的
+ 
+54.A two-dimensional rectangular array would be most suitable for organizing a collection of
+raw:
+A.panel data.
+B.time-series data.
+C.cross-sectional data.
+参考答案：A
+【莽学解析】A is correct. Panel data consist of observations through time on one or more
+variables for multiple observational units. A two-dimensional rectangular array, or data table,
+would be suitable here as it is comprised of columns to hold the variable（　） for the
+observational units and rows to hold the observations through time. B is incorrect because a
+one-dimensional (not a two-dimensional rectangular) array would be most suitable for organizing
+a collection of data of the same data type, such as the time-series data from a single
+variable. C is incorrect because a one-dimensional (not a two-dimensional rectangular) array
+would be most suitable for organizing a collection of data of the same data type, such as the
+same variable for multiple observational units at a given point in time (cross-sectional data).
+A是正确的。面板数据，指的是将时间序列数据（表中列数据）和横截面数据（表中行数据）混合后的数据形
+式。二维矩形阵列或数据表在这里是合适的，因为它由用于保存观测单位变量的列和用于保存随时间变化的
+观测值的行组成。 B和C是不正确的，因为一维（不是二维）数组最适合组织相同数据类型的数据集合，例如
+来自单个变量的时间序列数据。
+ 
+55.Which of the following data types would be classified as being categorical?
+A.Discrete
+B.Nominal
+C.Continuous
+参考答案：B
+【莽学解析】B is correct. Categorical data (or qualitative data) are values that describe a
+quality or characteristic of a group of observations and therefore can be used as labels to
+divide a dataset into groups to summarize and visualize. The two types of categorical data are
+nominal data and ordinal data. Nominal data are categorical values that are not amenable to
+being organized in a logical order,while ordinal data are categorical values that can be
+logically ordered or ranked. A is incorrect because discrete data would be classified as
+numerical data (not categorical data). C is incorrect because continuous data would be
+classified as numerical data (not categorical data). B是正确的。分类（定性）数据是描述一组观察
+结果的质量或特征的值，可作为标签将数据集分组后进行汇总和可视化操作。分类（定性）数据可以分为名
+义数据和排序数据。名义数据是分类值，并不表示逻辑或者排列顺序，排序数据可对观测值进行排序并分类
+。 A是不正确的，因为离散数据被分类为定量数据（而不是分类数据）。 C是不正确的，因为连续数据被分
+类为定量数据（而不是分类数据）。
+ 
+56.At a 5% interest rate per year compounded annually, the present value (PV) of a 10-year
+ordinary annuity with annual payments of $2,000 is $15,443.47. The PV of a 10-year annuity due
+with the same interest rate and payments is closest to:
+A.$14,708.
+B.$16,216.
+C.$17,443.
+参考答案：B
+【莽学解析】B is correct. The present value of a 10-year annuity (A) due with payments of
+$2,000 at a 5% discount rate is calculated as follows:
+Alternatively, the PV of a 10-year annuity due is simply the PV of the ordinary annuity
+multiplied by 1.05:
+ 原版书的公式比较复杂，如果计算器在手边的话，可以用计算器求解：N=10, I/Y=5, FV=0, PMT=-2,000
+[END] CPT PV=15,443.46986 N=10, I/Y=5, FV=0, PMT=-2,000 [BGN] CPT PV=16,215.64335
+15,443.46986*1.05=16,215.64335
+ 
+ 
+57.A fixed-income analyst uses a proprietary model to estimate bankruptcy probabilities for a
+group of firms. The model generates probabilities that can take any value between 0 and 1.The
+resulting set of estimated probabilities would most likely be characterized as:
+A.ordinal data.
+B.discrete data.
+C.continuous data.
+参考答案：C
+【莽学解析】C is correct. Continuous data are data that can be measured and can take on any
+numerical value in a specified range of values. In this case, the analyst is estimating
+bankruptcy probabilities, which can take on any value between 0 and 1. Therefore, the set of
+bankruptcy probabilities estimated by the analyst would likely be characterized as continuous
+data. A is incorrect because ordinal data are categorical values that can be logically ordered
+or ranked. Therefore, the set of bankruptcy probabilities would not be characterized as ordinal
+data. B is incorrect because discrete data are numerical values that result from a counting
+process, and therefore the data are limited to a finite number of values. The proprietary model
+used can generate probabilities that can take any value between 0 and 1; therefore, the set of
+bankruptcy probabilities would not be characterized as discrete data. C是正确的。连续数据是可以
+测量的数据，可以在指定的值范围内采用任何数值。在这种情况下，分析员正在估计破产概率，它可以取0到
+1之间的任何值。因此，分析师估计的破产概率集可能被描述为连续数据。 A是不正确的，因为排序数据是可
+以逻辑排序或排序的分类数据。因此，破产概率集不会被描述为排序数据。 B是不正确的，因为离散数据是
+由计数过程产生的数值，因此数据仅限于有限数量的值。使用的专有模型生成概率可以取0到1之间的任何值
+，故破产概率集不会被描述为离散数据。
+ 
+58.A client requires ￡100,000 one year from now. If the stated annual rate is 2.50% compounded
+weekly, the deposit needed today is closest to:
+A.￡97,500.
+B.￡97,532.
+C.￡97,561.
+参考答案：B
+【莽学解析】B is correct because ￡97,531 represents the present value (PV) of ￡100,000
+received one year from today when today’s deposit earns a stated annual rate of 2.50% and
+interest compounds weekly, as shown in the following equation (where FV is future value):
+ 
+B正确。 年利率为2.50%，每年按周计息，￡97,531表示一年后收到的这￡100,000钱现值(PV): 方法一
+：PV=FV(1＋rs/m)^(-mN), PV=￡100,000(1＋0.025/52)^(-52)= ￡97,531.58 方法二
+：FV=100,000，N=52，I/Y=2.5/52，PMT=0，CPT PV=-97,531.58
+ 
+ 
+59.A line chart with two variables—for example, revenues and earnings per share—is best
+suited for visualizing:
+A.the joint variation in the variables.
+B.underlying trends in the variables over time.
+C.the degree of correlation between the variables.
+参考答案：B
+【莽学解析】B is correct. An important benefit of a line chart is that it facilitates showing
+changes in the data and underlying trends in a clear and concise way. Often a line chart is
+used to display the changes in data series over time. A is incorrect because a scatter plot,
+not a line chart, is used to visualize the joint variation in two numerical variables. C is
+incorrect because a heat map, not a line chart, is used to visualize the values of joint
+frequencies among categorical variables. 折线图的一个重要优点是，它有助于以清晰简洁的方式显示数
+据的变化和基本趋势。通常使用折线图来显示数据序列随时间的变化。A是不正确的，散点图用于显示两个数
+值变量的联合变化。C是不正确的，热力图用于反映可视化分类变量之间的联合频率值。
+ 
+60.The following exhibit shows the annual returns for Fund Y.
+The geometric mean return for Fund Y is closest to:
+A.14.9%.
+B.15.6%.
+C.19.5%.
+参考答案：A
+【莽学解析】： A is correct. The geometric mean return for Fund Y is found as follows:Fund Y =
+[(1＋0.195) × (1 – 0.019) × (1 ＋ 0.197) × (1 ＋ 0.350) × (1 ＋0.057)]^(1/5) – 1= 14.9%.
+： A正确。基金Y的几何平均收益率为: Fund Y = [(1＋ 0.195)×(1 - 0.019)×(1＋ 0.197)×(1＋
+0.350)×(1＋ 0.057)]^(1/5) - 1 = 14.9%。
+ 
+61.A bank quotes a stated annual interest rate of 4.00%. If that rate is equal to an effective
+annual rate of 4.08%, then the bank is compounding interest:
+A.daily.
+B.quarterly.
+C.semiannually.
+参考答案：A
+【莽学解析】A is correct. The effective annual rate (EAR) when compounded daily is 4.08%.
+ 
+A正确。 方法一：已知每年计息为“以日计息”，名义年利率为4%，运用effective annual rate (EAR)求解
+公式， EAR = (1＋Periodic interest rate)^m – 1=(1＋ 0.04/365)^365 – 1 = (1.0408) –1 =
+0.04081 ≈ 4.08%. 方法二：BAII Plus计算器，2ND＋2页面下，2ND＋CE/C清楚历史记录
+，NOM=4，C/Y=365，CPT EFF=4.08
+ 
+ 
+62.From an approved list of 25 funds, a portfolio manager wants to rank 4 mutual funds from
+most recommended to least recommended. Which formula is most appropriate to calculate the
+number of possible ways the funds could be ranked?
+A.Permutation formula
+B.Multinomial formula
+C.Combination formula
+参考答案：A
+【莽学解析】： A is correct. The permutation formula is used to choose r objects from a total
+of n objects when order matters. Because the portfolio manager is trying to rank the four funds
+from most recommended to least recommended, the order of the funds matters; therefore, the
+permutation formula is most appropriate. ： A正确。 当顺序重要时，用排列公式从n个对象中选择r个
+对象。由于投资组合经理试图将这四只基金从“推荐最多”排序为“推荐最少”，因此基金的顺序很重要;因
+此，排列公式是最合适的。
+ 
+63.A client invests €20,000 in a four-year certificate of deposit (CD) that annually pays
+interest of 3.5%. The annual CD interest payments are automatically reinvested in a separate
+savings account at a stated annual interest rate of 2% compounded monthly. At maturity, the
+value of the combined asset is closest to:
+A.€21,670.
+B.€22,890.
+C.€22,950.
+参考答案：B
+【莽学解析】B is correct, as the following cash flows show:
+The first payment grows at 2.0% compounded monthly for three years (where FV is future value):
+The second payment grows at 2.0% compounded monthly for two years:
+The third payment grows at 2.0% compounded monthly for one year:
+The fourth payment is paid at the end of Year 4. Its future value is €700. The sum of all
+future value payments is as follows:
+ B正确。 方法一：如下现金流所示 这四笔年利率是根据存单3.5%的年利率计算的
+：€20,000*3.5%=€7,000。 第一笔利息€7,000以2.0%名义年率按照每月复利计息，为期三年(其中FV为未
+来价值): FV=€700(1＋0.02/12)^(3×12)=743.25 第二笔利息€7,000以2.0%名义年率按照每月复利计息
+，为期两年: FV=€700(1＋0.02/12)^(2×12)= 728.54 第三笔利息€7,000以2.0%名义年率按照每月复利计
+息，为期一年: FV=€700(1＋0.02/12)^(3×12)=714.13 第四笔利息€7,000在第4年年底支付。它的未来价
+值就是€700。 所有未来价值支付的总和如下:
+€20,000.00＋€743.25＋€728.54＋€714.13＋€700.00=€22,885.92 Or 方法二: 1＋EAR (with a
+stated annual interest rate of 2.0% compounded monthly)=(1＋0.02/12)^12=1.02018436 END model：
+PV=0, PMT=700, I/Y=2.018436, N=4, CPT FV=2,885.92. Total Future value is
+€22,885.925=€2,885.925 €20,000.
+ 
+ 
+64.An investment fund has the return frequency distribution shown in the following exhibit.
+Which of the following statements is correct?
+A.The relative frequency of the bin “-1.0 to +2.0” is 20%.
+B.The relative frequency of the bin “+2.0 to +5.0” is 23%.
+C.The cumulative relative frequency of the bin “+5.0 to +8.0” is 91.7%.
+参考答案：A
+【莽学解析】A is correct. The relative frequency is the absolute frequency of each bindivided
+by the total number of observations. Here, the relative frequency is calculatedas: (12/60) ×
+100 = 20%. B is incorrect because the relative frequency ofthis bin is (23/60) × 100 = 38.33%.
+C is incorrect because the cumulative relativefrequency of the last bin must equal 100%. A是正
+确的。相对频率，指的是落在某一个区间中数据的占比，即每个区间中的绝对频数除以观测总数。此处，相
+对频率计算为：（12/60）×100=20%。 B是不正确的，这个区间的相对频率为（23/60）×100=38.33%。 C是
+不正确的，最后一个区间的累积相对频率必须等于100%。
+ 
+65.Which visualization tool works best to represent unstructured, textual data?
+A.Tree-Map
+B.Scatter plot
+C.Word cloud
+参考答案：C
+【莽学解析】C is correct. A word cloud, or tag cloud, is a visual device for representing
+unstructured, textual data. It consists of words extracted from text with the size of each word
+being proportional to the frequency with which it appears in the given text. A is incorrect
+because a tree-map is a graphical tool for displaying and comparing categorical data, not for
+visualizing unstructured, textual data. B is incorrect because a scatter plot is used to
+visualize the joint variation in two numerical variables, not for visualizing unstructured,
+textual data. C是不正确的，词云，用于展示非结构化文本数据。它由从文本中提取的单词组成，每个单词
+的大小与它在给定文本中出现的频率成比例，即字体越大，该词语的出现次数越多，词频越高。A是不正确的
+，树图是用于显示和比较分类数据的图形工具。B是不正确的，散点图用于反映可视化两个数值变量的联合变
+化。
+ 
+66.All else being equal, as the correlation between two assets approaches +1.0, the
+diversification benefits:
+A.decrease.
+B.stay the same.
+C.increase.
+参考答案：A
+【莽学解析】： A is correct. As the correlation between two assets approaches +1,
+diversification benefits decrease. In other words, an increasingly positive correlation
+indicates an increasingly strong positive linear relationship and fewer diversification
+benefits. ： A正确。 当两种资产的相关性趋近于 ＋1时，多元化收益降低。也就是说，正相关越强，说明
+正线性关系越强，多元化收益越少。
+ 
+67.The annual returns for three portfolios are shown in the following table. Portfolios P and R
+were created in Year 1, Portfolio Q in Year 2.
+The median annual return from portfolio creation to year 5 for:
+A.Portfolio P is 4.5%.
+B.Portfolio Q is 4.0%.
+C.Portfolio R is higher than its arithmetic mean annual return.
+参考答案：C
+【莽学解析】： C is correct. The median of Portfolio R is 0.8% higher than the mean for
+Portfolio R. ： 三种投资组合的年度收益如表中信息所示。投资组合P和R在第一年创建，投资组合Q在第二
+年创建。问的是2013年投资组合创造的年收益率中位数是多少。C组合R的中位数比组合R的平均值高0.8%。
+ 
+68.In a typical year, 5% of all CEOs are fired for “performance” reasons. Assume that CEO
+performance is judged according to stock performance and that 50% of stocks have above-average
+returns or “good” performance. Empirically, 30% of all CEOs who were fired had “good”
+performance. Using Bayes’ formula, what is the probability that a CEO will be fired given
+“good” performance? (Hint, let P(A) be the probability of a CEO being fired, P(B) be the
+probability of a “good” performance rating, P(B | A) be the likelihood of a “good”
+performance rating given that the CEO was fired, and P(A | B) be the likelihood of the CEO
+being fired given a “good” performance rating.)
+A.1.5%
+B.2.5%
+C.3.0%
+参考答案：C
+【莽学解析】C is correct. With Bayes’ formula, the probability of the CEO being fired given a
+“good” rating is
+where
+P(A) = 0.05 = probability of the CEO being fired
+P(B) = 0.50 = probability of a “good” rating
+P(B | A) = 0.30 = probability of a “good” rating given that the CEO is fired
+With these estimates, the probability of the CEO being fired given a “good” rating is
+ 
+Although 5% of all CEOs are fired, the probability of being fired given a “good” performance
+rating is 3%.. C正确。题目考察的就是贝叶斯公式的运用。 根据题意可知： CEO被解雇的概率：P(A) =
+0.05 CEO有“好”业绩表现的概率为：P(B) = 0.50 在给定被解雇的前提下CEO有“好”业绩表现的概率为
+：P(B |A) = 0.30 那么，根据贝叶斯公式，在CEO有“好”业绩表现的前提下，被解雇的概率：
+ 
+ 
+69.If the sample standard deviation is zero, compare with geometric mean, arithmetic mean is:
+A.Greater.
+B.Smaller.
+C.The same.
+参考答案：C
+【莽学解析】Because the sample standard deviation is zero, there is no difference between
+geometric mean and arithmetic mean.由于样本标准差为零，几何平均值和算术平均值之间没有差异。
+ 
+70.John purchased 60% of the stocks in a portfolio, while Andrew purchased the other 40%. Half
+of John’s stock-picks are considered good, while a fourth of Andrew’s are considered to be
+good. If a randomly chosen stock is a good one, what is the probability John selected it?
+A.0.40.
+B.0.30.
+C.0.75.
+参考答案：C
+【莽学解析】Using the information of the stock being good, the probability is updated to a
+conditional probability: P(John | good) = P(good and John) / P(good). P(good and John) = P(good
+| John) × P(John) = 0.5 × 0.6 = 0.3. P(good and Andrew) = 0.25 × 0.40 = 0.10. P(good) =
+P(good and John) + P (good and Andrew) = 0.40. P(John | good) = P(good and John) / P(good) =
+0.3 / 0.4 = 0.75. 使用股票将处于良好状态的信息，更新概率后，这是一个条件概率: P(John | good) =
+P(good and John) / P(good) P(good and John) = P(good | John)×P(John) = 0.5×0.6 = 0.3 P(good
+and Andrew) = 0.25×0.40 = 0.10 P(good) = P(good and John) P(good and Andrew) = 0.40 P(John |
+good) = P(good and John) / P(good) = 0.3 / 0.4 = 0.75
+ 
+71.An investment of €500,000 today that grows to €800,000 after six years has a stated annual
+interest rate closest to:
+A.7.5% compounded continuously.
+B.7.7% compounded daily.
+C.8.0% compounded semiannually.
+参考答案：C
+【莽学解析】C is correct, as shown in the following (where FV is future value and PV is present
+value):
+ 
+C正确。 FV=PV*(1＋rs/m)^(m*N) 500,000*(1＋EAR)^6=800,000 求得EAR=8.148375%，选择ABC中EAR与之最
+接近的。 A中EAR=e^7.5%-1=7.7884% BAII Plus计算器，2ND 2页面下，2ND CE/C清楚历史记录，分别求：
+B中的EAR：NOM=7.7，C/Y=365，CPT EFF=8.003331（计算结果没有带%） C中的EAR：NOM=8，C/Y=2，CPT
+EFF=8.16（计算结果没有带%）
+ 
+ 
+72.The interquartile range is closest to:
+ 
+A.13.76.
+B.25.74.
+C.34.51.
+参考答案：C
+【莽学解析】C is correct. The interquartile range is the difference between 114.25 and 79.74,
+which is 34.51.interquartile，四分位间距，指的是除去两端的四分之一的数据 ，即第三四分位数和第一
+四分位数之间的差距。根据题目中显示的信息，第三四分位数是114.25，第一四分位数是79.74，那么二者之
+间的差距为：114.25-79.74=34.51。故选项C是正确选项
+ 
+73.Which of the following best describes how an analyst would estimate the expected value of a
+firm under the scenarios of bankruptcy and survivorship? The analyst would use:
+A.the addition rule.
+B.conditional expected values.
+C.the total probability rule for expected value.
+参考答案：C
+【莽学解析】： C is correct. The total probability rule for expected value is used to estimate
+an expected value based on mutually exclusive and exhaustive scenarios. ： C正确。 期望值的总概
+率规则用于基于互斥和遍历事件估计期望值。
+ 
+74.A portfolio manager invests €5,000 annually in a security for four years at the prices
+shown in the following exhibit.
+The average price paid for the security is closest to:
+A.harmonic mean of €76.48.
+B.geometric mean of €77.26.
+C.arithmetic average of €78.00.
+参考答案：A
+【莽学解析】： A is correct. The harmonic mean is appropriate for determining the average price
+per unit. It is calculated by summing the reciprocals of the prices, then averaging that sum by
+dividing by the number of prices, then taking the reciprocal of the average: 4/[(1/62.00) +
+(1/76.00) + (1/84.00) + (1/90.00)] = €76.48. ： A正确。调和平均数适用于确定每一单位的平均价格
+。它的计算方法是将价格的倒数相加;然后除以价格的平均数;最后，取平均值的倒数。 4/[(1/62.00)
+(1/76.00) (1/84.00) (1/90.00)] = €76.48.
+ 
+75.An analyst gets the following data: 15, 24, 8, 23, 10, 13, 12, 17, 18, 17 and 19. What is
+the third quartile of this data?
+A.18.
+B.18.25.
+C.19.
+参考答案：C
+【莽学解析】Observers：8 10 12 13 15 17 17 18 19 23 24,
+N=11，
+i.e. the 9th number is 75%， The third quartiles =19.
+ 
+ 
+76.The following exhibit shows the annual MSCI World Index total returns for a 10-year period.
+For Year 6–Year 10, the mean absolute deviation of the MSCI World Index total returns is
+closest to::
+A.10.20%.
+B.12.74%.
+C.16.40%.
+参考答案：A
+【莽学解析】A正确。平均绝对偏差(MAD)运用其公式。 第1列:将年收益相加，除以n，得到算术平均值为
+16.40%。第2栏:计算第1栏中每年回报率与平均值之差的绝对值。对结果求和，然后除以n得到MAD。
+ 
+ 
+ 
+77.A saver deposits the following amounts in an account paying a stated annual rate of 4%,
+compounded semiannually:
+At the end of Year 4, the value of the account is closest to:
+A.$30,432
+B.$30,447
+C.$31,677
+参考答案：B
+【莽学解析】B is correct. To solve for the future value of unequal cash flows, compute the
+future value of each payment as of Year 4 at the semiannual rate of 2%, and then sum the
+individual future values, as follows:
+ 第一步：求EAR： BAII Plus计算器，2ND＋2页面下，2ND＋CE/C清楚历史记录，NOM=4，C/Y=2，CPT
+EFF=4.04 第二步：分别求4笔现金流： PV=-4,000，N=3，I/Y=4.04，PMT=0，CPT FV=4,504.65 PV=-
+8,000，N=2，I/Y=4.04，PMT=0，CPT FV=8,659.46 PV=-7,000，N=1，I/Y=4.04，PMT=0，CPT FV=7,282.80
+PV=-10,000，N=0，I/Y=4.04，PMT=0，CPT FV=10,000.00 第三步：将4个FV加总得到30,446.91。 视频和对
+比，补充： 两种方式（半年的4%/2和年的EAR）都可以，原因是“PMT=0”，现金流为0，N和I/Y只要匹配
+，按照“年”还是“半年”为单位计算无所谓，结果是相同的。求第一个时间点4000的FV：PV=-
+4,000，N=3，I/Y=4.04，PMT=0，CPT FV=4,504.65PV=-4,000，N=6，I/Y=4/2=2，PMT=0，CPT FV=4,504.65理
+解“匹配”：使用正确的利率需要用到一个“匹配”的思想，意味着现金流发生的时间间隔，对应着利率期
+限，例如按照每一个月发生的CF，我们应该用月利率对CF折现。
+ 
+ 
+78.A firm will select two of four vice presidents to be added to the investment committee. How
+many different groups of two are possible?
+A.6
+B.12
+C.24
+参考答案：A
+【莽学解析】A is correct. The answer is found using the combination formula
+Here, n = 4 and r = 2, so the answer is 4!/[(4 – 2)!2!] = 24/[(2) × (2)] = 6. This result can
+be verified by assuming there are four vice presidents, VP1–VP4. The six possible additions to
+the investment committee are VP1 and VP2, VP1 and VP3, VP1 and VP4, VP2 and VP3, VP2 and VP4,
+and VP3 and VP4.. A正确。 使用组合公式:n = 4 r = 2，所以答案是4!/ ((4 - 2),2 != 24/[(2)×(2)]=
+6。这个结果可以通过假设有四个副总裁来验证，VP1到VP4。 选两个加入到委员会中，那么投资委员会可能
+增加的成员将有以下6种组合，分别是:VP1和VP2、VP1和VP3、VP1和VP4、VP2和VP3、VP2和VP4、VP3和VP4。
+ 
+ 
+79.When analyzing investment returns, which of the following statements is correct?
+A.The geometric mean will exceed the arithmetic mean for a series with non-zero variance.
+B.The geometric mean measures an investment’s compound rate of growth over multiple periods.
+C.The arithmetic mean accurately estimates an investment’s terminal value over multiple
+periods.
+参考答案：B
+【莽学解析】B is correct. The geometric mean compounds the periodic returns of every period,
+giving the investor a more accurate measure of the terminal value of an investment.
+ 
+80.The nominal risk-free rate is best described as the sum of the real risk-free rate and a
+premium for:
+A.maturity.
+B.liquidity.
+C.expected inflation.
+参考答案：C
+【莽学解析】： C is correct. The sum of the real risk-free interest rate and the inflation
+premium is the nominal risk-free rate. ： 实际无风险利率与通货膨胀溢价补偿的和等于名义无风险利
+率。
+ 
+81.After six months, the growth portfolio that Rayan Khan manages has outperformed its
+benchmark. Khan states that his odds of beating the benchmark for the year are 3 to 1. If these
+odds are correct, what is the probability that Khan’s portfolio will beat the benchmark for
+the year?
+A.0.33
+B.0.67
+C.0.75
+参考答案：C
+【莽学解析】C is correct. The odds for beating the benchmark = P(beating benchmark) / [1
+–P(beating benchmark)].Let P(A) = P(beating benchmark). Odds for beating the benchmark = P(A)
+/ [1 – P(A)].3 = P(A) / [1 – P(A)]Solving for P(A), the probability of beating the benchmark
+is 0.75.
+ 
+ 
+82.An investment pays €300 annually for five years, with the first payment occurring today.
+The present value (PV) of the investment discounted at a 4% annual rate is closest to:
+A.€1,336.
+B.€1,389.
+C.€1,625.
+参考答案：B
+【莽学解析】B is correct, as shown in the following calculation for an annuity (A) due:
+ 
+ 
+ 
+83.An analyst uses a software program to analyze unstructured data—specifically, management’s
+earnings call transcript for one of the companies in her research coverage. The program scans
+the words in each sentence of the transcript and then classifies the sentences as having
+negative, neutral, or positive sentiment. The resulting set of sentiment data would most likely
+be characterized as:
+A.ordinal data.
+B.discrete data.
+C.nominal data.
+参考答案：A
+【莽学解析】A is correct. Ordinal data are categorical values that can be logically ordered or
+ranked. In this case, the classification of sentences in the earnings call transcript into
+three categories (negative, neutral, or positive) describes ordinal data, as the data can be
+logically ordered from positive to negative. B is incorrect because discrete data are numerical
+values that result from a counting process. In this case, the analyst is categorizing sentences
+(i.e., unstructured data) from the earnings call transcript as having negative, neutral, or
+positive sentiment. Thus, these categorical data do not represent discrete data. C is incorrect
+because nominal data are categorical values that are not amenable to being organized in a
+logical order. In this case, the classification of unstructured data (i.e., sentences from the
+earnings call transcript) into three categories (negative, neutral, or positive) describes
+ordinal (not nominal) data, as the data can be logically ordered from positive to negative.
+ 
+84.In the step "stating a decision rule" in testing a hypothesis, which of the following
+elements must be specified?
+A.Critical value
+B.Power of a test
+C.Value of a test statistic
+参考答案：A
+【莽学解析】A is correct. The critical value in a decision rule is the rejection point for the
+test. It is the point with which the test statistic is compared to determine whether to reject
+the null hypothesis, which is part of the fourth step in hypothesis testing. ： A正确。 临界值
+是决策测试规则中的拒绝点。检验统计量用来决定是否拒绝原假设，这是假设检验的第四步。
+ 
+85.All else equal, is specifying a smaller significance level in a hypothesis test likely to
+increase the probability of a Type I error or Type II error?
+A.Type I error (No) or Type II error (No)
+B.Type I error (No) or Type II error (Yes)
+C.Type I error (Yes) or Type II error (No)
+参考答案：B
+【莽学解析】： B is correct. Specifying a smaller significance level decreases the probability
+of a Type I error (rejecting a true null hypothesis), but increases the probability of a Type
+II error (not rejecting a false null hypothesis). As the level of significance decreases, the
+null hypothesis is less frequently rejected. ： B正确。 指定一个更小的显著性水平会降低第一类错
+误(拒绝一个真的原假设)的概率，但会增加第二类错误(不拒绝一个假的原假设)的概率。随着显著性水平的
+降低，原假设被拒绝的频率会降低。
+ 
+86.A report on long-term stock returns focused exclusively on all currently publicly traded
+firms in an industry is most likely susceptible to:
+A.look-ahead bias.
+B.survivorship bias.
+C.intergenerational data mining.
+参考答案：B
+【莽学解析】： B is correct. A report that uses a current list of stocks does not account for
+firms that failed, merged, or otherwise disappeared from the public equity market in previous
+years. As a consequence, the report is biased. This type of bias is known as survivorship bias.
+： B正确。 一份使用当前股票清单制作的报告并不包括前几年倒闭、合并或以其他方式从公开股票市场消失
+的公司。因此，这份报告是有偏见的。这种类型的偏差被称为生存偏差。
+ 
+87.Which of the following statements is correct with respect to the null hypothesis?
+A.It can be stated as “not equal to” provided the alternative hypothesis is stated as “equal
+to.”
+B.Along with the alternative hypothesis, it considers all possible values of the population
+parameter.
+C.In a two-tailed test, it is rejected when evidence supports equality between the hypothesized
+value and population parameter.
+参考答案：B
+【莽学解析】B is correct. The null hypothesis and the alternative hypothesis are complements of
+one another and together are exhaustive; that is, the null and alternative hypotheses combined
+consider all the possible values of the population parameter. B是正确的。原假设和备择假设是相互
+补充的，一起是详尽的；也就是说，原假设和备择假设结合考虑所有可能的值的人口参数。
+ 
+88.A Monte Carlo simulation can be used to:
+A.directly provide precise valuations of call options.
+B.simulate a process from historical records of returns.
+C.test the sensitivity of a model to changes in assumptions.
+参考答案：C
+【莽学解析】： C is correct. A characteristic feature of Monte Carlo simulation is the
+generation of a large number of random samples from a specified probability distribution or
+distributions to represent the role of risk in the system. ： C正确。 蒙特卡罗模拟的一个特征是
+从一个指定的概率分布或分布中产生大量的随机样本来代表风险在系统中的作用。
+ 
+89.Which parameter equals zero in a normal distribution?
+A.Kurtosis
+B.Skewness
+C.Standard deviation
+参考答案：B
+【莽学解析】： B is correct. A normal distribution has a skewness of zero (it is symmetrical
+around the mean). A non-zero skewness implies asymmetry in a distribution. ： B正确。 正态分布
+的偏度为零(它是围绕均值对称的)，当偏度不等于0时意味着分布不对称。
+ 
+90.The power of a hypothesis test is:
+A.equivalent to the level of significance.
+B.the probability of not making a Type II error.
+C.unchanged by increasing a small sample size.
+参考答案：B
+【莽学解析】： B is correct. The power of a hypothesis test is the probability of correctly
+rejecting the null when it is false. Failing to reject the null when it is false is a Type II
+error. Thus, the power of a hypothesis test is the probability of not committing a Type II
+error. ： B正确。 假设检验的Power of a test是指：当原假设为假时，拒绝原假设的概率。如果原假设为
+假，不能拒绝它，这属于第二类错误。因此，Power of a test相当于是不犯第二类错误的概率。
+ 
+91.
+Based on a companies’ information of research and development spending, What is the slope
+coefficient for this simple linear regression model?
+A.1.3
+B.-1.3
+C.2.38
+参考答案：B
+【莽学解析】Slope coefficient: -39/30=-1.3这个题目，要求计算的是线性回归的斜率系数。1）可以直接
+使用题目的表格给出的数据COV(X,Y)=E[(Xi-X 拔)(Yi-Y 拔 )]=表中最后一列的数据求和/7=-
+39/7Var(X)=∑(Xi-E(X))^2/(n-1)=30/7 因此，b1cap=(-39/7)/(30/7)=-39/30=-1.3 2）把所有的原始数据
+都输入计算器中，使用金融计算器的统计功能即可直接求出斜率的值按【2ND】【7】输入对应的X值和Y值然
+后按【2ND】【8】屏幕显示的是：LIN（表示此时选用的回归模型是标准的线性回归公式：Y=a bX）（如果屏
+幕显示的回归模型不是LIN，需要重复按【2ND】【ENTER】直至屏幕显示结果为 LIN 为止）所以重复按【
+↓】9次，屏幕显示 b=-1.3 就是线性回归方程中对应的斜率系数
+ 
+92.Which of the following represents a correct statement about the p-value?
+A.The p-value offers less precise information than does the rejection points approach.
+B.A larger p-value provides stronger evidence in support of the alternative hypothesis.
+C.A p-value less than the specified level of significance leads to rejection of the null
+hypothesis.
+参考答案：C
+【莽学解析】The p-value is the smallest level of significance at which the null hypothesis can
+be rejected for a given value of the test statistic. The null hypothesis is rejected when the
+p-value is less than the specified significance level.p值是给定检验统计量的值后，可以拒绝零假设
+的最小显著性水平。当p值小于指定的显著性水平时，拒绝原假设。
+ 
+93.A chi-square test is most appropriate for tests concerning:
+A.a single variance.
+B.differences between two population means with variances assumed to be equal.
+C.differences between two population means with variances assumed to not be equal.
+参考答案：A
+【莽学解析】： A is correct. A chi-square test is used for tests concerning the variance of a
+single normally distributed population. ： A正确。 卡方检验用于检验单个正态分布总体的方差。
+ 
+94.An analyst is researching the relationship between corporate earnings growthand stock
+returns. Specifically, she is interested in whether earnings revisionsaffect stock price
+returns in the same period. She collects five years of monthlydata on “Wall Street” EPS
+revisions for a sample of 100 companies and on theirmonthly stock price returns over the five-
+yearperiod.What are the dependent and independent variables in her model?
+A.The dependent variable is monthly stock price returns, and the independent variable is Wall
+Street EPS revisions.
+B.The dependent variable is Wall Street EPS revisions, and the independent variable is monthly
+stock price returns.
+C.The dependent variable and the independent variable can switch positions.
+参考答案：A
+【莽学解析】A is correct. The dependent variable is monthly stock price returns, and the
+independentvariable is Wall Street EPS revisions, since in the analyst’s model, the variation
+inmonthly stock price returns is being explained by the variation in EPS revisions.A是正确的。
+因变量是月度股价回报，自变量是每股收益
+ 
+95.The value of the cumulative distribution function F(x), where x is a particular outcome, for
+a discrete uniform distribution:
+A.sums to 1.
+B.lies between 0 and 1.
+C.decreases as x increases.
+参考答案：B
+【莽学解析】B is correct. The value of the cumulative distribution function lies between 0 and
+1 for any x: 0 ≤ F(x) ≤ 1. ： B正确。 对于任意x: 0≤F(x)≤1，累积分布函数值在0和1之间。 补充
+： 本题考的是离散型均匀分布的累积概率值。概率分布函数F(x)：给出取值小于某个值的概率，是概率的累
+加形式，即：F(xi)=P(x<=xi)=sum(P(x1),P(x2),……,P(xi))（对于离散型变量）掷骰子x的取值范围是
+123456这六个数字F(3)=P(x<=3)=sum(P(1),P(2),P(3)=1/6＋ 1/6＋ 1/6=1/2概率密度函数f(x)：取特定一个
+值的概率f(xi)=f(3)=1/3所以有sum f(xi)=1在掷骰子的例子中，取到123456这6个数字的概率和为100%=1但
+是F(1)=P(x<=1)=1/6F(2)=P(x<=2)=1/6＋ 1/6=1/3...F(6)=P(x<=6)=1/6＋ 1/6 ＋1/6＋ 1/6＋ 1/6＋
+1/6=1sum F(xi)不等于1
+ 
+96.An analyst wants to forecast the company’s net profit margin (NPM) based on its research
+and development expenditures scaled by revenues (RDR), using the model provided in following
+Exhibit.
+The regression model was estimated using data on eight companies as:
+with a standard error of the estimate (s<sub>e</sub>) of 1.8618987 and variance of RDR,
+, of 4.285714, as given.What is the standard error of the forecast (sf) if the forecasted value
+of RDR is 5?
+A.2.1499.
+B.15.2608.
+C.3 2249.
+参考答案：A
+【莽学解析】To derive the standard error of the forecast (s<sub>f</sub>), we first have to
+calculate the variation of RDR. Then, we have the all the pieces to calculate s<sub>f:</sub>
+ 题目中告诉我们，standard error of the estimate，也就是SEE =se= 1.8618987 根据基础班讲义中的
+Sf的公式，如下图，因此，只需要计算出根号部分的数值后，带入SEE即可求出Sf 题目中还告诉了variance
+of RDR=[∑(Xi－X拔 )^2 ]/(n-1)=4.285714，n=8，因此可以得出：∑(Xi－X拔 )^2=4.285714×7=30所以
+Sf=1.8618987×根号下（1＋1/8＋(5-7.5)^2/30）=1.8618987×1.154701=2.149936
+ 
+ 
+97.The best approach for creating a stratified random sample of a population involves:
+A.drawing an equal number of simple random samples from each subpopulation.
+B.selecting every kth member of the population until the desired sample size is reached.
+C.drawing simple random samples from each subpopulation in sizes proportional to the relative
+size of each subpopulation.
+参考答案：C
+【莽学解析】C is correct. Stratified random sampling involves dividing a population into
+subpopulations based on one or more classification criteria. Then, simple random samples are
+drawn from each subpopulation in sizes proportional to the relative size of each subpopulation.
+These samples are then pooled to form a stratified random sample.C是正确的。分层随机抽样包括根
+据一个或多个分类标准将一个群体划分为若干子群体。然后，从每个子群体中抽取与每个子群体的相对大小
+成比例的简单随机样本。然后将这些样本合并形成分层随机样本。
+ 
+98.A pooled estimator is used when testing a hypothesis concerning the:
+A.equality of the variances of two normally distributed populations.
+B.difference between the means of two at least approximately normally distributed populations
+with unknown but assumed equal variances.
+C.difference between the means of two at least approximately normally distributed populations
+with unknown and assumed unequal variances.
+参考答案：B
+【莽学解析】： B is correct. The assumption that the variances are equal allows for the
+combining of both samples to obtain a pooled estimate of the common variance. ： B正确。 方差相
+等的假设允许两个样本的组合以获得共同方差的综合估计量。 补充如图信息，Sp的平方就是pooled
+estimator（综合估计量），是在： 1.检验两个正太分布的总体均值是否相等 2.其中总体方差未知但是假定
+相等 这两个条件下使用的
+ 
+99.Which of the following assets most likely requires the use of a multivariate distribution
+for modeling returns?
+A.A call option on a bond
+B.A portfolio of technology stocks
+C.A stock in a market index
+参考答案：B
+【莽学解析】： B is correct. Multivariate distributions specify the probabilities for a group
+of related random variables. A portfolio of technology stocks represents a group of related
+assets. Accordingly, statistical interrelationships must be considered, resulting in the need
+to use a multivariate normal distribution. ： B正确。 多元分布指定了一组相关随机变量的概率。科
+技股投资组合代表一组相关资产。因此，必须考虑统计上的相互关系，从而需要使用多元正态分布。
+ 
+100.Otema Chi has a spreadsheet with 108 monthly returns for shares in Marunou Corporation. He
+writes a software program that uses bootstrap resampling to create 200 resamples of this
+Marunou data by sampling with replacement. Each resample has 108 data points. Chi’s program
+calculates the mean of each of the 200 resamples, and then it calculates that the mean of these
+200 resample means is 0.0261. The program subtracts 0.0261 from each of the 200 resample means,
+squares each of these 200 differences, and adds the squared differences together. The result is
+0.835. The program then calculates an estimate of the standard error of the sample mean. The
+estimated standard error of the sample mean is closest to:
+A.0.0115
+B.0.0648
+C.0.0883
+参考答案：B
+【莽学解析】B is correct.The estimate of the standard error of the sample mean with bootstrap
+resampling is calculated as follows:
+ B是正确的。 在bootstrapping中，它的步骤是这样的：1.从总体中随机抽取n个数作为样本，把这个样本集
+（sample）视为“（新）总体”；2.从（新）总体中，抽取第一个样本后放回，再抽取第二个再放回，以此
+类推，重复n次；重复抽样形成第一个样本集1（样本容量和新总体相同，均为n）3.不断重复第二步，形成
+B个样本集（样本1，样本2……样本B）；4.计算每一个样本集的均值X拔（共B个），并计算所有B个样本均值
+的均值E(X拔)。5.计算B个样本均值的标准差，即估计量的标准误，公式如下图。 从上述过程看出：从总体
+中抽取得到的sample 当做一个新的总体，那么sample mean就是样本，对样本求标准差，带入的是样本方差
+的计算公式然后开根号即可，计算出的就是题目要求解的答案。故，此时样本平均值的标准误差估计值，带
+入公式计算如下图：
+ 
+ 
+101.When making a decision in investments involving a statistically significant result, the:
+A.economic result should be presumed meaningful.
+B.statistical result should take priority over economic considerations.
+C.economic logic for the future relevance of the result should be further explored.
+参考答案：C
+【莽学解析】： C is correct. When a statistically significant result is also economically
+meaningful, one should further explore the logic of why the result might work in the future. ：
+C正确。 当一个统计上有意义的结果在经济上也有意义时，人们应该进一步探索为什么这个结果在未来可能
+行得通。
+ 
+102.A limitation of Monte Carlo simulation is:
+A.its failure to do “what if” analysis.
+B.that it requires historical records of returns
+C.its inability to independently specify cause-and-effect relationships.
+参考答案：C
+【莽学解析】： C is correct. Monte Carlo simulation is a complement to analytical methods.
+Monte Carlo simulation provides statistical estimates and not exact results. Analytical
+methods, when available, provide more insight into cause-and-effect relationships ： C正确。 蒙
+特卡罗模拟是对分析方法的一种补充，提供统计估计层面的结果，而不是（根据真实数据分析后得出）准确
+的结果。技术分析方法可以更深入地了解因果关系而不是模特卡罗模拟。也就是说蒙特卡洛模拟是通过假设
+某些分布然后进行模拟，不能体现出如回归分中两个变量的关系。
+ 
+103.The lowest boundary of a normal distribution is:
+A.-1.
+B.-∞.
+C.Zero.
+参考答案：B
+【莽学解析】By definition, a true normal distribution has a positive probability density
+function from negative to positive infinity.根据定义，正态分布具有正概率密度函数，其中X的取值范
+围从负无穷到正无穷。
+ 
+104.An analyst tests the profitability of a trading strategy with the null hypothesis being
+that the average abnormal return before trading costs equals zero. The calculated t-statistic
+is 2.802, with critical values of ± 2.756 at significance level α = 0.01. After considering
+trading costs, the strategy’s return is near zero. The results are most likely:
+A.statistically but not economically significant.
+B.economically but not statistically significant.
+C.neither statistically nor economically significant.
+参考答案：A
+【莽学解析】： A is correct. The hypothesis is a two-tailed formulation. The t-statistic of
+2.802 falls outside the critical rejection points of less than –2.756 and greater than 2.756,
+therefore the null hypothesis is rejected; the result is statistically significant. However,
+despite the statistical results, trying to profit on the strategy is not likely to be
+economically meaningful because the return is near zero after transaction costs ： A正确。 这个
+假设用到了双尾公式。2.802这个t统计量落在小于-2.756且大于2.756的关键拒绝点之外，因此拒绝原假设
+；结果具有统计学意义。然而，尽管有这些统计结果，试图从这一策略中获利在经济上不太可能有意义，因
+为扣除交易成本后，回报率接近于零。
+ 
+105.The probability of correctly rejecting the null hypothesis is the:
+A.p-value.
+B.power of a test.
+C.level of significance.
+参考答案：B
+【莽学解析】： B is correct. The power of a test is the probability of rejecting the null
+hypothesis when it is false. ： B正确。 Power of a test是指：当原假设为假时，拒绝原假设的概率。
+ 
+106.A sample mean is computed from a population with a variance of 2.45. The sample size is 40.
+The standard error of the sample mean is closest to:
+A.0.039.
+B.0.247.
+C.0.387.
+参考答案：B
+【莽学解析】B is correct. Taking the square root of the known population variance to determine
+the population standard deviation (σ) results in:
+The formula for the standard error of the sample mean (σX), based on a known sample size (n),
+is:
+ B正确。 已知的总体方差的平方根来确定总体标准偏差(σ)结果: σ= 2.45^0.5=1.565 样本均值的标准误
+差的公式(σx),基于已知样本大小(n),是: σx=σ/(n^0.5) 因此, σx=1.565/(40^0.5) =0.247
+ 
+107.A random number between zero and one is generated according to a continuous uniform
+distribution. What is the probability that the first number generated will have a value of
+exactly 0.30?
+A.0%
+B.30%
+C.70%
+参考答案：A
+【莽学解析】： A is correct. The probability of generating a random number equal to any fixed
+point under a continuous uniform distribution is zero. ： A正确。 在连续均匀分布下，产生一个等
+于任意不动点的随机数的概率为零。
+ 
+108.A population has a non-normal distribution with mean μ and variance σ^2. The sampling
+distribution of the sample mean computed from samples of large size from that population will
+have:
+A.the same distribution as the population distribution.
+B.its mean approximately equal to the population mean.
+C.its variance approximately equal to the population variance.
+参考答案：B
+【莽学解析】： B is correct. Given a population described by any probability distribution
+(normal or non-normal) with finite variance, the central limit theorem states that the sampling
+distribution of the sample mean will be approximately normal, with the mean approximately equal
+to the population mean, when the sample size is large. ： B正确。 用任意存在有限方差的概率分布
+(正态或非正态)描述的总体，中心极限定理认为，当样本容量较大时，样本均值的抽样分布近似正态，其均
+值近似等于总体均值。
+ 
+109.A call option on a stock index is valued using a three-step binomial tree with an up move
+that equals 1.05 and a down move that equals 0.95. The current level of the index is $190, and
+the option exercise price is $200. If the option value is positive when the stock price exceeds
+the exercise price at expiration and $0 otherwise, the number of terminal nodes with a positive
+payoff is:
+A.one.
+B.two.
+C.three.
+参考答案：A
+【莽学解析】A is correct. Only the top node value of $219.9488 exceeds $200.
+ A正确。只有顶部节点值$219.9488超过$200。
+ 
+ 
+110.An analyst is examining a large sample with an unknown population variance. Which of the
+following is the most appropriate test to test the hypothesis that the historical average
+return on an index is less than or equal to 6%?
+A.One-tailed t-test
+B.Two-tailed t-test
+C.One-sided chi-square test
+参考答案：A
+【莽学解析】A is correct. If the population sampled has unknown variance and the sample is
+large, a z-test may be used. Hypotheses involving “greater than” or “less than”
+postulations are one sided (one tailed). In this situation, the null and alternative hypotheses
+are stated as H0: μ ≤ 6% and Ha: μ > 6%, respectively. A one-tailed t-test is also
+acceptable in this case, and the rejection region is on the right side of the distribution. ：
+A正确。 如果抽样的总体方差未知且样本较大，则可采用z检验。涉及“大于”或“小于”假设的假设是单面
+的(单侧的)。在这种情况下，原假设和备择假分别是Ho：μ≤6%和Ha：μ> 6%。单尾t检验在这种情况下也是
+可以接受的。
+ 
+111.Which of the following is characteristic of the normal distribution?
+A.Asymmetry
+B.Kurtosis of 3
+C.Definitive limits or boundaries
+参考答案：B
+【莽学解析】： B is correct. The normal distribution has a skewness of 0, a kurtosis of 3, and
+a mean, median and mode that are all equal. ： B正确。 正态分布的偏度为0，峰度为3，均值、中值和
+众数均相等。
+ 
+112.In a discrete uniform distribution with 20 potential outcomes of integers 1 to 20, the
+probability that X is greater than or equal to 3 but less than 6, P(3 ≤ X ＜ 6), is:
+A.0.10.
+B.0.15.
+C.0.20.
+参考答案：B
+【莽学解析】B is correct. The probability of any outcome is 0.05, P(1) = 1/20 = 0.05. The
+probability that X is greater than or equal to 3 but less than 6, which is expressed as P(3 ≤
+X ＜ 6) = P(3) + P(4) + P(5) = 0.05 + 0.05 + 0.05 = 0.15 B正确。 任何结果的概率都是0.05,P(1) =
+1/20 = 0.05。X大于或等于3但小于6的概率，表示为P(3 ≤X ＜ 6) = P(3)＋P(4)＋P(5) =
+0.05＋0.05＋0.05 = 0.15。
+ 
+113.Which of the following statements is correct with respect to the p-value?
+A.It is a less precise measure of test evidence than rejection points.
+B.It is the largest level of significance at which the null hypothesis is rejected.
+C.It can be compared directly with the level of significance in reaching test conclusions.
+参考答案：C
+【莽学解析】： C is correct. When directly comparing the p-value with the level of
+significance, it can be used as an alternative to using rejection points to reach conclusions
+on hypothesis tests. If the p-value is smaller than the specified level of significance, the
+null hypothesis is rejected. Otherwise, the null hypothesis is not rejected. ： C正确。 当直接
+比较p值与显著性水平时，它是一种替代方法，在假设检验中运用了拒绝点以便得出结论。如果p值小于指定
+的显著性水平，则拒绝原假设。否则，不拒绝原假设。
+ 
+114.Which one of the following statements is true about non-probability sampling?
+A.There is significant risk that the sample is not representative of the population.
+B.Every member of the population has an equal chance of being selected for the sample.
+C.Using judgment guarantees that population subdivisions of interest are represented in the
+sample.
+参考答案：A
+【莽学解析】A is correct. Because non-probability sampling is dependent on factors other than
+probability considerations, such as a sampler’s judgment or the convenience to access data,
+there is a significant risk that non-probability sampling might generate a non-representative
+sampleA是正确的。由于非概率抽样取决于除概率因素以外的其他因素，如采样器的判断或访问数据的便利性
+，因此存在非概率抽样可能产生非代表性样本的重大风险
+ 
+115.For a sample size of 65 with a mean of 31 taken from a normally distributed population with
+a variance of 529, a 99% confidence interval for the population mean will have a lower limit
+closest to:
+A.23.64.
+B.25.41.
+C.30.09.
+参考答案：A
+【莽学解析】A is correct. To solve, use the structure of Confidence interval = Point estimate
+± Reliability factor × Standard error, which, for a normally distributed population with
+known variance, is represented by the following formula:
+ A正确。 置信区间=点估计±置信因子×标准误差，对于方差已知的正态分布总体，置信区间为: 样本均值
+±Z(a/2)*σ/(n^0.5) 在99%置信区间下，用z(0.005) = 2.58。 同时,σ= 529^0.5 = 23。 因此，下限=
+31-2.58*23/(65^0.5)=23.6398
+ 
+ 
+116.Perkiomen Kinzua, a seasoned auditor, is auditing last year’s transactions for Conemaugh
+Corporation. Unfortunately, Conemaugh had a very large number of transactions last year, and
+Kinzua is under a time constraint to finish the audit. He decides to audit only the small
+subset of the transaction population that is of interest and to use sampling to create that
+subset. The most appropriate sampling method for Kinzua to use is:
+A.judgmental sampling.
+B.systematic sampling.
+C.convenience sampling.
+参考答案：A
+【莽学解析】A is correct. With judgmental sampling, Kinzua will use his knowledge and
+professional judgment as a seasoned auditor to select transactions of interest from the
+population. This approach will allow Kinzua to create a sample that is representative of the
+population and that will provide sufficient audit coverage. Judgmental sampling is useful in
+cases that have a time constraint or in which the specialty of researchers is critical to
+select a more representative sample than by using other probability or non-probability sampling
+methods. Judgement sampling, however, entails the risk that Kinzua is biased in his selections,
+leading to skewed results that are not representative of the whole population.A是正确的。通过判
+断抽样，Kinzua将利用他作为经验丰富的审计师的知识和专业判断，从人群中选择感兴趣的交易。这种方法
+将允许Kinzua创建一个代表总体的样本，并提供足够的审计覆盖率。在有时间限制的情况下，或者研究人员
+的专业对于选择比使用其他概率或非概率抽样方法更具代表性的样本至关重要的情况下，判断抽样是有用的
+。然而，判断抽样带来的风险是，Kinzua在他的选择中存在偏见，导致不代表整个人群的偏斜结果。
+ 
+117.A stock is priced at $100.00 and follows a one-period binomial process with an up move that
+equals 1.05 and a down move that equals 0.97. If 1 million Bernoulli trials are conducted, and
+the average terminal stock price is $102.00, the probability of an up move （　） is closest
+to:
+A.0.375.
+B.0.500.
+C.0.625.
+参考答案：C
+【莽学解析】： C is correct. The probability of an up move （　） can be found by solving the
+equation: （　）uS ＋ (1 – p)dS = （　）105 ＋ (1 – p)97 = 102. Solving for p gives 8p = 5,
+so that p = 0.625. C正确。 向上移动（　）的概率可以通过求解下列方程得到:（　）uS＋(1 - p)dS =
+（　）105＋(1 - p)97 = 102。解p得到8p = 5，所以p = 0.625。 题目中描述1mil次伯努利实验后，可以得
+到平均价格102美元，这里指的是通过概率计算出来的平均价格。伯努利事件只有两个结果，结合本题，上涨
+和下跌，我们知道了对应的幅度，可以计算概率p和1-p。
+ 
+118.Which of the following statements is correct regarding the chi-squaretest ofindependence?
+A.The test has a one-sided rejection region.
+B.The null hypothesis is that the two groups are dependent.
+C.If there are two categories, each with three levels or groups, there are six\ndegrees of
+freedom.
+参考答案：A
+【莽学解析】A is correct. The test statistic comprises squared differences between theobserved
+and expected values, so the test involves only one side, the right side.B is incorrect because
+the null hypothesis is that the groups are independent,and C is incorrect because with three
+levels of groups for the two categoricalvariables, there are four degrees of freedom.
+ 
+119.Which of the following statements about hypothesis testing is correct?
+A.The null hypothesis is the condition a researcher hopes to support.
+B.The alternative hypothesis is the proposition considered true without conclusive evidence to
+the contrary.
+C.The alternative hypothesis exhausts all potential parameter values not accounted for by the
+null hypothesis.
+参考答案：C
+【莽学解析】： C is correct. Together, the null and alternative hypotheses account for all
+possible values of the parameter. Any possible values of the parameter not covered by the null
+must be covered by the alternative hypothesis (e.g., H0: θ ≤ 5 versus Ha: θ > 5). ： C正确。
+总的来说，原假设和备择假设解释了参数的所有可能值。任何没有被原假设覆盖的参数值都必须被备择假设
+覆盖，例如：(e.g., 原假设: θ ≤ 5 ，备择假设: θ > 5).
+ 
+120.For a two-sided confidence interval, an increase in the degree of confidence will result
+in:
+A.a wider confidence interval.
+B.a narrower confidence interval.
+C.no change in the width of the confidence interval.
+参考答案：A
+【莽学解析】： A is correct. As the degree of confidence increases (e.g., from 95% to 99%), a
+given confidence interval will become wider. A confidence interval is a range for which one can
+assert with a given probability 1 – α, called the degree of confidence, that it will contain
+the parameter it is intended to estimate. ： A正确。 随着置信程度的增加(例如，从95%到99%)，给定
+的置信区间将变得更宽。置信区间是一个范围，对应一定的概率1 –α，叫做置信度，它将包含要研究估计
+的参数。
+ 
+121.Jill Batten is analyzing how the returns on the stock of Stellar Energy Corp. are related
+with the previous month’s percentage change in the US Consumer Price Index for Energy
+(CPIENG). Based on 248 observations, she has computed the sample correlation between the
+Stellar and CPIENG variables to be -0.1452. She also wants to determine whether the sample
+correlation is significantly different from zero. The critical value for the test statistic at
+the 0.05 level of significance is approximately 1.96. Batten should conclude that the
+statistical relationship between Stellar and CPIENG is:
+A.significant, because the calculated test statistic is outside the bounds of the critical
+values for the test statistic.
+B.significant, because the calculated test statistic has a lower absolute value than the
+critical value for the test statistic.
+C.insignificant, because the calculated test statistic is outside the bounds of the critical
+values for the test statistic.
+参考答案：A
+【莽学解析】A is correct. The calculated test statistic is
+Because the value of t = －2.30177 is outside the bounds of ±1.96, we reject the null
+hypothesis of no correlation and conclude that there is enough evidence to indicate that the
+correlation is different from zero. 计算出检验统计量是： t=[r(n-2)^0.5]/[(1-r^2)]=[-0.1452(248-
+2)^0.5]/{[(1-(-0.1452)^2)]^0.5}=-2.30177 由于t = -2.30177的绝对值大于1.96，故相关系数具有统计学
+意义。
+ 
+ 
+122.An analyst develops the following capital market projections.
+Assuming the returns of the asset classes are described by normal distributions, which of the
+following statements is correct?
+A.Bonds have a higher probability of a negative return than stocks.
+B.On average, 99% of stock returns will fall within two standard deviations of the mean.
+C.The probability of a bond return less than or equal to 3% is determined using a Z-score of
+0.25.
+参考答案：A
+【莽学解析】： A is correct. The chance of a negative return falls in the area to the left of
+0% under a standard normal curve. By standardizing the returns and standard deviations of the
+two assets, the likelihood of either asset experiencing a negative return may be determined: Z-
+score (standardized value) = (X – μ)/σ Z-score for a bond return of 0% = (0 – 2)/5 =
+–0.40. Z-score for a stock return of 0% = (0 – 10)/15 = –0.67. For bonds, a 0% return falls
+0.40 standard deviations below the mean return of 2%. In contrast, for stocks, a 0% return
+falls 0.67 standard deviations below the mean return of 10%. A standard deviation of 0.40 is
+less than a standard deviation of 0.67. Negative returns thus occupy more of the left tail of
+the bond distribution than the stock distribution. Thus, bonds are more likely than stocks to
+experience a negative return. ： A正确。 在标准正态曲线下，落在0%左侧的区域代表的是负收益。通过
+标准化两个资产的回报和标准差，资产收益为负回报的可能性可能决定：z分数(标准化值)= (X -μ)/σ 债
+券收益率为0%的z值=(0 - 2)/5 = - 0.40。 股票收益率为0%的z值=(0 - 10)/15 = - 0.67。 对于债券来说
+，0%的回报率比2%的平均回报率低0.40个标准差。相比之下，对于股票来说，0%的回报率比10%的平均回报率
+低0.67个标准差。0.40的标准差小于0.67的标准差。因此，相比于股票，负收益占据了债券左尾更多的分布
+面积。因此，债券比股票更有可能出现负回报。
+ 
+123.On 1 January 2004, the value of an investor's portfolio is $89,000. The investor plans to
+donate $6,000 to charity organization and pay $2,000 to his insurance account on 31 December
+2004, but meanwhile he does not want the year-end portfolio value to be below $89,000. If the
+expected return on the existing portfolio is 12% with a variance of 0.0125, the safety-first
+ratio that would be used to evaluate the portfolio based on Roy's criterion is closest to:
+A.0.269.
+B.0.365.
+C.0.471.
+参考答案：A
+【莽学解析】Roy's safety-first criterion states that the optimal portfolio minimizes the
+probability that the return of the portfolio falls below some minimum acceptable level. This
+minimum acceptable level is called the "threshold" level. Symbolically, Roy's safety-first
+criterion can be stated as: Maximize the SFR where Where:
+ 
+ 
+ 罗伊第一安全比率指出，最优投资组合将投资组合的回报率降至某个最小可接受水平以下的概率最小化（最
+小化P（R<=RL）。 这个最小可接受的收益率称为“阈值”收益率（RL）。罗伊的安全第一标准可以表述为
+：最大化SFR，其中：
+ 
+ 
+124.The level of significance of a hypothesis test is best used to:
+A.calculate the test statistic.
+B.define the test’s rejection points.
+C.specify the probability of a Type II error.
+参考答案：B
+【莽学解析】： B is correct. The level of significance is used to establish the rejection
+points of the hypothesis test. ： B正确。 显著性水平用于建立假设检验的拒绝点。
+ 
+125.If the probability that a portfolio outperforms its benchmark in any quarter is 0.75, the
+probability that the portfolio outperforms its benchmark in three or fewer quarters over the
+course of a year is closest to:
+A.0.26
+B.0.42
+C.0.68
+参考答案：C
+【莽学解析】C is correct. The probability that the performance is at or below the expectation
+is calculated by finding F(3) = p(3) + p(2) + p(1) using the formula:
+Therefore, F(3) = p(3) + p(2) + p(1) + p(0) = 0.42 + 0.20 + 0.06 + 0.004 = 0.684 or
+approximately 68 percent C正确。 这题问：1年中，有小于等于三个季度，股票表现好于市场的概率。1个
+季度两种情况，相当于做了伯努利实验；1年4个季度，相当于4次试验，此时服从二项分布，所以这个就是二
+项分布的计算。包括4种情况，第一，1年中没有任何一个季度股票表现好于市场，P（0）第二，1年中有1个
+季度股票表现高于市场，P（1）第三，1年中有2个季度股票表现高于市场，P（2）第四，1年中有3个季度股
+票表现高于市场，P（3）通过计算F(3) = p(3)＋ p(2)＋p(1) p(0)，可以计算出性能达到或低于预期的概率
+: 解法1： 通过计算F(3) = p(3)＋ p(2)＋p(1) p(0)，可以计算出性能达到或低于预期的概率:
+P(x)=P(X=x)=[n!/(n-x)!x!](p^x)[(1-p)^(n-x)] 使用这个公式, P(3)= [4!/(4-3)!3!](0.75^3)[(1-
+0.75)^(4-3)]=[24/6](0.42)(0.25)=0.42 P(2)= [4!/(4-2)!2!](0.75^2)[(1-0.75)^(4-
+2)]=[24/4](0.56)(0.06)=0.20 P(1)= [4!/(4-1)!1!](0.75^1)[(1-0.75)^(4-1)]=[24/6](0.75)(0.02)=0.06
+P(0)= [4!/(4-0)!0!](0.75^0)[(1-0.75)^(4-0)]=[24/24](1)(0.004)=0.004 因此，F(3) = p(3)＋ p(2)＋
+p(1)＋ p(0) = 0.42＋ 0.20＋ 0.06＋ 0.004 = 0.684，约为68%。 解法2： P(4)= [4!/(4-
+4)!4!](0.75^4)[(1-0.75)^(4-4)]=0.31640625 F(3)=1-P(4)=1-0.31640625=0.68359375
+ 
+ 
+126.The value of a test statistic is best described as the basis for deciding whether to:
+A.reject the null hypothesis.
+B.accept the null hypothesis.
+C.reject the alternative hypothesis.
+参考答案：A
+【莽学解析】： A is correct. Calculated using a sample, a test statistic is a quantity whose
+value is the basis for deciding whether to reject the null hypothesis. ： A正确。 用样本计算
+，检验统计量是一个值，这个值决定了是否拒绝原假设。
+ 
+127.An analyst is investigating the relationship between the annual growth in consumer spending
+(CONS) in a country and the annual growth in the country’s GDP (GGDP). The analyst estimates
+the following two models:
+Which of following statement about the functional form used in these models are correct?
+A.Model 2 is the simple linear regression with no variable transformation, whereas Model 1 is a
+lin-log model with the natural log of the variable CONS as the independent variable.
+B.Model 1 is the simple linear regression with no variable transformation,\nwhereas Model 2 is
+a lin-log\nmodel with the natural log of the variable\nCONS as the independent variable.
+C.Model 1 is the simple linear regression with no variable transformation, whereas Model 2 is a
+Log-log model with the natural log of the variable CONS as the independent variable.
+参考答案：B
+【莽学解析】B is correct. Model 1 is the simple linear regression with no variable
+transformation,whereas Model 2 is a lin-logmodel with the natural log of the variableCONS as
+the independent variable.这道题目说：An analyst is investigating the relationship between the
+annual growth in consumer spending (CONS) in a country and the annual growth in the country’s
+GDP (GGDP). The analyst estimates the following two models:所以GGDP就是因变量Y，CONS是自变量X。
+第一个模型是Y和X直接做回归，所以就属于普通的单元回归(simple linear regression)。而第二个模型是
+Y(GGDP）不变，用ln（CONS）作为自变量，也就是用Y和ln X回归，属于Lin-log model。前面的lin表示Y不
+变，-后面的log表示X要取对数。所以这题选b
+128.A portfolio has an expected return of 7% with a standard deviation of 13%. For an investor
+with a minimum annual return target of 4%, the probability that the portfolio return will fail
+to meet the target is closest to:
+A.33%.
+B.41%.
+C.59%.
+参考答案：B
+【莽学解析】B is correct. There are three steps, which involve standardizing the portfolio
+return: First, subtract the portfolio mean return from each side of the inequality: P(Portfolio
+return – 7%) ≤ 4% – 7%). Second, divide each side of the inequality by the standard
+deviation of portfolio return: P[(Portfolio return–7%)/13% ≤ (4% – 7%)/13%] = P(Z ≤
+–0.2308) = N(–0.2308). Third, recognizethat on the left-hand side we have a standard normal
+variable, denoted by Z and N(–x) = 1 – N(x). Rounding –0.2308 to –0.23 for use with the
+cumulative distribution function (cdf) table, we have N(–0.23) = 1 – N(0.23) = 1 – 0.5910 =
+0.409, approximately 41 percent. The probability that the portfolio will underperform the
+target is about 41 percent. B正确。 有三个步骤，涉及到标准化投资组合收益:首先，从不等式的每一边
+减去投资组合平均收益:P(投资组合收益- 7%)≤4% - 7%)。其次，等式两边同时除以投资组合收益的标准差
+:P[(投资组合收益- 7%)/13%≤(4% - 7%)/13%]= P(Z≤- 0.2308)= N(- 0.2308)。第三，在左边我们有一个
+标准正太分布的变量，用Z和N(- x) = 1 - N(x)表示。在使用累积分布函数(cdf)表时，N(- 0.23) = 1 -
+N(0.23) = 1 - 0.5910 = 0.409，约占41%。投资组合表现不佳的可能性约为41%。
+ 
+129.An increase in sample size is most likely to result in a:
+A.wider confidence interval.
+B.decrease in the standard error of the sample mean.
+C.lower likelihood of sampling from more than one population.
+参考答案：B
+【莽学解析】： B is correct. All else being equal, as the sample size increases, the standard
+error of the sample mean decreases and the width of the confidence interval also decreases. ：
+B正确。 在其他条件相同的情况下，随着样本量的增大，样本均值的标准误差减小，置信区间的宽度也减小
+。
+ 
+130.A client holding a ￡2,000,000 portfolio wants to withdraw ￡90,000 in one year without
+invading the principal. According to Roy’s safety-first criterion, which of the following
+portfolio allocations is optimal?
+ 
+A.Allocation A
+B.Allocation B
+C.Allocation C
+参考答案：B
+【莽学解析】B is correct. Allocation B has the highest safety-first ratio. The threshold return
+level RL for the portfolio is ￡90,000/￡2,000,000 = 4.5%, thus any return less than RL = 4.5%
+will invade the portfolio principal. To compute the allocation that is safety-first optimal,
+select the alternative with the highest ratio:
+ B正确。 投资组合B的安全第一比率最高。投资组合的门槛收益率为￡90,000/￡2,000,000 = 4.5%，因此任
+何低于RL = 4.5%的收益率都会影响到投资组合的本金。要计算安全第一的最优配置，选择比率最高的值:
+Allocation A = (6.5-4.5)/8.35= 0.240 Allocation B = (7.5=4.5)/10.21= 0.294 Allocation C = (8.5-
+4.5)/14.34= 0.279
+ 
+ 
+131.Which of the following events can be represented as a Bernoulli trial?
+A.The flip of a coin
+B.The closing price of a stock
+C.The picking of a random integer between 1 and 10
+参考答案：A
+【莽学解析】： A is correct. A trial, such as a coin flip, will produce one of two outcomes.
+Such a trial is a Bernoulli trial. ： A正确。 一次试验，比如抛硬币，会产生两种结果中的一种。这
+样的试验是伯努利试验。
+ 
+132.Which of the following statements regarding a one-tailed hypothesis test is correct?
+A.The rejection region increases in size as the level of significance becomes smaller.
+B.A one-tailed test more strongly reflects the beliefs of the researcher than a two-tailed
+test.
+C.The absolute value of the rejection point is larger than that of a two-tailed test at the
+same level of significance.
+参考答案：B
+【莽学解析】： B is correct. One-tailed tests in which the alternative is “greater than” or
+“less than” represent the beliefs of the researcher more firmly than a “not equal to”
+alternative hypothesis. ： B正确。 相比于双尾检验，在显著性水平一致的情况下，单尾检验在尾部的显
+著性水平更大，拒绝原假设的概率更大。
+ 
+133.An estimator with an expected value equal to the parameter that it is intended to estimate
+is described as:
+A.efficient.
+B.unbiased.
+C.consistent.
+参考答案：B
+【莽学解析】： B is correct. An unbiased estimator is one for which the expected value equals
+the parameter it is intended to estimate. ： B正确。 无偏估计量是指期望值等于它要估计的参数的估
+计量。
+ 
+134.If an estimator is consistent, an increase in sample size will increase the:
+A.accuracy of estimates.
+B.efficiency of the estimator.
+C.unbiasedness of the estimator.
+参考答案：A
+【莽学解析】： A is correct. A consistent estimator is one for which the probability of
+estimates close to the value of the population parameter increases as sample size increases.
+More specifically, a consistent estimator’s sampling distribution becomes concentrated on the
+value of the parameter it is intended to estimate as the sample size approaches infinity. ：
+A正确。 一致估计量是指估计值接近总体参数值的概率随样本量的增大而增大的估计值。更具体地说，当样
+本容量趋近于无穷时，一致估计量的抽样分布将集中于它要估计的参数的值。
+ 
+135.Which of the following statements on p-value is correct?
+A.The p-value indicates the\nprobability of making a Type II error.
+B.The lower the p-value, the weaker\nthe evidence for rejecting the H0.
+C.The p-value is the smallest level\nof significance at which H0 can be rejected.
+参考答案：C
+【莽学解析】： A is correct. The p-value isthe smallest level of significance (α) at which the
+null hypothesis can berejected. ： A正确。 p值是最小可以拒绝原假设的显著性水平。
+ 
+136.Which of the following is a Type I error?
+A.Rejecting a true null hypothesis
+B.Rejecting a false null hypothesis
+C.Failing to reject a false null hypothesis
+参考答案：A
+【莽学解析】： A is correct. The definition of a Type I error is when a true null hypothesis is
+rejected. ： A正确。 类型I错误的定义是：当原假设为真时，拒绝原假设。
+ 
+137.X is a discrete random variable with possible outcomes X = {1,2,3,4}. Three functions f(x),
+g(x), and h(x) are proposed to describe the probabilities of the outcomes in X.
+The conditions for a probability function are satisfied by:
+A.f(x).
+B.g(x).
+C.h(x).
+参考答案：B
+【莽学解析】： B is correct. The function g(x) satisfies the conditions of a probability
+function. All of the values of g(x) are between 0 and 1, and the values of g(x) all sum to 1.
+： B正确。 函数g(x)满足概率函数的条件。g(x)的所有值都在0和1之间，g(x)的所有值的和都是1。
+ 
+138.Homoskedasticity is best described as the situation in which the variance of the residuals
+of a regression is:
+A.zero.
+B.normally distributed.
+C.constant across observations.
+参考答案：C
+【莽学解析】C is correct. Homoskedasticity is the situation in which the variance of the
+residuals is constant across the observations.C是正确的。同方差是指残差方差在观测值中保持不变的
+情况。
+ 
+139.The weekly closing prices of Mordice Corporation shares are as follows:
+The continuously compounded return of Mordice Corporation shares for the period August 1 to
+August 15 is closest to:
+A.6.90%
+B.7.14%
+C.8.95%
+参考答案：A
+【莽学解析】： A is correct. The continuously compounded return of an asset over a period is
+equal to the natural log of period’s change. In this case: ln(120/112) = 6.90% ： A正确。 资产
+在一段时期内的连续复利收益等于期间变化的自然对数。在这种情况下: ln (120/112) = 6.90%
+ 
+140.A hypothesis test for a normally-distributed population at a 0.05 significance level
+implies a:
+A.95% probability of rejecting a true null hypothesis.
+B.95% probability of a Type I error for a two-tailed test.
+C.5% critical value rejection region in a tail of the distribution for a one-tailed test.
+参考答案：C
+【莽学解析】： C is correct. For a one-tailed hypothesis test, there is a 5% critical value
+rejection region in one tail of the distribution. ： C正确。 对于单尾假设检验来说，在这个分布的
+单个尾巴上，有5%的拒绝区域。
+ 
+141.Which of the following represents a correct statement about the p-value?
+A.The p-value offers less precise information than does the rejection points approach.
+B.A larger p-value provides stronger evidence in support of the alternative hypothesis.
+C.A p-value less than the specified level of significance leads to rejection of the null
+hypothesis.
+参考答案：C
+【莽学解析】： C is correct. The p-value is the smallest level of significance at which the
+null hypothesis can be rejected for a given value of the test statistic. The null hypothesis is
+rejected when the p-value is less than the specified significance level. ： C正确。 当给定检验
+统计量值，p值是最小可以拒绝原假设的显著性水平。当p值小于指定的显著性水平时，拒绝原假设。
+ 
+142.Whichof the following tests of a hypothesis concerning the population mean is
+mostappropriate?
+A.A z-test if the population variance is unknown and the sample is small
+B.A z-test if the population is normally distributed with a known variance
+C.A t-test if the population is non-normally distributed with unknown variance and a small
+sample
+参考答案：B
+【莽学解析】： B is correct. The z-test istheoretically the correct test to use in those
+limited cases when testing thepopulation mean of a normally distributed population with known
+variance. ： B正确。 理论上，有限情况下，z检验是：检验已知方差的正态分布总体均值时的正确检验，
+ 
+143.Investor believes that the mean price of houses in the area is greater than $135,000. A
+random sample of 25 houses in the area has a mean price of $139,750. The population standard
+deviation is $24,000, and he wants to conduct a hypothesis test at a 1% level of significance.
+The value of the calculated test statistic is closest to:
+A.0.67.
+B.0.99.
+C.2.00.
+参考答案：B
+【莽学解析】The test statistic can be calculated without knowing population distirbution: Test
+statistic=(139750-135000)/(24000/5)=0.99.
+ 
+144.An investment consultant conducts two independent random samples of five-year performance
+data for US and European absolute return hedge funds. Noting a return advantage of 50 bps for
+US managers, the consultant decides to test whether the two means are different from one
+another at a 0.05 level of significance. The two populations are assumed to be normally
+distributed with unknown but equal variances. Results of the hypothesis test are contained in
+the following tables.
+The results of the hypothesis test indicate that the:
+A.null hypothesis is not rejected.
+B.alternative hypothesis is statistically confirmed.
+C.difference in mean returns is statistically different from zero.
+参考答案：A
+【莽学解析】A is correct.The calculated t-statistic value of 0.4893 falls within the bounds of
+the critical t-values of ±1.984. Thus, H0 cannot be rejected; the result is not statistically
+significant at the 0.05 level. A正确。 0.4893这个t统计量不落在临界值之间的拒绝区域(≤-1.984或>
+1.984)。相反，它落在接受区域之内。因此，Ho不能被拒绝；结果在0.05显著性水平下不显著。
+ 
+145.A portfolio manager annually outperforms her benchmark 60% of the time. Assuming
+independent annual trials, what is the probability that she will outperform her benchmark four
+or more times over the next five years?
+A.0.26
+B.0.34
+C.0.48
+参考答案：B
+【莽学解析】B is correct. To calculate the probability of 4 years of outperformance, use the
+formula:
+ 
+Using this formula to calculate the probability in 4 of 5 years, n = 5, x = 4 and p =
+0.60.Therefore,
+The probability of outperforming 4 or more times is p(4) + p(5) = 0.2592 + 0.0778 = 0.3370 B正
+确。 要计算4年的均是优越表现的概率，可以使用以下公式: P(x)=P(X=x)=[n!/(n-x)!x!](p^x)[(1-p)^(n-
+x)] 用这个公式计算5年内4次优越的概率，n = 5, x = 4, p = 0.60。 因此, P(4)= [5!/(5-
+4)!4!](0.6^4)[(1-0.6)^(5-4)]=[120/24](0.1296)(0.40)=0.2592 P(5)= [5!/(5-5)!5!](0.6^5)[(1-
+0.6)^(5-5)]=[120/120](0.0778)(1)=0.0778 超过4次或4次以上的概率是p(4)＋p(5) = 0.2592＋ 0.0778 =
+0.3370 补充计算器按键步骤： 以：P(4)= [5!/(5-4)!4!](0.6^4)[(1-0.6)^(5-
+4)]=[120/24](0.1296)(0.40)=0.2592 为例 每个部分依次按（其中“ ”表示两个按键的连接并不是“加号
+”）： 1.5!/(5-4)!4!]：“5” “2ND” “ ” “4” “=”得出5 2.(0.6^4)：“0.6” “yx” “4”得出
+0.12960 3.[(1-0.6)^(5-4)]：“1” “-“ ”0.6” “=” “yx” “1”=0.4 将以上3个部分相乘
+5x0.12960x0.4=0.25920
+ 
+ 
+146.For a small sample from a normally distributed population with unknown variance, the most
+appropriate test statistic for the mean is the:
+A.z-statistic.
+B.t-statistic.
+C.χ2 statistic.
+参考答案：B
+【莽学解析】： B is correct. A t-statistic isthe most appropriate for hypothesis tests of the
+population mean when thevariance is unknown and the sample is small but the population is
+normallydistributed. ： B正确。当方差未知且样本很小，但总体呈正态分布时，t统计量最适用于总体均
+值的假设检验。
+ 
+147.A Type II error is best described as:
+A.rejecting a true null hypothesis.
+B.failing to reject a false null hypothesis.
+C.failing to reject a false alternative hypothesis.
+参考答案：B
+【莽学解析】： B is correct. A Type II error occurs when a false null hypothesis is not
+rejected. ： B正确。 当原假设是错误的，没有拒绝原假设，此时发生第二类错误。
+ 
+148.The following table shows the significance level (α) and the p-value for two hypothesis
+tests.
+In which test should we reject the null hypothesis?
+A.Test 1 only
+B.Test 2 only
+C.Both Test 1 and Test 2
+参考答案：B
+【莽学解析】B is correct. The p-value is the smallest level of significance (α) at which the
+null hypothesis can be rejected. If the p-value is less than α, the null is rejected. In Test
+1, the p-value exceeds the level of significance, whereas in Test 2, the p-value is less than
+the level of significance.B是正确的。p值是可以拒绝原假设的最小显著性水平（α）。如果p值小于
+α，则拒绝空值。在测试1中，p值超过显著性水平，而在测试2中，p值低于显著性水平。
+ 
+149.Which of the following is a continuous random variable?
+A.The value of a futures contract quoted in increments of $0.05
+B.The total number of heads recorded in 1 million tosses of a coin
+C.The rate of return on a diversified portfolio of stocks over a three-month period
+参考答案：C
+【莽学解析】： C is correct. The rate of return is a random variable because the future
+outcomes are uncertain, and it is continuous because it can take on an unlimited number of
+outcomes. ： C是正确的。回报率是一个随机变量，因为未来的结果是不确定的，它是连续的，因为它可以
+有无限个结果。
+ 
+150.Which one of the following statements about Student’s t-distribution is false?
+A.It is symmetrically distributed around its mean value, like the normal distribution.
+B.It has shorter (i.e., thinner) tails than the normal distribution.
+C.As its degrees of freedom increase, Student’s t-distribution approaches the normal
+distribution.
+参考答案：B
+【莽学解析】B is correct. Since it is false, student’s t-distribution has longer (fatter)
+tails thanthe normal distribution and, therefore, it may provide a more reliable,
+moreconservative downside risk estimate. 题目要选择错误的选项： 因为与正态分布相比，t分布的尾部
+是更肥的，因此，它可以提供更可靠、更保守的下行风险估计。故选项B的说法错误的。 故选项B是本题正确
+的选项。
+ 
+151.When evaluating mean differences between two dependent samples, the most appropriate test
+is a:
+A.z-test.
+B.chi-square test.
+C.paired comparisons test.
+参考答案：C
+【莽学解析】C is correct. A paired comparisons test is appropriate to test the mean differences
+of two samples believed to be dependent. C正确。成对数检验适用于检验，被认为是相关的两个样本的
+均值差异。
+ 
+152.Compared with bootstrap resampling, jackknife resampling:
+A.is done with replacement.
+B.usually requires that the number of repetitions is equal to the sample size.
+C.produces dissimilar results for every run because resamples are randomly drawn.
+参考答案：B
+【莽学解析】B is correct. For a sample of size n, jackknife resampling usually requires n
+repetitions. In contrast, with bootstrap resampling, we are left to determine how many
+repetitions are appropriate. B是正确的。对于大小为n的样本，切片法通常需要重复n次。相比之下，使
+用自助法重抽样，我们需要确定适当的重复次数。
+ 
+153.A portfolio has an expected mean return of 8 percent and standard deviation of 14 percent.
+The probability that its return falls between 8 and 11 percent is closest to:
+A.8.3%
+B.14.8%.
+C.58.3%.
+参考答案：A
+【莽学解析】A is correct. P(8% ≤ Portfolio return ≤ 11%) = N(Z corresponding to 11%) –N(Z
+corresponding to 8%). For the first term, Z = (11% – 8%)/14% = 0.21 approximately, and using
+the table of cumulative normal distribution given in the problem, N(0.21) = 0.5832. To get the
+second term immediately, note that 8 percent is the mean, and for the normal distribution 50
+percent of the probability lies on either side of the mean. Therefore, N(Z corresponding to 8%)
+must equal 50 percent. So P(8% ≤ Portfolio return ≤ 11%) = 0.5832 – 0.50 = 0.0832 or
+approximately 8.3 percent. A正确。 P(8%≤投资组合收益率≤11%)= N(11%对应的Z值) -N(8%对应的Z值
+)。 对于上面公式中的第一项11%对应的Z值，Z =(11% - 8%)/14%约等于0.21，利用累积正态分布表
+，N(0.21) = 0.5832。 8%是均值，正态分布中，50%的观测值落在均值左侧，另外50%落在均值右侧，因此
+，N(8%均值对应的Z值)一定等于50%。 因此，P(8%≤投资组合收益率≤11%)= 0.5832 - 0.50 = 0.0832或大
+约8.3%。
+ 
+154.In contrast to normal distributions, lognormal distributions:
+A.are skewed to the left.
+B.have outcomes that cannot be negative.
+C.are more suitable for describing asset returns than asset prices.
+参考答案：B
+【莽学解析】： B is correct. By definition, lognormal random variables cannot have negative
+values. ： B正确。 根据定义，对数正态随机变量不能为负值。

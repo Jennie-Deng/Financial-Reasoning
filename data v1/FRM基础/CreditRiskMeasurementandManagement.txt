@@ -1,0 +1,2276 @@
+
+1.Which of the following methods of mitigating counterparty risk is most likely to generate
+systemic risk?
+A.Netting.
+B.Collateral.
+C.Hedging.
+D.Central counterparties.
+参考答案：D
+【莽学解析】Mitigating counterparty risk often leads to the generation of other types of risk.
+In the case of central counterparties, systemic risk is created as counterparty risk has been
+centralized with a limited amount of groups. If one of these groups fails, a substantial shock
+may be experienced by the financial system as a whole.在有中央对手方参与的情况下，由于对手方风
+险集中在有限的参与人员中，因此会产生系统性风险。
+ 
+2.Which of the following statements regarding lending and counterparty risk is true?
+A.Counterparty risk is defined as the possibility that an obligator will default on an
+outstanding loan.
+B.Lending risk is defined as the possibility that either party to a derivative transaction will
+fail to meet its obligations.
+C.Counterparty risk is very different from and more complex than lending risk.
+D.Counterparty risk and lending risk are the same.
+参考答案：C
+【莽学解析】Counterparty risk is very different from and more complex than lending risk.
+Counterparty risk is defined as the possibility that either party to a derivative transaction
+will fail to meet its obligations. Lending risk is defined as the possibility that an obligator
+will default on an outstanding loan.对手风险和贷款风险有很大的区别，它比贷款风险更复杂。对手风
+险是指衍生品交易的任何一方不能履行义务的可能性。贷款风险是指贷款方对未偿贷款的可能性。
+ 
+3.Which of the following statements is least accurate regarding a credit support annex (CSA)
+and/or an ISDA Master Agreement?
+A.ISDA Master Agreements help standardize collateral management.
+B.CSAs must define all collateralization parameters in order to work as intended.
+C.Compared to the ISDA Master Agreement, CSAs were first to establish collateral standards.
+D.CSAs are incorporated into an ISDA Master Agreement.
+参考答案：C
+【莽学解析】The purpose of a credit support annex (CSA) incorporated into an ISDA Master
+Agreement is to allow the parties to the agreement to mitigate credit risk through the posting
+of collateral. A CSA is created to govern issues such as collateral eligibility, interest rate
+payments, timing and mechanics associated with transfers, posted collateral calculations,
+haircuts to collateral securities (if applicable), substitutions of collateral, timing and
+methods for valuation, reuse of collateral, handling disputes, and collateral changes that may
+be triggered by various events. In order to work as they are intended to work, CSAs must define
+all collateralization parameters and account for any scenarios that may impact both the
+counterparties and the collateral they are posting.在场外交易中，如果是用ISDA来规定抵押品的相关
+要求，可以通过信用支持附件（Credit Support Annex，CSA）进行具体规定，包括可接受的抵押品种类，交
+割的方式、时间和地点等。信用支持附件可以选择单边CSA或者双边CSA。
+ 
+4.Riggs Resources, LLC, (Riggs) is a commodity trading firm. Riggs has numerous trades
+outstanding with several counterparties; however, it is concerned with presettlement risk. In
+order to reduce presettlement risk (the risk that Riggs's counterparties would default before
+settlement), it would be most beneficial for Riggs to
+A.Have payment netting.
+B.Have close-out netting.
+C.Analyze potential losses as the sum of exposures.
+D.Have netting but not set-off.
+参考答案：B
+【莽学解析】To minimize presettlement risk, Riggs should have close-out netting. Under close-
+out, contracts between solvent and insolvent counterparties are terminated and netted. Payment
+netting would reduce settlement and operational risk, but not presettlement risk. Netting also
+means individual positive exposures are nonadditive. The terms netting and set-off are
+synonymous.为了最大程度地降低结算前风险，Riggs应该使用净额结算。
+ 
+5.Bank A, which is AAA rated, trades a 10-year interest rate swap (semi-annual payments) with
+Bank B, which is rated A-. Because of Bank B's poor credit rating, Bank A is concerned about
+the 10-year exposure it is going to run because of the swap deal. Which of the following
+measures help mitigate Bank A's credit exposure to Bank B? Ⅰ Negotiate a CSA with Bank B and
+efficiently manage the collateral management system Ⅱ Execute the swap deal as a reset swap
+wherein the swap will be marked to market every six months Ⅲ Execute the swap deal with a
+break clause in the fifth year Ⅳ Decrease the frequency of coupon payments from semi-annual to
+annual
+A.I only
+B.IV only
+C.I, II, III and IV
+D.I, II and III
+参考答案：D
+【莽学解析】●'I' is correct. Negotiating a CSA and getting collateral from the counterparty is
+an effective way of mitigating credit exposure. ●'II' is correct. In a reset swap since the
+swap is marked to market every period, the credit exposure we run is only for that period i.e.
+till the next reset; this implies lesser exposure. ●'III' is correct. A break clause is always
+useful since it gives the counterparties an opportunity to assess whether they want to continue
+for the rest of the term of the swap. ●'IV' is incorrect. Decreasing the frequency of payments
+increases the credit exposure rather than decreasing it. This is because, more the time for the
+next payment, greater are the chances for the market rates to move in one counterparty's favor,
+thereby increasing its credit exposure to the other counterparty.减少付款频率会增加而不是减少信
+用风险
+ 
+6.What does netting permit a firm to do?
+A.Pay only the losses due to unfavorable market prices.
+B.Net all of its gains against all of its losses.
+C.Net its transaction with a given counterparty against each other.
+D.Pay the losses only if the counterpart defaults.
+参考答案：C
+【莽学解析】Netting reduces actual payment to the net between what is due to a counterparty and
+what is due from the counterparty.净额结算减少了应收交易对手款项与应付交易对手款项之间的净实际
+支付额
+ 
+7.Which of the following would not generally decrease credit risk?
+A.Entering into an interest-rate swap with a counterparty
+B.Signing a legally-binding netting agreement covering a portfolio of OTC derivative trades
+with a counterparty
+C.Clearing an existing trade through a clearing house
+D.Purchasing a credit derivative from a AAA-rated institution that pays USD 5 million if a bond
+defaults
+参考答案：A
+【莽学解析】●A is correct. Entering into an interest rate swap causes the firm to be exposed
+to the credit risk of the swap counterparty. ●B is incorrect. Netting agreements are one of
+the most powerful ways for controlling exposures. The purpose of these agreements is to provide
+for netting of payments across a set of contracts. ● C is incorrect. Executing a trade through
+a clearing house will generally decrease credit risk. The counterparty to the contract is now
+the clearinghouse. Most clearinghouses are well capitalized and their risk of default is
+effectively zero. ●D is incorrect. Credit derivatives are contracts that pass credit risk from
+one counterparty to another. A long position in the credit derivative will help to decrease
+credit risk as it pays USD 5 million if the bond defaults.进行利率互换交易会使公司承受互换交易
+对手方的信用风险。
+ 
+8.Which of the following statements is not an improvement that centrally cleared markets offer
+relative to bilateral markets?
+A.Centrally cleared markets improve the counterparty risk picture by replacing the original
+counterparty with a series of counterparties.
+B.Centrally cleared markets remain market-neutral by netting trades.
+C.Centrally cleared markets formalize the default work-out process by utilizing a loss
+waterfall structure.
+D.Centrally cleared markets offer more flexibility in contract selection because of their
+collateral collecting process.
+参考答案：D
+【莽学解析】Bilateral markets permit any type of customized financial contract and customized
+collateral that is freely negotiated between the two bilateral parties. In a centrally cleared
+market, flexibility is reduced because contracts must be standardized and collateral rules are
+fixed and non-negotiable.在集中清算的市场中，灵活性降低了，因为合同必须标准化。
+ 
+9.Which of the following statements is an enhancement offered by the central counterparty (CCP)
+structure relative to the special purpose vehicle (SPV), the derivative product company (DPC),
+and the monoline insurance models?
+A.The CCP structure enables financial institutions to remove assets from their balance sheets.
+B.The CCP structure enables counterparty risk to be outsourced, but in a non-diversified
+format.
+C.The CCP structure spreads losses over a group of counterparties to minimize potential
+systemic risk.
+D.The CCP structure enables a counterparty transaction originator to fail and not affect the
+other member firms.
+参考答案：C
+【莽学解析】Through the collateralization and the loss mutualization processes, a CCP does
+spread losses over a group of counterparties and in the process reduces potential systemic
+risk. SPVs and DPCs are the entities that remove assets from a financial institution's balance
+sheet. Monoline insurance companies enable counterparty risk outsourcing in a non-diversified
+format. In the event that a counterparty transaction originator fails in the CCP structure,
+then all member firms are impacted through the loss waterfall. It is the DPC that protects
+itself from failure of the transaction originator.中央清算机构（Central Counterparties）是近几
+年FRM考试中较为关注的话题。中央清算机构的本质是单独设立的一家机构，作为所有交易者的对手方参与交
+易。中央清算机构运行时会要求递交抵押品、设立违约基金以及损失共担机制保证交易的正常运行。 通过抵
+押和损失共担机制，CCP将损失分散在一组交易对手中，并且在此过程中降低了潜在的系统性风险。
+ 
+10.An analyst notes that stress testing current exposure is problematic because aggregating
+results is typically not meaningful, although it is easy to account for the credit quality of
+the counterparty. Are the analyst's statements correct?
+A.The analyst is correct with regard to both aggregating results and credit quality.
+B.The analyst is correct with regard to aggregating results only.
+C.The analyst is correct with regard to credit quality only.
+D.The analyst is incorrect with regard to both aggregating results and credit quality.
+参考答案：B
+【莽学解析】The analyst is correct to state that aggregating stress results is not meaningful.
+Simply taking the sum of all exposures only considers the loss that would occur if all
+counterparties were to simultaneously default. This is an unlikely scenario. The analyst's
+statement on credit quality of the counterparty is incorrect since stresses do not factor in
+the credit quality of the counterparty.分析人员说汇总压力测试结果没有意义是正确的。简单地计算所
+有风险敞口的总和，只考虑所有交易对手同时违约时可能发生的损失。这是一个不太可能发生的情况。分析
+师关于交易对手信用质量的陈述是不正确的，因为压力测试并不包括交易对手的信用质量。
+ 
+11.Rarecom is a specialist company that only trades derivatives on rare commodities. Rarecom
+and a handful of other firms, all of whom have large notional outstanding contracts with
+Rarecom, dominate the market for such derivatives. Rarecom management would like to mitigate
+its overall counterparty exposure, with the goal of reducing it to almost zero. Which of the
+following methods, if implemented, could best achieve this goal?
+A.Ensuring that sufficient collateral is posted by counterparties.
+B.Diversifying among counterparties.
+C.Cross-product netting on a single counterparty basis.
+D.Purchasing credit derivatives, such as credit default swaps.
+参考答案：A
+【莽学解析】Counterparty exposure, in theory, can be almost completely neutralized as long as a
+sufficient amount of high quality collateral, such as cash or short-term investment grade
+government bonds, is held against it. If the counterparty were to default, the holder of an
+open derivative contract with exposure to that counterparty would be allowed to receive the
+collateral. Cross-product netting would only reduce the exposure to one of the counterparties,
+and purchasing credit derivatives would replace the counterparty risk from the individual
+counterparties with counterparty risk from the institution who wrote the CDS.从理论上讲，只要有
+足够数量的高质量抵押品，就可以几乎完全抵消交易对手的风险敞口
+ 
+12.Company EFG is a large derivative market-maker that has many contracts with counterparty
+JKL, some transacted in the same legal jurisdiction and others across different legal
+jurisdictions. As a result, EFG has some contracts with JKL covered under legally enforceable
+netting agreement A, some contracts with JKL covered under legally enforceable netting
+agreement B, and some contracts with JKL with no netting agreement. Ignoring the effect of
+margin, if the current value (i.e., market value of the contract minus collateral and recovery
+value) and the netting agreement status of each contract with JKL are as shown below, what is
+EFG's current counterparty credit exposure to JKL?
+ 
+A.USD 8,612
+B.USD 6,914
+C.USD 14,899
+D.USD 10,116
+参考答案：D
+【莽学解析】如下：CE = max (PV1＋PV2＋PV3, 0)   max (PV4＋PV5＋PV6＋PV7, 0)   max (PV8, 0)  
+max (PV9, 0)= max (USD763, 0)   max (USD6914, 0)   max (USD2439, 0)   max (-USD1504, 0)=
+USD763＋USD6914＋USD2439＋0= USD 10,116
+ 
+13.Which of the following statements regarding counterparty credit risk is most accurate ?
+A.Counterparty risk is unilateral.
+B.Over-the-counter (OTC) derivatives contain less counterparty risk than exchange-traded
+derivatives because the counterparty is known .
+C.The precise future value of the contract is uncertain, but the counterparties are aware of
+whether the future value will be positive or negative.
+D.Counterparty risk is typically associated with counterparty default prior to the settlement
+rather than default during the settlement process.
+参考答案：D
+【莽学解析】Counterparty risk is a bilateral risk in that both parties are unaware of the
+eventual value of the contract and they do not know whether they will earn a profit or loss.
+For exchange-traded derivatives, the counterparty is the exchange, which effectively mitigates
+counterparty risk. While counterparty default can happen presettlement and during settlement,
+counterparty risk typically applies to the risk of default prior to settlement.交易对手风险是一
+种双边风险，因为双方都不知道合同的最终价值，也不知道他们是否会盈利或亏损。对于交易所交易的衍生
+品，交易对手就是交易所，它有效地降低了交易对手的风险。虽然交易对手违约可能发生在结算前和结算期
+间，但交易对手风险通常适用于结算前的违约风险
+ 
+14.When dealing with a hedge fund, a bank would most likely negotiate:
+A.A one-way agreement in the bank's favor given the bank's stronger credit rating.
+B.A one-way agreement in the bank's favor agreeing to post collateral to the hedge fund.
+C.A two-way agreement given the relatively small difference in credit quality between the two
+entities.
+D.A two-way agreement where both parties agree to post collateral.
+参考答案：A
+【莽学解析】The bank would most likely negotiate a one-way agreement in its own favor given the
+higher credit quality of the bank. This type of negotiation is typical when there are large
+differences in credit quality between two entities.如果交易双方的信用等级类似，适宜签订双边
+CSA，双方都需要递交抵押品；如果交易双方的信用等级差异较大，适宜签订单边CSA，信用质量差的一方向
+信用质量好的一方递交抵押品。 鉴于银行的信用质量较高，银行很可能以自己的利益进行单向协议谈判
+ 
+15.How many of the following statements regarding counterparty risk are correct? ● Speculation
+in normal-functioning derivatives markets automatically produces RWR. ● RWR has been the
+center of attention in historical context, whereas WWR has not been paid much relative
+attention. ●The counterparty default probability does not enter into the equation for
+estimating the overall counterparty risk. ●Unlike exposure to OTC derivatives, which is
+normally assumed to be a fixed amount for a specified time period, exposure to bank loans
+fluctuates depending on market conditions.
+A.None.
+B.All.
+C.Two.
+D.Three.
+参考答案：A
+【莽学解析】Hedging, and not speculation, in normal functioning markets automatically produces
+RWR. Historically, RWR was relatively neglected by institutions for planning purposes. The
+counterparty default probability is one of the key elements in estimating overall counterparty
+risk. OTC exposures fluctuate based on market conditions.在正常运作的市场中，对冲(而非投机)会产
+生RWR 交易对手违约概率是评估交易对手整体风险的关键因素之一。 OTC风险敞口随市场条件的变化而波动
+。
+ 
+16.When considering counterparty credit risk, which of the following financial products has the
+largest outstanding notional amount in the marketplace
+A.Credit default swaps.
+B.Foreign exchange forwards.
+C.Interest rate swaps.
+D.Repos and reverse repos.
+参考答案：C
+【莽学解析】There are two classes of financial products where counterparty risk exists: over-
+the-counter (OTC) derivatives and securities financing transactions such as repos and reverse
+repos. OTC derivatives are significantly larger with interest rate swaps comprising the bulk of
+the market.存在交易对手风险的金融产品有两类:场外(OTC)衍生品和证券融资交易，如回购和逆回购。场外
+衍生品的规模要大得多，利率互换占据了市场的大部分。
+ 
+17.All of the following could help to reduce the credit exposure on a set of derivative
+transactions except:
+A.daily mark-to-market of transactions
+B.netting agreements with the counterparty
+C.collateral and other credit enhancements
+D.early termination agreements
+参考答案：D
+【莽学解析】Actually, all of the selections may be used to reduce credit exposure. However, you
+could argue that early termination agreements are the least effective because they are
+triggered at precisely the time at which the credit quality of the counterparty is declining.提
+前终止协议的效力最低，因为它们恰好在交易对手的信用质量下降时触发。
+ 
+18.Regarding the impact of changes in the credit spread and recovery rate assumptions on the
+CVA, which of the following statements is true?
+A.A decrease in the credit spread will most often increase the CVA.
+B.For an upward-sloping curve, the CVA will be higher compared to a downward-sloping curve.
+C.Increasing the recovery rate will reduce the CVA.
+D.If the actual recovery rate is higher than the settled recovery rate, the CVA will most
+likely be higher compared to a situation where both recovery assumptions are the same for both
+rates.
+参考答案：C
+【莽学解析】Increasing the recovery rate will increase the implied probability of default but
+reduce the resulting CVA. The CYA will most often increase given an increase in the credit
+spread. When considering the shape of the credit spread curve, the CVA will be lower for an
+upward-sloping curve compared to a downward-sloping curve. Finally, a higher actual recovery
+rate will most likely lead to a lower CYA compared to a situation where the recovery
+assumptions are the same for both actual and settled rates.CVA通常会随着信用利差的增加而增加。
+考虑到信用利差曲线的形状，相对于向下倾斜的曲线，向上倾斜的CVA会更低。最后，与实际回收率和设置的
+回收率假设相同的情况相比，较高的实际回收率很可能导致较低的CVA。
+ 
+19.Given the following three events, what is the proper order of the loss waterfall? Ⅰ Non-
+defaulting member's default fund contributions are exhausted. Ⅱ Defaulting member's collateral
+and default fund contributions are exhausted. Ⅲ CCP taps an amount of its equity that enables
+them to function normally.
+A.I, II, III.
+B.II, III, I.
+C.II, I, III.
+D.Ill, II, I.
+参考答案：B
+【莽学解析】The first layer in the loss waterfall is for the defaulting member's collateral and
+default fund contributions to be exhausted. The next layer is for the CCP to tap into its own
+equity to the point where it could still function normally. Then, non-defaulting members will
+have their default funds exhausted before moving to the rights of assessment.会员在注册成为会员
+的时候，要注入违约基金（Default Funds）。如果当市场出现极端的情况，但违约方提供的所有的资金，比
+如违约方提供的保证金和违约金等，当与违约方相关的资金全部都用完后，那么接下来所有的风险是在所有
+的会员之间，互相进行共担的。也就是说，所有的会员都要承担接下来的风险，这就是风险共担的机制。
+ 
+20.Which of the following trading instruments would have the most beneficial effect on netting?
+A.Options with up-front premiums.
+B.Equity options.
+C.FX options.
+D.Futures.
+参考答案：D
+【莽学解析】A trading instrument will have a beneficial effect on netting if it can have a
+negative mark-to-market (MtM) value during its life. For instruments whose MtM value can only
+be positive during their life, the effect on netting will not be as beneficial. Instruments
+with only positive MtM values include options with up-front premiums such as equity options, as
+well as swaptions, caps and floors, and FX options. Futures can have negative MtM values.如果交
+易工具在其合约存续期间内会产生负市价（MtM）值，则净额结算会产生有利影响。期货就有可能产生负的市
+价。
+ 
+21.Which of the following statements best reflects the reason why a financial institution does
+not need to consider aggregating stresses to the expected positive exposure (EPE) with its loan
+portfolio?
+A.Loans are not sensitive to market variables.
+B.Stresses to EPE are not sensitive to market variables.
+C.The EPE and the loan portfolio are negatively correlated.
+D.The EPE and the loan portfolio are positively correlated.
+参考答案：A
+【莽学解析】A financial institution does not need to consider aggregating stresses to the EPE
+with its loan portfolio, because loans are not sensitive to market variables and, therefore,
+will not have any exposure changes from changes in market variables.金融机构不需要考虑将EPE的压
+力测试与贷款组合结合起来，因为贷款对市场变量不敏感，因此不会因市场变量的变化而产生任何风险敞口
+的变化。
+ 
+22.Miven Corp. has two trades outstanding with one of its counterparties. Which of the
+following scenarios would result in the greatest netting advantage for Miven?
+A.The two trades have strong positive correlation.
+B.The two trades have weak positive correlation.
+C.The two trades are uncorrelated with each other.
+D.The two trades have strong negative correlation.
+参考答案：D
+【莽学解析】The greatest netting benefit among the scenarios presented occurs when the two
+trades have a strong negative correlation. In this case, a large portion of the negative
+exposures will offset positive exposures. 最大的净收益是当两个交易具有很强的负相关性时发生的。
+ 
+23.The risk that one of the parties will fail to meet its obligation to make payments in a swap
+agreement is called:
+A.counterparty risk
+B.operational risk
+C.market risk
+D.notional risk
+参考答案：A
+【莽学解析】Counterparty risk is the risk that party to an agreement will fail to make payments
+when due.互换协议交易的一方不能履行支付义务的风险称为交易对手风险。
+ 
+24.With respect to the CVA calculation, which of the following statements is correct when a
+risk manager wishes to understand which trades have the greatest impact on a counterparty's
+CVA? The manager would use:
+A.Incremental CVA because it accounts for the change in CVA once the new trade is priced,
+accounting for netting.
+B.Marginal CVA because he could break down netted trades into trade level contributions.
+C.Incremental CVA because he could break down netted trades into trade level contributions.
+D.Marginal CVA because it accounts for the change in CVA once the new trade is priced,
+accounting for netting.
+参考答案：B
+【莽学解析】Understanding which trades have the greatest impact on a counterparty's credit
+value adjustment requires use of the marginal CVA. Incremental CVA, by contrast, is useful for
+pricing a new trade with respect to an existing one.增量CVA是指加入一笔新交易对CVA的影响；边际
+CVA是指将整个资产组合拆分成每个资产对于CVA的影响，可以求出单个资产对资产组合的贡献程度。
+ 
+25.Each of the following is true about termination and walkaway features in credit contracts
+except?
+A.Termination events give an institution the right to terminate a trade prior to their
+counterparty's credit-worthiness deteriorating to the point of bankruptcy.
+B.A break clause – a.k.a. liquidity put – is an agreement to terminate a transaction at pre-
+specified dates in the future at market rates.
+C.Break clause are often linked to additional termination events which are not in the
+standardized ISDA documentation and therefore are a result of negotiations.
+D.Walkaway features are parts of the standardized ISDA documentation and \"should be utilized
+in almost all transactions\" as they mitigate counterparty risk.
+参考答案：D
+【莽学解析】●Walkaway feature are not part of the standardized documentation. Walkaway
+features are rather unpleasant and should be avoided for the following reasons: ●They create
+an additional cost for a counterparty in the event of default. ●They create moral hazard since
+an institution is given the incentive to contribute to their counterparty’s default due to the
+financial gain they can make. ●A walkaway feature may be “priced in” to a transaction. The
+possible gains in counterparty default will then offset the negative component due to potential
+losses that may ultimately “hide” some of the risk.“撕毁”条款（Walk Away）如果合约有一方违
+约，另一方的义务也无需履行，可以尽可能的减少不违约方的损失。当不违约方的合约敞口为负时，即为净
+现金流出时，此时walk away条款的履行是对其更有利的。
+ 
+26.Which of the following statements regarding counterparty risk and lending risk is correct?
+A.For an interest-rate swap, counterparty risk exists because default may occur at the end of
+the contract term.
+B.With counterparty risk, there is uncertainty as to which counterparty will have a negative
+mark-to-market value.
+C.Lending risk involves bilateral risks.
+D.With lending risk, the principal amount at risk is known with absolute certainty at the
+outset.
+参考答案：B
+【莽学解析】With counterparty risk, there is uncertainty regarding which counterparty will have
+a negative MtM value. For an interest-rate swap, there is no counterparty risk at the end of
+the contract term because all payments required by the contract would have been made by then.
+With lending risk, only one party (unilateral) takes on risk. In addition, the principal amount
+at risk is known only with reasonable certainty at the outset because changes in interest
+rates, for example, will lead to some uncertainty.交易对手风险与借出资金风险的比较： 借出资金风
+险（Lending Risk）：借出资金风险的承担主体和风险的承担量是确定的； 交易对手风险：交易对手风险的
+承担主体和风险的承担量是不确定的。
+ 
+27.A trader wants to know the approximate CVA for a counterparty in a swap transaction. The
+counterparty's expected potential exposure (EPE) is 7% and its credit spread is 475 basis
+points. What is the CVA as a running spread?
+A.0.33%
+B.1.48%
+C.2.25%
+D.9.75%
+参考答案：A
+【莽学解析】如下：7%×4.75% = 33 bps
+ 
+28.An investor said: "The formula for BCVA is similar to the formula for CVA, except that the
+BCVA formula incorporates the probability of the counterparty's survival and uses EPE." Which
+of the following statements is accurate?
+A.The statement is correct with regard to EPE only.
+B.The statement is correct with regard to probability of survival only.
+C.The statement is incorrect with regard to both EPE and probability of survival.
+D.The statement is correct with regard to both EPE and probability of survival.
+参考答案：B
+【莽学解析】The BCVA formula differs from the CVA formula in that BCVA incorporates negative
+expected exposure (NEE), and the probability of the counterparty's survival must be included in
+the BCVA formula.双边信用价值调整（Bilateral Credit Value Adjustment，BCVA）综合考虑了CVA和
+DVA的共同影响，
+ 
+29.Which of the following reduce(s) a credit exposure by shortening the effective maturity of a
+position? Ⅰ Liquidity put Ⅱ credit trigger
+A.Both I and II
+B.I only
+C.II only
+D.Neither I nor II
+参考答案：A
+【莽学解析】Liquidity puts give the parties the right to settle and terminate trades on pre-
+specified future dates. Credit triggers specify that trades must be settled if the credit
+rating of a party falls below pre-specified levels. Hence the correct combination is both of
+the above i.e. option A.流动性看跌期权赋予当事方在预定的未来日期结算和终止交易的权利。信用触发
+是指，如果一方的信用评级低于预定水平，则必须结算交易。
+ 
+30.Which of the following statements is not a motivation for pricing counterparty risk?
+A.Accurate pricing should only account for the cost of the trade.
+B.Counterparty risk pricing should account for risk mitigants.
+C.Best practices organize pricing responsibilities in the organization.
+D.Pricing bilateral derivatives contracts.
+参考答案：A
+【莽学解析】Accurate pricing should account for not only the cost of the trade, but also the
+cost of counterparty risk.准确的定价不仅要考虑交易成本，还要考虑交易对手风险成本。
+ 
+31.Which of the following statements regarding the International Swaps and Derivatives
+Association (ISDA) Master Agreement is false?
+A.The ISDA Master Agreement is a contract between two parties that governs derivative
+transactions and credit controls.
+B.An ISDA Master Agreement is prepared for every derivatives transaction that occurs between
+two parties.
+C.The ISDA Master Agreement forms a single contract under which multiple derivative contracts
+can be managed.
+D.The ISDA Master Agreement specifies termination events that each pair of counterparties must
+accept.
+参考答案：B
+【莽学解析】An agreement is not prepared for every transactions, rather the ISDA Master
+Agreement forms a single contract under which multiple derivative contracts can be
+managed.ISDA并非为每笔交易都准备一份协议，而是ISDA主协议形成了一个合同，可以管理多个衍生合同。
+ 
+32.A risk manager needs a quick calculation of the BCVA on a swap. Assume inputs are as
+follows: EPE = 5%, ENE = 3%, counterparty credit spread = 300bps, financial institution credit
+spread = 200 bps. Compute BCVA from the perspective of the financial institution.
+A.-1
+B.1
+C.9
+D.-9
+参考答案：C
+【莽学解析】From the perspective of the financial institution: EPE×counterparty credit spread
+– ENE×institution credit spread =5%×300 – 3%×200 = 9 bps This is what the financial
+institution may charge the counterparty for overall counterparty risk.5% × 300 – 3% × 200 =
+9 bps
+ 
+33.Which of the following features is least likely a benefit of collateralization?
+A.Reduces capital requirements.
+B.Allows for more competitive pricing of counterparty risk.
+C.Reduces market, operational, and liquidity risk.
+D.Reduces credit exposure.
+参考答案：C
+【莽学解析】Collateralizing trades reduces credit exposure (credit risk) and capital
+requirements, and allows for more competitive pricing of counterparty risk. However,
+collateralization also creates other risks including market risk (negative equity leaving
+exposures partially or fully uncollateralized),operational risk (legal obstacles to take
+possession of collateral), and liquidity risk (difficulty in selling collateral at a fair
+market value).抵押品会增加，而不是降低市场、信用和流动性风险。
+ 
+34.Assume a sovereign bond has a haircut of 5% and is used for a collateral call of $100,000.
+What amount is credited if a $100,000 bond is submitted, and what amount of bond is needed for
+$100,000 to be credited, respectively?
+A.$100,000; $106,263
+B.$95,000; $100,000
+C.$95,000; $105,263
+D.$105,263; $95,000
+参考答案：C
+【莽学解析】如下:100000*（1-5%）=95000 100000/（1-5%）=105263
+ 
+35.Ondine Financial Inc. (Ondine) uses a variety of techniques to manage counterparty risk. It
+has entered into an interest rate swap with Scarbo Inc. (Scarbo). Currently, Ondine’s position
+in the swap has a -$1 million mark-to-market value. Based on the information provided, which of
+the following credit risk mitigation techniques would be most advantageous to Ondine if Scarbo
+defaults?
+A.Close-out.
+B.Collateralization.
+C.Netting.
+D.Walkaway.
+参考答案：D
+【莽学解析】Since Ondine currently has a negative mark-to-market value and the counterparty is
+defaulting, Ondine is able to cancel the transaction while it is "losing". Netting and close-
+out would require Ondine to make a payment since it would owe a net amount of $1 million.
+Collateralization is not relevant in this scenario.“撕毁”条款（Walk Away）如果合约有一方违约
+，另一方的义务也无需履行，可以尽可能的减少不违约方的损失。当不违约方的合约敞口为负时，即为净现
+金流出时，此时walk away条款的履行是对其是更有利的。
+ 
+36.Liz Parker is a junior quantitative analyst who is preparing a report dealing with credit
+migration. An excerpt of her report contains the following statements: Ⅰ Future default
+probability will likely increase over time, especially for periods far into the future. Ⅱ When
+computing the default probability of a counterparty under a risk-neutral measure, we need to
+first determine the actual default probability. Which of Parker's statements is (are) correct?
+A.I only.
+B.II only.
+C.Both I and II.
+D.Neither I nor II.
+参考答案：D
+【莽学解析】Future default probability will likely decrease over time, especially for periods
+far into the future. This is because of the higher likelihood that the default will have
+already occurred at some earlier point. In computing the default probability of a counterparty
+under a risk-neutral measure, one needs to compute the theoretical market-implied probability;
+the actual default probability applies under a real (historical) measure.未来的违约概率可能会随
+着时间的推移而降低，特别是在未来很长一段时间内。这是因为违约发生在更早时间点的可能性更大。在计
+算风险中性下的交易对手违约概率时，需要计算理论上的市场隐含概率;实际违约概率适用于实际(历史)度量
+。
+ 
+37.The table below illustrates exposures for scenarios involving two trades: Which is nearest
+to the netting factor?
+A.9.92%
+B.37.50%
+C.60.88%
+D.71.43%
+参考答案：D
+【莽学解析】Since Ondine currently has a negative mark-to-market value and the counterparty is
+defaulting, Ondine is able to cancel the transaction while it is "losing". Netting and close-
+out would require Ondine to make a payment since it would owe a net amount of $1 million.
+Collateralization is not relevant in this scenario.
+ 
+38.Risk Averse Bank (RAB) has made a loan of USD 100 million at 8% per annum. RAB wants to
+enter into a total return swap under which it will pay the interest on the loan plus the change
+in the mark-to-market value of the loan and in exchange, RAB will get LIBOR 30bps. Settlement
+payments are made annually. What is the cash flow for RAB on the first settlement data if the
+mark-to-market value of the loan falls by 2% and LIBOR is 6%?
+A.Net inflow of USD 0.3 million
+B.Net outflow of USD 0.3 million
+C.Net inflow of USD 1.7 million
+D.Net outflow of USD 1.7 million
+参考答案：A
+【莽学解析】At the end of the first year, RAB will earn 8 million USD interest on the loan. The
+loan value declined by 2 million USD, thus the return earned by RAB is 6 million USD; this is
+the payment made by RAB. RAB will get LIBOR 30bps = 6%＋0.3% = 6.3%, that is 6.3 million USD.
+So there is a net inflow of 0.3 million.在第一年年底，RAB将获得800万美元的贷款利息。 贷款价值下
+降了200万美元，因此RAB获得的回报为600万美元； 这是RAB支付的款项。 RAB将获得LIBOR 30bps =
+6％＋0.3％= 6.3％，即630万美元。 因此，净流入为30万。
+ 
+39.The buyer of a credit-default swap (CDS):
+A.Has no risk exposure to the combined holdings of the CDS and reference obligation.
+B.Is subject to the credit risk of the seller.
+C.Must place collateral with the seller of the CDS to ensure performance.
+D.Can surrender the CDS for the value of the accumulated payments.
+参考答案：B
+【莽学解析】The buyer of the CDS faces the risk that the seller may not be able to make the
+required payment if the reference obligation defaults. Two factors impact this risk: (1) if the
+probability of the reference obligation default increases with time, then so, too, may the
+probability of seller default, and (2) economic and operational factors may cause an increase
+in the correlation between the default of the reference obligation and the seller's default.如
+果参考标的资产违约，CDS的买方将面临卖方可能无法支付所需付款的风险。
+ 
+40.An investor can gain the exposure and return of an underlying loan by:
+A.Being the credit risk buyer in a total return swap.
+B.Being the credit risk seller in a total return swap.
+C.Entering into an interest-rate swap with a BB credit.
+D.Pledging compensating balances with the lender bank.
+参考答案：A
+【莽学解析】The credit-risk seller pays to the credit-risk buyer the total return of the
+underlying instrument. An investor can gain the exposure and return by being the credit risk
+buyer in a total return swap.信用风险卖方将标的资产的总收益支付给信用风险买方。 通过成为总收益
+互换中的信用风险购买者，投资者可以获得风险敞口和收益。
+ 
+41.You are currently long $10,000,000 par value, 8% XYZ bonds. To hedge your position, you must
+decide between credit protection via a 5-year CDS with 60bp annual premiums or digital swap
+with 50% payout with 50bp annual premiums. After one year, XYZ has defaulted on its debt
+obligations and currently trades at 60% of par. Which of the following statements is true?
+A.The contingent payment from the protection buyer to the protection seller is greater under
+the single-name CDS than the digital swap.
+B.The contingent payment from the protection buyer to the protection seller is less under the
+single-name CDS than the digital swap.
+C.The contingent payment from the protection seller to the protection buyer is greater under
+the single-name CDS than the digital swap.
+D.The contingent payment from the protection seller to the protection buyer is less under the
+single-name CDS than the digital swap.
+参考答案：D
+【莽学解析】Choices A and B can be eliminated because payments in default are made from
+protection seller to protection buyer. The payoff from the digital swap will be 50% of par
+value while the payoff from the single name will be 40% (i.e., 1 – 0.6) of par value.实物交割
+的信用违约互换（Physically Settled CDS）涉及资产的转移，CDS的标的资产从买方转移到卖方，买方会得
+到等同于标的资产面值的赔付额。这里是赔付面值的40%。 数字信用违约互换（Digital CDSs）是现金交割
+的一种特殊方式，对于流动性较差的标的资产，会事先约定固定赔付额进行赔付，比如约定赔付面值的50%。
+这里是赔付面值的50%。
+ 
+42.Which of the following statements is (are) not true regarding a credit default swap (CDS)?
+Ⅰ.The purchaser of a CDS seeks credit protection. Ⅱ.Swap partners make payments based on a
+benchmark credit spread on the reference obligation. Ⅲ.Physical settlement provides the CDS
+buyer the par value of the reference obligation. Ⅳ.A CDS has the same payoffs as a credit
+default put with installment payments.
+A.II only.
+B.I and III.
+C.III only.
+D.II and IV.
+参考答案：A
+【莽学解析】The CDS buyer makes fixed payments to the seller of the CDS for the life of the
+swap or until a credit event occurs.CDS买方在互换期限内或发生信用事件之前，向CDS卖方支付固定费
+用。
+ 
+43.Which of the following statements about credit default swaps is most accurate?
+A.CDSs transfer credit risk and market risk from the protection buyer to the protection seller.
+B.CDSs transfer credit risk from the protection buyer to the issuer of the underlying credit.
+C.Physical settlement requires knowledge of the post-default market price.
+D.Cash settlement avoids the problem of a delivery squeeze.
+参考答案：D
+【莽学解析】One advantage of the cash settlement procedure is that no securities are actually
+traded so the risk of delivery squeeze (i.e., rising price as protection buyers purchase
+reference entities in the open market) is negligible.现金结算程序的一个优势是实际上没有证券交易
+，因此交割风险可以忽略不计。
+ 
+44.Which of the following statements is not correct regarding total return swaps (TRS)?
+A.A TRS is designed to mirror the return on an underlying asset like a loan, stock, or even a
+portfolio of assets.
+B.The payer pays any depreciation in the underlying asset to the receiver
+C.The payer pays any dividends or interest received to the receiver.
+D.The receiver is creating a synthetic long position in the underlying
+参考答案：B
+【莽学解析】A total return swap transfers both credit and market risk. The payer only pays any
+appreciation and any dividends or interest connected with the underlying asset. The receiver is
+responsible to pay the payer any depreciation in the underlying asset.总收益互换（Total Return
+Swaps，TRS）是一种信用衍生产品，总收益互换是将标的资产（贷款、债券或其他资产组合）的总收益与
+LIBOR加上信用价差进行交换，标的资产的总收益包括利息或资产的收益盈亏等。总收益互换不仅可以进行信
+用风险管理，还可以进行其他风险的管理，如市场风险等。因此总收益互换的卖方不仅需要承担信用风险
+，还可能包括市场风险
+ 
+45.In pricing a first-to-default credit basket swap, which of the following is true, all else
+being equal?
+A.The lower the correlation between the assets of the basket, the lower the premium.
+B.The lower the correlation between the assets of the basket, the higher the premium.
+C.The higher the correlation between the assets of the basket, the higher the premium.
+D.The correlation between the assets has no impact in the premium of a first-to- default credit
+basket swap.
+参考答案：B
+【莽学解析】The lower the correlation between the assets of the basket, the higher the premium.
+In the case of a first-to-default swap, a credit event occurs the first time any of the
+entities defaults. This swap provides default protection against losses related to this first
+default, but not to any subsequent defaults. Thus, the question is whether the level of
+correlation between assets of the basket increases or decreases the likelihood of the
+triggering event. If the correlation between the assets in a credit basket swap is lower, the
+basket would be exposed to greater default risk. For example, the basket contains assets from
+different sectors, then the basket would be exposed to the default risk of each and every
+sector in the basket. If the basket only contains assets from one sector, then the correlation
+is higher, and the default risk is lower.一篮子信用违约互换的保费与资产的违约相关性密切相关。主
+要有以下两种情况： 当资产之间的相关性为负时，first to default CDS保费更高； 当资产的相关性为正
+相关且为1时，First to Default CDS与Second to Default CDS的保费相同。
+ 
+46.XYZ Hedge Fund wants to get exposure to a high-yield pool of commercial loans without
+actually investing in the loans. It wants a leverage ratio of 7.5. If the hedge fund is willing
+to invest $35 million in this investment, which credit derivative is best for them and what is
+their expected return given that the reference asset earns LIBOR plus 285 basis points, the
+counterparty earns LIBOR plus 150 basis points, and the required collateral earns 3.5%?
+A.Total return swap with a 13.63% return.
+B.Asset-backed credit-linked note with an 11.34% return.
+C.Total return swap with an 11.34% return.
+D.Asset-backed credit-linked note with a 13.63% return.
+参考答案：D
+【莽学解析】The best credit derivative for this hedge fund is an asset-backed credit-linked
+note. With leverage of 7.5 and an investment of $35 million, we know that the notional value of
+the pool of commercial loans is $262.5 million. The hedge fund will earn 3.5% on their $35
+million in collateral. This translates into $1.225 million, They will also earn the 135 basis
+point spread on the entire $262.5 million. This translates into $3.54375 million. The hedge
+fund’s percentage return is 13.63% [($1.225 million＋$3.54375 million) / $35 million]凭借7.5的
+杠杆率和3500万美元的投资，贷款池的名义价值为2.625亿美元。 该对冲基金将获得其3500万美元抵押品的
+3.5％的回报。这相当于122.5万美元，他们还将在整个2.625亿美元中赚取135个基点。 换算为354.75万美元
+。 对冲基金的百分比回报率为13.63％[（122.5万美元＋354.75万美元）/ 3500万美元]
+ 
+47.A bank that sells a credit default swap will: Ⅰ.Increases the bank’s total risk.
+Ⅱ.Receive investment income without any funding cost. Ⅲ.Makes a regular payment in exchange
+for payment if a specific credit occurs. Ⅳ.Receive investment income in exchange for promising
+to make a payment if a specific credit event occurs.
+A.I and IV only
+B.III and IV only
+C.IV only
+D.I only
+参考答案：A
+【莽学解析】Statements I and IV are correct. Banks that sell a credit default swap (protection
+seller) will receive investment income in exchange for promising to make a payment if a
+specific credit event occurs. Since credit events are random, selling a credit swap will
+increase the total risk of the bank.出售信用违约互换的银行（保护卖方）将获得投资收益，以换取在
+发生特定信用事件时承诺付款。 由于信用事件是随机的，因此出售信用互换将增加银行的总风险。
+ 
+48.Bank One has made a $200 million loan to a software company at a fixed rate of 12 percent.
+The bank wants to hedge its exposure by entering into a Total Return Swap with a counterparty,
+Interloan Co., in which Bank One promises to pay the interest on the loan plus the change in
+the market value of the loan in exchange for LIBOR plus 40 basis points. If after one year, the
+market value of the loan has decreased by 3 percent and LIBOR is 11 percent, what will be the
+net obligation of Bank One?
+A.Net receipt of $4.8 million
+B.Net payment of $4.8 million
+C.Net receipt of $5.2 million
+D.Net payment of $5.2 million
+参考答案：A
+【莽学解析】Bank One would be due: ($200 million)(0.11＋0.0040)= $22.8 million and would owe:
+($200 million)(0.12)+($200 million)(-0.03)= $18.0 million The net obligation of Bank One would
+be $22.8 million – S18 million = $4.8 million.银行应该收的：($200)(0.11＋0.0040)= $22.8 银行应
+该付的：($200)(0.12)＋($200)(-0.03)= $18.0净支出：$22.8 – S18= $4.8.
+ 
+49.A 2-year credit default swap (CDS) specifying physical delivery defaults at the end of two
+years. If the reference asset is a $200 million, 8.0% ABC corporate bond, and the CDS spread is
+125 basis points, the buyer of the CDS will:
+A.Receive payments of 800 basis points for the next two years.
+B.Receive a payment of $167.5 million.
+C.Deliver the bond and receive a payment of $200 million.
+D.Continue to receive payments of 675 basis points for the next two years.
+参考答案：C
+【莽学解析】If the swap specifies physical delivery, the buyer of the swap will deliver the
+reference obligation to the seller and receive the par value of the obligation.实物交割的信用违
+约互换（Physically Settled CDS）涉及资产的转移，CDS的标的资产从买方转移到卖方，买方会得到等同于
+标的资产面值的赔付额。
+ 
+50.The maximum benefits to the buyer of a credit-linked note (CLN) accrue when:
+A.There is a small credit downgrade
+B.There is no credit downgrade
+C.There is a large credit downgrade
+D.There is a default
+参考答案：B
+【莽学解析】The benefit to the CLN buyer is that the buyer earns a high return if there is no
+downgrade or default. The buyer’s primary risk is that there is a downgrade or default and the
+buyer earns a lower return.信用联结票据购买者的收益是当没有降级或违约时，获得的高回报。投资者面
+临最主要的风险是标的资产降级或违约，可能导致投资者“血本无归”。
+ 
+51.In a total return swap, the:
+A.Total return payer bears the risk of holding the reference asset
+B.Total return payer transfers the risk of holding the reference asset to the total return
+receiver
+C.Total return receiver transfers the risk of holding the reference asset to the total return
+payer
+D.Credit risk of the buyer and seller cancel each other out
+参考答案：B
+【莽学解析】In a total return swap, the total return payer transfers the capital gains and
+losses of the reference asset to the total return receiver.
+ 
+52.A default swap acts like a:
+A.Call option on the reference obligation for the buyer of the swap.
+B.Put option on the reference obligation for the buyer of the swap.
+C.Look back option on the reference obligation for the buyer of the swap.
+D.Up-and-out option on the reference obligation for the buyer of the swap.
+参考答案：B
+【莽学解析】A default swap acts like a put option on the reference obligation for the buyer of
+the swap. If there is a default, the buyer receives a payment, which limits the buyer’s
+downside risk.违约互换的行为类似于看跌期权
+ 
+53.A diversified portfolio of OTC derivatives with a single counterparty currently has a net
+mark-to-market of USD 20,000,000 and a gross mark-to-market (the sum of the value of all
+positive value positions minus the value of all negative value positions) of USD 80,000,000.
+Assuming there are no netting agreements in place with the counterparty, determine the current
+credit exposure to the counterparty.
+A.Less than or equal to USD 10,000,000.
+B.Greater than USD 10,000,000 but less than or equal to USD 40,000,000.
+C.Greater than USD 40,000,000 but less than USD 60,000,000.
+D.Greater than USD 60,000,000.
+参考答案：C
+【莽学解析】如下：A-B = $20A＋B = $80 A = $50
+ 
+54.Which of the following exposure measures reflects the average distribution of exposures at a
+specific future date prior to the maturity of the longest maturity transaction within a netting
+set?
+A.Peak exposure.
+B.Current exposure.
+C.Expected exposure.
+D.Expected positive exposure.
+参考答案：C
+【莽学解析】Expected exposure measures the mean distribution of exposures at a given future
+date prior to the maturity of the longest maturity exposure in the netting group.期望敞口
+（Expected Exposure，EE）是指通过对某产品未来收益的分布进行预测，对收益为正的部分取均值。只有正
+值会增加信用风险敞口，而其他值（如0或者负值）对信用敞口是没有贡献度的。
+ 
+55.Is the following statement on the treatment of counterparty credit risk (CCR) correct?
+"Treating CCR as a market risk does not allow an institution to hedge market risk losses, and
+it exposes the institution to declines in counterparty creditworthiness and default."
+A.The statement is correct with regard to both hedging market risk losses and counterparty
+creditworthiness and default.
+B.The statement is incorrect with regard to both hedging market risk losses and counterparty
+creditworthiness and default.
+C.The statement is correct with regard to hedging market risk losses only.
+D.The statement is correct with regard to counterparty creditworthiness and default only.
+参考答案：D
+【莽学解析】Treating CCR as a market risk allows an institution to hedge market risk losses;
+however, it leaves the institution exposed to declines in counterparty creditworthiness and
+default. CCR can be hedged by the ongoing replacement of contracts with a counterparty instead
+of waiting for default to occur.将CCR视为市场风险允许机构对冲市场风险损失;然而，这将使该机构面
+临交易对手信誉下降和违约的风险。CCR可以通过与交易对手不断更新合同来进行对冲，而不是坐等违约发生
+。
+ 
+56.Which of the following security types will most likely result in a peaked shape for the
+exposure profile represented by potential future exposure (PFE)?
+A.Long option position.
+B.Foreign exchange product.
+C.10-year loan with a floating rate payment.
+D.Swap.
+参考答案：D
+【莽学解析】Exposure profiles of swaps are typically characterized by the peaked shape that
+results from balancing future uncertainties over payments and roll-off risk of swap payments
+over time.利率互换（Interest Rate Swap）未来的现金流主要涉及到利息的支付，与远期的差别在于利率
+互换不换本金，而且利率互换的不确定性也是随着期限的增加而上升。由于利率互换是定期交割现金流的
+，现金流交割掉一笔就少一笔，所以未来需要交割的部分是逐渐减少的，这种情况下信用风险敞口会随着时
+间的推移而下降。因此利率互换的信用风险敞口受到两个因素的影响，前期受到现金流不确定性的影响较大
+，信用敞口上升；随着时间的推移，后期交割完成导致现金流减少的影响较大，信用敞口下降，利率互换整
+体上呈现先上升后下降的形态。 货币互换（Cross-Currency Swap）与利率互换相比较而言的主要特点是交
+换本金，货币互换到期会有一笔较大的现金流交换，这笔大额的现金流的交换类似于远期，因此货币互换的
+信用风险敞口相当于利率互换和远期的叠加。
+ 
+57.Which metric for credit exposure is represented by the ? in the following graph?
+ 
+A.Expected positive exposure (EPE).
+B.Potential future exposure (PFE).
+C.Effective EE.
+D.Effective EPE.
+参考答案：A
+【莽学解析】Expected positive exposure (EPE) is equal to average EE over time. It is a useful
+single amount to quantify exposure.有效的期望敞口（Effetive EE）假设信用敞口是非递减的。有效期
+望正敞口（EEPE）是有效的期望敞口的均值，同时考虑了短期大敞口和展期的因素，更合理的反映了合约的
+信用风险情况
+ 
+58.Each of the following is true except?
+A.At any point in time, effective EE cannot be less than EE
+B.(effective) EPE is average (effective) EE over time
+C.Effective EPE cannot be less than EPE
+D.For each point in time, there is a different maximum PFE such that maximum PFE does not
+represent a single value
+参考答案：D
+【莽学解析】Maximum PFE is a single value. Maximum PFE simply represents the highest (peak) PFE
+value over a given time interval.期望敞口（Expected Exposure，EE）是指通过对某产品未来收益的分
+布进行预测，对收益为正的部分取均值 期望正敞口（Expected Positive Exposure，EPE）是整个期间的期
+望敞口取均值，期望正敞口代表了期望敞口（EE）的加权平均值在风险管理中，我们通常关注在未来的某个
+时候，一定的置信水平下，可能面临的最糟糕的风险敞口。极端敞口/潜在未来敞口（Peak
+Exposure/Potential Future Exposure）是指衡量给定置信水平下未来的极端风险敞口 最大潜在风险敞口
+（Maximum PFE）仅代表给定时间区间内最大的极端风险敞口，因此最大潜在风险敞口代表给定时间区间内的
+最差情景敞口（Worst-Case Exposure）
+ 
+59.Which of the following model(s) calculates the change in portfolio value due to rating
+migration of the underlying instruments?
+A.Credit Risk+
+B.Credit Metrics
+C.KMV
+D.Both a and c above are true
+参考答案：B
+【莽学解析】CreditMetrics calculates the change in portfolio value due to credit migration of
+the underlying bond(s) (e.g. change in credit spread).CreditMetrics计算由于基础债券的信用迁移而
+导致的投资组合价值的变化(例如，信贷利差的变化)。
+ 
+60.Which of the following statements best describes the benefit of netting risk exposures? The
+benefits of netting are realized when:
+A.Marked-to-market (mtm) values have high structural correlations for two trades.
+B.Marked-to-market (mtm) values have opposite signs for two trades.
+C.Expected exposure (EE) values are minimal.
+D.Expected future exposure (EFE) values have zero correlation.
+参考答案：B
+【莽学解析】The benefits of netting are realized when MtM values have opposite signs for two
+trades.当两笔交易的MtM值具有相反的符号时，就可以实现净额结算的好处。
+ 
+61.How does the credit exposure of a long OTC put option on XYZ stock change when the stock
+price decreases?
+A.Increases
+B.Decreases
+C.Doesn't vary with underlying stock price
+D.There is no credit exposure on long options
+参考答案：A
+【莽学解析】●Credit exposure from long positions in OTC options, assuming that the credit
+quality of the counterparty remains constant, is driven by the level of the contingent future
+liability, i.e. the larger the expected future claim against the counterparty, the larger the
+credit risk. ●The value of the put at expiration is defined as max(X-S, 0) where X = strike
+price and S = spot price. Therefore, a long put option increases in value as the stock price
+decreases. Thus, the expected liability of our counterparty is increased (choice A).到期看跌期
+权的价值定义为max(X-S, 0)，其中X =执行价格，S =现货价格。因此，看跌期权的价值随着股价的下跌而增
+加。
+ 
+62.Which of the following two transactions increases counterparty credit exposure? Ⅰ Selling a
+forward contract to the counterparty. Ⅱ Selling a call option to the counterparty.
+A.I only.
+B.II only.
+C.Both.
+D.Neither.
+参考答案：A
+【莽学解析】●Selling of forward contract creates credit risk exposure to the counterparty as
+it is subject to the performance of the counterparty, which may default to pay at expiry date.
+●Selling an option (for both call and put) does not create credit risk as it is not subject to
+the performance of the counterparty. The option premium has already been collected when the
+transaction is made and default of the counterparty will have no negative impact on the
+seller.远期合约的出售会给交易对手带来信用风险，这取决于交易对手的表现， 出售期权(包括看涨期权和
+看跌期权)不会产生信用风险，因为期初的权利金已经收到了，只有卖出方才会有违约的可能性
+ 
+63.BNP Paribas has just entered into a plain-vanilla interest-rate swap as a pay-fixed
+counterparty. Credit Agricole is the receive-fixed counterparty in the same swap. The forward
+spot curve is upward-sloping. If LIBOR starts trending down and the forward spot curve
+flattens, the credit risk from the swap will:
+A.Increase only for BNP Paribas
+B.Increase only for Credit Agricole
+C.Decrease for both BNP Paribas and Credit Agricole
+D.Increase for both BNP Paribas and Credit Agricole
+参考答案：B
+【莽学解析】With an upward-sloping term structure, the fixed payer has greater credit exposure.
+He receives less initially, but receives more lately. This back-loading of payments increases
+credit exposure. Conversely, if the forward curve flattens, the fixed payer (i.e., BNP Paribas)
+has less credit exposure. Credit Agricole must have greater credit exposure. Alternatively, if
+LIBOR drifts down, BNP will have to pay more, and its counterparty will have greater credit
+exposure.在这笔利率互换合约中，Credit Agricole收到的是固定利率，支付的是浮动的利息，因此当
+Libor开始下降的时候，Credit Agricole支付的金额会更少，敞口相应会越大，所以信用风险会增加。
+ 
+64.The potential future credit exposure profile peaks at maturity for which of the following
+instruments: Ⅰ FX forwards Ⅱ Interest rate swaps Ⅲ Cross currency swaps with final exchang
+A.I only
+B.II only
+C.I and III
+D.I, II and III
+参考答案：C
+【莽学解析】FX forwards and cross currency swaps with final exchange involves exchanging two
+currencies at rates fixed at inception. Because of this feature, the potential future credit
+exposure profile peaks at maturity for both these instruments. In case of interest rate swaps,
+there is no exchange of notional amounts. Therefore, the profile tends to peak well before
+maturity.利率互换整体上呈现先上升后下降的形态
+ 
+65.Brent Gulick, a credit analyst with Home Town Bank, is considering the loan application of a
+small, local car dealership. The dealership has been solely owned by Bob justice for more than
+20 years and sells three brands of American automobiles. Because of the rural location, most of
+the cars sold in the past by the dealership have been large pick-up trucks and sports utility
+vehicles. However, sales have declined, and gasoline prices have continued to increase. As a
+result, Justice is considering selling a line of hybrid cars. Justice has borrowed from Home
+Town Bank before but currently does not have a balance outstanding with the bank. Which of the
+following statements is not one of the four components of credit analysis Gulick should be
+evaluating when performing the credit analysis for this potential loan?
+A.The business environment, competition, and economic climate in the region.
+B.Justice's character and past payment history with the bank.
+C.The car dealership's balance sheets and income statements for the last few years as well as
+Justice's personal financial situation.
+D.The financial health of Justice's friends and family who could be called upon to guarantee
+the loan.
+参考答案：D
+【莽学解析】There are four primary components of credit risk evaluation: (1) the borrower’s
+(obligor’s) willingness and capacity to repay the loan, (2) the effect of external conditions
+on the borrower’s ability to repay the loan, (3) the inherent characteristics of the credit
+instrument and the extent to which the characteristics affect the borrower’s willingness and
+ability to repay the loan, and (4) the quality and adequacy of risk mitigants such as
+collateral and loan guarantees. In this case, the local business environment, Justice's
+character, his payment history, and the business’s financial positions are all relevant. While
+risk mitigants such as collateral and loan guarantees are part of credit analysis, it is
+unlikely that a local car dealer who has been in business for 20 years would be seeking a loan
+guarantee from a friend or family member. In addition, even if Justice were looking at a
+potential loan guarantor, Gulick would not simply evaluate his “friends and family” but would
+evaluate the specific person or business that intended to guarantee the loan.信用风险评估主要有
+以下四种基本要素（此处主要针对信贷类业务）： 债务人的偿付能力和还款意愿（Obligor's Capacity and
+Willingness to Repay）主要包括债务人的履约能力、履约期限、债务人的信用质量与经营领域等。外部环
+境（External Conditions）包括国家风险和经营条件等，如外贸企业的外贸政策。 特定信用工具的相关特
+征（Characteristics of the Relevant Credit Instrument）是指特定信用产品的具体特征。如次贷危机中
+的次级贷款借款人其自身的信用质量就较差，银行对此类借款人发行可变利率贷款，即贷款的利率在初期较
+低，之后会逐渐升高与市场利率挂钩，而借款人自身可能对此种贷款了解较少，只是认为这是一笔利率较低
+的贷款，那么一旦借款人无法还款，就会出现大规模违约。 信用风险缓释工具（Credit Risk
+Mitigants）主要包括抵押品、债务人层级、担保机构和信用增级机制等。
+ 
+66.Which of the following statements is most likely correct about recovery rates?
+A.Recovery rates vary inversely with capital structure seniority.
+B.Historical recovery rates are fairly constant across industries.
+C.Recovery rates are highest during economic downturns.
+D.Actual recovery rates may differ substantially from settled recovery rates.
+参考答案：D
+【莽学解析】Settled recovery occurs fairly soon after the credit event (e.g., CDS auction or
+sale of defaulted bond), while actual recovery can occur years later based on the bankruptcy
+resolution. Recovery rates increase with capital structure seniority, are lowest during
+economic downturns, and vary significantly across industries.回收率随资本结构优先级的增加而增加
+，在经济衰退期间最低，而且在各个行业之间差别很大。
+ 
+67.Richard Marshall, FRM, is a rating agency analyst who is currently performing financial
+statement analysis on a major bank. Which of the following financial statements would be least
+useful for bank credit analysis?
+A.Balance sheet.
+B.Income statement.
+C.Statement of cash flows.
+D.Statement of changes in capital funds.
+参考答案：C
+【莽学解析】Although the statement of cash flows is most useful for analyzing nonfinancial
+entities (uses of cash and sources of cash differentiated between operating, investing, and
+financing), it is not useful for bank credit analysis.虽然现金流量表在分析非金融实体时最有用
+，但对银行信用分析却没什么用
+ 
+68.An analyst has gathered the following information about ABC Inc. and DEF Inc. The respective
+credit ratings are AA and BBB with 1 -year CDS spreads of 200 and 300 basis points each. The
+associated probabilities of default based on published reports are 10% and 20%, respectively.
+Which of the following statements about the recovery rates is most likely correct?
+A.The market implied recovery rates are equal.
+B.The market implied recovery rate is higher for ABC.
+C.The market implied recovery rate is lower for ABC.
+D.The loss given default is higher for DEF.
+参考答案：C
+【莽学解析】如下：ABC: 200 bps = (1- RR)×(10%), RR=80%DEF: 300 bps =(1 - RR)×(20%), RR=85%
+ 
+69.In regard to bank failures, each of the following is correct, except which is false?
+A.If liabilities exceed assets, a firm is insolvent
+B.Although bank failures are very common, bank insolvencies are historically very rare
+C.Bankruptcy is a legal status, and is not implied by (is not a synonym for) insolvency
+D.It is possible for an insolvent bank to continue to operate
+参考答案：B
+【莽学解析】Bank failures are rare while bank insolvency is far more common.偿付能力衡量的是长
+期的情况，而流动性看的是短期的情况
+ 
+70.Which of the following statements regarding a banking credit analyst's skills is most likely
+correct?
+A.High earnings quality suggests that the bank is profitable.
+B.Peer analysis is facilitated by the standardized nature of financial performance measures.
+C.Although qualitative analytical skills are required, quantitative analytical skills are more
+important.
+D.In analyzing an unfamiliar banking sector, an analyst should start by performing detailed
+reviews of the major banks.
+参考答案：B
+【莽学解析】●Peer analysis refers to the comparison (financial and creditworthiness) of a
+subject bank to similar banks and financial institutions. ●High earnings quality does not
+necessarily mean a bank is profitable. Earnings quality refers to the reliability and
+consistency of the reported earnings. ●Quantitative and qualitative analytical skills are
+equally important and serve different (but related) purposes; qualitative skills are necessary
+to assist in determining the willingness of an entity to repay debt while quantitative skills
+are necessary to assist in determining the ability of an entity to repay debt. ●In analyzing
+an unfamiliar banking sector, the analyst should start with preliminary research on the overall
+structure, characteristics, and nature of regulation. After that, a detailed review of the
+largest (followed by smaller) banks could be performed.在分析一个不熟悉的银行业时，分析师应该从
+对监管的总体结构、特征和性质的初步研究开始。之后，可以对最大(其次是较小的)银行进行详细审查。
+ 
+71.Golin and Delhaise divide credit analysis into four areas according to borrower type:
+Ⅰ.Consumer credit analysis is the evaluation of the creditworthiness of individual consumers;
+Ⅱ.Corporate credit analysis is the evaluation of nonfinancial companies such as manufacturers,
+and nonfinancial service providers; Ⅲ.Financial institution credit analysis is the evaluation
+of financial companies including banks and nonbank financial institutions, such as insurance
+companies and investment funds; Ⅳ.Sovereign/municipal credit analysis is the evaluation of the
+credit risk associated with the financial obligations of nations, subnational governments, and
+public authorities, as well as the impact of such risks on obligations of nonstate entities
+operating in specific jurisdictions. According to Golin and Delhaise, each of the following is
+true about key features of credit analysis with respect to borrower type, except which is not
+true?
+A.Individuals (consumers): Credit analysis is amenable to automation and the use of scoring
+models and statistical tools to correlate risk to limited number of variables
+B.Non-financial corporations: Compared to consumers, tends to be more detailed and \"hands-on\"
+(i.e. less automated); key variables are likely to include liquidity, cash flow, near-term
+earnings capacity and profitability, solvency or capital position
+C.Financial Companies: In contrast to corporate (non-financial) credit analysis, qualitative
+analysis and asset quality are not important, but cash flow is a highly important (a \"key
+indicator\")
+D.Sovereigns: Includes analysis of country risk, which is primarily political dynamics and
+state of the economy; and systematic risk, which includes the regulatory regime and the
+financial system
+参考答案：C
+【莽学解析】Credit analysis of financial companies has much in common with corporate credit
+analysis, but the authors cite two key differences: With respect to financial companies, " The
+differences are: The importance of asset quality; The omission of cash flow as a key
+indicator."对于金融机构的信用风险分析主要关注金融机构的盈利能力（Earnings Capacity），资本充足
+率（Capital Adequacy），资产质量（Asset Quality）以及外部监管政策调整对金融机构的影响。 对于企
+业的信用分析是对制造商、非金融服务商等非金融企业的评价，企业信用风险分析主要关注以下维度： 企业
+的流动性； 企业的现金流； 企业的短期盈利能力和长期盈利能力； 企业的长期偿付能力和资本充足率。
+ 
+72.Blackstone Credit, Inc., made a loan to a small start-up firm. The firm grew rapidly, and it
+appeared that Blackstone had made a good credit decision. However, the firm grew too fast and
+could not sustain the growth. It eventually failed. Blackstone had initially estimated its
+exposure at default to be $1,200,000. Because of the firm's rapid growth and resulting
+increases in the line of credit, Blackstone ultimately lost $1,550,000. In terms of credit
+risk, this is an example of:
+A.Default on payment for goods or services already rendered.
+B.A more severe loss than expected due to a ratings downgrade by a rating agency.
+C.A more severe loss than expected due to a greater than expected exposure at the time of a
+default.
+D.A more severe loss than expected due to a lower than expected recovery at the time of a
+default.
+参考答案：C
+【莽学解析】Blackstone lost more than expected due to greater exposure at the time of default
+than initially estimated. The borrowing firm was a small start-up, so it was not likely rated.
+There were no goods or services rendered in this case. In addition, there is no mention of
+recovery. This is also an example of credit risk arising from default on a financial
+obligation.由于违约时的风险敞口比最初估计的要大，Blackstone的损失超出了预期。这家借款公司是一家
+小型初创企业，因此不太可能被评级。
+ 
+73.ABC Company, domiciled in a country with a strong legal system, is applying for a USD
+100,000 loan with an annual interest rate of 5% to be used exclusively on expanding its
+business and not to repay current debt. The loan will be secured by the company’s factory
+buildings, which have an appraised value of USD 200,000. The company has an annual operating
+profit of USD 3,000. Which of the following statements relating to the credit risk of this
+company can most likely be inferred from the given data?
+A.The company’s capacity to pay is low.
+B.The company’s willingness to pay is low.
+C.The loan exhibits a high loss given default.
+D.The loan’s exposure at default will increase.
+参考答案：A
+【莽学解析】Since the company applied for a loan of 100,000 ($), the annual interest was 5,000
+($) and the value of the collateral was 200,000 ($), but the company's annual operating profit
+was only 3,000 ($), so the company's loan solvency was very low.由于公司所申请贷款为10万（美元
+），年利息为5000（美元），抵押物的价值为20万（美元），但公司的年营业利润仅3000（美元），因此该
+公司的贷款偿付能力很低。
+ 
+74.Krista Skujins, FRM, is a bank credit analyst who is examining the financial statements of a
+bank. She notices that there is a paragraph noted in the auditor's report that states that
+although the auditors agreed with virtually all of the bank's accounting treatments of the
+financial statement items, the auditors did not agree with the bank's decision to treat some of
+the leases as operating leases instead of capital leases. Based on that information , which of
+the following audit report opinions has the auditor most likely issued?
+A.Adverse opinion.
+B.Denial of opinion.
+C.Qualified opinion.
+D.Unqualified opinion.
+参考答案：C
+【莽学解析】This situation is one where a specific accounting treatment used by the bank’s
+management is inconsistent with the accounting rules. It is an isolated instance and so a
+qualified opinion would most likely be issued. 这种情况是指银行管理层使用的特定会计处理与会计准
+则不一致。因此审计很可能会发布一个有保留的意见。
+ 
+75.Sarah Garrison is a newly hired loan officer at Lexington Bank and Trust. Her boss told her
+she needs to make five commercial loans this month to meet her sales goal. Garrison talks to
+friends and hears about a local businessperson with a great reputation. Everyone in town says
+John Johnson is someone you want to meet. Garrison sets up a meeting with Johnson and is
+immediately impressed with his business sense. They discuss a loan for a new venture Johnson is
+considering, and Garrison agrees that it is a great idea. She takes the loan application back
+to the bank and convinces the chair of the loan committee that Lexington Bank and Trust is
+lucky to be able to do business with someone with Johnson's reputation. This is an example of:
+A.Historical analysis technique.
+B.Qualitative analysis technique.
+C.Quantitative analysis technique.
+D.Extrapolation analysis technique.
+参考答案：B
+【莽学解析】Name lending is a qualitative technique that is sometimes used to take the place of
+financial analysis. It is a technique used to evaluate the borrower’s willingness to repay a
+financial obligation.名义贷款是一种定性技术，有时用来代替财务分析。这是一种用来评估借款人偿还债
+务意愿的技术。
+ 
+76.Economic capital calculations for credit risk assume a recovery rate (defined as 1-loss
+rate). Recovery rates are dependent on the business model of the underlying counterparty and
+its asset volatility in value and size. Under normal anticipated circumstances which of the
+following types of companies will have the highest recovery rate?
+A.An internet merchant of designer clothes
+B.A hedge fund
+C.An asset intensive manufacturing company
+D.A commodities trader
+参考答案：C
+【莽学解析】The company with the highest recovery rate will be the company with the most
+tangible assets that can be valued in the event of default. Utilities, for example, have high
+recovery rates because they have large amounts of tangible assets, such as generating plants.
+Of the four choices - internet merchant, hedge fund, asset intensive manufacturing company and
+commodity trader - the asset intensive manufacturer would have the most tangible assets. Thus,
+choice 'C' is the correct choice.回收率最高的公司将是在违约情况下能够估值的有形资产最多的公司。
+ 
+77.Bank of the Plain States has been struggling with poor asset quality for some time. The bank
+lends primarily to large farming operations that have struggled in recent years due to a glut
+of soybeans and corn on the market. Bank regulators have recently required that the bank write
+off some of these loans, which has entirely wiped out the capital of the bank. However, the
+bank still has some liquidity sources it can use, including a correspondent bank and the
+Federal Reserve. Bank of the Plain States is:
+A.An insolvent but not failed bank.
+B.Both a failed bank and an insolvent bank.
+C.Neither a failed bank nor an insolvent bank.
+D.A failed bank but not an insolvent bank.
+参考答案：A
+【莽学解析】Bank of the Plain States is insolvent because capital is wiped out. However, the
+bank has not failed because it is still operating with liquidity from the correspondent bank
+and the Federal Reserve. Therefore，the bank is insolvent but not failed.银行因为资本枯竭而资不
+抵债。然而，这家银行并没有破产，因为它仍在依靠代理行和美联储的流动性运营。因此，这家银行虽然资
+不抵债，但并没有破产。
+ 
+78.A manager of a mutual fund has taken significant credit exposure to Europe and Asia.
+Concerned with uncertain market conditions, the manager wants to change the assumptions in the
+fund’s risk models by increasing the default correlation between bonds issued in Europe and
+bonds issued in Asia. If the default correlation is increased and all the other parameters are
+kept the same, which of the following is true?
+A.The expected loss of the portfolio will increase.
+B.The unexpected loss of the portfolio will decrease.
+C.The expected loss of the portfolio will decrease.
+D.The unexpected loss of the portfolio will increase.
+参考答案：D
+【莽学解析】Default correlation has no effect on the expected losses of the portfolio, but
+increases the unexpected losses of the portfolio.违约相关性对投资组合的预期损失没有影响，但会增
+加投资组合的非预期损失。
+ 
+79.Consider a pair of two speculative credits, rated BB and BB-, with default probabilities
+respectively of 2% and 3%. If their joint default probability is 0.4%, which is nearest to the
+implied default correlation?
+A.Zero
+B.0.083
+C.0.1424
+D.0.3750
+参考答案：C
+【莽学解析】Default correlation = (0.4% - 2% × 3%)/[sqrt(2% × 98%) × sqrt(3% × 97%)] =
+0.142365
+ 
+80.Which of the following statements regarding the role of a corporate credit analyst is most
+likely correct?
+A.Earnings analysis is by far the most important analyst task.
+B.The larger the size of the firm, the lower the cost of analysis.
+C.Analysts are generally required to cover multiple industry areas given the huge diversity
+among corporations.
+D.The smaller the firm, the lower the cost of analysis.
+参考答案：B
+【莽学解析】●With a large public company, there may be a lot of publicly available information
+that would only necessitate secondary research, thereby reducing costs. With a smaller private
+company, less information is likely available, and, as a result, more due diligence and primary
+research would be required, thereby increasing costs. ●Although the basic analytical
+principles are the same, there is huge diversity in the business sectors, products, size, and
+geographic locations of the firms being analyzed. As a result, the corporate credit analyst
+must possess specific industry knowledge in order to be effective。An analyst will most likely
+focus on only one or two industry areas. ●Corporate credit analysts specifically analyze firms
+that are NOT financial institutions. ●Cash flow analysis, not earnings analysis, is key to
+assessing corporate credit risk.公司信用分析师专门分析非金融机构的公司。评估企业信用风险的关键
+是现金流分析，而不是收益分析。
+ 
+81.The KMV model measures the normalized "distance to default". How is this defined?
+A.(Expected Assets - Weighted Debt) \/ (Volatility of assets)
+B.Equity\/ (Volatility of equity)
+C.Probability of stock price falling below a threshold
+D.Leverage x Stock Price Volatility
+参考答案：A
+【莽学解析】The distance to default is defined as (Expected Assets - weighted debt)/(Volatility
+of assets). It is a normalized measure of default and therefore may be used for comparing one
+company to another. It does not tell you the probability of default. In order to extend this
+measure to a probability of default, KMV uses historical default rates to determine an expected
+default frequency as a function of the distance to default.违约距离=（资产-债务阈值）/资产波动
+率
+ 
+82.Suppose a portfolio has a value of $1,000,000 with 50 independent credit positions. Each of
+the credits has a default probability of 2% and a recovery rate of 0%. The credit portfolio has
+a default correlation equal to 0. The number of defaults is binomially distributed and the 95th
+percentile of the number of defaults is 3. What is the credit value at risk at the 95%
+confidence level for this credit portfolio?
+A.$20,000.
+B.$40,000.
+C.$60,000.
+D.$980,000.
+参考答案：B
+【莽学解析】The loss given default is $60,000 [3 x ($1,000,000 / 50)]. The expected loss is
+equal to the portfolio value times π and is $20,000(0.02 x$1,000,000). The credit VaR is
+defined as the quantile of the credit loss less the expected loss of the portfolio. At the 95%
+confidence level, the credit VaR is equal to $40,000 ($60,000 minus the expected loss of
+$20,000).60000-20000=40000
+ 
+83.Under single-factor model, a firm has a beta of 0.40 and an unconditional default
+probability of 1%. If we enter a modest economic downturn, such that the value of m = -1.0,
+what is the conditional default probability? N(2.1) = 0.9820
+A.1.0%
+B.1.8%
+C.2.5%
+D.2.8%
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+84.An analyst has noted that the default frequency in the pharmaceutical industry has been
+constant at 8% for an extended period of time. Based on this information, which of the
+following statements is most likely correct for a randomly selected firm following a Bernoulli
+distribution? Ⅰ.The cumulative probability that a randomly selected firm in the pharmaceutical
+industry will default is constant. Ⅱ.The probability that the firm survives for the next 6
+years without default is approximately 60%.
+A.I only.
+B.II only.
+C.Both I and II.
+D.Neither I nor I.
+参考答案：B
+【莽学解析】Statement I is false because the cumulative probability of default increases (i.e.,
+even the highest rated companies will eventually fail over a long enough period). Statement II
+is true since the probability the firm survives over the next 6 years without default is: (1 –
+0.08)6 = 60.6%.表述一是错误的，因为违约的累积概率是增加的表述二是正确的，因为公司未来6年不违约
+的生存概率是(1 - 0.08)6 = 60.6%
+ 
+85.Suppose a firm has two debt issues outstanding. One is a senior debt issue that matures in
+three years with a principal amount of $100 million. The other is a subordinate debt issue that
+also matures in three years with a principal amount of $50 million. The annual interest rate is
+5% and the volatility of the firm value is estimated to be 15%. If the volatility of the firm
+value declines in the Merton model then which of the following statements is true?
+A.If the firm is experiencing financial distress (low firm value), then the value of senior
+debt will increase while the values of subordinate debt and equity will both decline.
+B.If the firm is not experiencing financial distress (high firm value), then the value of
+senior debt and subordinate debt and equity will increase.
+C.If the firm is experiencing financial distress (low firm value), then the value of senior
+debt and subordinate debt will increase while equity values will declines.
+D.If the firm is not experiencing financial distress (high firm value), then the value of
+senior debt will increase while the values of subordinate debt and equity will both decline.
+参考答案：A
+【莽学解析】When firms with subordinate debt are experiencing financial distress (low firm
+values), changes in the value of subordinate will react to changes in the model parameters in
+the same way as equity. Since equity is valued as a call option in the Merton model, a decline
+in volatility will reduce the value of equity (and subordinate debt). When firms with
+subordinate debt are not experiencing financial distress (high firm values), changes in the
+value of subordinate will react to changes in the model parameters in the same way as senior
+debt. Since senior debt is valued as the difference in firm value less equity valued as a call
+option in the Merton model, a decline in volatility will increase the value of senior debt (and
+subordinate debt).波动率下降，股东权益价值下降，高级债价值上升，次级债则是介于两者之间 公司经历
+财务困境的时候，次级债的表现像股权；当公司没有经历财务困境的时候，次级债的表现像高级债
+ 
+86.The forward probability of default for each of five years is shown as follows:
+ 
+ 
+The cumulative probability of default over the 5-year period is closest to:
+A.10.56%.
+B.11.88%.
+C.12.92%.
+D.14.43%.
+参考答案：D
+【莽学解析】
+87.An investor holds a portfolio of two long assets X and Y, valued recently at USD 85 million
+and USD 112 million, respectively. The 1-year probability of default for assets X and Y is 12%
+and 14%, and the joint probability of default is 4.5%. The loss given default for both assets
+is 45%.Calculate the estimated expected loss on the investor’s portfolio due to credit
+defaults over the next year.
+A.USD 3.9 million
+B.USD 11.6 million
+C.USD 14.2 million
+D.USD 16.5 million
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+88.Which of the following statements is most accurate in regard to describing a good rating
+system?
+A.A specific rating system accurately measures the distance from a default event.
+B.A verifiable rating system requires backtesting default probabilities on at least a monthly
+basis.
+C.A homogeneous rating system provides judgments based solely on credit risk considerations.
+D.An objective rating system results in ratings that can be compared across customer types and
+market segments.
+参考答案：A
+【莽学解析】In order for a rating system to meet the specificity requirement, it must measure
+the distance to a default event. A verifiable rating system requires backtesting on a
+continuous basis. A homogeneous rating system implies that ratings are comparable among
+customer types, market segments, and portfolios. An objective rating system produces judgments
+based on considerations tied to credit risk.好的评级体系的主要特点如下： 可测量性
+（Measurability） 可测量性是指评级体系可以表现出违约概率。 可验证性（Verifiability） 可验证性是
+指通过市场的实际数据可以验证评级体系的准确度。 客观性（Objectivity） 客观性是指评级体系中的评级
+仅仅考虑信用事件，不考虑其他因素。 同质性（Homogeneity） 同质性是指不同主体的信用评级是可以比较
+的，即评级的核心逻辑相同。 具体性（Specificity） 具体性是指通过评级情况即可得到违约情况。
+ 
+89.Which of the following statements regarding the Merton model is true?
+A.A firm with numerous debt issues that mature at different times is easy to value with the
+Merton model.
+B.The Merton model assumes a lognormal distribution and constant variance for changes in firm
+value.
+C.The Merton model is able to predict default because it allows for default surprises (i.e.,
+jumps).
+D.Empirical results indicate that the Merton model is able to predict default better than na?ve
+models for investment grade bonds
+参考答案：B
+【莽学解析】Most firms have a variety of debt instruments that mature at different times and
+have many different coupon rates (i.e., not just zero-coupons as assumed by the Merton model);
+therefore, Choice A is false. The Merton model assumes that the underlying asset follows a
+lognormal distribution with constant variance; therefore, Choice B is true. The Merton model
+does not allow the firm value to jump. Since most defaults are surprises, the inability to have
+jumps in the firm value in the Merton model makes default too predictable; Therefore, Choice C
+is false. Jone, Mason, Rosenfeld (1984) report that a na?ve model of predicting that debt is
+riskless works better for investment grade bonds than the Merton model. However, the Merton
+model works better than the na?ve model for debt below investment grade; therefore, Choice D is
+false.大多数公司有各种各样的债务，它们在不同的时间到期，并且有许多不同的票面利率，这不是默顿模
+型的假设。因此，选项A是错误的。默顿模型假设标的资产服从一个方差恒定的对数正态分布;因此，选项B是
+正确的。默顿模型不允许公司价值跳跃。因此，选项C是错的。默顿模型对投资级以下债券违约预测更有效
+;因此，选项D是错的的。
+ 
+90.Each of the following items represents an example of qualitative information that would
+ideally be captured in assessing default probability except:
+A.Managements education and experience.
+B.Internal controls associated with financial reporting.
+C.Diversification of products and customers locally and globally.
+D.Trends in throughput and other operational efficiency metrics.
+参考答案：D
+【莽学解析】Trends and other efficiency measures that can be captured with metrics are
+considered quantifiable, which means they are not considered qualitative measures. The other
+three items are considered qualitative in that they are not easily and consistently
+quantified.可以用度量来捕获的趋势和其他效率度量被认为是可量化的，这意味着它们不是定性度量。其他
+三个项目被认为是定性的，因为它们不容易量化。
+ 
+91.The cumulative probability of default for a note over two years is 3.8%. If the probability
+of default during the first year is 1.5%, the probability of default during the second year is
+closest to:
+A.2.96%
+B.2.34%
+C.3.17%
+D.3.28%
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+92.A non-dividend paying firm financed with 100% equity issues a zero-coupon bond with a
+principal amount of $50 million due in three years. What are the values of the different
+components of the firm's capital structure at the maturity date of the bond if the firm value
+at that time is $40 million?
+A.$50 million in debt and $10 million in equity.
+B.$10 million in debt and $30 million in equity.
+C.$50 million in debt and $40 million in equity.
+D.$40 million in debt and $0 in equity.
+参考答案：D
+【莽学解析】The value of equity is the value of a call on the value of the firm with an
+exercise price equal to the face value of the zero-coupon bond, ST = Max(VT - F, 0) = Max(40 -
+50, 0) = 0 (i.e., equity has no value). The value of debt is DT = F - Max(F - VT, 0) or
+alternatively, DT = VT - ST ,Therefore, the value of debt is 40 - 0 = 40 = $40 million.ST =
+Max(VT - F, 0) = Max(40 - 50, 0) = 0 DT = VT - ST =40 - 0 = 40 = $40
+ 
+93.The capital structure of ABC Corporation consists of two parts, one 5 year bond with face
+value of $100 million and the rest is equity. The current market value of the firm assets is
+$130 and the expected rate of change of the firm’s value is 25%. The volatility is 30%. The
+firm’s risk management division estimates the distance to default using Merton model. Given
+the distance to default, the estimated physical default probability is? (N(1.92) = 97.25%;
+N(2.58) = 99.52%)
+A.2.75%
+B.12.78%
+C.12.79%
+D.30.56%
+参考答案：A
+【莽学解析】
+ 
+The physical default probability is N(-d2) = 2.75%
+ 
+94.The spread on a one-year BBB rated bond relative to the risk-free treasury of similar
+maturity is 2%. It is estimated that the contribution to this spread by all non-credit factors
+(e.g., liquidity risk, taxes) is 0.8%. Assuming the loss given default rate for the underlying
+credit is 60%, what is approximately the implied default probability for this bond?
+A.3.33%
+B.5.00%
+C.3.00%
+D.2.00%
+参考答案：D
+【莽学解析】The probability of default equals the credit risk spread divided by the loss given
+default. PD = spread/LGD. Here, the spread due to credit risk equals 2.0% - 0.8% or 1.2% and
+the loss given default is 60%. The probability of default is then 2%.风险债券相对与无风险收益的
+信用价差是2%，但在这个信用价差中，包含了其他风险，比如流动性风险、税收等，这些因素对该价差的
+“贡献度”为0.8%。那么信用风险价差为2%-0.8%=1.2%。已知违约损失率LGD为60%，则违约概率
+=1.2%/60%=2%。
+ 
+95.Given the following ratings transition matrix, calculate the two-period cumulative
+probability of default for a 'B' credit.
+ 
+ 
+A.2.0%
+B.2.5%
+C.4.0%
+D.4.5%
+参考答案：D
+【莽学解析】The first period probability of default for a B-rated bond is 2%. In second period
+the probability of default is the probability of surviving year 1 and defaulting in year 2. The
+year 2 probability of default = (0.03×0.00)＋(0.90×0.02)＋(0.05×0.14) = 2.5%. Therefore, the
+two-period cumulative probability of default = 2%＋2.5% = 4.5%.第一年违约概率是2%，第二年违约概
+率是(0.03×0.00)＋(0.90×0.02)＋(0.05×0.14) = 2.5%.总的违约概率是2%＋2.5%=4.5%
+ 
+96.Which of the following methods is typically implemented as the second stage of principal
+component analysis?
+A.Factor analysis.
+B.Divisive clustering.
+C.Hierarchical clustering.
+D.The canonical correlation method.
+参考答案：A
+【莽学解析】Factor analysis is often used as the second stage of principal component analysis.
+In terms of the process, step one is to standardize principal components. Then, the values of
+the new variables (factor loadings) should be standardized.因子分析常被用作主成分分析的第二阶段
+。在流程方面，第一步是对主要成分标准化。然后，应该对新变量的值进行标准化。
+ 
+97.Which of the following equations best defines the default correlation for a two firm credit
+portfolio?
+A.ρ=(π12?π1π2)/(√(π1 (1?π1) ) √(π2 (1?π2)))
+B.ρ=π12/(√(π1(1?π1) ) √(π2 (1?π2)))
+C.ρ=π12/(√((1?π1) ) √( (1?π2)))
+D.ρ=(π12?π1π2)/(√(π1 ) √(π2))
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+98.A bank has an outstanding trade with one of its counterparties with an exposure of $500,000
+and a recovery rate of 70%. The bank estimated that there is a 2% probability that the
+counterparty will default on its obligations. What is the bank’s expected loss?
+A.$3,000
+B.$7,000
+C.$10,000
+D.$150,000
+参考答案：A
+【莽学解析】At a recovery rate of 70%, the recovery amount is $500,000×0.70 = $350,000 The
+loss given default (LGD) is $500,000 - $350,000 = $150,000 Expected loss is (probability of
+default×LGD) = 0.02×$150,000 = $3,000RR=$500,000×0.70 = $350,000LGD=$500,000 - $350,000 =
+$150,000EL= 0.02×$150,000 = $3,000
+ 
+99.Suppose there is a $1,000,000 portfolio with n credits that each have a default probability,
+π = 2% and a zero recovery rate. The default correlation is 0 and n = 1,000. There is a
+probability of 28 defaults at the 95th percentile based on the binomial distribution with the
+parameters of n = 1,000 and π = 0.02. What is the credit VaR at the 95% confidence level based
+on these parameters?
+A.$7,000
+B.$8,000
+C.$9,000
+D.$10,000
+参考答案：B
+【莽学解析】The 95th percentile of the credit loss distribution is $28,000
+(28×$1,000,000/1,000). The expected loss is $20,000 ($1,000,000×0.02). The credit VaR is then
+$8,000 ($28,000 - $20,000).预期损失EL=$20,000 ($1,000,000×0.02)极端损失=$28,000
+(28×$1,000,000/1,000). VaR=$8,000 ($28,000 - $20,000).
+ 
+100.An analyst is using Moody’s KMV model to estimate the distance to default of a large
+public firm, Shoos Inc., a firm that designs, manufactures and sells athletic shoes. The
+firm’s capital structure consists of USD 40 million in short-term debt, USD 20 million in
+long-term debt, and there are one million shares of stock currently trading at USD 10 per
+share. The asset volatility is 20% per year. What is the normalized distance to default for
+Shoos Inc.?
+A.0.714
+B.1.430
+C.2.240
+D.5.000
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+101.Consider two portfolios. One with USD 100 million credit exposure to a single B-rated
+counterparty. The second with USD 100 million on credit exposure split evenly between 50 B-
+rated counterparties. Assume that default probabilities and recovery rates are the same for all
+B-rated counterparties. Which of the following is correct?
+A.The expected loss of the first portfolio is greater than the expected loss of the second
+portfolio AND the unexpected loss of the first portfolio is greater than the unexpected loss of
+the second portfolio.
+B.The expected loss of the first portfolio is greater than the expected loss of the second
+portfolio AND the unexpected loss of the first portfolio is equal to the unexpected loss of the
+second portfolio.
+C.The expected loss of the first portfolio is equal to the expected loss of the second
+portfolio AND the unexpected loss of the first portfolio is equal to the unexpected loss of the
+second portfolio.
+D.The expected loss of the first portfolio is equal to the expected loss of the second
+portfolio AND the unexpected loss of the first portfolio is greater than the unexpected loss of
+the second portfolio.
+参考答案：D
+【莽学解析】There’s diversification effect in unexpected loss非预期损失存在分散化效应
+ 
+102.An investor holds a portfolio of USD 100 million. This portfolio consists of A-rated bonds
+(USD 40 million) and BBB-rated bonds (USD 60 million). Assume that the one-year probabilities
+of default for A-rated and BBB-rated bonds are 3 % and 5%, respectively, and that they are
+independent. If the recovery value for A-rated bonds in the event of default is 70% and the
+recovery value for BBB-rated bonds is 45%, what is the one-year expected credit loss from this
+portfolio?
+A.USD 1,672,000
+B.USD 1,842,000
+C.USD 2,010,000
+D.USD 2,218,000
+参考答案：C
+【莽学解析】Expected Loss for A-rated Bonds = 0.03×40,000,000 × (1 - 0.70) = 360,000 Expected
+Loss for BBB-rated Bonds = 0.05×60,000,000 × (1 - 0.45) = 1,650,000 Total Expected Loss =
+360,000 + 1,650,000 = 2,010,000EL(A)= 0.03×40,000,000 × (1 - 0.70) = 360,000EL(BBB)=
+0.05×60,000,000 × (1 - 0.45) = 1,650,000EL(P)= 360,000 1,650,000 = 2,010,000
+ 
+103.A firm has issued a single zero-coupon bond that matures in 5 years and has a face value of
+100. Assume that the volatility of the firm value is 0.5. Assume the risk-free rate is 0.04,
+and that firm value equal to 400. Using the Merton model, what is the value of the bond? In the
+following table, N(d) denotes the cumulative distribution function for a standard normal
+distribution evaluate at d.
+ 
+A.75.50
+B.324.47
+C.310.40
+D.89.60
+参考答案：A
+【莽学解析】
+ 
+ 
+104.Suppose a portfolio has a notional value of $1,000,000 with 20 credit positions. Each of
+the credits has a default probability of 2% and a recovery rate of zero. Each credit position
+in the portfolio is an obligation from the same obligor, and therefore, the credit portfolio
+has a default correlation equal to 1. What is the credit value at risk at the 99% confidence
+level for this credit portfolio?
+A.$0
+B.$1,000
+C.$20,000
+D.$980,000
+参考答案：D
+【莽学解析】With the default correlation equal to 1, the portfolio will act as if there is only
+one credit. Viewing the portfolio as a binomial distributed random variable, there are only two
+possible outcomes for a portfolio acting as one credit. The portfolio has a 2% probability of
+total loss and a 98% probability of zero loss. Therefore, with a recovery rate of zero, the
+extreme loss given default is $1,000,000. The expected loss is equal to the portfolio value
+times π and is $20,000 in this example. The credit VaR is defined as the quantile of the
+credit loss less the expected loss of the portfolio. At the 99% confidence level, the credit
+VaR is equal to $980,000.当相关性为1时，整体的投资组合就相当于是一个资产，要不违约，要不就不违
+约。违约概率是2%时，99%的置信水平，对应的预期损失是20,000 ，极端损失是1000000，VaR值是$980,000.
+ 
+105.A credit loss on market-driven instruments such as swaps and forwards arises if:
+A.Market rates move in your favor.
+B.Market rates move against you.
+C.Market rates move against you and the counterparty defaults.
+D.Market rates move in your favor and the counterparty defaults.
+参考答案：D
+【莽学解析】A credit loss on market-driven instruments such as swaps and forwards arises if
+Market rates move in your favor and the counterparty defaults市场利率朝着对你有利的方向移动，而
+交易对手违约时，更有可能发生信用损失。
+ 
+106.A portfolio manager uses the single-factor model to estimate default risk. What is the mean
+and standard deviation for the conditional distribution when a specific realized market value
+m,is used?
+A.The mean and standard deviation are equivalent in the standard normal distribution.
+B.The mean is βim and the standard deviation is √(1-βi2 )
+C.The mean is m and the standard deviation is βi
+D.The mean is m and the standard deviation is 1.
+参考答案：B
+【莽学解析】The conditional distribution is a normal distribution with a mean of βim and a
+standard deviation of √(1-βi2 )有条件的单因素模型的均值是βim,标准差是√(1-βi2 )
+ 
+107.The KMV model:
+A.Assigns a probability to a firm to indicate its likelihood of default by using the cumulative
+normal distribution, like the Merton model.
+B.Assigns a probability to a firm to indicate its likelihood of default by using the cumulative
+normal distribution, which distinguishes it from the Merton model.
+C.Does not use the cumulative normal distribution to assign a probability to a firm to indicate
+its likelihood of default, which distinguishes it from the Merton model.
+D.Does not use the cumulative normal distribution to assign a probability to a firm to indicate
+its likelihood of default, like the Merton model.
+参考答案：C
+【莽学解析】The Merton model uses the cumulative normal distribution to determine the
+probability of default. The KMV model uses a proprietary algorithm that is not known to the
+public.KMV模型使用了一种不为公众所知的专有算法。
+ 
+108.A company has a constant 7% per year probability of default. What is the probability the
+company will be in default in three years?
+A.7%
+B.19.6%
+C.21%
+D.22.5%
+参考答案：B
+【莽学解析】The probability that the firm will be in default in three years = 1- (1-0.07)3 =
+19.6%3年内的违约概率=1- (1-0.07)3 = 19.6%
+ 
+109.Suppose a credit position has a correlation to the market factor of 0.5. What is the
+realized market value that is used to compute the probability of reaching a default threshold
+at the 99% confidence level?
+A.-0.2500.
+B.-0.4356.
+C.-0.5825.
+D.-0.6243.
+参考答案：D
+【莽学解析】
+ 
+ 
+ 
+110.According to the Merton model, which of the following most accurately describes the value
+of a firm’s debt? The value of the:
+A.Firm and a long call on the value of the firm.
+B.Firm’s equity and a long call on the firm.
+C.Firm and a short call on the value of the firm.
+D.Firm’s equity and a short call on the firm.
+参考答案：C
+【莽学解析】Using the Merton model, the value of debt (DT) is the value of the firm (VT) less a
+call option on the value of the firm.利用默顿模型，债务价值(DT)是企业价值(VT)减去企业价值的看涨
+期权。
+ 
+111.A firm is experiencing financial difficulties. Using a contingent claims approach, which of
+the following best describes the valuation of their senior and subordinated debt?
+A.Both the senior debt and subordinated debt have positive exposures to debt maturity, firm
+volatility, and interest rates (i.e., the debt value increases as these factors increase).
+B.The senior debt has negative exposures to debt maturity, firm volatility, and interest rates
+(i.e., the senior debt value decreases as these factors increase). The subordinated debt has
+positive exposures to debt maturity, firm volatility, and interest rates (i.e., the
+subordinated debt value increases as these factors increase).
+C.The senior debt has positive exposures to debt maturity, firm volatility, and interest rates
+(i.e., the senior debt value increases as these factors increase). The subordinated debt has
+negative exposures to debt maturity, firm volatility, and interest rates (i.e., the
+subordinated debt value decreases as these factors increase).
+D.Both the senior debt and subordinated debt have negative exposures to debt maturity, firm
+volatility, and interest rates (i.e., the debt value decreases as these factors increase).
+参考答案：B
+【莽学解析】If a firm is in financial distress, the subordinated debt behaves more like equity
+and a call option. It will increase in value as time to maturity increases, volatility
+increases, and interest rates increase. The senior debt will have negative exposures to these
+factors. If the firm is not in distress, both the senior debt and subordinated debt have
+negative exposures to these factors because the subordinated debt behaves more like senior debt
+than equity. In this case, choice B would be correct.公司经历财务困境的时候，次级债的表现像股权
+；当公司没有经历财务困境的时候，次级债的表现像高级债
+ 
+112.In comparing agency rating systems to internal (experts-based) rating systems, evidence has
+shown that:
+A.Internal systems and agency systems are equally compliant in regard to specificity.
+B.Agency systems are more compliant in regard to verifiability than internal systems.
+C.Agency systems are less compliant in regard to measurability than internal systems.
+D.Internal systems are more compliant in regard to objectivity and homogeneity than agency
+systems.
+参考答案：B
+【莽学解析】Across all features of a good rating system (objectivity and homogeneity,
+specificity, and measurability and verifiability), agency ratings are deemed more compliant
+than internal, experts-based rating systems.良好的评级系统的所有特征(客观性和同质性、特异性、可
+测量性和可验证性)中，机构评级被认为比内部的、基于专家的评级系统更符合要求。
+ 
+113.What is the survival rate at the end of three years, if the annual default probabilities
+are 8%, 12% and 15% in the first, second and third years, respectively?
+A.68.8%
+B.39.1
+C.99.9%
+D.65.0%
+参考答案：A
+【莽学解析】Survival rate = (1 - 8%)(1 - 12%)(1 - 15%) = 68.8%存活率= (1 - 8%)(1 - 12%)(1 -
+15%) = 68.8%
+ 
+114.A corporate bond with a face value of $1,000 has a remaining maturity of 15 years. Using
+the Merton model, the current value of the bond is calculated at $650. Assuming that the risk-
+free rate is equal to 2%, what is the credit spread for this bond?
+A.23 bps.
+B.65 bps.
+C.87 bps.
+D.98 bps.
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+115.The forward probability of default for years one and two is 0.5% and 1.1%, respectively. If
+the cumulative probability of default for the 3-year period is 4.45%, the forward probability
+of default for year three is closest to:
+A.2.8%
+B.3.2%
+C.2.9%
+D.2.7%
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+116.Peter, the municipal bond analyst observes that in recent years there have occurred only
+about 6 U.S. municipal defaults per year. If he makes the highly simplifying assumption that 6
+defaults per year is the average in a Poisson process (distribution), what is the probability
+that the next municipal default will occur within one month?
+A.8.42%
+B.17.00%
+C.39.35%
+D.60.65%
+参考答案：C
+【莽学解析】
+ 
+ 
+117.The spread on a one-year BBB-rated bond relative to the risk-free treasury of similar
+maturity is 1.4%. It is estimated that the contribution to this spread by all noncredit factors
+(e.g., liquidity risk, taxes) is 0.4%. Assuming the loss given default rate for the underlying
+credit is 40%, what is, approximately, the implied default probability for this bond?
+A.1.67%
+B.2.33%
+C.3.50%
+D.2.50%
+参考答案：D
+【莽学解析】The probability of default equals the credit risk spread divided by the loss given
+default. PD = spread/LGD. Here, the spread due to credit risk equals 1.4% - 0.4% or 1.0% and
+the loss given default is 40%. The probability of default is then 2.5%.违约概率等于信用风险利差
+除以违约损失。PD=(1.4%-0.4%)/40%=2.5%
+ 
+118.Which of the following statements is correct regarding credit risk scoring models?
+A.A pooled model will result in scores ranging from 300 to 850.
+B.A custom model is cheaper to implement than credit bureau scores.
+C.Multiple requests for new credit will reduce an applicant's credit score.
+D.An example of a characteristic in a scoring model is the applicant's current gross salary of
+$50,000.
+参考答案：C
+【莽学解析】An individual's credit file will show a history of credit requests, with multiple
+requests causing an applicant's credit score to decline. A credit bureau score model (rather
+than pooled model) will result in scores ranging from 300 to 850. A custom model is more
+expensive to implement than credit bureau scores. "Gross salary with current employer" is an
+example of a characteristic, with the actual salary number itself representing an attribute.纯
+外部的评分模型（Credit Bureau Scores）：又称为FICO线性的评分模型，由外部专业机构建立模型，并且
+用公开数据来进行评估的评估模型。 数据池模型（Pooled Models）：此模型是借助第三方建立的，利用的
+是与本银行资产组合相似的外部数据或者本银行的内部数据。 客户模型（Custom Models）是纯粹的内部建
+立的模型，用自己的数据进行分析。
+ 
+119.The dark side of retail credit risk is perpetuated by all of the following factors except:
+A.capital set aside to protect a bank in the event of default.
+B.process flaws resulting in high risk applicants receiving credit.
+C.new products which do not have sufficient historical loss data.
+D.a social acceptance of bankruptcy and borrowers \"walking away“ from their obligations.
+参考答案：A
+【莽学解析】Capital must be set aside to protect banks in the event of default, but this is a
+response to the dark side of retail credit risk rather than a perpetuating factor. A process
+flaw which grants credit to high risk individuals, a new product which doesn’t have historical
+loss data, and the social “acceptance” of failing to meet debt payments are all considered
+perpetuating factors of retail credit risk.在违约的情况下，银行必须留出资本来保护银行，但这是对
+零售信贷风险的阴暗面的一种回应，而不是持久的因素。
+ 
+120.If a pool of mortgage loans begins the month with a balance of $10,500,000, has a scheduled
+principal payment of $54,800, and ends the month with a balance of $9,800,000, what is the CPR
+for this month?
+A.6.177%
+B.42.240%
+C.53.472%
+D.66.670%
+参考答案：C
+【莽学解析】如下：
+ 
+121.Which of the following measures are most likely to be used by a securitized product backed
+by student loans?
+A.Single monthly mortality (SMM), constant prepayment rate (CPR), and Public Securities
+Association (PSA).
+B.Loss curves and absolute prepayment speed (APS).
+C.Weighted average life (WAL), weighted average maturity (WAM), and weighted average coupon
+(WAC).
+D.Debt service coverage ratio (DSCR) and monthly payment rate (MPR).
+参考答案：A
+【莽学解析】The constant prepayment rate (CPR) and the Public Securities Association (PSA)
+method are common methodologies used to estimate prepayments for student loans and
+mortgages.PSA是美国公共证券协会提出的提前偿付维度，反应了CPR的基准场景。100%PSA表示CPR在期初是
+0，每个月上升0.2%，上升30个月后达到6%。SMM=当月提前偿付本金/(期初本金?当月应还本金)1-SMM表示本
+月没有提前偿付的部分，(1-SMM)12表示本年没有提前偿付的部分，1-(1-SMM)12表示本年提前偿付的部分
+，因此年化提前偿付率为1-(1-SMM)12。WAC，指的是整个资产池的加权平均的利率，资产池中不同抵押贷款
+利率是不一样的。WAM，指的是整个抵押贷款资产池的平均还款时间，因为资产池当中的每个抵押贷款可能期
+限是不一样的。两者都是加权平均，反映的都是资产池的基本特点。
+ 
+122.As the CRO of a retail bank, you are presenting to your Risk Committee the benefits of
+securitizing a pool of mortgages. Which of the following would you use to support your
+arguments that this will benefit the bank? Ⅰ.It will improve your bank's return on capital
+Ⅱ.Will immediately increase your bank's available capital Ⅲ.You will be able to offer an
+attractive yield to investors Ⅳ.It will lower your borrowing costs
+A.I and III only
+B.I, III, and IV only
+C.I, II, III and IV
+D.I, II, and IV only
+参考答案：C
+【莽学解析】●'I' is valid. Securitization can improve a bank's return by moving risk assets
+off the books. ●'II' is valid. Moving assets off balance sheet can reduce capital requirements
+and improve capital adequacy. ●'III' is valid. III, which is a benefit for the investor, could
+also in principle be relevant to the bank if the bank is having trouble placing securities
+(e.g., severe adverse selection costs). ●'IV' is valid. By moving riskier assets off the
+balance sheet via securitization, the bank can lower its borrowing costs.通过资产证券化的方式
+，首先银行的风险资产可以剥离出资产负债表，优化资产负债表结构，因为把有风险的资产给剥离出去了
+，银行的资产负债表会更好看。 其次，释放资金。因为银行不能把所有的贷款都放在账上，这会占用银行的
+资金，通过证券化的方式卖出去，可以释放出银行的资金。因为证券化减低了银行的债务融资，降低了杠杆
+，从而提高了银行的融资能力，减少了监管机构对银行资本的要求。 此外，资产证券化可以提高资产池的透
+明度和可确认性。
+ 
+123.Assume a firm issues only three capital claims: zero-coupon senior debt with face value of
+$300 million; zero-coupon junior debt with face value of $500 million; and $200 million in
+equity. What is the credit enhancement provided to the senior debt?
+A.$200 million
+B.$300 million
+C.$500 million
+D.$700 million
+参考答案：D
+【莽学解析】Subordination is credit enhancement. In this case, equity and junior debt are
+subordinate to senior debt and absorb the first $700 million in losses次级债的500百万的价值加上
+股权层级200百万的价值都可以为高级层形成保护，所以一共的保护金额是700百万。
+ 
+124.A major benefit of securitization for a financial institution is the ability to remove
+assets from the balance sheet, which lowers risk and the required regulatory capital. While a
+large portion of the risk is removed from the balance sheet the originating financial
+institution often maintains a portion of the risk. Which of the following terms best identify
+the risk that is maintained by the originator?
+A.Correlation.
+B.Excess spread.
+C.First-loss piece.
+D.Guarantor of collateral value.
+参考答案：C
+【莽学解析】The originator often maintains ownership of the first-loss piece, which is the
+class of assets with the lowest credit quality and is the most junior level where losses are
+first absorbed in the event of a default.发起人通常保持对第一损失部分的所有权，第一损失是信用质
+量最低的一类资产，是在违约事件中损失最先被吸收的资产。
+ 
+125.Which of the following frictions represents an adverse selection problem?
+A.Investor and mortgagor
+B.Originator and arranger.
+C.Servicer and rating agency.
+D.Servicer and mortgagor.
+参考答案：B
+【莽学解析】The originator has better information about the quality of the borrowers so the
+arranger is subject to an adverse selection problem. That is, if the originator keeps the high
+quality mortgages, the arranger will receive lemons.发起人具有关于借款人质量的更好的信息，因此
+承销人会遇到逆向选择问题。
+126.Which of the following is not an example or element of predatory lending:
+A.Lender makes unaffordable loans based on borrower assets rather than ability to repay
+B.Lender induces borrower to repeatedly refinance in order to collect fees and charge high
+points
+C.Borrower misrepresents income or employment in mortgage application
+D.Lender engages in deception to conceal true nature of loan; e.g., deceives borrower into
+thinking loan is fixed-rate when mortgage is actually an adjustable-rate.
+参考答案：C
+【莽学解析】Predatory lending is defined as an activity that involves at least one, and perhaps
+all three, of the following elements: √Making unaffordable loans based on the assets of the
+borrower rather than on the borrower's ability to repay an obligation; √Inducing a borrower to
+refinance a loan repeatedly in order to charge high points and fees each time the loan is
+refinanced ("loan flipping"); or√Engaging in fraud or deception to conceal the true nature of
+the loan obligation, or ancillary products, from an unsuspecting or unsophisticated borrower.掠
+夺性借出（Predatory Lending）：借款人不一定能申请到这笔贷款，或者不是必须要进行融资，但是由于金
+融机构强烈建议其融资，使得借款人借入与自身条件不匹配的贷款。 掠夺性借入（Predatory
+Borrowing）：借款人通过伪造信息借到了本身无法获得的贷款，比如与房产经纪商，抵押贷款经纪商、估价
+师和律师等进行勾结。
+ 
+127.A pass-through mortgage-backed security (MBS) with a weighted average maturity (WAM) of 30
+months has an original principle balance of $2.0 billion. If the valuation model assumes a 300%
+PSA prepayment speed, which is nearest to the first month's prepaid (not scheduled) principal?
+A.$519,000
+B.$833,000
+C.$1.00 million
+D.$2.15 million
+参考答案：C
+【莽学解析】如下：300%PSA=3×CPR=3×0.2%=0.6%SMM=1-(1 - CPR)(1/12),SMM=1-(1 -
+0.006)(1/12)=0.000501380.00050138×2,000,000,000=1,002,760
+ 
+128.Which of the following is not a friction in the subprime securitization market?
+A.Investor and rating agency.
+B.Servicer and mortgagor.
+C.Mortgagor and arranger.
+D.Asset manager and investor.
+参考答案：C
+【莽学解析】The mortgagor and arranger have no direct contact so there is no friction. 借款人与
+承销人没有直接接触，因此没有摩擦。
+ 
+129.Assume an MBS is composed of the following four different pools of mortgages: $2 million of
+mortgages that have a maturity of 90 days. $3 million of mortgages that have a maturity of 180
+days. $5 million of mortgages that have a maturity of 270 days, $10 million of mortgages that
+have a maturity of 360 days. What is the weighted average maturity (WAM) of these mortgage
+pools?
+A.167 days.
+B.225 days.
+C.252 days.
+D.284 days.
+参考答案：D
+【莽学解析】
+ 
+ 
+ 
+130.A hedge fund is considering taking positions in various tranches of a collateralized debt
+obligation (CDO). The fund’s chief economist predicts that the default probability will
+decrease significantly and that the default correlation will increase. Based on this
+prediction, which of the following is a good strategy to pursue?
+A.Buy the senior tranche and buy the equity tranche.
+B.Buy the senior tranche and sell the equity tranche.
+C.Sell the senior tranche and sell equity tranche.
+D.Sell the senior tranche and buy the equity tranche.
+参考答案：D
+【莽学解析】The decrease in probability of default would increase the value of the equity
+tranche. Also, a default of equity tranche would increase the probability of default of the
+senior tranche, due to increased correlation, reducing its value. Thus, it is better to go long
+the equity tranche and short the senior tranche.违约概率的上升对证券化产品的任何层级都会有负面
+影响，即任何层级的价值都会下降。 当违约相关性比较低时，最底层级比较容易损失，因为只要有违约就会
+使得最底层级受损；当违约相关性比较高时，可能出现所有层级都不损失的情况。所以相关性上升会使得最
+底层级的价值上升。 当违约相关性比较低时，基本不会出现不同层级同时违约的情况，最高层级相对安全
+，所以价值较高；当违约相关性比较高时，可能出现不同层级同时违约的情况，此时最高层级的价值会下降
+。所以相关性上升会使得最高层级的价值下降。
+ 
+131.Which of the following subprime characteristics provide direct protection for senior
+tranches?
+A.Subordination, excess spread, and shifting interest.
+B.Subordination, prepayments, and shifting interest.
+C.Overcollateralization, excess spread, and tinning of losses.
+D.Overcollateralization, excess spread, and prepayments.
+参考答案：A
+【莽学解析】Subordination, excess spread, and shifting interest provide protection for senior
+tranches. Overcollateralization also provides protection for senior tranches. Timing of losses
+impacts excess spreads. Prepayments can accelerate or decelerate the cash flows to senior
+tranches.分层（subordination），划分偿付的优先顺序，对最高层级产品进行信用增级。 超额利差
+（excess spread），收到的资产池的利息大于支付的证券化产品的利息。 利率锁定期（shifting
+interest），利率锁定期内所有的本金偿付都支付给最高层级，中间层级只能收到利息，不能收到任何本金
+，对于最高层级的投资者形成信用保护。 其他的都不能提供信用增级。
+ 
+132.EACH of the following is an example or element of predatory lending except for:
+A.Lender makes unaffordable loans based on borrower assets rather than ability to repay
+B.Lender induces borrower to repeatedly refinance (\"loan flipping\") in order to collect fees
+and charge high points
+C.Borrower misrepresents income or employment in mortgage application
+D.Lender engages in deception to conceal true nature of loan; e.g., deceives borrower into
+thinking loan is fixed-rate (FRM) when mortgage is actually an adjustable-rate (ARM)
+参考答案：C
+【莽学解析】It is predatory borrowing for borrowers to conceal their income and work.借款人在借
+款时隐瞒收入和工作情况是掠夺性借入的表现。
+ 
+133.Which of the following participants in the securitization process is least likely to face a
+conflict of interest?
+A.Credit rating agency and servicer.
+B.Servicer and underwriter.
+C.Custodian and trustee.
+D.Trustee and manager.
+参考答案：C
+【莽学解析】The custodian and trustee play the least important roles in the securitization
+process. The servicer, originator, underwriter, credit rating agency, and manager all face
+conflicts of interest to varying degrees.在证券化过程中，托管人和受托人的作用最小
+ 
+134.Securitized products are often customized to meet the needs of the investor as well as the
+originator. What type of asset-backed securities (ABSs) typically uses a revolving structure?
+A.Residential mortgage.
+B.Credit card debt.
+C.Commercial mortgage.
+D.Commercial paper.
+参考答案：B
+【莽学解析】Revolving structures are used with products that are paid back on a revolving
+basis, such as credit card debt or auto loans. Credit card debt does not have a pre-specified
+amortization schedule; therefore the principal paid back to investors is in large lump sums
+rather than amortizing schedules.循环结构（Revolving Structures）的特殊目的机构主要是指所设计的
+证券化产品的资产池是信用卡贷款或者汽车贷款，这类贷款的期限通常较短，其现金流划分为两个期限，分
+别是循环期和摊销期。循环期是指将资产池中贷款偿付的本金继续购买新的贷款。摊销期是指在循环期之后
+将现金流对证券化产品进行偿付，可以每期进行偿付，或者放入特定账户中到期一次性偿付。
+ 
+135.A pool of high yield bonds is placed in an SPV and three tranches (including the equity
+tranche) of bonds are issued collateralized by the bonds to create a Collateralized Bond
+Obligation (CBO). Which of the following is true?
+A.At fair value, the value of the issued bonds should be less than the collateral.
+B.At fair value, the total default probability, weighted by size of issue, of the issued bonds
+should equal the default probability of the collateral pool.
+C.The equity tranche of the CBO has the least risk of default.
+D.The yield on the low risk tranche must be greater than the yield on the collateral pool.
+参考答案：B
+【莽学解析】A Collateralized Bond Obligation and the underlying securities must have equal
+market value, similar cash flow pattern and identical risk, which eliminate choice A in favor
+of B. The equity tranche has the greatest risk of default; the yield on the low risk tranche
+must be less than the yield on the collateral pool.债务抵押债券和相关证券必须具有相等的市场价值
+，相似的现金流模式和相同的风险。
+ 
+136.In a securitized transaction, over-collateralization results when:
+A.The originator puts aside some cash in a reserve account to absorb credit losses.
+B.A securitization transaction carves up the cash flows generated from the asset pool into
+various pieces.
+C.The interest payments and other fees received on the assets in the pool exceed the interest
+payment made on the asset-backed security (ABS) plus the fee paid to service the assets along
+with miscellaneous expenses.
+D.The value of the assets in the pool exceeds the amount of asset-backed security(ABS) involved
+参考答案：D
+【莽学解析】●A. Stands for cash reserve account ●B. Definition for subordinated tranching
+●C. Mentions about excess spread ●D. Is correct defines over collateralization超额抵押指的是
+实际发行的证券化产品的规模小于资产的规模。
+ 
+137.Suppose the annual prepayment rate CPR for a mortgage-backed security is 6 percent. What is
+the corresponding single-monthly mortality rate SMM?
+A.0.514%
+B.0.334%
+C.0.500%
+D.1.355%
+参考答案：A
+【莽学解析】
+ 
+ 
+138.Which of the following representations of a prepayment speed of 200 PSA is true? Let t
+represent the number of months and CPR the annual prepayment rate?
+A.If t＜30, then, CPR = 6%×t\/30, if t>30, then CPR = 6%.
+B.If t＜30, then, CPR = 12%×t\/30, if t>30, then CPR = 12%.
+C.If t ＜30, then, CPR = 18%×t\/30, if t>30, then CPR = 18%.
+D.If t＜30, then, CPR = 24%×t\/30, if t>30, then CPR = 24%.
+参考答案：B
+【莽学解析】●The standard PSA benchmark assumes the following conditional prepayment
+rates:●If t＜30, then, CPR = 6%×t/30, if t >30, then CPR = 6%●At 200 PSA, the CPRs are two
+times the CPRs for the standard PSA benchmark.100%PSA表示CPR在期初是0，每个月上升0.2%，上升30个
+月后达到6%。200%PSA的话就是12%。
+139.An important step in structuring a securitization is determining an adequate level of
+credit support or enhancement. Which of the following is not one of common credit enhancement
+forms for securitization transactions?
+A.Subordinated tranches of securitization debt
+B.Excess Spread account
+C.Cash reserve account
+D.Sinking fund account
+参考答案：D
+【莽学解析】●Credit enhancements in securitizations protect investors against taking a loss on
+their securities when losses occur in the underlying asset pool. Credit enhancements can be
+structured in different forms including subordinated tranches of securitization debt, excess
+spread (interest payments and other fees received on the assets in the pool less the interest
+payments made on the ABS plus the fee paid the service the assets along with other expenses),
+cash reserve account, and over-collateralization. ●D is correct. A sinking fund is a pool of
+money regularly set aside by a company to redeem its bonds, debentures or preferred stock from
+time to time as specified in the indenture. A sinking fund is not used a credit enhancement.偿
+债基金不用于信用增级。
+ 
+140.How many of the following statements concerning the capital structure in a securitization
+are most likely correct? ●The mezzanine tranche is typically the smallest tranche size. ●The
+mezzanine and equity tranches typically offer fixed coupons. ●The senior tranche typically
+receives the lowest coupon.
+A.No statements are correct.
+B.One statement is correct.
+C.Two statements are correct.
+D.Three statements are correct.
+参考答案：B
+【莽学解析】Senior tranches are perceived to be the safest, so they receive the lowest coupon.
+The equity tranche receives residual cash flows and no explicit coupon. Although the mezzanine
+tranche is often thin, the equity tranche is typically the thinnest slice.高级债券被认为是最安
+全的，因此它们获得的票息最低。股权部分接收剩余现金流，没有明确的息票。尽管夹层债券通常很薄，但
+权益类债券通常是最薄的部分。
+ 
+141.Which of the following statements regarding credit enhancements in the process of
+structuring a securitization through a special purpose vehicle (SPV) is correct?
+A.The securitization process is structured such that the asset side of the SPV has a lower cost
+than the liability side of the SPV.
+B.Credit enhancements are typically only associated with mortgage-backed securities (MBS) and
+are not used in other types of asset-backed securities (ABS).
+C.The most senior class of notes is often overcollateralized in order to reduce the risk of the
+asset-backed security (ABS).
+D.A margin step-up is sometimes used by an asset-backed securities (ABS) where the coupon
+structure increases after a call date.
+参考答案：D
+【莽学解析】ABS issues may use a margin step-up that increases the coupon structure after a
+call date. Credit enhancements play an important role in the securitization process for both
+the asset-backed security (ABS) and mortgage-backed security (MBS) issues. The liability side
+of the SPV has a lower cost than the asset side of the SPV to create an excess spread prior to
+administration costs. The lowest class of notes are often overcollateralized where the
+principal value of the notes issued are valued less than the principal value of the original
+underlying assets.信用增强在资产支持证券(ABS)和抵押贷款支持证券(MBS)的证券化过程中发挥着重要作
+用。 SPV的负债方面的成本低于SPV的资产方面，从而在管理成本之前产生超额利差。 最低等级的票据经常
+被超额担保，即所发行票据的本金价值低于原始基础资产的本金价值
+ 
+142.Which of the following is not an example of providing credit support in a securitization?
+A.Creating subordinated tranches
+B.Generating excess spread
+C.Eliminating first loss positions
+D.Overcollateralization
+参考答案：C
+【莽学解析】First loss positions provide credit support in a securitization. Eliminating first
+loss positions would remove credit support.超额抵押指的是实际发行的证券化产品的规模小于资产的规
+模。 分层指的是划分偿付的优先顺序，对最高层级产品进行信用增级。 超额利差指的是收到的资产池的利
+息大于支付的证券化产品的利息。
+ 
+143.Which of the following is true about predatory lending and predatory borrowing?
+A.Both underprovide credit.
+B.Both overprovide credit.
+C.Predatory lending underprovides credit and predatory borrowing overprovides credit.
+D.Predatory lending overprovides credit and predatory borrowing underprovides credit.
+参考答案：B
+【莽学解析】Predatory borrowing is when the borrower misrepresents themselves to obtain credit
+they otherwise would be denied. Predatory lending is providing credit that is welfare
+decreasing and should not be provided.掠夺性借出（Predatory Lending）指的是借款人不一定能申请到
+这笔贷款，或者不是必须要进行融资，但是由于金融机构强烈建议其融资，使得借款人借入与自身条件不匹
+配的贷款。掠夺性借入（Predatory Borrowing）指的是借款人通过伪造信息借到了本身无法获得的贷款，比
+如与房产经纪商，抵押贷款经纪商、估价师和律师等进行勾结。二者都属于过度授信。
+ 
+144.An endowment fund has sold default protection on the most senior tranche of a CDO. If the
+default correlation between assets held in the CDO decreases sharply from the correlation used
+in pricing the CDO tranches, assuming everything else is unchanged, how will the position of
+the endowment fund be impacted?
+A.It will either increase or decrease, depending on the pricing model used and the market
+conditions.
+B.It will gain significant value, since the probability of exercising the protection falls.
+C.It will lose significant value, sine the protection will gain value.
+D.It will neither gain nor lose value, since only expected default losses matter and
+correlation does not affect expected default losse
+参考答案：B
+【莽学解析】The senior tranche will gain value if the default correlation decreases. High
+correlation implies that if one name defaults, a large number of other names in the CDO will
+also default. Low correlation implies that if one name defaults, there would be little impact
+on the default probability of the other names. Therefore, as the correlation decreases, the
+cumulative probability of enough defaults occurring to exceed the credit enhancement on the
+senior tranche will also decrease. Hence the investor who has sold protection on the senior
+tranche will see a gain.当违约相关性比较低时，基本不会出现不同层级同时违约的情况，最高层级相对
+安全，所以价值较高；当违约相关性比较高时，可能出现不同层级同时违约的情况，此时最高层级的价值会
+下降。所以相关性上升会使得最高层级的价值下降。
+ 
+145.A standard synthetic CDO (basket credit default swap) references a portfolio of ten (10)
+individual corporate names. Assume the following: ●The total reference notional (basket
+notional) is X, and the term is Y years ●The reference notional per individual reference
+credit name is X/10 (i.e. equal weight per name) ●The default correlations between the
+individual reference credit names are all equal to one (1.0) ●The single-name credit default
+swap (CDS) spread for each individual reference credit name is 100 basis points, for a term of
+Y years ●The assumed recovery rate on default for all individual reference credits is zero in
+all cases ●The synthetic CDO comprises two tranches, a 50% junior tranche priced at a spread
+J, and a 50% senior tranche priced at spread S All else held constant, if the default
+correlations between the individual reference credit names are reduced from 1.0 to 0.7, what is
+the effect on the relationship between the junior tranche spread J and the senior tranche
+spread S?
+A.The relationship remains the same
+B.S increases relative to J
+C.J increases relative to S
+D.The effect cannot be determined given the data supplied
+参考答案：C
+【莽学解析】●If the default correlations are initially all 1.0, then the only possible
+outcomes are that all issuers default at once, or no issuers default. ●If the correlation is
+reduced below 1.0 to 0.70, there are some outcomes where only some issuers default; these cases
+will impact the junior tranche more than the senior tranche. However, the overall average
+default rate remains the same. This means that at a correlation less than 1.0, the junior
+tranche bears more of the risk than the senior tranche. Therefore, the spread on the junior
+tranche will increase relative to that of the senior tranche, because the total spread across
+the entire basket must remain 100bps. The correct choice is C.相关性从1降到0.7，相对于高级层
+，次级层受到的影响更大，因此，次级层相对于高级层的利差将会增加
+ 
+146.Which of the following statements best describes the calculation of implied correlation?
+A.The implied correlation for the mezzanine tranche assumes non-constant pairwise correlation.
+B.Observable market prices of credit default swaps are used to infer the tranche values.
+C.The tranche pricing function is calibrated to match the model price with the market price.
+D.The risk-adjusted default probabilities are used in model calibration.
+参考答案：C
+【莽学解析】Starting with observed market prices and a pricing function for the tranches, it is
+possible to back out the implied correlation to calibrate the model price with the market
+price. The computation of implied correlation assumes constant pairwise correlation. Both
+credit default swap and tranche values are observed. Observed tranche values are used in
+conjunction with risk-neutral default probabilities to compute implied correlation.隐含相关系数
+的计算假设两两相关系数不变。信用违约互换(CDS)和部分层级的价值可以被观察到。观察到的层级价值与风
+险中性的违约概率结合起来计算隐含相关性。
+ 
+147.Which of the following statements was not one of the flaws in the securitization process
+prior to the start of the credit crisis in 2007?
+A.An active originate-to-distribute model where a strong profit motive took precedence over
+ethical lending and underwriting.
+B.The securitized products were so opaque that investors could not evaluate the true risks of
+the investment.
+C.Structured investment vehicles (SIVs) were used to enhance the risk discovery process for
+investors and regulators.
+D.Banks held securitized assets in off-balance-sheet entities, thus further masking the true
+risks in the system.
+参考答案：C
+【莽学解析】Structured investment vehicles (SIVs) were actually used to create further layers
+of opaqueness. These are the off-balance-sheet entities used by banks to hold securitized
+products in a way that made them very difficult for investors to scrutinize.证券化产品是银行的
+表外资产，这使得投资者很难对其进行审查。
+ 
+148.Under a 200% PSA model, what is the single monthly mortality (SMM) for, respectively, month
+10 and month 30?
+A.0.12% and 0.36%
+B.0.17% and 0.51%
+C.0.28% and 0.65%
+D.0.34% and 1.06%
+参考答案：D
+【莽学解析】The base PSA model assumes that prepayments begin at a rate of 0.2% CPR in the
+first month, increase at a rate of 0.2% CPR per month until they reach 6.0% CPR in month
+30.CPR=1-(1-SMM)12 SMM=1-(1 - CPR)(1/12) At month 10, 100%PSA=0.2%×10=2.0%Therefore, at month
+10, a 200%PSA=4.0% SMM=1-(1-4.0%)(1/12)=0.34%At month 30, 100%PSA=0.2%×30=6.0%Therefore, at
+month 30, a 200%PSA=12.0% SMM=1-(1 - 12.0%)(1/12)=1.06%CPR=1-(1-SMM)12 SMM=1-(1 - CPR)(1/12) 第
+10个月时，100%PSA=0.2%×10=2.0%，200%PSA=4.0%，SMM=1-(1 -4.0%)(1/12)=0.34% 第30个月时
+，100%PSA=0.2%×30=6.0%，200%PSA=12.0%，SMM=1-(1 -12.0%)(1/12)=1.06%
+ 
+149.Which of the following statements most accurately describes the effect of selling a loan
+without recourse?
+A.The bank that sells the loan retains a contingent liability.
+B.The bank that sells the loan bears a specified percentage of the credit risk.
+C.The loan is removed from the balance sheet of the bank that sells the loan.
+D.The purchaser has the right to sell the loan back to the bank that originated the loan.
+参考答案：C
+【莽学解析】When a bank originates a loan and then sells it without recourse, the loan is
+removed from the bank's balance sheet, and the purchaser bears all of the credit risk.当一家银
+行发放了一笔贷款，无追索权出售时，这笔贷款就从银行的资产负债表中移除了，所有的信用风险都由买方
+承担。
+ 
+150.Which of the following was not a cause of the misalignment between investors, and rating
+agencies' incentives prior to the credit crisis of 2007-2009?
+A.Profit motive of the rating agencies.
+B.Pressure from the originators of securitized products.
+C.Manipulation of the ratings process by the originators.
+D.Investors' lack of understanding of the products they were purchasing.
+参考答案：D
+【莽学解析】According to the findings of the congressionally formed Financial Crisis Inquiry
+Commission, the root causes of the misalignment were the flawed computer models at the rating
+agencies, the profit motive of the rating agencies, pressure from the originators, the drive
+for market share coming from the rating agencies, the rating agencies lack of provided (not
+available) resources to conduct the proper due diligence, and the absence of meaningful public
+oversight. A thorough post-audit of the crisis will also reveal that originators also
+manufactured the securitized products to specifically arrive at a AAA rating given their
+acquired knowledge of the rating agencies, decision flow charts.根据国会成立的金融危机调查委员
+会的调查结果，这种失调的根本原因是评级机构的模型存在缺陷，评级机构的利润动机，发起者的压力，来
+自市场的驱动力等等。
+ 
+151.During the recent credit crisis, subprime mortgages received pressure from upward movements
+in interest rates, along with the impossibility for most of these borrowers to refinance. As a
+result, many subprime borrowers allowed their reduced value homes to be taken over by the
+lender. All of the following statements describe the effect subprime actions had on mortgage-
+backed security portfolios except:
+A.Repayment issues in lower tranches impacted confidence in higher tranches.
+B.There was a fire sale of securitized debt.
+C.Panic among MBS investors led to a flight to safer assets.
+D.The defaults in the lower tranches were high but did not affect senior tranche investors.
+参考答案：D
+【莽学解析】For investors, there was little expectation of portfolio losses in senior tranches.
+However, when repayment issues surfaced in the riskiest tranches, a lack of confidence spread
+to holders of more senior tranches. This caused panic among investors and a flight into safer
+assets, resulting in a fire sale of securitized debt.对投资者而言，他们对投资组合中优先级债券的
+损失几乎没有什么预期。然而，当还款问题出现在风险最高的部分时，缺乏信心就会蔓延到更高级债券的持
+有者身上。这在投资者中引起了恐慌，促使他们转向更安全的资产，导致证券化债务的甩卖。

@@ -1,0 +1,900 @@
+Financial Statement Analysis
+共享题干题
+【题干】Stereo Warehouse is a US retailer that offers employees a defined benefit pension plan
+and stock options as part of its compensation package. Stereo Warehouse prepares its financial
+statements in accordance with US GAAP.Peter Friedland, CFA, is an equity analyst concerned with
+earnings quality. He is particularly interested in whether the discretionary assumptions the
+company is making regarding compensation plans are contributing to the recent earnings growth
+at Stereo Warehouse. He gathers information from the company's regulatory filings regarding the
+pension plan assumptions in Exhibit 4 and the assumptions related to option valuation in
+Exhibit 5.
+ 
+ 
+1.【单项选择题】Compared to the 2009 reported financial statements, if Stereo Warehouse had
+used the same expected long-term rate of return on plan assets assumption in 2009 as it used in
+2007, its year-end 2009 pension obligation would most likely have been:
+A.lower.
+B.higher.
+C.the same.
+参考答案：C
+【莽学解析】The assumed long-term rate of return on plan assets is not a component that is used
+in calculating the pension obligation, so there would be no change.
+ 
+2.【单项选择题】Compared to the reported 2009 financial statements, if Stereo Warehouse had
+used the same discount rate as it used in 2007, it would have most likely reported lower:
+A.net income.
+B.total liabilities.
+C.cash flow from operating activities.
+参考答案：B
+【莽学解析】A higher discount rate (5.38 percent instead of 4.85 percent) will reduce the
+present value of the pension obligation (liability). In most cases, a higher discount rate will
+decrease the interest cost component of the net periodic cost because the decrease in the
+obligation will more than offset the increase in the discount rate (except if the pension
+obligation is of short duration). Therefore, periodic pension cost would have been lower and
+reported net income higher. Cash flow from operating activities should not be affected by the
+change.
+ 
+3.【单项选择题】Compared to the assumptions Stereo Warehouse used to compute its periodic
+pension cost in 2008, earnings in 2009 were most favorably affected by the change in the:
+A.discount rate.
+B.estimated future salary increases.
+C.expected long-term rate of return on plan assets.
+参考答案：B
+【莽学解析】In 2009, the three relevant assumptions were lower than in 2008. Lower expected
+salary increases reduce the service cost component of the periodic pension cost. A lower
+discount rate will increase the defined benefit obligation and increase the interest cost
+component of the periodic pension cost (the increase in the obligation will, in most cases,
+more than offset the decrease in the discount rate). Reducing the expected return on plan
+assets typically increases the periodic pension cost.
+ 
+4.【单项选择题】Compared to the pension assumptions Stereo Warehouse used in 2008, which of the
+following pairs of assumptions used in 2009 is most likely internally inconsistent?
+A.Estimated future salary increases, inflation
+B.Discount rate, estimated future salary increases
+C.Expected long-term rate of return on plan assets, discount rate
+参考答案：A
+【莽学解析】The company's inflation estimate rose from 2008 to 2009. However, it lowered its
+estimate of future salary increases. Normally, salary increases will be positively related to
+inflation.
+ 
+5.【单项选择题】Compared to the reported 2009 financial statements, if Stereo Warehouse had
+used the 2007 expected volatility assumption to value its employee stock options, it would have
+most likely reported higher:
+A.net income.
+B.compensation expense.
+C.deferred compensation liability.
+参考答案：B
+【莽学解析】A higher volatility assumption increases the value of the stock option and thus the
+compensation expense, which, in turn, reduces net income. There is no associated liability for
+stock options.
+ 
+6.【单项选择题】Compared to the assumptions Stereo Warehouse used to value stock options in
+2008, earnings in 2009 were most favorably affected by the change in the:
+A.expected life.
+B.risk-free rate.
+C.dividend yield.
+参考答案：C
+【莽学解析】A higher dividend yield reduces the value of the option and thus option expense.
+The lower expense results in higher earnings. Higher risk-free rates and expected lives result
+in higher call option values.
+ 
+【题干】Percy Byron, CFA, is an equity analyst with a UK-based investment firm. One firm Byron
+follows is NinMount PLC, a UK-based company. On 31 December 2018, NinMount paid ￡320 million
+to purchase a 50 percent stake in Boswell Company. The excess of the purchase price over the
+fair value of Boswell's net assets was attributable to previously unrecorded licenses. These
+licenses were estimated to have an economic life of six years. The fair value of Boswell's
+assets and liabilities other than licenses was equal to their recorded book values. NinMount
+and Boswell both use the pound sterling as their reporting currency and prepare their financial
+statements in accordance with IFRS.Byron is concerned whether the investment should affect his
+“buy” rating on NinMount common stock. He knows NinMount could choose one of several
+accounting methods to report the results of its investment, but NinMount has not announced
+which method it will use. Byron forecasts that both companies' 2019 financial results
+(excluding any merger accounting adjustments) will be identical to those of 2018.NinMount's and
+Boswell's condensed income statements for the year ended 31 December 2018, and condensed
+balance sheets at 31 December 2018, are presented in Exhibits 1 and 2, respectively.
+ 
+ 
+7.【单项选择题】NinMount's current ratio on 31 December 2018 most likely will be highest if the
+results of the acquisition are reported using:
+A.the equity method.
+B.consolidation with full goodwill.
+C.consolidation with partial goodwill.
+参考答案：A
+【莽学解析】The current ratio using the equity method of accounting is Current assets/Current
+liabilities = ￡250/￡110 = 2.27. Using consolidation (either full or partial goodwill), the
+current ratio = ￡390/￡200 = 1.95. Therefore, the current ratio is highest using the equity
+method.
+ 
+8.【单项选择题】NinMount's long-term debt to equity ratio on 31 December 2018 most likely will
+be lowest if the results of the acquisition are reported using:
+A.the equity method.
+B.consolidation with full goodwill.
+C.consolidation with partial goodwill.
+参考答案：A
+【莽学解析】Using the equity method, long-term debt to equity = ￡600/￡1,430 = 0.42. Using the
+consolidation method, long-term debt to equity = long-term debt/equity = ￡1,000/￡1,750 =
+0.57. Equity includes the ￡320 noncontrolling interest under either consolidation. It does not
+matter if the full or partial goodwill method is used since there is no goodwill.
+ 
+9.【单项选择题】Based on Byron's forecast, if NinMount deems it has acquired control of
+Boswell, NinMount's consolidated 2019 depreciation and amortization expense (in ￡ Millions)
+will be closest to:
+A.102.
+B.148.
+C.204.
+参考答案：C
+【莽学解析】The projected depreciation and amortization expense will include NinMount's
+reported depreciation and amortization (￡102), Boswell's reported depreciation and
+amortization (￡92), and amortization of Boswell's licenses (￡10 million). The licenses have a
+fair value of ￡60 million. ￡320 purchase price indicates a fair value of ￡640 for the net
+assets of Boswell. The net book (fair) value of the recorded assets is ￡580. The previously
+unrecorded licenses have a fair value of ￡60 million. The licenses have a remaining life of
+six years; the amortization adjustment for 2008 will be ￡10 million. Therefore, Projected
+depreciation and amortization = ￡102 + ￡92 + ￡10 = ￡204 million.
+ 
+10.【单项选择题】Based on Byron's forecast, NinMount's net profit margin for 2019 most likely
+will be highest if the results of the acquisition are reported using:
+A.the equity method.
+B.consolidation with full goodwill.
+C.consolidation with partial goodwill.
+参考答案：A
+【莽学解析】Net income is the same using any of the methods but under the equity method, net
+sales are only ￡950; Boswell's sales are not included in the net sales figure. Therefore, net
+profit margin is highest using the equity method.
+ 
+11.【单项选择题】Based on Byron's forecast, NinMount's 2019 return on beginning equity most
+likely will be the same under:
+A.either of the consolidations, but different under the equity method.
+B.the equity method, consolidation with full goodwill, and consolidation with partial goodwill.
+C.none of the equity method, consolidation with full goodwill, or consolidation with partial
+goodwill.
+参考答案：A
+【莽学解析】Net income is the same using any of the choices. Beginning equity under the equity
+method is ￡1,430. Under either of the consolidations, beginning equity is ￡1,750 since it
+includes the ￡320 noncontrolling interest. Return on beginning equity is highest under the
+equity method.
+ 
+12.【单项选择题】Based on Byron's forecast, NinMount's 2019 total asset turnover ratio on
+beginning assets under the equity method is most likely:
+A.lower than if the results are reported using consolidation.
+B.the same as if the results are reported using consolidation.
+C.higher than if the results are reported using consolidation.
+参考答案：A
+【莽学解析】Using the equity method, Total asset turnover = Net sales/Beginning total assets =
+￡950/￡2,140 = 0.444. Total asset turnover on beginning assets using consolidation =
+￡1,460/￡2,950 = 0.495. Under consolidation, Assets = ￡2,140 - 320 + 1,070 + 60 = ￡2,950.
+Therefore, total asset turnover is lowest using the equity method.
+ 
+【题干】Zimt, AG is a consumer products manufacturer headquartered in Austria. It complies with
+IFRS. In 2017, Zimt held a 10 percent passive stake in Oxbow Limited that was classified as
+held for trading securities. During the year, the value of this stake declined by €3 million.
+In December 2017, Zimt announced that it would be increasing its ownership to 50 percent
+effective 1 January 2018.
+Franz Gelblum, an analyst following both Zimt and Oxbow, is curious how the increased stake
+will affect Zimt's consolidated financial statements. Because Gelblum is uncertain how the
+company will account for the increased stake, he uses his existing forecasts for both
+companies' financial statements to compare various alternative outcomes.
+Gelblum gathers abbreviated financial statement data for Zimt (Exhibit 1) and Oxbow (Exhibit 2)
+for this purpose.
+ 
+ 
+13.【单项选择题】t 31 December 2018, Zimt's total assets balance would most likely be:
+A.highest if Zimt is deemed to have control of Oxbow.
+B.highest if Zimt is deemed to have significant influence over Oxbow.
+C.unaffected by the accounting method used for the investment in Oxbow.
+参考答案：A
+【莽学解析】When a company is deemed to have control of another entity, it records all of the
+other entity’s assets on its own consolidated balance sheet.
+ 
+14.【单项选择题】Based on Gelblum's estimates, if Zimt is deemed to have significant influence
+over Oxbow, its 2018 net income (in € Millions) would be closest to:
+A.€75.
+B.€109.
+C.€143.
+参考答案：B
+【莽学解析】If Zimt is deemed to have significant influence, it would use the equity method to
+record its ownership. Under the equity method, Zimt’s share of Oxbow’s net income would be
+recorded as a single line item. Net income of Zimt = 75 + 0.5(68) = 109.
+ 
+15.【单项选择题】Based on Gelblum's estimates, if Zimt is deemed to have joint control of
+Oxbow, and Zimt uses the proportionate consolidation method, its 31 December 2018 total
+liabilities (in € Millions) will most likely be closest to:
+A.€686.
+B.€975.
+C.€1,263.
+参考答案：B
+【莽学解析】Under the proportionate consolidation method, Zimt's balance sheet would show its
+own total liabilities of €1,421 - 735 = €686 plus half of Oxbow's liabilities of €1,283 -
+706 = €577. €686 + (0.5 × 577) = €974.5.
+ 
+16.【单项选择题】Based on Gelblum's estimates, if Zimt is deemed to have control over Oxbow,
+its 2018 consolidated sales (in € Millions) will be closest to:
+A.€1,700.
+B.€2,375.
+C.€3,050.
+参考答案：C
+【莽学解析】Under the assumption of control, Zimt would record its own sales plus 100 percent
+of Oxbow's. €1,700 + 1,350 = €3,050.
+ 
+17.【单项选择题】Based on Gelblum's estimates, Zimt's net income in 2018 will most likely be:
+A.highest if Zimt is deemed to have control of Oxbow.
+B.highest if Zimt is deemed to have significant influence over Oxbow.
+C.independent of the accounting method used for the investment in Oxbow.
+参考答案：C
+【莽学解析】Net income is not affected by the accounting method used to account for active
+investments in other companies. “One-line consolidation” and consolidation result in the same
+impact on net income; it is the disclosure that differs.
+ 
+【题干】Triofind, Inc. (Triofind), based in the country of Norvolt, provides wireless services
+to various countries, including Norvolt, Borliand, Abuelio, and Certait. The company's
+presentation currency is the Norvolt euro (NER), and Triofind complies with IFRS. Triofind has
+two wholly owned subsidiaries, located in Borliand and Abuelio. The Borliand subsidiary
+(Triofind-B) was established on 30 June 2016, by Triofind both investing NER1,000,000, which
+was converted into Borliand dollars (BRD), and borrowing an additional BRD500,000.Marie
+Janssen, a financial analyst in Triofind's Norvolt headquarters office, translates Triofind-B's
+financial statements using the temporal method. Non-monetary assets are measured at cost under
+the lower of cost or market rule. Spot BRD/NER exchange rates are presented in Exhibit 1, and
+the balance sheet for Triofind-B is presented in Exhibit 2.
+Janssen next analyzes Triofind's Abuelio subsidiary (Triofind-A), which uses the current rate
+method to translate its results into Norvolt euros. Triofind-A, which prices its goods in
+Abuelio pesos (ABP), sells mobile phones to a customer in Certait on 31 May 2017 and receives
+payment of 1 million Certait rand (CRD) on 31 July 2017.On 31 May 2017, Triofind-A also
+received NER50,000 from Triofind and used the funds to purchase a new warehouse in Abuelio.
+Janssen translates the financial statements of Triofind-A as of 31 July 2017 and must determine
+the appropriate value for the warehouse in Triofind's presentation currency. She observes that
+the cumulative Abuelio inflation rate exceeded 100% from 2015 to 2017. Spot exchange rates and
+inflation data are presented in Exhibit 3.
+Janssen gathers corporate tax rate data and company disclosure information to include in
+Triofind's annual report. She determines that the corporate tax rates for Abuelio, Norvolt, and
+Borliand are 35%, 34%, and 0%, respectively, and that Norvolt exempts the non-domestic income
+of multinationals from taxation. Triofind-B constitutes 25% of Triofind's net income, and
+Triofind-A constitutes 15%. Janssen also gathers data on components of net sales growth in
+different countries, presented in Exhibit 4.
+ 
+ 
+18.【单项选择题】Based on Exhibits 1 and 2 and Janssen's translation method, total assets for
+Triofind-B translated into Triofind's presentation currency as of 31 December 2016 are closest
+to:
+A.NER1,375,000.
+B.NER1,380,252.
+C.NER1,434,783.
+参考答案：B
+【莽学解析】Using the temporal method, monetary assets (i.e., cash) are translated using the
+current exchange rate (as of 31 December 2016) of BRD1.20/NER (or NER0.8333/BRD), and non-
+monetary assets are translated using the historical exchange rate when acquired. Inventory is
+translated at its 2016 weighted-average rate of BRD1.19/NER (or NER0.8403/BRD). Therefore, the
+total assets for Triofind-B translated into Norvolt euros (Triofind's presentation currency) as
+of 31 December 2016 are calculated as follows:
+ 
+ 
+ 
+19.【单项选择题】Based on Exhibits 1 and 2, the translation adjustment for Triofind-B's
+liabilities into Triofind's presentation currency for the six months ended 31 December 2016 is:
+A.negative.
+B.zero.
+C.positive.
+参考答案：A
+【莽学解析】Temporal method下，Notes payable用期末汇率，2016年6月30借500000，当时的汇率是
+1.15，500000/1.15=434783；2016年12月31日，500000/1.2=416667。负债下降，负调整。
+ 
+20.【单项选择题】Based on Exhibits 1 and 2 and Janssen's translation method, retained earnings
+for Triofind-B translated into Triofind's presentation currency as of 30 June 2017 are closest
+to:
+A.NER150,225.
+B.NER170,940.
+C.NER172,414.
+参考答案：A
+【莽学解析】用Temporar method，资产=负债＋所有者权益，资产=负债＋资本＋留存收益Cash应用2017年
+6月31号汇率，1.17，1350000/1.17Inventory用1.18，500000/1.18负债用1.17，500000/1.17普通股用历史
+汇率，1.15，1150000/1.15留存收益=1350000/1.17＋500000/1.18-500000/1.17-1150000/1.15=150225。
+ 
+21.【单项选择题】The functional currency for Triofind-A's sale of mobile phones to a customer
+in Certait is the:
+A.Certait real.
+B.Norvolt euro.
+C.Abuelio peso.
+参考答案：C
+【莽学解析】The functional currency is the currency of the primary economic environment in
+which an entity operates. Abuelio is Triofind-A's primary economic environment, and its
+currency is the Abuelio peso (ABP). Another important factor used to determine the functional
+currency is the currency that mainly influences sales prices for goods and services. The fact
+that Triofind-A prices its goods in Abuelio pesos supports the case for the ABP to be the
+functional currency.
+ 
+22.【单项选择题】Based on Exhibit 3, the value of the new warehouse in Abuelio on Triofind's
+balance sheet as of 31 July 2017 is closest to:
+A.NER31,452.
+B.NER47,964.
+C.NER50,000.
+参考答案：B
+【莽学解析】Triofind complies with IFRS, and Abuelio can be considered a highly inflationary
+economy because its cumulative inflation rate exceeded 100% from 2015 to 2017. Thus, Triofind-
+A's financials must be restated to include local inflation rates and then translated using the
+current exchange rate into Norvolt euros, which is Triofind's presentation currency. This
+approach reflects both the likely change in the local currency value of the warehouse as well
+as the actual change in the exchange rate. The original purchase price is ABP1,008,065
+(NER50,000/ABP0.0496). The value of the new warehouse in Abuelio as of 31 July 2017 is
+NER47,964, calculated as follows:
+ 
+ 
+ 
+23.【单项选择题】Relative to its domestic tax rate, Triofind's effective tax rate is most
+likely:
+A.lower.
+B.the same.
+C.higher.
+参考答案：A
+【莽学解析】Norvolt exempts the non-domestic income of multinationals from taxation. Because
+Norvolt has a corporate tax rate of 34%, the 0% tax rate in Borliand and the fact that 25% of
+Triofind's net income comes from Borliand should result in a lower effective tax rate on
+Triofind's consolidated financial statements compared with Triofind's domestic tax rate.
+Abuelio's tax rate of 35% is very close to that of Norvolt, and it constitutes only 15% of
+Triofind's net income, so its effect is unlikely to be significant.
+ 
+24.【单项选择题】Based on Exhibit 4, the country with the highest sustainable sales growth is:
+A.Norvolt.
+B.Abuelio.
+C.Borliand.
+参考答案：B
+【莽学解析】Although Borliand shows the highest growth in Norvolt euro terms, this result is
+partially because of currency fluctuations, which cannot be controlled. Abuelio had the highest
+change in sales resulting from price and volume at 13% (excluding foreign currency exchange).
+This growth is more sustainable than net sales growth, which includes currency fluctuations,
+because Triofind's management has more control over growth in sales resulting from greater
+volume or higher prices.
+ 
+【题干】Mike Martinez is an equity analyst who has been asked to analyze Stellar, Inc. by his
+supervisor, Dominic Anderson. Stellar exhibited strong earnings growth last year; however,
+Anderson is skeptical about the sustainability of the company's earnings. He wants Martinez to
+focus on Stellar's financial reporting quality and earnings quality.After conducting a thorough
+review of the company's financial statements, Martinez concludes the following:● Conclusion
+1Although Stellar's financial statements adhere to generally accepted accounting principles
+(GAAP), Stellar understates earnings in periods when the company is performing well and
+overstates earnings in periods when the company is struggling.● Conclusion 2Stellar most
+likely understated the value of amortizable intangibles when recording the acquisition of
+Solar, Inc. last year. No goodwill impairment charges have been taken since the acquisition.●
+Conclusion 3Over time, the accruals component of Stellar's earnings is large relative to the
+cash component.● Conclusion 4Stellar reported an unusually sharp decline in accounts
+receivable in the current year, and an increase in long-term trade receivables.
+ 
+25.【单项选择题】Based on Martinez's conclusions, Stellar's financial statements are best
+categorized as:
+A.non-GAAP compliant.
+B.GAAP compliant, but with earnings management.
+C.GAAP compliant and decision useful, with sustainable and adequate returns.
+参考答案：B
+【莽学解析】Stellar's financial statements are GAAP compliant (Conclusion 1) but cannot be
+relied upon to assess earnings quality. There is evidence of earnings management: understating
+and overstating earnings depending upon the results of the period (Conclusion 1), understated
+amortizable intangibles (Conclusion 2), and a high accruals component in the company's earnings
+(Conclusion 3).
+ 
+26.【单项选择题】Based on Conclusion 2, after the acquisition of Solar, Stellar's earnings are
+most likely:
+A.understated.
+B.fairly stated.
+C.overstated.
+参考答案：C
+【莽学解析】Martinez believes that Stellar most likely understated the value of amortizable
+intangibles when recording the acquisition of a rival company last year. Impairment charges
+have not been taken since the acquisition (Conclusion 2). Consequently, the company's earnings
+are likely to be overstated because amortization expense is understated. This understatement
+has not been offset by an impairment charge.
+ 
+27.【单项选择题】In his follow-up analysis relating to Conclusion 3, Martinez should focus on
+Stellar's:
+A.total accruals.
+B.discretionary accruals.
+C.non-discretionary accruals.
+参考答案：B
+【莽学解析】Martinez concluded that the accruals component of Stellar's earnings was large
+relative to the cash component (Conclusion 3). Earnings with a larger component of accruals are
+typically less persistent and of lower quality. An important distinction is between accruals
+that arise from normal transactions in the period (called non-discretionary) and accruals that
+result from transactions or accounting choices outside the normal (called discretionary
+accruals). The discretionary accruals are possibly made with the intent to distort reported
+earnings. Outlier discretionary accruals are an indicator of possibly manipulated—and thus low
+quality earnings. Thus, Martinez is primarily focused on discretionary accruals, particularly
+outlier discretionary accruals (referred to as abnormal accruals).
+ 
+28.【单项选择题】What will be the impact on Stellar in the current year if Martinez's belief in
+Conclusion 4 is correct? Compared with the previous year, Stellar's:
+A.current ratio will increase.
+B.days sales outstanding (DSO) will decrease.
+C.accounts receivable turnover will decrease.
+参考答案：B
+【莽学解析】Because accounts receivable will be lower than reported in the past, Stellar's DSO
+[Accounts receivable/(Revenues/365)] will decrease. Stellar's accounts receivable turnover
+(365/days' sales outstanding) will increase with the lower DSO, giving the false impression of
+a faster turnover. The company's current ratio will decrease (current assets will decrease with
+no change in current liabilities).
+ 
+【题干】Consolidated Motors is a US-based corporation that sells mechanical engines and
+components used by electric utilities. Its Canadian subsidiary, Consol-Can, operates solely in
+Canada. It was created on 31 December 20X1, and Consolidated Motors determined at that time
+that it should use the US dollar as its functional currency.Chief Financial Officer Monica
+Templeton was asked to explain to the board of directors how exchange rates affect the
+financial statements of both Consol-Can and the consolidated financial statements of
+Consolidated Motors. For the presentation, Templeton collects Consol-Can's balance sheets for
+the years ended 20X1 and 20X2 (Exhibit 1), as well as relevant exchange rate information
+(Exhibit 2).
+ 
+Templeton explains that Consol-Can uses the FIFO inventory accounting method and that purchases
+of C$300 million and the sell-through of that inventory occurred evenly throughout 20X2. Her
+presentation includes reporting the translated amounts in US dollars for each item, as well as
+associated translation-related gains and losses. The board responds with several questions.●
+Would there be a reason to change the functional currency to the Canadian dollar?● Would there
+be any translation effects for Consolidated Motors if the functional currency for Consol-Can
+were changed to the Canadian dollar?● Would a change in the functional currency have any
+impact on financial statement ratios for the parent company?● What would be the balance sheet
+exposure to translation effects if the functional currency were changed?
+ 
+29.【单项选择题】After translating Consol-Can's inventory and long-term debt into the parent
+company's currency (US$), the amounts reported on Consolidated Motor's financial statements on
+31 December 20X2 would be closest to (in millions):
+A.$71 for inventory and $161 for long-term debt.
+B.$71 for inventory and $166 for long-term debt.
+C.$73 for inventory and $166 for long-term debt.
+参考答案：B
+【莽学解析】When the parent company's currency is used as the functional currency, the temporal
+method must be used to translate the subsidiary's accounts. Under the temporal method, monetary
+assets and liabilities (e.g., debt) are translated at the current (year-end) rate, non-monetary
+assets and liabilities measured at historical cost (e.g., inventory) are translated at
+historical exchange rates, and non-monetary assets and liabilities measured at current value
+are translated at the exchange rate at the date when the current value was determined. Because
+beginning inventory was sold first and sales and purchases were evenly acquired, the average
+rate is most appropriate for translating inventory and C$77 million × 0.92 = $71 million.
+Long-term debt is translated at the year-end rate of 0.95. C$175 million × 0.95 = $166
+million.
+ 
+30.【单项选择题】After translating Consol-Can's 31 December 20X2 balance sheet into the parent
+company's currency (US$), the translated value of retained earnings will be closest to:
+A.$41 million.
+B.$44 million.
+C.$46 million.
+参考答案：B
+【莽学解析】Translating the 20X2 balance sheet using the temporal method, as is required in
+this instance, results in assets of US$369 million. The translated liabilities and common stock
+are equal to US$325 million, meaning that the value for 20X2 retained earnings is US$369
+million – US$325 million = US$44 million.
+ 
+ 
+ 
+31.【单项选择题】In response to the board's first question, Templeton would most likely reply
+that such a change would be justified if:
+A.the inflation rate in the United States became hyperinflationary.
+B.management wanted to flow more of the gains through net income.
+C.Consol-Can were making autonomous decisions about operations, investing, and financing.
+参考答案：C
+【莽学解析】The Canadian dollar would be the appropriate reporting currency when substantially
+all operating, financing, and investing decisions are based on the local currency. The parent
+country's inflation rate is never relevant. Earnings manipulation is not justified, and at any
+rate changing the functional currency would take the gains off of the income statement.
+ 
+32.【单项选择题】In response to the board's second question, Templeton should reply that if the
+change is made, the consolidated financial statements for Consolidated Motors would begin to
+recognize:
+A.realized gains and losses on monetary assets and liabilities.
+B.realized gains and losses on non-monetary assets and liabilities.
+C.unrealized gains and losses on non-monetary assets and liabilities.
+参考答案：C
+【莽学解析】If the functional currency were changed from the parent currency (US dollar) to the
+local currency (Canadian dollar), the current rate method would replace the temporal method.
+The temporal method ignores unrealized gains and losses on non-monetary assets and liabilities,
+but the current rate method does not.
+ 
+33.【单项选择题】In response to the board's third question, Templeton should note that the
+change will most likely affect:
+A.the cash ratio.
+B.fixed asset turnover.
+C.receivables turnover.
+参考答案：B
+【莽学解析】如果Functional currency从美元变更为加元，则Current rate method将取代Temporal
+method。Cash ratio，Current rate method下分子分母都用期末汇率；Temporal method下分子是货币性资
+产，分母是货币性负债，都用期末汇率。Fixed asset turnover=Sales/Fixed assets，Current rate
+method下分子用平均汇率，分母用期末汇率；Temporal method下分子用平均汇率，分母用历史汇率，两者不
+一样。Receivables turnover=Sales/Accounts receivable，Current rate method下分子用平均汇率，分母
+用期末汇率；Temporal method下分子用平均汇率，分母用期末汇率，两者一致。
+ 
+ 
+34.【单项选择题】In response to the board's fourth question, the balance sheet exposure (in C$
+millions) would be closest to:
+A.–19.
+B.148.
+C.400.
+参考答案：B
+【莽学解析】如果Functional currency发生变化，使用Current rate method，资产负债表折算敞口将等于
+净资产（总资产-总负债）。在这种情况下，400–77–175=148。
+ 
+【题干】Emmitt Dodd is a portfolio manager for Upsilon Advisers. Dodd meets with Sonya Webster,
+the firm's analyst responsible for the machinery industry, to discuss three established
+companies: BIG Industrial, Construction Supply, and Dynamic Production. Webster provides Dodd
+with research notes for each company that reflect trends during the last three years:BIG
+Industrial:Note 1Operating income has been much lower than operating cash flow (OCF).Note
+2Accounts payable has increased, while accounts receivable and inventory have substantially
+decreased.Note 3Although OCF was positive, it was just sufficient to cover capital
+expenditures, dividends, and debt repayments.Construction Supply:Note 4Operating margins have
+been relatively constant.Note 5The growth rate in revenue has exceeded the growth rate in
+receivables.Note 6OCF was stable and positive, close to its reported net income, and just
+sufficient to cover capital expenditures, dividends, and debt repayments.Dynamic
+Production:Note 7OCF has been more volatile than that of other industry participants.Note 8OCF
+has fallen short of covering capital expenditures, dividends, and debt repayments.Dodd asks
+Webster about the use of quantitative tools to assess the likelihood of misreporting. Webster
+tells Dodd she uses the Beneish model, and she presents the estimated M-scores for each company
+in Exhibit 1.
+Webster tells Dodd that Dynamic Production was required to restate its 2016 financial
+statements as a result of its attempt to inflate sales revenue. Customers of Dynamic Production
+were encouraged to take excess product in 2016, and they were then allowed to return purchases
+in the subsequent period, without penalty.Webster's industry analysis leads her to believe that
+innovations have caused some of the BIG Industrial's inventory to become obsolete. Webster
+expresses concern to Dodd that although the notes to the financial statements for BIG
+Industrial are informative about its inventory cost methods, its inventory is overstated.The
+BIG Industrial income statement reflects a profitable 49% unconsolidated equity investment.
+Webster calculates the return on sales of BIG Industrial based on the reported income
+statement. Dodd notes that industry peers consolidate similar investments. Dodd asks Webster to
+use a comparable method of calculating the return on sales for BIG Industrial.
+ 
+35.【单项选择题】Which of Webster's notes about BIG Industrial provides an accounting warning
+sign of a potential reporting problem?
+A.Only Note 1
+B.Only Note 2
+C.Both Note 1 and Note 2
+参考答案：B
+【莽学解析】只有Note 2提供了警告标志。应付账款的增加与应收账款和存货的大幅减少相结合，是一个会
+计警告信号，表明管理层可能夸大了经营活动产生的现金流量。Note 1不一定提供警告标志。营业收入大于
+营业现金流是潜在报告问题的警告信号。在这种情况下，BIG的营业收入低于其营业现金流。
+ 
+36.【单项选择题】Do either of Webster's Notes 4 or 5 about Construction Supply describe an
+accounting warning sign of potential overstatement or non-sustainability of operating income?
+A.No
+B.Yes, Note 4 provides a warning sign
+C.Yes, Note 5 provides a warning sign
+参考答案：A
+【莽学解析】Note 4和Note 5均未提供营业收入可能存在多报或不可持续性的会计警告迹象。Note 5说明过
+去三年，Construction Supply的营业利润率相对稳定。Note 5表明收入的增长超过应收的增长，证明更多的
+增长部分是现金流收入带来的。
+ 
+ 
+37.【单项选择题】Based on Webster's research notes, which company would most likely be
+described as having high-quality cash flow?
+A.BIG Industrial
+B.Construction Supply
+C.Dynamic Production
+参考答案：B
+【莽学解析】B公司Note2是警告信号，Note1和Note3不是警告信号；C公司Note4、5、6都不是警告信号；D公
+司Note7、8都不是警告信号。Note3、6、7、8都是讲经营现金流的问题，其中Note6说明经营现金流稳定且为
+正，能够支付资本支出，股利和偿还债务；Note3未说明稳定，则C公司好于B公司。Note7和Note8中说明经营
+现金流比同行其他公司更波动，不能覆盖资本支出等，则C公司好于D公司。
+ 
+ 
+38.【单项选择题】Based on the Beneish model results for 2017 in Exhibit 1, which company has
+the highest probability of being an earnings manipulator?
+A.BIG Industrial
+B.Construction Supply
+C.Dynamic Production
+参考答案：A
+【莽学解析】M-scores越高，说明盈余操纵的可能性越大。2017年M-scores最高的公司是B公司，M得分为-
+1.54。C得分最低，为-2.60分，D也较低，为-1.86分。B的M分数高于相关的临界值-1.78。
+ 
+39.【单项选择题】Based on the information related to its restatement, Dynamic Production
+reported poor operating cash flow quality in 2016 by understating:
+A.inventories.
+B.net income.
+C.trade receivables.
+参考答案：A
+【莽学解析】题中说到，D公司被要求restate财报，原因是虚高的销售利润，D公司鼓励客户可以无偿退货。
+如果是上述这种情况，就是存货减小，净利润增高，贸易应收增高。
+ 
+ 
+40.【单项选择题】Webster's concern about BIG Industrial's inventory suggests poor reporting
+quality, most likely resulting from a lack of:
+A.completeness.
+B.clear presentation.
+C.unbiased measurement.
+参考答案：C
+【莽学解析】W担心，创新已经使一些BIG的库存过期。但公司没有减记，存货偏高。存货余额不反映无偏计
+量。
+ 
+41.【单项选择题】In response to Dodd's request, Webster's recalculated return on sales will
+most likely:
+A.decrease.
+B.remain the same.
+C.increase.
+参考答案：A
+【莽学解析】Profitable 49% unconsolidated equity investment.没有合并报表投资，用Equity method。
+其他公司合并报表。权益法或合并报表，其NI是相同的。但是合并报表后，Sales是升高的。那么如果从不合
+并报表，转为合并报表，导致分子NI不变，分母Sales增大，整体减小。
+ 
+【题干】BetterCare Hospitals, Inc. operates a chain of hospitals throughout the United States.
+The company has been expanding by acquiring local hospitals. Its largest acquisition, that of
+Statewide Medical, was made in 2001 under the pooling of interests method.BetterCare complies
+with US GAAP.BetterCare is currently forming a 50/50 joint venture with Supreme Healthcare
+under which the companies will share control of several hospitals. BetterCare plans to use the
+equity method to account for the joint venture. Supreme Healthcare complies with IFRS and will
+use the proportionate consolidation method to account for the joint venture.Erik Ohalin is an
+equity analyst who covers both companies. He has estimated the joint venture's financial
+information for 2018 in order to prepare his estimates of each company's earnings and financial
+performance. This information is presented in Exhibit 1.
+Supreme Healthcare recently announced it had formed a special purpose entity through which it
+plans to sell up to $100 million of its accounts receivable. Supreme Healthcare has no voting
+interest in the SPE, but it is expected to absorb any losses that it may incur. Ohalin wants to
+estimate the impact this will have on Supreme Healthcare's consolidated financial statements.
+ 
+42.【单项选择题】Compared to accounting principles currently in use, the pooling method
+BetterCare used for its Statewide Medical acquisition has most likely caused its reported:
+A.revenue to be higher.
+B.total equity to be lower.
+C.total assets to be higher.
+参考答案：B
+【莽学解析】Pooling method是过去允许的，现在应该用Acquisition method，此题就是两种方法对比。用
+Pooling method核算，所有资产和负债按历史账面价值列报，采用历史账面价值法的资产超过负债的部分
+（权益）通常低于采用公允价值法的部分。对收入没有影响。
+ 
+43.【单项选择题】Based on Ohalin's estimates, the amount of joint venture revenue (in $
+millions) included on BetterCare's consolidated 2018 financial statements should be closest to:
+A.$0.
+B.$715.
+C.$1,430.
+参考答案：A
+【莽学解析】Equity method下，BetterCare将其在合资企业NI的投资收益单项记录，不会逐行显示对收入或
+费用的贡献。
+ 
+44.【单项选择题】Based on Ohalin's estimates, the amount of joint venture net income included
+on the consolidated financial statements of each venturer will most likely be:
+A.higher for BetterCare.
+B.higher for Supreme Healthcare.
+C.the same for both BetterCare and Supreme Healthcare.
+参考答案：C
+【莽学解析】Net income will be the same under the equity method and proportional consolidation.
+However, sales, cost of sales, and expenses are different because under the equity method the
+net effect of sales, cost of sales, and expenses is reflected in a single line.
+ 
+45.【单项选择题】Based on Ohalin's estimates, the amount of the joint venture's 31 December
+2018 total assets (in $ millions) that will be included on Supreme Healthcare’s consolidated
+financial statements will be closest to:
+A.$0.
+B.$750.
+C.$1,500.
+参考答案：B
+【莽学解析】Under the proportionate consolidation method, Supreme Healthcare's consolidated
+financial statements will include its 50 percent share of the joint venture's total assets.
+ 
+46.【单项选择题】Based on Ohalin's estimates, the amount of joint venture shareholders' equity
+at 31 December 2018 included on the consolidated financial statements of each venturer will
+most likely be:
+A.higher for BetterCare.
+B.higher for Supreme Healthcare.
+C.the same for both BetterCare and Supreme Healthcare.
+参考答案：C
+【莽学解析】The choice of equity method or proportionate consolidation does not affect reported
+shareholders' equity.
+ 
+47.【单项选择题】If Supreme Healthcare sells its receivables to the SPE, its consolidated
+financial results will least likely show:
+A.a higher revenue for 2018.
+B.the same cash balance at 31 December 2018.
+C.the same accounts receivable balance at 31 December 2018.
+参考答案：A
+【莽学解析】Supreme Healthcare“实质上”控制SPE并将其合并。在合并资产负债表上，应收账款余额将相
+同，因为出售给SPE的款项将在合并时转回。
+ 
+【题干】Adrienne Yu is an analyst with an international bank. She analyzes Ambleu S.A.
+(“Ambleu”), a multinational corporation, for a client presentation. Ambleu complies with
+IFRS, and its presentation currency is the Norvoltian krone (NVK). Ambleu's two subsidiaries,
+Ngcorp and Cendaró, have different functional currencies: Ngcorp uses the Bindiar franc (FB)
+and Cendaró uses the Crenland guinea (CRG).Yu first analyzes the following three transactions
+to assess foreign currency transaction exposure:Transaction 1: Cendaró sells goods to a non-
+domestic customer that pays in dollars on the purchase date.Transaction 2: Ngcorp obtains a
+loan in Bindiar francs on 1 June 2016 from a European bank with the Norvoltian krone as its
+presentation currency.Transaction 3: Ambleu imports inventory from Bindiar under 45-day credit
+terms, and the payment is to be denominated in Bindiar francs.Yu then reviews Transactions 2
+and 3. She determines the method that Ambleu would use to translate Transaction 2 into its 31
+December 2016 consolidated financial statements. While analyzing Transaction 3, Yu notes that
+Ambleu purchased inventory on 1 June 2016 for FB27,000/ton. Ambleu pays for the inventory on 15
+July 2016. Exhibit 1 presents selected economic data for Bindiar and Crenland.
+Prior to reviewing the 2016 and 2017 consolidated financial statements of Ambleu, Yu meets with
+her supervisor, who asks Yu the following two questions:Question 1Would a foreign currency
+translation loss reduce Ambleu's net sales growth?Question 2According to IFRS, what disclosures
+should be included relating to Ambleu's treatment of foreign currency translation for Ngcorp?To
+complete her assignment, Yu analyzes selected information and notes from Ambleu's 2016 and 2017
+consolidated financial statements, presented in Exhibit 2.
+Note 3: The parent company transferred NVK15 million to Cendaró on 1 January 2016 to purchase a
+patent from a competitor for CRG85.17 million.Note 4: The 2016 consolidated balance sheet
+includes Ngcorp's total intangible assets of NVK3 million, which were added to Ngcorp's balance
+sheet on 15 July 2016.
+ 
+48.【单项选择题】Which transaction would generate foreign currency transaction exposure for
+Ambleu?
+A.Transaction 1
+B.Transaction 2
+C.Transaction 3
+参考答案：C
+【莽学解析】In Transaction 3, the payment for the inventory is due in Bindiar francs, a
+different currency from the Norvoltian krone, which is Ambleu's presentation currency. Because
+the import purchase (account payable) is under 45-day credit terms, Ambleu has foreign currency
+transaction exposure. The payment is subject to fluctuations in the FB/NVK exchange rate during
+the 45-day period between the sale and payment dates. Thus, Ambleu is exposed to potential
+foreign currency gains if the Bindiar franc weakens against the Norvoltian krone or foreign
+currency losses if the Bindiar franc strengthens against the Norvoltian krone.
+ 
+49.【单项选择题】Yu's determination regarding Transaction 2 should be based on the currency of
+the:
+A.loan.
+B.bank.
+C.borrower.
+参考答案：C
+【莽学解析】The currency of Ngcorp as the borrowing foreign subsidiary, relative to that of
+Ambleu, determines Ambleu's choice of translation method for Transaction 2. Because Ngcorp's
+functional currency is the Bindiar franc and Ambleu's presentation currency is the Norvoltian
+krone, the current rate method rather than the temporal method should be used. Regardless of
+the currency in which the loan is denominated, the loan is first recorded in Ngcorp's financial
+statements. Then, Ngcorp's financial statements, which include the bank loan, are translated
+into Ambleu's consolidated financial statements.
+ 
+50.【单项选择题】Based on Exhibit 1, what is the foreign exchange gain resulting from
+Transaction 3 on the 31 December 2016 financial statements?
+A.NVK1.70 per ton
+B.NVK90.75 per ton
+C.NVK248.54 per ton
+参考答案：A
+【莽学解析】On Ambleu's balance sheet, the cost included in the inventory account is the
+translation of FB27,000/ton into Norvoltian krone on the purchase date. Ambleu could have paid
+this amount on the purchase date but chose to wait 45 days to settle the account. The inventory
+cost is determined using the FB/NVK exchange rate of 4.1779 on the purchase date of 1 June
+2016.FB27,000/FB4.1779/NVK = NVK6,462.58/tonThe cash outflow is the amount exchanged from the
+Norvoltian krone to the Bindiar franc to pay the FB27,000/ton owed for the inventory 45 days
+after the transaction date. This payment uses the FB/NVK exchange rate of 4.1790 on the
+settlement date of 15 July 2016.FB 27,000/FB4.1790 per NVK = NVK6,460.88/tonForeign exchange
+gain = Inventory cost – Cash payment= NVK6,462.58 – NVK6,460.88= NVK1.70/tonThus, Ambleu's
+cash outflow is less than the cost included in the inventory account, and NVK1.70/ton is the
+realized foreign exchange gain relating to this transaction. By deferring payment for 45 days,
+and because the Bindiar franc decreased in value during this period, Ambleu pays NVK1.70/ton
+less than the inventory cost on the purchase date of 1 June 2016. Thus, Ambleu will report a
+foreign exchange gain in its 2016 net income.
+ 
+ 
+51.【单项选择题】What is the best response to Question 1?
+A.Yes
+B.No, because it would reduce organic sales growth
+C.No, because it would reduce net price realization and mix
+参考答案：A
+【莽学解析】Net sales growth equals organic sales growth plus or minus the effects of
+acquisitions, divestitures, and foreign exchange. A foreign currency translation loss would
+reduce net sales growth. Thus the answer to Question 1 is yes.
+ 
+52.【单项选择题】Based on Exhibit 1, the best response to Question 2 is that Ambleu should
+disclose:
+A.a restatement for local inflation.
+B.that assets carried at historical cost are translated at historical rates.
+C.the amount of foreign exchange differences included in net income.
+参考答案：C
+【莽学解析】A.通胀率为2%，3%，不是恶性通胀，我们不需要调整，所以不用restatement；B.两个子公司用
+的均为Current method，不用historical rates；排除法，答案选C。C.the amount of foreign exchange
+difference,在此指的是Foreign currency transaction G/L，需要放在利润表中，而且需要披露。
+ 
+ 
+53.【单项选择题】Based on Exhibit 1 and Note 1 in Exhibit 2, the amount that Ambleu should
+include in its 31 December 2017 revenue from Cendaró is closest to:
+A.NVK10.60 million.
+B.NVK13.25 million.
+C.NVK19.73 million.
+参考答案：A
+【莽学解析】Crenland experienced hyperinflation from 31 December 2015 to 31 December 2017, as
+shown by the General Price Index, with cumulative inflation of 128.2% during this period.
+According to IFRS, Cendaró's financial statements must be restated for local inflation, then
+translated into Norvoltian kroner using the current exchange rate. The 2017 revenue from
+Cendaró that should be included in Ambleu's income statement is calculated as follows:Revenue
+in CRG × (GPI 31 December 2017/GPI average 2017) = Inflation-adjusted revenue in CRGCRG125.23
+million × (228.2/186.2) = CRG153.48 millionInflation-adjusted revenue in CRG/31 December 2017
+exchange rate (CRG/NVK) = Revenue in Norvoltian kronerCRG153.48 million/14.4810 = NVK10.60
+million
+ 
+ 
+54.【单项选择题】Based on Exhibit 2 and Note 2, the change in Ambleu's consolidated income tax
+rate from 2016 to 2017 most likelyresulted from a:
+A.decrease in Ambleu's domestic tax rate.
+B.more profitable business mix in its subsidiaries.
+C.stronger Norvoltian krone relative to the currencies of its subsidiaries.
+参考答案：B
+【莽学解析】The consolidated income tax rate is calculated as income tax expense divided by
+profit before tax. Note 2 shows that Ambleu's consolidated income tax rate decreases by 2.29%,
+from 34.94% (=94/269) in 2016 to 32.65% (=96/294) in 2017. The largest component of the
+decrease stems from the 1.42% change in the effect of tax rates in non-domestic jurisdictions,
+which lowers Ambleu's consolidated income tax rate in 2016 by 3.34% (=9/269) and in 2017 by
+4.76% (=14/294). The decrease in 2017 could indicate that Ambleu's business mix shifted to
+countries with lower marginal tax rates, resulting in a lower consolidated income tax rate and
+more profit. (The change could also indicate that the marginal tax rates decreased in the
+countries in which Ambleu earns profits.)
+ 
+55.【单项选择题】Based on Exhibit 1 and Note 3 in Exhibit 2, the cumulative translation loss
+recognized by Ambleu related to the patent purchase on the 31 December 2017 financial
+statements is closest to:
+A.NVK0.39 million.
+B.NVK1.58 million
+C.NVK9.12 million.
+参考答案：B
+【莽学解析】IAS 29 indicates that a cumulative inflation rate approaching or exceeding 100%
+over three years would be an indicator of hyperinflation. Because the cumulative inflation rate
+for 2016 and 2017 in Crenland was 128.2%, Cendaró's accounts must first be restated for local
+inflation. Then, the inflation-restated Crenland guinea financial statements can be translated
+into Ambleu's presentation currency, the Norvoltian krone, using the current exchange rate.
+Using this approach, the cumulative translation loss on 31 December 2017 for the CRG85.17
+million patent purchase is –NVK1.58 million, as shown in the following table.
+ 
+ 
+ 
+56.【单项选择题】Based on Exhibit 1 and Note 4 in Exhibit 2, the total intangible assets on
+Ngcorp's balance sheet as of 31 December 2016 are closest to:
+A.FB12.54 million.
+B.FB12.71 million.
+C.FB13.04 million.
+参考答案：B
+【莽学解析】Because Ngcorp has a functional currency that is different from Ambleu's
+presentation currency, the intangible assets are translated into Norvoltian kroner using the
+current rate method. The current FB/NVK exchange rate is 4.2374 as of 31 December 2016. Thus,
+the intangible assets on Ngcorp's 2016 balance sheet are NVK3 million × FB4.2374/NVK = FB12.71
+million.
+ 
+【题干】
+In addition, Confabulated’s annual report discusses a transaction under which receiv- ables
+were securitized through a special purpose entity (SPE) for Confabulated’s benefit.
+ 
+57.【单项选择题】The balance sheet carrying value of Confabulated’s investment portfolio (in
+€ thousands) at 31 December 2018 is closest to:
+A.112,000.
+B.115,000.
+C.118,000.
+参考答案：B
+【莽学解析】Under IFRS 9, FVPL and FVOCI securities are carried at market value, whereas
+amortized cost securities are carried at historical cost. €28,000 + 37,000 + 50,000 =
+€115,000.
+ 
+58.【单项选择题】The balance sheet carrying value of Confabulated’s investment portfolio at 31
+December 2018 would have been higher if which of the securities had been reclassified as FVPL
+security?
+A.Bugle.
+B.Cathay.
+C.Dumas.
+参考答案：C
+【莽学解析】If Dumas had been classified as a FVPL security, its carrying value would have been
+the €55,000 fair value rather than the €50,000 historical cost.
+ 
+59.【单项选择题】Compared to Confabulated’s reported interest income in 2018, if Dumas had
+been classified as FVPL, the interest income would have been:
+A.lower.
+B.the same.
+C.higher.
+参考答案：B
+【莽学解析】The coupon payment is recorded as interest income whether securities are amortized
+cost or FVPL. No adjustment is required for amortization since the bonds were bought at par.
+ 
+60.【单项选择题】Compared to Confabulated’s reported earnings before taxes in 2018, if Dumas
+had been classified as a FVPL security, the earnings before taxes (in € thou- sands) would
+have been:
+A.the same.
+B.€1,000 lower.
+C.€1,000 higher.
+参考答案：C
+【莽学解析】Unrealized gains and losses are included in income when securities are classified
+as FVPL. During 2018 there was an unrealized gain of €1,000.
+ 
+61.【单项选择题】Confabulated’s reported interest income would be lower if the cost was the
+same but the par value (in € thousands) of:
+A.Bugle was €28,000.
+B.Cathay was €37,000.
+C.Dumas was €55,000.
+参考答案：B
+【莽学解析】The difference between historical cost and par value must be amortized under the
+effective interest method. If the par value is less than the initial cost (stated interest rate
+is greater than the effective rate), the interest income would be lower than the interest
+received because of amortization of the premium.
+ 
+62.【单项选择题】Confabulated’s special purpose entity is most likely to be:
+A.held off-balance sheet.
+B.consolidated on Confabulated’s financial statements.
+C.consolidated on Confabulated’s financial statements only if it is a “qualifying SPE.”
+参考答案：B
+【莽学解析】Under IFRS, SPEs must be consolidated if they are conducted for the benefit of the
+sponsoring entity. Further, under IFRS, SPEs cannot be classi- fied as qualifying. Under US
+GAAP, qualifying SPEs (a classification which has been eliminated) do not have to be
+consolidated.

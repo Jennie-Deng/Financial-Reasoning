@@ -1,0 +1,830 @@
+Fixed Income
+共享题干题
+【题干】Jules Bianchi is a bond analyst for Maneval Investments, lnc. Bianchi gathers data on
+three corporate bonds, as shown in Exhibit 1.
+To assess the interest rate risk of the three bonds, Bianchi constructs two binomial interest
+rate trees based on a 10% interest rate volatility assumption and a current one-year rate of
+1%. Panel A of Exhibit 2 provides an interest rate tree assuming the benchmark yield curve
+shifts down by 30 bps, and Panel B provides an interest rate tree assuming the benchmark yield
+curve shifts up by 30 bps. Bianchi determines that the AI bond is currently trading at an
+option-adjusted spread (OAS) of 13.95 bps relative to the benchmark yield curve.
+Armand Gillette, a convertible bond analyst, stops by Bianchi's office to discuss two
+convertible bonds. One is issued by DeLille Enterprises (DE) and the other is issued by
+Raffarin Incorporated (RI). Selected data for the two bonds are presented in Exhibits 3 and 4.
+ 
+Gillette makes the following comments to Bianchi:■ “The DE bond does not contain any call or
+put options but the RI bond contains both an embedded call option and put option. I expect that
+DeLille Enterprises will soon announce a common stock dividend of €0.70 per share.”■ “My
+belief is that, over the next year, Raffarin's share price will appreciate toward the
+conversion price but not exceed it.”
+ 
+1.【单项选择题】Based on Exhibits 1 and 2, the effective duration for the AI bond is closest
+to:
+A.1.98
+B.2.15
+C.2.73
+参考答案：B
+【莽学解析】The AI bond's value if interest rates shift down by 30 bps (PV-) is 100.78:
+The AI bond's value if interest rates shift up by 30 bps (PV+) is 99.487:
+ 
+ 
+ 
+ 
+2.【单项选择题】If benchmark yields were to fall, which bond in Exhibit 1would most likely
+experience a decline in effective duration?
+A.AI bond
+B.BI bond
+C.CE bond
+参考答案：A
+【莽学解析】The AI bond is a callable bond and the effective duration of a callable bond
+decreases when interest rates fall. The reason is because a decline in interest rates may
+result in the call option moving into the money, which limits the price appreciation of the
+callable bond. Exhibit 1 also shows that the price of the Al bond is 100.200 and that it is
+callable at par in one year and two years. Thus, the call option is already in the money and
+would likely be exercised in response to increases in the Al bond's price.
+ 
+3.【单项选择题】Based on Exhibit 1, for the BI bond, one-sided:
+A.up-duration will be greater that one-sided down-duration.
+B.down-duration will be greater than one-sided up-duration.
+C.up-duration and one-sided down-duration will be about equal.
+参考答案：C
+【莽学解析】The BI bond is an option-free bond and one-sided up-duration and one-sided down-
+duration will be about equal for option-free bonds.
+ 
+4.【单项选择题】Based on Exhibit 1, which key rate duration is the largest for the BI bond?
+A.One-year key rate duration
+B.Two-year key rate duration
+C.Three-year key rate duration
+参考答案：C
+【莽学解析】The BI bond is an option-free bond. Its longest key rate duration will be in the
+year of its maturity because the largest cash flow (payment of both coupon and principal)
+occurs in that year.
+ 
+5.【单项选择题】Which bond in Exhibit 1 most likely has the lowest effective convexity?
+A.AI bond
+B.BI bond
+C.CE bond
+参考答案：A
+【莽学解析】All else being equal, a callable bond will have lower effective convexity than an
+option-free bond when the call option is in the money. Similarly, when the call option is in
+the money, a callable bond will also have lower effective convexity than a putable bond if the
+put option is out of the money. Exhibit 1 shows that the callable Al bond is currently priced
+slightly higher than its call price of par value, which means the embedded call option is in
+the money. The put option embedded in the CE bond is not in the money; the bond is currently
+priced 2.1% above par value. Thus, at the current price, the putable CE bond is more likely to
+behave like the option-free BI bond. Consequently, the effective convexity of the AI bond will
+likely be lower than the option-free BI bond and the putable CE bond.
+ 
+6.【单项选择题】Based on Exhibit 3, if DeLille Enterprises pays the dividend expected by
+Gillette, the conversion price of the DE bond will:
+A.be adjusted downward
+B.not be adjusted.
+C.be adjusted upward.
+参考答案：A
+【莽学解析】The conversion price would be adjusted downward because Gillette's expected
+dividend payment of €0.70 is greater than the threshold dividend of €0.50.
+ 
+7.【单项选择题】Based on Exhibit 3, the market conversion premium per share for the DE bond on
+17 September 20X5 is closest to:
+A.€0.90.
+B.€2.13.
+C.€2.53.
+参考答案：B
+【莽学解析】The market conversion premium per share is equal to the market conversion price
+minus the underlying share price. =The market conversion price is calculated as follows:Market
+conversion price = Convertible bond / Conversion ratio = €1,123 / €1,000/€10 per share =
+€11.23 per shareThe market conversion premium per share is then calculated as follows:Market
+conversion premium per share = Market conversion price - Underlying share price = €1123 一
+€9.10 = €2.13
+ 
+ 
+8.【单项选择题】Based on Exhibit 4, the arbitrage-free value of the RI bond is closest to:
+A.€814.
+B.€1,056.
+C.€1,108.
+参考答案：C
+【莽学解析】The value of a convertible bond with both an embedded call option and a put option
+can be determined using the following formula:Value of callable putable convertible bond= Value
+of straight bond ＋ Value of call option on the issuer's stock - Value of issuer call option +
+Value of investor put option.Value of callable putable bond = €978 + €147 - €43 + €26 =
+€1,108
+ 
+ 
+9.【单项选择题】Based on Exhibit 4 and Gillette's forecast regarding Raffarin's share price,
+the return on the RI bond over the next year is most likely to be:
+A.lower than the return on Raffarin's common shares.
+B.the same as the return on Raffarin's common shares.
+C.higher than the return on Raffarin's common shares.
+参考答案：A
+【莽学解析】Over the next year, Gillette believes that Raffarin's share price will continue to
+increase towards the conversion price but not exceed it. If Gillette's forecast becomes true,
+the return on the RI bond will increase but at a lower rate than the increase in Raffarin's
+share price because the conversion price is not expected to be reached.
+ 
+【题干】John Smith, a fixed-income portfolio manager at a €10 billion sovereign wealth fund
+(the Fund), meets with Sofia Chan, a derivatives strategist with Shire Gate Securities (SGS),
+to discuss investment opportunities for the Fund. Chan notes that SGS adheres to ISDA
+(International Swaps and Derivatives Association) protocols for credit default swap (CDS)
+transactions and that any contract must conform to ISDA specifications. Before the Fund can
+engage in trading CDS products with SGS, the Fund must satisfy compliance requirements.
+Smith explains to Chan that fixed-income derivatives strategies are being contemplated for both
+hedging and trading purposes. Given the size and diversified nature of the Fund, Smith asks
+Chan to recommend a type of CDS that would allow the Fund to simultaneously fully hedge
+multiple fixed-income exposures.
+Smith and Chan discuss opportunities to add trading profits to the Fund. Smith asks Chan to
+determine the probability of default associated with a five-year investment-grade bond issued
+by Orion Industrial. Selected data on the Orion Industrial bond are presented in Exhibit 1.
+Chan explains that a single-name CDS can also be used to add profit to the Fund over time. Chan
+describes a hypothetical trade in which the Fund sells ￡6 million of five-year CDS protection
+on Orion, where the CDS contract has a duration of 3.9 years. Chan assumes that the Fund closes
+the position six months later, after Orion’s credit spread narrowed from 150 bps to 100 bps.
+Chan discusses the mechanics of a long/short trade. In order to structure a number of potential
+trades, Chan and Smith exchange their respective views on individual companies and global
+economies. Chan and Smith agree on the following outlooks.
+Outlook 1: The European economy will weaken.
+Outlook 2: The US economy will strengthen relative to that of Canada.
+Outlook 3: The credit quality of electric car manufacturers will improve relative to that of
+traditional car manufacturers.
+Chan believes US macroeconomic data are improving and that the general economy will strengthen
+in the short term. Chan suggests that a curve trade could be used by the Fund to capitalize on
+her short-term view of a steepening of the US credit curve.
+Another short-term trading opportunity that Smith and Chan discuss involves the merger and
+acquisition market. SGS believes that Delta Corporation may make an unsolicited bid at a
+premium to the market price for all of the publicly traded shares of Zega, Inc. Zega’s market
+capitalization and capital structure are comparable to Delta’s; both firms are highly levered.
+It is anticipated that Delta will issue new equity along with 5- and 10-year senior unsecured
+debt to fund the acquisition, which will significantly increase its debt ratio.
+ 
+10.【单项选择题】To satisfy the compliance requirements referenced by Chan, the fund is most
+likely required to:
+A.set a notional amount.
+B.post an upfront payment.
+C.sign an ISDA master agreement.
+参考答案：C
+【莽学解析】Parties to CDS contracts generally agree that their contracts will conform to ISDA
+specifications. These terms are specified in the ISDA master agreement, which the parties to a
+CDS sign before any transactions are made. Therefore, to satisfy the compliance requirements
+referenced by Chan, the sovereign wealth fund must sign an ISDA master agreement with SGS.
+ 
+11.【单项选择题】Which type of CDS should Chan recommend to Smith?
+A.CDS index
+B.Tranche CDS
+C.Single-name CDS
+参考答案：A
+【莽学解析】A CDS index (e.g., CDX and iTraxx) would allow the Fund to simultaneously fully
+hedge multiple fixed-income exposures. A tranche CDS will also hedge multiple exposures, but it
+would only partially hedge those exposures.
+ 
+12.【单项选择题】Based on Exhibit 1, the probability of Orion defaulting on the bond during the
+first three years is closest to:
+A.1.07%.
+B.2.50%.
+C.3.85%.
+参考答案：A
+【莽学解析】Based on Exhibit 1, the probability of survival for the first year is 99.78% (100%
+minus the 0.22% hazard rate). Similarly, the probability of survival for the second and third
+years is 99.65% (100% minus the 0.35% hazard rate) and 99.50% (100% minus the 0.50% hazard
+rate), respectively. Therefore, the probability of survival of the Orion bond through the first
+three years is equal to 0.9978 × 0.9965 × 0.9950 = 0.9893, and the probability of default
+sometime during the first three years is 1 – 0.9893, or 1.07%.
+ 
+13.【单项选择题】To close the position on the hypothetical Orion trade, the Fund:
+A.sells protection at a higher premium than it paid at the start of the trade.
+B.buys protection at a lower premium than it received at the start of the trade.
+C.buys protection at a higher premium than it received at the start of the trade.
+参考答案：B
+【莽学解析】The trade assumes that ￡6 million of five-year CDS protection on Orion is
+initially sold, so the Fund received the premium. Because the credit spread of the Orion CDS
+narrowed from 150 bps to 100 bps, the CDS position will realize a financial gain. This
+financial gain is equal to the difference between the upfront premium received on the original
+CDS position and the upfront premium to be paid on a new, offsetting CDS position. To close the
+position and monetize this gain, the Fund should unwind the position by buying protection for a
+lower premium (relative to the original premium collected).
+ 
+14.【单项选择题】The hypothetical Orion trade generated an approximate:
+A.loss of ￡117,000.
+B.gain of ￡117,000.
+C.gain of ￡234,000.
+参考答案：B
+【莽学解析】The gain on the hypothetical Orion trade is ￡117,000, calculated as follows.
+Approximate profit = Change in credit spread (in bps) x Duration x Notional amount
+Approximate profit = (150 bps - 100 bps) x 3.9 x ￡6 million.
+Approximate profit = 0.005 x 3.9 x ￡6 million = ￡117,000
+The Fund gains because it sold protection at a spread of 150 bps and closed out the position by
+buying protection at a lower spread of 100 bps.
+ 
+15.【单项选择题】Based on the three economic outlook statements, a profitable long/short trade
+would be to:
+A.sell protection using a Canadian CDX IG and buy protection using a US CDX IG.
+B.buy protection using an iTraxx Crossover and sell protection using an iTraxx Main.
+C.buy protection using an electric car CDS and sell protection using a traditional car CDS.
+参考答案：B
+【莽学解析】Based on Outlook 1, Chan and Smith anticipate that Europe’s economy will weaken.
+In order to profit from this forecast, one would buy protection using a high-yield CDS index
+(e.g., iTraxx Crossover) and sell protection using an investment-grade CDS index (e.g., iTraxx
+Main).
+16.【单项选择题】The curve trade that would best capitalize on Chan’s view of the US credit
+curve is to:
+A.buy protection using a 20-year CDX and buy protection using a 2-year CDX.
+B.buy protection using a 20-year CDX and sell protection using a 2-year CDX.
+C.sell protection using a 20-year CDX and buy protection using a 2-year CDX.
+参考答案：B
+【莽学解析】To take advantage of Chan’s view of the US credit curve steepening in the short
+term, a curve trade will entail shorting (buying protection using) a long-term (20-year) CDX
+and going long (selling protection using) a short-term (2-year) CDX. A steeper curve means that
+long-term credit risk increases relative to short-term credit risk.
+ 
+17.【单项选择题】A profitable equity-versus-credit trade involving Delta and Zega is to:
+A.short Zega shares and buy protection on Delta using the 10-year CDS.
+B.go long Zega shares and buy protection on Delta using 5-year CDS.
+C.go long Delta shares and buy protection on Delta using 5-year CDS.
+参考答案：B
+【莽学解析】The shares of Zega can be sold at a higher price as a result of the unsolicited bid
+in the market. If Delta Corporation issues significantly more debt, there is a higher
+probability that it may default. If the Fund sells protection on Delta now, the trade will
+realize a profit as credit spreads widen. An equity-versus-credit trade would be to go long
+(buy) the Zega shares and buy protection on Delta.
+ 
+【题干】A one-year zero-coupon bond yields 4.0%. The two- and three-year zero-coupon bonds
+yield 5.0% and 6.0% respectively.
+ 
+18.【单项选择题】The rate for a one-year loan beginning in one year is closest to:
+A.4.5%.
+B.5.0%.
+C.6.0%.
+参考答案：C
+【莽学解析】
+ 
+ 
+19.【单项选择题】The forward rate for a two-year loan beginning in one year is closest to:
+A.5.0%
+B.6.0%
+C.7.0%
+参考答案：C
+【莽学解析】
+ 
+ 
+20.【单项选择题】The forward rate for a one-year loan beginning in two years is closest to:
+A.6.0%
+B.7.0%
+C.8.0%
+参考答案：C
+【莽学解析】
+ 
+ 
+21.【单项选择题】The five-year spot rate is not given above; however, the forward price for a
+two-year zero-coupon bond beginning in three years is known to be 0.8479. The price today of a
+five-year zero-coupon bond is closest to:
+A.0.7119.
+B.0.7835.
+C.0.9524.
+参考答案：A
+【莽学解析】
+22.【单项选择题】The one-year spot rate Z1 = 4%, the forward rate for a one-year loan beginning
+in one year is 6%, and the forward rate for a one-year loan beginning in two years is 8%. Which
+of the following rates is closest to the three-year spot rate?
+A.4.0%
+B.6.0%
+C.8.0%
+参考答案：B
+【莽学解析】
+ 
+ 
+23.【单项选择题】The one-year spot rate Z1 is 5% and the forward price for a one-year zero-
+coupon bond beginning in one year is 0.9346. The spot price of a two-year zero-coupon bond is
+closest to:
+A.0.87.
+B.0.89.
+C.0.93.
+参考答案：B
+【莽学解析】
+ 
+ 
+24.【单项选择题】In a typical interest rate swap contract, the swap rate is best described as
+the interest rate for the:
+A.fixed-rate leg of the swap.
+B.floating-rate leg of the swap.
+C.difference between the fixed and floating legs of the swap.
+参考答案：A
+【莽学解析】The swap rate is the interest rate for the fixed-rate leg of an interest rate swap.
+ 
+25.【单项选择题】A two-year fixed-for-floating MRR swap is 1.00%, and the two-year US Treasury
+bond is yielding 0.63%. The swap spread is closest to:
+A.37 bps.
+B.100 bps.
+C.163 bps.
+参考答案：A
+【莽学解析】The swap spread = 1.00% - 0.63% = 0.37% or 37 bps.
+ 
+26.【单项选择题】The swap spread is quoted as 50 bps. If the five-year US Treasury bond is
+yielding 2%, the rate paid by the fixed payer in a five-year interest rate swap is closest to:
+A.0.50%.
+B.1.50%.
+C.2.50%.
+参考答案：C
+【莽学解析】The fixed leg of the five-year fixed-for-floating swap will be equal to the five-
+year Treasury rate plus the swap spread: 2%＋0.5% = 2.5%.
+ 
+27.【单项选择题】If the three-month T-bill rate drops and the Libor rate remains the same, the
+relevant TED spread:
+A.increases.
+B.decreases.
+C.does not change.
+参考答案：A
+【莽学解析】The TED spread is the difference between the three-month Libor rate and the three-
+month Treasury bill rate. If the T-bill rate falls and Libor does not change, the TED spread
+will increase.
+ 
+28.【单项选择题】Given the yield curve for US Treasury zero-coupon bonds, which spread is most
+helpful pricing a corporate bond? The:
+A.Z-Spread.
+B.TED spread.
+C.Libor–OIS spread.
+参考答案：A
+【莽学解析】The Z-spread is the single rate which, when added to the rates of the spot yield
+curve, will provide the correct discount rates to price a particular risky bond.
+ 
+【题干】Rayes Investment Advisers specializes in fixed-income portfolio management. Meg Rayes,
+the owner of the firm, would like to add bonds with embedded options to the firm's bond
+portfolio. Rayes has asked Mingfang Hsu, one of the firm's analysts, to assist her in selecting
+and analyzing bonds for possible inclusion in the firm's bond portfolio.Hsu first selects two
+corporate bonds that are callable at par and have the same characteristics in terms of
+maturity, credit quality and call dates. Hsu uses the option adjusted spread (OAS) approach to
+analyse the bonds, assuming an interest rate volatility of 10%. The results of his analysis are
+presented in Exhibit 1.
+Hsu then selects the four bonds issued by RW, Inc. given in Exhibit 2. These bonds all have a
+maturity of three years and the same credit rating. Bonds #4 and #5 are identical to Bond #3,
+an option-free bond, except that they each include an embedded option.
+To value and analyze RW's bonds, Hsu uses an estimated interest rate volatility of 15% and
+constructs the binomial interest rate tree provided in Exhibit 3.
+Rayes asks Hsu to determine the sensitivity of Bond #4's price to a 20 bps parallel shift of
+the benchmark yield curve. The results of Hsu's calculations are shown in Exhibit 4.
+Hsu also selects the two floating-rate bonds issued by Varlep, plc given in Exhibit 5. These
+bonds have a maturity of three years and the same credit rating.
+To value Varlep's bonds, Hsu constructs the binomial interest rate tree provided in Exhibit 6.
+Last, Hsu selects the two bonds issued by Whorton, Inc. given in Exhibit 7. These bonds are
+close to their maturity date and are identical, except that Bond #9 includes a conversion
+option. Whorton's common stock is currently trading at $30 per share.
+ 
+ 
+29.【单项选择题】Based on Exhibit 1, Rayes would most likely conclude that relative to Bond #1,
+Bond #2 is:
+A.overpriced.
+B.fairly priced.
+C.underpriced.
+参考答案：C
+【莽学解析】The option-adjusted spread (OAS) is the constant spread added to all the one-period
+forward rates that makes the arbitrage-free value of a risky bond equal to its market price.
+The OAS approach is often used to assess bond relative values. If two bonds have the same
+characteristics and credit quality, they should have the same OAS. If this is not the case, the
+bond with the largest OAS (i.e., Bond #2) is likely to be underpriced (cheap) relative to the
+bond with the smallest OAS (Bond #1).
+ 
+30.【单项选择题】The effective duration of Bond #6 is:
+A.close to 1.
+B.higher than 1 but lower than 3.
+C.higher than 3.
+参考答案：A
+【莽学解析】The effective duration of a floating-rate bond is close to the time to next reset.
+As the reset for Bond #6 is annual, the effective duration of this bond is close to 1.
+ 
+31.【单项选择题】In Exhibit 2, the bond whose effective duration will lengthen if interest
+rates rise is:
+A.Bond #3.
+B.Bond #4.
+C.Bond #5.
+参考答案：B
+【莽学解析】Effective duration indicates the sensitivity of a bond's price to a 100 bps
+parallel shift of the benchmark yield curve assuming no change in the bond's credit spread. The
+effective duration of an option-free bond such as Bond #3 changes very little in response to
+interest rate movements. As interest rates rise, a call option moves out of the money, which
+increases the value of the callable bond and lengthens its effective duration. In contrast, as
+interest rates rise, a put option moves into the money, which limits the price depreciation of
+the putable bond and shortens its effective duration. Thus, the bond whose effective duration
+will lengthen if interest rates rise is the callable bond, i.e., Bond #4.
+ 
+32.【单项选择题】The effective duration of Bond #4 is closest to:
+A.0.76.
+B.1.88.
+C.3.77.
+参考答案：B
+【莽学解析】The effective duration of Bond #4 can be calculated using Equation 3 from the
+reading, where ΔCurve is 20 bps, PV<sub>–</sub> is 101.238, and PV<sub>+</sub> is 100.478.
+PV<sub>0</sub>, the current full price of the bond (i.e., with no shift), is not given but it
+can be calculated using Exhibit 3 as follows:
+Thus, the effective duration of Bond #4 is:
+ 
+ 
+ 
+33.【单项选择题】The value of Bond #7 is closest to:
+A.99.697% of par.
+B.99.936% of par.
+C.101.153% of par.
+参考答案：A
+【莽学解析】
+ 
+ 
+34.【单项选择题】The value of Bond #8 is closest to:
+A.98.116% of par.
+B.100.000% of par.
+C.100.485% of par.
+参考答案：C
+【莽学解析】
+ 
+ 
+35.【单项选择题】The value of Bond #9 is equal to the value of Bond #10:
+A.plus the value of a put option on Whorton's common stock.
+B.plus the value of a call option on Whorton's common stock.
+C.minus the value of a call option on Whorton's common stock.
+参考答案：B
+【莽学解析】A convertible bond includes a conversion option, which is a call option on the
+issuer's common stock. This conversion option gives the bondholders the right to convert their
+debt into equity. Thus, the value of Bond #9, the convertible bond, is equal to the value of
+Bond #10, the underlying option-free bond (straight bond), plus the value of a call option on
+Whorton's common stock.
+ 
+36.【单项选择题】The minimum value of Bond #9 is equal to the greater of:
+A.the conversion value of Bond #9 and the current value of Bond #10.
+B.the current value of Bond #10 and a call option on Whorton's common stock.
+C.the conversion value of Bond #9 and a call option on Whorton's common stock.
+参考答案：A
+【莽学解析】The minimum value of a convertible bond is equal to the greater of the conversion
+value of the convertible bond (i.e., Bond #9) and the current value of the straight bond (i.e.,
+Bond #10).
+ 
+37.【单项选择题】The factor that is currently least likely to affect the risk-return
+characteristics of Bond #9 is:
+A.Interest rate movements.
+B.Whorton's credit spreads.
+C.Whorton's common stock price movements.
+参考答案：C
+【莽学解析】The risk-return characteristics of a convertible bond depend on the market price of
+the issuer's common stock (underlying share price) relative to the bond's conversion price.
+When the underlying share price is well below the conversion price, the convertible bond
+exhibits mostly bond risk-return characteristics. In this case, the price of the convertible
+bond is mainly affected by interest rate movements and the issuer's credit spreads. In
+contrast, when the underlying share price is above the conversion price, the convertible bond
+exhibits mostly stock risk-return characteristics. In this case, the price of the convertible
+bond is mainly affected by the issuer's common stock price movements. The underlying share
+price ($30) is lower than the conversion price of Bond #9 ($50). Thus, Bond #9 exhibits mostly
+bond risk-return characteristics and is least affected by Whorton's common stock price
+movements.
+ 
+【题干】Jane Nguyen is a senior bond trader and Christine Alexander is a junior bond trader for
+an investment bank. Nguyen is responsible for her own trading activities and also for providing
+assignments to Alexander that will develop her skills and create profitable trade ideas.
+Exhibit 1 presents the current par and spot rates.
+Nguyen gives Alexander two assignments that involve researching various questions:Assignment 1:
+What is the yield to maturity of the option-free, default risk–free bond presented in Exhibit
+2? Assume that the bond is held to maturity, and use the rates shown in Exhibit 1.
+Assignment 2: Assuming that the projected spot curve two years from today will be below the
+current forward curve, is Bond Z fairly valued, undervalued, or overvalued?After completing her
+assignments, Alexander asks about Nguyen's current trading activities. Nguyen states that she
+has a two-year investment horizon and will purchase Bond Z as part of a strategy to ride the
+yield curve. Exhibit 1 shows Nguyen's yield curve assumptions implied by the spot rates.
+ 
+38.【单项选择题】Based on Exhibit 1, the five-year spot rate is closest to:
+A.4.40%
+B.4.45%
+C.4.50%
+参考答案：B
+【莽学解析】The five-year spot rate is determined by using forward substitution and using the
+known values of the one-year, two-year, three-year, and four-year spot rates as follows:
+ 
+ 
+ 
+39.【单项选择题】Based on Exhibit 1, the market is most likely expecting:
+A.deflation.
+B.inflation.
+C.no risk premiums.
+参考答案：B
+【莽学解析】The spot rates imply an upward-sloping yield curve, z3 > z2 > z1. Because nominal
+yields incorporate a premium for expected inflation, an upward-sloping yield curve is generally
+interpreted as reflecting a market expectation of increasing, or at least level, future
+inflation (associated with relatively strong economic growth).
+ 
+40.【单项选择题】Based on Exhibit 1, the forward rate of a one-year loan beginning in three
+years is closest to:
+A.4.17%.
+B.4.50%.
+C.5.51%.
+参考答案：C
+【莽学解析】
+ 
+ 
+41.【单项选择题】Based on Exhibit 1, which of the following forward rates can be computed?
+A.A one-year loan beginning in five years
+B.A three-year loan beginning in three years
+C.A four-year loan beginning in one year
+参考答案：C
+【莽学解析】Exhibit 1 provides five years of par rates, from which the spot rates for r(1),
+r(2), r(3), r(4), and r(5) can be derived. Thus the forward rate f(1,4) can be calculated as
+follows:
+ 
+ 
+ 
+42.【单项选择题】For Assignment 1, the yield to maturity for Bond Z is closest to the:
+A.one-year spot rate.
+B.two-year spot rate.
+C.three-year spot rate.
+参考答案：C
+【莽学解析】The yield to maturity, y(3), of Bond Z should be a weighted average of the spot
+rates used in the valuation of the bond. Because the bond’s largest cash flow occurs in Year
+3, r(3) will have a greater weight than r(1) and r(2) in determining y(3). Using the spot
+rates:
+Using a calculator, the compute result is y(3) = 3.46%, which is closest to the three-year spot
+rate of 3.50%.
+ 
+ 
+43.【单项选择题】For Assignment 2, Alexander should conclude that Bond Z is currently:
+A.undervalued.
+B.fairly valued.
+C.overvalued.
+参考答案：A
+【莽学解析】Alexander projects that the spot curve two years from today will be below the
+current forward curve, which implies that her expected future spot rates beyond two years will
+be lower than the quoted forward rates. Alexander would perceive Bond Z to be undervalued in
+the sense that the market is effectively discounting the bond’s payments at a higher rate than
+she would and the bond’s market price is below her estimate of intrinsic value.
+ 
+44.【单项选择题】By choosing to buy Bond Z, Nguyen is most likely making which of the following
+assumptions?
+A.Bond Z will be held to maturity.
+B.The three-year forward curve is above the spot curve.
+C.Future spot rates do not accurately reflect future inflation.
+参考答案：B
+【莽学解析】Nguyen’s strategy is to ride the yield curve, which is appropriate when the yield
+curve is upward sloping. The yield curve implied by Exhibit 1 is upward sloping, which implies
+that the three-year forward curve is above the current spot curve. When the yield curve slopes
+upward, as a bond approaches maturity or “rolls down the yield curve,” the bond is valued at
+successively lower yields and higher prices.
+ 
+【题干】Betty Tatton is a fixed income analyst with the hedge fund Sailboat Asset Management
+(SAM). SAM invests in a variety of global fixed-income strategies, including fixed-income
+arbitrage. Tatton is responsible for pricing individual investments and analyzing market data
+to assess the opportunity for arbitrage. She uses two methods to value bonds:Method 1: Discount
+each year’s cash flow separately using the appropriate interest rate curve.Method 2: Build and
+use a binomial interest rate tree.Tatton compiles pricing data for a list of annual pay bonds
+(Exhibit 1). Each of the bonds will mature in two years, and Tatton considers the bonds as
+being risk-free; both the one-year and two-year benchmark spot rates are 2%. Tatton calculates
+the arbitrage-free prices and identifies an arbitrage opportunity to recommend to her team.
+Next, Tatton uses the benchmark yield curve provided in Exhibit 2 to consider arbitrage
+opportunities of both option-free corporate bonds and corporate bonds with embedded options.
+The benchmark bonds in Exhibit 2 pay coupons annually, and the bonds are priced at par.
+Tatton then identifies three mispriced three-year annual-pay bonds and compiles data on the
+bonds (see Exhibit 3).
+Lastly, Tatton identifies two mispriced Swiss bonds, Bond X, a three-year bond, and Bond Y, a
+five-year bond. Both are annual-pay bonds with a coupon rate of 6%. To calculate the bonds’
+values, Tatton devises the first three years of the interest rate lognormal tree presented in
+Exhibit 4 using historical interest rate volatility data. Tatton considers how this data would
+change if implied volatility, which is higher than historical volatility, were used instead.
+ 
+ 
+45.【单项选择题】Based on Exhibit 1, which of the following bonds most likely includes an
+arbitrage opportunity?
+A.Bond A
+B.Bond B
+C.Bond C
+参考答案：B
+【莽学解析】Bond B’s arbitrage-free price is calculated as follows:
+Which is higher than the bond’s market price of 100.9641. Therefore, an arbitrage opportunity
+exists. Since the bond’s value (100.9641) is less than the sum of the values of its discounted
+cash flows individually (101.9416), a trader would perceive an arbitrage opportunity and could
+buy the bond while selling claims to the individual cash flows (zeros), capturing the excess
+value. The arbitrage-free prices of Bond A and Bond C are equal to the market prices of the
+respective bonds, so there is no arbitrage opportunity for these two bonds:
+ 
+ 
+ 
+46.【单项选择题】Based on Exhibits 2 and 3 and using Method 1, the amount (in absolute terms)
+by which the Hutto-Barkley corporate bond is mispriced is closest to:
+A.0.3368 per 100 of par value.
+B.0.4682 per 100 of par value.
+C.0.5156 per 100 of par value.
+参考答案：C
+【莽学解析】The first step in the solution is to find the correct spot rate (zero-coupon rates)
+for each year’s cash flow. The benchmark bonds in Exhibit 2 are conveniently priced at par so
+the yields to maturity and the coupon rates on the bonds are the same. Because the one-year
+issue has only one cash flow remaining, the YTM equals the spot rate of 3% (or z<sub>1</sub> =
+3%). The spot rates for Year 2 (z<sub>2</sub>) and Year 3 (z<sub>3</sub>) are calculated as
+follows:The correct arbitrage-free price for the Hutto-Barkley Inc. bond
+is:P<sub>0</sub>=3/(1.0300)＋3/(1.0402)2＋103/(1.0507)3=94.4828Therefore, the bond is mispriced
+by 94.4828 – 94.9984 = –0.5156 per 100 of par value.A is incorrect because the correct spot
+rates are not calculated and instead the Hutto-Barkley Inc. bond is discounted using the
+respective YTM for each maturity. Therefore, this leads to an incorrect mispricing of 94.6616
+– 94.9984 = –0.3368 per 100 of par value.B is incorrect because the spot rates are derived
+using the coupon rate for Year 3 (maturity) instead of using each year’s respective coupon
+rate to employ the bootstrap methodology. This leads to an incorrect mispricing of 94.5302 –
+94.9984 = –0.4682 per 100 of par value.
+ 
+ 
+47.【单项选择题】Method 1 would most likely not be an appropriate valuation technique for the
+bond issued by:
+A.Hutto-Barkley Inc.
+B.Luna y Estrellas Intl.
+C.Peaton Scorpio Motors.
+参考答案：B
+【莽学解析】The Luna y Estrellas Intl. bond contains an embedded option. Method 1 will produce
+an arbitrage-free valuation for option-free bonds; however, for bonds with embedded options,
+changes in future interest rates impact the likelihood the option will be exercised and so
+impact future cash flows. Therefore, to develop a framework that values bonds with embedded
+options, interest rates must be allowed to take on different potential values in the future
+based on some assumed level of volatility (Method 2).A and C are incorrect because the Hutto-
+Barkley Inc. bond and the Peaton Scorpio Motors bond are both option-free bonds and can be
+valued using either Method 1 or Method 2 to produce an arbitrage-free valuation.
+ 
+ 
+48.【单项选择题】Based on Exhibit 4 and using Method 2, the correct price for Bond X is closest
+to:
+A.97.2998.
+B.109.0085.
+C.115.0085.
+参考答案：B
+【莽学解析】This is the binomial tree that obtains a bond value of 109.0085.The first step is
+to identify the cash flows:
+Next, calculate the cash flows for each year beginning with Year 3 and move backwards to Year
+1:Year
+3:0.5×[(106/1.06)+(106/1.06)]+6=106.00000.5×[(106/1.05)+(106/1.05)]+6=106.95240.5×[(106/1.03
+)+(106/1.03)]+6=108.9126Year
+2:0.5×[(106.0000/1.04)+(106.9524/1.04)]+6=108.38100.5×[(106.9524/1.02)+(108.9126/1.02)]+6=111
+.8162Year 1:0.5×[(108.3810/1.01)+(111.8162/1.01)]=109.0085A is incorrect because the Time T
+coupon payment is subtracted from the value in each node calculation for Time T. C is incorrect
+because it assumes that a coupon is paid at Time 0.
+ 
+【题干】Rowan Madison is a junior analyst at Cardinal Capital. Sage Winter, a senior portfolio
+manager and Madison’s supervisor, meets with Madison to discuss interest rates and review two
+bond positions in the firm’s fixed-income portfolio.
+Winter begins the meeting by asking Madison to state her views on the term structure of
+interest rates. Madison responds:
+“Yields are a reflection of expected spot rates and risk premiums. Investors demand risk
+premiums for holding long-term bonds, and these risk premiums increase with maturity.”
+Winter tells Madison that, based on recent changes in spreads, she is concerned about a
+perceived increase in counterparty risk in the economy and its effect on the portfolio. Madison
+asks Winter:
+“Which spread measure should we use to assess changes in counterparty risk in the economy?”
+Winter is also worried about the effect of yield volatility on the portfolio. She asks Madison
+to identify the economic factors that affect short-term and long-term rate volatility. Madison
+responds:
+“Short-term rate volatility is mostly linked to uncertainty regarding monetary policy, whereas
+long-term rate volatility is mostly linked to uncertainty regarding the real economy and
+inflation.”
+Finally, Winter asks Madison to analyze the interest rate risk portfolio positions in a 5-year
+and a 20-year bond. Winter requests that the analysis be based on level, slope, and curvature
+as term structure factors. Madison presents her analysis in Exhibit 1.
+Winter asks Madison to perform two analyses:
+Analysis 1: Calculate the expected change in yield on the 20-year bond resulting from a two
+standard deviation increase in the steepness factor.
+Analysis 2: Calculate the expected change in yield on the five-year bond resulting from a one
+standard deviation decrease in the level factor and a one standard deviation decrease in the
+curvature factor.
+ 
+49.【单项选择题】Madison’s views on the term structure of interest rates are most consistent
+with the:
+A.local expectations theory.
+B.segmented markets theory.
+C.liquidity preference theory.
+参考答案：C
+【莽学解析】Liquidity preference theory asserts that investors demand a risk premium, in the
+form of a liquidity premium, to compensate them for the added interest rate risk they face when
+buying long-maturity bonds. The theory also states that the liquidity premium increases with
+maturity.
+ 
+50.【单项选择题】Is Madison’s response regarding the factors that affect short-term and long-
+term rate volatility correct?
+A.Yes
+B.No, she is incorrect regarding factors linked to long-term rate volatility
+C.No, she is incorrect regarding factors linked to short-term rate volatility
+参考答案：A
+【莽学解析】Madison’s response is correct; research indicates that short-term rate volatility
+is mostly linked to uncertainty regarding monetary policy, whereas long-term rate volatility is
+mostly linked to uncertainty regarding the real economy and inflation.
+ 
+51.【单项选择题】Based on Exhibit 1, the results of Analysis 1 should show the yield on the 20-
+year bond decreasing by:
+A.0.3015%.
+B.0.6030%.
+C.0.8946%.
+参考答案：B
+【莽学解析】Because the factors in Exhibit 1 have been standardized to have unit standard
+deviations, a two standard deviation increase in the steepness factor will lead to the yield on
+the 20-year bond decreasing by 0.6030%, calculated as follows: Change in 20-year bond yield =
+–0.3015% × 2 = –0.6030%.
+ 
+52.【单项选择题】Based on Exhibit 1, the results of Analysis 2 should show the yield on the
+five-year bond:
+A.decreasing by 0.8315%.
+B.decreasing by 0.0389%.
+C.increasing by 0.0389%.
+参考答案：C
+【莽学解析】Because the factors in Exhibit 1 have been standardized to have unit standard
+deviations, a one standard deviation decrease in both the level factor and the curvature factor
+will lead to the yield on the five-year bond increasing by 0.0389%, calculated as follows:
+Change in five-year bond yield = 0.4352% – 0.3963% = 0.0389%.
+ 
+【题干】Lena Liecken is a senior bond analyst at Taurus Investment Management. Kristel Kreming,
+a junior analyst, works for Liecken in helping conduct fixed-income research for the firm's
+portfolio managers. Liecken and Kreming meet to discuss several bond positions held in the
+firm's portfolios.Bonds I and II both have a maturity of one year, an annual coupon rate of 5%,
+and a market price equal to par value. The risk-free rate is 3%. Historical default experiences
+of bonds comparable to Bonds I and II are presented in Exhibit 1.
+Bond III is a zero-coupon bond with three years to maturity. Liecken evaluates sim- ilar bonds
+and estimates a recovery rate of 38% and a risk-neutral default probability of 2%, assuming
+conditional probabilities of default. Kreming creates Exhibit 2 to compute Bond III's credit
+valuation adjustment. She assumes a flat yield curve at 3%, with exposure, recovery, and loss
+given default values expressed per 100 of par value.
+Bond IV is an AA rated bond that matures in five years, has a coupon rate of 6%, and a modified
+duration of 4.2. Liecken is concerned about whether this bond will be downgraded to an A
+rating, but she does not expect the bond to default during the next year. Kreming constructs a
+partial transition matrix, which is presented in Exhibit 3, and suggests using a model to
+predict the rating change of Bond IV using leverage ratios, return on assets, and macroeconomic
+variables.
+Kreming calculates the risk-neutral probabilities, compares them with the actual default
+probabilities of bonds evaluated over the past 10 years, and observes that the actual and risk-
+neutral probabilities differ. She makes two observations regarding the comparison of these
+probabilities:Observation 1: Actual default probabilities include the default risk premium
+associated with the uncertainty in the timing of the possible default loss.Observation 2: The
+observed spread over the yield on a risk-free bond in practice includes liquidity and tax
+considerations, in addition to credit risk.
+ 
+53.【单项选择题】The expected exposure to default loss for Bond I is:
+A.less than the expected exposure for Bond II.
+B.the same as the expected exposure for Bond II.
+C.greater than the expected exposure for Bond II.
+参考答案：B
+【莽学解析】The expected exposure is the projected amount of money that an investor could lose
+if an event of default occurs, before factoring in possible recovery. The expected exposure for
+both Bond I and Bond II is 100 + 5 = 105.
+ 
+54.【单项选择题】Based on Exhibit 1, the loss given default for Bond II is:
+A.less than that for Bond I.
+B.the same as that for Bond I.
+C.greater than that for Bond I.
+参考答案：C
+【莽学解析】The loss given default is a positive function of the expected expo- sure to default
+loss and a negative function of the recovery rate. Because Bond II has a lower recovery rate
+than Bond I and the same expected exposure to default loss (100 + 5 = 105), it will have a
+higher loss given default than Bond I will have. The loss given default for Bond I is 105 × (1
+– 0.40) = 63.00. The loss given default for Bond II is 105 × (1 – 0.35) = 68.25.
+ 
+55.【单项选择题】Based on Exhibit 1, the expected future value of Bond I at maturity is closest
+to:
+A.98.80.
+B.103.74.
+C.105.00.
+参考答案：B
+【莽学解析】In the event of no default, the investor is expected to receive 105. In the event
+of a default, the investor is expected to receive 105 – [105 × (1 – 0.40)] = 42. The
+expected future value of the bond is, therefore, the weighted average of the no-default and
+default amounts, or (105 × 0.98) + (42 × 0.02) = 103.74.
+ 
+56.【单项选择题】Based on Exhibit 1, the risk-neutral default probability for Bond I is closest
+to:
+A.2.000%.
+B.3.175%.
+C.4.762%.
+参考答案：B
+【莽学解析】The risk-neutral default probability, P*, is calculated using the current price,
+the expected receipt at maturity with no default (that is, 100＋5 = 105), the expected receipt
+at maturity in the event of a default (that is, 0.40 × 105 = 42), and the risk-free rate of
+interest (0.03):
+Solving for P* gives 0.031746, or 3.1746%.
+ 
+57.【单项选择题】Based on Exhibit 2, the credit valuation adjustment for Bond III is closest
+to:
+A.3.3367.
+B.3.5395.
+C.5.8808.
+参考答案：A
+【莽学解析】The CVA is the sum of the present value of expected losses on the bond, which from
+Exhibit 2 is 3.3367.
+ 
+58.【单项选择题】Based on Exhibit 3, if Bond IV's credit rating changes during the next year to
+an A rating, its expected price change would be closest to:
+A.–8.00%.
+B.–7.35%.
+C.–3.15%.
+参考答案：C
+【莽学解析】The expected percentage price change is the product of the neg- ative of the
+modified duration and the difference between the credit spread in the new rating and the old
+rating: Expected percentage price change = –4.2 × (0.0175 – 0.01) = –0.0315, or –3.15%.
+ 
+59.【单项选择题】Kreming's suggested model for Bond IV is a:
+A.structural model.
+B.reduced-form model.
+C.term structure model.
+参考答案：B
+【莽学解析】A reduced-form model in credit risk analysis uses historical vari- ables, such as
+financial ratios and macroeconomic variables, to estimate the default intensity. A structural
+model for credit risk analysis, in contrast, uses option pricing and relies on a traded market
+for the issuer's equity.
+ 
+60.【单项选择题】Which of Kreming's observations regarding actual and risk-neutral default
+probabilities is correct?
+A.Only Observation 1
+B.Only Observation 2
+C.Both Observation 1 and Observation 2
+参考答案：B
+【莽学解析】Observation 1 is incorrect, but Observation 2 is correct. The actual default
+probabilities do not include the default risk premium associated with the uncertainty in the
+timing of the possible default loss. The observed spread over the yield on a risk-free bond in
+practice does include liquidity and tax con- siderations, in addition to credit risk.

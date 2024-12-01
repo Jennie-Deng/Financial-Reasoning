@@ -1,0 +1,681 @@
+04-Liquidity and Treasury Risk Measurement and Man
+单项选择题
+1.Which of the following is the most likely output of a bank's liquidity stress test report?
+A.Cash flow survival horizon
+B.Net interest income projection
+C.Leverage ratio of unsecured debt to equity
+D.Return on equity versus threshold and target
+参考答案：A
+【莽学解析】The most important thing to a liquidity stress test report is to output a cash flow
+survival horizon(0)
+ 
+2.On opening day, Master Fund LP has the following economic balance sheet:  
+ 
+ 
+Assume Master Fund LP finances a long position in $100million worth of an equity at the margin
+requirement of 30%. It invests $30million of its own funds and borrows $70 from a commercial
+ bank, immediately after the trade, its margin account has $30million of equity and $70million
+of  loan. What is the change in the firm's leverage ratio after this trade?
+A.From 1.5 to 2.5
+B.From 2.50 to 3.08 
+C.From 2.5 to 4.11
+D.From 1.500 to 1.500
+参考答案：B
+【莽学解析】From 2.5 to 3.08 • Initial leverage = assets/equity = 300/120 = 2.5. • After the
+trade, assets = $70(cash)+$300(financial assets)=$370 • After the trade, liabilities = $180debt
++ $70 margin loan = $250; such that equity = $370- 250 = $120; and leverage = 370/120 = 3.08(0)
+ 
+3.Consider the following four definitions related to liquidity risk: (1). Liquidity risk: The
+event that in the future the bank receives smaller than expectedamounts of cash flows to meet
+its payment obligations.(2) Funding cost risk: The event that in the future the bank has to pay
+greater thanexpected cost (spread) above the risk-free rate to receive funds from sources of
+liquiditythat are available(3) Liquidity generation capacity: The ability of a bank to generate
+positive cash flows,beyond contractual ones, from the sources of liquidity available in the
+balance sheet and off the balance sheet at a given date.(4) Cash flow at Risk: The amount of
+economic losses due to the fact that on agiven date the algebraic sum of positive and negative
+cash flows and of existing cashavailable at that date, is different from some (desired)
+expected level.Which of the following statements about these definitions is TRUE?
+A.Liquidity risk is inaccurate, but the other three are correct
+B.Funding cost risk is inaccurate, but the other three are correct
+C.Cash risk at Risk (CFaR) is inaccurate, but the other three are correct
+D.All four definitions are correct
+参考答案：C
+【莽学解析】Cash risk at Risk (CFaR) is inaccurate but the other three are correct.The
+definition given for (C) is a second definition for liquidity risK: The amount of economic
+losses due to thefact that on a given date the algebraic sum of positive and negative cash
+flows and of existing cash availableat that date, is different from some (desired) expected
+level.
+ 
+4.Firms generally use a stoplight system in representing and communicating their performance
+ against the thresholds of their EWIs. A green indicator means the measure is within normal
+bounds;  An amber indicator means the measure should be investigated further; A red indicator
+should be a  source for significant concern and may warrant an immediate response. Which of
+the following is  the most suitable way to start a calibration of these thresholds?
+A.The boundaries for which an EWI moves from green to yellow should be narrow enough.
+B.Historical data can inform the calibration of thresholds
+C.Practitioners observe that this stoplight system is effective because it can be set very
+wide.
+D.The threshold should not be subject to back-testing
+参考答案：B
+【莽学解析】Historical data can inform the calibration of thresholds. In regard to (A), (C) and
+(D), each is FALSE(0)
+ 
+5.Consider the following four definitions related to liquidity risk: (1). Liquidity risk: The
+event that in the future the bank receives smaller than expectedamounts of cash flows to meet
+its payment obligations.(2) Funding cost risk: The event that in the future the bank has to pay
+greater thanexpected cost (spread) above the risk-free rate to receive funds from sources of
+liquiditythat are available(3) Liquidity generation capacity: The ability of a bank to generate
+positive cash flows,beyond contractual ones, from the sources of liquidity available in the
+balance sheet and off the balance sheet at a given date.(4) Cash flow at Risk: The amount of
+economic losses due to the fact that on agiven date the algebraic sum of positive and negative
+cash flows and of existing cashavailable at that date, is different from some (desired)
+expected level.Which of the following statements about these definitions is TRUE?
+A.Liquidity risk is inaccurate, but the other three are correct
+B.Funding cost risk is inaccurate, but the other three are correct
+C.Cash risk at Risk (CFaR) is inaccurate, but the other three are correct
+D.All four definitions are correct
+参考答案：C
+【莽学解析】Cash risk at Risk (CFaR) is inaccurate but the other three are correct.The
+definition given for (C) is a second definition for liquidity risk: The amount of economic
+losses due to thefact that on a given date the algebraic sum of positive and negative cash
+flows and of existing cash availableat that date, is different from some (desired) expected
+level.
+ 
+6.An investment bank finds that current market has been highly volatile but its own capital
+base is large enough. However, the counterparty of this bank asks for higher and higher
+collateral for the  bank’s repo and repo rollover. This phenomenon shows:
+A.balance sheet risk
+B.transactions liquidity risk
+C.systematic risk
+D.maturity transformation risk
+参考答案：A
+【莽学解析】Funding liquidity risk or balance sheet risk results when a borrower’s credit
+position is either  deteriorating or is perceived by market participants to be deteriorating.
+It also occurs when the  market deteriorates. Under these conditions, creditors may withdraw
+credit or change the terms of  credit. In this case, the lender is increasing the haircut and
+is thus changing the terms of credit.  Glenn Fund’s creditworthiness does not actually have
+to decline for a lender to withdraw credit or  change the terms of credit.(0)
+ 
+7.An analyst in a commercial bank is evaluating the available funds gap for the next month.
+After analysis, he found that 1) the qualified loan requests accepted is $150 Million, 2) a
+major customer of the bank is going to withdraw $135 Million, 3) the bank has plan to invest in
+bond markets for $ 50 Million, 4) the current deposit is $160 Million and $ 100 Million is
+expected to come next month, 5) $10 Million will be added to available funds gap for a cushion.
+Which of the following is the amount of funds that the bank needs to finance from non-deposit
+sources?
+A.85 Million
+B.75 Million
+C.65 Million
+D.335 Million
+参考答案：A
+【莽学解析】计算 AFG，也就是除了存款维持以外的资金需求，根据公式：可用资金缺口（AFG）=贷款机构
+希望进行的当前和预计的贷款和投资-当前和预期的存款流入以及其他可用资金+ 为 AFG 估算添加少量金额
+= $150M+$135M+$50M - $160M - $100M + $10M = $85M。(0)
+ 
+8.How many of the following statements is most likely correct? I. The special spreads usually
+derives from the difference between the general collateral rate and  the repo rate if the
+collateral securities are on-the-run (OTR) T-bonds. II. An important reason that special trade
+usually uses on-the-run (OTR) bonds is the brilliant  liquidity involved in new-issued T-
+bonds, and the liquidity has been cherished by both investors  who hold long positions and
+short sellers.  III. Special spread would usually become largest immediately after auctions
+and smallest before  auctions.
+A.Zero
+B.One
+C.Two
+D.Three
+参考答案：C
+【莽学解析】Only the last statement is wrong. Spreads tend to be small immediately after
+auctions and to peak  before auctions. Immediately after an auction of a new OTR security,
+shorts can stay in the  previous OTR security or shift to the new OTR. This substitutability
+tends to depress special  spreads. Extra supply of the OTR security immediately following a
+re-opening auction tends to  depress special spreads.(0)
+ 
+9.All risk management frameworks start with a governance structure that defines the roles and
+ responsibilities of various bank employees and committees in overseeing risk-related
+activities. Effective governance includes the oversight of intraday liquidity risk. which of
+the following  statements is true about intraday liquidity risk management?
+A.Payments on large value payment systems should not be considered as a intraday liquidity.
+B.Roles and responsibilities should be defined by Treasury department.
+C.PCS Systems should only be a source of funds; if PCS becomes a use of funds, then a
+yellowflag should be triggered
+D.Intraday liquidity risk should be incorporated in the risk taxonomy and is a component of
+riskself-assessment including settlement risks
+参考答案：D
+【莽学解析】Payments on large value payment systems are an important use of intraday credit;
+Roles and responsibilities should be defined by ALCO; Payment, clearing, and settlement (PCS)
+Systems can  be either a source or use of funds. So in regard to (A), (B) and (C), each is
+FALSE.(0)
+ 
+10.Which of the following below is best describes the term structure of expected liquidity, aka
+the  TSL(e)?
+A.TSL(e) is the cumulative change in the term structure of available assets.
+B.TSL(e) is a combination of the term structures of cash flow at risk and liquidity at risk.
+C.TSL(e) is a combination of the term structure of expected cash, change in working capital,
+andchange in deposits.
+D.TSL(e) is a combination of the term structures of cumulative expected cash flows and
+liquiditygeneration capacity.
+参考答案：D
+【莽学解析】The term structure of expected liquidity, TSL(e), is a combination of the term
+structures of  cumulative expected cash flows (TSECCF) and liquidity generation capacity
+(TSCLGC). In regard  to (A), (B) and (C), each is FALSE.(0)
+ 
+11.A deposit institution has accepted $30 million qualified loan request. The management is
+considering issuing $30 million negotiable CDs with current interest rate of 6% to finance
+funds, the noninterest cost in the form of flotation cost in 0.2%, and legal reserve
+requirements is 5% of the total loan amount. What is the effective financing cost rate by
+issuing negotiable CDs?
+A.6.2%
+B.6.53%
+C.6.6%
+D.5.8%
+参考答案：B
+【莽学解析】
+ 
+12.An investor holds two positions:Long shares worth $35,000 where the bid-offer spread has a
+mean and standard deviation of 0.040.Long shares worth $40,000 where the bid-offer spread has a
+mean and standard deviation of 0.060.Under 99.0% confidence, which of the following is the
+nearest to the worst expected cost of unwinding? (assumed bi-ask spread is normally
+distributed)
+A.$6,327
+B.$2,950
+C.$3,240
+D.$6,500
+参考答案：A
+【莽学解析】The 99.0% confident worst expected spread for each position is given by:$35,000 *
+(0.040 + 0.040 * 2.33) = $4,662$40,000 * (0.060 + 0.060 * 2.33) = $7,992Total cost of unwinding
+with 95.0% confidence is therefore (4,662 + 7,992)/2 = $6,327(0)
+ 
+13.One of the board members has suggested that the CIO look at several hedge funds that have
+ reported strong performance in recent years. The CRO is familiar with many of these funds and
+is  aware that several invest heavily in illiquid assets and that this may cause standard risk
+measures  based on daily returns to give a misleading picture of their risk. Which of
+following statements about  daily risk measures applied to hedge funds that invest in illiquid
+assets is correct?
+A.Correlation with other investments will be artificially lowered, giving the appearance of
+lowsystematic risk.
+B.Infrequent trading reduces the smoothing effects from mark-to-market valuation, giving
+theappearance of high volatility.
+C.Returns of illiquid assets tend to exhibit negative serial correlation, leading to higher
+long-termvolatility.
+D.All else being equal, illiquid assets tend to have lower Sharpe ratios, causing the
+incorrectappearance of an illiquid premium.
+参考答案：A
+【莽学解析】B is incorrect. Infrequent trading makes the insufficient data smooth, giving the
+appearance of low  volatility. C is incorrect. Returns of illiquid assets tend to exhibit
+positive serial correlation. D is incorrect. All else being equal, illiquid assets tend to have
+higher Sharpe ratios.(0)
+ 
+14.Following the collapse of Lehman Brothers in September 2008, many banks faced severe
+difficulties securing short-term US dollar funding, especially those European banks. Which of
+the following statements about US dollar shortage is NOT correct?
+A.Higher cross-currency funding, higher the funding risk banks faced when their hedging
+requirements and FX swap transactions have to be rolled over.
+B.The US dollar gap faced roll over risk due to the maturity mismatch.
+C.US dollar investment to non-banks with funds from various counterparties, subjected to
+funding risk.
+D.A help method for release pressure of dollar shortage is selling structed finance product
+claimed on non-bank entities to other banks cause these products actually had high inside
+value.
+参考答案：D
+【莽学解析】当时金融危机下，结构性金融产品等非银行实体的债权一旦出售面临着巨大的损失，并不能用
+来缓解美元短缺的压力。(0)
+ 
+15.Over the next 24 hours, Golden state Bank estimates that the following cash inflows  and
+outflows (all figures in millions) will occur:
+ 
+ 
+What is the bank's projected net liquidity position?
+A.-30.0 million
+B.+10.0 million
+C.+40.0 million
+D.+90.0 million
+参考答案：B
+【莽学解析】英  中Inflows include:  Deposit inflows = 100  Scheduled loan repayments = 60
+ Borrowings from the money market = 80  Sales of bank assets = 30  Revenues from sale of
+non-deposit services = 10  for total inflows of $100 + $60 + $80 + $30 + $10 = 280.0 million.
+ Outflows include:  Deposit withdrawals = 70 Acceptable loan requests = 90 Stockholder
+dividend payments = 20  Repayment of bank borrowings = 50  Operating expenses = 40; for total
+outflows of $70 + $90 + $20 + $50 + $40 = $270.0 millionTherefore, the projected net liquidity
+position = $280 - 270 = +10.0 million(0)
+ 
+16.Changing interest rates also changes the market value of assets and liabilities, thereby
+changing each financial institution's net worth. Shareholders'may pay more attention to the
+management of net worth, which of the following statements about duration gap management is
+least correct?
+A.The larger the leverage-adjusted duration gap, the more sensitive will be the net worth
+(equity capital) of a financial institution to a change in interest rates.
+B.A financial firm with longer-duration assets than liabilities will suffer a greater decline
+in net worth when market interest rates rise.
+C.Net worth is more sensitive to interest rate when rate is at high level than at low due to
+the existence of convexity.
+D.In practice, duration gap management considers only the liner relationship between the change
+of interest rate and the asset\/liability price, which is a limitation.
+参考答案：C
+【莽学解析】Net worth is more sensitive to interest rate when it is at low level than high.(0)
+ 
+17.Malaysia Bank currently has the following simplified balance sheet:
+ 
+ 
+Further, the maturities of these accounts are as follows: (1) Assets: The bonds ($30.0
+million) expire in one year. In regard to the loans ($70.0),$40.0 million expire in five (5)
+years, $10.0 million expire in seven (7) years, and $20.0million expire in ten (10) years.(2)
+Liabilities: In regard to the deposits ($20.0 million), $10.0 million expire in one (1) year,
+and $20.0 million expire in two (2) years. In regard to the bonds ($50.0 million), $10.0
+million expire in five (5) years, $30.0 million expire in seven (7) years, and $10.0 million
+expire in beyond ten(>10) years.(3) Equity ($20.0 million) is presumed to expire in ten (10)
+yearsWhich term structure of cumulated expected cash flows is accurate for Malaysia Bank?
+ 
+A.Series A
+B.Series B
+C.Series C
+D.Series D
+参考答案：C
+【莽学解析】
+ 
+ 
+18.James, an analyst in liability management department, has to propose an appropriate non-
+deposit financing sources for the bank's coming $ 50 million investment requirement next week.
+After investigate, he gets the following information and both ways require deposit insurance
+fee:
+ 
+ 
+Which of the following statements are most likely accurate?
+A.The effective cost rate of the Fed funds is 6.3%
+B.The effective cost rate of the commercial paper is 7.2%
+C.James should suggest the Fed Funds for financing due to the lower effective cost rate.
+D.James should suggest the commercial paper for financing due to the lower effective cost rate.
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+19.Each of the following is a measure for quantifying and/or monitoring risk levels except
+which  is a measure for understanding intraday flows?
+A.Total payments
+B.Client intraday credit usage
+C.Intraday credit relative to tier 1 capital
+D.Daily maximum intraday liquidity usage
+参考答案：A
+【莽学解析】Total payments is a measure for understanding intraday flows  In regard to (B),
+(C) and (D), each is a measure for quantifying and/or monitoring risk levels(0)
+ 
+20.The main business lines of large dealer banks are:  (1) securities dealing, underwriting,
+and trading;  (2) over-the-counter derivatives;  (3) prime brokerage and asset management.
+ About these main business lines, each of the following statements is true except which is
+false?
+A.A tri-party repo agreement (between the dealer, the investor and a clearing bank) is used to
+mitigate counterparty risk and\/or reduce burden of collateral management. 
+B.For most over-the-counter (OTC) derivatives, one of the counterparties is a dealer who
+typicallylays off much (or all) of the risk of its client-initiated trades by running a matched
+book.
+C.With respect to over-the-counter (OTC) derivatives, the best measure of their systemic risk
+is thetotal market value of all outstanding contracts; further, master swap agreements do not
+reduce theiractual risks (although they do lower the administrative burden of OTC derivative
+contracts).
+D.Some large dealers are Prime Brokers who provide clients a range of services
+includingmanagement of securities holdings, clearing, cash-management, securities lending,
+financing,reporting (e.g., risk measurement), and tax accounting.
+参考答案：C
+【莽学解析】Master swap agreements reduce risk via netting and standardized collateral
+arrangements; further,  the total market value of all derivative contracts is zero. In regard
+to (A), (B) and (D), each is TRUE.(0)
+ 
+21.The framework of Early Warning Indicators can be summarized as M.E.R.I.T" and “M” means
+ “Measures”. Which of the following is true about a good Early Warning Indicator (EWI)
+measures?
+A.Forward-looking and sharp measures
+B.Measures are not linked from the escalation process
+C.Leading indicators provide Information and signal potential stress after the occurrence of
+anactual event
+D.Banks should consider only internal but not external measures
+参考答案：A
+【莽学解析】Escalation process is included in Measures; Leading indicators provide Information
+and signal  potential stress prior to occurrence of an actual event; Banks should consider
+both internal and  external measures.(0)
+ 
+22.Liquidity reserve is the cushion for banks when they are caught in a liquidity problem. A
+treasurer is calculating the liquidity requirements after divided the deposits and other funds
+into volatile liabilities, vulnerable funds and stable funds, which of the following statements
+is NOT true?
+A.The stable funds, usually long-term deposits, are least possible to flow out.
+B.Volatile liabilities should be weighted the most when calculate liquidity reserves.
+C.Vulnerable funds are those funds might be withdrawn recently.
+D.Stable funds should not be considered in liquidity reserve calculation.
+参考答案：D
+【莽学解析】volatile liabilities, 也叫热钱，是那些对利率变动特别敏感的存款以及借款或者那些确定
+会在近期被取出的资金，Vulnerable funds，相对脆弱的资金是有可能在近期取出的，stable fund 是比较
+稳定的常常是长期的存款，这三种资金都需要提取一定比例的流动性准备金，比重分别是 0.95，0.3 和
+0.15.(0)
+ 
+23.While smaller banks and thrift institutions usually rely most heavily on deposits for their
+funding needs, leading depository institutions around the globe have come to regard the
+nondeposit funds market as a key source of short-term money to meet both loan demand and
+unexpected cash emergencies. The most popular domestic source of borrowed reserves among
+depository institutions is the Federal funds market. Which of the following statement about the
+Federal funds market is most likely accurate?
+A.Specific collateral is needed for all Federal funds.
+B.The Fed has set three levels of credit, primary, secondary and seasonal, to meet needs
+of different institutions.
+C.The Federal funds market allows depository institutions short of reserves to meet their legal
+reserve requirements or to satisfy loan demand by tapping immediately usable funds from other
+institutions possessing temporarily idle funds.
+D.The Federal funds market improves the liquidity of home mortgages by allowing troubled
+institutions to use the home mortgages they held in their portfolios as collateral for
+emergency loans.
+参考答案：C
+【莽学解析】Overnight funds 一般不需要抵押，A 错 B 选项是 Federal Reserve Banks 的特征，不是
+the Federal funds market 的特征，B 错 C 正确，the Fed 就是通过把别的银行暂时不用的存款借给有需
+要的银行D 选型是 The Federal Home Loan Banks (FHLB)的特征，D 错(0)
+ 
+24.Asset-liability committee (ALCO), meets regularly to manage the financial firm's interest
+rate risk and other risk exposure, and estimates the firm's risk exposure. As a member of ALCO,
+Jason finds that the bank has negative interest-sensitive gap, which of the following
+statements is correct?
+A.The bank is asset sensitive.
+B.If interest rates rise, bank's net interest margin will decrease.
+C.If interest rates rise, bank's net interest margin will increase.
+D.The Interest Sensitivity Ratio (ISR) is more than 1.
+参考答案：B
+【莽学解析】Interest-sensitive gap = Interest-sensitive assets  Interest-sensitive liabilities,
+小于 0 代表利率敏感的负债多于利率敏感的资产，银行是负债敏感型的，利率上升，负债端支出的利息增加
+多于资产端收入的利息增加，银行净息差下降。当利率为负缺口时，利率敏感比率小于 1。(0)
+ 
+25.The liquidity management department of Bank ABC, is estimating liquidity needs for the next
+month. Liquidity rises as deposits increase and loans decrease and declines when deposits
+decrease and loans increase, therefore the changes in deposits and loans must be forecasted.
+For the deposit, the department estimates that the trend component is $1,200, the seasonal
+component is $70, and the cyclical component is - $38.Which is the estimated deposit should be
+in next month?
+A.$1380
+B.$1092
+C.$1232
+D.$1168
+参考答案：C
+【莽学解析】简单法估计一定周期内的存款，考虑趋势性，季节性和周期性。Estimated total deposit =
+trend estimate for deposit + seasonal elements + cyclical elements = $1,200 + $70 - $38 =
+$1232(0)
+ 
+26.Consider the following four definitions related to liquidity risk:  (1). Liquidity risk:
+The event that in the future the bank receives smaller than expected amounts of cash flows to
+meet its payment obligations. (2) Funding cost risk: The event that in the future the bank has
+to pay greater than expected cost (spread) above the risk-free rate to receive funds from
+sources of liquidity that are available (3) Liquidity generation capacity: The ability of a
+bank to generate positive cash flows, beyond contractual ones, from the sources of liquidity
+available in the balance sheet and off the  balance sheet at a given date. (4) Cash flow at
+Risk: The amount of economic losses due to the fact that on a given date the algebraic sum of
+positive and negative cash flows and of existing cash available at that date, is different from
+some (desired) expected level. Which of the following statements about these definitions is
+TRUE?
+A.Liquidity risk is inaccurate, but the other three are correct
+B.Funding cost risk is inaccurate, but the other three are correct
+C.Cash risk at Risk (CFaR) is inaccurate, but the other three are correct
+D.All four definitions are correct
+参考答案：C
+【莽学解析】Cash risk at Risk (CFaR) is inaccurate but the other three are correct.  The
+definition given for (C) is a second definition for liquidity risk: The amount of economic
+losses  due to the fact that on a given date the algebraic sum of positive and negative cash
+flows and of existing cash available at that date, is different from some (desired) expected
+level.(0)
+ 
+27.A small commercial bank wants to know the minimum rate of return it has to earn for the next
+year. Jack a treasurer from the investing department, starts from the total cost of capital, he
+found that next year, all coming funds is $ 400 million, however, 10% of them cannot be
+invested, and the current average interest rate is 5%, and operating expense, is about $ 10
+million. According to the information above, please help Jack figure out the hurdle rate for
+investing.
+A.7.5%
+B.8.3%
+C.2.5%
+D.5.5%
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+28.A credit analyst is evaluating the liquidity of a small regional bank while preparing a
+report for a credit committee meeting. With quarterly financial statements, the analyst
+calculates some relevant liquidity indicators over the past three years. Which of the following
+trends over this period should the analyst be most concerned about in the credit risk report?
+A.The bank’s average net federal funds and repurchase agreements position has been increasing.
+B.The bank's capacity ratio has been increasing.
+C.The bank's pledged securities ratio has been decreasing.
+D.The bank's loan commitments ratio has been decreasing.
+参考答案：B
+【莽学解析】B is correct. Capacity ratio is the ratio of net loans and leases to total assets,
+so liquidity decreases when net loans and leases increase relative to total assets, because
+they are often illiquid. A is incorrect. Liquidity increases when overnight loans increase
+relative to overnight borrowing. C is incorrect. Liquidity increases when fewer securities are
+pledged/unavailable to sell relative to total securities. D is incorrect. Liquidity increases
+when loan commitments decreases relative to total assets(0)
+ 
+29.In a deposit institution, savings deposits, checking accounts, NOW accounts, Christmas Club
+accounts, time deposits, cashiers' checks, money orders, officers'checks, and any outstanding
+drafts normally are protected by federal insurance. About the deposit insurance, which of the
+following is the least accurate?
+A.Deposit insurance allows institutions to sell deposits at relatively low rates of interest.
+B.Only members of Federal Deposit Insurance Corporation (FDIC) have deposit insurance.
+C.Liquidity risk for institutions is eliminated by deposit insurance because customers are
+lesspanic about the loss of their funds in deposit institutions.
+D.There is a limit on the deposit insurance, customers only get part of their deposit back if
+any crisis happened.
+参考答案：C
+【莽学解析】存款保险不能消除流动性风险，只能缓释流动性风险。(0)
+ 
+30.Important indicators of management's effectiveness are whether or not funds deposited by the
+public have been raised at the lowest possible cost and whether sufficient deposits are
+available to fund all those loans and projects management wishes to pursue. Which of the
+following statements about deposit pricing methods are most appropriate?I. Conditional pricing
+is sensitive to the types of customers each depository institution plans to serve and the cost
+that serving different types of depositors will present to the offering institution. II.
+Marginal revenue should be determined at the beginning when using marginal cost pricing
+method.III. Free-pricing may attract too much volatile funds when market rate is high, which
+actually adverse to deposit institutions.IV. Relationship pricing promotes greater customer
+loyalty and makes the customer more sensitive to the prices posted on services offered by
+competing financial firms.
+A.I & II
+B.II & III
+C.I, II & III
+D.I, II, III & IV
+参考答案：C
+【莽学解析】Statement IV：Relationship pricing promotes greater customer loyalty and makes the
+customer less  sensitive to the prices posted on services offered by competing financial
+firms.(0)
+ 
+31.Deposits provide much of the raw material for making loans and, thus, may represent the
+ultimate source of profits and growth for a depository institution. A deposit manager is trying
+to make the appropriate interest rate for deposits in order to balance the cost and profit.
+Among the following statements, which is correct?
+A.The optimal interest rate should be determined when marginal cost rate equals to marginal
+revenue rate.
+B.Margin cost rate decrease at first and increases as the rises of interest rate.
+C.Higher interest rate should always be taken therefore to appeal more deposits.
+D.Amount of profit earned always decreases when interest rate increases.
+参考答案：A
+【莽学解析】用边际成本的方法确定存款价格。随着存款利率的上升，利润额先增加后减少，当边际成本率
+等于边际收益率的时候，利润额达到最大，此时的对应存款利率为最优利率。边际成本利率随着存款利率的
+增加而增加，高利率也意味这高成本，并不是越高越好。(0)
+ 
+32.Covered interest parity has been systematically violated since the Great Financial Crisis.
+Severe interpretations are available towards these puzzling and consistent phenomena. Which of
+the following is NOT the possible reason led to the violation of CIP?
+A.Banks' business model be doomed to use currency derivatives, such as FX swap, to hedge the
+mismatch of currencies.
+B.This circumstance reflects that CIP may be an incorrect theory, more research needs to be
+done to verify the effectiveness of CIP.
+C.Structural changes in pricing market, credit, counterparty and liquidity risks post-crisis
+has tightened the limits to arbitrage.
+D.Activities on foreign currency market of institutional investors and non-financial
+firms induces imbalance on FX swap market.
+参考答案：B
+【莽学解析】CIP is the closest thing to a physical law in international finance. When violation
+happens, it doesn't mean CIP is incorrect, and two hypotheses are used to explain the
+violation: the increasing demand for currency hedges and arbitrage limits.(0)
+ 
+33.The treasurer of ABC, a large industrial firm, is considering issuing a 7-year bond to fund
+a  planned expansion. In order for the debt issuance to be successful, the treasurer feels
+that the bond  must be attractive to investors in terms of potential return and liquidity. To
+get a sense of the current  market and how investors might receive the new debt issuance, the
+treasurer asks the risk department  to conduct an analysis of the historical trading activity
+and performance of bonds issued by firms  similar to ABC. The bonds range in their initial
+maturity from 6 to 8 years but vary significantly in  liquidity with some bonds traded several
+times a week and others that may only trade a few times a  year. When analyzing the
+information, the risk department should be concerned that an illiquid bond,  when compared to
+a liquid bond, could exhibit:
+A.Lower returns and bid-ask spreads.
+B.Higher autocorrelation of returns.
+C.A lower calculated Sharpe ratio.
+D.A higher beta to the market.
+参考答案：B
+【莽学解析】For illiquid bonds, market in reported earnings often adopts the way of income
+smoothing, that is a  reference in front of the data to estimate a value, this value is
+estimated, with the previous data have  great links, so the autocorrelation is relatively
+large. The more illiquid the assets, the higher the bid?ask spreads. Illiquid assets tend to
+have lower market beta, higher Sharpe ratio and lower volatility.(0)
+ 
+34.A risk analyst in a hedge fund is gauging the liquidity risk exposure of a portfolio which
+allocates on illiquid assets such as private equity, convertible bond, treasure assets, etc.
+Which one  of following statements about risk and return biases of illiquid assets is
+incorrect?
+A.The risk analyst found a significant first-order autocorrelation coefficient of 0.5 for the
+quarterly historical returns. This can be seen as an indicator of historical return smoothing.
+B.For an illiquid asset, the correlation between asset return and market return will be
+artificiallybiased upward, giving the appearance of high systematic risk.
+C.If there is survivorship bias in this portfolio, the returns tend to be biased upward.
+D.The price impact of large trades can be seen as an illiquidity variable to measure the
+illiquidityin equity market.
+参考答案：B
+【莽学解析】A. 显著的自相关系数表明这个组合的收益率之间呈现自相关。一般来说交易不频繁的资产 由
+于可以观测到的收益率很少，收益率会被平滑，呈现自相关，这是非流动性资产的一个 特点。A 正确 B. 非
+流动性资产的收益率和大盘（或是其他一些流动性资产）之间的相关性会低估，并非 高估。 B 错误 C. 如
+果存在幸存者偏差（留下好的资产收益率的数据），会导致非流动性资产收益率高 估。C 正确 D. 大额交易
+的市场影响是评估股票市场的流动性的一个指标。如果大额交易对市场影响较 小，流动性较好。(0)
+ 
+35.In recent year, large dealer banks financed significant fractions of their assets using
+short-term,  often overnight, repurchase (repo) agreements in which creditors held bank
+securities as collateral  against default losses. The table below shows the quarter-end
+financing of four broker-dealer  banks. All values are in USD billions.
+ 
+ 
+If repo creditors become nervous about a bank’s solvency, which bank is least vulnerable to a
+ liquidity crisis?
+A.Bank A
+B.Bank B
+C.Bank C
+D.Bank D
+参考答案：A
+【莽学解析】A liquidity crisis could materialize if repo creditors become nervous about a
+bank’s solvency and  choose not to renew their positions. If enough creditors choose not to
+renew, the bank could likely  be unable to raise sufficient cash by other means on such short
+notice, thereby precipitating a  crisis. However, this vulnerability is directly related to
+the proportion of assets a bank has pledged  as collateral. Bank A is least vulnerable since
+it has the least dependence on short-term repo  financing (i.e., the lowest percentage of its
+assets out of the four banks is pledged as collateral:  272/823 = 33%).(0)
+ 
+36.Each of the following is true about the liquidity risk typology except which is false?
+A.Liquidity risk has three major types: 1. Transaction (aka, asset, market); 2. Funding (aka,
+cashflow, balance sheet); and 3. Systemic (aka, crisis)
+B.Transaction liquidity risk (aka, asset or market liquidity risk) can be modeled by either or
+bothof an exogenous-spread approach or\/and an endogenous price approach
+C.A key example of funding (aka, cash flow or balance sheet) liquidity risk is the rollover
+riskcreated by the maturity transformation function in a traditional depository institution  
+D.The liquidity risk typology is well-defined into three buckets because the three major
+liquidityrisk types do not interrelate
+参考答案：D
+【莽学解析】D is False, the opposite is the case. In general, the liquidity risks are related
+in potentially causal  chains.(0)
+ 
+37.No financial manager can completely avoid one of the toughest and potentially most damaging
+forms of risk that all financial institutions must face—interest rate risk. An analyst is
+evaluating four banks interest risk management, the information is as follows:
+ 
+ 
+Which of the following statements are appropriate strategies these banks can adopt?I. Bank A
+should increase investing in interest-sensitive assets if rate increases 1%.II. Bank B should
+decrease its interest-sensitive liabilities if rate decreases 2%.III. Bank C should purchase
+more assets with longer maturity and decreasing liabilities with longer maturity if rate falls
+from 4% to 2%.IV. Bank D should decrease duration of assets and increase duration of
+liabilities if rate raises from 2% to 4%.
+A.I, III & IV
+B.II & IV
+C.I, II & III
+D.I, II, III & IV
+参考答案：A
+【莽学解析】Positive interest-sensitive gap means ISA is more than ISL, if rate raises,
+increasing ISA can increase net interest income, because ISA can earn more interest rate than
+interest cost by ISL, otherwise, for negative interest-sensitive gap, if rate falls, increasing
+ISL can increase net interest income, because ISL can cost less.For duration gap, if interest
+rate raises, negative duration gap is better to maximum net worth, because the price of
+liabilities decrease more quickly than that of assets. If interest rate falls, positive
+duration gap can maximum net worth, because the price of assets increase more quickly than that
+of assets.(0)
+ 
+38.Allen holds a portfolio with 100,000 shares of a stock and the value of the position is $4.0
+million.  The bid price of the stock is $39 and the offer price is $41. The stock's daily
+volatility is 2.59% .  Allen is interesting in calculating the LVaR of the portfolio, Let’s
+assume the stock's arithmetic  returns are normally distributed (aka, normal VaR) and the
+expected daily return rounds to zero.  Which is NEAREST to the position's one-day 99.0%
+confident liquidity-adjusted value at risk  (LVaR)?
+A.$123,000
+B.$276,000
+C.$340,000
+D.$400,000
+参考答案：C
+【莽学解析】The one-day 99.0% VaR is calculated by 0 + 2.59% * 2.326 * $4.0 million = $240,973.
+The liquidity cost (LC) is given by (41.00 - 39.00)/40.00 * 0.5 * $4.0 million = $100,000. The
+one-day 99.0% VaR is therefore 240,973 + 100,000 = $340,973(0)
+ 
+39.The Rosenfeld Investment Firm wants to invest in bond portfolios. Based on its multi-year
+ fabulous expertise in bond investment, it can choose from among the following maturity
+strategies:  Ladder Policy, Front-end Load Maturity Policy, Back-end Load Maturity Policy,
+Barbell Strategy,  or Rate Expectations Approach. The firm's goal for the portfolio is neither
+to maximize income nor  to seek to maximize the upside potential for earnings. Instead, the
+primary goal is to use the portfolio  as a source of liquidity. For that purpose, which of the
+following strategy is the most suitable?
+A.Barbell strategy
+B.Front-end Load Maturity Policy
+C.Back-end Load Maturity Policy
+D.Ladder policy
+参考答案：B
+【莽学解析】The Front-end Load Maturity Policy purchases short-term securities that mature
+within a short time  interval. Its primary goal is liquidity rather than income or maxim
+upside.(0)
+ 
+40.Alan Chen, a staff of JY bank, is considering developing an appropriate contingency funding
+ plan, all of the following statements should be considered in building Contingency Funding
+Plan EXCEPT:
+A.Aligned to business and risk profiles
+B.Integrated with broader risk management frameworks
+C.Theoretical basis for precoded instruction set
+D.Inclusive of appropriate stakeholder groups
+参考答案：C
+【莽学解析】In regard to (A), (B) and (D), are all correct design considerations to CFP, except
+for C., the five  considerations are correct. The five design considerations are "Aligned to
+business and risk profiles; Integrated with broader risk management frameworks; Operational and
+actionable, but flexible playbook; Inclusive of appropriate stakeholder groups; and Supported
+by a communication plan.(0)
+ 
+41.Darcy is estimating the total financing cost included deposit and nondeposit funds. By
+reviewing the bank’s past expense, he concluded that the following table:
+ 
+ 
+Which of the following statement is NOT correct?
+A.The weighted average of interest expense is 6.25%
+B.The break-even cost rate is 12%
+C.The weighted average overall cost of capital is 15%
+D.The least return of rate the bank should earn is 16.615%
+参考答案：D
+【莽学解析】
+ 
+ 
+ 
+42.Which of the following types of liquidity is available in the form of the institution's
+liquidity asset buffer and represents liquidity available to meet general financial obligations
+under a stress scenario?
+A.Operational
+B.Strategic
+C.Contingent
+D.Restricted
+参考答案：C
+【莽学解析】The liquidity that is available to meet general financial obligations under a
+stress scenario. In regard to (A), (C) and (D), each is unavailable to meet general financial
+obligations under a liquidity stress test.(0)

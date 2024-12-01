@@ -1,0 +1,901 @@
+05-Risk Management and Investment Management
+单项选择题
+1.Fenn Tomnick is a risk analyst at one of the major equity research firms specializing in
+Eurozone banks. In a recent review of the European financial crisis, Tomnick indicated that in
+times of distress of systematically important financial institutions, sovereign governments are
+often compelled to provide financial support to the struggling institution. Which of the
+following statements best describes Tomnick’s example?
+A.The example describes one of the charnels through which sovereign risk is transmitted to the
+finan
+B.The example describes one of the channels through which financial sector risk is transmitted
+to so
+C.The example describes a key way in which financial institutions are vulnerable to exposure to
+priv
+D.The example provides an illustration of the interconnectedness of the global financial
+system.
+参考答案：B
+【莽学解析】The example describes one of the channels through whichfinancial sector risk is
+transmitted to sovereigns. These channels include (1)improper government policies (e.g.,
+unsustainable spending increases) as aresult of one-off boosts to fiscal balances from
+financial institutions, (2)lending constraints of financial institutions that result in larger
+publicsector deficit and deteriorating sovereign creditworthiness, and (3) necessarygovernment
+support to struggling financial institutions in order to preservefinancial stability.(2)
+ 
+2.During the 2007—2008 financial crisis, there was a grave concern that Bear Stearns and
+Lehman Brothers were highly interconnected to many other financial firms. It ended up being
+true. The interdependency of financial firms can lead to:
+A.negative kurtosis.
+B.lower variance of returns.
+C.fat tailed distributions.
+D.excess system-wide leverage.
+参考答案：C
+【莽学解析】Interdependencies can lead to fat tails. This increasesrisk in the overall
+financial system and increases the likelihood ofcatastrophic risks, as evidenced by the
+financial crisis. Firms were sodependent on each other that a problem at one bank, say Lehman
+Brothers, meantfrozen short-term credit markets for other banks. Interactions are at
+leastpartially to blame for fat rails. The central limit theorem assumes events areindependent.
+Analysis of the financial crisis makes it clear that events aregenerally not independent. (1)
+ 
+3.Which of the following statements best describes the use of heuristics in decision- making
+models?
+A.Research studies suggest simple models based on heuristics are more successful in decision
+making
+B.Heuristics are simple rules of thumb that are used in decision making.
+C.Models based on heuristics tend to have more parameter assumptions.
+D.A drawback of heuristic models is that they tend to over-fit sample data and perform poorly
+in pre
+参考答案：B
+【莽学解析】Heuristics are simple rules of thumb that are used indecision making. Research
+studies find that simple models based on heuristicsoften are more successful in decision making
+than more complex models. Simplemodels have fewer parameter assumptions. More complex models
+tend to over-fitsample data and perform poorly in predicting future outcomes.(0)
+ 
+4.A risk manager is evaluating the risk profile for a portfolio of stocks. Currently, the
+portfolio is valued at JPY 128 billion and contains JPY 25 billion in stock XYZ. The standard
+deviation of returns of stock XYZ is 11% annually and that of the overall portfolio is 18%
+annually. The correlation of returns between stock XYZ and the portfolio is 0.6. Assuming the
+risk analyst uses a 1-year 95% VaR and that returns are normally distributed, what is the
+estimated component VaR of stock XYZ? 
+A.JPY 2.714 billion
+B.JPY 3.838 billion
+C.JPY 4.524 billion
+D.JPY 6.397 billion
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+5.A company's pension fund is established as a defined benefit plan, and therefore the board
+must consider funding risk. Which of the following statements about the pension fund’s funding
+risk is correct? 
+A.The longer the horizon for expected payouts, the lower\nthe funding risk.
+B.Decreases in interest rates will reduce funding risk.
+C.The funding risk has been effectively transferred to\nthe employees.
+D.Funding risk represents the true long-term risk to the\nplan sponsor.
+参考答案：D
+【莽学解析】The time horizon of payouts does not eliminate fundingrisk.  In fact it is the
+mismatch betweenassets and liabilities that creates funding risk. In an low interest
+rateenvironment the value of equities will rise, however the value of theliabilities are likely
+to increase more thereby exacerbating funding risk.Funding risk is transferred to employees
+with a defined contribution plan.Immunizing the portfolio, essentially matching duration of
+assets andliabilities, will reduce funding risk. (0)
+ 
+6.A portfolio manager wants to invest a small amount of new money that has recently come into a
+fund. The fund is benchmarked to an index and, rather than adding a new holding, the manager is
+considering increasing the holdings of one of the four assets described in the following
+table: 
+ 
+ 
+The portfolio manager wants to select the asset that has the lowest marginal VaR as long as its
+Treynor ratio is at least 0.1. Assuming the risk free rate is 2%, which asset should the
+portfolio manager select?
+A.Asset A
+B.Asset B
+C.Asset C
+D.Asset D
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+7.An analyst regresses the returns of 100 stocks against the returns of a major market index.
+The resulting pool of 100 alphas has a residual risk of 18% and an information coefficient of
+9%. If the alphas are normally distributed with a mean of 0%, roughly how many stocks have an
+alpha greater than 4% or less than -4%?
+A.5
+B.10
+C.20
+D.25
+参考答案：A
+【莽学解析】The standard deviation (std) of the alphas = ResidualRisk (volatility) x
+Information Coefficient (IC) = 0.20 * 0.10 = 0.02. So, 4%is twice the standard deviation of the
+alphas. The alphas follow normaldistribution with mean 0, so about 5% of the alphas are out of
+the interval[-4%, 4%]. The total number of stocks is 100, so roughly there are 5 alphasthat are
+out of the range.  (3)
+ 
+8.A useful measure for assessing liquidity risk for hedge funds is the Q-statistic. Which of
+the following statements is true regarding the statistical significance of the Q-statistic
+measure?
+A.Smaller p-values indicate that autocorrelations are\nmore statistically significant.
+B.We will be 99% confident that we can reject the null\nhypothesis of no correlation when the
+test sta
+C.The null hypothesis of positive autocorrelations can\nbe rejected when each lagged
+autocorrelation i
+D.Larger p-values indicate that autocorrelations are\nmore statistically significant.
+参考答案：A
+【莽学解析】The Q-statistic reflects the absolute magnitudes of thecorrelations, because it
+sums the squared autocorrelations. Thus, the signs donot cancel each other ou1, and funds with
+large positive or negative autocorrelationcoefficients will result in large Q-statistics. Fund
+managers have an incentivefor smoothing the rectums of illiquid funds. This smoothing process
+results inserial autocorrelations. As with most statistics, the smaller the p-value forthe
+statistic, the greater our confidence in the inference made by rejectingthe null hypothesis.(0)
+ 
+9.In distinguishing between strategy risks and structural risks that stem from a fund of hedge
+funds, which of the following would be considered strategy risk(s)? I. Trading liquidity risk.
+II. The extent and form of management oversight. III. The risk of poor information reporting
+systems IV. The risk of high ownership concentration of hedge fund shares.
+A.I, III, and IV only
+B.I only
+C.II and III only
+D.II and IV only
+参考答案：B
+【莽学解析】Hedge funds face structural risks that stem from a hedgefund's operations. These
+risks include the potential for deterioration in afirm's reputation, poor information reporting
+systems, inadequate managementoversight, etc. Strategy risks derive from a hedge fund's
+investment strategy.They include a fund's exposure to price swings from different asset
+classes(market risk), the risk of non-performance by counterparties (credit risk), therisk of
+price impact from executing large trades (trading liquidity risk), andthe risk of not being
+able to meet interim cash flows obligations before strategiesare able to become profitable
+(funding liquidity risk). (3)
+10.Hedge fund managers following a convertible arbitrage strategy are said to be:
+A.long gamma and short vega
+B.short gamma and short vega
+C.long gamma and long vega
+D.short gamma and long vega
+参考答案：C
+【莽学解析】Convertible arbitrage managers hedge their equityexposure by shorting stocks using
+the delta hedge ratio. Because they areexposed to changes in the hedge ratio, they are said to
+be long gamma. They arealso exposed to changes in the price volatility of the stock underlying
+theoption embedded in the convertible security, so they are said to be long Vega.(1)
+ 
+11.You are asked to estimate the exposure of a hedge fund to the S&P 500.Though the fund claims
+to mark to market weekly, it does not do so and marks to market once a month. The fund also
+does not tell investors that it simply holds an Exchange Traded Fund (ETF) indexed to the S&P
+500.Because of the claims of the hedge fund, you decide to estimate the market exposure by
+regressing weekly returns of the fund on the weekly return of the S&P 500. Which of the
+following correctly describes a property of your regression estimates?
+A.The intercept of your regression will be positive, showing that the\nfund has a positive
+alpha when
+B.The beta will be misestimated because hedge fund exposures are nonlinear.
+C.The beta of your regression will be one because the fund holds the S&P\n500.
+D.The beta of your regression will be zero because the fund returns\nare not synchronous with
+the S&am
+参考答案：D
+【莽学解析】The weekly returns are not synchronized with those of the S&P. Asa result, the
+estimate of beta from weekly data will be too low.(4)
+ 
+12.For a portfolio of illiquid assets, hedge fund managers often have considerable discretion
+in portfolio valuation at the end of each month and may have incentives to smooth returns by
+marking values below actual in high-return months and above actual in low-return months. Which
+of the following is not a consequence of return smoothing over time?
+A.Higher Sharpe ratio
+B.Lower volatility
+C.Higher serial correlation
+D.Higher market beta
+参考答案：D
+【莽学解析】Illiquidity creates an understatement of the total risk measure. As aresult, the
+Sharpe ratio will be artificially higher. Illiquidity createstrends in returns (higher serial
+correlation), as market shocks during a monthwill be partially recorded in two consecutive
+months. Illiquidity, however,biases down the market beta.(3)
+ 
+13.Risk management of hedge funds has challenges not generally faced in traditional investment
+management companies. Which of the following statements are correct about hedge fund risk
+management? I. Because hedge funds can hold long and short positions, and can use derivatives
+and leverage, their exposure to market risks can experience large and rapid changes that make
+it difficult to assess these exposures using only monthly returns. II. Many hedge funds use
+over-the-counter derivatives, which are valued by models or quoted prices and often hold
+illiquid assets; as a result, the returns of these strategies generally exhibit much lower
+serial correlation than mutual fund returns. III. For hedge fund strategies that use leverage
+to amplify returns and rely on their ability to move out of trades quickly when they turn
+against them, liquidity risk must be closely monitored and managed. IV. Hedge fund returns are
+often similar to the return of a basket of exotic derivatives with nonlinear payoffs, and
+therefore assessing risk based on past performance can be misleading.
+A.I, II, III, and IV
+B.I, III, and IV
+C.I and III
+D.II and IV
+参考答案：B
+【莽学解析】Statement I, III, and IV are correct. Statement II. Is false becauseilliquid asset
+creates higher serial correlation.(1)
+ 
+14.A portfolio manager currently holds 20,000 shares of Costiuk Inc. in a particular portfolio.
+The daily volume of Costiuk shares traded on the stock exchange is 50,000. Additionally, on any
+given day, the portfolio manager wishes to trade no more than 15% of the daily trading volume
+of Costiuk. Which of the following amounts is closest to the liquidity duration of Costiuk in
+this portfolio?
+A.0.06
+B.0.375
+C.2.67
+D.16.67
+参考答案：C
+【莽学解析】Liquidity duration is an approximation of the number ofdays necessary to dispose of
+a portfolio’s holdings (of a particular share inthis case) without a significant market
+impact. ft is calculated as: 20,000/(0.15 x 50,000) = 2.67.(2)
+ 
+15.Given the following information, what is the percent of contribution to VAR from Asset A?
+There are two assets in a portfolio: A and B.  Asset A marginal VAR:   0.05687  Asset A
+value: $7,000,000  Asset B marginal VAR:   0.17741  Asset B value: $4,000,000
+A.64.06%
+B.24.27%
+C.35.94%
+D.63.64%
+参考答案：C
+【莽学解析】The component VAR factors in both the marginal VAR andthe asset value. For Asset
+A:0.05687*$7,000,000=$398.090 For Asset B:0.17741*$4,000,000=$709,640 Asset A’s percentof
+contribution to VAR is A’s component VAR as a percent of total VAR:
+$398,090/($398,090+$709.640)=35.94% Choice A isincorrect because it is the percent of
+contribution to VAR from Asset B. Choice B isincorrect because it is the Marginal VAR weight
+for Asset A. Choice D is incorrect because it is just the asset weightfor Asset A.(1)
+ 
+16.A portfolio is composed of two securities ans has the following
+characteristics:  Investment in X:   USD 1.8 million  Investment in Y:  USD 3.2 million
+ Volatility of X:  8%  Volatility of Y: 4%  Correlation between X and Y: 15%  The
+portfolio diversified VAR at the 95% confidence level is closest to:
+A.1
+B.$14,074
+C.$206,500
+D.$404,740
+参考答案：D
+【莽学解析】
+ 
+ 
+ 
+ 
+ Step 2: Calculate the VAR VVAR=1.65*volatility*portfolio value VAR=1.65*0.0413*$ 5m
+VAR=$340,725 (1)
+ 
+17.The AT&T pension fund has 68%, or about $13 billion invested in equities. Assume a normal
+distribution and volatility of 15% per annum. The fund measures absolute risk with a 95%, one-
+year VAR, which gives $3.2 billion. The pension plan wants to allocate this risk to two equity
+managers, each with the same VAR budget. Given that the correlation between managers is 0.5,
+the VAR budget for each should be
+A.$3.2 billion
+B.$2.4 billion
+C.$1.9 billion
+D.$1.6 billion
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+18.SkyLine Airways has a defined benefit pension scheme with assets of $165 million and
+liability of $150 million. The annual growth of the liabilities is expected to be 4.5% with
+2.4% volatility. The annual return on the pension assets has an expected value of 7.8% with 12%
+volatility. The correlation between asset return and liability growth is 0.35. What is the 95%
+surplus at risk for SkyLine?
+A.$24.97million
+B.$54.81million
+C.$18.84million
+D.$6.12million
+参考答案：A
+【莽学解析】
+ 
+ 
+ Step 3: Calculate VAR of the assets. VAR=Z-score *volatility VAR=1.65*$18.84m VAR=$31,086,000
+Surplus at risk=expected growth in surplus-VAR Surplus at risk=$6.12m-$31.086m=-$24.97m Note:
+Although it is a negative, it is usually expressedas a positive figure as it is assumed that it
+is a shortfall. (1)
+ 
+19.A hedge fund is long USD 315 million in certain stocks and short USD 225 million in other
+stocks. The hedge fund’s equity is USD 185 million. The fund’s overall beta is 0.75.
+Calculate the Gross and Net leverage.
+A.2.91 and 0.48
+B.2.18 and 0.36
+C.2.91 and 0.36
+D.2.18 and 0.48
+参考答案：A
+【莽学解析】
+ 
+20.The Peyton Formika Fund is a global macro asset allocation hedge fund designed to provide
+low correlations with U.S. assets. Dominic James is a fund of hedge funds manager that is
+analyzing the Peyton Formika Fund for signs of style drift. James makes note of the following
+findings about the fund: I. The R2 of the fund versus the global macro peer group has changed
+from 0.72 to 0.78 over the past 12 months. II. Due to outstanding returns, assets in the fund
+have increased from $70 million to $430 million over the past 12 months. III. The fund made a
+major shift in allocation by moving 40 percent of its holdings from Eastern European equities
+to Asian equities. IV. After a recent trip to India, the fund manager gained confidence in his
+existing Indian equity holdings and levered his existing 5% weighting in India only by a 10 to
+1 ratio. Which of James’ findings are indicators that the Peyton Formika Fund is at risk for
+style drift?
+A.II and IV only
+B.I and II only
+C.II and III only
+D.I, III and IV only
+参考答案：A
+【莽学解析】Hedge fund style drift occurs when there are changes inthe risk factor exposures of
+the fund or changes in the overall risk of thefund, notably through leverage. Using leverage
+only for his Indian equityposition would definitely be an indicator of style drift. Even though
+theinitial position is small, a 10 to 1 leverage ratio would significantly changethe risk of
+the fund. An excessive cash inflow which may be more money than themanager can sustain is also
+a potential indicator of style drift. The change inallocation from Eastern European equities to
+Asian equities is within theobjectives of a global allocation fund, so that would not indicate
+style drift.Also, style drift would be a concern with a decrease, not an increase in theR-
+squared measure against the peer group. (2)
+ 
+21.Rick Walter works in the risk management department of a hedge fund. The fund is
+headquartered in the United 5tates (U.5.) but trades internationally. Walter has been tasked
+with explaining the differences between regulatory authorities and the requirements of each of
+the authorities in the United States, the European Union (EU), and 5ingapore with respect to
+over-the-counter (OTC) derivatives trading. He will produce a report that will be presented to
+senior management and the board of directors at the board's next meeting. Regarding
+requirements in thc various jurisdictions, which statement is correct?
+A.Central\ncounterparties (CCPs) in the EU must be mutualized and a default fund must
+be\nestabli
+B.The United\nStates exempts pension funds from clearing requirements, unlike Singapore
+and\nthe
+C.Singapore is\nthe least flexible with respect to the choice of a CCP, requiring
+clearing\nthrou
+D.The United\nStates, along with the EU and Singapore, requires initial and variation
+margin,\nbu
+参考答案：A
+【莽学解析】Generallyspeaking, the EU has the strictest regulations with respect to
+centralclearing. The EU does not contain an exemption based on a threshold size of a
+financialentity. Both Singapore and the United States have a threshold ($10 billion in
+theUnited States). However, the EU, not the United States, exempts pension fundsfrom clearing
+requirements. The choice of CCP is most flexible in Singapore.Singapore allows for central
+clearing using both domestic and foreignCCPs.  The United States and the EU mustanalyze the
+regulations and agreements of the foreign regulators beforeallowing clearing by a foreign CCP.
+The EU is most prescriptive regarding theorganization and choice of model for the CCP,
+requiring the CCP to be mutualized,where member losses are shared through a default fund. All
+three jurisdictionsrequire initial and variation margin, but U.S. regulation includes netting
+arrangementsand margin requirements for payments above a minimum transfer amount.   (1)
+ 
+22.There has been a recent push for financial market participants to consider increasing the
+number of available reference rates, providing alternatives to the London Interbank Offered
+Rate (LIBOR) and Euribor, two of the most commonly used rates. Which of the following
+criticisms of the commonly used reference rates has encouraged the need for alternative
+reference rates?
+A.Commonly used\nrates contain credit risk, making them unsuitable for some transactions.
+B.Overnight markets\nare less liquid, making them unappealing for use in swap contracts.
+C.Banks have\nbecome increasingly reliant on unsecured funding to better manage credit risks.
+D.LIBOR and Euribor are not consistently published on dedicated sites.
+参考答案：A
+【莽学解析】Until the recent financial crisis (2007-2009), referencerates, including LIBOR and
+Euribor, were intended to measure the bank creditrisk premiums of "prime banks" (i.e., the
+rates reflect the risk-freerate and common bank risk). However, as a result of the financial
+crisis, bankrisks became widely dispersed, making commonly used reference rates unsuitablefor
+some transactions. Different market participants look for different riskfactors and, as a
+result, would need reference rates that are specific to theirrisk requirements. Overnight
+markets have little or no credit risk, making themsuitable for some transactions such as
+overnight indexed swaps (OISs).Overnight markets are more liquid, not less liquid. Banks are
+becoming increasinglyreliant on wholesale funding to manage credit risks, not unsecured
+funding. Finally,LIBOR and Euibor are readily available to market participants. Credit
+riskpremiums that are embedded in commonly used reference rates pose a problem forsome
+transactions. (0)
+ 
+23.A portfolio manager estimates the VaRs for the two positions in his portfolio as follows: 
+VaR1 = $4.8 million and VaR2 = $2.6 million. What is the VaR for the portfolio if the returns
+of the two securities are uncorrelated, and what is the VaR for the portfolio if the returns of
+the two securities are perfectly correlated?
+A.For zero correlation,\nVaR is $5.46 million, and for perfect for relation, VaR is $7.40
+millio
+B.For zero correlation,\nVaR is $4.46 million, and for perfect correlation, VaR is $6.40
+million
+C.For zero correlation,\nVaR is $7.46 million, and for perfect correlation, VaR is $3.40
+million
+D.For zero\ncorrelation, VaR is $5.46 million, and for perfect correlation, VaR is
+$9.40\nmillion
+参考答案：A
+【莽学解析】VaRfor zero correlation =
+ 
+ VaRfor perfect correlation = VaR1 + VaR2 = $4.8 million +$2.6 million = $7.40 million(1)
+ 
+24.Glenn Funds uses the information ratio (IR) as a performance measure. The firm compares
+portfolio managers based on their IRs and uses this information to help determine performance
+compensation. Which of the following statements does not represent a strength of the IR in
+terms of its usefulness in comparing asset managers?  The information ratio:
+A.can be applied\nto industries as well as individual asset and portfolio returns.
+B.is easy to\nunderstand when used to compare a manager's performance to the performance of
+a\npe
+C.uses the\nportfolio's forecasted tracking error in the calculation, making it a
+forward\nlookin
+D.makes it easy\nfor senior supervisors to rank order managers based on their generated
+excess\nr
+参考答案：C
+【莽学解析】Strengthsof the Sharpe and information ratios are (1) easy to use as measures of
+relativeperformance compared to a benchmark or peer group; (2) easy to determine if amanager
+has generated sufficient excess returns in relation to the amount ofrisk taken; and (3) easy to
+apply to industrial sectors and countries. Weaknessesinclude (1) insufficient data to perform
+the calculation and (2) the use ofrealized risk (instead of potential risk) may result in
+overstated performancecalculations. The Sharpe and information ratios use historical data
+(notforecasted tracking errors) and thus are not forward looking.    (0)
+ 
+25.Hedge fund manager Bill Deschler has managed a portfolio for 15 years. During the financial
+crisis of 2007-2009, he observed that his portfolio returns fell dramatically along with the
+market.  This was surprising because the fund was structured such that the portfolio beta was
+uncorrelated with the market index. He identifies several concepts that might be used to
+explain the phenomenon. Which of the following risk-related items could not be used to explain
+Deschler's observation?
+A.Nonlinearity\nrisk.
+B.Systemic\ncorrelation.
+C.Asymmetric\ncorrelation.
+D.Phase-locking\nbehavior.
+参考答案：B
+【莽学解析】Phase-lockingbehavior occurs with events that cause normally uncorrelated actions
+to becomehighly correlated. Asymmetric correlation refers to the notion that beta
+coefficientsare more highly correlated with the market index in down markets than they arein up
+markets. Asymmetric correlation creates a type of nonlinearity risk thattraditional risk
+measurement models do not capture. Systemic risks often leadto higher correlation coefficients
+but there is no such thing as systemiccorrelation.    (0)
+ 
+26.A database of hedge fund returns is constructed as follows. The first year of the database
+is 1994. All funds existing as of the end of 1994 that were willing to report their verified
+returns for that year are included in that year. The database was extended by asking the funds
+for verified returns before1994. Subsequently, funds are added as they are willing to report
+verified returns to the database. If a fund stops reporting returns, its returns are deleted
+from the database, but the database has an agreement with funds that they will keep reporting
+verified returns even if they stop being open to new investors. Consider the four following
+statements: I. The database suffers from backfilling bias. II. The database suffers from
+survivorship bias. III. The database suffers from an errors-in-variables bias. IV. The equally-
+weighted annual return average of fund returns will underestimate the performance one would
+expect from a hedge fund. Which one of the following is correct?
+A.All the above statements are\ncorrect.
+B.Statements I and II are\ncorrect.
+C.Statements I, II, and III\nare correct.
+D.Statements II and IV are\ncorrect.
+参考答案：B
+【莽学解析】The database includes histories before 1994 and therefore suffers frombackfill
+bias. Next, funds that stop reporting are deleted from the database,so this has survival bias.
+Errors-in-variables biases arise in other contexts,such as regression. Finally, the average of
+fund returns will be too high (nottoo low) because of these two biases. Hence, I. and II. are
+correct.(0)
+ 
+27.The pension management analysts at Big Inc. use a two-step process to manage the assets and
+risk in the pension portfolio. First, they use a VAR-based risk budgeting process to determine
+the asset allocation across four broad asset classes. Then, within each asset class, they set a
+maximum tracking error allowance from a benchmark index and determine an active risk budget to
+distribute among individual managers. Assume the returns are all normally distributed. From the
+first step in the process, the following information is available. 
+ 
+ 
+ Which of the following statements is/are correct? I. Using VAR as the risk budgeting measure,
+the emerging markets class has the smallest risk budget. II. If an additional dollar were added
+to the portfolio, the marginal impact on portfolio VAR would be greatest if it were invested in
+small caps. III. As the maximum tracking error allowance is lowered, the individual managers
+have more freedom to achieve greater excess returns. IV. Setting well-defined risk limits and
+closely monitoring risk levels guarantee that risk limits will not be exceeded.
+A.I and II only
+B.I, II, III, and IV
+C.II and III
+D.I only
+参考答案：A
+【莽学解析】Risk budget is represented by the individual VAR, which is thesmallest for emerging
+markets, so statement I. is correct. The marginal VAR ishighest for small caps, so adding one
+dollar to that asset class would have thelargest impact on the portfolio. Statement III. Is
+incorrect, as lowering TEVwould give less, not more freedom to manages. Finally, setting risk
+limits doesnot ensure they will not be exceeded, Bad luck and exceptions can happen, evenif the
+risk model is correct.(2)
+ 
+28.A fund of hedge funds combines a mix of strategy sectors, managers, and styles, and
+therefore fund of funds risk managers need to understand the common attributes of hedge fund
+strategies. Which of the following statements is incorrect?
+A.Equity market neutral funds\naim to generate returns that have low correlation to the overall
+B.Convertible arbitrage funds\ntypically purchase securities that are convertible into the
+issue
+C.Merger arbitrage funds buy\nthe stock of an acquisition target company and simultaneously
+shor
+D.Equity short-selling funds\nsell stocks not currently owned by the seller in order to take a
+d
+参考答案：D
+【莽学解析】Statement a.,b., and c. are correct. Funds that short-sell, however,have negative
+correlation with long-only portfolio. They cannot beuncorrelated. (2)
+ 
+29.Identify the risks in a fixed-income arbitrage strategy that takes long positions in
+interest rate swaps hedged with short positions in Treasuries.
+A.The strategy could lose from\ndecreases in the Swap-Treasury spread.
+B.The strategy could lose from\nincreases in the Treasury rate, all else fixed.
+C.The payoff in the strategy\nhas negative skewness.
+D.The payoff in the strategy\nhas positive skewness.
+参考答案：C
+【莽学解析】The strategy has no exposure to the level of rates but is exposed to awidening of
+the Swap-Treasury spread. Assume for instance that the swap andTreasury rates are initially
+5.5% and 5%. If these rates change to 5.3% and4.5%, for example, both values for the swap and
+the Treasury bond wouldincrease. Because the drop in the Treasury rate is larger, however, the
+priceof the Treasury bond would fall more than the swap, leading to a net loss onthe position.
+The strategy should gain from decreases in the Swap-Treasuryspread, so a. is wrong. The
+strategy should gain from increases in the Treasuryrate, all else equal, so b. is wrong.
+Finally, the distribution of the payoffdepends on the distribution of the swap-Treasury spread.
+Because this cannot gobelow zero, there is a limit on the upside. The position has negative
+skewness,so c. is correct.(8)
+ 
+30.The Big Bucks Hedge fund has the following description of its activities. It uses
+simultaneous long and short positions in equity with a net beta close to zero. Which of the
+following statements about Big Bucks are correct? I. It uses a directional strategy. II. It is
+a relative value hedge fund. III. This fund is exposed to idiosyncratic risks.
+A.I and II
+B.II and III
+C.I and III
+D.II only
+参考答案：B
+【莽学解析】This fund has zero beta, so is a relative value fund. It is, however,exposed to
+idiosyncratic, stock-specific risk. (0)
+ 
+31.An analyst reports the following fund information to the advisor of a pension fund that
+currently invests in government and corporate bonds and carries a surplus of USD 10 million: 
+ 
+ 
+ To evaluate the sufficiency of the fund's surplus, the advisor estimates the possible surplus
+values at the end of one year. The advisor assumes that annual returns on assets and the annual
+growth of the liabilities are jointly normally distributed and their correlation coefficient is
+0.8. The advisor can report that, with a confidence level of 95%, the surplus value will be
+greater than or equal to:
+A.USD -11.4 million
+B.USD -8.3 million
+C.USD -1.7 million
+D.USD 0 million
+参考答案：C
+【莽学解析】The lower bound of the 95% confidence interval is equalto: Expected Surplus - (95%
+confidence factor * Volatility of Surplus).  The required variables can be calculated
+asfollows:Variance of the surplus = 1002 * 10%2 + 902 * 5%2 - 2 *100 * 90 * 10% * 5% * 0.8 =
+48.25 Volatility of the surplus = √48.25 =6.94, The expected surplus = 100 * 1.06 - 90 * 1.07
+= 9.7. Therefore, the lower bound of the 95% confidence interval= 9.7 - 1.645 * 6.94 = -
+1.725(4)
+ 
+32.A due diligence specialist is evaluating the risk management process of a hedge fund in
+which his company is considering making an investment. Which of the following statements best
+describes criteria used for such an evaluation?
+A.Because of the overwhelming importance of tail risk,\nthe company should not invest in the
+fund unle
+B.Today's best practices in risk management require that\na fund employ independent risk
+service provi
+C.When considering a leveraged fund, the specialist\nshould assess how the fund estimates risks
+relate
+D.d. It is crucial to assess the fund's valuation policy, and in general if more than 10% of
+asset prices are based on model prices or broker quotes,the specialist should recommend against
+investment in the fund regardless of other information available about the fund.
+参考答案：C
+【莽学解析】Generally speaking, with a leveraged fund, an investorwill need to evaluate
+historical and current changes in leverage, as well asthe level of liquidity of the portfolio,
+particularly during times of marketstress. Certain strategies may in fact expose an investor to
+tail risk, sowhile an investor should inquire whether the manager believes that tail
+riskexists, and whether or not it is hedged, it is then up to the investor todecide whether to
+accept the risk unhedged or hedge it on their own. Many fundsemploy independent risk service
+providers to report risks to investors, butthese firms do not get involved in risk related
+decision making. And finally,while it is important to know what percentage of the assets is
+exchange-tradedand marked to market, what might be acceptable may differ depending on
+thestrategy of the fund.(2)
+ 
+33.Gail Gordon has been discussing the causes of the recent financial crisis with her
+colleagues. During the discussion, Gordon commented that three initial key conditions caused
+the spread of the crisis: (1) lack of adequate reserves in the banking system, (2) lack of
+adequate capital and high leverage, and (3) lack of investor confidence in the financial
+system. How many of the initial key crisis conditions has Gordon correctly identified?
+A.None.
+B.One.
+C.Two.
+D.Three.
+参考答案：C
+【莽学解析】Gordon identified only two of thethree key initial conditions correctly. The three
+conditions were: (1)inadequate capital of the banking system coupled with high leverage, (2)
+inadequatefiscal reserves, and (3) large degree of interconnectedness of the global
+financialmarkets.(0)
+ 
+34.Samantha Moore manages a hedge fund for a mid-sized money management firm. The fund
+frequently changes styles according to identified profit opportunities. At the beginning of the
+year, the fund took a long position in 10-year subordinated 8% coupon debt issued by a firm
+expected to undergo reorganization under Chapter 11. Moore felt that analysts had been paying
+too little attention to the issuer. Six months later, the fund completed a second transaction
+involving a long position in Swiss Francs and a short position in Japanese Yen based on
+forecasted movements in interest rates in the two countries. What two hedge fund strategies are
+most likely being employed by Moore's hedge fund?
+A.Distressed\nsecurities strategy and equity long\/short strategy.
+B.Fixed-income\narbitrage and global macro strategy.
+C.Distressed\nsecurities strategy and global macro strategy.
+D.Fixed-income\narbitrage and equity long\/short strategy.
+参考答案：C
+【莽学解析】Ina distressed securities strategy, the manager takes a long position in the
+financialsecurities of a financially troubled company, holding the securities throughthe
+restructuring or bankruptcy process to capture value that is unrecognizedby the marker. The
+manager may also utilize short positions, but this is not anecessary element of the strategy.
+Global macro strategies take long and shortpositions in financial instruments (such as
+currencies, interest rates, debt,equities, and commodities) based on expected changes in global
+capital markets. (1)
+ 
+35.The Westover Fund is a portfolio consisting of 42% fixed-income investments and 58% equity
+investments. The manager of the Westover Fund recently estimated that the annual VaR (5%),
+assuming a 250-day year, for the entire portfolio was $1,367,000 based on the portfolio's
+market value of $12,428,000 and a correlation coefficient between stocks and bonds of zero. If
+the annual loss in the equity position is only expected to exceed $1,153,000 five percent of
+the time, then the daily expected loss in the bond position that will be exceeded five percent
+of the time is closest to:
+A.46445
+B.72623
+C.55171
+D.21163
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+36.During the financial crisis of 2007-2009, reference rates such as the London Interbank
+Offered Rate (LIBOR) were less usable for market participants. This evidence calls into
+question which of the characteristics of an effective reference rate?
+A.Reliability.
+B.Robustness.
+C.Availability
+D.Representativeness.
+参考答案：B
+【莽学解析】Reliabilityand robustness are important characteristics of an effective reference
+rate. Reliabilityrefers to the degree to which governance and administration protects against
+manipulationand error and is particularly important for market integrity and
+functioning.Robustness indicates the availability and usability of reference rates during
+periodsof stress. Unsecured interbank markets were considered robust and reliable untilthe
+financial crisis. Since then, the notion has been challenged. Availabilityrefers to whether
+rates are readily available and published on dedicated sites.Representativeness refers to the
+relevance of rates to contracts and isimportant for correct pricing.    (4)
+ 
+37.How many of the following statements regarding risk budgeting are correct? I. Tracking error
+is defined as the standard deviation of the difference between the returns on a portfolio and
+the benchmark portfolio. II. Using only information ratios allows risk of entire (firm)
+portfolios to be budgeted (allocated) across various portfolios managed by separate managers.
+III. The optimal weights of the allocations to various fund managers (of a firm) do not
+necessarily have to sum to one. IV. The benchmark portfolio cannot be assigned any weight under
+the optimal allocation scheme across active fund managers of a firm.
+A.One.
+B.Two.
+C.Three.
+D.Four.
+参考答案：B
+【莽学解析】Optimalallocation is not only dependent on information ratios but also on the
+trackingerrors. So Statement II is incorrect. Statement III is correct; any difference(in case
+of less than 100% optimal allocation) can be assigned to the benchmarkportfolio. Therefore,
+Statement IV is incorrect. Tracking error is defined asthe standard deviation of the difference
+between the returns on a portfolio andthe benchmark portfolio.     (1)
+ 
+38.Brenden Hemme, a portfolio manager with Quantum Funds, is constructing an equally weighted,
+two-asset portfolio. Asset returns are normally distributed. Hemme would like to limit the
+portfolio VaR to $45 million at the 95% confidence level. He will invest $200 million in each
+asset. Given the following information, determine which two-asset portfolio allows Hemme to
+remain within the proposed risk budget.
+A.Portfolio AB.
+B.Portfolio AC.
+C.Portfolio BC.
+D.All three potential portfolios exceed Hemme's\nrisk budget.
+参考答案：C
+【莽学解析】Standard deviation of returns for Portfolio AB =  [(0.5)2(10)2 + (0.5)2(9)2 +
+(2x0.5x0.5x10x9x0.6)]1/2 =8.50% VaRAB = 1.6 x 0.085 x $400 = $56.1 million Standard deviation
+of returns for Portfolio AC = [(0.5)2(10)2 + (0.5)2(11)2 + (2x0.5x0.5x10x11x0.0)]1/2 = 7.43%
+VaRAC = 1.65 x 0.743 x $400 = $49.04 million Standard deviation of returns for Portfolio BC =
+[(0.5)2(9)2 + (0.5)2(11)2 + (2x0.5x0.5x9x11x(-0.4))]1/2 = 5.54% VaRBC = 1.65 x 0.0554 x $400 =
+$36.56 million Based on a limit of $45 million, Portfolio BCremains in Hemme’s risk limit. The
+portfolio standard deviation is lower forPortfolio BC because the correlation coefficient is
+negative, reducing the VaR.     (1)
+ 
+39.Donna Fenstine, FRM, is a credit analyst. In a presentation to investors on the recent
+Eurozone crisis, Fenstine mentioned that during the first stages of the crisis, there was
+generally a positive correlation between bank and sovereign credit default swap (CDS) spreads
+as both sovereign and bank CDS spreads rose dramatically. However, as the euro-area banking
+sector problems became much more evident, the correlation turned negative as bank CDS spreads
+rose while sovereign spreads declined. Are Fenstine's statements with regard to positive and
+negative correlation correct?
+A.
+B.无
+C.无
+D.无
+参考答案：D
+【莽学解析】During the first stages of the crisis, there wasgenerally a negative correlation
+between bank and sovereign CDS spreads as mostsovereign CDS spreads rose dramatically while
+bank CDS spreads declined. However,as the euro-area banking sector problems became much more
+evident, thecorrelation turned positive as both bank and sovereign CDS spreads rose.(3)
+ 
+40.Fixed income arbitrage funds attempt to obtain profits by exploiting inefficiencies and
+price anomalies between related fixed-income securities. The fund managers try to limit
+volatility by hedging exposure to interest rate risk. Which of the following types of fixed-
+income trades bets that the fixed side of a spread will stay higher than the floating side of a
+spread?
+A.Swap spread\ntrade.
+B.Credit\narbitrage trades.
+C.Mortgage spread\ntrades.
+D.Fixed-income\nvolatility trades.
+参考答案：A
+【莽学解析】A swap spread trade is a bet that the fixed side of thespread will stay higher than
+the floating side of the spread, and stay in a reasonablerange according to historical trends.
+(5)
+ 
+41.A risk analyst is evaluating the risk of a portfolio of stocks. Currently, the portfolio is
+valued at EUR 110 million and contains EUR 10 million in stock A. The standard deviation of
+returns of stock A is 12% annually and that of the overall portfolio is 19% annually. The
+correlation of returns between stock A and the portfolio is 0.5. Assuming the risk analyst uses
+a 1-year 99% VaR and that returns are normally distributed, how much is the component VaR of
+stock A?
+A.EUR 0.254 million
+B.EUR 0.986 million
+C.EUR 1.396 million
+D.EUR 3.499 million
+参考答案：C
+【莽学解析】Let  (99%) represent the 99% confidence factor forthe VaR estimate, which is
+2.326. VaRA=wA* σA*α(99%) =EUR10million x 0.12x 2.326= EUR 2.792 million Component VaRA=
+ρ*VaRA = 0.5*2.792=EUR 1.396 million(4)
+ 
+42.Rick Masler is considering the performance of the managers of two funds, the HCM Fund and
+the GRT Fund. He uses a linear regression of each manager’s excess return (ri) against the
+excess returns of a peer group (rB): ri = ai + bi* rB + εi The information he complies is as
+follows: 
+ 
+ 
+ Based on this information, which of the following statements is correct?
+A.The regression suggests that both managers have\ngreater skill than the peer group.
+B.The ai term measures the extent to which\nthe manager employs greater of lesser amounts of
+leverage
+C.If the GRT Fund were to lose 10% in the next period,\nthe return on equity would be -60%.
+D.The sensitivity of the GRT fund to the benchmark\nreturn is much higher than that of the HCM
+fund.
+参考答案：D
+【莽学解析】Statement d is correct as can be seen from the bi coefficient.It is higher for GRT
+and lower for HCM. This indicates that the sensitivity ofthe GRT fund to the benchmark return
+is much higher than that of the HCM fund.(9)
+ 
+43.A risk manager assumes that the joint distribution of returns is multivariate normal and
+calculates the following risk measures for a 2-asset portfolio: 
+ 
+ 
+ If asset 1 is dropped from the portfolio, what will be the reduction in portfolio VaR?
+A.USD 15.0
+B.USD 38.3
+C.USD 44.0
+D.USD 46.6
+参考答案：A
+【莽学解析】a is correct: The new portfolio VaR is that of asset 2alone (USD 46.6), which
+implied a reduction in portfolio VaR of USD 61.6 – USD46.6 = USD 15.0.(2)
+ 
+44.A risk manager assumes that the joint distribution of returns is multivariate normal and
+calculates the following risk measures for a 2-asset portfolio: 
+ 
+ 
+ Let βi = ρip*σi/σp where ρip denotes the correlation between the return of asset I and
+the return of the portfolio, σi is the volatility of the return of asset i and σp is the
+volatility of the return of the portfolio. What is β2?
+A.0.714
+B.1.429
+C.1.513
+D.Cannot determine from information provided.
+参考答案：B
+【莽学解析】Marginal VaRi = βi*PortfolioVaR/Portfolio ValueSo, βi = Marginal
+VaRi*PortfolioValue/Portfolio VaRβ2 = 0.44*200/61.6 = 1.429 (1)
+ 
+45.You are evaluating the performance of Valance, an equity fund designed to mimic the
+performance of the Russell 2000 Index. Based upon the information provided below. what is the
+best estimate of the tracking error of Valance relative to the Russell 2000 Index?
+·       Annual volatility of Valance:                      35%
+·       Annual volatility of Russell 2000 Index:      40%
+·       Correlation between Valance and the Russell 2000 Index: 0.90
+A.3.1%
+B.17.5%
+C.39.6%
+D.53.2%
+参考答案：B
+【莽学解析】
+ 
+ 
+ Where,p = portfolio returnsB = benchmark returnsΡ = correlation between benchmark and
+portfolio(2)
+ 
+46.Consider a USD 1 million portfolio with an equal investment in two funds. Alpha and Omega,
+with the following annual return distributions: 
+ 
+ 
+ Assuming the returns follow the normal distribution and that there are 252 trading days per
+year, what is the maximum possible daily 95% Value-at-Risk (VaR) estimate for the portfolio?
+A.USD 16,587
+B.USD 23,316
+C.USD 23,459
+D.USD 32,973
+参考答案：B
+【莽学解析】This question teststhat the candidates understands correlation in calculating
+portfolio VaR. fromthe table, we can get daily volatility for each fund:Fund Alpha volatility:
+0.20/2520.5=1.260%Fund Omega volatility: 0.25/2520.5=1.575%Portfolio
+variance:0.52*0.012592+0.52*0.015472+2*0.5*0.5*0.01259*0.01574*ρPortfolio volatility =
+(portfolio variance)0.5Portfolio volatility is least when ρ=-1 →      portfolio
+volatility = 0.1575%Portfolio volatility is greatest when ρ=1 → portfoliovolatility =
+1.4175%Therefore, 95% VaR maximum is 1.645*0.014175*1,000,000 =USD 23,316(5)
+ 
+47.Galileo Vehicles (GV) and Leonardo Motors (LM) are both leading car manufacturers in hybrid
+car designs. Earlier this year, both companies introduced new hybrid models that are comparable
+to each other in almost every category. However, after both companies release pricing for their
+new models, LM’s model is 20% less expensive than GV’s. As a result, GV’s stock price
+declined sharply while LM’s stock price rose dramatically. Subsequently LM and GV announce
+that they have entered into merger discussions where the terms of the planned merger would give
+GV shareholders 1 share of LM per 3 shares of GV previously held. Post the announcement, GV’s
+stock is trading at USD 20 and LM’s stock is trading at USD 58. If you are confident that the
+merger will be completed, assuming zero transaction costs, which of the following investments
+should you make?
+A.Buy 300 shares of GV and short 100 shares of LM.
+B.Short 300 shares of GV and buy 100 shares of LM.
+C.Buy 300 shares of GV and buy 100 shares of LM.
+D.Short 300 shares of GV and short 100 shares of LM.
+参考答案：B
+【莽学解析】If the merger goes through, the companies’ prices shouldcorrespond on a 3:1 basis,
+with 1 share of LM corresponding to 3 shares of GV.However, at the given trading prices the
+ratio does not hold, with one share ofLM being equal to USD 58 / USD 20, or 2.9 shares of GV.
+This shows that LM isundervalued compared to GV given the terms of the merger agreement. If
+themerger is completed, LM’s stock will appreciate and/or GV’s stock willdepreciate relative
+to each other until the ratio reaches 3:1. In order to exploit this potential arbitrage
+opportunity,you can short 300 shares of the relatively overvalued stock GV, resulting in acash
+inflow of USD 6000, while buying 100 shares of the relatively undervaluedstock LM for USD 5800,
+resulting in a net cash inflow of USD 200. If the mergeris completed, then the long and the
+short positions will exactly offset eachother given the 3:1 ratio and the trade will be closed.
+The original cashinflow of USD 200 would be your profit from this arbitrage trade if the
+mergeris completed.(5)
+ 
+48.At the end of 2007, Chad & Co.’s pension had USD 350 million worth of assets that were
+fully invested in equities and USD 180 million in fixed-income liabilities with a modified
+duration of 14. In 2008, the widespread effects of the subprime crisis hit the pension fund,
+causing its investment in equities to lose 50% of their market value. In addition, the
+immediate response from the government — cutting interest rates — to salvage the situation,
+caused bond yields to decline by 2%. What was the change in the pension fund’s surplus in
+2008?
+A.USD -55.4 million
+B.USD -124.6 million
+C.USD -225.4 million
+D.USD -230.4 million
+参考答案：C
+【莽学解析】The change in the pension fund’s surplus for the year2008 is equal to the initial
+surplus S0 at the end of 2007 less the endingsurplus S1 at the end of 2008. The initial surplus
+is calculated as S0 =A0 – L0 = 350 – 180 = 170, where A0 = thefirm’s initial assets and L0
+the firm’s initial liabilities.Next we have to calculate the surplus at the end of 2008.Given
+the 50% decline in the equity market, the new level of assets A1 at theend of 2008 is equal to:
+(1 – 0.5) * 350, or 175The new level of liabilities L1 can be calculated as:L1 = (1 – (MD *
+Δy)) * L0where MD is the modified duration, and Δy is the change in yield.Liabilities at end
+of 2008 are equal to:L1= (1 – (14 * -0.02)) * 180 = 230.4. Therefore, the 2008 surplus S1 is
+equal to A1 – L1 = 175 – 230.4 = -55.4 (which implies the pension fund isactually in a
+deficit situation at the end of 2008). The change in surplus for2008 is hence S1 – S0 = -55.4
+– 170 = -225.4 million.(6)
+ 
+49.A portfolio has USD 2 million invested in Stock A and USD 1 million invested in Stock B. The
+95% 1-day VaR for each individual position is USD 40,000. The correlation between the returns
+of Stock A and Stock B is 0.5. While rebalancing, the portfolio manager decides to sell USD 1
+million of Stock A to buy USD 1 million of Stock B. Assuming that returns are normally
+distributed and that the rebalancing does not affect the volatility of the individual stocks,
+what effect will this have on the 95% 1-day portfolio VaR?
+A.There will be no effect.
+B.It will increase by USD 20,370.
+C.It will increase by USD 21,370.
+D.It will increase by USD 22,370.
+参考答案：D
+【莽学解析】
+ 
+ 
+ 
+ 
+ After the rebalance, the market value of the position inStock A is halved, so VaR(A) is now
+equal to $20,000. Meanwhile the marketvalue for the position in B has doubled so that VaR(B) is
+now $80,000. Hence wecan now calculate the VaR of the new portfolio as
+follows:PortfolioVaR (after) = 
+ 
+ So the VaR will increase by (91,652 – 69,282), or USD22,370.(1)
+ 
+50.Which statement about risk control in portfolio construction is correct?
+A.Quadratic programming allows for risk control through\nparameter estimation but generally
+requires m
+B.The screening technique provides superior risk control\nby concentrating stocks in selected
+sectors
+C.When using the stratification technique, risk control\nis implemented by overweighting the
+categorie
+D.When using the linear programming technique, risk is\ncontrolled by selecting the portfolio
+with the
+参考答案：A
+【莽学解析】Quadratic programming requires many more inputs thanother portfolio construction
+techniques because it entails estimatingvolatilities and pair-wise correlations between all
+assets in a portfolio.Quadratic programming is a powerful process, but given the large number
+ofinputs it introduces the potential for noise and poor calibration given theless than perfect
+nature of most data.On the other hand, the screening technique strives for riskcontrol by
+including a sufficient number of stocks that meet the screeningparameters and by weighting them
+to avoid concentrations in any particularstock. However, screening does not necessarily select
+stocks evenly acrosssectors and can ignore entire sectors or classes of stocks entirely if they
+donot pass the screen. Therefore, risk control in a screening process isfragmentary at best.
+Stratification separates stocks into categories (forexample, economic sectors) and implements
+risk control by ensuring that theweighting in each sector matches the benchmark weighting.
+Therefore, it doesnot allow for overweighting or underweighting specific categories.Linear
+programming does not necessarily select theportfolio with the lowest level of active risk.
+Rather, it attempts to improveon stratification by introducing many more dimensions of risk
+control andensuring that the portfolio approximates the benchmark for all thesedimensions. (3)

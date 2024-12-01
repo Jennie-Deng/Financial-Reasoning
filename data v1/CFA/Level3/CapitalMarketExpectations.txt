@@ -1,0 +1,123 @@
+Capital Market Expectations
+共享题干题
+【题干】Neshie Wakuluk is an investment strategist who develops capital market expectations for
+an investment firm that invests across asset classes and global markets. Wakuluk started her
+career when the global markets were experiencing significant volatility and poor returns; as a
+result, she is now careful to base her conclusions on objective evidence and analytical
+procedures to mitigate any potential biases.Wakuluk’s approach to economic forecasting
+utilizes a structural model in conjunction with a diffusion index to determine the current
+phase of a country’s business cycle. This approach has produced successful predictions in the
+past, thus Wakuluk has high confidence in the predictions. Wakuluk also determines whether any
+adjustments need to be made to her initial estimates of the respective aggregate economic
+growth trends based on historical rates of growth for Countries X and Y (both developed
+markets) and Country Z (a developing market). Exhibit 1 summarizes Wakuluk’s predictions:
+Wakuluk assumes short-term interest rates adjust with expected inflation and are procyclical.
+Wakuluk reviews the historical short-term interest rate trends for each country, which further
+confirms her predictions shown in Exhibit 1.Wakuluk decides to focus on Country Y to determine
+the path of nominal interest rates, the potential economic response of Country Y’s economy to
+this path, and the timing for when Country Y’s economy may move into the next business cycle.
+Wakuluk makes the following observations:Observation 1 Monetary policy has been persistently
+loose for Country Y, while fiscal policies have been persistently tight.Observation 2 Country Y
+is expected to significantly increase transfer payments and introduce a more progressive tax
+regime.Observation 3 The current yield curve for Country Y suggests that the business cycle is
+in the slowdown phase, with bond yields starting to reflect contractionary conditions.
+ 
+1.【单项选择题】Wakuluk most likely seeks to mitigate which of the following biases in
+developing capital market forecasts?
+A.Availability
+B.Time period
+C.Survivorship
+参考答案：A
+【莽学解析】Wakuluk started her career when the global markets were experiencing significant
+volatility and poor returns. She is careful to base her conclusions on objective evidence and
+analytical procedures to mitigate potential biases, which suggests she is seeking to mitigate
+an availability bias. Availability bias is the tendency to be overly influenced by events that
+have left a strong impression and/or for which it is easy to recall an example.
+ 
+2.【单项选择题】Wakuluk’s approach to economic forecasting:
+A.is flexible and limited in complexity.
+B.can give a false sense of precision and provide false signals.
+C.imposes no consistency of analysis across items or at different points in time.
+参考答案：B
+【莽学解析】Wakuluk’s approach to economic forecasting utilizes both a structural model (e.g.,
+an econometric model approach) and a diffusion index (e.g., a leading indicator-based
+approach). However, the two approaches have weaknesses: An econometric model approach may give
+a false sense of precision, and a leading indicator-based approach can provide false signals.
+Two strengths of the checklist approach are its flexibility and limited complexity, although
+one weakness is that it imposes no consistency of analysis across items or at different points
+in time.
+ 
+3.【单项选择题】Wakuluk is most likely to make significant adjustments to her estimate of the
+future growth trend for which of the following countries?
+A.Country Y only
+B.Country Z only
+C.Countries Y and Z
+参考答案：B
+【莽学解析】Country Z is a developing market. Less-developed markets are likely to be
+undergoing more rapid structural changes, which may require the analyst to make more
+significant adjustments relative to past trends.
+ 
+4.【单项选择题】Based on Exhibit 1 and Wakuluk’s assumptions about short-term rates and
+expected inflation, short-term rates in Country X are most likely to be:
+A.low and bottoming.
+B.approaching a peak.
+C.above average and rising.
+参考答案：A
+【莽学解析】Country X is predicted to be in the initial recovery phase of the business cycle,
+which suggests short-term (money market) rates are low or bottoming. Inflation is procyclical.
+It accelerates in the later stages of the business cycle when the output gap has closed, and it
+decelerates when a large output gap puts downward pressure on wages and prices, which often
+happens during a recession or the early years afterward. As long as short-term interest rates
+adjust with expected inflation, cash is essentially a zero-duration, inflation-protected asset
+that earns a floating real rate, which is typically procyclical. Wakuluk assumes short-term
+interest rates adjust with expected inflation and are procyclical. Thus, short-term rates are
+most likely to be low and bottoming if Country X is in the initial recovery phase of the
+business cycle.
+ 
+5.【单项选择题】Based on Exhibit 1, what capital market effect is Country Z most likely to
+experience in the short-term?
+A.Cyclical assets attract investors.
+B.Monetary policy becomes restrictive.
+C.The yield curve steepens substantially.
+参考答案：B
+【莽学解析】Wakuluk’s model predicts that Country Z’s business cycle is currently in the late
+upswing phase. In the late upswing phase, interest rates are typically rising as monetary
+policy becomes more restrictive. Cyclical assets may underperform, whereas the yield curve is
+expected to continue to flatten.
+ 
+6.【单项选择题】Based on Observation 1, fiscal and monetary policies in Country Y will most
+likely lead to:
+A.low nominal rates.
+B.high nominal rates.
+C.either high or low nominal rates.
+参考答案：C
+【莽学解析】Monetary policy has been persistently loose for Country Y, while fiscal policies
+have been persistently tight. With this combination of persistently loose and tight policies,
+the impact could lead to higher or lower nominal rates (typically labeled as mid-nominal
+rates).
+ 
+7.【单项选择题】Based on Observation 2, what impact will the policy changes have on the trend
+rate of growth for Country Y?
+A.Negative
+B.Neutral
+C.Positive
+参考答案：C
+【莽学解析】Country Y is expected to significantly increase transfer payments and introduce a
+more progressive tax regime. Both of these changes are pro-growth government policies and
+should have a positive impact on the trend rate of growth for a business cycle that is in
+slowdown or contraction. Transfer payments help mitigate fluctuations in disposable income for
+the most vulnerable households, while progressive tax regimes imply that the effective tax rate
+on the private sector is pro-cyclical (i.e., rising as the economy expands and falling as the
+economy contracts).
+ 
+8.【单项选择题】Based on Observation 3, Wakuluk most likely expects Country Y’s yield curve in
+the near term to:
+A.invert.
+B.flatten.
+C.steepen.
+参考答案：C
+【莽学解析】The current yield curve for Country Y suggests that the business cycle is in the
+slowdown phase (curve is flat to inverted), with bond yields starting to reflect contractionary
+conditions (i.e., bond yields are declining). The curve will most likely steepen near term,
+consistent with the transition to the contractionary phase of the business cycle, and be the
+steepest on the cusp of the initial recovery phase.

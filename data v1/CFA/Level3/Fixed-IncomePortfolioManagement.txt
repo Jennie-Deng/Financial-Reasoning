@@ -1,0 +1,906 @@
+Fixed-Income Portfolio Management
+共享题干题
+【题干】Megan Easton is a portfolio manager with Dynamo Investment Partners (Dynamo) and
+manages a bond portfolio that invests primarily in investment-grade corporate bonds with a
+limited amount of US government bonds. Easton meets with John Avelyn, a newly hired analyst, to
+discuss the structure and management of this investment portfolio, as well as some possible
+changes to the portfolio composition.Easton begins the meeting by stating her belief that the
+credit spread is the single most important measure that investors use when selecting bonds.
+Among the various credit spread measures, including the G-spread, I-spread, and Z-spread,
+Easton prefers the G-spread.Easton and Avelyn next discuss credit strategy approaches. Dynamo
+uses a bottom-up approach that selects bonds with the best relative value from the universe of
+bonds with similar characteristics. Avelyn comments on the following considerations in a
+bottom-up approach.Comment 1 Callable debt has a smaller Z-spread than comparable non-callable
+debt.Comment 2 Benchmark corporate bond issues normally have wider spreads than older bonds of
+the same issuer.Comment 3 The announcement of a new corporate bond issue often leads to an
+increase in the credit spread on the existing bonds.Dynamo is changing the bond portfolio’s
+investment constraints so that it can invest up to 20% of the assets in high-yield corporate
+bonds and 20% in structured financial instruments. Easton makes the following statement about
+these changes:Liquidity and trading issues for high-yield bonds, such as investment-grade
+bonds, will be a key consideration in our security selection. Although both high-yield and
+investment-grade bonds are quoted as spreads over benchmark government bonds, we must be aware
+that dealers are likely to hold larger inventories of high-yield bonds and their bid–offer
+spreads will be larger.Avelyn makes the following statements about the differences between
+investment-grade and high-yield bonds.Statement 1 When default losses are low and credit
+spreads are relatively tight, high-yield bonds tend to perform more like investment-grade
+bonds.Statement 2 Investment-grade bonds have greater exposure to credit risk than high-yield
+bonds.Statement 3 High-yield bonds have more exposure to interest rate risk than investment-
+grade bonds.Two of the structured financial instruments that Easton and Avelyn are considering
+for Dynamo’s portfolio are collateralized debt obligations (CDOs) and covered bonds. Easton
+and Avelyn make the following comments about the securities.
+ 
+ 
+1.【单项选择题】A benefit of Easton’s preferred credit spread measure is that it:
+A.provides a good measure of credit spread for bonds with optionality.
+B.uses swap rates denominated in the same currency as the credit security.
+C.reduces the potential for maturity mismatch.
+参考答案：C
+【莽学解析】The G-spread is the spread over an actual or interpolated benchmark (usually
+government) bond. A benefit of the G-spread is that when the duration of the credit security
+differs from that of the benchmark bond, the yields of two government bonds can be weighted so
+that their weighted average maturity matches the credit security’ maturiy.
+ 
+2.【单项选择题】Which of the following is most likely to be used when selecting securities
+based on Dynamo’s credit strategy approach?
+A.Macro factors
+B.Expected excess returns
+C.Average option-adjusted spread
+参考答案：B
+【莽学解析】Analyzing expected excess returns against the expected magnitude of the credit-
+related risks is key to the bottom-up approach. Once the credit universe has been divided into
+sectors, the investor identifies the bonds with the best relative value within each sector. If
+Dynamo decides that two issuers have similar credit-related risks, then it will typically
+compare credit spread measures and buy the bonds of the issuer with the higher spread because
+those bonds likely have a higher potential for excess returns. For issuers with different
+credit-related risk, Dynamo must decide whether the additional spread adequately compensates
+for the additional credit risk.
+ 
+3.【单项选择题】Which of Avelyn’ comments regarding considerations in the bottom-up approach
+is most accurate?
+A.Comment 1
+B.Comment 2
+C.Comment 3
+参考答案：C
+【莽学解析】When an issuer announces a new corporate bond issue, the issuer’ existing bonds
+often decline in value and their spreads widen. This dynamic is often explained by market
+participants as an effect of increased supply. A related reason is that because demand is not
+perfectly elastic, new issues are often given a price concession to entice borrowers to buy the
+new bonds. This price concession may result in all of an issuer’ existing bonds repricing
+based on the new issue’ relatively wider spread. A third reason is that more debt issuance may
+signal an increase in an issuer’ credit risk.
+ 
+4.【单项选择题】Which of Easton’s statements about the liquidity and trading characteristics
+of high-yield and investment-grade bonds is most correct?
+A.Dealers generally hold larger inventories of high-yield bonds than investment-grade bonds.
+B.Both high-yield and investment-grade bonds are quoted as spreads over benchmark government
+bonds.
+C.The bid–offer spread of high-yield bonds is normally larger than that of investment-grade
+bonds with similar maturities.
+参考答案：C
+【莽学解析】Bid–offer spreads are larger for high-yield bonds than for investment-grade bonds
+of similar maturity.
+ 
+5.【单项选择题】Which of Avelyn’s statements about the differences between investment-grade
+and high-yield bonds is accurate?
+A.Statement 1
+B.Statement 2
+C.Statement 3
+参考答案：A
+【莽学解析】Investment-grade corporate bonds have meaningful interest rate sensitivity, and
+therefore, investment-grade portfolio managers usually manage their portfolio durations and
+yield curve exposures closely. In contrast, high-yield portfolio managers are more likely to
+focus on credit risk and less likely to focus on interest rate and yield curve dynamics. When
+default losses are low and credit spreads are relatively tight, however, high-yield bonds tend
+to behave more like investment-grade bonds—that is, with greater interest rate sensitivity.
+ 
+6.【单项选择题】Which comment regarding CDOs and covered bonds is accurate?
+A.Easton’s comment
+B.Avelyn’s first comment
+C.Avelyn’s second comment
+参考答案：A
+【莽学解析】CDOs typically include some form of subordination. With subordination, a CDO has
+more than one bond class or tranche, including senior bond classes, mezzanine bond classes
+(which have credit ratings between senior and subordinated bond classes), and subordinated bond
+classes (often referred to as residual or equity tranches). The correlation of expected
+defaults on a CDO’s collateral affects the relative value between the senior and subordinated
+tranches of the CDO. As correlations increase, the values of the mezzanine tranches usually
+increase relative to the values of the senior and equity tranches.
+ 
+【题干】Cécile Perreaux is a junior analyst for an international wealth management firm. Her
+supervisor, Margit Daasvand, asks Perreaux to evaluate three fixed-income funds as part of the
+firm’s global fixed-income offerings. Selected financial data for the funds Aschel, Permot,
+and Rosaiso are presented in Exhibit 1. In Perreaux’s initial review, she assumes that there
+is no reinvestment income and that the yield curve remains unchanged.
+After further review of the composition of each of the funds, Perreaux notes the following.Note
+1 schel is the only fund of the three that uses leverage.Note 2 osaiso is the only fund of
+the three that holds a significant number of bonds with embedded options.Daasvand asks Perreaux
+to analyze immunization approaches to liability-based mandates for a meeting with Villash
+Foundation. Villash Foundation is a tax-exempt client. Prior to the meeting, Perreaux
+identifies what she considers to be two key features of a cash flow–matching approach.Feature
+1 It requires no yield curve assumptions.Feature 2 Cash flows come from coupons and
+liquidating bond portfolio positions.Two years later, Daasvand learns that Villash Foundation
+needs $5,000,000 in cash to meet liabilities. She asks Perreaux to analyze two bonds for
+possible liquidation. Selected data on the two bonds are presented in Exhibit 2.
+ 
+ 
+7.【单项选择题】Based on Exhibit 1, which fund provides the highest level of protection against
+inflation for coupon payments?
+A.Aschel
+B.Permot
+C.Rosaiso
+参考答案：B
+【莽学解析】Permot has the highest percentage of floating-coupon bonds and inflation-linked
+bonds. Bonds with floating coupons protect interest income from inflation because the reference
+rate should adjust for inflation. Inflation-linked bonds protect against inflation by paying a
+return that is directly linked to an index of consumer prices and adjusting the principal for
+inflation.Inflation-linked bonds protect both coupon and principal payments against inflation.
+The level of inflation protection for coupons = % portfolio in floating-coupon bonds %
+portfolio in inflation-linked bonds:Aschel = 2% 3% = 5%Permot = 34% 28% = 62%Rosaiso = 17% 21%
+= 38%Thus, Permot has the highest level of inflation protection with 62% of its portfolio in
+floating-coupon and inflation-linked bonds.
+ 
+8.【单项选择题】Based on Exhibit 1, the rolling yield of Aschel over a one-year investment
+horizon is closest to:
+A.–2.56%.
+B.0.54%.
+C.5.66%.
+参考答案：B
+【莽学解析】
+9.【单项选择题】The levered portfolio return for Aschel is closest to:
+A.7.25%.
+B.7.71%.
+C.8.96%.
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+10.【单项选择题】Based on Note 2, Rosaiso is the only fund for which the expected change in
+price based on the investor’s views of yields and yield spreads should be calculated using:
+A.convexity.
+B.modified duration.
+C.effective duration
+参考答案：C
+【莽学解析】Rosaiso is the only fund that holds bonds with embedded options. Effective duration
+should be used for bonds with embedded options. For bonds with embedded options, the duration
+and convexity measures used to calculate the expected change in price based on the investors’s
+views of yields and yield spreads are effective duration and effective convexity.For bonds
+without embedded options, convexity and modified duration are used in this calculation.
+ 
+11.【单项选择题】Is Perreaux correct with respect to key features of cash flow matching?
+A.Yes.
+B.No, only Feature 1 is correct.
+C.No, only Feature 2 is correct.
+参考答案：B
+【莽学解析】Cash flow matching has no yield curve or interest rate assumptions. With this
+immunization approach, cash flows come from coupon and principal repayments that are expected
+to match and offset liability cash flows. Because bond cash inflows are scheduled to coincide
+with liability cash payouts, there is no need for reinvestment of cash flows. Thus, cash flow
+matching is not affected by interest rate movements. Cash flows coming from coupons and
+liquidating bond portfolio positions is a key feature of a duration-matching approach.
+ 
+12.【单项选择题】Based on Exhibit 2, the optimal strategy to meet Villash Foundation’s cash
+needs is the sale of:
+A.100% of Bond 1.
+B.100% of Bond 2.
+C.50% of Bond 1 and 50% of Bond 2.
+参考答案：A
+【莽学解析】The optimal strategy for Villash is the sale of 100% of Bond 1, which Perreaux
+considers to be overvalued. Because Villash is a tax-exempt foundation, tax considerations are
+not relevant and Perreaux’s investment views drive her trading recommendations.
+ 
+13.【单项选择题】Based on Exhibit 2, the optimal strategy to meet Villash Foundation’s cash
+needs is the sale of:
+A.100% of Bond 1.
+B.100% of Bond 2.
+C.50% of Bond 1 and 50% of Bond 2.
+参考答案：A
+【莽学解析】The optimal strategy for Villash is the sale of 100% of Bond 1, which Perreaux
+considers to be overvalued. Because Villash is a tax-exempt foundation, tax considerations are
+not relevant and Perreaux’s investment views drive her trading recommendations.
+ 
+【题干】Silvia Abram and Walter Edgarton are analysts with Cefrino Investments, which sponsors
+the Cefrino Sovereign Bond Fund (the Fund). Abram and Edgarton recently attended an investment
+committee meeting where interest rate expectations for the next 12 months were discussed. The
+Fund’s mandate allows its duration to fluctuate ±0.30 per year from the benchmark duration.
+The Fund’s duration is currently equal to its benchmark. Although the Fund is presently
+invested entirely in annual coupon sovereign bonds, its investment policy also allows
+investments in mortgage-backed securities (MBS) and call options on government bond futures.
+The Fund’s current holdings of on-the-run bonds are presented in Exhibit 1.
+Over the next 12 months, Abram expects a stable yield curve; however, Edgarton expects a
+steepening yield curve, with short-term yields rising by 1.00% and long-term yields rising by
+more than 1.00%.Based on her yield curve forecast, Abram recommends to her supervisor changes
+to the Fund’s holdings using the following three strategies:Strategy 1: Sell the 3-year
+bonds, and use the proceeds to buy 10-year bonds.Strategy 2: Sell the 5-year bonds, and use
+the proceeds to buy 30-year MBS with an effective duration of 4.75.Strategy 3: Sell the 10-
+year bonds, and buy call options on 10-year government bond futures.Abram’s supervisor
+disagrees with Abram’s yield curve outlook. The supervisor develops two alternative portfolio
+scenarios based on her own yield curve outlook:Scenario 1 Sell all bonds in the Fund except
+the 2-year and 30-year bonds, and increase positions in these two bonds while keeping duration
+neutral to the benchmark.Scenario 2 Construct a condor to benefit from less curvature in the
+5-year to 10-year area of the yield curve. The condor will utilize the same 1-year, 5-year, 10-
+year, and 30-year bonds held in the Fund. The maximum allowable position in the 30-year bond in
+the condor is $17million,and the bonds must have equal (absolute value) money duration.Edgarton
+evaluates the Fund’s positions from Exhibit 1 along with two of his pro forma portfolios,
+which are summarized in Exhibit 2:
+Lastly, Edgarton reviews a separate account for Cefrino’s US clients that invest in Australian
+government bonds. He expects a stable Australian yield curve over the next 12 months. He
+evaluates the return from buying and holding a 1-year Australian government bond versus buying
+the 2-year Australian government bond and selling it in one year.
+ 
+ 
+14.【单项选择题】Based on Exhibit 1 and Abram’s expectation for the yield curve over the next
+12 months, the strategy most likely to improve the Fund’s return relative to the benchmark is
+to:
+A.buy and hold.
+B.increase convexity.
+C.ride the yield curve.
+参考答案：C
+【莽学解析】Since Abram expects the curve to remain stable, the yield curve is upward sloping
+and the Fund’s duration is neutral to its benchmark. Her best strategy is to ride the yield
+curve and enhance return by capturing price appreciation as the bonds shorten in maturity.
+ 
+15.【单项选择题】Based on Edgarton’s expectation for the yield curve over the next 12 months,
+the Fund’s return relative to the benchmark would most likely increase by:
+A.riding the yield curve.
+B.implementing a barbell structure.
+C.shortening the portfolio duration relative to the benchmark.
+参考答案：C
+【莽学解析】If interest rates rise and the yield curve steepens as Edgarton expects, then
+shortening the Fund’s duration from a neutral position to one that is shorter than the
+benchmark will improve the portfolio’s return relative to the benchmark. This duration
+management strategy will avoid losses from long-term interest rate increases.
+ 
+16.【单项选择题】Based on Exhibit 1 and Abram’s interest rate expectations, which of the
+following strategies is expected to perform best over the next 12 months?
+A.Strategy 1
+B.Strategy 2
+C.Strategy 3
+参考答案：B
+【莽学解析】In a stable yield curve environment, holding bonds with higher convexity negatively
+affects portfolio performance. These bonds have lower yields than bonds with lower convexity,
+all else being equal. The 5-year US Treasury has higher convexity than the negative convexity
+30-year MBS bond. So, by selling the 5-year Treasury and purchasing the 30-year MBS, Abram will
+reduce the portfolio’s convexity and enhance its yield without violating the duration mandate
+versus the benchmark.
+ 
+17.【单项选择题】The yield curve expectation that Abram’s supervisor targets with Scenario 1
+is most likely a:
+A.flattening yield curve.
+B.reduction in yield curve curvature.
+C.100 bps parallel shift downward of the yield curve.
+参考答案：A
+【莽学解析】Scenario 1 is an extreme barbell and is typically used when the yield curve
+flattens. In this case, the 30-year bond has larger price gains because of its longer duration
+and higher convexity relative to other maturities. If the yield curve flattens through rising
+short-term interest rates, portfolio losses are limited by the lower price sensitivity to the
+change in yields at the short end of the curve while the benchmark’s middle securities will
+perform poorly.
+ 
+18.【单项选择题】Based on Exhibit 1, which short position is most likely to be included in the
+condor outlined in Scenario 2?
+A.1-year $338 million
+B.5-year $71 million
+C.10-year $38 million
+参考答案：A
+【莽学解析】To profit from a decrease in yield curve curvature, the correct condor structure
+will be: short 1s, long 5s, long 10s, and short 30s. The positions of the condor will be: short
+$338 million 1-year bond, long $71 million 5-year bond, long $38 million 10-year bond, and
+short $17 million 30-year bond.This condor is structured so that it benefits from a decline in
+curvature, where the middle of the yield curve decreases in yield relative to the short and
+long ends of the yield curve. To determine the positions, we take the maximum allowance of 30-
+year bonds of $17 million and determine money duration. Money duration is equal to market value
+x modified duration divided by 100. 30-year bond money duration = $17 million × 19.69/100 =
+$3,347,300. The market values of the other positions are:1-year bond: $3,347,300 × 100/0.99 =
+$338.11 million or $338 million5-year bond: $3,347,300 × 100/4.74 = $70.62 million or $71
+million10-year bond: $3,347,300 × 100/8.82 = $37.95 million or $38 million
+ 
+19.【单项选择题】Based on Exhibits 1 and 2, which of the following portfolios is most likely to
+have the best performance given Edgarton’s yield curve expectations?
+A.Current Portfolio
+B.Pro Forma Portfolio 1
+C.Pro Forma Portfolio 2
+参考答案：C
+【莽学解析】Given Edgarton's expectation for a steepening yield curve, the best strategy is to
+shorten the portfolio duration by more heavily weighting shorter maturities. Pro Forma
+Portfolio 2 shows greater partial duration in the 1- and 3-year maturities relative to the
+current portfolio and the least combined exposure in the 10- and 30-year maturities of the
+three portfolios. The predicted change is calculated as follows:Predicted change = Portfolio
+par amount × partial PVBP × (–curve shift in bps)/100
+ 
+20.【单项选择题】Based on Exhibit 3, the 1-year expected return of the Buy-and-Hold portfolio
+for the Cefrino Australian government bond portfolio is closest to:
+A.0.83%.
+B.1.08%.
+C.2.22%.
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+21.【单项选择题】Based on Exhibit 3, the implied Australian dollar (A$) 1-year rate, 1-year
+forward is closest to:
+A.0.15%.
+B.1.95%
+C.2.10%
+参考答案：B
+【莽学解析】The implied forward rate can be calculated using the yield to maturity (YTM) of the
+2-year Ride-the-Yield Curve and 1-year Buy-and-Hold portfolios. F1,1 = [(1.018)2/1.0165] – 1 =
+1.95%
+ 
+【题干】Sanober Hirji is a junior analyst with Northco Securities, which is based in Canada.
+The institutional clients of Northco are active investors in Canadian coupon-bearing government
+bonds. Client portfolios are benchmarked to a Canadian government bond index, which is a
+diverse maturity index portfolio. After reviewing the portfolio of a French institutional
+client, Hirji evaluates yield curve strategies for Canadian government bond portfolios under
+various interest rate scenarios. Hirji’s supervisor, éliane Prégent, forecasts that Canadian
+long-term rates will rise and short-term rates will fall over the next 12 months.In contrast,
+Northco’s chief economist forecasts that Canadian interest rates will increase or decrease by
+100 basis points over the next 12 months. Based on the chief economist’s forecast, Hirji
+suggests increasing the convexity of the French institutional client’s portfolio by selling
+10-year bonds and investing the proceeds in a duration-matched barbell position of Canadian
+government 3-year and long-term bonds. She notes that the duration of the 10-year bonds, along
+with the durations of the other portfolio bonds, aligns the portfolio’s effective duration
+with that of the benchmark. Selected data on Canadian government bonds are presented in Exhibit
+1.
+(* There is no single convention for how convexity numbers are presented; for example,
+Bloomberg has historically followed a convention of dividing the “raw” convexity number by
+100 (as presented here). However, it is important to use the raw convexity number when
+estimating returns.)Hirji then considers a strategy to sell some long-term bonds from the
+French institutional client’s portfolio and purchase short maturity at-the-money options on
+long-term bond futures. The portfolio’s duration would remain unchanged. Prégent asks:“How
+would portfolio performance be affected by this strategy if the yield curve were to remain
+stable?”Hirji also proposes the following duration-neutral trades for the French institutional
+client:
+Long/short trade on 1-year and 3-year Canadian government bonds
+Short/long trade on 10-year and long-term Canadian government bonds
+Six months later, Hirji reviews Canadian government bonds for a Malaysian institutional client.
+Prégent and Hirji expect changes in the curvature of the yield curve but are not sure whether
+curvature will increase or decrease. Hirji first analyzes positions that would profit from an
+increase in the curvature of the yield curve. The positions must be duration neutral, and the
+maximum position that the Malaysian client can take in long-term bonds is C$150 million. Hirji
+notes that interest rates have increased by 100 basis points over the past six months. Selected
+data for on-the-run Canadian government bonds are shown in Exhibit 2.
+Hirji then considers the scenario where the yield curve will lose curvature for the Malaysian
+institutional client. She notes that a 7-year Canadian government bond is also available in the
+market. Hirji proposes a duration-neutral portfolio comprised of 47% in 5-year bonds and 53% in
+7-year bonds.Finally, Hirji uses the components of expected returns to compare the performance
+of a bullet portfolio and a barbell portfolio for a British institutional client.
+Characteristics of these portfolios are shown in Exhibit 3.
+ 
+ 
+22.【单项选择题】Based on Prégent’s interest rate forecast over the next 12 months, the yield
+curve strategy that would most likely realize the highest profit is:
+A.a carry trade.
+B.a bullet structure.
+C.duration management by buying long-term Canadian bonds.
+参考答案：B
+【莽学解析】A bullet performs well when the yield curve is expected to steepen. Since
+Prégent’s forecast is for long rates to rise and short rates to fall, this strategy will add
+value to the French client’s portfolio by insulating the portfolio against adverse moves at
+the long end of the curve. If short rates fall, the bullet portfolio gives up very little in
+profits given the small magnitude of price changes at the short end of the curve.
+ 
+23.【单项选择题】Based on Exhibit 1, the gain in convexity from Hirji’s suggestion is closest
+to:
+A.0.423.
+B.1.124.
+C.1.205.
+参考答案：A
+【莽学解析】To maintain the effective duration match, the duration of the 10-year bond sale
+must equal the total weighted duration of the 3-year and long-term bond
+purchases.9.51=(Duration of 3-year bond×Weight of 3-year bond) (Duration of long-term
+bond×Weight of long-term bond)x= weight of 3-year bond(1–x)=weight of long-term bond9.51
+=2.88x 21.30(1–x)x=0.64 or 64% The proceeds from the sale of the 10-year Canadian government
+bond should be allocated 64%to the 3-year bond and 36% to the long-term bond:9.51=(64%×2.88)
+(36%×21.30)Gain in convexity=(Weight of the 3-year)×(Convexity of the 3-year) (Weight of the
+long-term bond)×(Convexity of the long-term bond)–(Weight of the 10-year)×(Convexity of the
+10-year)Gain in convexity=(64%×0.118) (36%×2.912)–(100%×0.701)=0.42284 or 0.423
+ 
+24.【单项选择题】The answer to Prégent’s question is that the portfolio would most likely
+experience:
+A.a loss.
+B.no change.
+C.a gain.
+参考答案：A
+【莽学解析】Short maturity at- or near-the-money options on long-term bond futures contain a
+great deal of convexity. Thus, options increase the convexity of the French client’s
+portfolio. Options are added in anticipation of a significant change in rates. If the yield
+curve remains stable, the portfolio will experience a loss from both the initial purchase price
+of the options and the foregone interest income on the liquidated bonds.
+25.【单项选择题】Which yield curve forecast will most likely result in the highest profit for
+Hirji’s proposed duration-neutral trades?
+A.Increase in curvature
+B.Decrease in curvature
+C.Parallel downward shift
+参考答案：A
+【莽学解析】The trades are also called a condor and employ four positions, much like a
+butterfly with an elongated body. Each pair of duration-neutral trades would result in a profit
+if the yield curve adds curvature. The trades at the short end of the curve (going long the 1-
+year bond and short the 3-year bond) would profit if that end of the curve gets steeper. In
+addition, the trades at the long end of the curve (going short the 10-year bond and long the
+long-term bond) would profit if that end of the curve becomes flatter.
+ 
+26.【单项选择题】Based on Exhibit 2, the amount that Hirji should allocate to the 2-year bond
+position is closest to:
+A.C$331 million.
+B.C$615 million.
+C.C$1,492 million.
+参考答案：C
+【莽学解析】In order to take duration-neutral positions that will profit from an increase in
+the curvature of the yield curve, Hirji should structure a condor. This condor structure has
+the following positions: long the 2-year bonds, short the 5-year bonds, short the 10-year
+bonds, and long the long-term bonds. Hirji’s allocation to the 2-year bond position is
+calculated as follows:The C$150 million long-term bonds have a money duration of
+C$150×1,960=C$294,000 Allocation to 2-year bond=Money duration of long-term bonds/PVBP of 2-
+year bond 2-year bond position =C$294,000/197 = 1,492.39 or C$1,492 million
+ 
+27.【单项选择题】Relative to the Canadian government bond index, the portfolio that Hirji
+proposes for the Malaysian client will most likely:
+A.underperform.
+B.remain stable.
+C.outperform.
+参考答案：C
+【莽学解析】Hirji proposes an extreme bullet portfolio focusing on the middle of the yield
+curve. If the forecast is correct and the yield curve loses curvature, the rates at either end
+of the curve will rise or the intermediate yields will drop. As a result, bonds at the ends of
+the yield curve will lose value or the intermediate bonds will increase in value. In either
+case, the bullet portfolio will outperform relative to a more diverse maturity index portfolio
+like the benchmark.
+ 
+28.【单项选择题】Based on Exhibit 3, the difference in the rolling yield between Hirji’s
+bullet portfolio and barbell portfolio is:
+A.–8 basis points.
+B.–6 basis points.
+C.2 basis points.
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+29.【单项选择题】Based on Exhibit 3, the total expected return of Hirji’s barbell portfolio is
+closest to:
+A.–2.30%.
+B.0.07%.
+C.4.60%.
+参考答案：C
+【莽学解析】
+ 
+ 
+【题干】Serena Soto is a risk management specialist with Liability Protection Advisors. Trey
+Hudgens, CFO of Kiest Manufacturing, enlists Soto’s help with three projects. The first
+project is to defease some of Kiest's existing fixed-rate bonds that are maturing in each of
+the next three years. The bonds have no call or put provisions and pay interest annually.
+Exhibit 1 presents the payment schedule for the bonds.
+The second project for Soto is to help Hudgens immunize a $20 million portfolio of liabilities.
+The liabilities range from 3.00 years to 8.50 years with a Macaulay duration of 5.34 years,
+cash flow yield of 3.25%, portfolio convexity of 33.05, and basis point value (BPV) of $10,505.
+Soto suggested employing a duration-matching strategy using one of the three AAA rated bond
+portfolios presented in Exhibit 2.
+Soto explains to Hudgens that the underlying duration-matching strategy is based on the
+following three assumptions.1. Yield curve shifts in the future will be parallel.2. Bond types
+and quality will closely match those of the liabilities.3. The portfolio will be rebalanced by
+buying or selling bonds rather than using derivatives.The third project for Soto is to make a
+significant direct investment in broadly diversified global bonds for Kiest’s pension plan.
+Kiest has a young workforce, and thus, the plan has a long-term investment horizon. Hudgens
+needs Soto’s help to select a benchmark index that is appropriate for Kiest’s young workforce
+and avoids the “bums” problem. Soto discusses three benchmark candidates, presented in
+Exhibit 3.
+With the benchmark selected, Hudgens provides guidelines to Soto directing her to (1) use the
+most cost-effective method to track the benchmark and (2) provide low tracking error.After
+providing Hudgens with advice on direct investment, Soto offered him additional information on
+alternative indirect investment strategies using (1) bond mutual funds, (2) exchange-traded
+funds (ETFs), and (3) total return swaps. Hudgens expresses interest in using bond mutual funds
+rather than the other strategies for the following reasons.
+Reason 1 Total return swaps have much higher transaction costs and initial cash outlay than
+bond mutual funds.
+Reason 2 Unlike bond mutual funds, bond ETFs can trade at discounts to their underlying
+indexes, and those discounts can persist.
+Reason 3 Bond mutual funds can be traded throughout the day at the net asset value of the
+underlying bonds.
+ 
+30.【单项选择题】Based on Exhibit 1, Kiest’s liabilities would be classified as:
+A.Type I.
+B.Type II.
+C.Type III.
+参考答案：A
+【莽学解析】Type I liabilities have cash outlays with known amounts and timing. The dates and
+amounts of Kiest's liabilities are known; therefore, they would be classified as Type I
+liabilities.
+ 
+31.【单项选择题】Based on Exhibit 2, the portfolio with the greatest structural risk is:
+A.Portfolio A.
+B.Portfolio B.
+C.Portfolio C.
+参考答案：C
+【莽学解析】Structural risk arises from the design of the duration-matching portfolio. It is
+reduced by minimizing the dispersion of the bond positions, going from a barbell structure to
+more of a bullet portfolio that concentrates the component bonds’ durations around the
+investment horizon. With bond maturities of 1.5 and 11.5 years, Portfolio C has a definite
+barbell structure compared with those of Portfolios A and B, and it is thus subject to a
+greater degree of risk from yield curve twists and non-parallel shifts. In addition, Portfolio
+C has the highest level of convexity, which increases a portfolio’s structural risk.
+ 
+32.【单项选择题】Which portfolio in Exhibit 2 fails to meet the requirements to achieve
+immunization for multiple liabilities?
+A.Portfolio A
+B.Portfolio B
+C.Portfolio C
+参考答案：A
+【莽学解析】The two requirements to achieve immunization for multiple liabilities are for the
+money duration (or BPV) of the asset and liability to match and for the asset convexity to
+exceed the convexity of the liability. Although all three portfolios have similar BPVs,
+Portfolio A is the only portfolio to have a lower convexity than that of the liability
+portfolio (31.98, versus 33.05 for the $20 million liability portfolio), and thus, it fails to
+meet one of the two requirements needed for immunization.
+ 
+33.【单项选择题】Based on Exhibit 2, relative to Portfolio C, Portfolio B:
+A.has higher cash flow reinvestment risk.
+B.is a more desirable portfolio for liquidity management.
+C.provides less protection from yield curve shifts and twists.
+参考答案：B
+【莽学解析】Portfolio B is a laddered portfolio with maturities spread more or less evenly over
+the yield curve. A desirable aspect of a laddered portfolio is liquidity management. Because
+there is always a bond close to redemption, the soon-to-mature bond can provide emergency
+liquidity needs. Barbell portfolios, such as Portfolio C, have maturities only at the short-
+term and long-term ends and thus are much less desirable for liquidity management.
+ 
+34.【单项选择题】Soto’s three assumptions regarding the duration-matching strategy indicate
+the presence of:
+A.model risk.
+B.spread risk.
+C.counterparty credit risk.
+参考答案：A
+【莽学解析】Soto believes that any shift in the yield curve will be parallel. Model risk arises
+whenever assumptions are made about future events and approximations are used to measure key
+parameters. The risk is that those assumptions turn out to be wrong and the approximations are
+inaccurate. A non-parallel yield curve shift could occur, resulting in a mismatch of the
+duration of the immunizing portfolio versus the liability.
+ 
+35.【单项选择题】The global bond benchmark in Exhibit 3 that is most appropriate for Kiest to
+use is the:
+A.Global Aggregate Index.
+B.Global High Yield Index.
+C.Global Aggregate GDP Weighted Index
+参考答案：C
+【莽学解析】Kiest has a young workforce and thus a long-term investment horizon. The Global
+Aggregate and Global Aggregate GDP Weighted Indexes have the highest durations (7.73 and 7.71,
+respectively) and would be appropriate for this group. Hudgens also wants to avoid the “bums”
+problem, however, which arises as a result of a market-cap-weighted portfolio increasing the
+weight of a particular issuer or sector that has increasing borrowings. The Global Aggregate
+Index is a market-cap-weighted index. As a result, the Global Aggregate GDP Weighted Index is
+the most appropriate selection for Kiest.
+36.【单项选择题】To meet both of Hudgens’s guidelines for the pension’s bond fund investment,
+Soto should recommend:
+A.pure indexing.
+B.enhanced indexing.
+C.active management.
+参考答案：B
+【莽学解析】Low tracking error requires an indexing approach. A pure indexing approach for a
+broadly diversified bond index would be extremely costly because it requires purchasing all the
+constituent securities in the index. A more efficient and cost-effective way to track the index
+is an enhanced indexing strategy, whereby Soto would purchase fewer securities than the index
+but would match primary risk factors reflected in the index. Closely matching these risk
+factors could provide low tracking error.
+ 
+37.【单项选择题】Which of Hudgens’s reasons for choosing bond mutual funds as an investment
+vehicle is correct?
+A.Reason 1
+B.Reason 2
+C.Reason 3
+参考答案：B
+【莽学解析】Although a significant spread between the market price of the underlying fixed-
+income securities portfolio and an ETF’s NAV should drive an authorized participant to engage
+in arbitrage, many fixed-income securities are either thinly traded or not traded at all. This
+situation might allow such a divergence to persist.
+ 
+【题干】Doug Kepler, the newly hired chief financial officer for the City of Radford, asks the
+deputy financial manager, Hui Ng, to prepare an analysis of the current investment portfolio
+and the city’s current and future obligations. The city has multiple liabilities of different
+amounts and maturities relating to the pension fund, infrastructure repairs, and various other
+obligations.Ng observes that the current fixed-income portfolio is structured to match the
+duration of each liability. Previously, this structure caused the city to access a line of
+credit for temporary mismatches resulting from changes in the term structure of interest
+rates.Kepler asks Ng for different strategies to manage the interest rate risk of the city’s
+fixed-income investment portfolio against one-time shifts in the yield curve. Ng considers two
+different strategies:Strategy 1: Immunization of the single liabilities using zero-coupon bonds
+held to maturity.Strategy 2: Immunization of the single liabilities using coupon-bearing bonds
+while continuously matching duration.The city also manages a separate, smaller bond portfolio
+for the Radford School District. During the next five years, the school district has
+obligations for school expansions and renovations. The funds needed for those obligations are
+invested in the Bloomberg Barclays US Aggregate Index. Kepler asks Ng which portfolio
+management strategy would be most efficient in mimicking this index.A Radford School Board
+member has stated that she prefers a bond portfolio structure that provides diversification
+over time, as well as liquidity. In addressing the board member’s inquiry, Ng examines a
+bullet portfolio, a barbell portfolio, and a laddered portfolio.
+ 
+38.【单项选择题】A disadvantage of Strategy 1 is that:
+A.price risk still exists.
+B.interest rate volatility introduces risk to effective matching.
+C.there may not be enough bonds available to match all liabilities.
+参考答案：C
+【莽学解析】It may be impossible to acquire zero-coupon bonds to precisely match liabilities
+because the city’s liabilities have varying maturities and amounts. In many financial markets,
+zero-coupon bonds are unavailable.
+ 
+39.【单项选择题】Which duration measure should be matched when implementing Strategy 2?
+A.Key rate
+B.Modified
+C.Macaulay
+参考答案：C
+【莽学解析】An investor having an investment horizon equal to the bond’s Macaulay duration is
+effectively protected, or immunized, from the first change in interest rates, because price and
+coupon reinvestment effects offset for either higher or lower rates.
+ 
+40.【单项选择题】An upward shift in the yield curve on Strategy 2 will most likely result in
+the:
+A.price effect cancelling the coupon reinvestment effect.
+B.price effect being greater than the coupon reinvestment effect.
+C.coupon reinvestment effect being greater than the price effect.
+参考答案：A
+【莽学解析】An upward shift in the yield curve reduces the bond’s value but increases the
+reinvestment rate, with these two effects offsetting one another. The price effect and the
+coupon reinvestment effect cancel each other in the case of an upward shift in the yield curve
+for an immunized liability.
+ 
+41.【单项选择题】The effects of a non-parallel shift in the yield curve on Strategy 2 can be
+reduced by:
+A.minimizing the convexity of the bond portfolio.
+B.maximizing the cash flow yield of the bond portfolio.
+C.minimizing the difference between liability duration and bond-portfolio duration.
+参考答案：A
+【莽学解析】Minimizing the convexity of the bond portfolio minimizes the dispersion of the bond
+portfolio. A non-parallel shift in the yield curve may result in changes in the bond
+portfolio’s cash flow yield. In summary, the characteristics of a bond portfolio structured to
+immunize a single liability are that it (1) has an initial market value that equals or exceeds
+the present value of the liability, (2) has a portfolio Macaulay duration that matches the
+liability’s due date, and (3) minimizes the portfolio convexity statistic.
+ 
+42.【单项选择题】Ng’s response to Kepler’s question about the most efficient portfolio
+management strategy should be:
+A.full replication.
+B.active management.
+C.an enhanced indexing strategy.
+参考答案：C
+【莽学解析】Under an enhanced indexing strategy, the index is replicated with fewer than the
+full set of index constituents but still matches the original index’s primary risk factors.
+This strategy replicates the index performance under different market scenarios more
+efficiently than the full replication of a pure indexing approach.
+ 
+43.【单项选择题】Which portfolio structure should Ng recommend that would satisfy the school
+board member’s preference?
+A.Bullet portfolio
+B.Barbell portfolio
+C.Laddered portfolio
+参考答案：C
+【莽学解析】The laddered approach provides both diversification over time and liquidity.
+Diversification over time offers the investor a balanced position between two sources of
+interest rate risk: cash flow reinvestment and market price volatility. In practice, perhaps
+the most desirable aspect of a laddered portfolio is liquidity management, because as time
+passes, the portfolio will always contain a bond close to maturity.C is correct. The laddered
+approach provides both diversification over time and liquidity. Diversification over time
+offers the investor a balanced position between two sources of interest rate risk: cash flow
+reinvestment and market price volatility. In practice, perhaps the most desirable aspect of a
+laddered portfolio is liquidity management, because as time passes, the portfolio will always
+contain a bond close to maturity.
+ 
+【题干】Celia Deveraux is chief investment officer for the Topanga Investors Fund, which
+invests in equities and fixed income. The clients in the fund are all taxable investors. The
+fixed-income allocation includes a domestic (US) bond portfolio and an externally managed
+global bond portfolio.The domestic bond portfolio has a total return mandate, which specifies a
+long-term return objective of 25 basis points (bps) over the benchmark index. Relative to the
+benchmark, small deviations in sector weightings are permitted, such risk factors as duration
+must closely match, and tracking error is expected to be less than 50 bps per year.The
+objectives for the domestic bond portfolio include the ability to fund future liabilities,
+protect interest income from short-term inflation, and minimize the correlation with the
+fund’s equity portfolio. The correlation between the fund’s domestic bond portfolio and
+equity portfolio is currently 0.14. Deveraux plans to reduce the fund’s equity allocation and
+increase the allocation to the domestic bond portfolio. She reviews two possible investment
+strategies.Strategy 1 Purchase AAA rated fixed-coupon corporate bonds with a modified duration
+of two years and a correlation coefficient with the equity portfolio of –0.15.Strategy
+2 Purchase US government agency floating-coupon bonds with a modified duration of one month
+and a correlation coefficient with the equity portfolio of –0.10Deveraux realizes that the
+fund’s return may decrease if the equity allocation of the fund is reduced. Deveraux decides
+to liquidate $20 million of US Treasuries that are currently owned and to invest the proceeds
+in the US corporate bond sector. To fulfill this strategy, Deveraux asks Dan Foster, a newly
+hired analyst for the fund, to recommend Treasuries to sell and corporate bonds to
+purchase.Foster recommends Treasuries from the existing portfolio that he believes are
+overvalued and will generate capital gains. Deveraux asks Foster why he chose only overvalued
+bonds with capital gains and did not include any bonds with capital losses. Foster responds
+with two statements.Statement 1 Taxable investors should prioritize selling overvalued bonds
+and always sell them before selling bonds that are viewed as fairly valued or
+undervalued.Statement 2 Taxable investors should never intentionally realize capital
+losses.Regarding the purchase of corporate bonds, Foster collects relevant data, which are
+presented in Exhibit 1
+Deveraux and Foster review the total expected 12-month return (assuming no reinvestment income)
+for the global bond portfolio. Selected financial data are presented in Exhibit 2.
+Deveraux contemplates adding a new manager to the global bond portfolio. She reviews three
+proposals and determines that each manager uses the same index as its benchmark but pursues a
+different total return approach, as presented in Exhibit 3.
+ 
+ 
+44.【单项选择题】Which approach to its total return mandate is the fund’s domestic bond
+portfolio most likely to use?
+A.Pure indexing
+B.Enhanced indexing
+C.Active management
+参考答案：B
+【莽学解析】The domestic bond portfolio’s return objective is to modestly outperform the
+benchmark. Its risk factors, such as duration, are to closely match the benchmark. Small
+deviations in sector weights are allowed, and tracking error should be less than 50 bps year.
+These features are typical of enhanced indexing.
+ 
+45.【单项选择题】Strategy 2 is most likely preferred to Strategy 1 for meeting the objective
+of:
+A.protecting inflation.
+B.funding future liabilities.
+C.minimizing the correlation of the fund’s domestic bond portfolio and equity portfolio.
+参考答案：A
+【莽学解析】Floating-coupon bonds provide inflation protection for the interest income because
+the reference rate should adjust for inflation. The purchase of fixed-coupon bonds as outlined
+in Strategy 1 provides no protection against inflation for either interest or principal.
+Strategy 1 would instead be superior to Strategy 2 in funding future liabilities (better
+predictability as to the amount of cash flows) and reducing the correlation between the fund’s
+domestic bond portfolio and equity portfolio (better diversification).
+ 
+46.【单项选择题】Are Foster’s statements to Deveraux supporting Foster’s choice of bonds to
+sell correct?
+A.Only Statement 1 is correct.
+B.Only Statement 2 is correct.
+C.Neither Statement 1 nor Statement 2 is correct.
+参考答案：C
+【莽学解析】Since the fund’s clients are taxable investors, there is value in harvesting tax
+losses. These losses can be used to offset capital gains within the fund that will otherwise be
+distributed to the clients and cause them higher tax payments, which decreases the total value
+of the investment to clients. The fund has to consider the overall value of the investment to
+its clients, including taxes, which may result in the sale of bonds that are not viewed as
+overvalued. Tax-exempt investors’ decisions are driven by their investment views without
+regard to offsetting gains and losses for tax purposes.
+ 
+47.【单项选择题】Based on Exhibit 1, which bond most likely has the highest liquidity premium?
+A.Bond 1
+B.Bond 2
+C.Bond 3
+参考答案：C
+【莽学解析】Bond 3 is most likely to be the least liquid of the three bonds presented in
+Exhibit 2 and will thus most likely require the highest liquidity premium. Low credit ratings,
+longer time since issuance, smaller issuance size, smaller issuance outstanding, and longer
+time to maturity typically are associated with a lower liquidity (and thus a higher liquidity
+premium). Bond 3 has the lowest credit quality and the longest time since issuance of the three
+bonds. Bond 3 also has a smaller issue size and longer time to maturity than Bond 1. The total
+issuance outstanding for Bond 3 is smaller than that of Bond 2 and equal to that of Bond 1.
+ 
+48.【单项选择题】Based on Exhibit 2, the total expected return of the fund’s global bond
+portfolio is closest to:
+A.0.90%.
+B.2.20%.
+C.3.76%.
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+49.【单项选择题】Based on Exhibit 3, which manager is most likely to have an active management
+total return mandate?
+A.Manager A
+B.Manager B
+C.Manager C
+参考答案：C
+【莽学解析】The sector weights, risk and return characteristics, and turnover for Manager C
+differ significantly from those of the index, which is typical of an active management mandate.
+In particular, Manager C’s modified duration of 6.16 represents a much larger deviation from
+the benchmark index modified duration of 5.22 than that of the other managers, which is a
+characteristic unique to an active management mandate.
+ 
+【题干】Amy McLaughlin is a fixed-income portfolio manager at UK-based Delphi Investments. One
+year ago, given her expectations of a stable yield curve over the coming 12 months and noting
+that the yield curve was upward sloping, McLaughlin elected to position her portfolio solely in
+20-year US Treasury bonds with a coupon rate of 4% and a price of 101.7593, with the
+expectation of selling the bonds in one year at a price of 109.0629. McLaughlin expected the US
+dollar to depreciate relative to the British pound by 1.50% during the year. McLaughlin chose
+the 20-year Treasury bonds because they were on the steepest part of the yield curve.McLaughlin
+and Michaela Donaldson, a junior analyst at Delphi, are now discussing how to reposition the
+portfolio in light of McLaughlin’s expectations about interest rates over the next 12 months.
+She expects interest rate volatility to be high and the yield curve to experience an increase
+in the 2s/10s/30s butterfly spread, with the 30-year yield remaining unchanged. Selected yields
+on the Treasury yield curve, and McLaughlin’s expected changes in yields over the next 12
+months, are presented in Exhibit 1.
+Based on these interest rate expectations, McLaughlin asks Donaldson to recommend a portfolio
+strategy. Donaldson considers the following three options.Bullet portfolio: Invest solely in
+10-year Treasury government bondsBarbell portfolio: Invest solely in 2-year and 30-year
+Treasury government bondsLaddered portfolio: Invest equally in 2-year, 5-year, 10-year, and 30-
+year Treasury government bondsAfter recommending a portfolio strategy, McLaughlin tells
+Donaldson that using a duration-neutral, long/short structure may be a better strategy for
+attempting to enhance portfolio return. McLaughlin suggests that Donaldson consider a butterfly
+trade or a condor trade using some combination of 2-year, 5-year, 10-year, and 30-year
+bonds.Donaldson suggests they also consider altering the portfolio’s convexity to enhance
+expected return given McLaughlin’s interest rate expectations. Donaldson tells McLaughlin the
+following.
+Statement 1 Portfolios with larger convexities often have higher yields.
+Statement 2 If yields rise, a portfolio of a given duration with higher convexity will
+experience less of a price decrease than a similar-duration, lower-convexity portfolio.
+ 
+50.【单项选择题】The portfolio strategy implemented by McLaughlin last year is mostly likely to
+be described as:
+A.a carry trade.
+B.a barbell structure.
+C.riding the yield curve.
+参考答案：C
+【莽学解析】Last year, McLaughlin expected the yield curve to be stable over the year. Riding
+the yield curve is a strategy based on the premise that, as a bond ages, it will decline in
+yield if the yield curve is upward sloping. This is known as “roll down”; that is, the bond
+rolls down the (static) curve. Riding the yield curve differs from buy and hold in that the
+manager is expecting to add to returns by selling the security at a lower yield at the horizon.
+This strategy may be particularly effective if the portfolio manager targets portions of the
+yield curve that are relatively steep and where price appreciation resulting from the
+bond’ration to maturity can be significant. McLaughlin elected to position her portfolio
+solely in 20-year Treasury bonds, which reflect the steepest part of the yield curve, with the
+expectation of selling the bonds in one year.
+ 
+51.【单项选择题】At the start of last year, the expected return on the portfolio strategy
+implemented by McLaughlin was closest to:
+A.9.61%.
+B.9.68%.
+C.12.61%.
+参考答案：A
+【莽学解析】
+ 
+ 
+In this case, the E(Change in price based on investor’ views of yields and yield spreads) term
+is equal to zero because McLaughlin expects the yield curve to remain stable.
+ 
+52.【单项选择题】Using the yield curve forecast shown in Exhibit 1, which portfolio strategy
+should Donaldson recommend for the year ahead?
+A.The bullet portfolio
+B.The barbell portfolio
+C.The laddered portfolio
+参考答案：B
+【莽学解析】McLaughlin expects the yield curve to experience an increase in the butterfly
+spread, with the 30-year yield remaining unchanged, which implies that the yield curve will
+increase its curvature, pinned at the 30-year yield, as shown in Exhibit 1. The barbell
+portfolio, consisting of 2-year and 30-year bonds, would be expected to perform best. Although
+the two-year rate is expected to increase, the effective duration of two-year bonds is quite
+small, resulting in minimal price impact. Similarly, the 30-year yield is expected to remain
+constant, resulting in minimal price impact as well. Relative to the barbell portfolio, the
+laddered portfolio has greater exposure to the expected increases in the 5-year and 10-year
+yields, and the bullet portfolio has greater exposure to the expected increase in the 10-year
+yield. Therefore, the barbell portfolio would be expected to perform best given McLaughlin’s
+interest rate expectations.
+ 
+53.【单项选择题】Given McLaughlin’s interest rate expectations over the next 12 months, which
+long/short structure would be most appropriate?
+A.Condor: short wings, long body
+B.Butterfly: short barbell, long bullet
+C.Butterfly: long barbell, short bullet
+参考答案：C
+【莽学解析】McLaughlin expects interest rate volatility to be high and the yield curve to
+experience an increase in the butterfly spread, with the 30-year yield remaining unchanged.
+Given these expectations, a long barbell (2s and 30s, short bullet [10s] butterfly trade would
+be most appropriate. The two-year yield is expected to slightly increase by 0.04%, resulting in
+minimal price impact given the relatively low duration of two-year bonds. Similarly, the 30-
+year yield is expected to remain constant, resulting in minimal price impact as well. The 10-
+year yield ( 0.50%) is expected to increase by more than the 5-year yield ( 0.40%), and with
+its higher effective duration, the 10-year would be appropriate for the short bullet part of
+the butterfly trade.
+ 
+54.【单项选择题】Given McLaughlin’s interest rate expectations over the next 12 months, one
+way that Donaldson and McLaughlin could alter convexity to enhance expected return would be to:
+A.sell call options on bonds held in the portfolio.
+B.buy call options on long-maturity government bond futures.
+C.sell put options on bonds they would be willing to own in the portfolio.
+参考答案：B
+【莽学解析】McLaughlin expects interest rate volatility to be high and the yield curve to
+experience an increase in the butterfly spread, with the 30-year yield remaining unchanged. To
+increase the portfolio’s expected return, Donaldson and McLaughlin should buy call options on
+long-maturity government bond futures to increase convexity.
+ 
+55.【单项选择题】Which of Donaldson’s statements is correct?
+A.Only Statement 1
+B.Only Statement 2
+C.Only Statement 3
+参考答案：B
+【莽学解析】Statement 2 is correct: If yields rise, a portfolio of a given duration with higher
+convexity will experience less of a price decrease than a similar-duration, lower-convexity
+portfolio. Statement 1 is incorrect, as portfolios with larger convexities often have lower
+yields. Investors will be willing to pay for increased convexity when they expect yields to
+change by more than enough to cover the sacrifice in yield.

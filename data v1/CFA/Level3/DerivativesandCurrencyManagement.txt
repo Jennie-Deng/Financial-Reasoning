@@ -1,0 +1,535 @@
+Derivatives and Currency Management
+共享题干题
+【题干】Kalila Al-Khalili has been hired as a consultant to a Middle Eastern sovereign wealth
+fund. The fund’s oversight committee has asked her to examine the fund’s financial
+characteristics and recommend an appropriate currency management strategy given the fund’s
+Investment Policy Statement. After a thorough study of the fund and its finances, Al-Khalili
+reaches the following conclusions:The fund’s mandate is focused on the long-term development
+of the country, and the royal family (who are very influential on the fund’s oversight
+committee) are prepared to take a long-term perspective on the fund’s investments. The fund’s
+strategic asset allocation is tilted towards equity rather than fixed-income assets.The fund’s
+strategic asset allocation is tilted towards equity rather than fixed-income assets.Both its
+fixed-income and equity portfolios have a sizeable exposure to emerging market
+assets.Currently, about 90% of exchange rate exposures are hedged although the IPS allows a
+range of hedge ratios.Liquidity needs of the fund are minimal, since the government is running
+a balanced budget and is unlikely to need to dip into the fund in the near term to cover fiscal
+deficits. Indeed, the expected lifetime of country’s large oil reserves has been greatly
+extended by recent discoveries, and substantial oil royalties are expected to persist into the
+future.
+ 
+1.【单项选择题】Based on her investigation, Al-Khalili would most likely recommend:
+A.active currency management.
+B.a hedging ratio closer to 100%.
+C.a narrow discretionary band for currency exposures.
+参考答案：A
+【莽学解析】The fund has a long-term perspective, few immediate liquidity needs, and a lower
+weight in fixed income that in equities (bond portfolios are typically associated with hedge
+ratios closer to 100% than equity portfolios). The emerging market exposure would also support
+active management, given these countries’ typically higher yields (carry trade) and often
+volatile exchange rates.B is incorrect because the characteristics of the fund and the
+beneficial investor (in this case, the royal family) do not argue for a conservative currency
+strategy.C is incorrect because a more active currency management strategy would be more
+suitable for this fund.
+ 
+【题干】Aline Nunes, a junior analyst, works in the derivatives research division of an
+international securities firm. Nunes’s supervisor, Cátia Pereira, asks her to conduct an
+analysis of various option trading strategies relating to shares of three companies: IZD, QWY,
+and XDF. On 1 February, Nunes gathers selected option premium data on the companies, presented
+in Exhibit 1.
+Nunes considers the following option strategies relating to IZD:
+Strategy 1: Constructing a synthetic long put position in IZD
+Strategy 2: Buying 100 shares of IZD and writing the April €95.00 strike call option on IZD
+Strategy 3: Implementing a covered call position in IZD using the April €97.50 strike option
+Nunes next reviews the following option strategies relating to QWY:
+Strategy 4: Implementing a protective put position in QWY using the April €25.00 strike option
+Strategy 5: Buying 100 shares of QWY, buying the April €24.00 strike put option, and writing
+the April €31.00 strike call option
+Strategy 6: Implementing a bear spread in QWY using the April €25.00 and April €31.00 strike
+options Finally, Nunes considers two option strategies relating to XDF:
+Strategy 7: Writing both the April €75.00 strike call option and the April €75.00 strike put
+option on XDF
+Strategy 8: Writing the February €80.00 strike call option and buying the December €80.00
+strike call option on XDF
+ 
+2.【单项选择题】Strategy 1 would require Nunes to buy:
+A.shares of IZD.
+B.a put option on IZD.
+C.a call option on IZD.
+参考答案：C
+【莽学解析】To construct a synthetic long put position, Nunes would buy a call option on IZD.
+Of course, she would also need to sell (short) IZD shares to complete the synthetic long put
+position.
+ 
+3.【单项选择题】Based on Exhibit 1, Nunes should expect Strategy 2 to be least profitable if
+the share price of IZD at option expiration is:
+A.less than €91.26.
+B.between €91.26 and €95.00.
+C.more than €95.00.
+参考答案：A
+【莽学解析】Strategy 2 is a covered call, which is a combination of a long position in shares
+and a short call option. The breakeven point of Strategy 2 is €91.26, which represents the
+price per share of €93.93 minus the call premium received of €2.67 per share (S0 – c0). So,
+at any share price less than €91.26 at option expiration, Strategy 2 incurs a loss. If the
+share price of IZD at option expiration is greater than €91.26, Strategy 2 generates a gain.
+ 
+4.【单项选择题】Based on Exhibit 1, the breakeven share price of Strategy 3 is closest to:
+A.€92.25.
+B.€95.61.
+C.€95.82.
+参考答案：A
+【莽学解析】Strategy 3 is a covered call strategy, which is a combination of a long position in
+shares and a short call option. The breakeven share price for a covered call is the share price
+minus the call premium received, or S0 – c0. The current share price of IZD is €93.93, and
+the IZD April €97.50 call premium is €1.68. Thus, the breakeven underlying share price for
+Strategy 3 is S0 – c0 = €93.93 – €1.68 = €92.25.
+ 
+5.【单项选择题】Based on Exhibit 1, the maximum loss per share that would be incurred by
+implementing Strategy 4 is:
+A.€2.99.
+B.€3.99.
+C.unlimited.
+参考答案：B
+【莽学解析】Strategy 4 is a protective put position, which is a combination of a long position
+in shares and a long put option. By purchasing the €25.00 strike put option, Nu?es would be
+protected from losses at QWY share prices of €25.00 or lower. Thus, the maximum loss per share
+from Strategy 4 would be the loss of share value from €28.49 to €25.00 (or €3.49) plus the
+put premium paid for the put option of €0.50: S0 – X + p0 = €28.49 – €25.00 + €0.50 =
+€3.99.
+ 
+6.【单项选择题】Strategy 5 is best described as a:
+A.collar.
+B.straddle.
+C.bear spread.
+参考答案：A
+【莽学解析】Strategy 5 describes a collar, which is a combination of a long position in shares,
+a long put option with an exercise price below the current stock price, and a short call option
+with an exercise price above the current stock price.
+ 
+7.【单项选择题】Based on Exhibit 1, Strategy 5 offers:
+A.unlimited upside.
+B.a maximum profit of €2.48 per share.
+C.protection against losses if QWY’s share price falls below €28.14.
+参考答案：B
+【莽学解析】Strategy 5 describes a collar, which is a combination of a long position in shares,
+a long put option, and a short call option. Strategy 5 would require Nu?es to buy 100 QWY
+shares at the current market price of €28.49 per share. In addition, she would purchase a QWY
+April €24.00 strike put option contract for €0.35 per share and collect €0.32 per share from
+writing a QWY April €31.00 strike call option. The collar offers protection against losses on
+the shares below the put strike price of €24.00 per share, but it also limits upside to the
+call strike price of €31.00 per share. Thus, the maximum gain on the trade, which occurs at
+prices of €31.00 per share or higher, is calculated as (X2 – S0) – p0 + c0, or (€31.00 –
+€28.49) – €0.35 + €0.32 = €2.48 per share.
+ 
+8.【单项选择题】Based on Exhibit 1, the breakeven share price for Strategy 6 is closest to:
+A.€22.50.
+B.€28.50.
+C.€33.50.
+参考答案：B
+【莽学解析】Strategy 6 is a bear spread, which is a combination of a long put option and a
+short put option on the same underlying, where the long put has a higher strike price than the
+short put. In the case of Strategy 6, the April €31.00 put option would be purchased and the
+April €25.00 put option would be sold. The long put premium is €3.00 and the short put
+premium is €0.50, for a net cost of €2.50. The breakeven share price is €28.50, calculated
+as XH – (pH – pL) = €31.00 – (€3.00 – €0.50) = €28.50.
+ 
+9.【单项选择题】Based on Exhibit 1, the maximum gain per share that could be earned if Strategy
+7 is implemented is:
+A.€5.74.
+B.€5.76.
+C.unlimited.
+参考答案：B
+【莽学解析】Strategy 7 describes a short straddle, which is a combination of a short put option
+and a short call option, both with the same strike price. The maximum gain is €5.76 per share,
+which represents the sum of the two option premiums, or c0 + p0 = €2.54 + €3.22 = €5.76.
+The maximum gain per share is realized if both options expire worthless, which would happen if
+the share price of XDF at expiration is €75.00.
+ 
+10.【单项选择题】Based on Exhibit 1, the best explanation for Nunes to implement Strategy 8
+would be that, between the February and December expiration dates, she expects the share price
+of XDF to:
+A.decrease.
+B.remain unchanged.
+C.increase.
+参考答案：C
+【莽学解析】Nunes would implement Strategy 8, which is a long calendar spread, if she expects
+the XDF share price to increase between the February and December expiration dates. This
+strategy provides a benefit from the February short call premium to partially offset the cost
+of the December long call option. Nunes likely expects the XDF share price to remain relatively
+flat between the current price €74.98 and €80 until the February call option expires, after
+which time she expects the share price to increase above €80. If such expectations come to
+fruition, the February call would expire worthless and Nunes would realize gains on the
+December call option.
+ 
+11.【单项选择题】Over the past few months, Nunes and Pereira have followed news reports on a
+proposed merger between XDF and one of its competitors. A government antitrust committee is
+currently reviewing the potential merger. Pereira expects the share price to move sharply
+upward or downward depending on whether the committee decides to approve or reject the merger
+next week. Pereira asks Nunes to recommend an option trade that might allow the firm to benefit
+from a significant move in the XDF share price regardless of the direction of the move. The
+option trade that Nunes should recommend relating to the government committee’s decision is a:
+A.collar.
+B.bull spread.
+C.long straddle.
+参考答案：C
+【莽学解析】Nunes should recommend a long straddle, which is a combination of a long call
+option and a long put option, both with the same strike price. The committee’s announcement is
+expected to cause a significant move in XDF’s share price. A long straddle is appropriate
+because the share price is expected to move sharply up or down depending on the committee’s
+decision. If the merger is approved, the share price will likely increase, leading to a gain in
+the long call option. If the merger is rejected, then the share price will likely decrease,
+leading to a gain in the long put option.
+ 
+【题干】Li Jiang is an international economist operating a subscription website through which
+she offers financial advice on currency issues to retail investors. One morning she receives
+four subscriber e-mails seeking guidance.Subscriber 1: “As a French national now working in
+the United States, I hold US dollar-denominated assets currently valued at USD 700,000. The
+USD/EUR exchange rate has been quite volatile and now appears oversold based on historical
+price trends. With my American job ending soon, I will return to Europe. I want to protect the
+value of my USD holdings, measured in EUR terms, before I repatriate these funds back to
+France. To reduce my currency exposure I am going to use currency futures contracts. Can you
+explain the factors most relevant to implementing this strategy?”Subscriber 2: “I have
+observed that many of the overseas markets for Korean export goods are slowing, while the
+United States is experiencing a rise in exports. Both trends can combine to possibly affect the
+value of the won (KRW) relative to the US dollar. As a result, I am considering a speculative
+currency trade on the KRW/USD exchange rate. I also expect the volatility in this exchange rate
+to increase.”Subscriber 3: “India has relatively high interest rates compared to the United
+States and my market view is that this situation is likely to persist. As a retail investor
+actively trading currencies, I am considering borrowing in USD and converting to the Indian
+rupee (INR).I then intend to invest these funds in INR-denominated bonds, but without using a
+currency hedge.”Subscriber 4: “I was wondering if trading in emerging market currencies
+provides the more opportunities for superior returns through active management than trading in
+Developed Market currencies.”
+ 
+12.【单项选择题】For Subscriber 1, the most significant factor to consider would be:
+A.margin requirements.
+B.transaction costs of using futures contracts.
+C.different quoting conventions for future contracts.
+参考答案：A
+【莽学解析】Exchange-traded futures contract not only have initial margin requirements, they
+also have daily mark-to-market and, as a result, can be subject to daily margin calls. Market
+participants must have sufficient liquidity to meet margin calls, or have their positions
+involuntarily liquidated by their brokers. Note that the risk of daily margin calls is not a
+feature of most forwards contracts; nor is initial margin. (However, this is changing among the
+largest institutional players in FX markets as many forward contracts now come with what are
+known as Collateral Support Annexes—CSAs—in which margin can be posted. Posting additional
+margin would typically not be a daily event, however, except in the case of extreme market
+moves.)
+B is incorrect because futures contracts have low transactions costs.
+C is incorrect because whether the EUR is the price or the base currency in the quote will not
+affect the hedging process. In fact, on the CME the quote would be the market-standard USD/EUR
+quote, with the EUR as the base currency.
+ 
+13.【单项选择题】For Subscriber 2, and assuming all of the choices relate to the KRW/USD
+exchange rate, the best way to implement the trading strategy would be to:
+A.write a straddle.
+B.buy a put option.
+C.use a long NDF position.
+参考答案：C
+【莽学解析】Based on predicted export trends, Subscriber 2 most likely expects the KRW/USD rate
+to increase (i.e., the won—the price currency—to depreciate relative to the USD). This would
+require a long forward position in a forward contract, but as a country with capital controls,
+a NDF would be used instead. (Note: While forward contracts offered by banks are generally an
+institutional product, not retail, the retail version of a non-deliverable forward contract is
+known as a “contract for differences” (CFD) and is available at several retail FX brokers.)A
+is incorrect because Subscriber 2 expects the KRW/USD rate to increase. A short straddle
+position would be used when the direction of exchange rate movement is unknown and volatility
+is expected to remain low.B is incorrect because a put option would profit from a decrease of
+the KRW/USD rate, not an increase (as expected). Higher volatility would also make buying a put
+option more expensive.
+ 
+14.【单项选择题】Which of the following market developments would be most favorable for
+Subscriber 3’s trading plan?
+A.A narrower interest rate differential.
+B.A higher forward premium for INR/USD
+C.Higher volatility in INR/USD spot rate movements.
+参考答案：B
+【莽学解析】Subscriber 3’s carry trade strategy is equivalent to trading the forward rate
+bias, based on the historical evidence that the forward rate is not the center of the
+distribution for the spot rate. Applying this bias involves buying currencies selling at a
+forward discount and selling currencies trading at a forward premium. So a higher forward
+premium on the lower yielding currency—the USD, the base currency in the INR/USD quote—would
+effectively reflect a more profitable trading opportunity. That is, a higher premium for buying
+or selling the USD forward is associated with a lower US interest rate compared to India. This
+would mean a wider interest rate differential in favor of Indian instruments, and hence
+potentially more carry trade profits.
+A is incorrect because Subscriber 3’s carry trade strategy depends on a wide interest rate
+differential between the high-yield country (India) and the low-yield country (the United
+States). The differential should be wide enough to compensate for the unhedged currency risk
+exposure.C is incorrect because a guide to the carry trade’s riskiness is the volatility of
+spot rates on the involved currencies, with rapid movements in exchange rates often associated
+with a panicked unwinding of carry trades. All things being equal, higher volatility is worse
+for carry trades.
+ 
+15.【单项选择题】Jiang’s best response to Subscriber 4 would be that active trading in trading
+in emerging market currencies:
+A.typically leads to return distributions that are positively skewed.
+B.should not lead to higher returns because FX markets are efficient.
+C.often leads to higher returns through carry trades, but comes with higher risks and trading
+costs.
+参考答案：C
+【莽学解析】Emerging market currencies are often the investment currencies in the carry trade.
+This reflects the higher yields often available in their money markets compared to Developed
+Market economies (funding currencies are typically low-yield currencies such as the JPY). This
+can lead to higher holding returns, but these higher returns can also come with higher risks:
+carry trades are occasionally subject to panicked unwinds in stressed market conditions. When
+this occurs, position exit can be made more difficult by market illiquidity and higher trading
+costs (wider bid/offer spreads). The leverage involved in the carry trade can magnify trading
+losses under these circumstances.
+A is incorrect because return distributions are often negatively skewed, reflecting the higher
+event risk (panicked carry trade unwinds, currency pegs being re-set, etc.) associated with the
+carry trade.B is incorrect because although FX markets are typically efficient (or very close
+thereto) this does not mean that higher returns are not available. The key question is whether
+these are abnormally high risk-adjusted returns. Higher return in an efficient market comes
+with higher risk. The higher (short-term) return in the carry trade reflects the risk premia
+for holding unhedged currency risk, in the context of a favorable interest rate differential.
+ 
+【题干】Stanley Kumar Singh, CFA, is the risk manager at SKS Asset Management. He works with
+individual clients to manage their investment portfolios. One client, Sherman Hopewell, is
+worried about how short-term market fluctuations over the next three months might impact his
+equity position in Walnut Corporation. Although Hopewell is concerned about short-term downside
+price movements, he wants to remain invested in Walnut shares because he remains positive about
+its long-term performance. Hopewell has asked Singh to recommend an option strategy that will
+keep him invested in Walnut shares while protecting against a short-term price decline. Singh
+gathers the information in Exhibit 2 to explore various strategies to address Hopewell’s
+concerns.Another client, Nigel French, is a trader who does not currently own shares of Walnut
+Corporation. French has told Singh that he believes that Walnut shares will experience a large
+move in price after the upcoming quarterly earnings release in two weeks. French also tells
+Singh, however, that he is unsure which direction the stock will move. French asks Singh to
+recommend an option strategy that would allow him to profit should the share price move in
+either direction.A third client, Wanda Tills, does not currently own Walnut shares and has
+asked Singh to explain the profit potential of three strategies using options in Walnut: a long
+straddle, a bull call spread, and a bear put spread. In addition, Tills asks Singh to explain
+the gamma of a call option. In response, Singh prepares a memo to be shared with Tills that
+provides a discussion of gamma and presents his analysis on three option strategies:
+Strategy 1: A long straddle position at the $67.50 strike option
+Strategy 2: A bull call spread using the $65 and $70 strike options
+Strategy 3: A bear put spread using the $65 and $70 strike options
+ 
+ 
+16.【单项选择题】The option strategy Singh is most likely to recommend to Hopewell is a:
+A.collar.
+B.covered call.
+C.protective put.
+参考答案：C
+【莽学解析】A protective put accomplishes Hopewell’s goal of short-term price protection. A
+protective put provides downside protection while retaining the upside potential. While
+Hopewell is concerned about the downside in the short-term, he wants to remain invested in
+Walnut shares, as he is positive about the stock in the long-term.
+ 
+17.【单项选择题】The option strategy that Singh is most likely to recommend to French is a:
+A.straddle.
+B.bull spread.
+C.collar.
+参考答案：A
+【莽学解析】The long straddle strategy is based on expectations of volatility in the underlying
+stock being higher than the market consensus. The straddle strategy consists of simultaneously
+buying a call option and a put option at the same strike price. Singh could recommend that
+French buy a straddle using near at-the-money options ($67.50 strike). This allows French to
+profit should the Walnut stock price experience a large move in either direction after the
+earnings release.
+ 
+18.【单项选择题】.Based on Exhibit 2, Strategy 1 is profitable when the share price at
+expiration is closest to:
+A.$63.00.
+B.$65.24.
+C.$69.49.
+参考答案：A
+【莽学解析】The straddle strategy consists of simultaneously buying a call option and buying a
+put option at the same strike price. The market price for the $67.50 call option is $1.99, and
+the market price for the $67.50 put option is $2.26, for an initial net cost of $4.25 per
+share. Thus, this straddle position requires a move greater than $4.25 in either direction from
+the strike price of $67.50 to become profitable. So, the straddle becomes profitable at $67.50
+– $4.26 = $63.24 or lower, or $67.50 + $4.26 = $71.76 or higher. At $63.00, the profit on the
+straddle is positive.
+ 
+19.【单项选择题】Based on Exhibit 2, the maximum profit, on a per share basis, from investing
+in Strategy 2, is closest to:
+A.$2.26.
+B.$2.74.
+C.$5.00.
+参考答案：A
+【莽学解析】The bull call strategy consists of buying the lower-strike option and selling the
+higher-strike option. The purchase of the $65 strike call option costs $3.65 per share, and
+selling the $70 strike call option generates an inflow of $0.91 per share, for an initial net
+cost of $2.74 per share. At expiration, the maximum profit occurs when the stock price is $70
+or higher, which yields a $5.00 per share payoff ($70 – $65) on the long call position. After
+deduction of the $2.74 per share cost required to initiate the bull call spread, the profit is
+$2.26 ($5.00 – $2.74).
+ 
+20.【单项选择题】Based on Exhibit 2, and assuming the market price of Walnut’s shares at
+expiration is $66, the profit or loss, on a per share basis, from investing in Strategy 3, is
+closest to:
+A.$2.36.
+B.$1.64.
+C.$2.64.
+参考答案：B
+【莽学解析】The bear put spread consists of buying a put option with a high strike price ($70)
+and selling another put option with a lower strike price ($65). The market price for the $70
+strike put option is $3.70, and the market price for the $65 strike put option is $1.34 per
+share. Thus, the initial net cost of the bear spread position is $3.70 – $1.34 = $2.36 per
+share. If Walnut shares are $66 at expiration, the $70 strike put option is in the money by
+$4.00, and the short position in the $65 strike put expires worthless. After deducting the cost
+of $2.36 to initiate the bear spread position, the net profit is $1.64 per contract.
+ 
+21.【单项选择题】Based on the data in Exhibit 2, Singh would advise Tills that the call option
+with the largest gamma would have a strike price closest to:
+A.$ 55.
+B.$ 67.50.
+C.$ 80.
+参考答案：B
+【莽学解析】The $67.50 call option is approximately at the money because the Walnut share price
+is currently $67.79. Gamma measures the sensitivity of an option’s delta to a change in the
+underlying. The largest gamma occurs when options are trading at the money or near expiration,
+when the deltas of such options move quickly toward 1.0 or 0.0. Under these conditions, the
+gammas tend to be largest and delta hedges are hardest to maintain.
+ 
+【题干】Guten Investments GmbH, based in Germany and using the EUR as its reporting currency,
+is an asset management firm providing investment services for local high net worth and
+institutional investors seeking international exposures. The firm invests in the Swiss, UK, and
+US markets, after conducting fundamental research in order to select individual investments.
+Exhibit 1 presents recent information for exchange rates in these foreign markets.
+In prior years, the correlation between movements in the foreign-currency asset returns for the
+USD-denominated assets and movements in the exchange rate was estimated to be +0.50. After
+analyzing global financial markets, Konstanze Ostermann, a portfolio manager at Guten
+Investments, now expects that this correlation will increase to +0.80, although her forecast
+for foreign-currency asset returns is unchanged.Ostermann believes that currency markets are
+efficient and hence that long-run gains cannot be achieved from active currency management,
+especially after netting out management and transaction costs. She uses this philosophy to
+guide hedging decisions for her discretionary accounts, unless instructed otherwise by the
+client.Ostermann is aware, however, that some investors hold an alternative view on the merits
+of active currency management. Accordingly, their portfolios have different investment
+guidelines. For these accounts, Guten Investments employs a currency specialist firm, Umlauf
+Management, to provide currency overlay programs specific to each client’s investment
+objectives. For most hedging strategies, Umlauf Management develops a market view based on
+underlying fundamentals in exchange rates. However, when directed by clients, Umlauf Management
+uses options and a variety of trading strategies to unbundle all of the various risk factors
+(the “Greeks”) and trade them separately.Ostermann conducts an annual review for three of her
+clients and gathers the summary information presented in Exhibit 2.
+ 
+ 
+22.【单项选择题】Based on Exhibit 1, the domestic-currency return over the last year (measured
+in EUR terms) was higher than the foreign-currency return for:
+A.USD-denominated assets.
+B.GBP-denominated assets.
+C.CHF-denominated assets.
+参考答案：C
+【莽学解析】The domestic-currency return is a function of the foreign-currency return and the
+percentage change of the foreign currency against the domestic currency. Mathematically, the
+domestic-currency return is expressed as: RDC = (1 + RFC)(1 + RFX) – 1where RDC is the
+domestic-currency return (in percent), RFC is the foreign-currency return, and RFX is the
+percentage change of the foreign currency against the domestic currency. Note that this RFX
+expression is calculated using the investor’s domestic currency (the EUR in this case) as the
+price currency in the P/B quote. This is different than the market-standard currency quotes in
+Exhibit 1, where the EUR is the base currency in each of these quotes. Therefore, for the
+foreign currency (USD, GBP, or CHF) to appreciate against the EUR, the market-standard quote
+(USD/EUR, GBP/EUR, or CHF/EUR, respectively) must decrease; i.e. the EUR must depreciate.The
+Euro-Swiss (CHF/EUR) is the only spot rate with a negative change (from 1.2175 to 1.2080),
+meaning the EUR depreciated against the CHF (the CHF/EUR rate decreased). Or put differently,
+the CHF appreciated against the EUR, adding to the EUR-denominated return for the German
+investor holding CHF-denominated assets. This would result in a higher domestic-currency return
+(RDC), for the German investor, relative to the foreign-currency return (RFC) for the CHF-
+denominated assets. Both the Euro-dollar (USD/EUR) and Euro-sterling (GBP/EUR) experienced a
+positive change in the spot rate, meaning the EUR appreciated against these two currencies (the
+USD/EUR rate and the GBP/EUR rate both increased). This would result in a lower domestic-
+currency return (RDC) for the German investor relative to the foreign-currency return (RFC) for
+the USD- and GBP-denominated assets.A is incorrect because the Euro-dollar (USD/EUR)
+experienced a positive change in the spot rate, meaning the EUR appreciated against the USD
+(the USD/EUR rate increased). This would result in a lower domestic-currency (i.e. EUR-
+denominated) return relative to the foreign-currency return for the USD-denominated assets,
+since the USD has depreciated against the EUR.B is incorrect because the Euro-sterling
+(GBP/EUR) experienced a positive change in the spot rate, meaning the EUR appreciated against
+the GPB (the GBP/EUR rate increased). This would result in a lower domestic-currency (i.e. EUR-
+denominated) return relative to the foreign-currency return for the GBP-denominated assets,
+since the GBP has depreciated against the EUR.
+ 
+23.【单项选择题】Based on Ostermann’s correlation forecast, the expected domestic-currency
+return (measured in EUR terms) on USD-denominated assets will most likely:
+A.increase.
+B.decrease.
+C.remain unchanged.
+参考答案：C
+【莽学解析】
+ 
+ 
+If the correlation increases from +0.50 to +0.80, then the variance of the expected domestic-
+currency return will increase—but this will not affect the level of the expected domestic-
+currency return (RDC). Refer to the equation shown for the answer in Question 1 and note that
+Ostermann’s expected RFC has not changed. (Once again, note as well that RFX is defined with
+the domestic currency as the price currency.) A and B are incorrect. An increase in the
+expected correlation between movements in the foreign-currency asset returns and movements in
+the spot rates from 0.50 to 0.80 would increase the domestic-currency return risk but would not
+impact the expected domestic-currency return.
+ 
+24.【单项选择题】Based on Ostermann’s views regarding active currency management, the
+percentage of currency exposure in her discretionary accounts that is hedged is most likely:
+A.0%
+B.50%
+C.100%
+参考答案：A
+【莽学解析】Guten believes that, due to efficient currency markets, there should not be any
+long-run gains for speculating (or active management) in currencies, especially after netting
+out management and transaction costs. Therefore, both currency hedging and actively trading
+currencies represent a cost to the portfolio with little prospect of consistently positive
+active returns. Given a long investment horizon and few immediate liquidity needs, Guten is
+most likely to choose to forgo currency hedging and its associated costs.
+B and C are incorrect because given a long investment horizon and little immediate liquidity
+needs, Guten is most likely to choose to forgo currency hedging and its associated costs. Guten
+believes that due to efficient currency markets there should not be any long-run gains when
+speculating in currencies, especially after netting out management and transaction costs.
+ 
+25.【单项选择题】The active currency management approach that Umlauf Management is least likely
+to employ is based on:
+A.volatility trading.
+B.technical analysis.
+C.economic fundamentals.
+参考答案：B
+【莽学解析】Umlauf develops a market view based on underlying fundamentals in exchange rates
+(an economic fundamental approach). When directed by clients, Umlauf uses options and a variety
+of trading strategies to unbundle all of the various risk factors and trades them separately (a
+volatility trading approach).A market technical approach would entail forming a market view
+based on technical analysis (i.e., a belief that historical prices incorporate all relevant
+information on future price movements and that such movements have a tendency to repeat).A is
+incorrect because, in using options and a variety of trading strategies to unbundle all of the
+various risk factors and trade them separately, Umlauf is likely to periodically employ
+volatility trading-based currency strategies.C is incorrect because, in developing a market
+view based on underlying fundamentals in exchange rates, Umlauf does utilize an economic
+fundamentals approach.
+ 
+26.【单项选择题】Based on Exhibit 2, the currency overlay program most appropriate for Braunt
+Pensionskasse would:
+A.be fully passive.
+B.allow limited directional views.
+C.actively manage foreign exchange as an asset class.
+参考答案：B
+【莽学解析】Braunt Pensionskasse provides the manager with limited discretion in managing the
+portfolio’s currency risk exposures.This would be most consistent with allowing the currency
+overlay manager to take directional views on future currency movements (within predefined
+bounds) where the currency overlay is limited to the currency exposures already in the foreign
+asset portfolio. It would not be appropriate to use a fully-passive hedging approach since it
+would eliminate any alpha from currency movements. Further, a currency overlay program, which
+considers “foreign exchange as an asset class”, would likely expose Braunt’s portfolio to
+more currency risk than desired given the given primary performance objectives.A is incorrect
+because a directional view currency overlay program is most appropriate given the limited
+discretion Braunt Pensionskasse has given the manager.A fully passive currency overlay program
+is more likely to be used when a client seeks to hedge all the currency risk.C is incorrect
+because a directional view currency overlay program is most appropriate given the limited
+discretion Braunt Pensionskasse has given the manager. In contrast, the concept of “foreign
+exchange as an asset class” allows the currency overlay manager to take currency exposure
+positions in any currency pair where there is value-added to be harvested.
+ 
+27.【单项选择题】Based on Exhibit 2, the client most likely to benefit from the introduction of
+an additional overlay manager is:
+A.Adele Kastner.
+B.Braunt Pensionskasse.
+C.Franz Trading GmbH.
+参考答案：C
+【莽学解析】The primary performance objective of Franz Trading GmbH is to add alpha to the
+portfolio, and thus has given the manager discretion in trading currencies. This is essentially
+a “foreign exchange as an asset class” approach.Braunt Pensionskasse and Kastner have more
+conservative currency strategies, and thus are less likely to benefit from the different
+strategies that a new overlay manager might employ.A is incorrect because Franz Trading GmbH is
+more likely to benefit from the introduction of an additional overlay manager. Kastner is more
+likely to have a fully passive currency overlay program.B is incorrect because Franz Trading
+GmbH is more likely to benefit from the introduction of an additional overlay manager. Braunt
+is more likely to have a currency overlay program where the manager takes a directional view on
+future currency movements.

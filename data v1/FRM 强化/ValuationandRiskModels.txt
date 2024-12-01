@@ -1,0 +1,1002 @@
+估值与风险模型
+单项选择题
+1.Jack, a graduate student at Mary Business School, attended a job interview for the position
+of fixed-income-security researcher. After the interview, the department manager replied that
+Jack lacked the basic knowledge of fixed-income securities. Jack recalled the conversation and
+found some of the following statements he said might be wrong.Statement 1: Debenture bonds have
+less risks than collateral trust bonds, since only high-rating companies can issue debenture
+bonds. Statement 2: Guaranteed bonds rank undoubtedly above collateral trust bonds, because
+collaterals may devaluate as time passes, while guarantor is almost sure to pay for the debts
+if the guarantee fails to pay.Statement 3: Bonds issued by highly creditworthy firms generally
+contain few covenants.Statement 4: Call provisions benefit bond issuers, while put provisions
+benefit bondholders.Which of these statement（　） is (are) wrong?
+A.Statement 1 and Statement 3
+B.Statement 1 and Statement 2
+C.Statement 2 and Statement 4
+D.Statement 3 and Statement 4
+参考答案：B
+【莽学解析】本题的考点为不同抵押类型债券的性质辨析。Statement 1: collateral trust bonds （抵押
+信托债券）是有金融资产作为抵押品的债券，当发生违约时，可以对抵押品进行清算从而获得违约的补偿。
+与 collateral trust bonds（担保信托债券）不同，Debenture bonds（无抵押债券）是没有抵押品的，因
+此面临的风险是高于抵押信托债券的。Statement 1是错误的。Statement 2: guaranteed bonds（担保债券
+）的担保效果和债券发行人与担保人之间的财务相关性息息相关，因为如果债券发行人和担保人之间的财务
+相关性比较大，那么发行人发生违约的时候，担保人的财务状况也表现很差，那么有可能这个时候担保人也
+没有能力履行担保职责从而偿付款项。反之，相关性越小担保效果越好。不能简单一味地认为提供担保的第
+三方就有能力履行担保职责。Statement 2是错误的。Statement 3: 债券契约中会有三类条款，规定发行人
+必须做到的积极条款（positive covenants），禁止某些行为的消极条款（negative covenants），还有维
+持财务指标的财务条款（financial covenants），一个公司信用质量越好，契约中所含的条款就会越少。
+Statement 3 是正确的。Statement 4: Call provisions（赎回条款）允许发行人在一定时间以一定价格赎
+回债券，这对发行人有利；而put provisions（回售条款）则让债券持有人有权在特定日期以预先确定的价
+格将债券卖回给发行人，这对债券持有人有利。Statement 4是正确的。因此，选项B正确。
+ 
+2.Emma is looking for the arbitrage opportunities in the Treasury Bond market. She has noticed
+two bonds in the market. Bond A is a 1-year zero-coupon bond, priced at USD 96.12; while Bond B
+is a 1-year coupon bond, priced at USD 105.20, which pays a 10% coupon semi-annually. What is
+the fair price of a 1-year Treasury bond, paying 8% coupon semi-annually?
+A.USD 97.94
+B.USD 100.23
+C.USD 102.35
+D.USD 103.38
+参考答案：D
+【莽学解析】
+ 
+ 
+3.The treasurer of a US company has entered into a fixed-for-fixed currency swap with a German
+counterparty. The treasurer expects to pay EUR 100,000 and receive USD 120,000 at the end of
+each year for the next 4 years. Concerned that interest rates in the US will decrease, the
+treasurer opens an account in a local bank that pays a guaranteed nominal rate of 3%,
+compounded monthly. If the treasurer makes four annual end-of-year deposits of USD 120,000
+each, what will the account balance be closest to at the end of the fourth year?
+A.USD 502,035
+B.USD 502,335
+C.USD 509,312
+D.USD 6,111,745
+参考答案：B
+【莽学解析】
+ 
+ 
+4.Musab, FRM, is a financial advisor of Golden Investment. He is referring two investment
+products to his client, Jia. The products’ features are described below:Investment A: the
+nominal rate of return is 8%, which is compounded monthly.Investment B: the nominal rate of
+return is 9%, which is compounded semi-annually.Jia’s investment decision is based on the
+equivalent annual rate of the investment product, so Musab calculates the equivalent annual
+rate with discrete compoundingfrequencies for both products. Which of the following is closest
+to the equivalent annual rate for product A and B respectively?
+A.Equivalent annual rate for product A: 7.97% Equivalent annual rate for product B: 8.80%
+B.Equivalent annual rate for product A: 8.30% Equivalent annual rate for product B:8.80%
+C.Equivalent annual rate for product A: 7.97% Equivalent annual rate for product B:9.20%
+D.Equivalent annual rate for product A: 8.30% Equivalent annual rate for product B:9.20%
+参考答案：D
+【莽学解析】
+ 
+ 
+5.Based on the information provided below, which of the following amounts are closest to the
+discount factors for 6 months and 1 year, respectively?
+A.d(0.5):0.9862 d(1.0):0.8860
+B.d(0.5):0.9653 d(1.0):0.8860
+C.d(0.5):0.9862 d(1.0):0.8760
+D.d(0.5):0.9653 d(1.0):0.8760
+参考答案：A
+【莽学解析】
+ 
+ 
+6.George, FRM, planned to validate the spot rates provided by the research department. He
+collected the related information about four highly liquid bonds in the market, shown in the
+table below.
+Assuming all these bonds are fairlypriced, which of the following are closest to the 1-year and
+1.5-year spot rates respectively using bootstrapping method?
+A.：2.2245% ：5.5668%
+B.：2.2245% ：5.7328%
+C.：3.5946% ：5.5668%
+D.：3.5946% ：6.2907%
+参考答案：C
+【莽学解析】
+ 
+7.Tony, the fixed income analyst of Neptune Fund, is analyzing the current interest term
+structure. The table below shows the forward rate list he obtained from the database.
+What should be the 1.5-year spot rate compounded semiannually from the list above?
+A.3.73%
+B.2.68%
+C.3.97%.
+D.5.32%
+参考答案：A
+【莽学解析】
+ 
+ 
+8.Oliver is a senior analyst in the fixed income department of Golden Investment. When
+analyzing the relationship between par rates and spot rates, he obtained the data from internal
+trading system, as shown in the following table:
+However, the spot rate for year 1.5 is omitted in the trading system. Oliver is considering
+deriving the spot rate from the par curve. Assuming the coupon is paid semi-annually, which of
+the following choiceis the most accurate estimate on spot rate for year 1.5?
+A.3.2000%
+B.3.2110%
+C.3.3212%
+D.3.1567%
+参考答案：B
+【莽学解析】
+ 
+ 
+9.Sunny is a manager of a hedge fund called Bright Futures, specializing in fixed income
+securities. One day, Bright Futures hosted a workshop and invited all the mid-level executives
+and management trainees. The workshop provided a platform for sharing ideas, and Sunny took
+some notes when others shared their opinions.Statement 1: Libor (London Interbank Offered Rate)
+is a secured borrowing rate between banks, which is quoted for several different currencies and
+for borrowing periods ranging from one day to one year.Statement 2: Libor is not an ideal
+benchmark because it is based on estimates that can be manipulated, while repo-based secured
+overnight financing rateis a better choice.Statement 3: The liquidity preference theory argues
+that forward rates should be equal to expected future spot rates.Statement 4: If there is no
+default and the yield keepsconstant, the bond price approaches par value as its time-to-
+maturity approaches zero.Which of these statement（　） is (are) wrong?
+A.Statement 1 and Statement 3
+B.Statement 2 and Statement 3
+C.Statement 1 and Statement 4
+D.Statement 2 and Statement 4
+参考答案：A
+【莽学解析】本题的考点为LIBOR、利率期限结构理论和回归面值效应（pull-to-par effect）。Statement
+1：LIBOR是一个报价利率，可以被操纵，是一个unsecured的利率。statement 1是错误的。Statement
+2：LIBOR 是一个报价利率，可以被操纵。美国提议采用repo-based secured overnight financing
+rate，也就是隔夜回购利率（SOFR），而英国和欧元区则提议分别采用英镑隔夜指数平均利率（SONIA）和欧
+元隔夜指数平均利率（EONIA）。Statement 2 是正确的。Statement 3：预期理论认为，利率期限结构反映
+了市场对未来利率的预期，远期利率应等于未来即期利率的预期值。Statement 3是错误的。Statement
+4：回归面值效应（pull-to-par effect）认为，如果没有违约且收益率保持不变的情况下，随着时间不断趋
+近到期日，债券价格不断趋近面值。Statement 4 是正确的。因此，选项A正确。
+ 
+10.Robert Rubin, former Treasury Secretary, decided to stop issuing 30-year Treasury bonds in
+2001 and to replace them by borrowing more with shorter-maturity Treasury bills and notes.
+Which of the following statements concerning this decision is most accurate?
+A.If the expectation theory of the term structure is correct, this decision will reduce the
+government's borrowing cost.
+B.If the liquidity preference theory of the term structure is correct, this decision will
+reduce the government's borrowing cost.
+C.If the liquidity preference theory of the term structure is correct, this decision will not
+change the government's borrowing cost.
+D.If the expectation theory of the term structure is correct, this decision will increase the
+government's borrowing cost.
+参考答案：B
+【莽学解析】本题的考点为对利率期限理论和预期理论的理解。如果预期理论是正确的，那么市场中的远期
+利率应当等于市场对未来即期利率的预期值，题目中没有提及到预期的问题，无法判断长期利率与短期利率
+的大小关系。因此，选项A和D与题意无关。如果流动性偏好理论是正确的，在流动性偏好理论下，贷款人偏
+好短期的产品，借款人偏好长期的产品。借贷双方难以达成交易。做市商为了撮合两方的需求，便调高长期
+利率，调低短期利率，这样贷款人便有动力选择更加长期的产品，而借款人也有动力选择期限更短的产品
+，因而最终利率期限结构成为向上倾斜的形状，即短期借款利率低于长期借款利率。所以，政府的借款从长
+期变为短期，成本将会下降。因此，选项C错误，选项B正确。
+ 
+11.A corporate bond paying a 6% coupon semi-annually with par value of $1,000 has 10 coupon
+payments before maturity. The market rate is currently at 5%. There are 90 days between
+settlement date and the next coupon payment date. Calculate the dirty price and the clean price
+of the bond, respectively.
+A.$1,043.76, $1,013.76.
+B.$1,043.76, $1,028.76.
+C.$1,056.73, $1,041.73.
+D.$1,069.70, $1,054.70.
+参考答案：C
+【莽学解析】
+ 
+ 
+12.Lucy is a senior investment adviser who works at Morning Star Securities. She notices that
+the spot rate curve is currently upward-sloping and expects the term structure won’t change
+too much in the future. There are two actively traded Treasury Bonds in the market, Bond A and
+Bond B. They have the same maturity, but Bond A has a higher coupon rate than Bond B. According
+to the information above, what conclusion can Lucy draw?
+A.Bond A has a higher YTM.
+B.Bond B has a higher YTM.
+C.Bond A and Bond B has the same YTM, because the difference in coupon rates has already
+reflected in their prices.
+D.Other information is still needed before drawing an approximate conclusion.
+参考答案：B
+【莽学解析】本题的考点为票息效应。根据票息效应，相同期限但不同票息的公平定价的债券的YTM是不同的
+。当即期利率曲线向上倾斜时，YTM与票息率呈现负相关。债券A的票息率高于债券B，债券A的YTM更小，债券
+B的YTM更大。因此，选项B正确。
+ 
+13.Lorenz, FRM, is a portfolio manager of Copper Investment. One day, Lorenz discussed the
+decomposition of P&L for a bond portfolio with a trader. They talked about a corporate bond
+with annual coupon rate of 6% and a time to maturity of 3 years. The bond has a spread of 60 bp
+currently. The forward rates are shown in the below table.
+Based on the scenario that forward rates are realized, which of the following is closest to the
+carry roll-down at the end of 1 year.
+A.-0.2602
+B.-1.2232
+C.4.2306
+D.5.7398
+参考答案：C
+【莽学解析】
+ 
+ 
+14.Clara is calculating the modified duration of a straightbond. The basic information of the
+bond is shown below:
+What is the modified duration of this bond?
+A.1.8415
+B.1.9520
+C.1.9545
+D.1.8439
+参考答案：A
+【莽学解析】
+ 
+ 
+15.A portfolio consists of two STRIPS: Bond A with a market value of USD 2million and Bond B
+with a market value of USD 3 million. The maturity of Bond A is 5 years, while the one of Bond
+B is 10 years. Assuming the yield to maturity (YTM) of the two bonds are both 6% (semiannually
+compounded), what is the DV01 of the portfolio?
+A.7.767
+B.3,774
+C.38,834
+D.3,883
+参考答案：D
+【莽学解析】
+ 
+ 
+16.Jerry, FRM, attended a lecture about fixed income securities a few weeks ago and took some
+notes in the lecture. When going over these notes today, he finds some writing mistakes due to
+absent-mindedness.I. A bond with higher coupon frequencyhas a lower duration.II. Assuming other
+factors remain unchnged, a higher coupon rate will decrease the duration of the bond.III.
+Higher YTM indicates higher duration.Which of the note（　） above is/are false?
+A.I, II, III
+B.III
+C.I, III
+D.II, III
+参考答案：B
+【莽学解析】
+ 
+ 
+17.Consider the following bonds:
+How would you rank the bonds from the shortest to the longest duration?
+A.5-2-1-4-3
+B.1-2-3-4-5
+C.5-4-3-1-2
+D.2-4-5-1-3
+参考答案：A
+【莽学解析】
+ 
+ 
+18.Terence, a Professor at HaWhite University, is taking a course in risk management. After
+introducing two concepts about “DVDZ (DV01 for zero rates)” and “Effective duration”, the
+students begin to be confused. Brandon,one of the students, raises his hand to ask a question:
+“Both concepts are used to measure the impact of the rate changes on the value of a position.
+What are their different application scenarios?” Terence give a very detailed explanation,
+which could be summarized as the following:Statement I: When the size of a position of the
+portfolio increases, both the effective duration and DVDZ will increase.Statement II:Abond
+investor is often interested in returns. A large percentage change can easily alert a bond
+investor. From this point of view, DV01 would be more useful than effective duration.Statement
+III: An investor’s portfolio has a DVDZ of $250. There isa5-year bond available for hedging.
+Assume that 5-year bonds with one million market value has DVDZ of 150 is available to hedge
+the investor’s portfolio, the USD value of the bond position for hedging is
+，Which one of Terence’s statements is (are) wrong?
+A.Statement I
+B.Statement II
+C.Statement I and II
+D.All of the above statements
+参考答案：D
+【莽学解析】
+ 
+ 
+19.Sam, a risk manager of Silver Fund, monitors a bond portfolio worth 50 million. The
+portfolio consists of three bonds (Bond A, Bond B, Bond C). The details of these three bonds
+are summarized in the table below. The current market condition is quite stable, and the
+assumption that YTM stays unchanged seems to be reasonable at the moment. But as a risk
+manager, Sam thinks further and more deeply. He wants to know the consequences if the yield
+changes unexpectedly and sharply. He asks his colleague, Jerry, to calculate the percentage of
+the portfolio price change if its yield drops by 100 bps.
+Based on the information above, if you were Jerry, what is your answer to Sam’s question?
+A.+10.2%
+B.+9.6%
+C.-10.2%
+D.-9.6%
+参考答案：A
+【莽学解析】
+ 
+ 
+20.Two colleagues are discussing the convexity of different bonds:Wendy’s opinion: when
+interest rate declines, putable bonds show higher convexity than the otherwise identical
+straight bonds (with the same coupon, maturity, issuer, credit rating, etc.).Jackson’s
+opinion: when interest rate declines, callable bonds show higher convexity than the otherwise
+identical straight bonds but tend to show negative convexity when interest rate rises.Which of
+the above statements is/are TRUE?
+A.Both of them
+B.Neither of them
+C.Wendy\u2019s
+D.Jackson\u2019s
+参考答案：B
+【莽学解析】本题的考点为利率下降时对可赎回债券和可回售债券的凸度影响。利率下降，可赎回债券
+(callable)呈现出负凸性；利率上升，可回售债券(putable)呈现出更高的凸性。Wendy的观点，认为利率下
+降时，可回售债券呈现出更高的凸性，错误。Jackson的观点，认为利率下降时，可赎回债券呈现出更高的凸
+性，利率上升，可赎回债券呈现出负凸性，更加错误。因此，选项B正确。
+ 
+21.Thomas is a professor of Finance. One day, he prepared a quick quiz about fixed income
+securities for his students.Statement I: Macaulay duration cannot be used for bonds with
+embedded options.Statement II: When interest rates decrease, the bond with larger convexity
+gains more.Statement III: The convexity of a barbell portfolio is lower than the one of a
+bullet portfolio, assuming these two portfolios have the same duration.Statement IV: DV01 is
+the money change in full price of a bond when its yield changes by 0.1%.Which of the above
+statements is (are) correct?
+A.I
+B.I, II
+C.I, II, III
+D.All
+参考答案：B
+【莽学解析】本题的考点为债券久期与凸度相关知识的概念辨析。陈述I:：收益率久期，诸如麦考利久期、
+修正久期和美元久期，都是不可用于含权债券久期的计算的，因此正确。陈述II：凸度的特点为“涨多跌少
+”，因此在利率下降时，凸度更大的债券获益更多。陈述III：有相同久期的债券，现金流越分散，其凸度越
+大，即杠铃式债券组合的凸度应大于子弹式债券组合，因此错误。陈述IV：DV01是指当利率变化1个bp，即
+0.01%时债券价值的变化额，因此错误。陈述I和陈述II均正确，因此，选项B正确。
+ 
+22.Jay, a risk consultant from Gloomberg Technology, is helping the company’s clients to
+better understand a new functionality of the software that his company sells. The functionality
+enables the clients to better monitor the risk from the unparalleled shift of the interest rate
+term structure. What type of risk metrics is least likely to be included in the new
+functionality?
+A.Key-rate 01\u2019s
+B.Forward-bucket 01\u2019s
+C.Key-rate duration
+D.DV01
+参考答案：D
+【莽学解析】本题的考点为利率曲线非平行移动的衡量测度。选项A中Key-rate 01’s表示当关键利率变动
+1个bp时债券价格的变动值。选项B中Forward-bucket 01’s表示远期利率期限结构中某一段远期利率变动1个
+bp时债券价格的变动值。选项C中Key-rate duration表示当关键利率发生变化时债券价格变动的百分比。选
+项D中DV01表示当利率曲线整体平行移动1个bp时债券价值的变动值。选项A,B,C中描述的久期都属于利率曲线
+非平行移动时的风险测度，选项D属于利率曲线平行移动的风险测度。因此，选项D正确。
+ 
+23.The following table gives the initial price of a bond portfolio and its present values after
+applyingkey rate 1-basis point shifts at 2, 5, 10, and 30 years.
+What isthe key rate’01 with respect to the 5-year shift?
+A.Key rate’01 equals 0.0035
+B.Key rate’01 equals 0.0410
+C.Key rate’01 equals 0.5408
+D.Key rate’01 equals 1.4570
+参考答案：C
+【莽学解析】
+ 
+ 
+24.Leo, FRM, is a risk manager of a hedge fund. He doubted the effectiveness of duration and
+convexity hedging strategies. Instead, he found that key rate hedging is a more practical one.
+His intern, Amy, showed him some materials about key rate hedging strategies that she gathered.
+Leo was pleased with the materials, but there are still some mistakes. Which one of them is
+incorrect?
+A.The analysis of key rate duration applies principal components analysis. Based on the PCA,
+the daily term structure movements observed are a linear combination of the factors, which are
+correlated.
+B.The first three factors account for the majority of the variation of the observed rate daily
+movements, which can be roughly seen as a parallel shift in the term structure, a steepening or
+flattening of the term structure, and a bowing of the term structure.
+C.Key rate shifts assume that the impact of the key rate shifts declines (or increases)
+linearly and reaches zero at the terms of the adjacent key rates.
+D.If 2-year, 7-year and 15-year are selected as the key rates, and the 7-year key rate rises
+one basis point, the 5-year rate will increase by 0.6 basis point.
+参考答案：A
+【莽学解析】
+ 
+ 
+25.Qi is planning on purchasing an apartment in the Tomson Riviera located in Pudong district.
+As a result of his limited deposit, he turns to a junior financial advisor for advice regarding
+the fixed rate residential mortgage. The prevailing market price of the apartment is CNY 16.119
+million and Qi is considering borrowing 65% of the amount for 30 years from ICBC. Assuming the
+fixed rate is 4.9% with monthly compounding, which of the followings is closest to the monthly
+payment of the mortgage?
+A.513,390
+B.85,544
+C.55,606
+D.75,563
+参考答案：C
+【莽学解析】
+ 
+ 
+26.A portfolio manager asks a junior risk analyst to analyze the prepayment risk of a pool of
+6% fixed-rate mortgages with a weighted average loan age of 60 months. The balance on the loans
+at the beginning of this month was USD 33 million, and the conditional prepayment rate is
+assumed to be constant at 5.5% per year. Which of the following is closest to the single
+monthly mortality rate?
+A.21.43%
+B.0.47%
+C.0.53%
+D.78.53%
+参考答案：B
+【莽学解析】
+ 
+ 
+27.Securitization is the process of transforming illiquid assets (bank loans) to more liquid
+assets (MBS). Securitization increase the liquidity of financial assets. Which of the following
+is right about securitization?
+A.MPS redistributes the cash flows from a mortgage pool to different tranches.
+B.CMO is the simplest form of agency MBSs, with all investors in a pool receiving the same
+return.
+C.As prepayments increase, IOs become less valuable.
+D.As prepayments increase, POs become less valuable.
+参考答案：C
+【莽学解析】本题的考点为MBS,MPS,IO,PO知识点的辨析。选项A中，CMO才对房贷池中的现金流进行了分层而
+不是MPS，因此错误。选项B中，MPS才是agency MBS中最简单的形式而不是CMO，因此错误。选项C中，当提前
+还款增加时，意味着未偿付的本金减少，则基于未偿付本金计算的利息也减少，IOs的价值会降低。选项D中
+，随着提前还款增加，PO可以提前收回现金流，价值更大而非更小，因此错误。因此，选项C正确。
+ 
+28.MBS is one of the most popular financial instruments in today’s world. Some comments about
+the MBS are shown below. Which one of them is incorrect?
+A.Unlike specific pools, TBA allows buyers and sellers to trade a certain kind of pool.
+B.Specific pools market is more liquid than the TBA market.
+C.Unlike repo, the dollar roll trader could be returned with different pools.
+D.Interest is added to price during a repo transaction, while it is not the case for a dollar
+roll transaction.
+参考答案：B
+【莽学解析】本题的考点为TBA,repo,specified pool等概念辨析。选项A中，specified pool最终交割是一
+个确定的资产池，而TBA可交割的一类资产池而非特定资产池，因此正确。选项B中，由于TBA市场是一个远期
+市场，可交割的资产池并不是特定的资产池而是符合条件的一类资产池，流动性比specified pool更好，因
+此错误。选项C中，repo是需要回购特定的资产池的，而dollar roll是基于TBA的，最终交割的可以是不一样
+的资产池，因此正确。选项D中，repo交易中收益率往往是在出售和回购价差中体现的，而dollar roll的收
+益并不只考虑价差，因此正确。选项A,C,D表述均正确，不符合题意，因此选项B为本题正确答案。
+ 
+29.Which of the following statements about FRA is wrong?
+A.If FRA rate is lower than future spot rate, the short position will receive payments.
+B.An FRA is usually settled at the beginning of the period covered by the FRA.
+C.The FRA can be used to lock the interest rate or hedge the risk of borrowing or lending at
+some future dates.
+D.Short positions in FRA can be viewed as the obligation to make a loan at the contract rate,
+and would benefit if reference rate decreases.
+参考答案：A
+【莽学解析】本题的考点为FRA相关性质的辨析。选项A中，FRA中的多头方可以看作未来将以一个固定的合约
+利率借入款项的债务人角色，在未来借款利率上升时可获利，空头为亏损的一方，需要支付款项给多头方
+，因此错误。选项B中，FRA的结算是在其所覆盖的借款期开始时就进行的，因此正确。选项C中，FRA可以确
+定未来的借款利率，对于borrower可以对冲利率上涨的风险，对于lender可以对冲利率下降的风险，因此正
+确。选项D中，FRA的空头方是未来将以一个固定的利率借出款项的一方，当利率下降时可以获利，因此正确
+。选项B,C,D表述均正确，不符合题意，因此选项A为本题正确答案。
+ 
+30.ABC, Inc., entered into a forward rate agreement (FRA) to receive a rate of 3.75% with
+continuous compounding on a principal of USD 1 million between the end of year 1 and the end of
+year 2. The zero rates are 3.25% and 3.50% for one and two years. What is the value of the FRA
+when the deal is just entered?
+A.USD 35,629
+B.USD 34,965
+C.USD 664
+D.USD 0
+参考答案：D
+【莽学解析】本题的考点为FRA的期初价值。对于FRA 而言，其期初价值为0。因此，选项D正确。
+ 
+31.Marina Capital is concerned about the impact of interest rate changes, so they entered into
+a forward rate agreement that is designed to ensure that they will receive a fixed rate of 5%
+and pay LIBOR on a principle of USD 100 million for a 3-month period starting in 2 months. If
+3-month LIBOR turns out to be 5.5%, what will be the payoff of Marina Capital after 2 months?
+A.USD 123,305
+B.USD 125,237
+C.-USD 123,305
+D.-USD 125,237
+参考答案：C
+【莽学解析】
+ 
+32.Consider a forward rate agreement (FRA) with the same maturity and compounding frequency as
+a Eurodollar futures contract. The underlying interest rate is LIBOR. Which of the following
+statements is true about the relationship between forward rate and futures rate?
+A.The forward rate is normally higher than the futures rate.
+B.They have no fixed relationship.
+C.The forward rate is normally lower than the futures rate.
+D.They should be exactly the same.
+参考答案：C
+【莽学解析】
+ 
+ 
+33.Nick and his colleague are quite worried about the uncertainty of the interest rates over
+the next months. Nick expects that the short-term rates will fall sharply in response to a
+government stimulus package, but his colleague Daisy disagrees with him. She expects interest
+rates rise during the next months. Finally, they decided to hedge their position by Eurodollar
+futures contracts. How many three-month Eurodollar futures contracts should Nick and Daisy
+short to hedge the six-month $20 million money market instrument?
+A.40 contracts
+B.80 contracts
+C.20 contracts
+D.100 contracts
+参考答案：A
+【莽学解析】
+ 
+34.Andrew, a portfolio manager of an asset management company, holds US Treasury bonds as much
+as USD 50 million. He is worried about the interest rate volatility in the next few months.
+Caroline, FRM, suggests that US Treasury bond futures can be used to hedge this risk. The
+current price for the futures contract is 96-16 and the duration is 4, while the current
+duration of the portfolio of 2.50. Assuming the durations of the futures and the portfolio
+remain constant throughout the hedging period, what is the most appropriate position to take in
+the futures contract?
+A.Short 325 contracts
+B.Short 829 contracts
+C.Short 324 contracts
+D.Long 324 contracts
+参考答案：C
+【莽学解析】
+ 
+ 
+35.For any portfolio P, let VaR (P, λ, t)denote its VaR, and ES (P, λ, t)denote its ES, with
+confidence level λ over a horizon of t days. Which of the following relationships is always
+true?
+A.ES (P, \u03bb, t) \u2264 VaR (P, \u03bb, t)
+B.VaR (P1 + P2, \u03bb, t) \u2264 VaR (P1, \u03bb, t) + VaR (P2, \u03bb, t)
+C.ES (3\u00d7P, \u03bb, t) = 3\u00d7ES (P, \u03bb, t)
+D.VaR (3\u00d7P, \u03bb, t) = 9\u00d7VaR (P, \u03bb, t)
+参考答案：C
+【莽学解析】本题的考点为满足一致性的风险测度指标。一个满足一致性的风险测度指标（a coherent risk
+measure）要满足下面四个条件：• Monotonicity（单调性）: 优质资产的风险不会比劣质资产的要大•
+Subadditivity（次可加性）: 组合的风险不会比部分风险加总大• Homogeneity（齐次性）: 成比例增加的
+头寸的风险等于原来头寸的风险成比例增加• Translational invariance（转移不变性）: 加了现金或其他
+无风险资产以后总头寸的风险会相较原来头寸的风险减少，减少的量恰好是其所增加的现金或无风险资产的
+数量。VaR不是一个一致性的风险测度指标，因为不满足次可加性，所以B和D选项错误。ES 是尾部损失的期
+望值，是满足一致性的风险测度指标，所以C选项正确，A选项错误。
+ 
+36.If the daily, 90% confidence level, value-at-risk (VaR) of a portfolio is correctly
+estimated to be USD 5,000, an investor would expect that in one out of ___ days, the portfolio
+value will decline by USD 5,000 or ____:
+A.ten, less.
+B.ninety, less.
+C.ten, more.
+D.ninety, more.
+参考答案：C
+【莽学解析】本题考点为VaR的定义。90%置信水平下的VaR是5,000美元，反映的是有90%的时间损失小于
+5,000美元，即10天中有9天的时间损失小于5,000美元，也就等价于10天中有1天的时间损失大于5,000美元。
+所以选择答案C。
+ 
+37.Rational Investment Inc. is estimating a daily VaR for its fixed income portfolio, which is
+currently valued at USD 800 million. Using daily returns of the last 400 days (in descending
+sort: from highest daily return to lowest daily return), the daily returns are the following:
+1.99%, 1.89% 1.88% 1.87% ……, -1.76%, -1.82%, -1.84%, -1.87%, -1.91%. At the 99% confidence
+level, what is your estimate of the daily VaR using the historical simulation method with equal
+weights?
+A.USD 14.08 million
+B.USD 14.56 million
+C.USD 14.72 million
+D.USD 15.04 million
+参考答案：B
+【莽学解析】本题考点为VaR的计算。根据历史400个数据，选择1%的分位点对应的损失，从最大的损失开始
+选择第四个损失值就是对应的百分比的一天内的VaR，也就是-1.82%，通过与组合价值800 million相乘，可
+以得到美元的VaR是14.56 million：。所以答案选择B选项。
+ 
+38.A risk manager is estimating the 1-day 95% VaR on a domestic equity portfolio using a 100-
+day lookback period. The return, estimated from the historical data, has a mean of 0% and a
+standard deviation of 2%. The six most extreme negative returns over the lookback period, along
+with the time they occurred, are:
+Over a period of 10 days after the risk manager computed the portfolio’s VaR, four new extreme
+declines occurred: -25%, -4.1%, -7.8% and -9.5%. On the other six days, the portfolio
+experienced positive returns. The risk manager must now update the previous VaR estimate to
+account for these changes. Assuming the portfolio has a current value of USD 100 million, what
+is the updated 1-day 95% VaR using the historical approach with equal weights?
+A.USD 3.28 million
+B.USD 4.70 million
+C.USD 10 million
+D.USD 25 million
+参考答案：B
+【莽学解析】本题的考点为VaR的计算。经过更新四个新的极端损失后，把损失从大到小排序可以得到：-
+25%，-9.5%，-7.8%，-6.3%，-4.7%，-4.1%。对应的是95%的一天的VaR值，总共数据100个，应该选择5%分位
+点，也就是第五个数字-4.7%作为VaR。再计算美元的VaR就是4.7% 100 = 4.7 million.
+ 
+39.A risk manager is measuring the VaR of a portfolio for a regional bank. The portfolio has a
+current market value of USD 10 million. The dailymean of return is0.25% and the daily variance
+is 0.05%. Assuming that the portfolio’s daily returns follow a normal distribution. The
+estimated 10-days 95% VaR is closet to:
+A.USD 224,000.
+B.USD 286,600.
+C.USD 342,800
+D.USD 914,700.
+参考答案：D
+【莽学解析】
+ 
+ 
+40.Jenny Michaelson, a risk manager of Value Fund, predicts that the market will suffer a
+significant change from bull to bear. Therefore, to control the risk she wants to measure the
+risk level of Value Fund now. She has two options to measure the risk, VaR and Expected
+shortfall. She could not decide which one to use or the ways to calculate the indicator. She
+consulted her supervisor about the following statements. Which statements are
+incorrect?Statement 1: VaR and Expected shortfall are both risk measures, so they both can
+measure the tail risk of the portfolio.Statement 2: Under this circumstance, she can use
+historical simulation to calculate VaR since historical simulation contains enough information
+about previous prices and correlations.Statement 3: Under this circumstance, she can use Monte
+Carlo simulation to calculate VaR since Monte Carlo simulation does not suffer model
+risk.Statement 4: If the portfolio contains options, she can use the delta normal approach
+without gamma correction to calculate accurate VaR.
+A.Statement 1, Statement 3, Statement 4
+B.Statement 2, Statement 3
+C.Statement 1, Statement 3, Statement 4
+D.All of the above four statements are incorrect.
+参考答案：D
+【莽学解析】Answer：D：本题主要考察VaR的计算方式以及VaR和Expected shortfall的对比。对于
+Statement 1：Expected shortfall描述尾部亏损，但是VaR只是某一分位点的亏损，并没有描述整体尾部的
+风险。而Statement I说的是VaR和Expected shortfall两个方法都均描述了尾部亏损。因此该描述错误。对
+于Statement 2：历史模拟法包含了过去的价格和相关性信息是正确的。但是这道题表明，市场要从牛市变换
+为熊市，因此未来和过去有很大的不同，不能简单的用过去来预测未来了，因此历史模拟法不再适用。因此
+该描述错误。对于Statement 3：根据题意，市场要从牛市变换为熊市，而蒙特卡洛模拟是可以调整风险因子
+的分布的，所以在这种情况下可以通过蒙特卡洛模拟来计算组合VaR值的。但是蒙特卡洛模拟需要先假定风险
+因子的分布模型，因此会存在模型风险。因此该描述错误。对于Statement 4：VaR期权属于非线性衍生工具
+，在用不带gamma修正的delta normal的方法计算VaR值会存在较大误差。因此该描述错误。综上所述，所有
+Statements都是错误的。因此选项D正确。
+ 
+41.A portfolio manager of an endowment wants to compare the VaR estimated from the delta-normal
+approach to the one estimated from the historical simulation method with equal weights. The
+€100,000,000 portfolio is restricted on using derivative securities. The daily return is
+expected to be 0.04%, with a daily standard deviation of 0.95%. The manager uses a 2% level of
+significance that has a z-value of 2.05. The manager also ranked the 250 daily returns of last
+year from the highest to the lowest. The lowest six returns are -0.0191, -0.0259, -0.0311, -
+0.0354, -0.0368, and -0.0384. What is the daily VaR using the delta-normal method compared to
+the historical simulation method?
+A.The delta-normal method estimate is the same as that of the historical simulation method.
+B.The delta-normal method estimated VaR is €910,000.
+C.The historical simulation method estimated VaR is €2,590,000.
+D.The historical simulation method estimated VaR is €3,680,000.
+参考答案：C
+【莽学解析】
+ 
+ 
+42.An investor is longing a short-term at-the-money put option on an underlying portfolio of
+equities with a notional value of USD 100,000. If the 95% VAR of the underlying portfolio is
+10.4%, which of the following statements about the VAR of the option position is correct when
+gamma effects are considered?
+A.The VaR of the option position is slightly more than USD 5,200.
+B.The VaR of the option position is slightly more than USD 10,400.
+C.The VaR of the option position is slightly less than USD 5,200.
+D.The VaR of the option position is slightly less than USD 10,400.
+参考答案：C
+【莽学解析】
+ 
+ 
+43.Galvin, the head of Risk Department in Bank of Arctic, is discussing the pros and cons of
+the bank’s current risk model with Jeff, the leader of the Quantitative Analytics Team in the
+department. Jeff has made the following statements:I. The assumption of normality for asset
+return is incorrect in whatever circumstances.II. The fat tail phenomena may be explained by
+conditionally normally distributed returns.III. To capture time-varying volatility, a regime-
+switching model always provides a better solution.Which of his statements is(are) correct?
+A.I and II
+B.II only
+C.I and III
+D.All
+参考答案：B
+【莽学解析】本题的考点为资产回报的分布。在条件分布的假设前提下，假设资产回报是服从正态分布是合
+理的，只是可能在不同时期对应的正态分布的参数不同（例如，危机的时候所用正态分布方差这个参数更大
+），这样的假设也很好的解释肥尾现象，所以I错误，II正确。去捕捉不同时期对应的波动率，机制转换
+（regime-switching）模型和缓慢变换（slow-changing）模型都是可选的，并不是机制转换模型一定更好。
+因此，答案选择B选项。
+ 
+44.Which of the following statements on historical simulation with equal weights to estimate
+VaR is (are) incorrect?I. It gives more weights to the more recent observations.II. For long-
+only portfolios, it is likely to underestimate the VaR if there is recently an increase in the
+volatility structure.III. It always ignores the presence of fat tails in the return
+distribution of many financial assets.IV. Because of the incorporation of delta approximation,
+it inadequately measures the risk of nonlinear instruments.
+A.I and II
+B.II only
+C.I, III and IV
+D.III and IV
+参考答案：C
+【莽学解析】本题的考点为等权重的历史模拟法。I错误，因为等权重历史模拟法赋予历史每一天的信息相同
+的权重。II正确，因为等权重历史模拟法对过去一段时间每天的信息赋予相同的权重，所以没有办法迅速反
+映出一个最新的波动率变化。所以对于一个波动率期限结构上升的情形，等权重历史模拟法估计出来的结果
+会低估真实的情况。III错误。历史模拟法是非参数法，利用了历史数据，肥尾的情况已经直接反应在历史数
+据中。由于没有假设分布，所以也就自然不会受到肥尾等因素的影响。IV历史模拟法不需要用的delta
+approximation，这句话描述历史模拟法本来就是错误的。所以答案选择C选项。
+ 
+45.Jaclynn, a risk analyst in JW Investment Associate, wanted to use the historical simulation
+(with declining weights) to estimate the daily 5% VaR of one of the portfolios managed by the
+company.She then gathered daily return for the past 100 days, ordered them in ascending order
+and create the following table using λ = 0.97
+Which of the following statements is incorrect?
+A.The missing data in cell A is close to 0.00468.
+B.The daily 5% VaR is somewhere between 0.07% and 0.15%.
+C.If only using historical simulation with equal weights, the estimated VaR would be greater
+than that estimated by the historical simulation with declining weights.
+D.As time goes further to the past, a small λ is likely to make the weights decline slower.
+参考答案：D
+【莽学解析】
+ 
+ 
+46.Despite the violation of subadditivity, VaR is still widely used to measure the risk. There
+are different ways of calculating VaR – historical simulation, delta normal approach, Monte
+Carlo simulation and so on. Which one of the following is correct?
+A.Historical simulation is a parametric method, using full revaluation to evaluate different
+scenarios.
+B.Although historical simulation uses historical data, it can still instantly reflect the new
+volatility and correlation.
+C.Delta normal approach is easy to use, and it gives accurate approximation of VaR of linear
+derivatives, non- linear derivatives, and even MBS or exotic options.
+D.Monte Carlo simulations can generate correlated scenarios and model the correlations among
+different risk factors based on a statistical distribution, and it can work for both linear and
+non-linear portfolio.
+参考答案：D
+【莽学解析】本题的考点为计算VaR的方法之间的差异。通过假设的分布，蒙特卡洛模拟可以生成不同的情景
+，并且可以反映风险因子之间的相关性，因此D选项正确。对于A选项，历史模拟法是一种非参数方法，我们
+并不需要估计参数从而确定分布，因此该选项错误。对于B选项，历史模拟法的缺点之一是不能很快反映市场
+当中的新信息，因此该选项错误。对于C选项，Delta normal approach容易使用，对于线性衍生品的VaR可以
+给出精确的结果，但当计算对象成为非线性衍生品、MBS、奇异期权时，其结果将会变得非常不可靠，因此该
+选项错误。 (1)
+ 
+47.A risk analyst hesitates to use EWMA or GARCH model in the risk control system and asks
+opinions from his manager, David Hine. David suggests that the estimated variance of the EWMA
+model consists of the squared return of the prior period and the estimated variance of the
+prior period; the weight assigned to the squared return decays at a speed of λ as the time
+lapses. David also says that the GARCH (1,1) model incorporates the mean reversion that the
+speed of reverting to the long-run variance goes up as the persistence factor(α+β) gets
+small. Is David’s opinion on the two models correct?
+A.Yes.
+B.No, because the estimated variance of the EWMA model consists of the squared return of the
+prior period, the variance of the prior period and the long-run variance.
+C.No, because the weight assigned to the squared return decays at a speed of 1-\u03bb as the
+time lapses.
+D.No, because the speed of the GARCH model reverting to the long-run variance goes up as the
+persistence factor (\u03b1+\u03b2) gets large.
+参考答案：A
+【莽学解析】本题考点为EWMA模型和GARCH (1,1)模型的辨析。David关于两个模型的描述均正确。EWMA模型
+在计算时包含了历史的回报的平方，并且离现在越久远的回报的平方权重以λ为指数递减。由于在模型中加
+入了长期方差，因此GARCH (1,1)模型具有均值复归水平。而且，+被称为Persistence Level，其数值大小与
+均值复归速度呈反向关系。因此，两个描述均正确。
+ 
+48.The parameters of a generalized autoregressive conditional heteroskedastic GARCH (1,1) model
+are ω= 0.000003, α= 0.04, and β= 0.92. If today’s daily volatility is 1% and today's stock
+market return is 2%, what is the new estimate of volatility using the GARCH (1,1) model, and
+what is the implied long-run volatility level?
+A.New estimate volatility:1.054% Implied Long-run volatility level:0.866%
+B.New estimate volatility:1.054% Implied Long-run volatility level:0.008%
+C.New estimate volatility:0.011% Implied Long-run volatility level:0.866%
+D.New estimate volatility:0.011% Implied Long-run volatility level:0.008%
+参考答案：A
+【莽学解析】
+ 
+ 
+49.A portfolio manager estimates the following GARCH (1,1) model based on the daily returns of
+a stock:
+The annualized rate of return of the stock is 15% and the annual risk-free rate is 5%. Assuming
+the daily volatility is independently identically distributed, if there are 250 trading days in
+a year and manager is using the long-term daily volatility from the GARCH (1,1) model, which of
+the following is closest to the annualized Sharpe ratio of the stock?
+A.0.19
+B.0.28
+C.0.48
+D.0.72
+参考答案：A
+【莽学解析】
+ 
+ 
+50.Suppose σtis the estimated variance at time t and μtis the realized return at t.
+WhichofthefollowingGARCH (1,1)modelswilltakethelongesttimetoreverttoits long-run
+volatilitymean?
+A.
+B.
+C.
+D.
+参考答案：B
+【莽学解析】本题的考点为GARCH (1,1)模型的运用。四个选项中模型的Persistence Level（α + β）分别
+为0.94、0.98、0.97、0.96。而Persistence Level最大的模型均值复归的速度最慢，因此B选项正确。
+ 
+51.Supposethatthecurrentdaily volatilitiesofassetXandassetYare1.0%and1.2%, respectively. The
+updated volatilities of asset X and asset Y are 1.27% and 1.26%, respectively.Yesterday,
+theclosingpricesof the assetswere$30and$50,whilethe currentcorrelation
+coefficientbetweenthereturnson the two
+assetsis0.50.CorrelationsandvolatilitiesareupdatedbyusinganEWMAmodel.Theestimateofthemodel'spar
+ameterisλ=0.94.Iftheclosingpricesof the two assets are $31 and $51today, what is the updated
+correlation estimate?
+A.0.53
+B.0.54
+C.0.56
+D.0.60
+参考答案：D
+【莽学解析】
+ 
+52.The closingprice of the FTSE 100 index was 6,480 yesterday,and the current daily volatility
+of the index return was estimated as 1.5%. Today, the closing price of FTSE 100 index decreases
+to 6,400. A risk manager models the distribution of the daily returns on the FTSE 100 index,
+assuming that the mean of daily return is 0% and the variance is given by the following GARCH
+(1,1) model:
+Which of the following is closest to the risk manager’s forecast of the next trading day’s
+confidence interval which is defined as 1-standard deviation around the expected value of the
+FTSE 100 index?
+A.[6,200;6,600]
+B.[6,250;6,450]
+C.[6,300;6,500]
+D.[6,359;6,450]
+参考答案：C
+【莽学解析】
+ 
+ 
+53.Yolanda, FRM is a risk manager of trading in Epic Investment Partnership. Yolanda demands
+her team that VaR should be included in daily risk reports. λ = 0.94 is used whenhistorical
+simulation withexponentially declining weights is applied. Whatistheweightassignedtothe
+scenarioseven days ago?
+A.4.68%
+B.4.40%
+C.4.14%
+D.3.89%
+参考答案：C
+【莽学解析】
+ 
+ 
+54.Fabrice Sapolsky is a portfolio manager in Golden Investment and is planning to update
+volatility of assets and the correlations among them in the portfolio due to the changes in the
+market environment. He makes two statements:Statement 1: TheGARCH (1,1) modelis a particular
+case of the EWMA model.Statement 2: The process of updating the correlations should be
+consistent which means if the valueis used to update covariance by the EWMAmodel, the same
+valueshould be appliedinEWMAmodeltoupdatevolatilities of assets.Which of the statements is/are
+correct?
+A.Statement 1
+B.Statement 2
+C.Both two statements
+D.Neither of the two statements
+参考答案：B
+【莽学解析】
+ 
+ 
+55.Gerald, Vice President from Quantitative Risk Analytics Team in Bank of Americo, was
+interviewing Zander, a recent graduate from Texas College, with regard to a risk analyst
+position in the team. In particular, Gerald wanted to test Zander’s understanding of internal
+and external ratings in a bank and what are their differences. Zander made the following
+statements:I:The internal rating systems should be built on several factors and should be back
+tested regularly.II: Two of the three major international external rating agencies are Moody’s
+and S&P. If a company is rated Baa3 by Moody’s and BBB+ by S&P, it is considered with similar
+default probability by the two agencies.III: Two approaches are often used in internal ratings
+– ‘at the point in time approach’ and ‘through the cycle’. And it is always better
+adopting the latter approach.Which of the above statements is(are) correct?
+A.Only I
+B.I and II
+C.I and III
+D.All of them
+参考答案：A
+【莽学解析】本题的考点为外部评级与内部评级的辨析。内部评级可以基于多个因子进行构建，而且需要定
+期回测进行校准。所以I正确。穆迪Baa3和标普BBB-（而不是BBB+）是同一级别的，所以II错误。时点评级法
+和跨周期评级法各有优劣，并不是跨周期评级法一定更好。所以III错误。
+ 
+56.Given the following 1-year ratings transition matrix, which of the following amounts is
+closest to the probability that an Aaa-rated firm will default over a 2-year period?
+A.0.00%.
+B.0.23%.
+C.0.50%.
+D.0.65%.
+参考答案：C
+【莽学解析】本题的考点为评级转移矩阵的使用。一个Aaa级债券在两年内发生违约的情况，与对应概率如下
+：Aaa→D=0%Aaa→Aaa→D:90%0%=0%Aaa→Baa→D:10%5%=0.5%Aaa→Caa→D:0%15%=0%P=0%+0%+0.5%+0%=0.5%因
+此选择C选项。
+ 
+57.A supervisor of the risk department in a multinational bank is thinking of testing several
+recent recruited summer interns on their understanding of internal credit ratings. He posted
+several statements as follows. If you were one of the interns, which statement would you assess
+as incorrect?
+A.The \u201cat-the-point-in-time\u201d approach assesses the credit quality of a firm over the
+coming months. It tries to provide current estimate of default risk.
+B.The \u201cthrough-the-cycle\u201d approach tries to capture the average creditworthiness over
+a period of several years.
+C.The \u201cat-the-point-in-time\u201d credit score\u2019s volatility is much higher than the
+\u201cthrough-the-cycle\u201d score\u2019s volatility.
+D.A sound internal system should not use \u201cthrough-the-cycle\u201d approach, because it is
+procyclical.
+参考答案：D
+【莽学解析】本题考点为时点评级法和跨周期评级法的辨析。时点评级法（而不是跨周期评级法）具有顺周
+期性。因此D选项错误，符合题意，选择D选项。时点评级法的特点是其关注短期内评级对象的信用状况，能
+够及时反映市场的新信息，因此A选项正确。跨周期评级法会采用一个长期的视角去评估评级对象的信用风险
+，因此B选项正确。在时点评级法下，由于评级结果时常随评级对象的信用状况变动而变动，因此评级结果波
+动性较大，C选项正确。
+ 
+58.Tip-Top, Inc., (Tip-Top) has a commitment with Super Size Bank for $10 million. The terms
+ofthe loan are fixed and cannot be changed over its life. If Tip-Top experienced anunexpected
+change in its credit rating from Ba to Baa, what is the most likely effect on expected loss and
+actual loss.
+A.Super Size Bank will increase the estimate of expected loss but not actual loss.
+B.Super Size Bank will increase both the estimate of expected loss and actual loss.
+C.Super Size Bank will decrease the estimate of expected loss but not actual loss.
+D.Super Size Bank will decrease the estimate of expected loss and increase its estimate of
+actual loss.
+参考答案：C
+【莽学解析】本题的考点为信用风险的产生原因。借款人信用评级从Ba上调至Baa将导致违约概率降低，从而
+降低预期损失。而公司并没有发生实质违约，因此实质损失不变。
+ 
+59.Bank regulators are examining the loan portfolio of a large diversified lender. The
+regulators' main concern is whether the bank can remain solvent during turbulent economic
+times. Which of the following is most likely the area on which the regulators will focus?
+A.Expected loss, since each loan asset can be expected, on average, to decline in value given a
+predetermined default probability.
+B.Expected loss, as which links to the decrease of underwriting standards for new loans.
+C.Unexpected loss, since it is crucial for the bank to set aside additional capital for the
+unlikely event, such as that the recovery rates are smaller than expected.
+D.Unexpected loss, since it is crucial for the bank to set aside additional capital for the
+unlikely event, such as that the loss given default is smaller than expected.
+参考答案：C
+【莽学解析】本题的考点为预期损失与非预期损失的辨析。监管机构主要担心的是该银行能否在经济动荡时
+期保持偿付能力,所以监管者更加关注于非预期损失。因此，A、B选项错误。在非预期损失发生前，比如发生
+的损失率比预期的损失率要大的情况之前，银行应当储备资本作为应对。因此D选项错误，而C选项正确。
+ 
+60.Tao, FRM, is a portfolio manager who manages a fixed income portfolio that invests primarily
+on European speculative-grade corporate bonds. In the team meeting, he states his belief that
+the volatility of the global credit market will sharply increase. In order to better understand
+the portfolio, he decides to calculate the expected loss and standard deviation of the credit
+loss assuming the same probability of default, loss given default, exposure and default
+correlation between loans for all loans. The portfolio contains 50 loans, each loan is €1
+million, the probability of default is 1% per year and the recovery rate is 0%. Which of the
+following sentences is false about the portfolio’s credit risk
+A.The expected loss of the portfolio is the sum of the expected loss of individual loan.
+B.The individual expected credit loss equals €10,000.
+C.If the default correlations between loans is above zero, the portfolio has no diversification
+benefit for credit risk.
+D.The standard deviation of the individual credit risk is €99,499.
+参考答案：C
+【莽学解析】
+ 
+ 
+61.Mark Shaw is a senior credit portfolio manager for an Australian money management firm. Due
+to the fluctuations of the market, Mark decided to review the credit quality of his portfolio.
+Based on the historical data, Mark estimated that the hazard rate of Calendar Manufactory is
+1.5% per year. What is the probability of default within next four years and what is the
+probability of default between years two and four for Calendar Manufactory?
+A.5.82%; 2.87%
+B.1.49%; 2.96%
+C.1.49%; 2.87%
+D.5.82%; 2.96%
+参考答案：A
+【莽学解析】
+ 
+ 
+62.Carl, a columnist for the magazine Country Risk, is considering hiring an assistant to help
+him with his daily work of writing. In particular, he wants someone with basic knowledge of
+country risk. He has designed some True/False statements for all the interviewees:I There is a
+more likelihood that countries default on their debts which is issued in local currency than in
+foreign currency.II In addition to credit rating, sovereign default spread is another way of
+assessing the country’s credit risk which is a less granular approach and can give much more
+volatile results than the former approach.Which of the above statements is(are) True?
+A.Only I
+B.Only II
+C.I and II
+D.Neither of the above.
+参考答案：D
+【莽学解析】本题的考点为国家信用风险I错，外币计价的国债相较于本币计价的国债而言更容易违约。II错
+，granular这个词原意为颗粒度的意思，这里说的是主权违约利差比起信用评级而言反映的信息更加细致
+，因为任何跟主权信用相关的信息都会迅速地反映在被交易的国家债券的利差当中，所以应该是more
+granular而不是less granular。
+ 
+63.Anna, FRM is an operational risk analyst in Golden Bank. She is reviewing the key concepts
+of advanced measurement approach (AMA). She has written down two statements regarding AMA:I:
+Since there may only have little historical data for the modeling of operational losses,
+external data could be directly used to supplement the analysis.II: Poisson distribution could
+be used to model loss severity and lognormal distribution could be used to model loss
+frequency.Which of the above statements is(are) True?
+A.Only I
+B.Only II
+C.I and II
+D.Neither of the above.
+参考答案：D
+【莽学解析】本题的考点为操作风险的度量。在使用高级计量法对操作风险进行建模分析时，银行的历史数
+据可能是不足够的，因此外部数据可作为数据补充的手段。但是在使用外部数据时，需要首先根据外部银行
+和本银行的收入规模差距，调整损失金额。因此I错误。在选择模型时，可使用泊松分布对损失频率进行建模
+，使用对数正态分布对损失的严重程度进行建模，II刚好错误地将两种分布的运用场景进行对换，因此II错
+误。最终应当选择D选项。
+ 
+64.Ming, a risk analyst for Evergrand Investment Advisor, is analyzing the annual reports of
+Bank of Huge (BoH), an international bank with business across major regions in the world. He
+gathered the past three-years of annual gross income data for BoH across different lines of
+business:
+Based on the table above, he makes several statements on the capital requirements on BoH’s
+operational risk:I. Using the Basic Indicator Approach (BIA), the operational risk capital
+requirements for BoH in 2019 is calculated as USD 265.8 billion.II. The operational risk
+capital requirements for BoH calculated based on Standardized Approach (SA) is less than that
+from the Basic Indicator Approach.III. BoH can choose to use the Advanced Measurement Approach
+(AMA) for its operational risk capital requirement calculation given its size and complexity of
+business. However, the loss severity and loss frequency would need to be modeled.Which of the
+above statement（　） is(are) true?
+A.I and III
+B.II and III
+C.Only I
+D.All of them
+参考答案：A
+【莽学解析】本题的考点为操作风险的度量模型的辨析。如果使用BIA模型，在没有出现毛利润为负的情况下
+，过去三年的平均毛利润乘以15%可以计算出资本的数额。在2018年: 毛利润= 380 + 712 + 846 = USD 1938
+billion。类似的，2017、2016年的毛利润分别为USD 1766 billion、USD 1612 billion。近三年的平均毛利
+润为 USD 1,772 billion。操作风险资本要求为1,772×15% =USD 265.8 billion. 因此I正确。如果使用
+SA模型，不同的业务条线的毛利润所乘的比例不同。零售银行业务、商业银行业务和销售交易的比例分别为
+12%、15%以及18%。2018: 0.12×380+0.15×712+0.18×846 = USD 304.68 billion2017:
+0.12×344+0.15×645+0.18×777 = USD 277.89 billion2016: 0.12×326+0.15×599+0.18×687 = USD
+252.63 billion操作风险资本的要求为:(304.68+277.89+252.63) / 3 = USD 278.4 billion。 SA模型计算
+出的结果要比BIA模型所计算的结果要更大。 因此II错误。如果使用AMA模型计算操作风险资本，需要对损失
+的发生频率和损失的严重程度进行建模，从而生成损失的分布。因此III正确。
+ 
+65.Jacky is a senior manager in risk management at the Moon Bank. He asked Lucy, a new risk
+analyst to conduct the stress test for the bank. He gave the stress test instructions left by
+the last leaving risk analyst to Lucy. Jacky summarized some of the key points in the guide.
+Which of the following statement is not correct?
+A.Bank should have sufficient liquid assets and capital to survive various adverse events.
+B.The reason why banks use reverse stress tests is to find events that could lead to the crash
+of the bank.
+C.Extreme events tend to have a moderate impact on the banking system, but there is a high
+probability that these events will happen.
+D.The time horizon for stress testing should be long enough for the full impact of scenarios to
+be evaluated, and very long scenarios can be necessary for some situations.
+参考答案：C
+【莽学解析】Answer: C：本题考点为压力测试（stress testing）的原理和压力测试的关键要素。对于选项
+A，压力测试是一种评估极端市场情形对银行影响的方法，该方法通过估计金融机构面临极端情景的表现，从
+而判断其是否有充足的资本金和流动性资产以抵御这些极端市场情形。所以，该选项描述正确，不符合题意
+，为错误选项。对于选项B，反向压力测试分析的是哪些极端情景导致了金融机构的失败。所以，该选项描述
+正确，不符合题意，为错误选项。对于选项C，极端事件往往会对银行系统产生严重的影响，虽然这些事件发
+生的可能性会很小。所以，该选项描述错误，符合题意，为正确选项。对于选项D，在压力测试的关键要素中
+，情景选择是关键的要素之一。情景选择第一步是确定一个合适的时间跨度。这个时间跨度要足够长，以评
+估情景的全面影响。常见的时间跨度为3个月到2年不等。有的可能会更长，长达几十年的时间跨度，例如一
+些养老金计划，或者保险公司。所以，该选项描述正确，不符合题意，为错误选项。因此，正确选项为C。

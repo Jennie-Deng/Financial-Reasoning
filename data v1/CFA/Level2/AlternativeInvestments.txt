@@ -1,0 +1,844 @@
+Alternative Investments
+共享题干题
+【题干】Tim Wang is a financial adviser specializing in commercial real estate investing. He is
+meeting with Mark Caudill, a new client who is looking to diversify his investment portfolio by
+adding real estate investments. Caudill has heard about various investment vehicles related to
+real estate from his friends and is seeking a more in-depth understanding of these investments
+from Wang.
+Wang begins the meeting by advising Caudill of the many options that are available when
+investing in real estate, including the following:
+Option 1 Direct ownership in real estateOption 2 Publicly traded real estate investment
+trustsOption 3 Publicly traded real estate operating companiesOption 4 Publicly-traded
+residential mortgage-backed securitiesWang next asks Caudill about his investment preferences.
+Caudill responds by telling Wang that he prefers to invest in equity securities that are highly
+liquid, provide high income, and are not subject to double taxation.
+Caudill asks Wang how the economic performance of REITs and REOCs is evaluated and how their
+shares are valued. Wang advises Caudill there are multiple measures of economic performance for
+REITs and REOCs, including the following:
+Measure 1 Net operating incomeMeasure 2 Funds from operationsMeasure 3 Adjusted funds from
+operationsIn response, Caudill asks Wang:
+“Which of the three measures is the best measure of a REIT’s current economic return to
+shareholders?”
+To help Caudill’s understanding of valuation, Wang presents Caudill with data on Baldwin, a
+health care REIT that primarily invests in independent and assisted senior housing communities
+in large cities across the United States. Selected financial data on Baldwin for the past two
+years are provided in Exhibit 1.
+Before the meeting, Wang had put together some valuation assumptions for Baldwin in
+anticipation of discussing valuation with Caudill. Wang explains the process of valuing a REIT
+share using discounted cash flow analysis, and he proceeds to estimate the value of Baldwin on
+a per-share basis using a two-step dividend discount model using the data provided in Exhibit
+2.
+ 
+ 
+1.【单项选择题】Based on Caudill’s investment preferences, the type of real estate investment
+Wang is most likely to recommend to Caudill is:
+A.Option 2
+B.Option 3
+C.Option 4
+参考答案：A
+【莽学解析】Option 2, publicly traded REITs, best satisfy Caudill’s investment preferences.
+REITs are equity investments that, in general, are income tax exempt at the corporate/trust
+level, so there is no double income taxation. To qualify for the income tax exemption, REITs
+are legally obligated to pay out a high percentage of income to their shareholders, and this
+typically results in relatively high income for investors. Lastly, public REITs are generally
+liquid as they are traded in stock exchanges.
+ 
+2.【单项选择题】Relative to Option 2 and Option 3, an advantage of investing in Option 1 is:
+A.greater liquidity.
+B.lower investment requirements.
+C.greater control over property level investment decisions.
+参考答案：C
+【莽学解析】Direct property ownership offers greater control over property level investment
+decisions in comparison to the level of control exhibited by shareholders in REITs and REOCs.
+ 
+3.【单项选择题】The Baldwin REIT is least likely to experience long-run negative effects from:
+A.An economic recession.
+B.An unfavorable change in population demographics.
+C.A major reduction in government funding of health care.
+参考答案：A
+【莽学解析】Baldwin, a health care REIT, is largely resistant to economic recessions but is
+exposed to changes in population demographics and changes in government funding for health
+care.
+ 
+4.【单项选择题】The most appropriate response to Caudill’s question is:
+A.Measure 1
+B.Measure 2
+C.Measure 3
+参考答案：C
+【莽学解析】Measure 3, adjusted funds from operations, is a refinement of FFO that is designed
+to be a more accurate measure of current economic income. In essence, FFO is adjusted to remove
+any non-cash rent and to include a provision for maintenance-type capital expenditures and
+leasing costs. Maintenance expenses are required for a business to continue as a going concern.
+ 
+5.【单项选择题】Based on Exhibit 1, the 2019 year-end share price of Baldwin was closest to:
+A.$13.23.
+B.$21.73.
+C.$30.36.
+参考答案：B
+【莽学解析】Baldwin’s FFO per share in 2019 was $1.89, and the resulting share price was
+$21.73. First, calculate FFO per share in 2019, and then apply the year-end P/FFO multiple of
+11.5x.
+FFO = accounting net earnings, excluding: (a) depreciation charges on real estate, (b) deferred
+tax charges, and (c) gains or losses from sales of property and debt restructuring.
+2019 accounting net income: $142,187
+2019 depreciation charges: $90,409
+2019 deferred tax charges: N/A
+2019 gains on sale of properties (other income): $2,162
+2019 shares outstanding = 121,944
+2019 year-end price/FFO = 11.5x
+2019 Baldwin’s FFO per share = ($142,187 + $90,409 – $2,162)/121,944 shares = $1.89. At the
+given 2019 year-end price/FFO multiple of 11.5x, this results in a share price for Baldwin of
+$1.89 × 11.5 = $21.73.
+ 
+6.【单项选择题】Based on Exhibit 2, the intrinsic value of the Baldwin REIT on a per share
+basis using the two-step dividend discount model is closest to:
+A.$26.72.
+B.$27.59.
+C.$28.83.
+参考答案：C
+【莽学解析】The estimated value per share for the Baldwin REIT using a two-step dividend
+discount model is $28.83, calculated as:
+ 
+【题干】Mary McNeil is the corporate treasurer at Farmhouse, which owns and operates several
+farms and ethanol production plants in the United States. McNeil's primary responsibility is
+risk management. Katrina Falk, a recently hired junior analyst at Farmhouse, works for McNeil
+in managing the risk of the firm's commodity price exposures. Farmhouse's risk management
+policy requires the use of futures to protect revenue from price volatility, regardless of
+forecasts of future prices, and prohibits risk managers from taking speculative
+positions.McNeil meets with Falk to discuss recent developments in two of Farmhouse's commodity
+markets, grains and livestock. McNeil asks Falk about key characteristics of the two markets
+that affect revenues and costs. Falk tells McNeil the following:Statement 1 The life cycle for
+livestock depends on the product and varies widely by product.Statement 2 Grains have uniform,
+well-defined seasons and growth cycles specific to geographic regions.A material portion of
+Farmhouse's revenue comes from livestock exports, and a major input cost is the cost of grains
+imported from outside the United States. Falk and McNeil next discuss three conclusions that
+Falk reached in an analysis of the grains and livestock markets:Conclusion 1 Assuming demand
+for grains remains constant, extreme heat in the regions from which we import our grains will
+result in a benefit to us in the form of lower grain prices.Conclusion 2 New tariffs on cattle
+introduced in our primary export markets will likely result in higher prices for our livestock
+products in our local market.Conclusion 3 Major improvements in freezing technology allowing
+for longer storage will let us better manage the volatility in the prices of our livestock
+products.McNeil asks Falk to gather spot and futures price data on live cattle, wheat, and
+soybeans, which are presented in Exhibit 1. Additionally, she observes that (1) the convenience
+yield of soybeans exceeds the costs of its direct storage and (2) commod-ity producers as a
+group are less interested in hedging in the forward market than commodity consumers are.
+A key input cost for Farmhouse in producing ethanol is natural gas. McNeil uses positions in
+natural gas (NG) futures contracts to manage the risk of natural gas price volatility. Three
+months ago, she entered into a long position in natural gas futures at a futures price of $2.93
+per million British thermal units (MMBtu). The current price of the same contract is $2.99.
+Exhibit 2 presents additional data about the three-month futures position.
+The futures position is fully collateralized with a 3% rate. McNeil decides to roll forward her
+current exposure in the natural gas position.Each month, McNeil reports the performance of the
+energy futures positions, including details on price returns, roll returns, and collateral
+returns, to the firm's executive committee. A new committee member is concerned about the
+negative roll returns on some of the positions. In a memo to McNeil, the committee member asks
+her to explain why she is not avoiding positions with negative roll returns.
+ 
+7.【单项选择题】With respect to its risk management policy, Farmhouse can be best described as:
+A.a trader.
+B.a hedger.
+C.an arbitrageur.
+参考答案：B
+【莽学解析】Hedgers trade in the futures markets to hedge their exposures related to the
+commodity, as stated in Farmhouse's risk management policy.
+ 
+8.【单项选择题】Which of Falk's statements regarding the characteristics of the grains and
+live-stock markets is correct?
+A.Only Statement 1
+B.Only Statement 2
+C.Both Statement 1 and Statement 2
+参考答案：C
+【莽学解析】The life cycle of livestock does vary widely by product. Grains have uniform, well-
+defined seasons and growth cycles specific to geographic regions. Therefore, both statements
+are correct.
+ 
+9.【单项选择题】Which of Falk's conclusions regarding commodity markets is correct?
+A.Conclusion 1
+B.Conclusion 2
+C.Conclusion 3
+参考答案：C
+【莽学解析】Commodity prices are affected by supply and demand, and improvements in freezing
+technology can improve the firm's ability to store its products for longer periods and manage
+the volatility of supply and demand. For example, during times of excess supply, a livestock
+producer, such as Farmhouse, can freeze its products and offer them during better market supply
+conditions.
+ 
+10.【单项选择题】Which commodity market in Exhibit 1 is currently in a state of contango?
+A.Wheat
+B.Soybeans
+C.Live cattle
+参考答案：B
+【莽学解析】The futures market for soybeans is in a state of contango because the spot price is
+lower than the futures price.
+ 
+11.【单项选择题】Based on Exhibit 1 and McNeil's two observations, the futures price of
+soybeans is most consistent with the:
+A.insurance theory.
+B.theory of storage.
+C.hedging pressure hypothesis.
+参考答案：C
+【莽学解析】In Exhibit 1, the spot price of soybeans is less than the futures price. This
+observation can be explained only by the hedging pressure hypothesis. According to this
+hypothesis, hedging pressure occurs when both producers and consumers seek to protect
+themselves from commodity market price volatility by entering into price hedges to stabilize
+their projected profits and cash flows. If consumers are more interested in hedging than
+producers are, the futures price will exceed the spot price.In contrast, the insurance theory
+predicts that the futures price has to be lower than the current spot price as a form of
+payment or remuneration to the speculator who takes on the price risk and provides price
+insurance to the commodity seller. Similarly, the theory of storage also predicts that when a
+commodity's convenience yield is greater than its direct storage costs, the futures price will
+be lower than the spot price.
+ 
+ 
+12.【单项选择题】Based on Exhibit 2, the total return from the long position in natural gas
+futures is closest to:
+A.1.46%.
+B.3.71%.
+C.4.14%.
+参考答案：A
+【莽学解析】The total return for a fully collateralized position is the sum of the price
+return, the roll return, and the collateral return:Price return = (Current price - Previous
+price)/Previous price = (2.99 - 2.93)/2.93 = 2.05%.Roll return = (Near-term futures closing
+price - Farther-term futures closing price)/Near-term futures closing price × Percentage of
+position in futures contract being rolled = [(2.99 – 3.03)/2.99] × 100% = –1.34%.Collateral
+return = Annual rate × Period length as a fraction of the year = 3% × 0.25 = 0.75%.Therefore,
+the total return for three months = 2.05% - 1.34%＋0.75% = 1.46%.
+ 
+ 
+13.【单项选择题】The most appropriate response to the new committee member's question is that:
+A.roll returns are negatively correlated with price returns.
+B.such roll returns are the result of futures markets in backwardation.
+C.such positions may outperform other positions that have positive roll returns.
+参考答案：C
+【莽学解析】Investment positions are evaluated on the basis of total return, and the roll
+return is part of the total return. Even though negative roll return negatively affects the
+total return, this effect could be more than offset by positive price and collateral returns.
+Therefore, it is possible that positions with negative roll returns outperform positions with
+positive roll returns, depending on the price and collateral returns.
+ 
+【题干】Amanda Rodriguez is an alternative investments analyst for a US investment management
+firm, Delphinus Brothers. Delphinus’ Chief Investment Officer, Michael Tang, has informed
+Rodriguez that he wants to reduce the amount invested in traditional asset classes and gain
+exposure to the real estate sector by acquiring commercial property in the United States.
+Rodriguez is to analyze potential commercial real estate investments for Delphinus Brothers.
+Selected data on three commercial real estate properties is presented in Exhibit 1.
+Rodriguez reviews the three properties with Tang, who indicates that he would like her to focus
+on Property #1 because of his prediction of robust job growth in New York City over the next
+ten years. To complete her analysis, Rodriquez assembles additional data on Property #1, which
+is presented in Exhibits 2, 3 and 4.
+ 
+As part of the review, Tang asks Rodriguez to evaluate financing alternatives to determine if
+it would be better to use debt financing or to make an all cash purchase. Tang directs
+Rodriguez to inquire about terms with Richmond Life Insurance Company, a publicly traded
+company, which is an active lender on commercial real estate property. Rodriquez obtains the
+following information from Richmond Life for a loan on Property #1: loan term of 5 years,
+interest rate of 5.75% interest-only, maximum loan to value of 75%, and minimum debt service
+coverage ratio of 1.5x.After reviewing her research materials, Rodriguez formulates the
+following two conclusions:Conclusion 1Benefits of private equity real estate investments
+include owners’ ability to attain diversification benefits, to earn current income, and to
+achieve tax benefits.Conclusion 2Risk factors of private equity real estate investments include
+business conditions, demographics, the cost of debt and equity capital, and financial leverage.
+ 
+14.【单项选择题】Which of the following is most likely accurate regarding Property 2 described
+in Exhibit 1?
+A.Operating expense risk is borne by the owner.
+B.The lease term for the largest tenant is greater than three years.
+C.There is a significant amount of percentage rent linked to sales levels.
+参考答案：B
+【莽学解析】The lease term for the anchor tenant is typically longer than the usual 3 to 5 year
+term for smaller tenants. The data in Exhibit 1 suggest that the operating expenses are passed
+on to the tenant; the sum of Property Management Fees and Other Operating Expenses equal the
+Expense Reimbursement Revenue. Also, Other Income is only $15,000 suggesting that there is a
+minimal amount of percentage rent linked to sales thresholds.
+ 
+15.【单项选择题】Based upon Exhibits 2, 3 and 4, which of the following statements is most
+accurate regarding the valuation of Property 1?
+A.The cost approach valuation is $71 million.
+B.The adjusted price psf for Sales Comp B is $423 psf.
+C.The terminal value at the end of year 5 in the income approach is $53,632,650.
+参考答案：C
+【莽学解析】The terminal value using the income approach is $53,632,650 (= Year 6 NOI/terminal
+cap rate = $3,217,959 / 0.06). The value of the property using the cost approach is $61,000,000
+(= Land Value + Building Replacement Cost – Total Depreciation = $7,000,000 + $59,000,000 –
+$5,000,000). The adjusted sales price per square foot for Sales Comp B is $462 psf (= $395 ×
+1.17).
+ 
+16.【单项选择题】Based on Exhibit 2, the growth rate of Property 1 is closest to:
+A.0.75%
+B.1.25%.
+C.2.00%.
+参考答案：C
+【莽学解析】There is a constant growth rate in income and value; growth rate = discount rate
+(7.25%) - going-in cap rate (5.25%) = 2.00%.
+ 
+17.【单项选择题】Based on Exhibit 2, the value of Property 1 using the discounted cash flow
+method is closest to:
+A.$48,650,100.
+B.$49,750,900.
+C.$55,150,300.
+参考答案：B
+【莽学解析】
+ 
+ 
+18.【单项选择题】Based on Exhibit 2, relative to the estimated value of Property 1 under the
+discounted cash flow method, the estimated value of Property 1 using the direct capitalization
+method is:
+A.the same.
+B.lower.
+C.higher.
+参考答案：C
+【莽学解析】The direct capitalization method estimate of value for Property #1 is $52,873,143
+(= Year 1 NOI/Going-in Cap Rate = $2,775,840/0.0525), which is greater than the estimated DCF
+value of $49,750,932.Value of Property #1 under the discounted cash flow method can be
+calculated from the following table:
+ 
+ 
+ 
+19.【单项选择题】Based upon Exhibits 1 and 3, the estimated value of Property 1 using the sales
+comparison approach (assigning equal weight to each comparable) is closest to:
+A.40,050,000.
+B.40,300,000.
+C.44,500,000.
+参考答案：C
+【莽学解析】
+ 
+ 
+20.【单项选择题】In the event that Delphinus purchases Property 2, the due diligence process
+would most likely require a review of:
+A.all tenant leases.
+B.tenant sales data.
+C.he grocery anchor lease.
+参考答案：C
+【莽学解析】The due diligence process includes a review of leases for major tenants which would
+include the grocery anchor tenant. Typically, only major tenant leases will be reviewed in the
+due diligence process, and smaller tenant leases will likely not be reviewed. Also, the fact
+that Other Income is only $15,000 suggests that percentage rent linked to sales levels is
+minimal and has not been underwritten in the valuation and acquisition process.
+ 
+21.【单项选择题】Compared with an all-cash purchase, a mortgage on Property 1 through Richmond
+Life would most likely result in Delphinus earning:
+A.a lower return on equity.
+B.a higher return on equity.
+C.the same return on equity.
+参考答案：B
+【莽学解析】Delphinus will expect to earn a higher return on equity with the use of a mortgage
+to finance a portion of the purchase. The quoted mortgage interest rate of 5.75% is less than
+the discount rate of 7.25%.
+ 
+22.【单项选择题】Assuming an appraised value of $48 million, Richmond Life Insurance Company’s
+maximum loan amount on Property 1 would be closest to:
+A.$32 million.
+B.$36 million.
+C.$45 million.
+参考答案：A
+【莽学解析】The maximum amount of debt that an investor can obtain on commercial real estate is
+usually limited by either the ratio of the loan to the appraised value of the property (loan to
+value or LTV) or the debt service coverage ratio (DSCR) depending on which measure results in
+the lowest loan amount. The maximum LTV is 75% of the appraised value of $48,000,000 or
+$36,000,000. The loan amount based on the minimum DSCR would be $32,183,652 determined as
+follows:Maximum debt service = Year 1 NOI/DSCR = $2,775,840/1.5 = $1,850,560 Loan amount
+(interest only loan) = maximum debt service/mortgage rate = $1,850,560/0.0575 = $32,183,652
+(rounded to $32,000,000).
+ 
+ 
+23.【单项选择题】Rodriguez’s Conclusion 1 is:
+A.correct.
+B.incorrect, because tax benefits do not apply to tax-exempt entities.
+C.incorrect, because private real estate is highly correlated to stocks.
+参考答案：A
+【莽学解析】Benefits of private equity real estate investments include owners' ability to
+attain diversification benefits, to earn current income, and to achieve tax benefits.
+ 
+24.【单项选择题】Rodriguez’s Conclusion 2 is:
+A.correct.
+B.incorrect, because inflation is not a risk factor.
+C.incorrect, because the cost of equity capital is not a risk factor.
+参考答案：A
+【莽学解析】Business conditions, demographics, the cost of debt and equity capital, and
+financial leverage are characteristic sources of risk for real estate investments.
+ 
+25.【单项选择题】Richmond Life Insurance Company’s potential investment would be most likely
+described as:
+A.private real estate debt.
+B.private real estate equity.
+C.publicly traded real estate debt.
+参考答案：A
+【莽学解析】Richmond Life’s investment would be a mortgage which falls under private debt on
+the four quadrants.
+ 
+【题干】Raffi Musicale is the portfolio manager for a defined benefit pension plan. He meets
+with Jenny Brown, market strategist with Menlo Bank, to discuss possible investment
+opportunities. The investment committee for the pension plan has recently approved expanding
+the plan's permitted asset mix to include alternative asset classes.Brown proposes the Apex
+Commodity Fund (Apex Fund) offered by Menlo Bank as a potentially suitable investment for the
+pension plan. The Apex Fund attempts to produce trading profits by capitalizing on the
+mispricing between the spot and futures prices of commodities. The fund has access to storage
+facilities, allowing it to take delivery of commodities when necessary. The Apex Fund's current
+asset allocation is presented in Exhibit 1.
+Brown explains that the Apex Fund has had historically low correlations with stocks and bonds,
+resulting in diversification benefits. Musicale asks Brown, “Can you identify a factor that
+affects the valuation of financial assets like stocks and bonds but does not affect the
+valuation of commodities?”Brown shares selected futures contract data for three markets in
+which the Apex Fund invests. The futures data are presented in Exhibit 2.
+Menlo Bank recently released a report on the coffee market. Brown shares the key conclusion
+from the report with Musicale: “The coffee market had a global harvest that was greater than
+expected. Despite the large harvest, coffee futures trading activity is balanced between
+producers and consumers. This balanced condition is not expected to change over the next
+year”Brown shows Musicale the total return of a recent trade executed by the Apex Fund. Brown
+explains that the Apex Fund took a fully collateralized long futures position in nearby soybean
+futures contracts at the quoted futures price of 865.0 (US cents/bushel). Three months later,
+the entire futures position was rolled when the near-term futures price was 877.0 and the
+farther-term futures price was 883.0. During the three-month period between the time that the
+initial long position was taken and the rolling of the contract, the collateral earned an
+annualized rate of 0.60%.Brown tells Musicale that the pension fund could alternatively gain
+long exposure to commodities using the swap market. Brown and Musicale analyze the performance
+of a long position in an S&P GSCI total return swap having monthly resets and a notional amount
+of $25 million. Selected data on the S&P GSCI are presented in Exhibit 3.
+ 
+ 
+26.【单项选择题】The Apex Fund is most likely to be characterized as:
+A.a hedger.
+B.a speculator.
+C.an arbitrageur.
+参考答案：C
+【莽学解析】Commodity arbitrage involves an ability to inventory physical commodities and the
+attempt to capitalize on mispricing between the commodity (along with related storage and
+financing costs) and the futures price. The Apex Fund has access to storage facilities and uses
+these facilities in the attempt to capitalize on mispricing opportunities.
+ 
+27.【单项选择题】Which factor would most likely affect the supply or demand of all four sectors
+of the Apex Fund?
+A.Weather
+B.Spoilage
+C.Government actions
+参考答案：C
+【莽学解析】Government actions can affect the supply or demand of all four sectors of the Apex
+Fund. With respect to energy, environmental mandates imposed by governments have tightened
+pollution standards, which have led to increasing processing costs that negatively affect
+demand. The supply of live stock, such as hogs and cattle, is affected by government-permitted
+use of drugs and growth hormones. Softs, or cash crops, can be affected by government actions,
+such as the attempt to maintain strategic stockpiles to control domestic prices. The level of
+demand and relative value of a precious metal, such as gold, is directly linked to government
+actions associated with managing to inflation targets.
+28.【单项选择题】The most appropriate response to Musicale’s question regarding the valuation
+factor is:
+A.storage costs.
+B.transportation costs.
+C.expected future cash flows.
+参考答案：C
+【莽学解析】Expected future cash flows affect the valuation of financial assets, such as stocks
+and bonds, but do not affect the valuation of commodities. Financial assets (stocks and bonds)
+are valued based on expected future cash flows. In contrast, the valuation of a commodity is
+based on a discounted forecast of a future commodity price, which incorporates storage and
+transportation costs.
+ 
+29.【单项选择题】Which futures market in Exhibit 2 is in backwardation?
+A.Gold
+B.Coffee
+C.Gasoline
+参考答案：C
+【莽学解析】When the near-term (i.e., closer to expiration) futures contract price is higher
+than the longer-term futures contract price, the futures market for the commodity is in
+backwardation. Because gasoline is the only one of the three futures markets in Exhibit 2 in
+which the near-term futures contract price ($1.2701) is higher than the longer-term contract
+price ($1.0307), the gasoline futures market is the only one in backwardation.
+ 
+30.【单项选择题】Based on the key conclusion from the Menlo Bank coffee market report, the
+shape of the coffee futures curve in Exhibit 2 is most consistent with the:
+A.insurance theory.
+B.theory of storage.
+C.hedging pressure hypothesis.
+参考答案：B
+【莽学解析】The theory of storage focuses on the level of commodity inventories and the state
+of supply and demand. A commodity that is regularly stored should have a higher price in the
+future (contango) to account for those storage costs. Because coffee is a commodity that
+requires storage, its higher future price is consistent with the theory of storage.
+ 
+31.【单项选择题】Based on Exhibit 2, which commodity’s roll returns will most likely be
+positive?
+A.Gold
+B.Coffee
+C.Gasoline
+参考答案：C
+【莽学解析】Roll returns are generally positive (negative) when the futures market is in
+backwardation (contango) and zero when the futures market is flat. Because the gasoline market
+is in backwardation, its roll returns will most likely be positive.
+ 
+32.【单项选择题】The Apex Fund’s three-month total return on the soybean futures trade is
+closest to:
+A.0.85%.
+B.1.30%.
+C.2.22%.
+参考答案：A
+【莽学解析】The total return on the trade represents the sum of three components: price return,
+roll return, and collateral return.Price return = (Current price - Previous price)/Previous
+price = (877.0 - 865.0)/865.0 = 1.387%.Roll return = [(Near-term futures contract closing price
+- Farther-term futures contract closing price)/Near-term futures contract closing price] x
+Percentage of the position in the futures contract being rolled.Because the entire position is
+being rolled, the percentage of the position in the futures contract being rolled is equal to
+100%. So:Roll return = [(877.0 - 883.0)/877.0] x 100% = -0.684%Collateral return = [3 months/12
+months] × 0.60% = 0.15%.Total return = 1.387% - 0.684% ＋ 0.15% = 0.853%.
+ 
+ 
+33.【单项选择题】Based on Exhibit 3, on the June settlement date, the party that is long the
+S&P GSCI total return swap will:
+A.owe a payment of $552,042.23.
+B.receive a payment of $1,502,621.33.
+C.receive a payment of $1,971,173.60.
+参考答案：A
+【莽学解析】The total return swap involves a monthly cash settlement (reset) based on the
+performance of the underlying reference asset (S&P GSCI) given a notional amount of $25
+million. If the level of the index increases between the two valuation dates (in this case, May
+and June), the long position (the swap buyer) receives payment. If the level of the index
+decreases between the two valuation dates, the swap seller receives payment.
+The return on the reference index for the month of June is [(2,525.21 - 2,582.23)/2,582.23],
+which is equivalent to -2.2082%. Therefore, the swap buyer (long position) must pay the swap
+seller a cash settlement for the month of June. The June payment calculation is equal to
+$25,000,000 × -2.2082%, or -$552,042.23.
+ 
+【题干】Jamal Nabli is a portfolio manager at NextWave Commodities (NWC), a commodity-based
+hedge fund located in the United States. NWC's strategy uses a fixed-weighting scheme to
+allocate exposure among 12 commodities, and it is benchmarked against the
+Thomson/Reuters/CoreCommodity CRB Index (TR/CC CRB). Nabli manages the energy and livestock
+sectors with the help of Sota Yamata, a junior analyst.Nabli and Yamata meet to discuss a
+variety of factors that affect commodity values in the two sectors they manage. Yamata tells
+Nabli the following:Statement 1 Storage costs are negatively related to futures
+prices.Statement 2 In contrast to stocks and bonds, most commodity investments are made by
+using derivatives.Statement 3 Commodities generate future cash flows beyond what can be
+realized through their purchase and sale.Nabli and Yamata then discuss potential new
+investments in the energy sector. They review Brent crude oil futures data, which are presented
+in Exhibit 1.
+Yamata presents his research related to the energy sector, which has the following
+conclusions:■ Consumers have been more concerned about prices than producers have.■ Energy is
+consumed on a real-time basis and requires minimal storage.After concluding the discussion of
+the energy sector, Nabli reviews the performance of NWC's long position in lean hog futures
+contracts. Nabli notes that the portfolio earned a –12% price return on the lean hog futures
+position last year and a –24% roll return after the contracts were rolled forward. The
+position was held with collateral equal to 100% of the position at a risk-free rate of 1.2% per
+year.Yamata asks Nabli to clarify how the state of the futures market affects roll returns.
+Nabli responds as follows:Statement 4 Roll returns are generally negative when a futures market
+is in contango.Statement 5 Roll returns are generally positive when a futures market is in
+backwardation.As part of their expansion into new markets, NWC is considering changing its
+benchmark index. Nabli investigates two indexes as a possible replacement. These indexes both
+use similar weighting and rebalancing schemes. Index A includes con-tracts of commodities
+typically in contango, whereas Index B includes contracts of commodities typically in
+backwardation. Nabli asks Yamata how the two indexes perform relative to each other in a market
+that is trending upward.Because of a substantial decline in drilling activity in the North Sea,
+Nabli believes the price of Brent crude oil will increase more than that of heavy crude oil.
+The actual price volatility of Brent crude oil has been lower than its expected volatility, and
+Nabli expects this trend to continue. Nabli also expects the level of the ICE Brent Index to
+increase from its current level. Nabli and Yamata discuss how to use swaps to take advantage of
+Nabli's expectations. The possible positions are (1) a basis swap long on Brent crude oil and
+short on heavy crude oil, (2) a long volatility swap on Brent crude oil, and (3) a short
+position in an excess return swap that is based on a fixed level (i.e., the current level) of
+the ICE Brent Index.
+ 
+34.【单项选择题】Which of Nabli's statements regarding the valuation and storage of commodities
+is correct?
+A.Statement 1
+B.Statement 2
+C.Statement 3
+参考答案：B
+【莽学解析】The most common way to invest in commodities is via derivatives, and commodities do
+not generate future cash flows beyond what can be realized through their purchase and sale.
+Also, storage costs are positively related to futures prices. Physical assets have to be
+stored, and storage incurs costs (rent, insurance, spoilage, etc.). Therefore, a commodity that
+is regularly stored should have a higher price in the future to account for those storage
+costs.
+ 
+35.【单项选择题】Based on Exhibit 1, Yamata should conclude that the:
+A.calendar spread for Brent crude oil is $3.97.
+B.Brent crude oil futures market is in backwardation.
+C.basis for the near-term Brent crude oil futures contract is $0.05 per barrel.
+参考答案：B
+【莽学解析】The Brent crude oil futures market is in a state of backwardation. Commodity
+futures markets are in a state of backwardation when the spot price is greater than the price
+of near-term (i.e., nearest-to-expiration) futures contracts and, correspondingly, the price of
+near-term futures contracts is greater than that of longer-term contracts. The calendar spread
+is the difference between the near-term futures contract price and the longer-term futures
+contract price, which is $73.64 – $73.59 = $0.05. The basis for the near-term Brent crude oil
+futures contract is the difference between the spot price and the near-term futures price:
+$77.56 – $73.59 = $3.97.
+ 
+36.【单项选择题】Based on Exhibit 1 and Yamata's research on the energy sector, the shape of
+the futures price curve for Brent crude oil is most consistent with the:
+A.insurance theory.
+B.theory of storage.
+C.hedging pressure hypothesis.
+参考答案：B
+【莽学解析】The Brent crude oil futures market is in a state of backwardation: The spot price
+is greater than the price of near-term (i.e., nearest-to-expiration) futures contracts.
+Commodities (in this case, Brent crude oil) are physical assets, not virtual assets, such as
+stocks and bonds. Physical assets have to be stored, and storage incurs costs (rent, insurance,
+inspections, spoilage, etc.). According to the theory of storage, a commodity that is consumed
+along a value chain that allows for just-in-time delivery and use (i.e., minimal inventories
+and storage) can avoid these costs. Yamata's research concluded that energy is consumed on a
+real-time basis and requires minimal storage. In this situation, demand dominates supply, and
+current prices are higher than futures prices (state of backwardation).
+ 
+37.【单项选择题】The total return (annualized excluding leverage) on the lean hog futures
+contract is:
+A.–37.2%.
+B.–36.0%.
+C.–34.8%.
+参考答案：C
+【莽学解析】The contract was held for one year, so the price return of –12% is an annualized
+figure. Additionally, the –24% roll return is also annualized. Nabli's collateral return
+equals 1.2% per year × 100% initial collateral investment = 1.2%. Therefore, the total return
+(annualized) is calculated as follows:Total return = Price return＋Roll return＋Collateral
+returnTotal return = -12%＋(-24%)＋1.26% = -34.8%.
+ 
+ 
+38.【单项选择题】Which of Nabli's statements about roll returns is correct?
+A.Only Statement 4
+B.Only Statement 5
+C.Both Statement 4 and Statement 5
+参考答案：C
+【莽学解析】Roll returns are generally negative (positive) when the futures market is in
+contango (backwardation) and zero when the futures market is flat.
+ 
+39.【单项选择题】The best response to Nabli's question about the relative performance of the
+two indexes is that Index B is most likely to exhibit returns that are:
+A.lower than those of Index A.
+B.the same as those of Index A.
+C.higher than those of index A.
+参考答案：C
+【莽学解析】Index B is likely to have higher performance than Index A in a market that is
+trending upward. Indexes that (perhaps inadvertently) contain contracts that more commonly
+trade in backwardation may improve forward-looking performance because this generates a
+positive roll return. Similarly, indexes that contain contracts that more commonly trade in
+contango may hurt performance for the same reason (i.e., negative roll return).
+ 
+40.【单项选择题】Given Nabli's expectations for crude oil, the most appropriate swap position
+is the:
+A.basis swap.
+B.volatility swap.
+C.excess return swap.
+参考答案：A
+【莽学解析】Nabli expects the price of Brent crude oil to increase more than that of heavy
+crude oil, and Nabli can take advantage of this prediction by entering into a basis swap that
+is long Brent crude oil and short heavy crude oil. Nabli should take a short (not long)
+position in a volatility swap to take advantage of his prediction that Brent crude oil's price
+volatility will be lower than its expected volatility. Nabli should take a long (not short)
+position in an excess return swap to take advantage of his expectation that the level of the
+ICE Brent Index will increase faster than leading oil benchmarks.
+ 
+【题干】Daniel Collin is a junior analyst at JRR Equity Partners, a private equity firm. Collin
+is assigned to work with Susan Tseng, a senior portfolio manager. Tseng and Collin meet to
+discuss existing and potential investments.Tseng starts the meeting with a discussion of LBO
+firms and VC firms. Collin tells Tseng,LBO firms tend to invest in companies with predicable
+cash flows and experienced management teams, whereas VC firms tend to invest in companies with
+high EBITDA or EBIT growth and where an exit is fairly predictable.Tseng and Collin next
+analyze a potential investment in the leveraged buyout of Stoneham Industries. Specifically,
+they assess the expected gain if they elect to purchase all the preference shares and 90% of
+the common equity in the LBO. Details of the LBO include the following:●The buyout requires an
+initial investment of $10 million.●Financing for the deal includes $6 million in debt, $3.6
+million in preference shares that promise a 15% annual return paid at exit, and $0.4 million in
+common equity.The expected exit value in six years is $15 million, with an estimated reduction
+in debt of $2.8 million over the six years prior to exit.Tseng and Collin next discuss JRR's
+investment in Venture Holdings, a private equity fund. Selected details on the Venture Holdings
+fund include the following:●Total committed capital is $115 million.●The distribution
+waterfall follows the deal-by-deal method, and carried interest is 20%.●On its first exit
+event a few years ago, the fund generated a $10 million profit.●At the end of the most recent
+year, cumulative paid-in capital was $98 million, cumulative distributions paid out to LPs were
+$28 million, and the year-end NAV, before and after distributions, was $170.52 million and
+$131.42 million, respectively.●Tseng and Collin estimate that the fund's NAV before
+distributions will be $242.32 million at the end of next year.Finally, Tseng and Collin
+evaluate two venture capital funds for potential investment: the Squire Fund and the Treble
+Fund. Both funds are in Year 7 of an estimated 10-year term. Selected data for the two funds
+are presented in Exhibit 1.
+After reviewing the performance data in Exhibit 1, Collin draws the following
+conclusions:Conclusion 1 The unrealized return on investment for the Squire Fund is greater
+than the unrealized return on investment for the Treble Fund.Conclusion 2 The TVPI for the
+Treble Fund is higher than the TVPI for the Squire Fund because the Treble Fund has a higher
+gross IRR.
+ 
+41.【单项选择题】Is Collin's statement about LBO firms and VC firms correct?
+A.Yes
+B.No, because he is wrong with respect to VC firms.
+C.No, because he is wrong with respect to LBO firms.
+参考答案：B
+【莽学解析】LBO firms generally invest in firms with a predictable cash flow pattern (EBITDA or
+EBIT growth) and experienced management teams. In contrast, venture capital firms tend to
+invest in new firms and new technologies with high revenue growth. Also, VC investments tend to
+be characterized as having exits that are difficult to anticipate.
+ 
+42.【单项选择题】The multiple of expected proceeds at exit to invested funds for JRR's Stoneham
+LBO investment is closest to:
+A.2.77x.
+B.2.89x.
+C.2.98x.
+参考答案：B
+【莽学解析】The investment exit value is $15 million. The expected payoff to JRR is calculated
+as (all amounts in millions):Expected exit value: $15.00Debt remaining at exit: ($6.0 - $2.8)
+=$3.20Preference shares: [$3.60 x (1.15) 6] =$8.33Common equity: ($15 exit -$3.2 debt - $8.33
+preference) =$3.47Initial investment: $3.6 (preference) + 0.9 x $0.4 (common) = $3.96Proceeds
+at exit: $8.33 (preference) + 0.9 x $3.47 (common) = $11.45Multiple of expected proceeds to
+invested funds: $11.45 exit value/$3.96 initial investment = 2.89x
+ 
+43.【单项选择题】The distribution available to the limited partners of the Venture Holdings
+fund from the first exit is closest to:
+A.$2 million.
+B.$8 million.
+C.$10 million.
+参考答案：B
+【莽学解析】The distribution waterfall for the Venture Holdings fund follows the deal-by-deal
+method. The investment generated a profit of $10 million, and with carried interest of 20%, the
+general partner would receive $2 million ($10 million x 20%), leaving $8 million for the
+limited partners.
+ 
+44.【单项选择题】At the end of the most recent year, the total value to paid-in capital (TVPI)
+ratio for the Venture Holdings fund was closest to:
+A.0.29x.
+B.1.34x.
+C.1.63x.
+参考答案：C
+【莽学解析】Total value to paid-in capital (TVPI) represents the fund’s distributed value and
+undistributed value as a proportion of the cumulative invested capital. TVPI is the sum of
+distributed to paid-in capital (DPI) and residual value to paid-in capital (RVPI):DPI
+=Cumulative distributions/ Cumulative invested capital =$28million/$98million=0.29xRVPI= NAV
+(after distributions)/Cumulative invested capital=$131.42 million/ $98million=1.34xTVPI = DPI+
+RVPI=1.63x
+ 
+ 
+45.【单项选择题】Based on Tseng and Collin's estimate of NAV next year, the estimate of carried
+interest next year is closest to:
+A.$14.36 million.
+B.$22.18 million.
+C.$25.46 million.
+参考答案：A
+【莽学解析】Provided that NAV before distribution exceeds committed capital, the general
+partner is entitled to carried interest, calculated as the given 20% multiplied by the increase
+in NAV before distributions. So, the carried interest is calculated as follows:Carried
+interest=20% x ($242.32-$170.52) =$14.36million
+ 
+ 
+46.【单项选择题】Which of Collin's conclusions regarding the Squire Fund and the Treble Fund is
+correct?
+A.Only Conclusion 1
+B.Only Conclusion 2
+C.Both Conclusion 1 and Conclusion 2
+参考答案：A
+【莽学解析】DPI provides an indication of a fund's realized return, whereas RVPI provides an
+indication of a fund's unrealized return. The Squire Fund has a higher RVPI (0.95) than the
+Treble Fund (0.51). TVPI, which is the sum of DPI and RVPI, is the same for both funds: 0.11 +
+0.95 = 1.06 for the Squire Fund, and 0.55 + 0.51 = 1.06 for the Treble Fund.
+ 
+【题干】Martha Brady is the CIO of the Upper Darby County (UDC) public employees’ pension
+system. Brady is considering an allocation of the pension system’s assets to private equity.
+She has asked two of her analysts, Jennifer Chau, CFA, and Matthew Hermansky, to provide more
+information about the workings of the private equity market.
+Brady recognizes that the private equity asset class covers a broad spectrum of equity
+investments that are not traded in public markets. She asks Chau to describe the major
+differences between assets within this asset class. Chau notes that private equity ranges from
+venture capital financing of early-stage companies to complete buyouts of large publicly traded
+or even privately held companies. Chau describes some of the characteristics of venture capital
+and buyout investments.
+Chau mentions that private equity firms take care to align the economic interests of the
+managers of the investments they control with their own. Various contractual clauses are
+inserted in the compensation contracts of the management team in order to reward or punish
+managers who meet or do not meet agreed-upon target objectives.
+One concern Chau highlights is the illiquidity of private equity investments over time. Some
+funds are returned to investors, however, over the life of the fund because a number of
+investment opportunities are exited early. Provisions in a fund’s prospectus describe the
+distribution of returns to investors, some of which favor the limited partners. One such
+provision is the distribution waterfall mechanism that provides distributions to limited
+partners (LPs) before the general partner (GP) receives the carried interest. This distribution
+mechanism is called the total return waterfall.
+Chau prepares the following data to illustrate the distribution waterfall mechanism and the
+funds provided to limited partners when a private equity fund with a zero hurdle rate exits
+from its first three projects during a three-year period.
+Chau cautions that investors must understand the terminology used to describe the performance
+of private equity funds. Interpretation of performance numbers should be made with the
+awareness that much of the fund assets are illiquid during a substantial part of the fund’s
+life. She provides the latest data in Exhibit 2 for the Alpha, Beta, and Gamma Funds,
+diversified high-technology venture capital funds formed five years ago, each with five years
+remaining to termination.
+Chau studies the data and comments, Of the three funds, the Alpha Fund has the best chance to
+outperform over the remaining life. First, it’s because the management has earned such a
+relatively high residual value on capital and will be able to earn a high return on the
+remaining funds called down. At termination, the RVPI will be double the 0.65 value when the
+rest of the funds are called down. Second, its cash-on-cash return as measured by DPI is
+already as high as that of the Beta Fund. The PIC (or paid-in capital) ratio indicates the
+proportion of capital already called by the GP. The PIC of Alpha is relatively low relative to
+Beta and Gamma.
+Hermansky notes that a private equity fund’s ability to properly plan and execute its exit
+from an investment is vital for the fund’s success. Venture funds, such as Alpha, Beta, and
+Gamma, take special care to plan their exits.
+Brady then asks the analysts what procedures private equity firms would use to value
+investments in their portfolios as well as investments that are added later. She is concerned
+about buying into a fund with existing assets that do not have public market prices that can be
+used to ascertain value. In such cases, she worries, what if a GP overvalues the assets and new
+investors in the fund pay more for the fund assets than they are worth?
+Hermansky makes three statements regarding the valuation methods used in private equity
+transactions during the early stages of selling a fund to investors.
+Statement 1: For venture capital investment in the early stages of analysis, emphasis is placed
+on the discounted cash flow approach to valuation.
+Statement 2: For buyout investments, income-based approaches are used frequently as a primary
+method of valuation.
+Statement 3: If a comparable group of companies exist, multiples of revenues or earnings are
+used frequently to derive a value for venture capital investments.
+ 
+47.【单项选择题】The characteristic that is most likely common to both the venture capital and
+buyout private equity investment is:
+A.measurable and assessable risk.
+B.the extensive use of financial leverage.
+C.the strength of the individual track record and ability of members of management.
+参考答案：C
+【莽学解析】Members of both the firm being bought out and the venture capital investment
+usually have strong individual management track records. Extensive financial leverage is common
+in buyouts but not venture capital investments, whereas measurable risk is more common in
+buyouts than in venture capital situations.
+ 
+48.【单项选择题】The contractual term enabling management of the private equity controlled
+company to be rewarded with increased equity ownership as a result of meeting performance
+targets is called:
+A.a ratchet.
+B.the tag-along right.
+C.the clawback provision.
+参考答案：A
+【莽学解析】A is correct.Ratchet是将股权在股东和PE标的公司的管理层之间的分配，它允许管理层基于
+业绩报酬来增加股权，因此A是正确选项。Tag-along是指如果有收购者想通过购买股权来收购标的公司，那
+么就必须买下所有股东手中的股份，包括管理层的股份，因此B是不正确的。Clawback provision是指盈利不
+佳时，GP把之前分配到的资金归还部分给LP，因此C也是不正确的。
+ 
+49.【单项选择题】For the projects described in Exhibit 1, under a deal-by-deal method with a
+clawback provision and true-up every three years, the cumulative dollar amount the GP receives
+by the end of the three years is equal to:
+A.1 million.
+B.2 million.
+C.3 million.
+参考答案：B
+【莽学解析】On a cumulative basis for three years, the fund earns $10 million, of which $2
+million goes to the GP. The $2 million earned by the GP corresponds to 20 percent of the
+difference between total three-year proceeds and three-year invested capital, or 0.2[(25 + 35 +
+65) - (20 + 45 + 50)].
+ 
+50.【单项选择题】Are Chau's two reasons for interpreting Alpha Fund as the best performing fund
+over the remaining life correct?
+A.No.
+B.Yes.
+C.The first reason is correct, but the second reason is incorrect.
+参考答案：A
+【莽学解析】Chau misinterprets DPI, RVPI, and PIC. The returns earned to date are for each
+dollar of invested capital, that which has been drawn down, not total returns. Chau mistakenly
+believes (assuming the same management skill) the result for Alpha Fund at termination will be
+on the order of 3 × 0.65 = 1.95 instead of 0.65. In both cases, Alpha Fund has underperformed
+relative to the other two funds.
+ 
+51.【单项选择题】The exit route for a venture capital investment is least likely to be in the
+form of a(n):
+A.initial public offering (IPO).
+B.sale to other venture funds targeting the same sector.
+C.buyout by the management of the venture investment.
+参考答案：C
+【莽学解析】Leverage needed to finance a management buyout is not readily available to firms
+with limited history.
+ 
+52.【单项选择题】Which statement by Hermansky is the least valid?
+A.Statement 1
+B.Statement 2
+C.Statement 3
+参考答案：A
+【莽学解析】Statement 1 is the least likely to be valid.本题可以直接选出A选项，因为VC的现金流是
+很难预测的，所以用现金流折现模型是最不切实际的。

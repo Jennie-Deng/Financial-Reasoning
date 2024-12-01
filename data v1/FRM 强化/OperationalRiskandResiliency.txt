@@ -1,0 +1,862 @@
+03-Operational Risk and Resiliency
+单项选择题
+1.You are a risk manager for a hedge fund. You are told that the TED spread increased sharply.
+Which of the following statements best describes the change in your situation?
+A.An increase in the TED\nspread indicates that the Federal Reserve will push interest rates
+up,
+B.An increase in the TED\nspread indicates a bigger gap between the fed funds rate and
+Treasurie
+C.An increase in the TED\nspread could indicate greater concerns about bank solvency, so that
+yo
+D.An increase in the TED\nspread could indicate more willingness of banks to lend since they
+get
+参考答案：C
+【莽学解析】Statement a. is not correct because a wider TED spread is consistentwith the Fed
+lowering rates. Statement b. is not correct because the fed fundsrate is for collateralized
+loans, whereas Eurodollar rates are foruncollateralized deposits. Statement d. is incorrect
+because a wider TED spreadmeans that the cost of bank borrowing goes up, not down.(2)
+ 
+2.You have been asked to review a memo on how market liquidity is affected by shocks to the
+financial system. Which of the following observations made in the memo is incorrect?
+A.In periods of acute market stress, market liquidity typically\nincreases in the most liquid
+markets,
+B.Evaporation of market liquidity is an important factor in\ndetermining whether and at what
+speed fin
+C.Market shocks may not be reflected in marked-to-market portfolio\nvalues immediately for
+portfolios
+D.The impact of a market shock on the liquidity of a specific asset\ndepends on the
+characteristics of
+参考答案：A
+【莽学解析】Answer b. is correct, as proved by the events of 2007. Answer c.correctly states
+that the prices of illiquid assets reflect a delayed reactionto events. Answer d. explains that
+asset liquidity depends on investorpositions, which is correct. An asset that is mainly owned
+by leveragedinvestors can experience a sharp swing in prices if the investors are forced
+tosell.(5)
+ 
+3.Your CRO asks you to prepare a list of early warning indicators for liquidity problems for
+your bank. Which of the following are early warning indicators of a potential liquidity
+problem? I. Rapid asset growth, especially when funded with potentially volatile liabilities
+II. Growing concentrations in assets or liabilities III. An increase of the weighted average
+maturity of liabilities IV. Reduction in the frequency of positions approaching or breaching
+internal or regulatory limits V. Narrowing debt or credit default swap spreads VI.
+Counterparties that request additional collateral for credit exposures VII. Increasing
+redemptions of CDs before maturity
+A.I, II, VI, and VII
+B.I, III, V, and VI
+C.II, IV, V, and VII
+D.I, V, VI, and VII
+参考答案：A
+【莽学解析】Statement I is correct; this is the northern rock story. Statement IIis also a
+problem because it means higher probability of either asset orfunding risk. Statement III is
+not a correct answer, because longer liabilitiesreduce the probability of a near-term funding
+problem. Statement IV is not acorrect answer, because this is market risk. Statement V is not a
+correctanswer, because a problem would arise from widening, not narrowing spreads. StatementVI
+is correct because collateral demands create a claim on liquidity. StatementVII is correct
+because this requires cash for repayment.(1)
+ 
+4.Which of these statements about economic and regulatory capital are valid? I. Regulatory
+capital seeks soundness and stability in the banking system by ensuring that there is enough
+capital in the banking system. II. Economic capital is designed to keep a financial institution
+solvent at a specified confidence level. III. For an individual bank, economic capital is
+always less than regulatory capital. IV. The determination of economic capital, and its
+allocation to the various business units, is a strategic decision process that affects the
+risk/return performance of the business units and the bank as a whole.
+A.II and IV only
+B.I, II, III, and IV
+C.I, II, and IV only
+D.I and IV only
+参考答案：C
+【莽学解析】All the statements are correct, except III, that economic capital mustalways be
+less than regulatory capital. This is too broad a statement. The twomeasures are not
+necessarily related, even though this is the goal of havingmore risk-sensitive capital
+requirements.(2)
+ 
+5.Tower Bank approaches economic capital and risk aggregation by first estimating the stand-
+alone economic capital for individual risk factors. In a second step, the bank aggregates risks
+based on the relative amounts of economic capital allocated to these risks, taking into account
+the correlations between risk factors. Which of the following variables is not a primary driver
+of the diversification benefit that accrues from aggregation?
+A.The number of risk positions
+B.The size of the portfolio
+C.The concentration of those risk positions, or their relative\nweights in a portfolio
+D.The correlation between the positions
+参考答案：B
+【莽学解析】A portfolio is generally more diversified when it has many positions,which are not
+too large, and with low correlations.  hence answer ACD involve driver ofdiversification. in
+contrast, risk measures are homogeneous with the size ofthe portfolio. Doubling all the
+positions will double the risk of theportfolio.(1)
+ 
+6.Consider a bank that wants to have an amount of capital so that it can absorb unexpected
+losses corresponding to a firm-wide VAR at the 1% level. It measures firm-wide VAR by adding up
+the VARs for market risk, operational risk, and credit risk. There is a risk that the bank has
+too little capital because
+A.It does not take into account the correlations among risks.
+B.It ignores risks that are\nnot market, operational, or credit risks.
+C.It mistakenly uses VAR to\nmeasure operational risk because operational risks that matter are
+D.It is meaningless to add VARs.
+参考答案：B
+【莽学解析】VAR can be added across different types of risk, but this will providea
+conservative estimate of capital as diversification effects are ignored. Soanswer a. would be
+for too much capital. Answer c. is not correct because rareevents can be factored into
+operational VAR. Most likely, the bank may have toolittle capital for other types of risk than
+those measured by these threecategories.(1)
+ 
+7.Counterparty A is an American company with manufacturing operations in Indonesia and its main
+customers in the United States, while counterparty B is an American company that manufactures
+its goods domestically and exports solely to Indonesia. Which one of the following transactions
+with either counterparty will be a wrong-way exposure for a bank?
+A.A five-year plain-vanilla IDR\/USD cross-currency swap between the bank\nand counterparty A
+where the
+B.A five-year plain-vanilla IDR\/USD currency option sold by the bank\nto counterparty A for it
+to buy
+C.A five-year plain-vanilla IDR\/USD cross-currency swap between the bank\nand counterparty B
+where the
+D.A five-year plain-vanilla IDR\/USD currency option bought by the\nbank from counterparty B
+for the ba
+参考答案：C
+【莽学解析】This is an example of a wrong-way exposure, where a gain on theinstrument for the
+bank is associated with a higher PD for its counterparty. Ifthe IDR depreciates, company A will
+make a profit because its costs will godown in dollars. Conversely for company B, because its
+dollar revenues willdecrease. Under c., the company pays USD and receives IDR. This
+transactionwill create a loss if the IDR depreciates. In this situation, company B will
+losemoney as well on its exports. Hence, this is a wrong-way trade.(5)
+ 
+8.Your bank calculates a one-day 95% VAR for market risk, a one-year 99% VAR for operational
+risk, and a one-year 99% VAR for credit risk. The measures are $100 million, $500 million, and
+$1 billion, respectively. Operational risk is defined to include all risks that are not market
+risks and credit risks, and these three categories are mutually uncorrelated. The market risk
+VAR assumes normally distributed returns, and the bank expects to be successful to keep its
+market risk VAR at that level for the whole year. Your boss wants your best estimate of a firm-
+wide VAR at the 1% level. Among the following choices, your best estimate is:
+A.$1.7 billion
+B.$1.94 billion
+C.$2.50 billion
+D.It is impossible to\naggregate risks with different distributions having only this
+information
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+ 
+9.Which of the following is not a proper practice of risk management and control for a
+financial institution with assets in excess of $100 million?
+A.A firm’s sole mechanism to monitor the implementation of the\ncontrol policies defined by
+the board
+B.A subcommittee of the board is responsible for the approval of risk\nlimits, risk management
+policie
+C.Senior management is responsible for the day-to-day oversight of\nthe firm’s activities,
+implementin
+D.Senior management is responsible for establishing written\ndocumentation about control
+procedures at
+参考答案：A
+【莽学解析】Control policies also need to be verified by an internal auditfunction.(0)
+ 
+10.The following is not a problem of having one employee perform trading functions and back-
+office functions.
+A.The employee gets paid more\nbecause she performs two functions.
+B.The employee can hide\ntrading mistakes when processing the trades.
+C.The employee can hide the\nsize of her book.
+D.The employee’s firm may not\nknow its true exposure.
+参考答案：A
+【莽学解析】Answers b., c., and d. all can lead to a situation where the traderloses money and
+hides the losses. Answer a. is not a problem.(0)
+ 
+11.The CEO of a regional bank understands that failing to anticipate cash flow needs is one of
+the most serious errors that a firm can make and demands that a good liquidity-at-risk (LaR)
+measurement system be an essential part of the bank's risk management framework. Which of the
+following statements concerning LaR is correct?
+A.Reducing the basis risk through hedging decreases LaR.
+B.Hedging using futures has the same impact on LaR as\nhedging using long option positions.
+C.For a hedged portfolio, the LaR can differ\nsignificantly from the VaR.
+D.A firm's LaR tends to decrease as its credit quality\ndeclines.
+参考答案：C
+【莽学解析】The LaR can differ substantially from the VaR in a hedgedportfolio, and in
+different situations can be larger or smaller than the VaR.For example, consider a portfolio
+where futures contracts are used tohedge.  While the hedge can reduce theVaR of the portfolio,
+the LaR can be larger than the VaR as the futurescontracts create an exposure to margin calls
+and the potential for cashoutflows. Alternatively, in situations where the hedging instruments
+do notresult in potential cash outflows over the measurement period (e.g. a portfolioof
+European options which do not expire during the period), the LaR can besmaller than the VaR.(1)
+ 
+12.Nordlandia is a country with a developed economy maintaining its own currency, the
+Nordlandian crown (NLC), and whose most important export is domestically produced oil and
+natural gas. In a recent stress test of Nordlandia's banking system, several scenarios were
+considered. Which of the following is most consistent with being part of a coherent scenario?
+A.An increase in domestic inflation and appreciation of\nthe NLC
+B.A significant increase in crude oil prices and a\ndecrease in the Nordlandian housing price
+index
+C.A drop in crude oil prices and appreciation of the NLC
+D.A sustained decrease in natural gas prices and a\ndecrease in the Nordlandian stock index
+参考答案：D
+【莽学解析】A scenario is coherent when a change in one factorinfluences other factors in a
+logical manner. In this case, choice d is a coherent scenario since the Nordlandianeconomy
+depends heavily on exports of oil and natural gas, so therefore asustained decrease in natural
+gas prices should lead to a decrease in stockprices as the domestic economy weakens. In stress
+testing banks, it is oftenchallenging to develop scenarios where all factors behave
+coherently.(1)
+ 
+13.The CFO at a bank is preparing a report to the board of directors on its compliance with
+Basel requirements.  The bank's average capital and total exposure for the most recent quarter
+is as follows: 
+ 
+ 
+ Using the Basel III framework, which of the following is the best estimate of the bank’s
+current leverage ratio?
+A.2.94%
+B.3.70%
+C.4.68%
+D.5.08%
+参考答案：B
+【莽学解析】For Basel III purposes, the leverage ratio is Tier 1Capital / Total Exposure = 136
+/ 3,678= 3.70%.(1)
+ 
+14.In the latest guidelines for computing capital for incremental risk in the trading book, the
+incremental risk charge (IRC) addresses a number of perceived shortcomings in the 99 %/10-day
+VAR framework. Which of the following statements about the IRC are correct? I. For all IRC-
+covered positions, the IRC model must measure losses due to default and migration over a one-
+year horizon at a 99% confidence level. II. A bank can incorporate into its IRC model any
+securitization positions that hedge underlying credit instruments held in the trading account.
+III. A bank must calculate the IRC measure at least weekly, or more frequently as directed by
+its supervisor. IV. The incremental risk capital charge is the maximum of (1) the average of
+the IRC measures over 12 weeks and (2) the most recent IRC measure. In the latest guidelines
+for computing capital for incremental risk in the trading book, the incremental risk charge
+(IRC) addresses a number of perceived shortcomings in the 99 %/10-day VAR framework. Which of
+the following statements about the IRC are correct? I. For all IRC-covered positions, the IRC
+model must measure losses due to default and migration over a one-year horizon at a 99%
+confidence level. II. A bank can incorporate into its IRC model any securitization positions
+that hedge underlying credit instruments held in the trading account. III. A bank must
+calculate the IRC measure at least weekly, or more frequently as directed by its supervisor.
+IV. The incremental risk capital charge is the maximum of (1) the average of the IRC measures
+over 12 weeks and (2) the most recent IRC measure.
+A.I and II
+B.III and IV
+C.I, II, and III
+D.II, III, and IV
+参考答案：B
+【莽学解析】Statement I. is incorrect because the confidence level is99.9%. Statement II. Is
+incorrect because securitizations are subject to thebanking book capital requirements. The
+others two statements are correct.(2)
+ 
+15.All the following are operational risk loss events, except:
+A.An individual shows up at a\nbranch presenting a check written by a customer for an amount
+sub
+B.A bank, acting as a trustee\nfor a loan pool, receives less than the projected funds due to
+C.layed repayment of certain loans.
+D.During an adverse market\nmovement, the computer network system becomes overwhelmed, and only
+参考答案：B
+【莽学解析】Statement a. represents external fraud, which is included inoperational risk.
+Statement c. represents a systems failure. Statement d. is afailure in internal processes.(1)
+ 
+16.Randy Bartell has collected operational loss data to calibrate frequency and severity
+distributions. Generally, he regards all data points as a sample from an underlying
+distribution and therefore gives each data point the same weight or probability in the
+statistical analysis. However, external loss data is inherently biased. Which of the following
+is not typically associated with external data?
+A.Data capture bias
+B.Scale bias
+C.Truncation bias
+D.Survivorship bias
+参考答案：D
+【莽学解析】Internal data certainly has a problem of survivorship bias because abank where
+employees compute the operational risk distribution is still alive.This precludes a history of
+large, deadly losses.(1)
+ 
+17.Which of the following statements are valid about hedging operational risk? I. A primary
+disadvantage of insurance as an operational risk management tool is the limitation of policy
+coverage. II. If an operational risk hedge works properly, a firm will avoid damage to its
+reputation from a high-severity operational risk event. III. While all insurance contracts
+suffer from the problem of moral hazard, deductibles help reduce this problem. IV. Catastrophe
+(cat) bonds allow a firm to hedge operational risks associated with natural disasters.
+A.I, III, and IV only
+B.I, II, and IV only
+C.II and III only
+D.III and IV only
+参考答案：A
+【莽学解析】All the statements are valid, except for II. Even if a firm implementsa hedge or
+purchases insurance, the news of a large operational loss will stilldamage its reputation.(3)
+ 
+18.The following statements concern differences between market and operational risk VAR models.
+Which of the following statements is false?
+A.Market risk models are\nprimarily driven by historical data, whereas operational risk models
+a
+B.Market risk models typically\ndefine VAR as a specific quantile of the loss distribution,
+wher
+C.Backtesting is generally a\nmore useful form of validation for market risk models than for
+ope
+D.The time horizon over which VAR is evaluated differs between market\nand operational risk
+models.
+参考答案：B
+【莽学解析】Statement a. is true because operational risk models often relyheavily on scenario
+analysis. Backtesting is more difficult for operationalrisk models, so c. is true. VAR is
+usually evaluated over shorter horizons, sod. is true. Statement b. is false because both
+market and operational riskmodels use a quantile of the distribution.(3)
+ 
+19.Which of the following statements about its methodology for calculating an operational risk
+capital charge in Basel II is correct?
+A.Basic indicator approach is suitable for institutions with\nsophisticated operational risk
+profile.
+B.Under the standardized approach, capital requirement is measured\nfor each of the business
+line.
+C.Advanced measurement approaches will not allow an institution to adopt\nits own method of
+assessment
+D.AMA is less risk-sensitive than the standardized approach.
+参考答案：B
+【莽学解析】The BI approach is suitable for banks with basic risk profiles, soanswer a. is
+incorrect. The AMA approach is an internal model, so answer c. isincorrect. The AMA is more
+risk-sensitive than the SI approach, so answer d. isincorrect.(1)
+ 
+20.In a market crash the following are usually true? I. Fixed-income portfolios hedged with
+short Treasury bonds and futures lose less than those hedged with interest rate swaps given
+equivalent durations. II. Bid–offer spreads widen because of lower liquidity. III. The spreads
+between off-the-run bonds and benchmark issues widen.
+A.I, II, and III
+B.II and III
+C.I and III
+D.None of the above
+参考答案：B
+【莽学解析】In a crash, bid offer spreads widen, as do liquidity spreads. AnswerI. is incorrect
+because Treasuries usually rally more than swaps, which leadsto greater losses for a portfolio
+short Treasuries than swaps. (1)
+ 
+21.You are a manager of a renowned hedge fund and are analyzing a 1,000 share position in an
+undervalued but illiquid stock BNA, which has a current stock price of USD 72 (expressed as the
+midpoint of the current bid-ask spread.) Daily return for BNA has an estimated volatility of
+1.24%. The average bid-ask spread is USD 0.16. Assuming returns of BNA are normally
+distributed, what is the estimated liquidity-adjusted daily 95% VaR, using the constant spread
+approach?
+A.USD 1,389
+B.USD 1,468
+C.USD 1,549
+D.USD 1,629
+参考答案：C
+【莽学解析】The constant spread approach adds half of the bid-askspread (as a percent) to the
+VaR calculation:Daily 95% VaR = 72,000*(1.645*0.0124) = USD 1469Liquidity cost =
+72,000*(0.5*0.16/72) = 80LVaR = VaR + LC = 1549(0)
+ 
+22.In march 2009, the Basel Committee published the consultative document “Guidelines for
+computing capital for Incremental risk in the trading book”. The incremental risk charge (IRC)
+defined in that document aims to complement additional standards being applied to the value-at-
+risk modeling framework which address a number of perceived shortcomings in the 99%/10-day VaR
+framework. Which of the following statements about the IRS is/are correct? I. For all IRC-
+covered positions, a bank’s IRC model must measure losses due to default and migration over a
+one-year capital horizon at a 99% confidence level. II. A bank must calculate the IRC measure
+at least weekly, or more frequently as directed by its supervisor.
+A.Statement I only
+B.Statement II only
+C.Both statements are correct
+D.Both statements are incorrect
+参考答案：B
+【莽学解析】I is incorrect. Specifically, for all IRC-coveredpositions, a bank’s IRC model
+must measure losses due to default and migrationat the 99.9% confidence interval over a capital
+horizon of one year, takinginto account the liquidity horizons applicable to individual trading
+positionsor sets of positions. II is correct. A bank must calculate the IRC measure atleast
+weekly, or more frequently as directed by its supervisor. (1)
+ 
+23.The Basel Committee recommends that banks use a set of early warning indicators in order to
+identify emerging risks and potential vulnerabilities in its liquidity position, which of the
+following are not early warning indicators of a potential liquidity problem? i. Rapid asset
+growth ii. Negative publicity iii. Credit rating downgrade iv. Increased asset diversification
+A.ii and iii
+B.iv only
+C.i and iv
+D.i, ii and iv
+参考答案：B
+【莽学解析】Rapid asset growth, negative publicity and credit ratingdowngrade are all early
+warnings of a potential liquidity problem. Increasedasset diversification is not an early
+warning indicator of liquidity.(0)
+ 
+24.Using approved approaches. Barlop Bank has calculated the following values: Risk-weighted
+assets for credit risk, RWAc:USD 47 million Market risk capital requirement,
+CRm:        USD 3.2 million Operational risk capital requirement. CRo: USD 2.8 million
+Assuming Tier 3 capital is USD 0, in which scenario below does Barlop Bank meet the Basel II
+minimum capital requirement?
+A.
+B.无
+C.无
+D.无
+参考答案：B
+【莽学解析】The total risk-weighted assets are: RWAt = RWAc + 12.5*(CRm -CRo) = 47 +
+12.5*(3.2+2.8) = USD 122 million Eligible regulatory capital is: RC = Tier 1 + Tier 2 –
+Deductions In addition, Tier 2 capital must be less than or equal toTier 1 capital.  Minimum
+capital requirement is: RC/ RWAt >= 8% In this case, RC >= 0.08*122 = 9.76 RC = 6.8 + min(3.2,
+6.8) – 0.4 = 9.6    (Fails to meet the minimum capitalrequirement) RC = 6.2 + min(4.8, 6.2)
+– 0.8 = 10.2  (Meets the minimum capital requirement) RC = 6.2 + min(8.4, 6.2) – 2.8 =
+9.6    (Fails to meet the minimum capitalrequirement) RC = 4.8 + min(6.2, 4.8) – 0.0 =
+9.6    (Fails to meet the minimum capitalrequirement) (1)
+ 
+25.Based on “Supervisory Guidance for Assessing Banks’ Financial Instrument Fair Value
+Practices” issued by the Basel Committee, which of the following factors should be considered
+in determining whether the sources of fair values are reliable and relevant? i. Frequency and
+availability of prices/ quotes ii. Maturity of the market iii. Agreement of values with those
+generated by internal models iv. Number of independent sources that produce the prices/ quotes
+A.i and ii only
+B.iii and iv only
+C.i, ii and iii only
+D.I, ii and iv only
+参考答案：D
+【莽学解析】Agreement with internally generated values is notnecessary or relevant. The other
+three factors should be considered indetermining the reliability and relevancy of the sources
+of fair values.(0)
+ 
+26.Major Investments is an asset management firm with USD 25 billion under management. It owns
+20% of the stock of a company. Major Investments’ risk manager is concerned that, in the event
+the entire position needs to be sold, its size would affect the market price. His estimate of
+the price elasticity of demands is -0.5. What is the increase in Major Investments’ Value-at-
+Risk estimate for this position if a liquidity adjustment is made?
+A.4%
+B.10%
+C.15%
+D.20%
+参考答案：B
+【莽学解析】
+The ratio of LVaR to VaR depends on the elasticity ofdemand η and the size of the trade,
+relative to the size of the market. (ΔN/N) We are given； dN/N =0.2 and that the price
+elasticity is – 0.5. Thus dP/P = elasticity* dN/N = -0.1 Therefor LVaR/VaR = 1- dP/P = 1+0.1 =
+1.1 The liquidity adjustment increases the VaR, by 10%. (1)
+ 
+27.Bank A, a large international bank, engages in trading with counterparties throughout the
+world. Recently, it has started to pay more attention to wrong-way risk in its trading book.
+Which one of the following four scenarios would serve as an example of wrong -way risk from
+Bank A's perspective?
+A.Bank A has a large exposure to Bank B's equity, and\nBank B offers to sell put options with
+long mat
+B.Bank A enters into a medium-term repurchase agreement\nwith Bank B using several different
+types of
+C.Bank A actively manages its credit portfolio using\ncredit default swaps, and decides to sell
+long-t
+D.Bank A enters into a forward rate agreement with Bank\nB to deliver at LI BOR+2 .5%
+参考答案：A
+【莽学解析】According to Section 101 of Basel III, a bank is exposedto "specific wrong-way
+risk" if future exposure to a specificcounterparty is highly correlated with the counterparty's
+probability ofdefault. For example, a company writing put options on its own stock
+createswrong-way exposures for the buyer that is specific to the counterparty.(1)
+ 
+28.The Chief Risk Officer of your bank has put you in charge of operational risk management. As
+a first step, you collect internal data to estimate the frequency and severity of operational-
+risk-related losses. The table below summarizes your findings: 
+ 
+ 
+ Based on this information, what is your estimate of the expected loss due to operational
+risk?
+A.USD 20,000
+B.USD 70,250
+C.USD 130,600
+D.USD 140,500
+参考答案：B
+【莽学解析】The expected loss can be calculated by multiplying theexpected frequency and the
+expected severity. Expected frequency is equal to:(0 * 0.6) + (1 * 0.3) + (2 * 0.1) = 0.5,
+Expected severity is equal to:(1000 * 0.5) + (100,000 * 0.4) + (1,000,000 * 0.1) =140,500The
+expected loss is therefore:0.5 * 140,500 = 70,250 (2)
+ 
+29.In recent years, large dealer banks financed significant fractions of their assets using
+short-term, often overnight, repurchase (repo) agreements in which creditors held bank
+securities as collateral against default losses. The table below shows the quarter-end
+financing of four broker-dealer banks. All values are in USD billions: 
+ 
+ 
+ In the event that repo creditors become nervous about a bank’s solvency, which bank is least
+vulnerable to a liquidity crisis?
+A.Bank A
+B.Bank B
+C.Bank C
+D.Bank D
+参考答案：A
+【莽学解析】A liquidity crisis could materialize if repo creditorsbecome nervous about a
+bank’s solvency and choose not to renew their positions.If enough creditors choose not to
+renew, the bank could likely be unable toraise sufficient cash by other means on such short
+notice, therebyprecipitating a crisis. However, this vulnerability is directly related to
+theproportion of assets a bank has pledged as collateral. Bank A is least vulnerable since it
+has the leastdependence on short-term repo financing (i.e. the lowest percentage of itsassets
+out of the four banks is pledged as collateral: 272/823, or 33%.(0)
+ 
+30.In calculating its risk-adjusted return on capital, your bank uses a capital charge of 2.50%
+for revolving credit facilities with a loan equivalent factor of 0.35 assigned to the undrawn
+portion. Recently, you have become concerned that the protective covenants embedded in these
+loans are weak and may not prevent customers from drawing on the facilities during times of
+stress. As such, you have recommended doubling the loan equivalent factor to 0.70. This
+recommendation has met with resistance from the loan origination team, and senior management
+has asked you to quantify the impact of your recommendation. For a typical facility that has an
+original principal of USD 1 billion and is 30% drawn, how much additional economic capital
+would have to be allocated if you increase the loan equivalent factor from 0.35 to 0.70?
+A.USD 3.50 million
+B.USD 6.13 million
+C.USD 8.75 million
+D.USD 13.63 million
+参考答案：B
+【莽学解析】The required economic capital to support a loan in theRAROC model can be calculated
+using the following formula:Required Capital= [BDRAWN + (BUNDRAWN *LEF )]*CFwhere LEF
+represents the loan equivalent factor and CFrepresents the capital factor.Therefore, the
+initial required economic capital iscalculated as follows: [(1 billion * 0.3) + (1 billion *
+0.7 * 0.35)] * 2.5% =USD 13.625 million,and the required capital if the change is
+implementedwould be: [(1 billion * 0.3)+ (1 billion * 0.7 * 0.70)] * 2.5% = USD 19.75
+million.Hence the additional required economic capital would be19.75 – 13.625 or 6.13
+million.(0)
+ 
+31.Grayson Ballentine, an analyst with Platinum Consultants, is analyzing the economic effects
+of buying stock with borrowed funds for a high net worth individual client. Assume that the
+client has $200 cash invested (i.e., no borrowed funds) and then uses the cash to purchase
+stock. The client then decides to use 50% borrowed funds to purchase stock on margin. After the
+margin transaction, the total assets on the full economic balance sheet and the leverage ratio
+are closest to:
+A.
+B.无
+C.无
+D.无    
+参考答案：B
+【莽学解析】
+ 
+ 
+ 
+Thus,the leverage ratio has increased to 1.5 (i.e., $300 / $200).    (6)
+ 
+32.As a result of the new Basel standards, every bank must now calculate explicit capital
+charges to cover operationa1 risk using one of three approaches: the basic indicator approach
+(BIA), the standardized approach (SA), and the advanced measurement approach (AMA). How many of
+the following statements are true with respect to these operationa1 risk approaches? I.In
+practice the AMA is the most stringent approach for operational risk. II.The most popular
+method to satisfy the AMA is the loss distribution approach. III.  The AMA allows a bank to
+build its own operationa1 risk model and measurement system comparable to market risk
+standards. IV.  BIA is widely used in insurance and actuaria1 science.
+A.One.
+B.Two.
+C.Three.
+D.Four.
+参考答案：B
+【莽学解析】StatementI is incorrect. AMA is the most flexible method.Statement II is correct.
+The most popular method to satisfy the AMA is the lossdistribution approach (LDA). Statement
+III is correct. The AMA method allows abank to build its own operational risk model and
+measurement system that iscomparable to market risk standards. Statement IV is incorrect. LDA
+is widelyused in insurance and actuarial science.(1)
+ 
+33.Compare the capital requirements of Bank A and Bank B based on the following equal-sized
+portfolios. 
+ 
+ The credit risk capital requirement of Bank A will be greater than the credit risk capital
+requirement of Bank B under the:
+A.standardized\napproach of Basel I.
+B.standardized\napproach of Basel II.
+C.IRB foundation\napproach of Basel II.
+D.advanced\nmeasurement approach of Basel II.
+参考答案：A
+【莽学解析】UnderBasel I, OECD risk weights were always less than non-OECDrisk weights, but
+this is not the case under Basel II. Bank A has more non-OECD debt, so it will havea higher
+capital requirement under Basel I. Choices c and d depend on externaland internal ratings,
+respectively, which are unknown.        (0)
+ 
+34.Alan Walters is a risk manager at OneFirst Bank. He has recently been asked to prepare a
+risk management report for his bank's board of directors. The board members are planning to
+utilize this report to make critical risk management decisions regarding relevant bank risks.
+Walters ensures the board that the report will be accurate and complete by covering all
+material risk areas within the organization. He also points out that the report will contain
+meaningful information that will be applicable to all employees and easily understood at all
+levels of the organization. Walters plans on distributing the risk management report to all
+relevant parties while ensuring confidentiality. Which of the following effective risk data
+aggregation and risk reporting principles set forth by the Basel Committee on Banking
+Supervision did Walters most likely violate?
+A.Principle\n7-Accuracy.
+B.Principle\n8-Comprehensiveness.
+C.Principle\n9-Clarity and Usefulness.
+D.Principle 11-Distribution.
+参考答案：C
+【莽学解析】Principle9 requires that reports be tailored to the end user (e.g., the board,
+seniormanagers, and risk committee members) and should assist them with sound riskmanagement
+and decision making. Walters suggested that the report would not betailored to the board
+because the report was going to be applicable to all employeesand easily understood at all
+levels of the organization. Principle 7 requiresthat risk reports should be accurate and
+precise. Board members should be ableto use the reports to make critical decisions about bank
+risks. Principle 8 requiresthat reports should contain position and risk exposure information
+for all relevantrisks. Principle 11 requires that reports should be disseminated in a
+timelyfashion while maintaining confidentiality where required.(51)
+ 
+35.Ki Dean, FRM, is a consultant for U.S.-based McGreggor Bank. Dean attended a meeting where a
+Senior Vice President made the following statements about the Basel II Accord. I.  By
+switching from the standardized approach to the foundation IRB approach, our risk weightings
+for a majority of the bank's assets are lower, which could reduce our capital requirements by
+as much as 15% next year. II.  Under the IRB advanced approach, we generate all the estimates
+used in the models. III.  Pillar 2 concerns external monitoring and supervisory review. How
+many of the statements are correct?
+A.None.
+B.One.
+C.Two.
+D.Three.
+参考答案：B
+【莽学解析】OnlyStatement II is correct. Statement I is incorrect. There is a transition
+periodwhereby the capital requirement under IRB cannot be less than 90% of thecapital
+requirement the previous year and 80% in the second year. Statement IIIis also incorrect.
+Pillar 2 concerns supervisory review; Pillar 3 concernsmarket discipline, including external
+review.(1)
+ 
+36.Model risk is the risk associated with trying to capture an observed phenomenon using a
+financial model. Models, by their very construction, are flawed instruments and cannot possibly
+capture the full scope of factors necessary to explain the dynamic relationships we observe. It
+is better to ask oneself what is wrong with the model rather than glossing over potential
+errors in construction. Important sources of model risk include incorrect model specifications,
+incorrect model application, implementation risk, incorrect calibration, programming errors,
+and data problems. Which of the following statements is correct regarding sources of model
+risk?
+A.An example of\nincorrect model application would be if a model assumes a
+binomial\ndistribution
+B.Multiple users\nof the capital asset pricing model (CAPM) may incorporate different measures
+o
+C.Use of outdated\nmodel input parameters measured with error or based on inappropriate
+sample\np
+D.Using the standard bond valuation model to value mortgage-backed securities is an example of
+incorrect model application
+参考答案：D
+【莽学解析】Thefollowing model risks are represented by choices a through c: incorrect model
+specification,implementation risk, and calibration error. Choice d is correct.    (2)
+ 
+37.Given the information below, what is the liquidity-adjusted VaR at the 95% confidence
+level?  Current stock
+price                               $200  Stock price standard
+deviation             3.0%  Bid-ask spread
+mean                            1.0%  Bid-ask spread standard
+deviation      0.5%  Spread confidence parameter            1.96
+A.$11.73.
+B.$11.88.
+C.$13.59.
+D.$13.74.
+参考答案：B
+【莽学解析】The liquidity-adjusted VaR is the sum of two components. Thefirst component is the
+VaR, which is the stock price times the z-score timesthe stock price standard deviation: $200
+x0.03 x 1.65 = $9.90. The secondcomponent adjusts for liquidity risk and is half the stock
+price times abid-ask spread component: 0.5 x [$200 x (0.01 + 1.96 x 0.005)] = $1.98. Note
+thatwe use a critical z-score of 1.96 when calculating the liquidity riskcomponent.The
+liquidity-adjusted VaR is thus: $9.90 + $1.98 = $11.88.The incorrect liquidity-adjusted VaR
+answers use theincorrect critical z-scores.(3)
+ 
+38.A trader observes a quote for Stock ZZZ, and the midpoint of its current best bid and best
+ask price is CAD 35. ZZZ has an estimated daily return volatility of 0.25% and average bid-ask
+spread of CAD 0.1. Assuming the returns of ZZZ are normally distributed, what is closest to the
+estimated liquidity-adjusted, 1-day 95% VaR, using the constant spread approach on a 10,000
+share position?
+A.CAD 1,000
+B.CAD 2,000
+C.CAD 3,000
+D.CAD 4,000
+参考答案：B
+【莽学解析】The daily 95% VaR=35*10,000*(1.645*0.0025) =CAD 1,440The constant spread approach
+adds half of the bid-askspread (as a percent) to the VaR calculation, using the following
+formula:Liquidity Cost (LC)=1/2 (spread*p), where spread is equalto the actual spread divided
+by the midpoint and p is the value of the position.Therefore, the liquidity cost
+(LC)=350,000*(0.5*0.1/35) =CAD500Liquidity-adjusted VaR (LVaR)=VaR + LC =CAD 1,940.(2)
+ 
+39.The risk management department at Southern Essex Bank is trying to assess the impact of the
+capital conservation and countercyclical buffers defined in the Basel III framework. They
+consider a scenario in which the bank’s capital and risk-weighted assets are as shown in the
+table below (all value are in EUR million): 
+ 
+ 
+ Assuming that all Basel III phase-ins have occurred and that the bank’s required
+countercyclical buffer is 0.75%, which of the capital ratios does the bank satisfy?
+A.The CET 1 capital ratio only.
+B.The CET 1 capital ratio plus the capital conservation\nbuffer only.
+C.The CET 1 capital ratio plus the capital conservation\nbuffer and the countercyclical buffer.
+D.1
+参考答案：B
+【莽学解析】The bank has CET1 capital ratio of (230/3110) or 7.4%.This ratio meets the 4.5%
+minimum and the additional 2.5% capital conservationbuffer but not the additional
+countercyclical buffer of 0.75%(4.5%+2.5%+0.75=7.75%).(4)
+ 
+40.As a risk manager of Bank ABC, John is asked to calculate the market risk capital charge of
+the bank’s trading portfolio under the internal models approach using the information given in
+the table below. Assuming the return of the bank’s trading portfolio is normally distributed,
+what is the market risk capital charge of the trading portfolio?
+ 
+A.USD 84,582
+B.USD 134,594
+C.USD 189,737
+D.USD 222,893
+参考答案：D
+【莽学解析】Market Risk Capital Charge =
+MAX(40,000*SQRT(10)/1.65*2.326,2*25,000*SQRT(10)/1.65*2.326) = 222,893Candidate is required to
+convert the VaR (95%,1-day) to a95% 10-day VaR.(2)
+ 
+41.Several steps are involved in developing the loss distribution approach (LDA), including
+derivation of frequency and severity distributions, estimation of the tail distribution,
+modeling correlations, and incorporation of insurance. Which of the following statements about
+LDA modeling is incorrect?
+A.To select the appropriate distribution of the frequency of losses\n(Poisson distribution,
+bino
+B.Extrapolation of observed losses,\nin order to develop a more complete severity distribution
+(of los
+C.To build an LDA model that includes adequate representation in the tail,\nboth internal and
+ex
+D.The LDA typically allows for the risk reducing effect of insurance by lowering\nthe severity
+o
+参考答案：A
+【莽学解析】Statement a isincorrect. Selection of the appropriate distribution is done by
+applying a goodness-of-fittest, such as chi-squared test. The chosen distribution will most
+closely fitthe hypothetical distribution. Statement b is correct. Extrapolation could leadto
+the inclusion of severe hypothetical losses. thus the overestimation of theneeded capital
+charge. Statement c is correct. To develop distributions forvarious threshold levels and the
+respective weights, internal as well asexternal data sources are required. Statement d is
+correct. Loss severity isreduced because insurance indemnifies the insured (institution) above
+thedeductible level; however, no one has control over frequency of unintentional losses. (2)
+ 
+42.A firm has determined that the risk-adjusted return on capital (RAROC) for a particular
+project is 14%. To evaluate whether the firm should accept the project, an analyst determines
+that the firm’s beta is 1.3, the expected market return is 13%, and the risk-free interest
+rate is 5.5%. If the analyst uses the adjusted RAROC (ARAROC) methodology to make an
+accept/reject decision, should the project be accepted?
+A.No, because the computed ARAROC is approximately 1 % less than the market\nrisk premium.
+B.No, because the RAROC is 1.25% less than the return predicted by the CAPM.
+C.Yes, because the computed ARAROC is approximately 1 % more than the market\nrisk premium.
+D.Yes, because the ARAROC is approximately 4% more than the return predicted\nby the CAPM.
+参考答案：A
+【莽学解析】
+ 
+ 
+ 
+43.A bank issues a $200,000,000 loan with the following characteristics: •  Loan pays a fixed
+annual interest rate of 8.5%. •  The interest expense associated with the loan is 6.0%. • 
+The operating cost to the bank's commercial lending division is $1,600,000. •  Economic
+capital required to support the loan is $16 million, which is invested in T-bills paying a rate
+of 2.8%. •  The expected loss for the loan is 15 basis points per year. What is the risk-
+adjusted return on capital (RAROC) for this loan?
+A.2.50%.
+B.6.25%.
+C.18.28%.
+D.22.18%.
+参考答案：D
+【莽学解析】
+ 
+ 
+ 
+ 
+ 
+44.The balance sheet for Pierce Bankholdings as of December 31, 2013, included the following
+items:  •  Preferred stock (cumulative): $200,000.  •  Common stock: $1,800,000.  • 
+Retained earnings: $16,000,000.  •  Unrealized gains on long-term equity holdings:
+$75,000.  Based only on this information, estimate the Tier 1 and Tier 2 capital of Pierce
+Bankholdings as of 12/31/13.
+A.
+B.无
+C.无
+D.无
+参考答案：D
+【莽学解析】Tier1 capital includes common stock and retained earnings, but not cumulative
+preferredstock. Tier 2 capital would include the cumulative preferred, as well as the
+unrealizedgains on long term investments.(2)
+ 
+45.. Suppose a bank loan has the following characteristics: •  Gross revenues are $1.3
+million. •  Interest expense is $0.3 million. •  The return on the $5million economic capital
+invested in T-bills is $100,000. •  The firm beta is 1.5. •  The unexpected loss for the loan
+is estimated at $500,000. •  The adjusted RAROC is equal to 8%. What is the worst-case loss
+for this loan?
+A.$1.6 million.
+B.$2.3 million.
+C.$0.9 million.
+D.$0.75 million.
+参考答案：C
+【莽学解析】First, determine RAROC as follows:RAROC = ΒE * ARAROC + RFThe RF is calculated as
+the return from economiccapital, which is: $100,000/$5,000,000 = 2%RAROC = 1.5x0.08+0.02RAROC =
+14%Second, determine the expected loss for the loan asfollows:EL= - (RAROCx EC - revenues +
+expenses - return on EC)EL= - (0.14x$5M - $1.3M + $0.3M - $0.1M) = $400,000Finally, compute the
+worst-case loss as the sum ofexpected and unexpected loss:worst-case loss = expected loss +
+unexpected lossworst-case loss = $400,000 + $500,000worst-case loss = $0.9M(4)
+ 
+46.Becky has been researching the application of the LDA (loss distribution approach) by banks
+to quantify risk and estimate capital charge under the Basel II Accord. She shares with you her
+insights about this methodology in the following statement: "The LDA models losses with respect
+to both frequency and severity with the goal of determining the appropriate level of capital. 
+This approach requires a variety of assumptions concerning the distribution of frequency and
+severity, and the parameters and correlations. The analysis should incorporate data from both
+the institution being analyzed and external Sources. Ultimately, the assumptions of the model
+should be tested with scenarios, stress tests, and back-testing." She is, however, unsure about
+certain dimensions of the purposes and structure of the LDA and needs your feedback. Which of
+the following statements regarding the LDA is correct?
+A.The LDA is the accepted method in the Basel II\nAccord for determining the operational risk
+regulato
+B.To model an operational risk loss distribution, every\ndata point in the business line\/event
+type ma
+C.To model an operational risk loss distribution, a\ndistribution from loss severity data is
+derived a
+D.The LDA ensures that losses would be perfectly\ncorrelated in order to estimate the overall
+operatio
+参考答案：A
+【莽学解析】Statementa is correct. Firms can use the LDA model, the accepted method, for
+estimatingregulatory capital. However, firms can use this approach for calculating the
+economiccapital as well. Statement b is incorrect. Every data point in the business
+line/eventtype matrix is given an equal weight except for split losses, old losses, and
+externallosses and scenarios. Statement c is incorrect. To model an operational risk
+lossdistribution, distributions from both event frequency and loss severity areneeded.
+Statement d is incorrect. The LDA approach ensures that losses wouldnot be perfectly
+correlated.   (1)
+ 
+47.The table below gives information on a $200 million loan portfolio of the Third Premier Bank
+regarding its allocations to the six obligors and associated risk weightings. (Risk weightings
+were assigned based on each exposure. The split of the total loan [allocations] among various
+obligors had no impact on credit ratings.) The bank uses the standardized approach for
+maintaining capital of at least 8% of total risk-weighted assets. 
+ 
+ 
+ Which of the following statements is correct?
+A.Under Basel I, OECD\nsovereign exposures are considered most risky (with 0% risk weighting)
+co
+B.Under Basel II,\nthe risk weightings focus on credit risk only whereas under Basel I,
+risk\nwei
+C.Capital\nrequirements for the bank can be estimated using the IRB method if we are
+given\naddit
+D.Actual\ncalculations for computing the capital requirements (using any method of\nestimation)
+a
+参考答案：D
+【莽学解析】Statement a is incorrect because OECD sovereign exposuresare considered least
+risky. Statement b is incorrect because Basle I requiresrisk weightings to focus on credit risk
+only. Statement c is incorrect becausewe need inputs more than just probability of default (PD)
+to calculaterisk-weighted assets and capital requirements using the IRB approach-foundationor
+advanced. Statement d is correct. Minimum capital requirements = 8% x(0.30x200x0 + 0.20 x 200 x
+0.25 + 0.25 x 200 x 0.30 + 0.15 x200x 0.60 +0.03 x200 x 1 + 0.07 x 200 x 1.50) = $5.6 million.
+(1)
+ 
+48.Basel II/III contains capital rules for the banking industry, while Solvency II looks at the
+regulatory framework and quantifiable risks in the insurance industry. Comparing Solvency II
+and Basel II/III, which statement best characterizes the Basel II/III approach?
+A.Basel II\/III\ndoes not try to achieve safety for the entire company, but rather focuses
+on\nasset-spe
+B.Basel II\/III requires a more holistic perspective than\nSolvency II.
+C.Basel II\/III does not take in consideration pro-cyclical\neffects.
+D.The goal of Basel II\/III is to operate under no\nsupervisory authority.
+参考答案：A
+【莽学解析】Dueto the nature of the banking industry, Basel II/III is more focused on systemic
+risk as opposed totrying to achieve a safety level for the whole company. However, it does
+focuson three risk classes, which are all asset-specific (market risk, credit risk,and
+operational risk). The goal of Basel II/III is to operate above capitalrequirements under
+Pillar 1.    (2)
+ 
+49.Large Bank is attempting to transition to the new Basel III standards. Specifically, they
+are wondering if their liquidity and funding ratios meet the updated requirements as specified
+by the Basel Committee. Given the following information, what is the bank's current liquidity
+coverage ratio? •  High-quality liquid assets  $300 •  Marketable securities  $125 • 
+Required amount of stable funding  $250 •  Cash inflows over the next 30 days  $214 •  Net
+cash outflows over the next 30 days  $285 •  Long-term economic capital  $500 •  Available
+amount of stable funding  $255
+A.95%.
+B.105%.
+C.125%.
+D.140%.
+参考答案：B
+【莽学解析】The 30-day liquidity coverage ratio (LCR) is equal to thestock of high-quality
+liquid assets divided by the net cash outflow over a30-day period. Under Basel III, this ratio
+must equal or exceed 100%. LargeBank's liquidity coverage ratio = $300 / $285 = 1.053=105.3%.
+(1)
+ 
+50.Risk aggregation is one of the challenging areas within the economic capital implementation
+framework. Risk aggregation involves identifying the individual risk types and making certain
+choices in aggregating those risk types. Classification by risk types (market, credit,
+operational, and business) may be approximate and prone to error. For example, the definitions
+of risk types may differ across banks or within a given bank, which complicates the aggregation
+process. Most banks begin by aggregating risk into silos by risk-type across the entire bank.
+Other banks prefer using business unit silos, while others combine both approaches. Which of
+the following statements regarding risk aggregation is correct?
+A.Combining two\nportfolios, for risk aggregation across different portfolios or business units
+B.A simple summation\nmethod of risk aggregation adds together individual capital components,
+di
+C.A\nvariance-covariance matrix risk aggregation method summarizes the
+interdependencies\nacross
+D.A full modeling\/simulation\nmethod of risk aggregation combines marginal probability
+distribut
+参考答案：C
+【莽学解析】Thevariance-covariance matrix summarizes the interdependencies across risk typesand
+provides a flexible framework for recognizing diversification benefits.    (3)

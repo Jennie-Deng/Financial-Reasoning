@@ -1,0 +1,993 @@
+风险管理
+单项选择题
+1.There are many reasons why risk management increase shareholder wealth. Which of the
+following risk management policies is least to increase shareholder wealth?
+A.Hedging strategies to lower the probability of financial distress and bankruptcy.
+B.Risk management policies designed to reduce the probability of debt overhang.
+C.Well-designed compensation structure for managers that sets incentives for managers to take
+appropriate risks
+D.Risk management policies designed to eliminate projects with high volatility.
+参考答案：D
+【莽学解析】解析：本题考查风险管理对股东价值的影响。选项A，风险对冲可以降低公司盈利的波动性，从
+而降低出现财务困境和破产的可能性。选项表述正确，不符合题意。选项B，风险管理可使公司合理安排债务
+的体量，从而降低过度承担债务的可能性。选项表述正确，不符合题意。选项C，为公司高管设计合适良好的
+薪酬体系，可以促使管理层在经营过程中承担合适的风险。选项表述正确，不符合题意。选项D，风险管理并
+非要消除高波动的项目，而是在风险偏好内选择承担合适的风险。选项表述错误，符合题意。故本题选 D。
+ 
+2.A manufacturing company faces repayments on bank loans in the coming week. However, due to
+the downturn in the economic cycle, companies cannot make enough profits to repay bank loans.
+Unfortunately, the company is unable to obtain sufficient cash. Therefore, to quickly obtain
+cash and repay debts, companies can only sell fixed equipment at a discount. Which of the
+following risks is the company exposed to?
+A.Funding liquidity risk.
+B.Operational risk.
+C.Trading liquidity risk.
+D.Both funding liquidity risk and trading liquidity risk.
+参考答案：D
+【莽学解析】本题考查了流动性风险的定义。根据题目信息，由于经济周期压力，公司无法获得足够的利润
+，来偿还银行贷款。同时，公司也无法通过其他渠道进行有效的融资，因此面临了融资流动性风险。为了短
+期内弥补现金缺口，公司通过打折出售固定设备，导致设备无法以公允价值出售，面临了交易流动性风险。
+选项D表述正确，故本题选 D。
+ 
+3.A bank’s risk committee is reviewing the bank’s most significant loss events and
+categorizing each event into specific risk categories. In one case, a model operator input the
+wrong price for a security into an algorithm used for trading, which then caused the algorithm
+to buy instead of selling the security. This situation would be an example of:
+A.Market risk.
+B.Operational risk.
+C.Strategic risk.
+D.Liquidity risk.
+参考答案：B
+【莽学解析】本题考查各类别风险的定义。根据题目信息，模型操作员将错误的价格输入至模型中，然后进
+行交易，造成模型输出的结果出现偏差，属于公司员工的操作失误，因此属于操作风险。选项B表述正确，故
+本题选 B。
+ 
+4.In financial markets, although the financial system remains structurally stable, extremely
+rare events can happen over a long time. In this context, tail risk techniques are supported
+by:
+A.Extreme value theory.
+B.VaR theory.
+C.Probably of default theory.
+D.Standard deviation.
+参考答案：A
+【莽学解析】本题考查尾部风险的性质。尾部风险可以用EVT极值理论来计量。
+ 
+5.In financial markets, risk events occur all the time. However, different risk events have
+different effects on the market. Which of the following statement about extreme risk events and
+structural change is most likely to be incorrect?
+A.Extremely rare events are also called tail risk events.
+B.When the system keeps structural stable, extreme events cannot happen.
+C.When the structure underlying a system change, risk increases.
+D.Under the structural changes, extreme events may suddenly increase in frequency or size.
+参考答案：B
+【莽学解析】本题考查对于尾部风险和结构性变化的辨析。选项A，极端事件也被称为尾部风险事件。选项
+A表述正确，不符合题意。选项B，当系统处于结构性稳定的状态时，极端事件也有可能发生。选项B表述错误
+，符合题意，故本题选B。选项C，当系统发生结构性变化时，风险也会增加。选项C表述正确，不符合题意。
+选项D，当系统发生结构性变化时，极端事件发生了频率和损失的严重程度可能突然增加。选项D表述正确
+，不符合题意。
+ 
+6.ERM (enterprise risk management) helps firms define and adhere to enterprise risk appetites.
+Which of the following statements regarding risk appetite and risk capacity is not correct?
+A.Risk appetite describes the amount and types of risk a firm is willing to accept.
+B.Risk capacity describes the maximum amount of risk a firm can absorb.
+C.Risk appetite is the amount of risk that the company could bear at any time.
+D.There must be a logical relationship between the firm\u2019s risk appetite and its business
+strategy and ensure the consistency between risk appetite and business strategy.
+参考答案：C
+【莽学解析】本题考查了风险偏好和风险承受能力。选项A，风险偏好表述了企业愿意接受的风险的数量和类
+型，可以用定量或定性的表述来表示。选项表述正确，不符合题意。选项B，风险承受能力是指公司根据当前
+情况，可以承受的最大风险水平。选项表述正确，不符合题意。选项C，风险偏好强调的是企业在任何时候都
+愿意承担的风险，而不是能够承担的风险。选项C表述错误，符合题意，故本题选 C。选项D，风险偏好必须
+与公司战略保持一致，相辅相成。选项表述正确，不符合题意。
+ 
+7.On the one hand, risk appetite describes the amount and type of risk a company is willing to
+accept. On the other hand, risk capability describes the maximum risk a company can absorb. How
+many of the following statement（　） is(are) correct?I. The risk appetite should be approved
+by the board of directors and needs to be consistent with the company's business and company
+development.II. Risk appetite should be clearly expressed, so it needs to be described with a
+combination of qualitative and quantitative indicators.III. In daily operations, risk appetite
+should be lower than risk capacity and higher than the amount of risk the company is currently
+facing.
+A.0
+B.1
+C.2
+D.3
+参考答案：D
+【莽学解析】本题考查了风险偏好和风险承受能力。I. 风险偏好需要通过董事会的同意，且必须与公司发展
+情况和业务情况保持一致，因此表述正确。II. 风险偏好必须表述清晰，并使得公司利益相关者知晓，因此
+需要定性的方法和定量的指标进行表述，因此表述正确。III. 在日常经营当中，风险偏好应该低于公司的风
+险承受能力，且同时高于公司当前所面临的风险水平，因此表述正确。故本题选 D。
+ 
+8.Jimmy Wang, FRM, is the CFO of a manufacturing firm. She is currently in the process of
+diversifying the firm’s investment portfolio by varying the correlations and asset classes
+among securities. Diversification is best characterized as which of the following risk
+treatments?
+A.Avoid Risk.
+B.Retain Risk.
+C.Mitigate Risk.
+D.Transfer Risk.
+参考答案：C
+【莽学解析】本题考查风险管理常见的四种策略。根据题目，风险经理利用投资分散化降低非系统性风险
+，因此属于缓释策略。选项C正确。
+ 
+9.When investors assume risk in an asset that has a premium above a risk-free rate of return,
+the investor could consider hedging the exposure when the returns are better than expectation
+and lock in profits. Risk exposure can be hedged in many ways. An investor can use options on
+the specific asset, or a financial instrument that is opposite in market direction with the
+asset that the investor owned. Which of the following is not an advantage of hedging risk?
+A.By reducing the volatility of earning\/cash flow by hedging, a firm may reduce the cost of
+capital and enhance the ability to finance growth.
+B.Good risk management is often an indication to the firm's stakeholders that management is
+doing a good job, this is often reflected directly in the firm's stock price.
+C.Hedging may allow management better control over the firm's economic performance to better
+achieve the board's objectives.
+D.Risk management requires specialized skills, knowledge, infrastructure, and data acquisition
+and processing effort.
+参考答案：D
+【莽学解析】本题考查了风险对冲的优缺点。选项A，风险对冲可以降低公司盈利的波动性，因此降低了融资
+成本和增强了财务增长能力，为风险对冲的优点，不符合题意。选项B，良好的风险管理工作意味着公司内部
+的管理层有优秀的工作能力，这种情况往往会反映在股价上，为风险对冲的优点，不符合题意。选项C，高级
+管理层可以通过风险对控制成本，从而控制公司经济利润，以达到董事会的目标，为风险对冲的优点，不符
+合题意。选项D，风险管理需要专业技能、专业知识和相关设备，因此做好风险管理工作是有难度的，为风险
+对冲的缺点，符合题意，故本题选 D。
+ 
+10.XYZ. Ltd is an American company, which is planning to enter the Korean market. The
+shareholders of XYZ. Ltd worry about the risk of this business strategy. Stephen is the risk
+manager of the company, and he is thinking about hedging currency risk when they enter the
+market in Korea. Which of the following is not the advantage of Stephen’s hedging strategy?
+A.Stabilize the profit from Korean market.
+B.The board is able to make a better plan for Korean market.
+C.May reduce the chance of financial distress of XYZ. Ltd.
+D.Can reduce the friction and transaction cost.
+参考答案：D
+【莽学解析】本题考查了风险对冲的优缺点。选项A，风险对冲可以降低公司盈利波动率，即稳定韩国市场的
+盈利，属于风险对冲的优点。选项表述正确，不符合题意。选项B，公司可通过风险对冲控制成本，从而使董
+事会对韩国市场的发展有更优的计划，属于风险对冲的优点，不符合题意。选项C，通过风险对冲，可以有效
+降低公司面临财务困难的可能性，属于风险对冲的优点，不符合题意。选项D，风险对冲无法降低交易费用
+，不属于风险对冲的优点，符合题意，故本题选 D。
+ 
+11.In a company, the board of directors plays a central role in corporate governance and risk
+management. How many of the following statement（　） about the board of directors is(are)
+correct?I. The board are elected by shareholders and only serve to protect shareholder
+interests.II. The board should keep independent from the management to avoid principal-agent
+problem.III. A clear business strategy should be made by the board.
+A.0
+B.1
+C.2
+D.3
+参考答案：C
+【莽学解析】本题考查了董事会的职责和作用。I，董事会由公司股东选举，对公司所有的利益相关者负责
+，并不能只保护股东利益，因此表述错误；II，为避免代理人问题，董事会应该与高管层保持独立，因此表
+述正确；III，明确清晰的商业战略应该由董事会领头进行设计，因此表述正确；因此选项C正确。
+ 
+12.At most firms, the key risk management policies and procedures are approved by the risk
+management committees. They interpret the board-approved risk appetite and break it down into a
+set of practical restrictions. In addition, which of the following statement belongs to the
+roles of risk management committees?
+A.Calculations of the daily VaR.
+B.Reviewing the daily VaR.
+C.Planning the scenario analysis.
+D.Setting risk limits for business activities.
+参考答案：D
+【莽学解析】本题考查了风险委员会的职责和作用。选项A错误。计算每日在险价值，属于首席风险官的职责
+。选项B错误。审查每日在险价值，属于首席风险官的职责。选项C错误。开展情景分析属于首席风险官的职
+责。选项D正确。为商业活动建立风险限制，属于风险委员会职责。故本题选 D。
+ 
+13.Which of the following about Corporate Governance and Risk Management is incorrect?
+A.The CRO of a company plays the role in communicating the views of the board and senior
+management down through the organization.
+B.The business risk committee approves policies that define the appropriate measurement and
+management of risk and provides a detailed review of risk limits and risk authorities within
+the business unit.
+C.The CRO in a bank or other financial institutions should report to the chief executive
+officer and have a seat on the risk management committee of the board.
+D.At the top of the tree, the management approves the bank's risk appetite each year, based on
+a well-defined and broad set of risk measures.
+参考答案：D
+【莽学解析】本题考查公司治理和风险管理的最佳实践。选项A，首席风险官是执行风险管理工作的最高负责
+人，可以作为董事会和管理层的沟通枢纽。选项表述正确，不符合题意。选项B，风险委员会制定适当的风险
+衡量和管理的政策，并对业务部门内的风险限制和风险权限进行详细审查。选项表述正确，不符合题意。选
+项C，在正常情况下，首席风险官应向首席执行官报告，并且属于董事会风险管理委员会中的一员。选项表述
+正确，不符合题意。选项D，在风险管理工作中，董事会制定并批准风险偏好，并非高级管理层同意。选项表
+述错误，符合题意，故本题选 D。
+ 
+14.The board of directors of the company is mainly responsible for supervising management and
+pursuing the responsibilities of the company's management. At most banks, the board of
+directors typically has an audit committee, a risk committee, and a compensation committee,
+which ensure that the company's key policies are effectively implemented. Which of the
+following is NOT correct?
+A.The audit committee is responsible for the accuracy of the bank's financial and supervisory
+reporting and is also responsible for ensuring that the bank adheres to minimum or best
+practice standards in other key activities.
+B.Members of the audit committee must have sound financial and legal knowledge.
+C.In a bank, the risk management committee completes risk management work independently and
+does not need to report to the board of directors.
+D.Incentive compensation should be aligned with the long-term interests of shareholders and
+other stakeholders, and with risk-adjusted return on capital.
+参考答案：C
+【莽学解析】本题考查了风险委员会和审计委员会的职责。选项A，审计委员会负责银行财务和监管报告的准
+确性，还负责确保银行在其他关键活动中遵守最低或最佳实践标准。选项A表述正确，不符合题意。选项
+B，审计委员会的成员必须具备良好的财务知识和法律知识。选项B表述正确，不符合题意。选项C，在银行
+，风险管理委员主要负责风险管理制度的建立，且需要向董事会汇报，但不需要负责具体的执行。选项C表述
+错误，符合题意，故本题选C。选项D，激励薪酬应与股东和其他利益相关者的长期利益以及风险调整后的资
+本回报率相一致，符合最佳实践。选项D表述正确，不符合题意。
+ 
+15.An effective audit committee is essential to the directors’ oversight of the firm. To
+improve its corporate governance, the board of a local bank has decided to establish an audit
+committee in order to be accountable for the accuracy and completeness of a firm’s financial
+and regulatory disclosures. Which of the following would be an appropriate role for the audit
+committee?
+A.Audit committee is responsible for defining the firm\u2019s risk management strategy.
+B.Audit committee is responsible for ensuring the firm's compliance with best-practice
+standards in financial matters.
+C.Audit committee is responsible for undertaking risk management functions on a day-to-day
+basis.
+D.Audit committee is responsible for ensuring that a firm minimizes its exposure to risks.
+参考答案：B
+【莽学解析】本题考查审计委员会的职责和作用。选项A，风险管理策略由风险委员会负责制定，并非审计委
+员会的职责。选项B，审计委员会负责确保公司在财务事项上能够尽可能符合最佳实践标准，故本题选 B。选
+项C，首席风险官负责日常履行风险管理职能，并非审计委员会的职责。选项D，确保公司将风险敞口降至最
+低并不是风险管理工作的目标，也不是审计委员会的职责。
+ 
+16.The CRO is a member of the management committee and is responsible for designing the bank’s
+risk management strategy. The risk advisory director is a member of the board who specializes
+in risk matters. Which of the following statements about the roles of the chief risk officer
+(CRO) and the risk advisory director is least accurate?
+A.The CRO should develop the analytical, systems, and data management capabilities to support
+the risk management program.
+B.The CRO may have a solid line reporting to the board under extreme circumstance without fear
+for his or her job security or compensation.
+C.The risk advisory director provides advice on the firm\u2019s best practice of corporate
+governance and risk management for the industry.
+D.The risk advisory director implements risk indicators and reports, including losses and
+incidents, key risk exposures, early warning indicators.
+参考答案：D
+【莽学解析】本题考查了首席风险官和风险咨询懂事的职责。选项A，首席风险官在日常工作中，应开发分析
+、系统和数据管理能力以支持风险管理计划。选项表述正确，不符合题意。选项B。在极端情况下，首席风险
+官可以直接向董事会报告，而不用通过首席执行官。选项表述正确，不符合题意。选项C。风险咨询董事根据
+行业内的公司治理和风险管理的最佳实践为公司提供建议，为风险咨询懂事的职责。选项表述正确，不符合
+题意。选项D。首席风险官监控风险指标和报告，包括损失和事件、关键风险敞口、预警指标，并非风险咨询
+懂事的职责。选项表述错误，符合题意，故本题选 D。
+ 
+17.There are two investors, Jane and Peter. They have different indifference curves. The
+indifference curve of Jane has a much deeper slope than that of Peter, all else are equal, both
+investors prefer less risk to more, and prefer a higher return to lower. Which of the following
+is accurate considering the optimal portfolio and level of risk aversion for Jane to Peter?
+A.Lower on the efficient frontier curve; Lower
+B.Lower on the efficient frontier curve; Higher
+C.Higher on the efficient frontier curve; Higher
+D.None of the above is correct.
+参考答案：B
+【莽学解析】本题考查无差异曲线与有效前沿的切点组合。根据题目信息，两位投资者都是风险厌恶投资者
+。由于Jane的无差异曲线更为陡峭，因此她的风险厌恶程度更高。在有效前沿上的表现是：无差异曲线与有
+效前沿的切点在横坐标轴上越靠左，选项B正确。
+ 
+18.An investment manager is responsible for the asset allocation for its client. He collects
+information on all available combinations in the market as follow:
+A.1 and 4.
+B.1 and 3.
+C.2 and 3.
+D.3 and 4.
+参考答案：A
+【莽学解析】本题考查了理性投资者选择资产和组合的标准。在现代投资组合理论中，马柯维茨认为理性投
+资者的选择符合两个标准：1. 相同期望收益率情况下，选择标准差较小的；2. 相同标准差情况下，选择期
+望收益率较大的；根据条件，组合1和组合3期望收益率相等，但组合1标准差较小；组合2和组合4标准差相等
+，但组合4期望收益率更大；因此组合1和组合4符合标准。因此选项A正确。
+ 
+19.The efficient frontier is defined by the set of portfolios that, for each volatility level,
+maximizes the expected return. According to the capital asset pricing model (CAPM), which of
+the following statements are correct with respect to the efficient frontier and the capital
+market line?I. The capital market line is the straight line connecting the risk-free asset with
+the zero beta minimum variance portfolio.II. The capital market line always has a positive
+slope and its steepness depends on the market risk premium and the volatility of the market
+portfolio.III. The capital market line is more efficient than Markowitz efficient frontier
+since it provides higher return under the same volatility.IV. The capital market line allows
+different individuals to have different portfolios of risky assets based upon their own risk
+aversion and forecast for asset returns.V. The capital market line assumes no transaction
+costs, no taxes, a common investment horizon for all investors, and that the return
+distribution has no skewness.
+A.II, III and V.
+B.I, II and III.
+C.I, IV and V.
+D.II, III and IV.
+参考答案：A
+【莽学解析】本题考查资本资产定价模型和有效前沿的性质。说法I，资本市场线是连接无风险资产与市场组
+合的直线，而市场组合的贝塔值为1，因此原说法错误。说法II，资本市场线斜率为市场组合的夏普比率，因
+此在市场均衡状态下，斜率永远为正，且陡峭程度取决于市场风险溢价和市场组合的波动性，原说法正确。
+说法III，CML比Markowitz有效前沿更加有效，因为CML在同样的波动率水平下能够获得更高的收益，因此原
+说法正确。说法IV，在资本资产定价模型中，模型假设所有投资者都有共同的预期，因此原说法错误。说法
+V，资本市场线假设没有交易成本，没有税收，所有投资者都有一个共同的投资期限，并且收益分布没有偏度
+，原说法正确。因此选项A正确。
+ 
+20.Which of the following are assumptions of the Capital Asset Pricing Model?I. Access to
+information for all market participants, meaning that all information is freely available and
+instantly absorbed.II. All participants can borrow and lend at the same risk-free rate.III.
+Each of investors has his own expectations concerning returns.IV. The time horizons of
+investors are normally distributed.
+A.I and III.
+B.II and IV.
+C.I and II.
+D.III and IV.
+参考答案：C
+【莽学解析】本题考查资本资产定价模型的假设。I，市场上所有投资者都可获得信息，即所有信息都可免费
+获得并立即被反映在股价上，属于模型的假设。II，市场上所有投资者都可以以无风险利率进行借贷，属于
+模型的假设。III，模型假设所有投资者都有共同的预期，因此原说法不属于模型假设。IV，模型假设投资期
+限为单期，并没有假设投资期限服从正态分布，因此原说法不属于模型假设。因此选项C正确。
+ 
+21.Aaron Lee, FRM, is designing a new fund that replicates the actual moves of the Nikkei 225
+but with twice the volatility of the index. The Nikkei 225 has an expected annual return of 6%
+and a volatility of 10%, and the risk-free rate is 3% per year. If the correlation between the
+Nikkei 225 index and the fund’s return is 1, What is the expected return of the fund using
+CAPM model?
+A.7.3%
+B.8.1%
+C.9.0%
+D.11.0%
+参考答案：C
+【莽学解析】
+ 
+ 
+22.
+A.The CAPM required return is 7.2%, so long Company Alpha’s stock.
+B.The CAPM required return is 13.2%, so long Company Alpha’s stock.
+C.The CAPM required return is 7.2%, so short Company Alpha’s stock.
+D.The CAPM required return is 13.2%, so short Company Alpha’s stock.
+参考答案：A
+【莽学解析】本题考查资本资产定价模型的应用。根据题目信息，当前Alpha公司的实际收益率是8%，由资本
+资产定价模型可知，该公司的要求收益率为：
+由于要求收益率小于实际收益率，因此公司Alpha被低估，要买入。选项A正确。
+ 
+23.Suppose S&P 500 has an expected annual return of 10% and volatility of 25%. Suppose the NNP
+Fund has an expected annual return of 8% and volatility of 20% and is benchmarked against the
+S&P 500. If the risk-free rate is 3% per year, what is the beta of the NNP Fund and the
+Correlation for the NNP and the S&P 500 according to the CAPM?
+A.β=0.7 ρ=0.355
+B.β=1.6 ρ=0.4331
+C.β=0.71 ρ=0.8875
+D.β=2.5 ρ=0.9173
+参考答案：C
+【莽学解析】本题考查贝塔和相关系数的计算。根据资本资产定价模型：
+ 
+ 
+24.
+A.Sell (or short) the risky asset because its expected return is less than the expected return
+of the market portfolio.
+B.Buy the risky asset because its expected return is higher than its required return in
+equilibrium.
+C.Sell (or short) the risky asset because its expected return is lower than the required return
+to compensate for its systematic risk.
+D.Buy the risky asset because its expected return is lower than its required return in
+equilibrium.
+参考答案：C
+【莽学解析】
+ 
+ 
+25.
+A.11.5%.
+B.12.0%.
+C.12.5%.
+D.13.5%.
+参考答案：C
+【莽学解析】
+ 
+ 
+26.
+A.0.12
+B.0.13
+C.0.11
+D.0.10
+参考答案：B
+【莽学解析】本题考查夏普比率的计算。
+故本题选 B。
+ 
+27.John Niu, the research head of a securities firm, evaluates the firm’s investment
+performance report with Litterford Niu, an analyst within research department. In the report,
+Litterford Niu used both Treynor ratio and Sharpe ratio to describe the performance. Which one
+is inappropriate for the evaluation of two ratios?
+A.Treynor ratio uses beta as denominator while Sharpe ratio uses total volatility as
+denominator.
+B.Treynor ratio only considers systematic risk while Sharpe ratio considers total risk. 
+C.Treynor ratio could be fitted to well-diversified portfolio while Sharpe ratio could not.
+D.Treynor ratio is best used to evaluate the performance of the index fund.
+参考答案：C
+【莽学解析】
+ 
+ 
+28.Suppose Portfolio A has an actual return of 8%, volatility of 20%, and beta of 0.5 in the
+last year. The market has an expected return of 10% and volatility of 25% in the same period.
+Finally, the risk-free rate is 5%. What is Jensen’s alpha for Portfolio A?
+A.10.00%
+B.1.00%
+C.0.50%
+D.15.00%
+参考答案：C
+【莽学解析】
+ 
+ 
+29.
+A.-0.17 and -0.22
+B.-0.12 and -0.22
+C.-0.21 and -0.17
+D.-0.15 and -0.22
+参考答案：D
+【莽学解析】本题考查了特雷诺指标的计算。根据题目条件：
+因此选项D正确。
+ 
+30.Which of the following statements about tracking error and information ratio is most likely
+to be incorrect?
+A.Both are used to measure portfolios versus benchmarks.
+B.Tracking error is the variance of the return difference between the portfolio and benchmark,
+which can be used to measure active risk.
+C.The information ratio measures the active return per unit of active risk.
+D.The tracking error of the benchmark portfolio is 0.
+参考答案：B
+【莽学解析】本题考查了跟踪误差和信息比率的性质。选项A，跟踪误差和信息比率都是以基准组合作为基础
+，衡量投资组合风险和回报的指标。选项A表述正确，不符合题意。选项B，跟踪误差可用于衡量组合主动风
+险，也是指组合收益率和基准收益率差额的标准差，并不是方差。选项B表述错误，符合题意，故本题选B。
+选项C，信息比率衡量了承担1单位主动风险，可获得多少主动回报。选项C表述正确，不符合题意。选项
+D，根据跟踪误差的定义，基准组合的跟踪误差为0。选项D表述正确，不符合题意。
+ 
+31.The Arbitrage Pricing Theory (APT) has all of the following characteristics EXCEPT:
+A.No arbitrage opportunities exist.
+B.The market contains enough stocks so that unsystematic risk can be diversified away.
+C.APT assumes investors hold efficient portfolios and and are risk averse.
+D.Expected asset returns are linear functions of the asset's risk relative to a set of factors.
+参考答案：C
+【莽学解析】本题考查对于APT的理解。选项A，APT模型假设无套利机会。选项A表述正确，不符合题意。选
+项B，APT模型假设有足够的证券可以将非系统性风险分散掉。选项B表述正确，不符合题意。选项C，APT模型
+不需要假设投资者持有有效组合，也不需要假设投资者是风险厌恶的。选项C表述错误，符合题意，故本题选
+C。选项D，从APT模型的公式可以看出，资产的预期收益是一系列因子的线性表达式。
+选项D表述正确，不符合题意。
+32.Which of the following statements regarding the arbitrage pricing theory (APT) as compared
+to the capital asset pricing model (CAPM) is least accurate?
+A.APT does not require that one of the risk factors is the market portfolio.
+B.APT requires a weaker set of assumptions than the CAPM to derive.
+C.APT is often thought as a special case of the CAPM.
+D.APT is a no-arbitrage model.
+参考答案：C
+【莽学解析】本题考查CAPM和APT的对比。选项A，与CAPM相比，APT的风险因子没有要求一定包含市场组合
+，而CAPM只有一个风险因子，即市场组合的风险溢价。选项A表述正确，不符合题意。选项B，与CAPM相比
+，APT的假设较少，没有CAPM的假设那么严格。选项B表述正确，不符合题意。选项C，CAPM可以视为APT的一
+种特殊情况，而并非APT是CAPM的一种特殊情况。选项C表述错误，符合题意，故本题选C。选项D，APT是基于
+无套利的假设前提推导出来的，所以是一个无套利模型。选项D表述正确，不符合题意。
+ 
+33.
+A.19.4%
+B.18.9%
+C.21.3%
+D.21.8%
+参考答案：A
+【莽学解析】本题考查了Fama-French三因子模型的应用。根据Fama-French三因子模型，该公司的期望收益
+率为：
+注意三因子模型中不包括通胀风险，因此不能包含进去。因此选项A正确。
+ 
+34.
+A.Scenario A
+B.Scenario B
+C.Scenario C
+D.Scenario D
+参考答案：A
+【莽学解析】
+ 
+ 
+35.
+A.Long CHF 3,000,000 of Asset B and long CHF 2,000,000 of Asset C. 
+B.#VALUE!
+C.nbsp;B. Short CHF 3,000,000 of Asset B and short CHF 2,000,000 of Asset C. C. Long CHF
+3,000,000 of Asset B.
+D.Short CHF 7,000,000 of Asset C.
+参考答案：A
+【莽学解析】
+ 
+ 
+36.Which of the following about the principle of risk data aggregation is incorrect?
+A.Governance has no effect on the risk data aggregation.
+B.Bank should design, build and maintain IT infrastructure which fully supports its risk data
+aggregation capability.
+C.The right information needs to be presented to the right people at the right time.
+D.Risk management report should accurately and precisely convey aggregated risk data.
+参考答案：A
+【莽学解析】本题考查风险数据整合与风险汇报。选项A，公司治理架构是风险数据整合的强有力支持，也是
+原则之一。选项A表述错误，符合题意，故本题选A。选项B，银行应设计、建设和维护支持其风险数据聚合能
+力的IT基础设施，是原则之一。选项B表述正确，不符合题意。选项C，风险汇报即将正确的信息在正确的时
+间呈现给正确的人。选项C表述正确，不符合题意。选项D，风险管理报告应准确、准确地传达汇总的风险数
+据，是原则之一。选项D表述正确，不符合题意。
+ 
+37.To do a good job of risk data integration, banks need to follow the relevant principles,
+except which of the following?
+A.Timeliness
+B.Accuracy and Integrity
+C.Comprehensiveness
+D.Adaptability
+参考答案：C
+【莽学解析】本题考查风险数据整合与风险汇报。选项A，及时性是风险数据整合的原则之一，不符合题意。
+选项B，精确性和准确性是风险数据整合的原则之一，不符合题意。选项C，综合性是风险报告的原则之一
+，表述错误，符合题意，故本题选C。选项D，适用性是风险数据整合的原则之一，不符合题意。
+ 
+38.William is a new employee in Rosenfeld Asset Management Co., Ltd and his first task is to
+prepare a risk report to the board of directors. In order to let his boss see his talents as
+quickly as possible, he decided to use vocabularies as professional and complex as possible to
+show his solid expertise and professionalism. After a while, William finished his job and he
+submitted the risk report to his boss, but the boss told him that the risk report did not meet
+the company’s requirements and needed to be revised thoroughly. Which of the following
+statements is most likely the reason why William’s report was not qualified?
+A.Risk management report should be easy to understand to facilitate decision-making.
+B.Reports should include an appropriate balance between risk data, analysis and interpretation,
+and qualitative explanations.
+C.Risk management reports should accurately and precisely convey aggregated risk data and
+reflect risk in an exact manner.
+D.Risk management reports should cover all material risk areas within the organization.
+参考答案：A
+【莽学解析】本题考查风险数据整合与风险汇报。选项A，风险报告应该易于理解，以辅助决策，即银行的风
+险报告在编辑的时候要注意用词清晰、易懂同时能传达给管理层及董事会准确完整的信息，不能一味追求华
+丽的词汇而造成报告的阅读困难。但是William的报告却使用了大量专业复杂的词汇，这不符合风险报告的原
+则。选项A表述正确，符合题意，故本题选A。选项B，风险报告应包括风险数据、分析和定性解释之间的适当
+平衡，但题干中没有体现William违反该原则。选项B表述错误，不符合题意。选项C，风险管理报告应准确地
+传达汇总的风险数据，并以准确的方式反映风险，但题干中没有体现William违反该原则。选项C表述错误
+，不符合题意。选项D，风险管理报告应涵盖组织的所有重大风险领域，但题干中没有体现William违反该原
+则。选项D表述错误，不符合题意。
+ 
+39.One of the most important lessons learned from the 2007-2008 global financial crisis was
+that banks’ risk data aggregation capabilities were inadequate to ensure that risk management
+reports reflect the risks in a reliable way. This had severe consequences to the banks
+themselves and to the stability of the financial system. Which of the following statements
+about risk data aggregation capability is least accurate？
+A.There should be an appropriate balance between automated and manual systems. Generally
+speaking, a higher degree of automation is desirable to reduce the risk of errors.
+B.A bank\u2019s risk data aggregation capabilities should include all material risk exposures,
+including those that are off-balance sheet.
+C.A bank should be able to generate aggregate risk data to meet a broad range of normal but not
+ad hoc risk management reporting requests.
+D.Data should be available by business line, legal entity, asset type, industry, region and
+other groups that permit identifying and reporting risk exposures, concentrations and emerging
+risks.
+参考答案：C
+【莽学解析】本题考查风险数据整合与风险汇报。选项A，在风险数据的收集过程中，自动和手动系统之间应
+该有适当的平衡，一般来说，需要更高程度的自动化来降低出错的风险。选项A表述正确，不符合题意。选项
+B，银行的风险数据汇总能力应包括所有重大风险敞口，也包括表外风险敞口。选项B表述正确，不符合题意
+。选项C，银行应能够生成总体风险数据，以满足广泛的正常以及临时风险管理报告要求，即除了要能应付正
+常的数据需求，对于一些临时的，紧急时候的数据要求也要能获取的到。选项C表述错误，符合题意，故本题
+选C。选项D，数据应按业务线、法人实体、资产类型、行业、地区和其他允许识别和报告风险敞口、集中度
+和新兴风险的群体提供。选项D表述正确，不符合题意。
+ 
+40.Which of the following statements most accurately describe enterprise risk management (ERM)?
+A.Decisions are made on an overall basis.
+B.Separately manage individual risks within an organization.
+C.ERM is a consistent approach applies the perspectives and resources at the top of the
+enterprise which means the boardroom rather than business line .
+D.Since ERM is a comprehensive view of company risk, thus the total risk measured under ERM is
+higher than the sum of risks measured individually.
+参考答案：A
+【莽学解析】本题考查ERM的概念。选项A，ERM是站在整个公司的角度来看待风险，制定决策。选项A表述正
+确，符合题意，故本题选A。选项B，ERM是将所有风险整合，并非单独管理每类风险。选项B表述错误，不符
+合题意。选项C，ERM应用企业高层的视角和资源来管理整个风险组合，它支持对整个公司的企业风险采取一
+致的方法，这个一致性体现为从董事会到业务线，而并非只有董事会层面。选项C表述错误，不符合题意。选
+项D，由于ERM是对公司风险的全面评估，考虑了风险之间的分散化效果，因此在ERM下衡量的总风险低于单独
+衡量风险然后加总。选项D表述错误，不符合题意。
+ 
+41.The core risk exposure for banks is credit risk. Therefore, how to effectively manage credit
+risk has become an important focus of bank development. Historically, banks have often used
+mitigate strategy and transfer strategy. Which of the following is not an approach of
+mitigation or transfer strategy?
+A.Marking-to-market
+B.Asset liability management
+C.Collateral
+D.Credit derivatives
+参考答案：B
+【莽学解析】本题考查了银行管理信用风险的手段。选项A，银行通过逐日盯市，定期对头寸进行重新估值
+，并与交易对手转移净值变动，从而将信用风险低，属于信用风险缓释策略。选项B，银行通过资产负债的匹
+配管理，可以降低流动性风险，因此不属于信用风险缓释策略，故本题选B。选项C，银行收取担保物，可以
+在发生信用风险事件时，降低损失，因此属于信用风险缓释策略。选项D，信用衍生品可帮助银行将信用风险
+转移给第三方，因此并不属于信用风险缓释策略。
+ 
+42.A risk consultant is reviewing the role of securitization in the 2007 credit crisis to
+better understand the lessons learned as a result of the crisis. Which of the following least
+describe the mortgage securitization market?
+A.The originator will typically have an information advantage over the arranger, which can
+create an incentive for the originator to collaborate with the borrower in filing false loan
+applications.
+B.During the crisis, the investors of collateralized debt obligations who purchased the credit
+default swaps faced with no credit risk.
+C.Rating agencies have strong incentives to provide the required ratings in structured products
+to keep this profitable.
+D.Securitization enabled the originate-to-distribute model of banking to replace the
+traditional model of banking.
+参考答案：B
+【莽学解析】本题考查金融危机的相关事件。选项A，银行通常比其他机构拥有信息优势，因此促使银行与借
+款人合作，提交虚假贷款申请，从而获得贷款。选项表述正确，不符合题意。选项B，在2008年的危机中，房
+价下跌，大量结构化产品违约，出售CDS的金融机构赔付压力巨大进而导致CDS也出现大量违约，因此，CDO的
+投资者即便购买了CDS来转移风险也无法保证没有信用风险，因为CDS产品也可能发生违约。选项表述错误
+，符合题意，故本题选 B。选项C，评级机构有很强的动机在结构化产品中提供发行方所需的评级，以获得利
+润。选项表述正确，不符合题意。选项D，资产证券化取代了银行传统的买入并持有模式。选项表述正确，不
+符合题意。
+ 
+43.After Global Financial Crisis, the evaluation of structured products and OTD model is
+controversial. Which of the following evaluation is not appropriate?
+A.The OTD model makes banks less sensitive to credit risk and have more funding sources to
+support their lending.
+B.The OTD mode provide banks with a possible way to reduce capital, however, the risk is not
+eliminated, but transferred to the investors of structured products.
+C.Modelling cash flows of structures products is not easy since the complexity of structured
+products and less transparency.
+D.In general, OTD model leads to the accumulation of excessive risks in the financial system,
+so it should be banned.
+参考答案：D
+【莽学解析】本题考查OTD模式及其问题。虽然OTD模式在金融危机中暴露出诸多问题，但整体而言，OTD模式
+对于银行、借款者和金融市场都是有利的，我们对他应持有积极的态度，但是在使用时应该有更多风险管理
+的考量和限制，而不是一味的禁止。选项D表述错误，符合题意，故本题选D。选项A，OTD模式使银行对信用
+风险不那么敏感，并有更多的资金来源来支持其发放贷款。选项A表述正确，不符合题意。选项B，表外结构
+化产品和OTD模式为银行提供了一种可能的降低资本金的方法，这是因为，银行的资本金要求是基于其风险资
+产的规模来计提的，如果通过资产证券化模式将风险资产打包卖掉，则不会再体现在资产负债表中，因此表
+内资产规模下降，资本金要求也相应降低，但是风险并没有消除，只是从银行端转移给了投资者。选项B表述
+正确，不符合题意。选项C，结构化产品的现金流建模并不容易，因为结构化产品的复杂性和透明度较低。选
+项C表述正确，不符合题意。
+ 
+44.It is useful to recall some key factors leading up to the housing bubble to understand the
+credit crunch 2007-2008, which of the following concerning the factors are most correct?I. Low
+interest rate environment both because of large capital inflows from abroad, and the Federal
+Reserve had adopted a lax interest rate policy.II. The traditional banking model, in which the
+issuing banks hold loans until they are repaid, was replaced by the “originate and
+distribute” banking model, in which loans are pooled, trenched, and then resold via
+securitization.
+A.I only
+B.II only
+C.Both I and II
+D.Neither I nor II
+参考答案：C
+【莽学解析】本题考查金融危机中房地产泡沫的成因。I. 低利率环境的原因是由于来自国外的大量资本流入
+，也有美联储采取了宽松的利率政策。表述正确。II. 传统的银行模式，即发行银行持有贷款直到贷款清偿
+，被OTD模式所取代，在这种模式中，贷款被打包后分层，然后通过证券化出售。表述正确。故本题选 C。
+ 
+45.Delinquencies on adjustable-rate subprime mortgages rose markedly in 2007 and by August of
+that year, the rate of serious delinquencies approached to 16%. Which of the following is not a
+reason that caused delinquencies on subprime mortgages rose?
+A.The inherent credit quality of the borrower was typically weak and the mortgage was often
+undercollateralized.
+B.Many subprime mortgages included teaser rates.
+C.The heavy demand for subprime mortgage products encouraged questionable practices by some
+lenders.
+D.Originating brokers had a strong incentive to conduct due diligence.
+参考答案：D
+【莽学解析】本题考查了次贷危机中次级贷款违约率上升的原因。选项A，在房价上涨的背景下，银行持续不
+断放出贷款，使得市场上还款能力不足的人也可取得房贷，因此借款人的信用质量较差，是导致违约率上升
+的原因，不符合题意。选项B，次级贷款的引诱利率，使得借款人后续还款压力大，提高了违约率，不符合题
+意。选项C，次级贷款产品的需求激励了银行不断地放出贷款，即使面对还款能力不足的人，银行也愿意放贷
+，因此提高了违约率，不符合题意。选项D，由于银行可以以资产证券化模式将信用风险转移至市场上的投资
+者，因此银行没有动机去做尽职调查。选项D表述错误，符合题意，故本题选D。
+ 
+46.As the outbreak of financial crisis in 2007, the short-term wholesale funding markets
+started to freeze. As the consequences, there was a significant increase in:
+A.Repo haircuts
+B.OIS-Libor spread
+C.Credit spreads on all credit assets
+D.All of above
+参考答案：D
+【莽学解析】本题考查危机爆发时的流动性枯竭。在危机发生前，很多金融机构依赖于短期的银行间市场融
+资（批发融资），危机爆发后，短期批发融资市场流动性枯竭，这导致了一系列后果。第一，通过回购这种
+短期融资方式进行融资，用作抵押品的资产价值折价升高，也就意味着，相较于正常的市场状况，危机期间
+获得同样的融资需要提供更高价值的抵押品。第二，OIS (overnight index swap) rate 和 Libor 之间的利
+差在危机期间大幅升高，这意味着信用风险大幅升高。其中，OIS 利率代表一个国家在一定时期内的中央银
+行利率，在美国，这是由美联储控制的关键基准利率。Libor是银行间短期无担保贷款收取的平均利率水平
+，旨在反应世界各地银行提供的短期借款成本的均值。第三，所有信用资产的信用利差变大，这是由于信用
+风险增加，所以对应的信用资产的价格降低。选项 A、B、C 表述正确，故本题选 D。
+ 
+47.In the process of securitization, the rating agency is an independent party that provides
+rating opinions on structured products. However, the financial crisis has exposed many problems
+of rating agencies, including which of the following?I. Flawed assumptions of rating models.II.
+Relying on data received from arrangers.III. Profit-driven incentives to provide required
+ratings.
+A.I and II
+B.I and III
+C.II and III
+D.All of above
+参考答案：D
+【莽学解析】I：评级机构的评级模型是基于历史数据而建立的，但是这无法及时反映市场的变化，因此，对
+于结构化产品这种新的金融产品进行评级时，旧模型的的前提假设不再适合。I表述正确。II：评级机构在进
+行评级时主要依赖于产品发行方提供的数据与资料，而并非自己去做详尽的尽职调查，因此，可能出现为了
+发行方产品能达到目标评级而提供虚假材料的情况。II表述正确。III：在利益的驱使下，评级机构有动力去
+给出一个不符合实际情况的产品评级。III表述正确。故本题选D。
+ 
+48.Lehman Brothers filed for bankruptcy on September 15, 2008. At the time of its collapse,
+Lehman was the fourth-largest investment bank in the United States. The bank became a symbol of
+the excesses of the 2007-08 Financial Crisis and cost an estimated $10 trillion in lost
+economic output. Which of the following is not a description about Lehman Brother case?
+A.With the U.S. housing bubble well under way, Lehman branched invested heavily in the
+securitized U.S. real estate market.
+B.As the credit crisis erupted in August 2007, Lehman's large mortgage securities portfolio
+made it highly susceptible to the deteriorating market conditions.
+C.Lehman could not roll over its debts from the market.
+D.A takeover of Lehman was finally done by Barclays and Bank of America.
+参考答案：D
+【莽学解析】本题考查融资流动性风险之雷曼兄弟案例。巴克莱银行和美国银行曾经想促成对雷曼兄弟的收
+购，但是最终失败了，因此雷曼的结局是以破产告终。选项 D 表述错误，符合题意，故本题选 D。选项
+A，随着美国房地产泡沫的快速累积，雷曼兄弟在此过程中已经美国房地产市场的证券化产品进行了大量投资
+。选项 A表述正确，不符合题意。选项 B，随着2007年8月次贷危机的爆发，雷曼兄弟庞大的抵押贷款证券组
+合使其极易受到不断恶化的市场环境的影响。选项 B表述正确，不符合题意。选项 C，雷曼兄弟当时难以从
+市场上获得额外的流动性。选项 C表述正确，不符合题意。
+ 
+49.Northern Rock relied on an originate-to-distribute approach, by which it raised money
+through securitizing mortgages, selling covered bonds, and making use of the wholesale,
+interbank funding markets. When Northern Rock became unable to fund itself through interbank
+loans, U.K. authorities discussed various strategies to relieve the bank’s difficulties. Which
+of the following is not a lesson learned from this case?
+A.Liquidity stress testing is important for banks to manage liquidity risk.
+B.Banks?should?not?use?derivatives?to?hedge?their?risks including?liquidity?risk.
+C.As it is not possible to perfectly coordinate liquidity, banks need emergency liquidity
+cushions to ensure they can meet their commitments.
+D.Banks may mitigate funding liquidity risk by reducing the maturity of their assets.
+参考答案：B
+【莽学解析】本题考查北岩银行风险案例。选项 A，流动性压力测试是一种重要的流动性风险管理手段。选
+项 A 表述正确，不符合题意。选项 B，使用衍生品交易可以对冲市场风险，但是增加更多的衍生品头寸会增
+加银行业务的杠杆率，加大流动性风险，但这并非导致北岩银行破产的原因。导致北岩银行破产的主要原因
+是资产与负债期限不匹配导致的融资流动性风险，故需要准备紧急的流动性缓冲，也可以通过资产负债的期
+限管理来降低流动性风险。选项 B 表述错误，符合题意，故本题选 B。选项 C，由于银行不可能做到完美地
+协调流动性，因此银行需要紧急流动性缓冲，以确保它们能够履行承诺。选项 C 表述正确，不符合题意。选
+项 D，银行可以通过降低资产到期日来降低资金流动性风险。选项 D 表述正确，不符合题意。
+ 
+50.Which of the following are examples of model risk illustrated in the Long-Term Capital
+Management case?I. Poor management oversight.II. Financial reporting standards.III. Inability
+to anticipate the sudden dryness of liquidity.IV. Underestimating correlations among asset
+classes during economic crises.
+A.II, III, and IV only
+B.III and IV only
+C.I, II, III, and IV
+D.I only
+参考答案：B
+【莽学解析】本题考查了长期资本管理公司的模型风险。说法I，案例中并没有涉及管理力度不足；说法
+II，案例并没有涉及财务报表标准；说法III，模型中不能预测到危机来临时，市场流动性的突然干涸，属于
+模型风险之一；说法IV，在危机时期，模型低估了资产之间的相关性，属于模型风险之一；故选项B正确。
+ 
+51.VaR modeling determines the potential for loss in the entity being assessed and the
+probability that the defined loss will occur. However, the misuse of VaR can lead to serious
+consequences and London whale is a case. Which of the following description is true?
+A.JPMorgan Chase\u2019s CIO, concluded the VaR model was too conservative and overestimated the
+risk of its SCP, thus, CIO modified the VaR model by using a higher confidence level.
+B.The bankwide VaR limit of JPMorgan Chase was broken in the aftermath of CIO adopting the
+modified VaR, since the higher confidence level used in new model lowered the risk and promoted
+the increase of losses.
+C.In addition to manipulation of VaR model, the error-prone manual data entry, incorporating
+formula and calculation errors, made the VaR estimation of CIO more unreliable, the garbage in
+made garbage out.
+D.Financial institutions use VaR models to calculate regulatory capital and for internal risk
+management. The OCC (Office of the Comptroller of the Currency) allows banks under its
+supervision to develop their own VaR models used for regulatory purposes and approved the VaR
+model of CIO.
+参考答案：C
+【莽学解析】本题考查伦敦鲸案例。CIO除了操纵VaR模型外，采用容易出错的手动数据输入，包括公式和计
+算错误，使得其VaR估计更不可靠，垃圾输入造成垃圾输出。选项 C 表述正确，符合题意，故本题选 C。选
+项 A，CIO得出结论，认为公司原先的VaR模型过于保守，高估了SCP的风险，因此，CIO 采用更高的置信水平
+修改了VaR模型。表述错误，VaR 模型高估风险意味着置信度水平选取较高，应该采用更低的置信度水平。选
+项 A 表述错误，不符合题意。选项 B，在CIO采用修改后的VaR后，摩根大通银行范围内的VaR限额被打破
+，因为新模型中使用的更高的置信水平降低了风险并促进了损失的增加。表述错误，新的VaR 模型采用了更
+低的置信度水平，使得风险测度降低，促进了损失的增加。选项 B 表述错误，不符合题意。选项 D，金融机
+构使用VaR模型计算监管资本并进行内部风险管理。OCC允许受其监管的银行开发自己的VaR模型，并批准了
+CIO的VaR模型。表述错误，CIO的VaR模型并没有获得 OCC 的批准。选项 D 表述错误，不符合题意。
+ 
+52.Which of the following is a common attribute of the collapse at both Metallgesellschaft and
+Long-Term Capital Management (LTCM)?
+A.Cash flow problems caused by large mark to market losses.
+B.High leverage.
+C.Fraud.
+D.There are no similarities between the causes of the collapse at Metallgesellschaft a
+参考答案：A
+【莽学解析】本题考查长期资本管理公司和德国金属公司案例比较。选项 A，德国金属公司和长期资本管理
+公司均在在衍生品市场进行了大量交易，由于衍生品头寸的亏损导致这两家公司都需要追加保证金，因此遭
+遇了现金流危机。选项 A 表述正确，符合题意，故本题选 A。选项 B，德国金属公司采用衍生品进行对冲
+，并没增加杠杆，而长期资本管理公司为了放大套利策略的收益，采取了高杠杆策略。选项 B 表述错误，不
+符合题意。选项 C，德国金属公司和长期资本管理公司均不涉及欺诈行为。选项 C 表述错误，不符合题意。
+选项 D，表述错误，不符合题意。
+ 
+53.Barings Bank eventually collapsed due to Nick Leeson's excessively speculative trading,
+which resulted in massive losses. Which of the following is not the reason for the failure of
+Barings?
+A.Nick Leeson was attempting to recover previous trading losses.
+B.The management of the company did not implement effective means of oversight on Nick Leeson.
+C.Inversion of the interest rate curve made the strategy face a huge loss.
+D.Nick Leeson's dual role in Barings allowed him to cover losses.
+参考答案：C
+【莽学解析】本题考查了巴林银行案例的失败原因。选项A，为了弥补前期的亏损，尼克里森使用了更为激进
+的投资策略，市场出现非预期状况时，策略遭受重大亏损。选项A表述正确，不符合题意。选项B，由于公司
+内部控制制度不完善，高管人员不能及时发现和控制尼克里森的投机交易行为。选项B表述正确，不符合题意
+。选项C，在巴林银行案例中，并没有提及利率曲线的形状。选项C表述错误，符合题意，故本题选C。选项
+D，尼克里森在公司内部兼任投资岗位和办公室岗位，其权利使得他有能力掩盖亏损。选项D表述正确，不符
+合题意。
+ 
+54.Corporate governance is the way in which companies are run. Poor corporate governance may
+lead to corporate failure. Which of the financial disasters was not affected by poor corporate
+governance?
+A.Enron
+B.The London Whale
+C.The Savings and Loan Crisis\uff0cS&L
+D.Barings
+参考答案：C
+【莽学解析】本题考查与公司治理想换的风险案例综合判断。The Savings and Loan Crisis，S&L讲的是
+20世纪80年代美国储蓄贷款行业的崩溃，主要是储蓄贷款机构未能管理好自己的利率风险，在利率朝不利方
+向波动时，行业遭受了巨大的损失，在美国引发了一场旷日持久的危机。其余三个案例均涉及公司治理问题
+。选项 C 符合题意，故本题选 C。
+ 
+55.Financial derivatives and structured financial instruments can be used separately to hedge
+specific risks or be combined to form complex structures that meet client needs. Which of the
+following is not a failure case of using complex financial instruments?
+A.Orange County
+B.Metallgesellschaft
+C.Bankers Trust
+D.Sachsen
+参考答案：B
+【莽学解析】本题考查对于复杂的金融工具缺乏了解导致失败的案例。德国金属公司的失败原因是因为其对
+冲策略中的短期期货交易中由于逐日盯市需要及时补交保证金，这使得母公司需要不断提供现金流进行支持
+，而导致账面亏损严重，最终被母公司要求平仓，导致巨额亏损。并不是因为使用复杂衍生品而导致的失败
+，选项 B 表述错误，符合题意，故本题选 B。选项 A，Orange County的财政长官以 Orange County 的名义
+借款并投资于复杂的反向浮动利率债券中，导致巨额亏损以及 Orange County 破产，是因为使用复杂衍生品
+而导致的失败案例。选项 A 表述正确，不符合题意。选项 C，Bankers Trust 为 P&G 和 Gibson Greeting
+设计了复杂的互换产品，导致两家公司亏损严重，Bankers Trust 因此被起诉并且赔偿，最终也因名誉受损
+而被 Deutsche Bank 收购，是因为使用复杂衍生品而导致的失败案例。选项 C 表述正确，不符合题意。选
+项 D，Sachsen 投资了大量的美国的 MBS 产品，次贷危机爆发后，亏损严重，最终被 Landesbank 收购，是
+因为使用复杂金融工具而导致的失败案例。选项 D 表述正确，不符合题意。
+ 
+56.The misconducts of firms will not only cause losses, but also damage the reputations. Which
+of the following case did not suffer the damage of reputation?
+A.Enron
+B.Volkswagen
+C.Bankers Trust
+D.LTCM
+参考答案：D
+【莽学解析】本题考查声誉风险。LTCM 的失败是由于模型风险而不是由于不当行为造成的声誉风险。选项 D
+表述正确，符合题意，故本题选 D。选项 A，Enron 的失败主要是公司治理方面的失败，Enron 的高管层集
+体腐败进行财务造假，公司的声誉也因此被损害，最终破产。选项 A 表述错误，不符合题意。选项
+B，Volkswagen为了其生产的汽车能够通过 EPA 的环保监管测试，大众汽车将其柴油发动机的某些排放控制
+程序设定为仅在监管测试期间激活，而不是在实际驾驶期间激活。因此，尽管氮氧化物水平在监管测试期间
+符合美国标准，但当汽车实际上路时，氮氧化物水平大大超过了这些标准。这一行为对大众汽车的声誉造成
+了影响。选项B 表述错误，不符合题意。选项 C，Bankers Trust为 P&G 和 Gibson Greeting 设计了复杂的
+互换产品，并且存在刻意隐瞒和误导行为，导致两家公司亏损严重，Bankers Trust 因此被起诉并且赔偿
+，最终也因名誉受损而被 Deutsche Bank 收购。选项 C 表述错误，不符合题意。
+ 
+57.Harriet Fields, an investment adviser specializing in selling municipal bonds, advertises on
+television explaining their safety and security. The bonds she is currently selling is limited
+obligation bonds backed only by the revenue generated from the projects they fund, which
+include a housing project and a golf course. Fields tells her prospective clients that the
+bonds are safe, secure, and offer generous interest payments. Which of the following statements
+is most correct regarding Fields’s actions?
+A.Fields did not violate the GARP Code of Conduct because municipal bonds are generally
+regarded as being safe investments.
+B.Fields violated the part of the GARP Code of Conduct dealing with confidentiality.
+C.Fields violated the GARP Code of Conduct when she misrepresented the bonds by not explaining
+their inherent risks.
+D.Fields has not violated any of the ethical responsibilities related to the GARP Code of
+Conduct.
+参考答案：C
+【莽学解析】本题考查GARP 行为准则。Fields违反了行为准则中的职业操守和道德操守部分，错误地将债券
+表述为安全可靠的债券，而事实上他们是在投资风险项目，并且仅以这些项目产生的收入作为支持，而
+Fields 没有解释债券的内在风险，向客户保证债券是安全的，歪曲了事实。根据准则，GARP成员不得故意歪
+曲与分析、建议、行动或其他专业活动有关的细节。选项 C 表述正确，符合题意，故本题选 C。
+ 
+58.Charmaine Townsend, FRM, has been managing a growth portfolio for her clients using a
+screening process that identifies companies that have high earnings growth rates. Townsend has
+decided that because of a volatile economy. she is going to adopt a value strategy using a
+screening process that identifies companies that have low price-earnings multiples. Townsend
+will violate the GARP Code of Conduct if she makes this change in her investment process
+without:
+A.notifying her supervisor before she makes the change.
+B.promptly notifying her clients of the change.
+C.getting written permission from her clients in advance of the change.
+D.getting prompt written acknowledgment of the change from her clients within a reasonable time
+after the change was made.
+参考答案：B
+【莽学解析】本题考查GARP 行为准则。Townsend改变交易策略并没有及时告知其客户，这违背了GARP成员应
+充分、公平地披露所有可能会损害独立性和客观性，或干扰其对雇主、客户和潜在客户各事项的原则。选项
+B 表述正确，符合题意，故本题选 B。
+ 
+59.Grey recommends the purchase of a mutual fund that invests solely in long-term US Treasury
+bonds. He makes the following statements to his clients:I. “The payments of the bonds are
+guaranteed by the US government; therefore, the default risk of the bonds is virtually
+zero.”II. “If you invest in the mutual fund, you will earn a 10% rate of return each year for
+the next several years based on the historical performance of the market.”Did Grey’s
+statements violate the GAAP Institute Code and Standards?
+A.Neither statement violated the Code and Standards.
+B.Only statement I violated the Code and Standards.
+C.Only statement II violated the Code and Standards.
+D.Both statements violated the Code and Standards.
+参考答案：C
+【莽学解析】本题考查GARP 行为准则。I．“债券的支付由美国政府担保，因此违约风险几乎为零”。这是
+客观事实的陈述，没有违反行为准则。II．“如果你投资共同基金，根据市场的历史表现，你将在未来几年
+每年获得10%的回报率”。保证了共同基金的特定回报率，是一种观点而非客观事实的陈述，因此是一种虚假
+陈述，违反了行为准则。故本题选C。
+ 
+60.Junaid Manzoor has been hired as head of risk management by KDB Asset Management, a small
+investment firm in Pakistan. Manzoor implements a risk measurement framework to gauge portfolio
+risk for the firm. Unfortunately, the methodology he implements for risk measurement has
+changed considerably in recent years and is no longer used internationally. Neither Manzoor nor
+anyone else at the firm is aware of the changes to risk measurement approaches. As a GARP
+member, has Junaid violated the GARP Code of Conduct?
+A.No, this is not a violation of the GARP Code of Conduct because neither Manzoor nor the firm
+is aware of the changes to risk measurement approaches.
+B.No, this is not a violation at the methodology worked when Manzoor took his FRM exams.
+C.This is only a violation of the GARP Code of Conduct if investment decisions are made based
+on Manzoor\u2019s risk reports.
+D.Yes, this is a violation of the GARP Code of Conduct.
+参考答案：D
+【莽学解析】本题考查GARP 行为准则。Junaid Manzoor实施的风险衡量方法近年来发生了很大变化，不再在
+国际上使用。Manzoor和该公司的其他任何人都不知道风险衡量方法的变化。这违反了行为准则，GARP行为准
+则规定，GARP成员应熟悉当前普遍接受的风险管理实践。故本题选 D。
+ 
+61.Lilei and Hanmeimei is discussing the impact of ERM program implemented recently. Which of
+the following statement is incorrect?
+A.ERM provide a vertical version of the whole company, so that the potential threats can be
+identified easily, such as concentration risk, cyber risk, etc.
+B.ERM can help the company to make risk retention decisions at the enterprise level, by
+understanding the aggregate level of risk exposure.
+C.ERM requires sponsorship and investments from the board and senior management at the initial
+of the program rather than the muti-year engagement.
+D.ERM can promote the business strategies and decisions better adhere to risk appetite.
+参考答案：C
+【莽学解析】本题考查ERM的好处和成本。ERM要求董事会和管理层持续的支持和投资，这是经年累月的，而
+不是在ERM项目搭建的期初一次性投资就可以完成的事情。选项C表述错误，符合题意，故本题选C。选项
+A，ERM提供了一个垂直的视角来看待公司，因此可以更容易地识别潜在威胁，如集中风险、网络风险等。选
+项A表述正确，不符合题意。选项B，ERM是站在整个公司的角度，通过了解风险暴露的总体水平，帮助公司在
+企业层面做出风险保留决策。选项B表述正确，不符合题意。选项D，ERM可以促进业务战略和决策更以好地遵
+循风险偏好。选项D表述正确，不符合题意。
+62.Risk culture can be thought of as the set of goals, values, beliefs, procedures, customs,
+and conventions that influence how staff create, identify, manage, and think about risk within
+an enterprise, including implicit and explicit beliefs. Which of the following indicators
+belong to the external risk culture drivers?I. Economic cyclesII. Professional standardsIII.
+AccountabilityIV. Industry practices.
+A.I, II and III
+B.I, II and IV
+C.I, III and IV
+D.II, III and IV
+参考答案：B
+【莽学解析】本题考查了风险文化的外部指标和内部指标。风险文化的外部指标通常有经济周期，行业实践
+，专业标准，监管标准等，内部指标通常有公司问责制度，沟通制度，激励制度等，因此选项B正确。
+ 
+63.The establishment of risk culture is not easy, because it is an overall expression of how we
+do things. Which of the following is not appropriate when implementing risk culture?
+A.Risk culture data aggregation can be used to hunt down insights and warning signs of risk
+culture. The bank should gather as much risk culture data as possible to spot the patterns of
+risk culture.
+B.Risk culture implementation can be promoted by the application of a series of indicators,
+such as accountability, effective communication, incentives and tone from the top.
+C.Risk culture should be developed over time with the changes such as economic cycles, industry
+norms, professional norms, etc.
+D.Risk culture education should be implemented across the bank, including the board and senior
+management.
+参考答案：A
+【莽学解析】本题考查风险文化实施中的挑战。银行可以通过机器学习来处理大量关于风险文化的数据（例
+如风险文化指标得分、员工请假天数等），然后，这些数据可以与更为广泛的风险数据结合起来，来分析风
+险文化的深入规律和发现预警信号，但是，仅仅通过风险文化数据的收集无法达成这一目的，这也被称为
+“数据的诅咒（curse of data）”。选项A表述错误，符合题意，故本题选A。选项B，风险文化的实施可以
+通过应用一系列指标来促进，比如问责、有效沟通、激励和高层基调。选项B表述正确，不符合题意。选项
+C，风险文化应随着经济周期、行业规范、专业规范等变化而演进和发展。选项C表述正确，不符合题意。选
+项D，风险文化教育应在全行范围内实施，包括董事会和高级管理层也应接受培训。选项D表述正确，不符合
+题意。
+ 
+64.After Global Financial Crisis, regulators in the US put forward more requirements on
+scenario analysis, which of the following statement（　） is(are) correct?I: Dodd-Frank Act
+stress test (DFAST) is required to be conducted by all banks with assets above USD 10
+billion.II: Comprehensive Capital Analysis and Reviews (CCAR) is required to be conducted by
+all banks with assets above USD 50 billion.III: DFAST and CCAR apply the same supervisor-
+devised scenarios, so that banks should comply with regulatory requirements and cannot design
+scenarios by themselves.
+A.I and II
+B.I and III
+C.II and III
+D.All of above
+参考答案：A
+【莽学解析】本题考查危机后的压力测试。I：所有资产超过100亿美元的银行都需要进行多德-弗兰克法案压
+力测试（DFAST）。故I表述正确。II：所有资产超过500亿美元的银行都需要进行全面资本分析和审查
+（CCAR）。故II表述正确。III：DFAST和CCAR采用同一监管机构设计的场景，银行在采用监管机构要求的压
+力测试时，也可以自行设计符合自身情况的压力情景作为补充，监管机构并没有禁止银行自行设计情景。故
+III表述错误。故本题选A。
+ 
+65.Novel credit derivatives and securitizations include credit default swaps (CDSs),
+collateralized debt obligations (CDOs), and collateralized loan obligations (CLOs). Which of
+the followings are not the advantage of novel credit derivatives?
+A.Price discovery is one of the functions of credit derivatives.
+B.The price of a CDS reflects the credit risk of the underlying asset in real time.
+C.Credit derivatives can help banks transfer credit risk without selling positions.
+D.Derivatives are complex in nature and management requires deep understanding and expertise.
+参考答案：D
+【莽学解析】本题考查了信用衍生品的优点。选项A，作为衍生品，价格发现是信用衍生品的功能和优点，有
+助于市场发现信用的价格。选项A属于衍生品优点，不符合题意。选项B，信用违约互换类似保险，价格可以
+实时反映标的资产的信用风险。选项B属于衍生品优点，不符合题意。选项C，信用衍生品可以帮助银行转移
+信用风险，如信用违约互换，使得银行将信用风险转移给第三方的同时，保留了原有头寸。选项C属于衍生品
+优点，不符合题意。选项D，信用衍生品作为衍生品的类型，性质比较复杂，若要使用恰当，管理层必须具备
+良好的专业知识和对其有深刻了解。选项D不属于衍生品的优点，符合题意，故本题选D。

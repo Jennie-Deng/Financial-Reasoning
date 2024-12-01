@@ -1,0 +1,3874 @@
+1.The practice of adjusting the margin balance in a futures account for the daily change in the 
+futures price is called:
+A.settling up.
+B.marking to market.
+C.a margin call.
+D.the daily call.
+参考答案：B
+【莽学解析】Marking to market is the practice of adding to or subtracting from the margin
+balance to adjust for the daily change in the contract value.盯市是指在保证金余额上加或减，以根
+据合约价值的每日变动进行调整的做法。
+
+2.Suppose a bond’s quoted price is 105 7/32 and the accrued interest is $23.54. If the bond
+has a par value of $1,000, what is the bond’s flat price?
+A.$1,000.00
+B.$1,023.54
+C.$1,052.19
+D.$1,057.73
+参考答案：C
+【莽学解析】The flat price is the bond price without the accrued interest, so it is equal to
+the quoted price of 105 7/32 = $1,052.19.flat price是不含应计利息的债券价格，因此等于(105 7/32)/100*1000= 1,052.19元。
+ 
+3.Austin Traynor is considering buying a $1,000 face value, semi-annual coupon bond with a
+quoted price of 104.75 and accrued interest since the last coupon of $33.50. If Bob pays the
+dirty price, how much will the seller receive at the settlement date?
+A.$1,014.00
+B.$1,033.50
+C.$1,047.50
+D.$1,081.00
+参考答案：D
+【莽学解析】The dirty price isequal to the agreed upon, or quoted price, plus interest accrued
+from the lastcoupon date. Here, the quoted price is 1,000 × 104.75%, or 1,000 × 1.0475 =
+1,047.50.Thus, the dirty price = 1,047.50 33.50 = 1,081.00.全价=净价 应计利息=1000×1.0475
+33.50 = 1081.00。
+ 
+4.Assume the following continuously compounded zero rates: 1.0% at 0.5 years; 1.6% at 1.0 year;
+1.9% at 1.5 years; and 2.5% at 2.0 years. What is the theoretical price of a bond with a $100
+principal that pays coupons at the rate of 2.0% semiannually?
+A.$98.03
+B.$99.03
+C.$100.03
+D.$101.03
+参考答案：B
+【莽学解析】The solution is as follows:
+
+6.A $1,000 par bond carries a coupon rate of 10%, pays coupons semiannually, and has 13 years
+remaining to maturity. Market rates are currently 9.25%. The price of the bond is closest to:
+A.$586.60
+B.$1,036.03
+C.$1,055.41
+D.$1,056.05
+参考答案：D
+【莽学解析】N=26, FV=1000, PMT=50, I/Y=9.25/2=4.625CPT PV=-1,056.05 利用计算器，输入N=26,
+5.Assume the cash price on a 90 T-bill is quoted as 99. Which of the following is closest to
+the discount rate?
+A.4%
+B.7%
+C.6%
+D.5%
+参考答案：A
+【莽学解析】360/90*（100%-99%）=4%计算如下360/90*（100%-99%）=4%
+FV=1000, PMT=50, I/Y=9.25/2=4.625 计算PV:CPT PV=-1,056.05
+ 
+7.Consider the following, a 7-year zero-coupon bond carries an annual yield of 6.75% and a 6-
+year zero coupon bond carries an annual yield of 5.87%. Calculate the 1 year forward rate 6
+years from now. Assume annual compounding.
+A.6.31%
+B.12.03%
+C.12.19%
+D.12.62%
+参考答案：C
+【莽学解析】The solution follows：
+ 
+8.As a zero-coupon bond approaches its maturity date (i.e., as the term to maturity decreases).
+EACH of the following is necessarily true EXCEPT:
+A.The price increases
+B.The price volatility decreases
+C.The Macaulay duration decreases
+D.The dollar value of an ‘01 (DV01) decreases
+参考答案：D
+【莽学解析】As DV01 = D×P×0.0001, price (P) is increasing but (D) is decreases with mixed
+influence. In regard to (A), (B), and (C), each is TRUE.当DV01 = D×P×0.0001时，价格P上升，但
+D下降，其乘积不一定是下降的。ABC都是正确的。
+ 
+9.The per annum discount rate of a 180-day T-bill with a cash price of 98 is closest to:
+A.1%
+B.2%
+C.3%
+D.4%
+参考答案：D
+【莽学解析】The discount rate, orquoted price, is calculated as: (360/n) × (100 - cash price).
+Given a 180-dayT-bill and a cash price of 98, the annual discount rate is: (360/180) × (100 -
+98) = 4%.折现率，即报价，为(360/n)×(100 -现金价格)。以180天短期国债为例，现金价格为98，年贴现
+率为(360/180)×(100 - 98)= 4%。
+ 
+10.The price of a 72-day Treasury bill is quoted as 7.00. Which is nearest to the continuously
+compounded return (on an actual/365 basis) that an investor will earn on the Treasury bill for
+the 72-day period?
+A.1.40000% per annum with continuous compounding
+B.5.60000% per annum with continuous compounding
+C.5.71790% per annum with continuous compounding
+D.7.14737% per annum with continuous compounding
+参考答案：D
+【莽学解析】The cash price, P= 100 -72/360×7 = 98.60 such that the continuously compounded
+return =365/72×LN(1＋1.40/98.60)=0.0714737=7.14737%.短期国债的报价类似一种折扣率。P= 100-
+72/360×7 = 98.60。连续复利下的收益率=365/72×LN(1＋1.40/98.60)=0.0714737=7.14737%。
+ 
+11.Keedsler Motors issued a bond five years ago which is currently a high-yield bond. Each of
+the following is not necessarily true, except which of the following MUST be true about this
+bond?
+A.It is not investment-grade
+B.It was never investment-grade
+C.It is subordinated and/or unsecured
+D.It has a yield at least 100 basis points above the benchmark and offers more interest rate
+risk than credit risk
+参考答案：A
+【莽学解析】It is not investment grade. "High-yield" is a ratings-based distinction. Bonds are
+either investment grade or high-yield (aka, speculative, junk)这不是投资级。债券要么是投资级的
+，要么是高收益的(也就是投机级的垃圾债券)
+
+12.Which of the following statements least likely describe a problem with bilaterally cleared 
+over-the-counter (OTC) derivatives trades?
+A.The defaults of individual counterparties could lead to systemic problems.
+B.Bilateral OTC derivatives are often non-standard with exotic features.
+C.Closing out trades may be difficult.
+D.Loss mutualization may not spread all the losses among participants.
+参考答案：D
+【莽学解析】Loss mutualization is a feature of central clearing, whereby losses arising from a
+party's default are spread across all other members. Bilaterally cleared OTC derivatives do not
+have a loss mutualization feature.损失共同化是中央清算的一个特点，即一方违约所造成的损失会扩散
+到其他所有成员。双边清算的场外衍生品没有损失共同化的特征。
+ 
+13.The continuously compounded 10-year spot rate is 5% and the 9-year spot rate is 4.8%. The 1-
+year forward rate nine years from now is closest to:
+A.4.1%
+B.5.1%
+C.5.9%
+D.6.8%
+参考答案：D
+【莽学解析】RForward = R2 + (R2 – R1) x [T1 / (T2 - T1)] = 0.05 + (0.05-0.048) x [9 /(10 - 9)]
+= 6.8计算过程如下：RForward = R2 (R2 – R1) x [T1 / (T2 - T1)] = 0.05 (0.05-0.048) x [9 /(10 -
+9)] = 6.8
+ 
+14.In the context of bonds, accrued interest:
+A.covers the part of the next coupon payment not earned by seller.
+B.equals interest earned from the previous coupon to the sale date.
+C.applies only to bonds with semi-annual or quarterly coupon payments.
+D.is discounted along with other cash flows to arrive at the dirty, or full price.
+参考答案：B
+【莽学解析】This is a correct definition of accrued interest on bonds. The other choices are
+false. Accrued interest can occur on all bonds with periodic coupon payments, not just bonds
+with payment frequencies greater than one year. Accrued interest is not discounted when
+calculating the price of the bond. The statement, "covers the part of the next coupon payment
+not earned by seller," should read, "…not earned by buyer."这是对债券应计利息的正确定义。其他
+的选择是错误的。应计利息可以发生在所有定期支付息票的债券上，而不仅仅是支付频率大于一年的债券。
+在计算债券价格时，应计利息不需要折现 。
+ 
+15.A trader buys one wheat contract (underlying = 5,000 bushels) at a price of $3.05 per
+bushel. The initial margin on the contract is $4,500 and the maintenance margin is $3,750. At
+what price will the trader receive a maintenance margin call?
+A.$2.30
+B.$2.90
+C.$3.20
+D.$3.80
+参考答案：B
+【莽学解析】The trader would have to post a margin of $4,500 at the outset and would receive a
+margin call if the value of this margin fell to $3,750. Assuming price will decline to PD, the
+trader receive a maintenance margin call, so 3.05 - PD = (4500 - 3750)/5000, PD = $2.9.交易员在
+开始时必须提供4500美元的保证金，如果保证金的价值下降到3750美元，就会接到追加保证金通知。假设价
+格将下降到每日，交易员收到维持保证金通知，因此3.05 -X=(4500 - 3750)/5000，X= 2.9美元。
+ 
+16.A portfolio manager has recently purchased a 10-year investment-grade corporate bond. Which
+of the following tasks must typically be performed by the corporate trustee listed in the
+bond’s indenture?
+A.Act in a fiduciary capacity for the bond issuer.
+B.Ensure that the bond issuer’s reported financial ratios meet the requirements in the
+indenture.
+C.Change the terms of the indenture to provide protection for the bond purchaser.
+D.Monitor the bond issuer’s balance sheet to ensure covenant compliance.
+参考答案：B
+【莽学解析】The corporate trustee is a third party to the contract. The trustee acts in a
+fiduciary (legal) capacity on behalf of the investors. Acting on behalf of the bondholders, the
+trustee must ensure that the bond issuer is in compliance with the covenants of the indenture
+at all times. 受托人监督的是合约履行情况： 即财务信息所体现出的合约履行情况是否真实准确地被执行
+；受托人是发行人雇佣的，不过他代表的是投资者的利益，帮助投资者监督该项债券投资。简单来说就是
+，虽然受托人代表投资者利益，但不受投资者影响。
+ 
+17.A bank quotes an interest rate of 7.0% per annum with quarterly compounding. What is the
+equivalent rate with, respectively, continuous compounding and annual compounding?
+A.6.739% (continuous) and 7.486% (annual)
+B.6.829% and 7.366%
+C.6.939% and 7.186%
+D.7.139% and 6.886%
+参考答案：C
+【莽学解析】Rate with continuous compounding = 4×LN(1 7%/4)=6.939% .Rate with annual
+compounding =[(1 7%/4)]^4-1=7.186%连续复利下的利率= 4×LN(1＋7%/4)=6.939% 。按年复利下的利率
+=[(1＋7%/4)]^4-1=7.186%
+ 
+18.A 1-year 7.25% coupon bond is trading at a price of 98, a 2-year 6.1% coupon bond is trading
+at 99, and a 3-year 7.55% coupon bond is trading at 101. All coupons and rates are given using
+the annual Actual/Actual convention. Using this information the 1-year forward rate 2 years
+from now is closest to:
+A.6.57%
+B.7.14%
+C.8.24%
+D.8.29%
+参考答案：D
+【莽学解析】这道题的解析如下：
+ 
+ 
+19.Assume a bond's quoted price is 105.22 and the accrued interest is $3.54. The bond has a par
+value of $100. What is the bond's clean price?
+A.$100.00.
+B.$103.54.
+C.$105.22.
+D.$108.76.
+参考答案：C
+【莽学解析】The clean price isthe bond price without the accrued interest so it is equal to the
+quoted price.净价是不含应计利息的债券价格，所以它等于报价。
+ 
+20.The option-adjusted duration of a convertible bond will be close to the duration of a
+straight bond, which is similar in all other respects, when the:
+A.Stock price is extremely low.
+B.Stock price is extremely high.
+C.Interest rates are extremely low.
+D.Interest rate volatility is extremely high.
+参考答案：A
+【莽学解析】When the stock price is extremely low, the option to convert is likely to have
+little value, and the convertible bond will trade effectively as a straight bond.当股票价格极低
+时，转换成股票的权利可能没有什么价值，可转换债券将作为一种普通债券进行交易。
+ 
+21.Which one of the following statements is most correct?
+A.Hedgers and arbitrageurs have a productive role in markets but speculators intensify
+systematic risk and do not have a productive role
+B.A primary risk management practice is the definition and vigilant, daily monitoring of risk
+limits
+C.Few of the spectacular derivatives mishaps arose from the activities of a single employee;
+most arose from large groups
+D.Derivatives are inappropriate for non-financial company and should generally be used only by
+financial firms
+参考答案：B
+【莽学解析】In regard to (A), this is false: speculators (e.g., in the theory of normal
+backwardation) are required to take the other side of the position to hedgers; i.e.,
+speculation enables hedging! In regard to (C), what is remarkable about these lists (of
+derivative mishaps; e.g., Barings) is the number of situations where huge losses arose from the
+activities of a single employee. In regard to (D), this is false. Hull is favorable toward the
+smart use of derivatives by non-financial companies to hedge.A是错误的:投机者(例如，在期现溢价
+理论中)被要求与套期保值者站在头寸的另一边;即。正是由于投机的存在，才能使对冲成为可能。C大多数衍
+生品灾难都是由于单个员工的行为造成巨大损失。D这是错误的。约翰·赫尔（一级第三四门的作者）赞成非
+金融公司使用衍生品进行对冲。
+
+22.On a single day the price of a corporate bond with a modified duration of 4.52 years drops
+from $87.20 to $85.65. If the benchmark yield increases by 10 basis points during the day,
+which is nearest to the approximate change in the bond's credit spread?
+A.Increase of 29 bps
+B.Increase of 19 bps
+C.Approximately unchanged
+D.Decrease of 15 bps
+参考答案：A
+【莽学解析】deltaP=－D×P×deltay, deltay=39.26bpsIf the benchmark index increased by 10 basis
+points, then the credit spread increased by about 39.326 - 10.0 = 29.326 bps.这道题的解析如下：
+ 
+23.Which of the following is TRUE about a Guaranteed Corporate Bond?
+A.Guaranteed bonds are free of default risk
+B.The safety of a guaranteed bond depends on the financial capability of the guarantor AND the
+financial capability of the issuer.
+C.A guaranteed bond may not have more than one corporate guarantor
+D.A guarantee may call for the guarantor to guarantee the repayment of principal, but is NOT
+permitted to call for the guarantor to guarantee the payment of interest
+参考答案：B
+【莽学解析】The safety of a guaranteed bond depends on the financial capability of the
+guarantor AND the financial capability of the issuer.担保债券的安全性取决于担保人的财务能力和发
+行人的财务能力。
+ 
+24.An increase in which of the following factors will increase the duration of a fixed-rate
+coupon bond?
+A.Yield-to-maturity
+B.Maturity
+C.Coupon value
+D.Coupon frequency
+参考答案：B
+【莽学解析】All else being equal, duration increase for longer maturities, lower coupons, and
+lower yields在其他条件不变的情况下，期限越长，票息越低，收益率越低，久期越大
+ 
+25.A bond portfolio has the following compositions: Portfolio A: price $90,000, modified
+duration 2.5, long position in 8 bonds; Portfolio B: price $110,000, modified duration 3, short
+position in 6 bonds; Portfolio C: price $120,000, modified duration 3.3, long position in 12
+bonds; All interest rates are 10%. If the rates rise by 25 bps, then the bond portfolio value
+will
+A.Decrease by $11,430
+B.Decrease by $21,330
+C.Decrease by $12,573
+D.Decrease by $23,463
+参考答案：A
+【莽学解析】△P = -3.048 × 1500000 × 0.0025 = -11430
+ 
+ 
+26.Which of the following is most likely to cause an increase (i.e., widening) in a corporate
+bond credit spread?
+A.Economic expansion in the business cycle
+B.Increase in the bond’s liquidity
+C.Flight to quality
+D.Addition of embedded put option feature to the bond
+参考答案：C
+【莽学解析】Flight to quality is selling of corporates and buying of Treasury securities. In
+regard to (A), economic expansion—> narrower credit spread In regard to (B), increase in bond
+liquidity—> narrower credit spread (i.e., illiquidity discount implies lower price implies
+higher yield) In regard to (D), a put option is favorable to the investor—> narrower credit
+spread (in contrast, a call option is favorable to the issuer—> wider credit spread)飞向安全资
+产（flight to quality），它指的是，当出现大规模金融危机的时候，投资者普遍放弃高风险的风险投资资
+产（出售公司债），而去投资一些低风险的风险投资资产，这个时候很多人会去投资国债（购买国债）。
+A：经济扩张会缩小信用利差。B：增加债券流动性会缩小信用利差(例如，非流动性贴现率意味着较低的价格
+意味着较高的收益率）。D：看跌期权对投资者有利会缩小信用利差(相反，看涨期权对发行人有利会导致较
+宽的信用利差)。
+ 
+27.Assuming the 92-day and 274-day interest rate is 8% (act/360, money market yield) compute
+the 182-day forward rate starting in 92 days (act/360, money market yield).
+A.7.8%
+B.8.0%
+C.8.2%
+D.8.4%
+参考答案：B
+【莽学解析】Because the two spot rates are equal to 8 percent, the implied forward rate also
+has to be 8 percent.因为这两个即期利率等于8%，所以隐含的远期利率也是8%。（比较简单的方法是将这
+两个8%都看作连续复利下的利率，在进行计算就比较简单了）
+ 
+28.Which of the following is TRUE of a corporate debenture bond?
+A.Debentures are unsecured bonds; i.e., they are not secured by a specific pledge of designated
+property
+B.Debenture bondholders have no claim（　） on the property of the issuer (or its earnings)
+C.Very few (“almost none”) corporate bonds are debentures
+D.Debentures are bonds that lack provisions designed to afford protection to bondholders
+参考答案：A
+【莽学解析】Debentures are unsecured bonds; i.e., they are not secured by a specific pledge of
+designated property信用债券是无担保债券，例如，他们并没有以特定的指定财产作为抵押。
+ 
+29.Each of the following statements about futures and/or forwards is true EXCEPT which is
+false?
+A.Margin requirements are the same on short futures positions as they are on long futures
+positions.
+B.In the case of a futures contract, initial margin typically does earn interest, but variation
+margin does not
+C.When an exchange clearinghouse or central counterparty (an OTC CCP) accepts a transaction, it
+both cases it assumes the credit risk of both buyer and seller
+D.The delivery period is the same across commodities and exchanges, in order to prevent
+arbitrage, but the buyer (i.e., the long position) gets to make the decision on exactly when to
+receive delivery within the delivery period
+参考答案：D
+【莽学解析】D is doubly false. Delivery periods are defined by the exchange and vary by
+contract. Also, the short position gets to make the decision on exactly when to receive
+delivery within the delivery periodD是双重错误。交割期限由交易所规定，并因合同而异。此外，空头
+还可以决定在交割期内何时进行交割
+ 
+30.The interest rate for a 1-year period is 5% and the rate for a 2-year period is 6%. Assuming
+continuous compounding, what is the forward rate for the period from the end of the first year
+to the second year?
+A.6.9991%
+B.7.0000%
+C.7.0009%
+D.8.0000%
+参考答案：B
+【莽学解析】The solution follows：
+ 
+ 
+31.The Treasury bond futures contract allows the party with the short position to choose to
+deliver any bond that has a maturity between 15 and 25 years. Assume a certain bond that is
+valid for delivery matures in 15 years and two months (15.1667 years) and has a coupon rate of
+9.0% payable semi-annually. Which is nearest the bond's conversion factor (CF)?
+A.0.8530
+B.1.0420
+C.1.1380
+D.1.2940
+参考答案：D
+【莽学解析】First, we round the maturity down to the nearest three months; in this case, the
+rounded maturity is 15.0 years. So this turns out to be the simpler case: "If, after rounding,
+the bond lasts for an exact number of 6-month periods, the first coupon is assumed to be paid
+in 6 months.“We simply price this bond assuming the yield is 6.0%: N = 30, I/Y = 3, PMT = 4.5,
+FV = 100 and CPT PV = $129.4007 such that the CF = 1.2940这道题求解的是近似值。首先，四舍五入的
+期限是15.0年，每六个月支付一次利息。为这个债券定价，假设收益率为6.0%：N = 30, I/Y = 3, PMT =
+4.5, FV = 100, CPT PV = 129.4007，这样CF = 1.2940
+ 
+32.If French money market instrument pays in Euros with an interest rate of 5.0% per annum with
+(discrete) annual compounding and under an actual/360-day count (ACT/360) convention, what is
+the equivalent rate under continuous compounding under an actual/365 day count?
+A.4.879%
+B.4.947%
+C.5.000%
+D.5.069%
+参考答案：B
+【莽学解析】365/360×LN(1＋5%) = 4.947%365/360×LN(1＋5%) = 4.947%
+ 
+33.Regarding an exchange trading system, which of the following statements is an advantage? On
+an exchange system:
+A.Terms are not specified.
+B.Trades are made in such a way as to reduce credit risk.
+C.Participants have flexibility to negotiate.
+D.In the event of a misunderstanding, calls are recorded between parties.
+参考答案：B
+【莽学解析】Exchanges are organized to reduce credit risk. The other answer choices are
+advantages of over-the-counter trading.交易所的是为了降低信用风险。其他选项是场外交易的优势。
+ 
+34.Which of the following risks facing a central counterparty (CCP) is most likely to be
+introduced during a market crisis?
+A.Default risk.
+B.Liquidity risk.
+C.Operational risk.
+D.Settlement and payment risk
+参考答案：D
+【莽学解析】Settlement and payment risk refers to the risk that a bank no longer provides cash
+settlementservices between a CCP and its members. Such risk is not likely to be present during
+normalperiods but is much more likely to be present during crisis periods.结算支付风险是指银行
+不再为CCP及其成员提供现金结算服务的风险。这种风险不太可能出现在正常时期，但更有可能出现在危机时
+期。
+ 
+35.The highest price a dealer is willing to pay to purchase a security is the:
+A.exercise price.
+B.offer price.
+C.strike price.
+D.bid price.
+参考答案：D
+【莽学解析】The bid price is the highest price a dealer is willing to pay to purchase a
+security.买入价是交易商愿意为购买证券支付的最高价格。
+ 
+ 
+36.An individual that maintains bid and offer prices in a given security and stands ready to
+buy or sell lots of said security is:
+A.a hedger
+B.an arbitrageur
+C.a speculator
+D.a market maker
+参考答案：D
+【莽学解析】Answer: D A market maker maintains bid and offer prices in a security and stands
+ready to buy or sell lots of the given security.做市商在证券交易中维持买入价和卖出价，随时准备
+买入或卖出大量特定的证券。
+ 
+37.Consider a 7.8% semi-annual coupon bond with a par value of $100 and four remaining coupons,
+which is trading at a yield of 8.375%. There are 74 days remaining in the current period that
+has a total of 182 days. What will the accrued coupon of this bond is?
+A.1.59
+B.2.31
+C.3.18
+D.4.57
+参考答案：B
+【莽学解析】
+
+38.The price of a $100 par zero-coupon bond with four (4) years to maturity is $88.00. The
+price of a $100 par zero-coupon bond with five (5) years to maturity is $82.00. Under
+continuous compounding, what is the implied forward rate, r(4.0, 5.0)?
+A.4.06%
+B.5.06%
+C.6.06%
+D.7.06%
+参考答案：D
+【莽学解析】The solution is as follows:LN(88/82) = 7.06%.这道题的解析如下：LN(88/82)=7.06%.
+ 
+39.Each of the following is true about the corporate trustee in a corporate bond issuance
+EXCEPT:
+A.The trustee is paid by bondholders
+B.The trustee acts in a fiduciary capacity for investors who own the bond issue
+C.The trustee must, at the time of issue, authenticate the bonds issued (i.e., keep track of
+all the bonds sold) and make sure that they do not exceed the principal amount authorized by
+the indenture
+D.If a corporate issuer fails to pay interest or principal, the trustee may declare a default
+and take such action as may be necessary to protect the rights of bondholders
+参考答案：A
+【莽学解析】It must be emphasized that the trustee is paid by the debt issuer and can only do
+what the indenture provides. In regard to (B), (C), and (D), each is true.必须强调的是，受托人
+是由债务发行者支付的，只能做契约规定的事情。BCD都是正确的。
+ 
+40.Which OTC derivatives class has the LARGEST amount of gross notional outstanding?
+A.Equity derivatives
+B.Credit default swaps
+C.Interest rate derivatives
+D.Foreign exchange derivatives
+参考答案：C
+【莽学解析】OTC derivatives include the following five broad classes of derivative securities:
+interest rate derivatives, foreign exchange derivatives, equity derivatives, commodity
+derivatives and credit derivatives. Interest rate products contribute the majority of the
+outstanding notional, with foreign exchange and credit default swaps seemingly less important.
+However, this gives a somewhat misleading view of the importance of counterparty risk in other
+asset classes, especially foreign exchange and credit default swaps. Whilst most foreign
+exchange products are short-dated, the long-dated nature and exchange of notional in cross-
+currency swaps means they carry a lot of counterparty risk. Credit default swaps not only have
+a large volatility component but also constitute significant ‘wrong-way risk’. Therefore,
+whilst interest rate products make up a significant proportion of the counterparty risk in the
+market, one must not underestimate the other important (and sometimes more subtle)
+contributions from other products.场外衍生工具包括以下五大类衍生证券：利率衍生工具、外汇衍生工
+具、股票衍生工具、商品衍生工具和信用衍生工具。利率产品规模较大，而外汇和信用违约互换似乎不那么
+重要。然而，这在一定程度上误导了人们对其它资产类别(尤其是外汇和信用违约互换)交易对手风险重要性
+的看法。虽然大多数外汇产品都是短期的，但长期的性质和在跨货币互换中的名义汇率意味着它们会带来大
+量的交易对手风险。信用违约互换不仅具有很大的波动性，而且构成了重大的“错误风险”。因此，虽然利
+率产品在市场交易对手风险中占相当大的比例，但不能低估其他产品的其他重要(有时更微妙)贡献。
+ 
+41.Which of the following statements regarding the trustee named in a corporate bond indenture
+is correct?
+A.The trustee has the authority to declare a default if the issuer misses a payment.
+B.The trustee may take action beyond the indenture to protect bondholders.
+C.The trustee must act at the request of a sufficient number of bondholders.
+D.The trustee is paid by the bondholders or their representatives.
+参考答案：A
+【莽学解析】According to the Trust Indenture Act. If a corporate issuer fails to pay interest
+or principal, the trustee may declare a default and take such action as may be necessary to
+protect the rights of bondholders. Trustees can only perform the actions indicated in the
+indenture, but are typically under no obligation to exercise the powers granted by the
+indenture even at the request of bondholders. The trustee is paid by the debt issuer, not by
+bondholders or their representatives.根据信托法。发行人如果无法支付利息或者本金，受托人可以宣布
+违约，并采取必要的措施保护债券持有人的权利。受托人只能执行契约中规定的行为（即使在债券持有人的
+要求下，受托人通常也没有义务行使契约授予的权力）。受托人由债务发行者支付，而不是由债券持有人或
+他们的代表支付。
+ 
+42.A $1,000 par U.S. corporate bond settles on February 3rd, 2011 and pays an 8.0% semi-annual
+coupon on January and July 1st. The yield on the bond is 5.0% and the bond matures on January
+1st, 2014 such that six (6) semi-annual coupon payments remain. What is the dirty price
+(a.k.a., full price) of the bond?
+A.$1,080.35
+B.$1,087.38
+C.$1,102.24
+D.$1,256.38
+参考答案：B
+【莽学解析】The 30/360 accrued interest = $1,000 × 8%/2 × 32/180 = $7.11;This bond settles on
+2/3/2011, but we can retrieve its full (dirty) price on 1/1/2011 which is a round 3.0 years
+until maturity: N = 6; I/Y = 2.5; PMT = 40; FV = 1000, and CPT PV = $1,082.6219; i.e., the
+price on 1/1/2011;The dirty (full) price on the settlement date
+=$1,082.6219×1.025^(32/180)=$1,087.38应计利息= $1,000 × 8%/2 × 32/180 = $7.11；1/1/2011 的全
+价：N = 6; I/Y = 2.5; PMT = 40; FV = 1000, and CPT PV = $1,082.6219; 交割日的全价
+=$1,082.6219×1.025^(32/180)=$1,087.38
+
+43.A bank uses a continuously-compounded annual interest rate of 5% in one of its risk models.
+What is the equivalent interest rate the bank should use if it converts to semi-annual
+compounding in the model?
+A.4.94%
+B.5%
+C.5.06%
+D.5.12%
+参考答案：C
+【莽学解析】The calculation process is as follow:
+ 
+ 
+44.An annuity pays $10 every year for 100 years and currently costs $100. The YTM is closest
+to:
+A.5%
+B.7%
+C.9%
+D.10%
+参考答案：D
+【莽学解析】YTM=C/PV=10/100=10% 一百年的期限太长，可看做是永续债券，YTM=c/PV=10/100=10%. 当然如
+果按照普通债券计算债券价格的方法也是可以的。
+ 
+45.A Treasury bond has a coupon rate of 6% per annum (the coupons are paid semiannually) and a
+semiannually compounded yield of 4% per annum. The bond matures in 18 months and the next
+coupon will be paid 6 months from now. Which number below is closest to the bond’s Macaulay
+duration?
+A.1.023 years
+B.1.457 years
+C.1.500 years
+D.2.915 years
+参考答案：B
+【莽学解析】
+ 
+46.Assume a corporate bond with a face value of $1,000 that pays a semi-annual coupon (coupons
+pay January and July 1st) with a 12.0% coupon rate. The bond settles on June 13th, 2014 and
+matures, more than six years later, on July 1st, 2020. At the current traded price, the bond's
+yield (YTM) is 10.0%. Which is nearest to the bond's quoted (aka, clean) price?
+A.$975
+B.$1,089
+C.$1,107
+D.$1,143
+参考答案：B
+【莽学解析】The solution follows：
+ 
+ 
+47.A US corporate bond that matures on October 1st, 2017 with a par value of $100.00 pays a
+semi-annual coupon with a coupon rate of 9.0% per annum. It pays coupons on April and October
+1st and it offers a yield to maturity (yield) of 4.0% per annum. If it settles on September 1st
+2015, which is nearest to the bond's flat (aka, quoted or clean) price?
+A.$109. 89
+B.$111.78
+C.$113.64
+D.$115.53
+参考答案：A
+【莽学解析】On the April 1st, 2015, the bond's price = $111.78365 (I/Y =4/2, N=5, PMT = $4.5,
+FV = $100).As a US corporate bond, it has a 30/360 day count convention with 150 days since
+last coupon. This bond's full price on the settlement date = $111.78365×1.02^((150/180))=
+$113.64363. The bond's flat price =$113.64363－($4.50×150/80)=$109.89363.先算2015年4月1日的债
+券价格，使用一般复利计算9月1日的债券价格，全价减去应计利息就是净价了。
+ 
+48.Use the following information to answer the question
+The 6-month forward rate on an investment that matures in 1.5 years is closest to:
+A.2.50%
+B.2.75%
+C.3.00%
+D.3.25%
+参考答案：C
+【莽学解析】The solution is as follows:
+ 
+ 
+49.Given the following bonds and forward rates:
+ 
+● 1-year forward rate one year from today = 9.56%● 1-year forward rate two years from today =
+10.77%● 2-year forward rate one year from today = 11.32% Which of the following statements
+about the forward rates, based on the bond prices, is true?
+A.The 1-year forward rate one year from today is too low.
+B.The 2-year forward rate one year from today is too high.
+C.The 1-year forward rate two years from today is too low.
+D.The forward rates and bond prices provide no opportunities for arbitrage.
+参考答案：C
+【莽学解析】The solution is as follows:
+
+50.Assume you enter into 5 long futures contracts to buy July gold for $1,400 per ounce. A gold
+futures contract size is 100 troy ounces. The initial margin is $14,000 per contract and the
+maintenance margin is 75% of the initial margin. Which of the following choices about the
+futures price will lead to a margin call?
+A.$35 drop
+B.$90 drop
+C.$225 drop
+D.$375 drop
+参考答案：A
+【莽学解析】The maintance margin = 75%*$14,000 = $10,500 per contract; the margin call occurs
+when the loss is $3, 500 per contract or $35 per ounce.That is, if gold drops from $1,400 to
+$1,365 then value of margin account, per contract, drop $3, 500($35*100) which is 25% of the
+initial margin.每份合约的维持= 75%* 14,000元= 10,500元;追加保证金通知发生在每笔合约损失3,500美
+元或每盎司损失35美元时。也就是说，如果黄金从1,400美元跌至1,365美元，那么每份合约的保证金账户价
+值就会下跌3,500美元(35美元*100美元)，相当于初始保证金的25%。
+ 
+51.A company plans to borrow $3.0 million for three months starting in one year. The Eurodollar
+futures contract that matures in one year has a quoted price of 98.00 and the company wants to
+(net) effectively lock-in this 2.0% LIBOR interest rate. At the end of one year, LIBOR
+increases to 3.0%. The company’s borrowing (at the higher 3.0% LIBOR) will increase but will
+be hedged by the gain on the Eurodollar futures contract. What is the futures trade and what is
+the gain on the futures contract only?
+A.Long one contract for a gain of $2,500
+B.Long three contracts for a gain of $7,500
+C.Short one contract for a gain of $2,500
+D.Short three contracts for a gain of $7,500
+参考答案：D
+【莽学解析】As each contract is for $1,000,000 and the borrower wants to hedge against an
+increase in the LIBOR, the company should short three contracts. (an increase in the interest
+rate implies a decrease in the quoted price such that the short position gains on an increase
+in the interest rate). As each contract, by design, gains/losses $25 per basis point, a 100
+basis point increase implies $2,500 per contract, or $7,500 for three contracts. 由于每份欧洲美
+元期货合约的价格为100万美元，且借款人希望对冲伦敦银行间同业拆借利率(LIBOR)的上升，公司应做空三
+份合约。(利率的上升意味着报价的下降，这样做空头寸就能从利率的上升中获利)。按照设计，每份合约每
+基点的损益为25美元，100基点的增幅意味着每份合约2500美元，或三份合约7500美元。
+ 
+52.Hanwha Investment is underwriting a 30-year zero coupon corporate bond issue with a face
+value of $50 million and a current market value of $2,676,776 (a yield of 5% per 6-month
+period)，The modified duration on the zero coupon corporate bond is 28.57; The firm must hold
+the bonds for a few days before issuing them to the public, which exposes them to interest rate
+risk. Hanwha Investment wishes to hedge its position by using T-Bond futures contracts. The
+modified duration on the T-Bond futures is 9.41，The current T-Bond futures price is $90.80 per
+$100 par value, and the T-Bond contract will be settled using a 20-year, 8% coupon bond paying
+interest semiannually. The contract is due to expire in a few days, so the T-Bond price and the
+T-Bond futures price are virtually identical. Assume that the yield curve is flat and that the
+corporate bond will continue to yield 0.5% more that T-Bond per 6-month period, even if the
+general level of market rates should change. What hedge ratio should Hanhwa Investment use to
+hedge its bond holdings against possible interest rate fluctuations over the next few days?
+A.72 contracts held short to hedge
+B.85 contracts held short to hedge
+C.88 contracts held short to hedge
+D.93 contracts held short to hedge
+参考答案：C
+【莽学解析】The hedge ratio is calculated by:
+The closest answer is C, 88 contracts.
+ 
+ 
+53.Jack has company A’s stock and will sell it two months from now at a specified date in the
+middle of the month. Jack would like to hedge the price of risk of company A’s stock. How
+could she best hedge the company A’s stock without incurring basis risk?
+A.Short a two-month forward contract on company A\u2019s stock.
+B.Short a three-month futures contract on company A\u2019s stock.
+C.Short a two-month forward contract on the S&P 500 index.
+D.Answers A and B are correct.
+参考答案：A
+【莽学解析】Basis risk is minimized when the maturity of the hedging instrument coincides with
+the horizon of the hedge (i.e., two months) and when the hedging instrument is exposed to the
+same risk factor (i.e., IBM).当标的一致、期限一致时，基差最小。
+
+54.On January 1, a risk manager observes that the one-year continuously compounded interest
+rate is 5% and storage costs of a commodity product A is USD 0.05 per quarter (payable at each
+quarter end). He further observes the following forward prices for product A:
+Given the following explanation of supply and demand for commodity product A, how would you
+best describe its forward price curve form June to December?
+A.Backwardation as the supply of product A is expected to decline after summer.
+B.Contango as the supply of product A is expected to decline after summer.
+C.Contango as there is excess demand for product A in early summer.
+D.Backwardation as there is excess demand for product A in early summer.
+参考答案：D
+【莽学解析】From June to December, prices go down, which is backwardation. June prices are
+abnormally high because of excess demand, which pushes prices up. Because of demand of the
+commodity rises sharply in June, The price of the commodity will be up.backwardation和
+contango有两种判断方法。一种是正反向市场的判断（判断F与S的大小关系），当远期价格大于现货价格
+，此为正常市场，称为期货升水contango。反之，类此。另一种是期货价格走势的判断方法。backwardation
+走势向下，backwardation出现的原因是这种商品在市场上供大于求，价格走低。本题，after summer是 8、
+9月份之后，所以根据走势，A错误。 供给下降会导致F价格上升。
+ 
+55.If all spot interest rates are increased by one basis point, a value of a portfolio of swaps
+will increase by $1100. How many Eurodollar futures contracts are needed to hedge the
+portfolio?
+A.44
+B.22
+C.11
+D.1100
+参考答案：A
+【莽学解析】Eurodollar futurescontracts are constructed so that the DV01 is always equal to $25
+per contract.Therefore, we need 1100/25 = 44 contracts. 欧洲美元期货合约的特点是每个合约的
+DV01是等于25美元。因此，我们需要1100/25= 44个合同。
+ 
+56.A buffalo farmer is concerned that the price he can get for his buffalo herd will be less
+than he has forecasted. To protect himself from price declines in the herd, the farmer has
+decided to hedge with live cattle futures. Specifically, he has entered into the appropriate
+number of cattle future positions for September delivery that he believes will help offset any
+buffalo price declines during the winter slaughter season. The appropriate position and the
+likely sources of basis risk in the hedge are, respectively:
+A.Short; choice of futures delivery date.
+B.Short; choice of futures asset.
+C.Short; choice of futures delivery date and asset.
+D.Long; choice of futures delivery date and asset.
+参考答案：C
+【莽学解析】The farmer needs to be short the futures contracts. The two sources of basis risk
+confronting the farmer will result from the fact that he is using a cattle contract to offset
+the price movement of his buffalo herd, Cattle prices and buffalo prices may not be perfectly
+positively correlated. As a result, the correlation between buffalo and cattle prices will have
+an impact on the basis of the cattle futures contract and spot buffalo meat. The delivery date
+is a problem in this situation, because the farmer’s hedge horizon is winter, which probably
+will not commence until December or January. In order to maintain a hedge during this period,
+the farmer will have to enter into another futures contract, which will introduce an additional
+source of basis risk. 期货合约刚开始被设计出来是对冲风险用的。农户怕未来价格下跌，那就做空期货
+，如果未来真的下跌，现货上亏钱，期货上赚钱，两相抵消，对冲掉风险。所以这边应该是short。 基差风
+险的两个主要来源就是标的资产不一致、期限不一致。
+ 
+57.Which of the following statements are true with respect to basis risk? I Basis risk arises
+in cross-hedging strategies but there is no basis risk when the underlying asset and hedge
+asset are identical. II Short hedge position benefits from unexpected strengthening of basis.
+III Long hedge position benefits from unexpected strengthening of basis.
+A.I and II
+B.I and III
+C.II only
+D.III only
+参考答案：C
+【莽学解析】An increase in basis is known as a strengthening of the basis. The payoff to the
+short hedge position is spot price at maturity S2 and the difference between futures price
+i.e., (F1-F2). Thus, payoff =F1+b2. A short hedge position benefits from strengthening of
+basis.基差的增加被称为基差增强。Short hedge的回报是到期时的现货价格和期货价格之差，因此，收益=
+F1＋b2。Short hedge头寸在基差增强时获利。
+ 
+(The DVBP or a Eurodollar future is 25)这个题是对冲的问题，但是有一些复杂，一般用duration就可以
+直接对冲，但是这里面给的不是直接的portfolio的duration。而且每个资产的资金量都是不一样的，这种时
+候我们一般都用DVO1来做。所以第一步就是算出两个资产各自的DV01，然后直接相加减，得出整个组合的
+
+58.A trader executes a $200 million 5-year pay fixed swap with one client (duration 4.36) and a
+$100 million 10-year receive fixed swap with another client (duration 7.66) shortly afterwards.
+Assuming that the 5-year rate is 4.75% and 10-year rate is 5.15% and that all contracts are
+transacted at par, how can the trader hedge his net delta position?
+A.Sell 424 Eurodollar future contracts
+B.Buy 424 Eurodollar future contracts
+C.Sell 6,552 Eurodollar future contracts
+D.Buy 6,552 Eurodollar future contracts
+参考答案：B
+【莽学解析】
+DV01。然后用欧洲美元期货的DV01来进行对冲，一般把欧洲美元期货的DV01看做是25。
+ 
+59.A Eurodollar futures price changes from 98.00 to 97.20. What is the gain/loss to an investor
+who is long one contract?
+A.LIBOR decreased by 80 basis point for a loss (to the long position) of $2,000.
+B.LIBOR increased by 80 basis point for a loss (to the long position) of $2,000.
+C.LIBOR decreased by 80 basis point for a gain (to the long position) of $2,000.
+D.LIBOR increased by 80 basis point for a gain (to the long position) of $2,000.
+参考答案：B
+【莽学解析】LIBOR increased from 2.0% (100-98) to 2.8% (100-97.2). The long position loses here
+as the contract price decrease from 98.00 to 97.20; The loss to the long is $25 per basis
+point; in this case,- 80 bps×25=loss of $2,000.LIBOR从2.0%(100 - 98)升至2.8%(100 - 97.2)。随着
+合约价格从98.00跌至97.20，多头发生损失；欧洲美元期货每基点25美元；在这种情况下，- 80×25=损失
+2000美元。
+ 
+60.The current value of the S&P 500 index is 1457, and each S&P futures contract is for
+delivery of 250 times the index. A long-only equity portfolio with market value of USD
+300,100,000 has beta of 1.1. To reduce the portfolio beta to 0.75, how many S&P futures
+contract should you sell?
+A.288 contracts
+B.618 contracts
+C.906 contracts
+D.574 contracts
+参考答案：A
+【莽学解析】
+本题如下 N=(β_new－β_old )×(size of spot position)/(size of one futures
+contract)=(0.75－1.1)×300,100,000/(250×1,457)=－288
+ 
+61.The hedge ratio is the ratio of the size of the position taken in the futures contract to
+the size of the exposure. Assuming the standard deviation of change of spot price is S1, and
+the standard deviation of change of future price is S2, the correlation between the changes of
+spot price and future price is r. What is the optimal hedge ratio?
+A.1\/r\u00d7S1\/S2
+B.1\/r\u00d7S2\/S1
+C.r\u00d7S1\/S2
+D.r\u00d7S2\/S1
+参考答案：C
+
+莽学解析】Optimal hedge ratio: h=ρ1,2×σ1/σ2 最优对冲比率:
+
+62.The spot price for a commodity is $19. The annual lease rate for the commodity is 5%. The
+appropriate continuously compounded annual risk-free rate is 6.5%. Which of the following
+amounts is closest to the 3-month commodity forward price?
+A.$18.46
+B.$18.93
+C.$19.07
+D.$19.55
+参考答案：C
+【莽学解析】The 3-month forward price is calculated as follows:
+ 
+ 
+63.Which of the following statements best describes marking-to-market of a futures contract? At
+the:
+A.End of the day, the maintenance margin is increased for traders who lost and decreased for
+traders who gained.
+B.End of the day, the gains or losses are tallied to the trader's account.
+C.Maturity of the futures contract, the gains or losses are tallied to the trader's account.
+D.Conclusion of each trade, the gains or losses from all previous trades in the futures
+contract are tallied.
+参考答案：B
+【莽学解析】Marking-to-market means that, at the end of the day, all gains or losses are
+tallied to the trader’s account.按市值计价意味着，在一天结束时，所有的收益或损失都计入交易员的
+账户。
+ 
+64.An investor has entered into a forward rate agreement where she has contracted to pay a
+fixed rate of 5 percent on $5,000,000 based on the quarterly rate in three months. If interest
+rates are compounded quarterly, and the floating rate is 2 percent in three months, what is the
+theoretical payoff at the end of the sixth month? The investor will:
+A.receive a payment of $37,500
+B.make a payment of $75,000
+C.receive a payment of $75,000
+D.make a payment of $37,500
+参考答案：D
+【莽学解析】Payoff = $5,000,000×(0.02-0.05)×3/12=-37,500. The negative sign means the
+investor will make a payment of $37,500.损益= $5,000,000×(0.02－0.05)×3/12=－37,500.
+ 
+65.Which sequence of the commodities X, Y, and Z correctly identifies appropriate examples in
+terms of production, demand, and relative storage costs to other commodities?
+is subject to supply and demand stocks. 
+A.Oil Corn Natural gas
+B.Natural gas OilCorn
+C.CornNatural gas Oil
+D.Natural gas Oil Corn
+参考答案：A
+【莽学解析】Corn is an example of a commodity with seasonal production and a constant demand.
+Corn is produced in the fall of every year, but it is consumed throughout the year. Natural gas 
+is an example of a commodity with constant production but seasonal demand. Natural gas is
+expensive to store, and demand in the United States peaks during high periods of use in the
+winter months. In addition the price of natural gas is different for various regions due to
+high international transportation costs. The demand and production of oil is more constant
+relative to natural gas due to the ability to transport and store oil more cheaply than natural 
+gas. Therefore, the worldwide demand and production is relatively more constant even though it
+
+ 
+66.An investor enters into a 1-year FRA where she will receive the contracted rate on a
+principal of $2million. The contracted rate is a 1-year rate at 4%. The cash flow if the actual
+rate is 5% at maturity of the underlying asset (loan) is closest to:
+A.-$20,000
+B.-$200,000
+C.$200,000
+D.$20,000
+参考答案：A
+【莽学解析】$2,000,000 (0.04 - 0.05) (1) = -$20,000计算如下：$2,000,000* (0.04 - 0.05) *(1) = -
+$20,000
+ 
+67.A portfolio manager has asked each of four analysts to use Monte Carlo simulation to price a
+path-dependent derivative contract on a stock. The derivative expires in nine months and the
+risk-free rate is 4% per year compounded continuously. The analysts generate a total of 20,000
+paths using a geometric Brownian motion model, record the payoff for each path, and present the
+results in the table shown below.
+What is the estimated price of the derivative?
+A.USD 43.33
+B.USD 43.77
+C.USD 44.21
+D.USD 45.10
+参考答案：B
+【莽学解析】Following the risk neutral valuation methodology, the price of the derivative is
+obtained by calculating the weighted average nine month payoff and then discounting this figure
+by the risk free rate. Average payoff
+calculation:(2000×43+4000×44+10000×46+4000×45)/20000=45.10 Discounted payoff calculation:
+45.10×e-0.04×9/12=43.77 根据风险中性估值方法，衍生品的价格是通过计算9个月的加权平均收益，然后
+用无风险利率折现得出的。平均收益计算:(2000×43＋4000×44＋10000×46＋4000×45)/ 20000 = 45.10。
+收益的折现值:45.10×e^(－0.04×9/12)=43.77
+ 
+68.Which of the following statements regarding orders in exchange markets is least accurate?
+A.A stop buy order is an order to purchase a stock if the price falls to the stop price.
+B.A stop buy order can be combined with a short sale to limit losses.
+C.A limit sell order is an order to sell at a price greater than the limit price.
+D.In a short sale, a trader borrows stock and sells it.
+参考答案：A
+【莽学解析】A stop buy order is an order to buy a stock if the price rises to the stop price.
+This type of order is often used to limit losses on a short position. A limit buy order
+specifies a maximum price and a limit sell order specifies a minimum price.止损购买指令是在股价
+上涨到止损价格时购买股票的指令。这种类型的指令通常用来限制空头头寸的损失。限价买入指令指定最高
+价格，限价卖出指令指定最低价格。
+ 
+Note that the relevant duration for the futures is that of the CTD; other numbers are
+irrelevant.
+ 
+ 69.It is June 2 and a fund manager with USD 10 million invested in government bonds is
+concerned that interest rates will be highly volatile over the next three months. The manager
+decides to use the September Treasury bond futures contract to hedge the value of the
+portfolio. The current futures price is USD 95.0625. Each contract is for the delivery of USD
+100,000 face value of bonds. The duration of the manager’s bond portfolio in three months will
+be 7.8years. The cheapest-to-deliver bond in the Treasury bond futures contract is expected to
+have a duration of 8.4 years at maturity of the contract. At the maturity of the Treasury bond
+futures contract, the duration of the underlying benchmark Treasury bond is nine years. What
+position should the fund manager undertake to mitigate his interest rate risk exposure?
+A.Short 94 contracts
+B.Short 98 contracts
+C.Short 105 contracts
+D.Short 113 contracts
+参考答案：B
+【莽学解析】The number of contracts to short is:
+
+70.What are the differences between Forward Rate Agreements (FRAs) and Eurodollar Futures? I
+FRAs are traded on an exchange while Eurodollar Futures are not. II FRAs have better liquidity
+than Eurodollar Futures. III FRAs have standard contract sizes while Eurodollar Futures do not.
+A.I only
+B.I and II only
+C.II and III only
+D.None of the above
+参考答案：D
+【莽学解析】Eurodollar futures contracts are highly liquid, exchange traded contracts on short
+term interest rates with standardized contract sizes and terms. FRAs are traded over-the-
+counter. 欧洲美元期货合约是高流动性的，是在交易所交易的短期利率合约，其合约规模和条款都是标准化
+。FRA是场外交易的。
+ 
+71.Assume the spot price of wheat is $7.00 per bushel with a storage cost of 12.0% per annum
+while the riskless rate is 4.0%, both compounded continuously. What is the implied six-month
+futures price, F(0.5)?
+A.$6.69
+B.$7.28
+C.$7.47
+D.$7.58
+参考答案：D
+【莽学解析】
+ 
+ 
+72.Consider a seasonal agricultural market like wheat. Assume the harvest is normal and not
+unusually or unusually small. Now consider the following statement about the market. I Prices
+fall at the harvest and rise after the harvest. II Prices are constant on average across the
+year, regardless of seasonality. III Prices rise at the harvest and fall afterwards. IV The
+market is in contango when the harvest comes in. V The market is in backwardation when the
+harvest comes in. VI If the market goes into contango, it is most likely to do so right before
+a new harvest. VII If the market goes into backwardation, it is most likely to do so right
+before a new harvest. Which of the above statements are correct?
+A.I and IV only
+B.I, II, IV and VI only
+C.III, V and VI only
+D.I, IV and VII only
+参考答案：D
+【莽学解析】Explanation: The new harvest ‘resets’ the storage market. For a while,
+consumption and production occur directly from the new harvest, and prices are low. Prices
+begin to rise as storage begins to occur. As the next harvest approaches, inventory may get
+tight, sending the market into backwardation.这要从供求的角度去理解，最简单的分析方法就是假定期
+货价格维持在一定水平1市场价格受供求影响，收获刚刚结束，市场上的供大于求，价格下降2明显就是错的
+。3与1说法相反4当收获来临的时候，现货供大于求，现货价格下降，小于期货价格，目前状态是contango。
+（comes in一般指即将到来，在这个题目中翻译为现在时更加贴切，丰收季即将到来的时候，投资者的预期
+会影响他们的消费行为，这时候他们不再会花大价格买粮食，粮食价格会下降。）7在一个新的丰收之前，市
+场上供小于求，现货价格上涨，大于期货价格，市场状态是backwardation。(下一个丰收日到来之前，粮食
+会被逐渐吃完，那么价格会回升上去，并大于未来的价格，因为现在吃粮食的效用更大)
+ 
+73.From the point of view of a company that uses derivatives to hedge foreign exchange risk,
+the main advantage of futures contracts over forward contracts is that:
+A.Futures are typically available for longer maturities.
+B.Futures are less standardized.
+C.Futures have less credit risk due to \u201cmarking-to-market\u201d.
+D.Futures usually have smaller notional amounts.
+参考答案：C
+【莽学解析】The mark-to-market feature of a futures contract requires each side to settle up
+every day, which reduces the credit risk of the transaction.期货合约的按逐日盯市要求每一方每天
+结算，降低了交易的信用风险。
+ 
+74.The yield curve is upward sloping, and a portfolio manager has a long position in 10-year
+Treasury Notes funded through overnight repurchase agreements. The risk manager is concerned
+with the risk that market rates may increase further and reduce the market value of the
+position. What hedge could be put on to reduce the position’s exposure to rising rates?
+A.Enter into a 10-year pay fixed and receive floating interest rate swap.
+B.Enter into a 10-year receive fixed and pay floating interest rate swap.
+C.Establish a long position in 10-year Treasury Note futures.
+D.Buy a call option on 10-year Treasury Note futures.
+参考答案：A
+【莽学解析】With a pay fixed and receive floating interest rate swap, an increase in rates will
+increase the value of the hedge position and offset the loss in value from the Bond position.持
+有国债，收的是固定利息。现在担心利率上升。所以进入的互换应该是付固定、收浮动。这样净现金流就是
+：收浮动，可对冲利率上升的风险。
+ 
+75.The current spot price of cotton is USD 0.7409 per pound. The cost of storing and insuring
+cotton is USD 0.0042 per pound per month payable at the beginning of every month. The risk-free
+rate is 5%. A 3-month forward contract trades at USD 0.7415 per pound. If there is an arbitrage
+opportunity, how would you capitalize on it to make a profit? Assume there are no restrictions
+on short selling cotton.I Short the futures contractII Borrow at the risk-free rateIII Buy
+cotton at the spot priceIV Go long in the futures contractV Invest at the risk-free rateVI Sell
+cotton at the spot price
+A.There is no arbitrage opportunity here.
+B.The arbitrage opportunity involves I, II, and III.
+C.The arbitrage opportunity involves IV, V, and VI.
+D.The arbitrage opportunity involves II, IV, and VI.
+参考答案：C
+【莽学解析】
+While the futures price is 0.7415, which is lower than 0.7628, you need to buy the futures,
+sell cotton spot and invest the funds in a risk-free bond so as to obtain a riskless profit.
+ 
+76.Estimate the forward rate of a 6-month foreign exchange rate contract. USD LIBOR is 6% and
+EUR LIBOR is 4%. The current exchange rate is 0.8800 USD per EUR. Assumes continuous
+compounding.
+A.0.9240
+B.0.9064
+C.0.8976
+D.0.8888
+参考答案：D
+【莽学解析】The interest rate parity theorem can be used to find the equilibrium forward
+EUR/USD rate. Since the spot foreign exchange rate is given as USD per EUR, treat the USD LIBOR
+rate of 4 percent as the foreign interest rate. Assumes continuous compounding, we can
+conclude:
+ 
+ 
+77.Long-dated forward contracts on short-term deposits:
+A.Imply lower rates than Eurodollar futures contracts for the same maturity.
+B.Imply higher rates than Eurodollar futures contracts for the same maturity.
+C.Imply the rates as Eurodollar futures contracts for the same maturity.
+D.May imply higher or lower rates than Eurodollar futures contracts for the same maturity.
+参考答案：A
+【莽学解析】The underlying asset in both these contracts is a short-term deposit, whose value
+is strongly negatively correlated to interest rates. Forward and futures prices on comparable
+contracts are not exactly equal because of the daily mark-to-market feature of futures
+contracts, and the difference increases with the term of the contracts. 这两种合约的标的资产都
+是短期存款，其价值与利率呈显著负相关。 远期和期货价格并不完全相等，这是由于期货合约的逐日盯市的
+特点，价二者之间的差异随合约期限的延长而增加。
+ 
+78.A trader runs a cash and future arbitrage book on the S&P 500 index. Which of the following
+are the major risk factors?I Interest rateII Foreign exchangeIII Equity priceIV Dividend
+assumption risk
+A.I and II only
+B.I and III only
+C.I, III and IV only
+D.I, II, III and IV
+参考答案：C
+【莽学解析】The cost of carry model used to determine the no-arbitrage future price for a stock
+index, does not use the foreign exchange. 持有成本模型用于确定无套利价格，并不涉及外汇的使用。
+ 
+79.The current quoted price of a September 2014 Eurodollar futures contract is 95.940. What is
+the associated contract price?
+A.938,600
+B.959,400
+C.989,850
+D.999,887
+参考答案：C
+【莽学解析】
+ 
+ 
+80.A portfolio manager has a $15 million mid-cap portfolio that has a beta of 1.3 relative to
+the S&P 400. S&P 500 futures are trading at 1,150 and have a multiplier of 250. The most
+significant risk this manager faces in attempting to hedge his position is:
+A.basis risk resulting from a cross-hedge.
+B.improper profit forecasts of the underlying position.
+C.volatility risk arising from unstable correlation predictions.
+D.correlation risk resulting from a rollover of positions between the S&P 400 and S&P 500.
+参考答案：A
+【莽学解析】Because the manager is considering hedging his S&P 400 exposure with S&P 500
+contracts, his primary concern should be basis risk between the two.由于该基金正考虑用标普500合
+约对冲其标普400的风险敞口，他的主要担忧应该是这两种合约之间的基差风险。
+ 
+81.Given the following:● Current spot rate: 1.3680 (1.3680CHF = 1USD)● 3-month USD interest
+rates: 1.05%● 3-month Swiss interest rates: 0.35%(Assume continuous compounding)A currency
+trader notices that the 3-month future price is USD 0.7350. In order to arbitrage, the trader
+should investment:
+A.Borrow CHF, buy USD spot, go long CHF futures
+B.Borrow CHF, sell CHF spot, go short CHF futures
+C.Borrow USD, buy CHF spot, go short CHF futures
+D.Borrow USD, sell USD spot, go long CHF futures
+参考答案：C
+【莽学解析】Step 1. The spot is quoted in terms of Swiss Francs per USD, theoretical future
+price of USD=Se(r-r*)t=1.368×e(0.35%-1.05%)×3/12=1.3656CHF Step 2. 3-month future price is
+USD 0.7350 → 1/0.7350 = 1.3605CHF Step 3. 1.3656CHF > 1.3605CHF USD future contract is
+undervalued Step 4. Arbitrage strategies: short USD (buy CHF) spot, buy USD (short CHF) future
+1.3680是美元的现货价（一单位美元，或者叫一个商品。价格是1.3680CHF）。这个商品的理论期货价是
+1.3656CHF,而实际的期货价是1.3605CHF（1.3605=1/0.735） 说明这个商品的期货价偏低：所以买入这个商
+品的期货。卖出这个商品的现货（即买入USD期货，卖出USD现货）。 由于汇率联系的是两种货币。两个货币
+之间的关系是倒数关系。所以买卖方向是相反的。（卖出USD现货与买入CHF现货是等价的）。borrowUSD的目
+的是将USD转换成CHF来投资，到期归还。因为arbitrage中，严格的定义是要空手套白狼，即不占用自己的任
+何资金。
+ 
+82.Which statement is TRUE about the shape of the commodities forward curve?
+A.In a normal market (aka, contango), the basis is positive
+B.In an inverted market (aka, backwardation) the basis is negative
+C.An inverted market (aka, backwardation) might be explained by negative interest rates but
+does not necessarily imply negative rates
+D.In a contango (aka, normal) market with a static forward curve, the price of a futures
+contract will INCREASE as time to maturity approaches zero
+参考答案：C
+【莽学解析】
+ 
+ 83.The current price of Commodity X in the spot market is $42.47. Forward contracts for
+delivery of Commodity X in one year are trading at a price of $43.11. If the current
+continuously compounded annual risk-free interest rate is 7.0%, calculate the implicit lease
+rate for Commodity X. Holding the calculated implicit lease rate constant, would the forward
+market for Commodity X be in backwardation or contango if the continuously compounded annual
+risk-free rate immediately fell to 5.0%?
+A.The implicit lease rate is 1.49%. Holding this rate constant, the forward market would be in
+contango if the continuously compounded annual risk-free rate immediately fell to 5.0%.
+B.The implicit lease rate is 5.50%. Holding this rate constant, the forward market would be in
+backwardation if the continuously compounded annual risk-free rate immediately fell to 5.0%.
+C.The implicit lease rate is 1.49%. Holding this rate constant, the forward market would be in
+backwardation if the continuously compounded annual risk-free rate immediately fell to 5.0%.
+D.The implicit lease rate is 5.50%. Holding this rate constant, the forward market would be in
+contango if the continuously compounded annual risk-free rate immediately fell to 5.0%.
+参考答案：B
+【莽学解析】
+
+
+ 
+84.To utilize the cash position of assets under management, a portfolio manager enters into a
+long futures position on the S&P 500 index with a multiplier of 250. The cash position is $15
+million with the current futures value of 1000, which requires the manager to long 60
+contracts. If the current initial margin is $12500 per contract, and the current maintenance
+margin is $10000 per contract, what variation margin does the portfolio manager have to advance
+if the futures contract value falls to $995 at the end of the first day of the position being
+placed?
+A.$30,000
+B.$0
+C.$300,000
+D.$75,000
+参考答案：B
+【莽学解析】Step 1: Initial margin $12,500 × 60 = $750,000; Maintenance margin$10,000 × 60 =
+$600,000Step 2: The first day lose = (1,000 – 995) × 250 × 60 = $75,000,So the first day
+value = $750,000 – $75,000 = $675,000>$600,000It will not require a variation margin to bring
+the position to the proper margin level. 第一步计算初始保证金12500 × 60 = 750000；维持保证金
+10,000 × 60 = 600,000。 第二步计算第一天损失 = (1000-995) × 250 × 60 = $75000，所以第一天的
+价值= 750000-75,000=675000>600000，因此不需要补充保证金。
+ 
+85.It is currently August 2010, and the spot price of soybeans is $5.05/bushel. Storage costs
+for soybeans on a continuously compounded basis are $0.45/bushel annually. The appropriate
+continuously compounded interest rate is 8%. If a soybean farmer has just finished harvesting
+his crop but would like to sell half of the crop in February 2011 and half in May 2011 by going
+short futures contracts, which of the following statements is most accurate? The farmer should
+store his crop only if the:
+A.February futures contract price is at least $5.48/bushel and the May futures contract price
+is at least $5.70/bushel.
+B.February futures contract price is at least $5.48/bushel and the May futures contract price
+is at least $5.73/bushel.
+C.February futures contract price is at least $5.50/bushel and the May futures contract price
+is at least $5.70/bushel.
+D.February futures contract price is at least $5.50/bushel and the May futures contract price
+is at least $5.73/bushel.
+参考答案：D
+【莽学解析】Calculate the price of the February (6-month) and May (9-month) forward prices
+using the following pricing formula which accounts for storage costs:
+The soybean farmer would only be willing to store half the crop until February if the February
+futures contract price is at Least $5.50/bushel. Similarly, the soybean farmer would only be
+willing to store the other half of the crop until May if the May futures contract price is at
+least $5.73/bushel.
+
+86.When is the contract rate of the FRA fixed?
+A.On the trade date
+B.On the value date
+C.On the rate-fixing date
+D.On the settlement date
+参考答案：A
+【莽学解析】The contract rate of the FRA is negotiated by the counter-parties to contract and
+fixed at the time of trade.FRA的合同利率是由交易双方商定的，在交易时确定的。
+ 
+87.A German housing corporation needs to hedge against rising interest rates. It has chosen to
+use futures on 10-year German government bonds. Which position in the futures should the
+corporation take, and why?
+A.Take a long position in the futures because rising interest rates lead to rising futures
+prices.
+B.Take a short position in the futures because rising interest rates lead to rising futures
+prices.
+C.Take a short position in the futures because rising interest rates lead to declining futures
+prices.
+D.Take a long position in the futures because rising interest rates lead to declining futures
+prices.
+参考答案：C
+【莽学解析】Government bond futures decline in value when interest rates rise, so the housing
+corporation should short futures to hedge against rising interest rates.当利率上升时，政府债券
+期货会贬值，因此房地产公司应该做空期货来对冲利率上升的风险。
+ 
+88.Assume that interest rates are 1.0% per annum with annual compounding in the United States
+and 9.0% in Brazil. A bank can borrow (by issuing CDs) or lend (by purchasing CDs) at these
+rates. The USDBRL spot exchange rate is R$ 3.500 per 1.0 US dollar. Which is nearest to the
+forward exchange rate implied by the interest rate parity theorem (quoted USDBRL with Brazilian
+real as the quote currency)?
+A.R$ 2.85
+B.R$ 3.54
+C.R$ 3.78
+D.R$ 4.07
+参考答案：C
+【莽学解析】The interest rate parity theorem requires that the forward rate preclude an
+arbitrage suchthat: (1 + US rate) = Spot rate (R$ per 1.0 dollar) * (1 + Brazilian rate) /
+Forward rate (R$ per 1.0 dollar), and therefore: Forward rate (R$ per 1.0 dollar) = Spot rate
+(R$ per 1.0 dollar) * (1 + Brazilian rate) / (1 +US rate). In this case, Forward rate (R$ per
+1.0 dollar) = R$ 3.500 * 1.09 / 1.01 = R$ 3.7772 利率平价定理可计算均衡的远期利率。
+F=3.5*(1＋9%)/(1＋1%)=3.7772
+ 
+89.What is the purpose of margin payments associated with futures contracts?
+A.To reduce the maintenance cost for participants.
+B.To reduce the credit risk for participants.
+C.To reduce the market risk for participants.
+D.None of the above.
+参考答案：B
+【莽学解析】Margin payments ensure that all profits and losses are realized each day and posted
+as cash/securities by the losing party. This significantly reduces the chances of a credit loss
+due to default by any losing party.保证金支付保障了所有的损益每天都能实现，并由损失方以现金/证
+券的形式支付。这大大降低了损失方违约造成信用损失的机会。
+ 
+90.A company wants to borrow $10 million for 90 days starting in one year. To hedge the
+interest rate risk of the future borrowing, the company enters into a forward rate agreement
+(FRA) where the company will pay a fixed rate, R(k), of 5.0%. The FRA cash settles in one year;
+i.e., in advance (T=1.0) not in arrears (T=1.25). All rates are expressed with quarterly
+compounding. If the actual 90-day LIBOR observed one year forward turns out to be 6.0%, what is
+the cash flow settlement by the company under the FRA?
+A.Company pays $24,631
+B.Company pays $25,000
+C.Company receives $24,631
+D.Company receives $25,000
+参考答案：C
+【莽学解析】The payoff to the company =$10 MM×(6.0%－5.0%)×0.25=$25,000; i.e., if LIBOR goes
+up, the company borrowing cost will increase but the FRA will hedge by paying the company. But
+the FRA settles at T = 1.0, such that payoff =$25,000/(1＋6.0%×0.25)=$24,631公司的收益=
+10MM×(6.0% - 5.0%)×0.25= 2.5万美元；如果LIBOR上升，理论上公司的借贷成本将上升，但进入FRA支付
+固定利息，在结算时是产生收益的。FRA在T = 1.0时，收益=$25,000/(1＋6.0%×0.25)=$24,631
+ 
+91.Gamma Industries, Inc. issues an inverse floater with a face value of USD 50,000,000 that
+pays a semiannual coupon of 11.50% minus LIBOR. Gamma Industries intends to execute an
+arbitrage strategy and earn a profit by selling the notes, using the proceeds to purchase a
+bond with a fixed semiannual coupon rate of 6.75% a year, and hedging the risk by entering into
+an appropriate swap. Gamma Industries receives a quote from a swap dealer with a fixed rate of
+5.75% and a floating rate of LIBOR. What would be the most appropriate type of swap Gamma
+Industries, Inc. should enter into to hedge their risk?
+A.Pay-fixed, receive-fixed.
+B.Pay-floating, receive-fixed swap.
+C.Pay-fixed, receive-floating.
+D.The risk cannot be hedged with a swap.
+参考答案：B
+【莽学解析】The company has a floating outflow of (11.50% - LIBOR) and a fixed inflow of 6.75%.
+On the outflow, -LIBOR is the same as an inflow Pay-floating, Receive-fixed. Gamma Industries
+is exposed to interest rate fluctuations of LIBOR. Therefore, the appropriate swap would be a
+pay-floating, receive-fixed swap. 1.这是一个发行反向floater债券（inverse）：付11.5%-L ，也就是
+付11.5%，收L。 2.这个公司第二个策略是买固定利息债券：收6.75%。 3.因此他的总策略现金流是这样的
+：收L-11.5%＋6.75%=L-4.75%（也就可以拆分成：收L，付4.75%） 。 4.问的是买那种swap去对冲这种风险
+：反向现金流：付L，收固定 总之呢，这题就是找出所有的现金流，进行一个加总。根据总的现金流方向去
+确定swap，后面给的是dealer报出的swap现金流（与本题没什么关系）。
+ 
+92.A stock index is valued at USD 800 and pays a continuous dividend at the rate of 3% per
+year. The 6-month futures contract on that index is trading at USD 758. The continuously
+compounded risk free rate is 2.5% per year. There are no transaction costs or taxes. Is the
+futures contract priced so that there is an arbitrage opportunity? If yes, which of the
+following numbers comes closest to the arbitrage profit you could realize by taking a position
+in one futures contract?
+A.38
+B.40
+C.42
+D.There is no arbitrage opportunity
+参考答案：B
+【莽学解析】The no-arbitrage futures price should be: 800e(2.5%-3%)×0.5=798. Since the market
+price of the futures contract is lower than this price, there is an arbitrage opportunity. The
+futures contract could be purchased and the index sold. Arbitrage profit =798-758=40 无套利期货
+价格应为:800e^(((2.5% - 3%)×0.5)=798。由于期货合约的市场价格低于该价格，存在套利机会。买进期货
+合约，卖出指数。套利利润=798－758 = 40
+ 
+93.If a commodity is more expensive for immediate delivery than for future delivery, the
+commodity curve is said to be in:
+A.contango
+B.backwardation
+C.reversal
+D.none of the above
+参考答案：B
+【莽学解析】A market is in backwardation when spot prices are greater than futures prices.当市
+场呈现现货溢价时，F小于S
+ 
+ 
+94.Using the continuous time forward pricing model, what is the no-arbitrage price of a 3-month 
+forward contract if the interest rate is 3.2 percent and the spot price of the asset is $750?
+A.$778
+B.$736
+C.$729
+D.$756
+参考答案：D
+【莽学解析】The formula is: F0 = S0erT.Using this formula we calculate the forward price as
+750e(0.032)(0.25) = $756.公式是F0 = S0e^(Rt)，利用这个公式，我们计算远期价格为
+750e^[(0.032)(0.25)] = 756美元。
+
+95.Interest rates (bond yields) are currently below 6.0%. Which of the following bonds will the
+short position in U.S. Treasury bond futures contract be most likely to deliver; i.e., which
+will be CTD?
+A.Short-maturity with low coupon
+B.Short-maturity with high coupon
+C.Long-maturity with low coupon
+D.Long-maturity with high coupon
+参考答案：B
+【莽学解析】If yields are low (＜ 6%), favors low duration bonds; If yields are high (>6%),
+favors high duration bonds; 快速确定最便宜可交割债券的范围有一些经验结论。一个是根据市场利率的
+实际水平进行划分，或者根据利率的走势进行划分：当收益率>6%时，先考虑久期较大的债券，即息票率较低
+、期限较长的债券；当收益率<6%时，先考虑久期较小的债券，即息票率较高、期限较短的债券。 二是根据
+利率期限结构进行划分：当利率期限结构向上，先考虑久期较大的债券，即到期期限较长的债券；当利率期
+限结构向下，先考虑久期较小的债券，即到期期限较短的债券。
+ 
+96.Assume that the current spot exchange rate is 0.8950 USD per 1 EUR. An American bank pays
+3.5 percent annual interest rate for a dollar deposit and a European bank pays 2.75 percent
+annual interest rate for a EUR deposit. Both rates are compounded annually. If the interest-
+rate parity theory holds true, calculate the no arbitrage forward exchange rate for one year
+from now:
+A.0.9015
+B.0.8990
+C.0.8975
+D.0.8950
+参考答案：A
+【莽学解析】The interest rate parity theorem can be used to find the equilibrium forward
+EUR/USD rate.
+ 
+ 
+97.The four-year Eurodollar futures quote is 97.00. The volatility of the short-term interest
+rate (LIBOR) is 1.0%, expressed with continuous compounding. What is the equivalent forward
+rate, adjusted for convexity, given in ACT/360 day count with continuous compounding (i.e., the
+Eurodollar futures contract gives LIBOR in quarterly compounding ACT/360, so convert to
+continuous but a day count conversion is not needed)?
+A.2.90%
+B.2.95%
+C.2.99%
+D.3.00%
+参考答案：A
+【莽学解析】
+ 
+ 
+98.A forward rate agreement (FRA):
+A.can be used to hedge the interest rate exposure of a floating-rate loan.
+B.is risk-free when based on the Treasury bill rate.
+C.is settled by making a loan at the contract rate.
+D.is priced in dollars.
+参考答案：A
+【莽学解析】An FRA settles in cash and carries both default risk and interest rate risk, even
+when based on an essentially risk-free rate. It can be used to hedge the risk/uncertainty about
+a future payment on a floating rate loan.FRA以现金结算，即使是基于基本无风险的利率，也会带来违
+约风险和利率风险。它可以用来对冲浮动利率贷款未来偿付的风险/不确定性。
+ 
+99.A natural gas producer wants to hedge the risk of a decline in the price of natural gas over
+the next three months. The trader representing the producer wants a short position in the 3-
+month natural gas futures contract to mitigate this risk and puts in an order to short the
+contract at a price of USD 5 per MMBTU or above. Which of the following describes this type of
+order?
+A.Market-not-held order
+B.Stop-loss order
+C.Discretionary order
+D.Limit order
+参考答案：D
+【莽学解析】Limit order specifies a particular price, the order can be executed only at this
+price or at one more favorable to the investor.限价指令的特点就是投资者以市场上的一个限定的价格
+，以这个限定价格或者比这个限定价格更优的价格达成交易。
+ 
+100.To equalize the cash portion of assets under management, a portfolio manager enters into a
+long futures position on the S&P 500 Index with a multiplier of 250. The cash position is
+$5,000,000, which at the current futures value of 1,000 requires the manager to be long 20
+contracts. If the current initial margin is $12,500 per contract, and the current maintenance
+margin is $10,000 per contract, the variation margin the portfolio manager needs to advance if
+the futures contract value falls to 985 at the end of the first day of the position is closest
+to:
+A.$25,000
+B.$30,000
+C.$50,000
+D.$75,000
+参考答案：D
+【莽学解析】The futures contract ended at 985 on the first day. This represents a decrease in
+value in the position of (1000-985)×$250×20=$75,000. The initial margin placed by the manager
+was $12,500×20=$250,000. The maintenance margin for this position requires
+$10,000×20=$200,000. Since the value of the position declined $75,000 on the first day, the
+margin account is now worth $175,000 (below the $200,000 maintenance margin) and will require a
+variation margin of $75,000 to bring the position back to the initial margin. It is not
+sufficient just to bring the position back to the maintenance margin.该期货合约在第一天以985点
+收盘。价值减少(1000-985)×$250×20=$75000。最初的保证金是12500×20=25万美元。维持保证金
+$10,000×20=$200,000。由于该头寸的价值在第一天下降了7.5万美元，因此保证金账户现在价值17.5万美元
+(低于20万美元的维持保证金)，将需要交7.5万美元的变动保证金才能使该头寸回到初始保证金水平。仅仅将
+头寸调整回维持保证金是不够的。
+ 
+101.A bronze producer will sell 1,000 mt (metric tons) of bronze in three months at the
+prevailing market price at that time. The standard deviation of the change in the price of
+bronze over a 3-month period is 2.6%. The company decided to use 3-month futures on copper to
+hedge the exposure. The copper futures contract is for 25mt of copper. The standard deviation
+of the futures price is 3.2%. The correlation between 3-month changes in the futures price and
+the price of bronze is 0.77. To hedge its price exposure, how many futures contracts should the
+company buy/sell?
+A.Sell 38 futures
+B.Buy 25 futures
+C.Buy 63 futures
+D.Sell 25 futures
+参考答案：D
+【莽学解析】To hedge the exposure, the company should sell futures and not buy. The number of
+contracts to sell is:
+ 
+ 
+102.Consider an FRA (forward rate agreement) with the same maturity and compounding frequency
+as a Eurodollar futures contract. The FRA has a LIBOR underlying. Which of the following
+statements are true about the relationship between the forward rate and the futures rate?
+A.The forward rate is normally higher than the futures rate.
+B.They have no fixed relationship.
+C.The forward rate is normally lower than the futures rate.
+D.They should be exactly the same.
+参考答案：C
+【莽学解析】Equation of convexity adjustment shows that the futures rate exceeds the forward
+rate. 凸性调整公式表明，期货利率高于远期利率。
+ 
+103.A bank has a USD 4 million portfolio available for investing. The cost of funds for the $4
+million is 5.5%. The bank lends 50% of the assets to domestic customers for an average loan
+rate of 7.35%. The rest of the portfolio is lent to some UK clients at 8% at a current exchange
+rate of 1.62 USD per GBP. At the same time, the bank sells a forward contract to eliminate
+exchange rate risk equal to the expected receipts one year from now. The forward rate is 1.52
+USD per GBP. The net interest margin on the bank’s investment balance sheet is closest to:
+A.-1.16%
+B.1.93%
+C.2.18%
+D.4.34%
+参考答案：A
+【莽学解析】Assuming no default risk, the domestic return is 7.35%. The return on the UK
+investments is: (USD$2,000,000)/1.62 = GBP1,234,568, which turns into
+GBP1,234,568×1.08=GBP1,333,333 one year from now. Since the forward contract guarantees the
+exchange rate in the future, this translates into GBP1,333,333×1.5200=USD2,026,666. This is a
+dollar return to the bank of USD2,026,666/USD2,000,000-1=1.33%. Hence, the weighted average
+return to the bank’s investments is (0.5)×(7.35%)＋(0.5)×(1.33%)=4.34%. Since the cost of
+funds for the bank is 5.5%, the net interest margin for the bank is 4.34%-5.50%=-1.16%. 假设没
+有违约风险，国内回报率为7.35%。英国投资的收益为:(USD$2,000,000)/1.62= GBP1,234,568，一年后变为
+GBP1,234,568×1.08=GBP1,333,333。 由于远期合同保证了未来的汇率，所以换算成美元为
+:1,333,333×1.5200=USD2,026,666。美元回报1.33%。因此，加权平均回报率是
+(0.5)×(7.35%)＋(0.5)×(1.33%)=4.34%。 由于银行的资金成本为5.5%，银行的净息差为4.34% - 5.50%= -
+1.16%。
+ 
+104.ABC, Inc., entered a forward rate agreement (FRA) to receive a rate of 3.75% with
+continuous compounding on a principal of USD 1 million between the end of year 1 and the end of
+year 2. The zero rates are 3.25% and 3.50% for one and two years. What is the value of the FRA
+when the deal is just entered?
+A.USD 35,629
+B.USD 34,965
+C.USD 664
+D.USD 0
+参考答案：D
+【莽学解析】Given that this is exactly equal to the quoted rate, the value must be zero如果这个
+正好等于报价利率，那么它的价值一定是零。
+ 
+105.What features of cash and futures prices tend to make hedging possible?
+A.They always move together in the same direction and by the same amount.
+B.They move in opposite directions by the same amount.
+C.They tend to move together generally in the same direction and by the same amount.
+D.They move in the same direction by different amounts.
+参考答案：C
+【莽学解析】Effective hedging is possible because of the strong (and positive) correlation
+between movements in cash prices and futures prices. 题目问的是现货和期货对冲的话，价格最好有怎
+样的特点？最好是期货价与现货价变化大致大小相同，这样才好有效对冲。如果有效对冲，那么现货和用于
+对冲的期货（这里已经进行了数量调整）未来的变动方向和趋势是趋于一致的。想要用期货对冲现货，最好
+基差风险足够低，即现货价格的波动与期货价格的波动近乎相同，在实际市场中，不是那么完美的，所以只
+需要达到tendto就可以了，不大可能always，所以A的说法太过绝对。有效对冲是指R^2趋近于1，不是等于1.
+ 
+106.The S&P 500 index is trading at 1,025. The S&P 500 pays an expected continuously dividend
+yield of 1.2% and the current continuously compounded risk-free rate is 2.75%. The price of a
+3-month futures contract on the S&P 500 index is closest to:
+A.1,028.98
+B.1,108.59
+C.984.86
+D.1,025.00
+参考答案：A
+【莽学解析】本题如下：
+ 
+107.Which of the following commodities is most likely to imply a forward curve in
+backwardation?
+A.low risk-free rate, low lease rate, low storage cost, low convenience yield
+B.high risk-free rate, low lease rate, high storage cost, low convenience yield
+C.low risk-free rate, high lease rate, low storage cost, high convenience yield
+D.high risk-free rate, high lease rate, high storage cost, high convenience yield
+参考答案：C
+【莽学解析】It's convenient to assume that compound continuously 使用连续复利的假定去分析持有成
+本模型是比较方便的，可直接判断各个利率的大小关系。
+ 
+108.When an investor is obligated to buy the underlying asset in a futures position, which of
+the following is the position of the investor?
+A.basis trade
+B.long-futures position
+C.short-futures position
+D.hedged-futures position
+参考答案：B
+【莽学解析】When an investor is obligated to buy the underlying asset in a futures position, it
+is a long futures position.当投资者有义务在期货头寸中购买相关资产时，这就是多头期货头寸
+ 
+109.If the volatility of the short interest rate (LIBOR) is 4.0%, what is the convexity
+adjustment for a five-year Eurodollar futures contract?
+A.0.75%
+B.1.1%
+C.2.1%
+D.4.2%
+参考答案：C
+【莽学解析】Convexityadjustment = 0.5×(4%^2)×5×5.25 = 2.10%曲率调节=0.5×σ^2×
+T(T＋0.25)=0.5×（4%^2）×5×5.25=2.1%
+ 
+110.The settlement price of a U.S. Treasury bond futures contract is $98.50 (98-16). The two
+bonds eligible for delivery are: Bond A: Quoted Price of $97.00 and conversion factor (CF) of
+0.96; Bond B: Quoted Price of $102.00 and conversion factor (CF) of 1.03 Which bond is
+cheapest-to-deliver (CTD)?
+A.Bond A is the CTD because it cost the short $2,440 per contract to deliver
+B.Bond A is the CTD because it profits the short $5,500 per contract to deliver
+C.Bond B is the CTD because it costs the short $545 per contract to deliver
+D.Bond B is the CTD because it profits the short $1,316 per contract to deliver
+参考答案：C
+【莽学解析】Bond B is the CTD because it costs the short $545 per contract to deliver Bond A:
+98.50×0.96-$97 = -2.44 (-$2,440 per contract) Bond B: 98.50×1.03-$102=-0.545 (-$545 per
+contract) 本题如下 Bond A: 98.50×0.96－$97 = －2.44 (-$2,440 per contract) Bond B:
+98.50×1.03－$102=－0.545 (-$545 per contract)
+ 
+111.If the gold lease rate is higher than the risk-free rate, what is the market structure of
+the forward market for gold?
+A.Backwardation
+B.Contango
+C.Inversion
+D.Need more information to determine
+参考答案：A
+【莽学解析】
+The spot price is higher than forward prices. Market is in backwardation.
+ 
+112.A firm is going to buy 10,000 barrels of West Texas Intermediate Crude Oil. It plans to
+hedge the purchase using the Brent Crude Oil futures contracts. The correlation between the
+spot and futures prices is 0.72. The volatility of the spot price is 0.35% per year. The
+volatility of the Brent Crude Oil futures price is 0.27% per year. What is the hedge ratio for
+the firm?
+A.0.9333
+B.0.5554
+C.0.8198
+D.1.2099
+参考答案：A
+【莽学解析】The solution follows：
+ 
+ 
+113.If the volatility of the short-term interest rate (LIBOR) is 4.0%, what is the convexity
+adjustment for a five-year Eurodollar futures contract?
+A.0.75%
+B.1.1%
+C.2.1%
+D.4.2%
+参考答案：C
+【莽学解析】
+ 
+ 
+114.Consider an eight-month forward contract on a stock with a price of $98/share. The delivery
+date is eight months hence. The firm is expected to pay a $1.80/share dividend in four months
+time. Riskless zero coupon interest rates (continuously compounded) for different maturities
+are as follows: 4 months 4%, 8 months 4.5%. The theoretical forward price (to the nearest cent)
+is:
+A.99.15
+B.99.18
+C.100.98
+D.96.20
+参考答案：A
+【莽学解析】The solution is as follows:
+ 
+ 
+ 
+115.What assumptions does a duration-based hedging scheme make about the way in which interest
+rates move?
+A.All interest rates change by the same amount.
+B.A small parallel shift in the yield curve.
+C.Any parallel shift in the term structure.
+D.Interest rates movements are highly correlated.
+参考答案：B
+【莽学解析】Duration provides an accurate description of price movements only over small
+changes in yield In addition, in order to hedge instruments of different durations, the
+implicit assumption is that yield changes are the same over the different durations being
+hedged (i.e., a parallel yield curve shift). duration based hedging特指的是在利率期限结构平行移
+动的情况。不要被他的名字给唬住了。这题问的是用duration做对冲，它的假设基础是什么？这个知识很综
+合，是隐含在我们的第三、四门课程中。 之所以能用duration做对冲，1.利率变化是不能很大的（如果利率
+变化大，还要考虑凸性的）。2.利率曲线是平行移动的（parallelshift），如果是非平行移动，要用
+keyrate duration。
+ 
+116.Which of the following types of orders may never be executed?
+A.Limit orders
+B.Market-if-touched (MIT) orders
+C.Stop-limit orders
+D.All of the above
+参考答案：D
+【莽学解析】All of these orders require that the price reach a certain range before being
+activated. If the price never reaches that range, the order will never be activated.所有这些指
+令都要求价格达到一定范围后才被激活。如果价格从来没有达到这个范围，指令将永远不会被激活。
+ 
+117.On Nov 1, Jimmy Walton, a fund manager of an USD 60 million US medium-to-large cap equity
+portfolio, considers locking up the profit from the recent rally. The S&P 500 index and its
+futures with the multiplier of 250 are trading at USD 900 and USD 910, respectively. Instead of
+selling off his holdings, he would rather hedge two-thirds of his market exposure over the
+remaining 2 months. Given that the correlation between Jimmy’s portfolio and the S&P 500 index
+futures is 0.89 and the volatilities of the equity fund and the futures are 0.51 and 0.48 per
+year respectively, what position should he take to achieve his objective?
+A.Sell 250 futures contracts of S&P 500
+B.Sell 169 futures contracts of S&P 500
+C.Sell 167 futures contracts of S&P 500
+D.Sell 148 futures contracts of S&P 500
+参考答案：C
+【莽学解析】Two-thirds of the equity fund is worth USD 40 million. h=0.89×0.51/0.48=0.9456
+N=0.9456×40,000,000/(910×250)=166.26三分之二的价值是四千万。h=0.89×0.51/0.48=0.9456
+;N=0.9456×40,000,000/(910×250)=166.26
+ 
+118.Assume a dollar asset provides no income for the holder and an investor can borrow money at
+risk-free interest rate r, then the forward price F at time T and spot price S at time t of the
+asset is related. If the investor observes that F>S×er(T - t), then the investor can take a
+profit by:
+A.Borrowing S dollars for a period of (T - t) at the rate of r, buy the asset, and short the
+forward contract.
+B.Borrowing S dollars for a period of (T - t) at the rate of r, buy the asset, and long the
+forward contract.
+C.Selling short the asset and invest the proceeds of S dollars for a period of (T - t) at the
+rate of r, and short the forward contract.
+D.Selling short the asset and invest the proceeds of S dollars for a period of (T - t) at the
+rate of r, and long the forward contract.
+参考答案：A
+【莽学解析】If the forward price exceeds the future value of the spot price, an arbitrage
+profit can be made by borrowing funds, buying the asset, going short in the futures contract
+and delivering the asset under the short futures position at the delivery date. The proceeds of
+the sale will exceed the cost of the borrowing. 如果远期价格超过现货价格的未来价值，可以通过借
+入资金、购买资产、在期货合约中做空，并在交割日交割资产来套利。
+ 
+119.Assume the spot rate for USD per EUR is 1.05 (i.e., 1 Euro buys 1.05 dollars). A US bank
+pays 5.5% compounded annually for one year for a dollar deposit and a German bank pays 2.5%
+compounded annually for one year for a Euro deposit. What is the forward exchange rate for one
+year from now?
+A.1.0815
+B.1.0201
+C.1.0807
+D.1.05
+参考答案：C
+【莽学解析】
+
+120.Which of the following is TRUE about a forward rate agreement (FRA)?
+A.It is an exchange-traded instrument
+B.It can be cash or physically settled
+C.A borrower who intends to borrow cash at LIBOR in the future will hedge by receiving the
+fixed interest rate, R(k), in an FRA
+D.A bank that intends to lend cash at LIBOR in the future will hedge by receiving the fixed
+interest rate, R(k), in an FRA
+参考答案：D
+【莽学解析】In the future, the bank’s cash flows will be: (+) receive LIBOR on the lent cash
+(+) receive fixed rate on the FRA (-) pay LIBOR on the FRA = net (+) receive fixed rate on the
+FRA In regard to (A), FRA is OTC. In regard to (B), FRA is cash settled. In regard to (C), to
+hedge the future LIBOR, the borrower wants to pay fixed and receive LIBOR (i.e., the gain/loss
+on LIBOR in the FRA offsets the future borrowing).A：FRA是OTC。B：FRA是以现金结算。C：为了对冲
+未来的LIBOR，借款人希望支付固定利率并获得LIBOR，FRA的LIBOR的损益可抵消未来的借款成本。
+ 
+121.The same portfolio manager above--i.e., owning a portfolio with duration of 6.0 years’
+worth $30 million and hedging with Treasury bond futures contracts priced at 95-12 and CTD bond
+with duration of 9.1 years--wants to reduce the portfolio duration to 2.0 years instead of
+reducing the duration to zero. What is the trade that reduces the portfolio from 6.0 years to a
+hedged position with duration of 2.0 years?
+A.Long 94 contracts
+B.Long 138 contracts
+C.Short 94 contracts
+D.Short 138 contracts
+参考答案：D
+【莽学解析】N*=(30,000,000×4.0 ) / (95,375×9.1)=138.26; i.e., short 138
+contractsN*=(30,000,000×4.0 ) / (95,375×9.1)=138.26
+ 
+122.The term contango is used to describe a market in which:
+A.Forward prices are above spot prices.
+B.Forward prices are below spot prices.
+C.Spot prices and forward prices are at the same level.
+D.None of the above.
+参考答案：A
+【莽学解析】When a market is in contango, forward prices are above spot prices.当市场呈现期货溢
+价时，F大于S
+ 
+123.The spot price of silver is $20.00 per ounce. The storage cost is $3.00 per ounce per year
+payable quarterly in arrears. The risk-free interest rate is flat at 3.0% per annum with
+continuous compounding. Further, you have determined that the owning silver confers a
+convenience yield of 0.20% (20 basis points) per month with continuous compounding. Which is
+nearest to the theoretical futures price of silver for delivery in six months?
+A.$19.83
+B.$20.79
+C.$21.55
+D.$23.09
+参考答案：C
+【莽学解析】
+ 
+ 
+However, since the manager is long the portfolio, he will want to take a short position in the
+36 contracts.At the maturity:Change in value of portfolio=-0.01×10,000,000=-100,000Change in
+value of futures position =36×(1,100-1,090)×(250)=90,000Net payoff =-100,000+90,000=-10,000.
+
+124.A portfolio manager manages a $10 million portfolio that has a beta of 1.0 relative to the
+S&P 500. The S&P 500 futures are trading at 1,100 and the multiplier is 250. He would like to
+hedge exposure to market risk over the next few months. Suppose that at the maturity of the
+futures contract, the market index is trading at 1,090 and the portfolio has experienced a 1%
+decline in value. Evaluate the following statements: I. The appropriate hedge for the portfolio
+is a long position in 36 contracts. II. The net impact of the market decline on the
+appropriately hedged portfolio is a gain of $10,000.
+A.I only
+B.II only
+C.Both
+D.Neither
+参考答案：D
+【莽学解析】
+The net impact is a loss of $10,000.
+ 
+125.Three months ago a company entered in a one-year forward contract to buy 100 ounces of
+gold. At the time, the one-year forward price was USD 1,000 per ounce. The nine-month forward
+price of gold is now USD 1,050 per ounce. The continuously-compounded risk-free rate is 4% per
+year for all maturities and there are no storage costs. Which of the following is closest to
+the value of the contract?
+A.USD 5,000
+B.USD 4,852
+C.USD 7,955
+D.USD 1,897
+参考答案：B
+【莽学解析】The value of the contract is:
+ 
+ 
+126.Which of the following is TRUE concerning basis risk? In a hedge using futures contracts:
+A.basis risk of the hedged security is replaced with price risk.
+B.price risk of the hedged security is replaced with basis risk.
+C.basis risk is eliminated but price risk still exists.
+D.both basis risk and price risk are eliminated.
+参考答案：B
+【莽学解析】Using futures for hedging generally transfers the price risk into basis risk. Basis
+risk is a kind of risk owing to differences in price between future price and spot price.基差风
+险是指由于期货价格与现货价格之间存在价格差异而产生的风险。
+ 
+127.A fund manager owns a 50 million USD growth portfolio that has a beta of 1.6 relative to
+the S&P 500. The S&P 500 Index is trading at 1190. Calculate the number of futures contracts
+the fund manager needs to sell to hedge the portfolio. (The multiplier of the S&P 500 is 250.)
+A.105
+B.168
+C.269
+D.283
+参考答案：C
+【莽学解析】对冲数量=1.6×$50,000,000/(1195×250)=269
+ 
+128.What can be said about the settlement risk of a Eurodollar futures contract and a FRA with
+the same term?
+A.The Eurodollar futures contract and a FRA have the same settlement risk.
+B.The Eurodollar futures contract has less settlement risk than a FRA.
+C.The Eurodollar futures contract has more settlement risk than a FRA.
+D.The Eurodollar futures contract may have more or less settlement risk depending on.
+参考答案：B
+【莽学解析】Generally speaking, settlement risk is the risk that one of the counterparties to a
+derivatives transaction will fail to perform when the contract matures. FRAs are OTC traded
+instruments, and thus have more settlement risk than Eurodollar futures contracts which are
+exchange traded, marked-to-market daily, and backed by a clearinghouse. 一般来说，结算风险是指
+衍生品交易的对手方之一在合约到期后无法履行合约的风险。FRA是一种场外交易工具，因此比欧洲美元期货
+合约的结算风险更大。欧洲美元期货合约是在交易所交易的，每日按市价结算，并由清算所担保。
+ 
+129.A firm is going to buy 10,000 barrels of West Texas Intermediate Crude Oil. It plans to
+hedge the purchase using the Brent Crude Oil futures contracts. The correlation between the
+spot and futures prices is 0.72. The volatility of the spot price is 0.35% per year. The
+volatility of the Brent Crude Oil futures price is 0.27% per year. What is the hedge ratio for
+the firm?
+A.0.9333
+B.0.5554
+C.0.8198
+D.1.2099
+参考答案：A
+【莽学解析】本题文字解析如下：
+ 
+ 
+130.The spot price of gold is $1,822 and the six-month forward price is $1,830; S(0) = 1822,
+F(0,0.5) = 1830. The riskless rate is 2.0%. What is the implied per annum lease rate under,
+respectively, an assumption of i. continuous compounding and ii. annual (discrete) compounding?
+A.1.124% (continuous) and 1.110% (annual)
+B.1.248% (continuous) and 1.220% (annual)
+C.1.362% (continuous) and 1.346% (annual)
+D.1.444% (continuous) and 1.428% (annual)
+参考答案：A
+【莽学解析】
+ 
+ 
+131.Alan bought a futures contract on a commodity on the New York Commodity Exchange on June 1.
+The futures price was USD 500 per unit and the contract size was 100 units per contract. Alan
+set up a margin account with initial margin of USD 2,000 per contract and maintenance margin of
+USD 1,000 per contract. The futures price of the commodity varied as shown below. What was the
+balance in Alan’s margin account at end of June 5?
+A.USD -1,120
+B.USD 0
+C.USD 880
+D.USD 1,710
+参考答案：D
+【莽学解析】
+The margin balance at the end of June is USD 1,710. There is a margin call each time the margin
+account drops below the maintenance margin amount of USD 1,000. Each time there is a margin
+call, the balance has to be brought back to the initial margin level of USD 2,000.
+ 
+132.Consider a 6-month futures contract on the S&P 500, and suppose the current value of the
+index is1330. Suppose the continuously dividend yield is 1.5% annually for the stocks
+underlying the index, and that the continuously compounded risk-free interest rate is 5.5%
+annually. What is the cost of carry for this futures contract?
+A.4.0%
+B.-4.0%
+C.2.0%
+D.-2.0%
+参考答案：A
+【莽学解析】r﹣d=5.5%﹣1.5%=4% 本题文字解析 r﹣d=5.5%﹣1.5%=4%
+ 
+133.Pear, Inc. is a manufacturer that is heavily dependent on plastic parts shipped from
+Malaysia. Pear wants to hedge its exposure to plastic price shocks over the next 7.5 months.
+Futures contracts, however, are not readily available for plastic. After some research, Pear
+identifies futures contracts on other commodities whose prices are closely correlated to
+plastic prices. Futures on Commodity A have a correlation of 0.85 with the price of plastic,
+and futures on Commodity B have a correlation of 0.92 with the price of plastic. Futures on
+both Commodity A and Commodity B are available with 6-month and 9-month expirations. Ignoring
+liquidity considerations, which contract would be the best to minimize basis risk?
+A.Futures on Commodity A with 6 months to expiration
+B.Futures on Commodity A with 9 months to expiration
+C.Futures on Commodity B with 6 months to expiration
+D.Futures on Commodity B with 9 months to expiration
+参考答案：D
+【莽学解析】In order to minimize basis risk, one should choose the futures contract with the
+highest correlation to price changes, and the one with the closest maturity, preferably
+expiring after the duration of the hedge. 为了尽量降低基差风险，应选择与价格变动相关性最高的期
+货合约，以及期限最接近的期货合约，最好是在对冲期限过后到期，这样可以完全覆盖此阶段现货变动风险
+。
+
+134.Which of the following trade（　） contain basis risk? I Long 1,000 lots Nov 07 ICE Brent
+Oil contracts and short 1,000 lots Nov 07 NYMEX WTI Crude Oil contracts. II Long 1,000 lots Nov
+07 ICE Brent Oil contracts and long 2,000 lots Nov 07 ICE Brent Oil at-the-money put. III Long
+1,000 lots Nov 07 ICE Brent Oil contracts and short 1,000 lots Dec 07 ICE Brent Oil contracts.
+IV Long 1,000 lots Nov 07 ICE Brent Oil contracts and short 1,000 lots Dec 07 NYMEX WTI Crude
+Oil contracts.
+A.II and IV only
+B.I and III only
+C.I, III and IV only
+D.III and IV only
+参考答案：C
+【莽学解析】There is mainly basis risk for positions that are both long and short either
+different months or contracts. Position II is long twice the same contract and thus has no
+basis risk (but a lot of directional risk).基差风险的主要来源：标的不一致、期限不匹配
+间(t)成正相关，与股息收益率(q)成负相关，因此D是错误的。
+ 
+135.Consider a forward contract on a stock market index. Identify the false statement:
+Everything else being constant:
+A.The forward price depends directly upon the level of the stock market index.
+B.The forward price will fall if underlying stocks increase the level of dividend payments over
+the life of the contract.
+C.The forward price will rise if time to maturity is increased.
+D.The forward price will fall if the interest rate is raised.
+参考答案：D
+【莽学解析】The price of an equity index forward contract is: F = Se(r - q)t. The forward price
+(F) is positively related to the spot price (S), the risk-free interest rate (r), and the time
+to maturity (t) and is negatively related to the dividend yield (q). Therefore choice d is
+false. 股指期货合约的价格为:F = Se^((r - q)t)。远期价格(F)与现货价格(S)、无风险利率(r)、到期时
+
+136.A risk analyst at a commodities trading firm is examining the supply and demand conditions
+for various commodities and is concerned about the volatility of the forward prices for silver
+in the medium term. Currently, silver is trading at a spot price of USD 20.35 per troy ounce
+and the six-month forward price is quoted at USD 20.50 per troy ounce. Assuming that after six
+months the lease rate rises above the continuously compounded interest rate, which of the
+following statements is correct about the shape of the silver forward curve after six months?
+A.The forward curve will be downward sloping.
+B.The forward curve will be upward sloping.
+C.The forward curve will be flat.
+D.The forward curve will be humped.
+参考答案：A
+【莽学解析】A is correct. The forward price can be expressed in terms of lease rate and risk-
+free rate as: F = Se^((r － δ)t). Therefore, as the risk-free rate falls below the lease rate
+(r<δ), we can see from the forward price formula above that F远期价格可以用租赁收益率和无风险
+利率进行表示:F = Se ^ ((r－δ)t)。因此,当无风险利率下降低于租赁率(r <δ),我们可以看到F
+ 
+137.With respect to the convexity adjustment applied to a Eurodollar futures contract that has
+a final settlement at time T, which of the following is true?
+A.The forward rate (per FRA) is greater than the Eurodollar futures rate because (i) the
+futures contract settles daily and (ii) the FRA probably settles at T + 0.25 years.
+B.The forward rate (per FRA) is greater than the Eurodollar futures rate because (i) the
+Eurodollar has additional currency risk and (ii) the FRA probably settles at T - 0.25 years.
+C.The Eurodollar futures rate is greater than the forward rate (per FRA) because (i) the
+Eurodollar has additional currency risk and (ii) the FRA probably settles at T - 0.25 years.
+D.The Eurodollar futures rate is greater than the forward rate (per FRA) because (i) the
+futures contract settles daily and (ii) the FRA probably settles at T + 0.25 years.
+参考答案：D
+【莽学解析】As forward rate = futures rate - convexity adjustment, the futures rate is greater.
+Further, please note, the Eurodollar futures cash settles at maturity, which is time T. At time
+T, the quoted price is based on the then-prevailing three month LIBOR, but the futures contract
+does not wait to settle at T + 0.25 years.远期利率=期货利率-凸性调整时，期货利率较大。欧洲美元
+期货合约每天进行结算，最终的交割发生在T，交割的数量也反映T与T＋0.25之间的利率。远期利率协议不是
+每天结算，最终的交割也反映T与T＋0.25之间的利率，远期利率协议的最终付款发生在T＋0.25。
+ 
+138.The hedge ratio is the ratio of derivatives to a spot position (or vice versa that achieves
+an objective such as minimizing or eliminating risk. Suppose that the standard deviation of
+quarterly changes in the price of a commodity is 0.57, the standard deviation of quarterly
+changes in the price of a futures contract on the commodity is 0.85, and the correlation
+between the two changes is 0.3876. What is the optimal hedge ratio for a 3-month contract?
+A.0.1893
+B.0.2135
+C.0.2381
+D.0.2599
+参考答案：D
+【莽学解析】The optimal hedge ratio can be determined by the formula:
+ 
+139.A bakery owner has decided to exit the business and sell her forward contracts. The
+contract calls for the delivery of 100 tons of wheat in five months at a price of $105 per ton.
+The current price of wheat on the spot market is $110 per ton. The risk-free rate is 4%
+(continuously compounded). Ignore trade and storage costs. Which of the following amounts is
+closest to the fair value for the contract?
+A.$674
+B.$759
+C.$912
+D.$1,111
+参考答案：A
+【莽学解析】The current value of the contract per ton by the formula:
+For a 100-ton contract, the value would be $673.55.
+ 
+140.Which one of the following statements is incorrect regarding the margining of exchange-
+traded futures contracts?
+A.Day trades and spread transactions require lower margin levels.
+B.If an investor fails to deposit variation margin in a timely manner the positions may be
+liquidated by the carrying broker.
+C.Initial margin is the amount of money that must be deposited when a futures contract is
+opened.
+D.A margin call will be issued only if the investor\u2019s margin account balance becomes
+negative.
+参考答案：D
+【莽学解析】When the balance in the margin account falls below the maintenance margin, broker
+executes a margin call. The next day, the investor needs to “top up” the margin account back
+to the initial margin level.当保证金账户中的余额低于维持保证金时，投资者收到补充保证金通知。收
+到补充保证金通知后，投资者需要将保证金账户补交到最初的保证金水平。
+ 
+141.Consider the following plain vanilla swap. Party A pays a fixed rate 8.29% per annum on a
+semiannual basis (180/360), and receives from Party B LIBOR+30 basis point. The current six-
+month LIBOR rate is 7.35% per annum. The notional principal is $25M. What is the net swap
+payment of Party A?
+A.$20,000
+B.$40,000
+C.$80,000
+D.$110,000
+参考答案：C
+【莽学解析】计算A的支付Party A =25,000,000×8.29%/2=$1,036,250 计算B的支付Party B
+=25,000,000×7.65%/2=$956,250 对于A来说净支付Net paymentswap=1,036,250－956,250=$80,000
+ 
+142.On January 1st, the Smiths bought a house with a 30-year, 6.0% fixed-rate $120,000 mortgage
+loan; i.e., the 6.0% stated annual rate is payable (compounds) monthly. The monthly payment is
+$719.46. After eleven months and eleven monthly payments, on November 1st, the loan balance is
+$118,652.58. After one further monthly payment, at the end of December, what will be the new
+loan balance?
+A.$117,933.12
+B.$118,133.12
+C.$118,526.38
+D.$118,611.25
+参考答案：C
+【莽学解析】The interest portion of the next payment =$118,652.58×6.0%/12 = $593.26.The
+principal portion of the next payment = $719.46-593.26=$126.20The new balance will be
+$118,652.58-$126.20=$118,526.38 当期应还利息：$118,652.58×6.0%/12 = $593.26. 当期应还本金
+：$719.46－593.26=$126.20 期末本金余额：$118,652.58－$126.20=$118,526.38
+ 
+ 
+ 143.Which is nearest to the principal component of the first monthly payment on a 30-year fixed 
+rate mortgage (FRM) with an original balance of $140,000 when the interest rate is 3.60%?
+A.$39.00
+B.$216.50
+C.$420.00
+D.$636.50
+参考答案：B
+【莽学解析】As the monthly payment is $636.50 and the interest component is
+$420.00=$140,000×0.0360/12, the principal component is $216.50=$636.50-$420.00. 使用计算器每月
+偿还额PMT=$636.50. 第一个月应还利息：$420.00=$140,000×0.0360/12. 第一个月应还本金
+：$216.50=$636.50－$420.00.
+
+144.A hedge fund charges 2 plus 20%. Investors want a return after fees of 20%. How much does
+the hedge fund have to earn, before fees, to provide investors with this return? Assume that
+the incentive fee is paid on the net return after management fees have been subtracted.
+A.27%
+B.15%
+C.21.6%
+D.20%
+参考答案：A
+【莽学解析】If the return is X(>2%), the investors pay 0.02＋0.2(X－0.02) in fees. It must
+therefore be the case that X－0.02－0.2(X＋0.02)=0.2. so that 0.8X = 0.216 or X = 0.27. A
+return of 27% is necessary. 如果收益率X(>2%), 投资者要支付0.02＋0.2(X－0.02)的费用。 因此
+X－0.02－0.2(X＋0.02)=0.2，X = 0.27
+ 
+145.A financial institution has entered into a plain vanilla currency swap with one of its
+customers. The period left on the swap is two years with the institution paying 4.5% on USD120
+million and receiving 2% on JPY3,500 million annually. The current exchange rate is 120 JPY per
+USD, and the flat term structure in both countries generates a 3% rate in the US and a 0.5%
+rate in Japan (with continuous compounding). The current value of this swap to the institution
+is closest to:
+A.$93,300,000
+B.-$118,090,000
+C.-$93,300,000
+D.$118,090,000
+参考答案：C
+【莽学解析】本题解析如下：
+ 
+ 
+ 
+146.Two companies, C and D, have the borrowing rates shown in the following table.
+According to the comparative advantage argument, what is the total potential savings for C and
+D if they enter into an interest rate swap?
+A.0.5%
+B.1.0%
+C.1.5%
+D.2.0%
+参考答案：C
+【莽学解析】可节约成本为：(12%－10%)－[LIBOR＋1%－(LIBOR＋0.5%)]=1.5%.
+ 
+147.Which one of the choices below would properly transform a floating-rate liability to a
+fixed-rate liability?
+A.Enter into a pay foreign currency swap
+B.Enter into a pay fixed interest rate swap
+C.Enter into a pay domestic currency swap
+D.Enter into a pay floating interest rate swap
+参考答案：B
+【莽学解析】The fixed interest rate swap will allow for the conversion of a floating-rate
+liability to a fixed- rate liability.固定利率互换允许将浮动利率负债转换为固定利率负债。
+ 
+148.Consider two firms, Reliable Corp and Dubious Corp. Reliable Corp has a strong balance
+sheet and repayment history; it can borrow 5.0% in fixed-rate loan markets or, in floating-rate
+markets Reliable can pay 40 basis points above six-month LIBOR. Dubious Corp has a weaker
+balance sheet and must pay 7.50% in fixed-rate loan markets or, in floating-markets Dubious
+must pay 310 basis points above six-month LIBOR.
+Which of the following statements is TRUE about this situation with respect to comparative
+advantage?
+A.Neither has a comparative advantage in either market.
+B.Reliable has a comparative advantage in BOTH the fixed-rate and floating-rate markets.
+C.Reliable has a comparative advantage in floating-rate markets, but Dubious has a comparative
+advantage in fixed-rate markets.
+D.Reliable has a comparative advantage in fixed-rate markets, but Dubious has a comparative
+advantage in floating-rate markets.
+参考答案：C
+【莽学解析】Reliable has a comparative advantage in floating-rate markets, but Dubious has a
+comparative advantage in fixed-rate markets.Reliable在浮动利率市场上具有比较优势，而Dubious在固
+定利率市场上具有比较优势。
+ 
+149.Which of the following is most likely to exhibit a dollar value of an 01 (DV01) that is
+negative?
+A.Principal-only (PO) at high yields
+B.Interest-only (IO) strip at low yields
+C.Interest only (IO) strip at high yields
+D.Planned amortization class (PAC) bond at low yields
+参考答案：B
+【莽学解析】When rates are very high and prepayments low, the PO is like a zero coupon bond,
+paying nothing until maturity. As rates fall and prepayments accelerate, the value of the PO
+rises dramatically. First, there is the usual effect that lower rates increase present values.
+Second, since the PO is like a zero coupon bond, it will be particularly sensitive to this
+effect. Third, as prepayments increase, some of the PO, which sells at a discount, is redeemed
+at par. Together, these three effects make PO prices particularly sensitive to interest rate
+changes.当利率非常高而提前偿付很低时，PO就像一个零息债券，直到到期才支付。随着利率下降，发生提
+前偿付，PO的价值大幅上升。首先，低利率通常会增加现值。其次，由于PO类似于零息债券，因此它对这种
+影响特别敏感。最后，随着提前偿付的增加，部分以折扣出售的PO将按面值赎回。这三种效应使PO的价格对
+利率变化特别敏感。
+
+150.In an interest rate swap with semiannual payments, StreetBase Bank has agreed to pay a
+fixed rate of 4.0% per annum with semiannual compounding and receive six-month LIBOR on a
+notional of USD 100 million. The swap has remaining maturity of 15 months. The LIBOR curve is
+flat at 2.0% per annum with continuous compounding for all maturities (out to 15 months),
+including the six-month LIBOR at the last payment date was also 2.0% (but with semiannual
+compounding). Which is nearest to the value of the swap to StreetBase Bank?
+A.-$4.88 million
+B.-$2.95 million
+C.Zero
+D.$3.40 million
+参考答案：B
+【莽学解析】The solution follows： 固定利率债券=2×e^(-2%×0.25) 2×e^(-2%×0.75) 102×e^(-
+2%×1.75)=103.4419百万美元 浮动利率债券=(100＋1)×e^(-2%×0.25)=100.4963百万美元 对于
+StreetBase银行来说，互换价值=100.4963-103.4419=-2.95百万美元
+ 
+151.A large publicly held company refines crude oil into gasoline and sells gasoline wholesale
+with long-term contracts at fixed prices. The firm also owns the land, with full rights, from
+which it pumps crude oil. The firm financed the purchase of the land by issuing floating-rate
+bonds. This firm could reduce the volatility of its earnings by entering into a(n): I Interest-
+rate swap II Oil commodity swap
+A.I only
+B.II only
+C.Both I and II
+D.Neither I nor II
+参考答案：A
+【莽学解析】The firm owns its own production resources and sells wholesale with long-term
+contracts at fixed prices, so it does not face commodity price risk in acquiring crude oil.
+Hence, a commodity swap based on oil will not reduce earnings volatility. The firm has issued
+floating rate notes, however, so its earnings will be sensitive to changes in interest rates.
+Entering into the pay-fixed side of an interest-rate swap would reduce this source of earnings
+volatility. 题目问的是如何使公司减少波动，也就是对冲各种波动（如价格，利率等）的风险。 首先这个
+公司是用原油（原材料）生产汽油（产成品），所以会面临成本和收入的价格波动，但题目中说1）这个公司
+已经签了固定价格卖石油，所以收入端的价格波动已经对冲。2）公司有原油开采权，所以成本端的价格波动
+被对冲。 其次，公司发行浮动利率债券（担心利率上涨，收益率波动），所以要进行利率互换
+ 
+152.Below is an extract from a mortality table (ages 30 to 34 for males and females):
+Suppose a woman aged 30 years old buys a $1.0 million whole life insurance policy and she pays
+an annual premium of $6,000. What is approximately the surplus premium in the first year of the
+policy?
+A.There is no surplus premium; i.e., zero
+B.$5,336.00
+C.$5,885.00
+D.$5,919.00
+参考答案：B
+【莽学解析】For a 30-year female, the conditional one-year probability of death is 0.000664
+such that the surplus premium is equal to $6,000-($1,000,000×0.0006640)=$6,000-
+$664=$5,336.00可以将终身寿险的年度保费与当年的定期寿险成本进行比较。例如：假定一个40岁的男性买
+人面值为100万美元的终身寿险，每年所付的保费为20000美元。如果一个40岁男性在一年内死亡的概率为
+0.0022，这说明一年的保险的公允价值为2200美元，这意味着在第一年的保费中有17800美元的盈余数量
+（surplus premium）可被用于投资。一个41岁男性在一年内死亡的概率为0.0024，这说明第二年保险的公允
+价值为2400美元，这意味着在第二年的保费中有17600美元的盈余数量可被用于投资。每年保险成本随着投保
+人年龄的增大而逐渐增长。在某一个时间段，保险成本会超过保费。就这道题而言30岁女性条件死亡概率为
+0.000664 ，盈余数量为$6,000－($1,000,000×0.0006640)=$6,000－$664=$5,336.00
+ 
+153.The table below shows quoted fixed borrowing rates (adjusted for taxes) in two different
+currencies for two different firms:
+Which of the following is true?
+A.Company A has a comparative advantage borrowing in both yen and pounds.
+B.Company A has a comparative advantage borrowing in pounds.
+C.Company A has a comparative advantage borrowing in yen.
+D.Company A can arbitrage by borrowing in yen and lending in pounds.
+参考答案：B
+【莽学解析】Company A has an absolute advantage in both but has a comparative advantage in
+pounds of 2%(6%-4%)versus 1%(3% - 2%)in yen.A公司在这日元和英镑市场都有绝对优势，在英镑方面有
+2%(6%-4%)的优势，在日元方面有1%(3%-2%)的优势。显然在英镑方面更有优势（即比较优势）
+ 
+154.Assume an investor receives euro in exchange for paying yen in a currency swap. What are
+the conditions for the swap to be in-the-money? I.The value of yen falls II.The value of yen
+rises III.The euro interest rate rises IV.The euro interest rate falls
+A.I and III
+B.I and IV
+C.II and III
+D.II and IV
+参考答案：B
+【莽学解析】The swap is similar to a long position in euro denominated bond and a short
+position in Yen denominated bond.Thus, decrease in euro interest rate is beneficial to a holder
+of a long position. Likewise, the decrease in the value of yen makes the yen denominated bond
+less valuable (what is beneficial for a short position).这种互换类似于欧元计价债券的多头头寸和
+日元计价债券的空头头寸。因此，欧元利率的下降对持有多头头寸的人是有利的。同样，日元贬值会降低日
+元计价债券的价值(这对做空有利)。
+ 
+155.A multinational corporation is considering issuing a fixed-rate bond. However, by using
+interest swaps and floating rate notes, the issuer can achieve the same objective. To do so,
+the issuer should consider:
+A.Issuing a floating rate note of the same maturity and enter into an interest rate swap paying
+fixed and receiving float.
+B.Issuing a floating rate note of the same maturity and enter into an interest rate swap paying
+float and receiving fixed.
+C.Buying a floating rate note of the same maturity and enter into an interest rate swap paying
+fixed and receiving float.
+D.Buying a floating rate note of the same maturity of and enter into an interest rate swap
+paying float and receiving fixed.
+参考答案：A
+【莽学解析】A corporation can issue floating-rate notes and use an interest rate swap agreement
+to convert it to fixed-rate debt.一个公司想要发固息债，现在通过浮动利率债券和利率互换怎样才能达
+到相同的效果？ 想要付固定利息；可以通过发行浮动利率债券，付浮动利息同时进入利率互换（付固定收浮
+动）来构造。付浮动，收浮动正好抵消。
+ 
+156.Company A can borrow at a fixed rate of 6.0% and a floating rate of LIBOR + 1.0%; but
+Company A wants to borrow at a floating rate. Company B, which represents a higher credit risk,
+can borrow at a fixed rate of 8.0% and a floating rate of LIBOR + 2.0%; but Company B wants to
+borrow at a fixed rate. An investment bank is willing to act as a swap intermediary but will
+require a net payment of 20 basis points (0.2%) per annum. If the designed swap is equally
+attractive to both companies, what is Company B’s swap trade with the investment bank; i.e.,
+the swap trade only, not including the underlying borrowing?
+A.Company B pays 5.1% fixed and receives (floating) LIBOR (swap only)
+B.Company B pays 5.6% fixed and receives (floating) LIBOR (swap only)
+C.Company B pays 7.6% fixed and receives (floating) LIBOR (swap only)
+D.Company B pays 8.0% fixed and receives (floating) LIBOR (swap only)
+参考答案：B
+【莽学解析】The total mutual benefit =(8%-6%)-([L＋2%]-[L＋1%])=1.0%. As the investment bank
+nets 20 basis point, an equally attractive swap will net each company =(1.0%-0.2%)/2=0.40% (40
+bps).总收益=(8%－6%)－([L＋2%]－[L＋1%])=1.0%.投资银行收取20个基点, 所以对于互换双方来说各节约
+=(1.0%－0.2%)/2=0.40% (40 bps).
+ 
+157.Whichof the follow characteristics is a key differentiator between mutual funds andhedge
+funds?
+A.Professional asset management.
+B.Immediate access to withdrawals from the fund.
+C.Charging a fee for providing investment services.
+D.Easy diversification for an investor.
+参考答案：B
+【莽学解析】Mutual funds must offer immediate access to withdrawals from their fund. This is an
+SEC requirement. Hedge funds have advance notification and lock-up periods, which prevent
+immediate access to withdrawals from the fund.共同基金必须提供立即从基金中提取资金的渠道。这是
+SEC的要求。对冲基金有提前通知和锁定期，这阻止了基金的立即撤资。
+ 
+158.Suppose the five-year fixed-rate borrowing costs to General Electric (GE) and Qantas
+Airways (QA) in U.S. dollars (USD) and Australian dollars (AUD) are given as shown in the table
+below:
+ 
+Although GE has a comparative advantage in the USD market, QA has a comparative advantage in
+the AUD market. However, GE wants (or is willing) to borrow Australian dollars and QA wants 
+(or is willing) to borrow US dollars. The AUDUSD exchange rate is AUDUSD $0.80 (ie, $0.80 USD 
+per
+1.0 AUD) and both want to borrow AUD 20.0 million. The currency swap's financial intermediary
+will charge 20 basis points (0.20%) and can hedge its currency risk (put another way, the
+financial intermediary is willing to assume the currency risk). If GE and QA want to share
+equally the gains enabled by the swap, which of the following currency swap BEST achieves this
+?A.GE pays USD 5.60% and QA pays AUD 5.40%
+B.GE pays AUD 5.60% and QA pays USD 5.40%
+C.GE pays AUD 5.70% and QA pays USD 5.50%
+D.GE pays AUD 6.10% and QA pays USD 5.90%
+参考答案：C
+【莽学解析】GE pays AUD 5.70% and QA pays USD 5.50%. The FI receives a net USD amount of
+$240,000=(5.50%-4.0%)×$16.0 million; and the FI pays a net amount of AUD 260,000=(7.0%-
+5.70%)×20.0 million. The value of the AUD 260,000 is USD $210,00, such that the FI collects
+$240,000-$210,000=$30,000 which is 0.0020×$16.0 million. In regard to false (B), this swap
+improves GE and QA each by 50 basis points but leaves nothing for the FIGE支付AUD 5.70%， QA支
+付USD 5.50%。FI收到的净美元金额为$240,000=(5.50% - 4.0%)×$16 million;而FI支付的净金额为AUD
+260,000=(7.0%－5.70%)×20million。26万澳元的价值为21万美元（近似值），因此FI获得24万- 21万= 3
+万美元，即0.0020×1600万美元。关于B，这个互换提高了GE和QA各50个基点，但没有给FI留下任何东西。
+
+159.Firm X wants to borrow GBP at a floating interest rate, and Firm Y wants to borrow GBP at a
+fixed annual interest rate. The interest rates that they face are shown in the table below.
+What is the maximum spread a financial intermediary could get if it designs a swap making firms
+X and Y each better off by 20 basis points?
+A.5 basis points
+B.10 basis points
+C.15 basis points
+D.20 basis mints
+参考答案：B
+【莽学解析】(5.5% L 1.5%)-(4.5% L 2%)=50; bps50-20*2=10 bps(5.5% L 1.5%)-(4.5% L 2%)=50; bps
+50-20*2=10基点
+ 
+160.A fixed-income portfolio manager purchases a seasoned 5.5% agency mortgage-backed security
+with a weighted average loan age of 60 months. The current balance on the loans is USD 20
+million, and the conditional prepayment rate is assumed to be constant at 0.4% per year. Which
+of the following is closest to the expected principal prepayment this month?
+A.USD 1,000
+B.USD 7,000
+C.USD 10,000
+D.USD 70,000
+参考答案：B
+【莽学解析】SMM=1 – (1 – 0.004)^(1/12) = 0.0334%, N=60, I/Y=5.5/12, PV=-20,000,000, FV=0 ,CPT
+PMT=382,023.24. PRN=290,256.58. prePMT=(20,000,000 -290,356.58)× 0.0334%=6581.96第一步：由1-
+CPR=(1-SMM)^12，可得SMM=0.000334第二步：计算本月计划还的本金N=60，I/Y=5.5/12，PV=-
+20,000,000，FV=0，可得PMT=-382,023.24。利用计算器摊销功能，输入P1=1，P2=1，可得PRN=290,356.58。
+即本月计划还的本金=290,356.58。 第三步：由SMM=本月提前偿付的本金/(期初余额-本月计划还的本金
+)，可得本月提前偿付的本金=0.000334×（20,000,000-290,356.58）=6,583。
+ 
+161.Whichof the follow statement is a characteristicof defined benefit plan?
+A.Very little risk for employers.
+B.The funds are identified with individual employees.
+C.If the performance of the plan\u2019s investments is less than anticipated, the employee
+bears the cost.
+D.Employers are ultimately responsible for paying the promised benefits.
+参考答案：D
+【莽学解析】Defined benefit plans imposesignificant risks on employers because they are
+ultimately responsible forpaying the promised benefits.固定收益计划给雇主带来了巨大的风险，因为
+他们最终有责任支付承诺的福利。
+ 
+162.The yield curve is upward sloping, and a portfolio manager has a long position in 10-year
+Treasury Notes funded through overnight repurchase agreements. The risk manager is concerned
+with the risk that market rates may increase further and reduce the market value of the
+position. What hedge could be put on to reduce the position’s exposure to rising rates?
+A.Enter into a 10-year pay fixed and receive floating interest rate swap.
+B.Enter into a 10-year receive fixed and pay floating interest rate swap.
+C.Establish a long position in 10-year Treasury Note futures.
+D.Buy a call option on 10-year Treasury Note futures.
+参考答案：A
+【莽学解析】The farmer needs to be short the futures contracts. The two sources of basis risk
+confronting the farmer will result from the fact that he is using a cattle contract to offset
+the price movement of his buffalo herd, Cattle prices and buffalo prices may not be perfectly
+positively correlated. As a result, the correlation between buffalo and cattle prices will have
+an impact on the basis of the cattle futures contract and spot buffalo meat. The delivery date
+is a problem in this situation, because the farmer’s hedge horizon is winter, which probably
+will not commence until December or January. In order to maintain a hedge during this period,
+the farmer will have to enter into another futures contract, which will introduce an additional
+source of basis risk. 持有国债，收的是固定利息。现在担心利率上升。所以进入的互换应该是付固定、
+收浮动。这样净现金流就是：收浮动，可对冲利率上升的风险
+ 
+163.Under a constant maturity mortality approach, the monthly rate of prepayment （　） on a
+mortgage (aka, single month mortality rate, SMM) is found to be 0.40%. What is the annualized
+conditional prepayment rate (CPR)?
+A.4.70%
+B.4.80%
+C.6.00%
+D.95.30%
+参考答案：A
+【莽学解析】CPR=1–(1–SMM)^12=1–(1–0.40%)^12=1– 0.996^12=4.70% 本题解析如下：
+CPR=1–(1–SMM)^12=1–(1–0.40%)^12=1– 0.996^12=4.70%
+ 
+164.A level-payment, fixed-rate mortgage has the following characteristics:Term 30
+yearsMortgage rate 9.0%Servicing fee 0.5%Original mortgage loan balance $150,000The monthly
+mortgage payment is:
+A.$1,216.70
+B.$1,206.93
+C.$1,125.00
+D.$416.67
+参考答案：B
+【莽学解析】N = 360; I = 9/12 = 0.75; PV = 150,000;FV=0; CPT PMT = $1,206.93N = 360; I = 9/12 =
+0.75; PV = 150,000; FV=0；CPT PMT = $1,206.93。 服务费不计入月还款额当中。
+ 
+165.A homeowner has a 30-year, 5% fixed rate mortgage with a current balance of USD 250,000.
+Mortgage rates have been decreasing. Which of the following is closest to the amount that the
+homeowner would save in monthly mortgage payments if the existing mortgage was refinanced into
+a new 30-year, 4% fixed rate mortgage?
+A.USD 145
+B.USD 150
+C.USD 155
+D.USD 160
+参考答案：B
+【莽学解析】Calculate the mortgage payment factors for the 30-year, 5% and 4% fixed rate
+mortgages, then calculate the mortgage payment savings.N=30×12, I/Y=5/12, PV=250,000, FV=0,
+CPT PMT=-1342; N=30×12, I/Y=4/12, PV=250,000, FV=0, CPT PMT=-1194; Save: 1342 – 1194 =
+148.5%的固定利率抵押贷款：N=30×12=360，I/Y=5/12，PV=-250,000，FV=0，可得PMT=-1,342.05。 4%的固
+定利率抵押贷款：N=30×12=360，I/Y=4/12，PV=-250,000，FV=0，可得PMT=-1,193.54所以，每个月节省
+1,342.05-1,193.54=148.51.
+ 
+166.Catastrophe (CAT) bonds are a popular derivative instrument for hedging catastrophic risk.
+A CAT bond pays a higher-than-normal interest rate and is often issued by a subsidiary of an
+insurance company. Each of the following is TRUE about the features of a CAT bond EXCEPT which
+is false?
+A.For an insurance company, issuing CAT bonds is an alternative to reinsurance: the interest or
+principal can be used to meet claims
+B.CAT bonds tend to have little or no correlation to market returns such that their total risk
+can be diversified away in a large portfolio
+C.A drawback of CAT bonds is the covered loss depends on a definition of "catastrophic loss"
+which is inevitably subjective and qualitative so that the issuer's basis risk is high
+D.An inevitable feature of catastrophic risk is that the loss events are highly dependent on
+each other; the loss events are not independent and usually they are not even nearly
+independent
+参考答案：C
+【莽学解析】The catastrophe loss is contractually defined an depends on the trigger which can
+be an indemnity trigger, an index (aka, industry) trigger, a parametric trigger, or a modeled
+trigger. None of these are subjective. In the case of an indemnity trigger, basis risk is low.
+衍生产品市场已经出现了若干种不同的产品可以用来对冲灾难风险，最为流行的产品是巨灾债券（CAT
+bond）。这些债券通常由保险公司的子公司发行，其券息比一般债券要高。为了收人高券息，债券的持有者
+必须在某种类型的灾难事件发生时承担损失。根据CAT债券条款的不同，债券的券息以及本金（或者两者）都
+可能被用来支付保险索赔。 巨灾债券的特性是其投资人有很高的概率获取高券息，而蒙受高损失的概率比较
+低。为什么有投资者对这类产品感兴趣呢？原因在于类似长寿债券，巨灾债券风险与市场风险之间没有统计
+上的强相关性，正因为如此，对投资人来说，巨灾债券往往是一个可以添加到投资组合中的具有吸引力的选
+择。因为这些债券没有系统性风险，它们的整体风险完全可以在一个大的交易组合中被得以分散。
+ 
+167.The price to yield function of mortgage-backed securities (MBS) exhibits negative convexity
+because:
+A.they are usually purchased at a premium.
+B.the probability of default is higher than a unsecured debenture.
+C.the Federal National Mortgage Association (FNMA) and Federal Home Loan Mortgage Corporation
+(FHLMC) do not have the same credit standing as a direct U.S. obligation.
+D.mortgage borrowers have a prepayment option.
+参考答案：D
+【莽学解析】The prepayment option embedded in mortgage securities leads to shorter durations
+when yields fall (because mortgage holders exercise their prepayment option) and higher
+durations when yields rise.当收益率下降时(因为抵押贷款持有人行使了他们的提前支付的权利)，抵押贷
+款证券中的提前支付期权会导致较短的期限，当收益率上升时，会导致较长的期限。
+ 
+168.Assume an investor has a position in a currency swap. He receives euro in exchange for
+paying yen. What are the conditions for the swap to be in-the-money? I The value of yen falls.
+II The value of yen rises. III The euro interest rate falls. IV The euro interest rate rises.
+A.I and III
+B.I and IV
+C.II and III
+D.II and IV
+参考答案：A
+【莽学解析】The swap is similar to a long position in euro denominated bond and a short
+position in Yen denominated bond. Thus, decrease in euro interest rate is beneficial to a
+holder of a long position. Likewise, the decrease in the value of yen makes the yen denominated
+bond less valuable (what is beneficial for a short position).这种互换类似于做多欧元债券和做空日
+元债券。因此，欧元利率的下降对多头有利。同样，日元价值的下降会使日元计价债券的价值降低(这对做空
+有利)。
+ 
+169.Bennett Bank extends a 5% APR (annual percentage rate) USD 100,000 30-year mortgage
+requiring monthly payments. If the mortgage is structured so that it requires interest-only
+payments for the first 5 years, after which point it becomes a self-amortizing mortgage, what
+would be the portion of the monthly payment applied to the principal in the 61st month?
+A.USD 167.92
+B.USD 174.60
+C.USD 584.59
+D.USD 591.27
+参考答案：A
+【莽学解析】N=25×12=300,I/Y=5/12=0.4167,PV=100,000,FV=0,PMT=-584.59Interest in the 61st month
+=100,000×5%/12=416.67Principal in the 61st month =584.59–416.67=167.92 这里的前5年，只支付利
+息，本金的支付在第61个月开始的，其实相当于前5年我付的这个钱是房租。然后就是正常的计算了。
+N=25×12=300, I/Y=5/12=0.4167, PV=100,000, FV=0,PMT=?584.59 第61个月的应还利息
+=100,000×5%/12=416.67 第61个月的应还本金 =584.59–416.67=167.92
+ 
+170.Whichof the following problems would most likely be a concern for life insurancecompanies
+that are worried about differentiating between good risks and badrisks?
+A.Adverse selection.
+B.Catastrophic risk.
+C.Longevity risk.
+D.Moral hazard.
+参考答案：A
+【莽学解析】Adverse selection describesthe situation where an insurer is unable to
+differentiate between a good riskand a bad risk. In the context of life insurance, by charging
+the same premiumsto ail policyholders (healthy and unhealthy individuals), the insurer may
+endup insuring more bad risks (e.g., unhealthy individuals). To mitigate adverseselection, a
+life insurance company might require physical examinations priorto providing coverage. Property
+and casualty insurance companies typically havea greater amount of equity than a life insurance
+company because of the highlyunpredictable nature of P&C claims (both timing and amount).逆向选
+择描述了保险公司无法区分好的风险和坏的风险的情况，进行寿险业务的保险公司向所有投保人（健康的个
+人和不健康的个人）收取相同的保费，这样可能最终会承保更多的不良风险（如，不健康的个人）。为了减
+少这种逆向选择，保险公司可能需要在提供保险前对投保人进行体检。
+ 
+171.Two of the key risks facing insurance companies are moral hazard and adverse selection.
+Three of the following examples are illustrations of moral hazard, but one is an example of
+adverse selection. Which is the example of adverse selection?
+A.An individual buys health insurance and consequently increases their demand for health care
+services.
+B.A cell phone owner buys a "total equipment protection" insurance plan and, consequently,
+becomes more careless with the phone.
+C.Because it is backed by a government-sponsored deposit insurance plan, a bank is less worried
+about losing depositors and consequently it takes on more risks.
+D.A health insurance company is mandated by government to offer the same price (premium cost)
+to all new customers so that it cannot increase the relative price of riskier customers and
+consequently it attracts more high-risk customers.
+参考答案：D
+【莽学解析】This is an example of adverse selection, but (A), (B) and (C) are examples of moral
+hazard. 道德风险是指因为保险合约的存在造成持保人的行为与不持有保险时的行为有所不同，从而触发的
+风险，这种行为的不同往往会增大保险公司的风险，预期赔偿也会增大。ABC就是道德风险的例子。 逆向选
+择（ adverse selection）是用来描述保险公司在提供保险之前不能区分好的风险和坏的风险而带来的问题
+。对于不同客户，如果保险公司为所有投保人提供的产品价格相等，就会给保险公司带来更多坏的风险。如
+果一家保险公司不能区分好的驾驶员和坏的驾驶员，从而给两类驾驶员提供的保险价格相同，就会吸引更多
+的坏的驾驶员来投保；如果家保险公司不能区分健康和不健康的投保人，从而给他们同样价格的健康保险
+，这家保险公司肯定会吸引更多不健康的投保人。
+ 
+172.Suppose that the term structure of risk-free interest rates is flat in both Japan and the
+United States. The Japanese interest rate is 2.0% per annum and the U.S. interest rate is 3.0%
+per annum (both with continuous compounding). A financial institution has entered into a
+currency swap in which it receives 15.0% per annum in yen (￥) and pays 10.0% per annum in
+dollars ($) once a year. The principals in the two currencies are $10.0 million and ￥1,000.0
+million yen. The swap will last only for another two years (i.e., there are only two remaining
+cash exchanges, although the final principal must be exchanged) and the current exchange rate
+is ￥110 yen per dollar.
+Which is nearest to the current value of the swap to the financial institution, in U.S.
+dollars?
+A.$51,400
+B.$725,000
+C.$11.33 million
+D.$5.65 million
+参考答案：A
+【莽学解析】$51,400, or more exactly $51,396.02. 本题解析如下:
+ 
+ 
+173.You are given the following information about an interest rate swap: ●2-year term
+●Semiannual payment ●Fixed rate = 6% ●Floating rate = LIBOR+50 basis points ●Notional
+principal USD 10 million Calculate the net coupon exchange for the first period if LIBOR is 5%
+at the beginning of the period and 5.6% at the end of the period.
+A.Fixed-rate payer pays USD0
+B.Fixed-rate payer pays USD25,000
+C.Fixed-rate payer pays USD50,000
+D.Fixed-rate payer receives USD25,000
+参考答案：B
+【莽学解析】●Computational Details for Numerical Answer: ●Fixed rate payer pays 6%,
+therefore, (0.06/2) × 10 million = USD 300,000. ●Interest rate swaps have payments in
+arrears. Floating rate payer pays LIBOR rate at the beginning of period 0.50%, i.e. 5% 0.50% =
+5.5%. ●Therefore the floating rate payment: (0.055/2) × 10 million = USD 275,000. ●The net
+payment of USD 25,000 is paid by the fixed rate payer. 因为利率是是一段时间的概念。某一期期末结
+算的利息其实是由期初利率所决定的。所以这道题就是在说，第一期末交换利息（所以不需折现），是由期
+初决定的利息，所以选择libor5%。然后就是进行利息轧差了。 (0.06/2)× 10 million = USD 300,000
+(0.055/2) × 10 million = USD 275,000 因此对于固定利息的支付者来说：净支付USD25,000
+ 
+174.You have entered into a currency swap in which you receive 4% per annum in yen and pay 6%
+per annum in dollars once a year. The principals in the two currencies are 1000 million yen and
+10million dollar. The swap will last for another two years, and the current exchange rate is
+115 yen for 1 dollar. Suppose that the annualized spot rates (with continuous compounding) are
+given as in the table below, what is the value of the swap to you in million dollars?
+A.-1.270
+B.-0.447
+C.0.447
+D.1.270
+参考答案：A
+【莽学解析】Calculation
+ 
+ 
+175.The success of the currency swap markets has been explained by which of the following?
+A.Comparative advantage arguments.
+B.Floating interest rate risk arguments.
+C.Reduced counterparty risk arguments.
+D.Efficient exchange rate pricing arguments.
+参考答案：A
+【莽学解析】Comparative advantage arguments have also been used to explain the success of
+currency swap markets.比较优势理论也被用来解释货币互换市场的成功。
+ 
+176.Consider the following 3-year currency swap, which involves exchanging annual interest of
+2.75% on 10 million US dollars for 3.75% on 15 million Canadian dollars. The spot rate is 1.52
+(1.52 CAD per USD). The term structure is flat in both countries. Calculate the value of the
+swap in USD if interest rates in Canada are 5% and in the United States are 4%. Assume
+continuous compounding. Round to the nearest dollar.
+A.$152,000
+B.$145,693
+C.$131,967
+D.$127,818
+参考答案：C
+【莽学解析】
+177.Mortgage-Backed securities (MBS) are a class of securities where the underlying is a pool
+of mortgages. Assume that the mortgages are insured, so that they do not have default risk. The
+mortgages have prepayment risk because the borrower has the option to repay the loan early (at
+any time) usually due to favorable interest rate changes. From an investor’s point of view, a
+mortgage-backed security is equivalent to holding a long position in a non-prepayable mortgage
+pool and which of the following?
+A.A long American call option on the underlying pool of mortgages.
+B.A short American call option on the underlying pool of mortgages.
+C.A short European put option on the underlying pool of mortgages.
+D.A long American put option on the underlying pool of mortgages.
+参考答案：B
+【莽学解析】Prepayment risk is equivalent to an American call option because the borrower can
+repay at any time and the position is short because the option lies with the borrower.提前支付
+的风险相当于美式的看涨期权，因为借款人可以在任何时候偿还，而头寸是空头的，因为期权属于借款人。
+ 
+ 
+179.In regard to various hedge fund strategies, each of the following statements is generally
+true EXCEPT which statement is false?
+178.You are given the following information about an interest rate swap:● 2-year term●
+Semiannual payment● Fixed rate = 6%● Floating rate = LIBOR+50 basis points● Notional
+principal USD 10 millionCalculate the net coupon exchange for the first period if LIBOR is 5%
+at the beginning of the period and 5.6% at the end of the period.
+A.Fixed-rate payer pays USD0
+B.Fixed-rate payer pays USD25,000
+C.Fixed-rate payer pays USD50,000
+D.Fixed-rate payer receives USD25,000
+参考答案：B
+【莽学解析】Computational Details for Numerical Answer:● Fixed rate payer pays 6%, therefore,
+(0.06/2) × 10 million = USD 300,000.● Interest rate swaps have payments in arrears. Floating
+rate payer pays LIBOR rate at the beginning of period 0.50%, i.e. 5% 0.50% = 5.5%. Therefore
+the floating rate payment: (0.055/2) × 10 million = USD 275,000.● The net payment of USD
+25,000 is paid by the fixed rate payer. 利率是一段时间的概念，比如说我今天存100元，利率5%，一年
+后的今天能拿到105元，这个5元利息是在今天确定的，也就是说发生在当期期末的利息是由当期期初时点的
+利率所决定的，那么对于固定利率支付方来说： 付固定利息=(6%)/2×10,000,000=300,000 收浮动利息
+=(LIBOR＋0.50%)/2×10,000,000=(5%＋0.50%)/2×10,000,000=275,000 所以对于固定利率支付方来说：净
+支付=300,000－275,000=25,000
+
+
+
+ 
+180.Which of the following forms of insurance provides a specified amount of insurance coverage
+for the life of the policyholder so payment will occur upon death, but there is uncertainty as
+to the timing?
+A.Health insurance.
+B.Life insurance.
+C.Liability insurance.
+D.Property insurance.
+参考答案：B
+【莽学解析】life insurance provides a specified amount of insurance coverage for the life of
+the policyholder so payment will occur upon death, but there is uncertainty as to the timing.人
+寿保险为投保人的一生提供一定数量的保险，因此在死亡时才会支付，但具体的时间是不确定的。
+动和支付的发生，互换的价值对双方来说都将发生变化。
+181.Two banks enter into a 1-year plain vanilla interest-rate swap with the following terms:
+Notional principal is $500,000,000. The fixed component of the swap is 7%. The floating
+component of the swap is LIBOR 200bps where LIBOR equals 5%. If the current risk-free rate is 4
+percent, the value for this swap at inception is closest to:
+A.$0
+B.$8,750,000
+C.$35,000,000
+D.$500,000,000
+参考答案：A
+【莽学解析】The initial value of a swap is always zero. As interest rates move and payments
+take place, the value of the swap will change for both parties.互换的初始值总是0。随着利率的变
+
+ 
+182.Below is an extract (selected rows) from a mortality table:
+Which is nearest to the probability of a man aged 80 years old dying in the second year
+(between ages 81 and 82)?
+A.0.39%
+B.1.76%
+C.6.20%
+D.7.31%
+参考答案：C
+【莽学解析】This is the probability that he does not die in the first year multiplied by the
+probability that he does die in the second year, which is given by (1-
+0.0594030)×0.0658730=0.0619599=6.19599%概率（第一年不死且第二年死亡
+）=(1－0.0594030)×0.0658730=0.0619599=6.19599%.
+ 
+183.XYZ Corporation plans to issue a 10-year bond 6 months from now. XYZ would like to hedge
+the risk that interest rates might rise significantly over the next 6 months. In order to
+effect this, the treasurer is contemplating entering into a swap transaction. Under the swap,
+she should:
+A.Pay fixed and receive LIBOR
+B.Pay LIBOR and receive fixed
+C.Either swap (a or b above) will work
+D.Neither swap (a or b above) will work
+参考答案：A
+【莽学解析】In an interest rate swap, receive floating rate will hedge the risk that interest
+rates might rise .在利率互换中，收到浮动利率方将对冲利率上升的风险。
+ 
+184.Which of the following achievable swap positions could be used to transform a floating-rate
+asset into a fixed-rate asset?
+A.Receive the floating-rate leg and receive the fixed-rate leg of a plain vanilla interest-rate
+swap.
+B.Pay the fixed-rate leg and receive the floating-rate leg of a plain vanilla interest-rate
+swap.
+C.Pay the floating-rate leg and pay the fixed-rate leg of a plain vanilla interest-rate swap.
+D.Pay the floating-rate leg and receive the fixed-rate leg of a plain vanilla interest-rate
+swap.
+参考答案：D
+【莽学解析】The variability in the receipt of payments from the floating-rate asset is
+eliminated, as the floating payment of the floating rate leg of the swap offsets the receipt of
+the floating rate on the asset. The floating-rate payer is effectively left with a fixed-rate
+asset.题目意思是问下面哪个互换可以将一份浮动利息收益的资产转化为固定利息收益的。D选项就是付浮动
+，收固定的互换。可以理解为相当于付的是之前收到的float-rate asset的收益
+ 
+185.Which type of hedge fund focuses on isolating mispricings in foreign exchange markets?
+A.Fixed income arbitrage hedge funds.
+B.Global macro hedge funds.
+C.Managed futures hedge funds.
+D.Convertible arbitrage hedge funds.
+参考答案：B
+【莽学解析】Global macro fundsfocus on finding mispricings at the level of the global macro
+economy. Theymaterialize in foreign exchange pricing and interest rates. Fixed incomearbitrage
+funds focus on various mispricings with fixed-income securities.Managed futures funds focus on
+forecasting commodity prices. Convertiblearbitrage funds focus on valuing convertible bonds. 全
+球宏观基金专注于发现全球宏观经济层面的错误定价。它们体现在外汇、定价和利率上。固定收益套利基金
+关注固定收益证券的各种错误定价。管理的期货基金专注于预测商品价格。可转换套利基金关注可转换债券
+的估值。
+ 
+Each of the following statements it true EXCEPT which is false?
+A.The Expense Ratio of 30.0% includes loss adjustment expenses
+B.The Expense Ratio of 30.0% includes marketing expenses and commissions paid to brokers
+C.Because its combined ratio is greater than 100.0%, Acehouse is NOT a profitable business
+D.For each $1.00 in premiums received, Acehouse pays out (and/or reserves for payouts) about
+$0.75 in claims to its customers
+参考答案：C
+186.In its annual report, Acehouse Property-Casualty presents a summary of selected key ratios 
+(but where we've hidden four of the values):
+【莽学解析】Because this ignores the insurance company's float (its investment income).C不对
+，因为忽视了投资收益，Operating ratio才能反映是否盈利。
+ 
+187.With respect to currency swaps, EACH of the following is TRUE except:
+A.Unlike a vanilla interest rate swap, principal is exchanged at the beginning of a currency or
+cross-currency swap
+B.Compared to an interest rate swap with identical remaining maturity, a currency swap will
+have higher potential credit exposure
+C.If the initial value and current exposure of a currency swap is zero; interest rate term
+structures are flat in both currencies; and coupon payments are equal, then the expected credit
+exposure profile is zero over the life of the swap
+D.Unlike most vanilla interest rate swaps, interest payments in a currency swap are NOT netted
+参考答案：C
+【莽学解析】Under the conditions, the expected exposure profile is symmetrical but positive for
+both counterparties as the expected exposure is conditional on exposure greater than zero. In
+regard to (A), this is true. In regard to (B), due to the final principal exchange, this is
+true. In regard to (D), this is true.在这种情况下，预期的敞口是对称的，但对双方都是正的，因为预
+期敞口的条件是敞口大于零。
+ 
+ 188.Two banks enter into a 1-year plain vanilla interest-rate swap with the following
+terms:Notional principal is $500,000,000. ● The fixed component of the swap is 7%, which is
+the current market rate. ● The floating component of the swap is LIBOR+200bps. If the current
+continuously compounded risk-free rate is 4%, the value for this swap at inception is closest
+to:
+A.$500,000,000
+B.$8,750,000
+C.$35,000,000
+D.$0
+参考答案：D
+【莽学解析】The initial value of a swap is always zero. As interest rates move and payments
+take place, the value of the swap will change for both parties.互换在签订时的价值总是0（对双方
+来说是公平的）。随着利率的变化和支付的发生，互换的价值对双方都将发生变化。
+0.43%
+
+189.If the conditional prepayment rate (CPR) for a pool of mortgages is assumed to be 5% on an
+annual basis and the weighted average maturity of the underlying mortgages is 15 years, which
+of the following amounts is closest to the constant maturity mortality?
+A.0.333%
+B.0.405%
+C.0.427%
+D.0.5%
+参考答案：C
+【莽学解析】SMM=1 – (1 – CPR)^(1/12) = 1 – (1 – 0.05)^(1/12)= 1 – 0.95^(1/12)= 0.43% 这道
+题的计算过程如下： SMM=1 – (1 – CPR)^(1/12) = 1 – (1 – 0.05)^(1/12)= 1 – 0.95^(1/12)=
+
+ 
+190.In a plain vanilla swap party A pays a fixed rate 8.49% per annum on a semiannual basis
+(180/360), and receives from Party B LIBOR 30 basis point. The current six-month LIBOR rate is
+7.35% per annum. The notional principal is $25M. What is the net swap payment of Party A?
+A.$20,000
+B.$40,000
+C.$80,000
+D.$105,000
+参考答案：D
+【莽学解析】Step1.calculate value of fixed bond Party A = 25,000,000×8.49%/2 = $1,061,
+250Step2.calculate value of floating bond Party B = 25,000,000×7.65%/2 = $956, 250net payment
+= 1,061,250-956,250 = $105,000步骤1。固定债券计算价值A= 25,000,000×8.49%/2 = 1061,250美元步骤
+2。浮动债券计算价值B= 25,000,000×7.65%/2 = $ 956,250净付款= 1,061,250-956,250 = 105,000美元
+ 
+191.Whichof the following actions in the banking system is most likely intended toaddress the
+problem of moral hazard?
+A.Deposit insurers charge risk-based premiums.
+B.Banks increase loans to higher-risk borrowers.
+C.Governments implement deposit insurance programs.
+D.Banks increase the interest rates they offer to depositors.
+参考答案：A
+【莽学解析】Charging risk-based premiumsis a measure intended to address the problem of moral
+hazard, which exists wheninsured parties take greater risks than they would take in the absence
+ofinsurance.收取基于风险的保费是一种旨在解决道德风险问题的措施。道德风险存在于被保险人承担的风
+险大于他们在没有保险的情况下承担的风险。
+ 
+192.The credit risks to the fixed-rate payer in a swap:
+A.increase when floating rates are below the swap rate.
+B.increase when floating rates rise above the swap rate.
+C.are greatest just prior to maturity.
+D.are greatest at the inception of the swap.
+参考答案：B
+【莽学解析】When floating rates rise above the swap rate, the fixed rate side of the swap will
+have positive value, and the credit risk borne by the fixed-rate payer will increase. At the
+inception of the swap, the value to both sides is zero, and just prior to maturity, when only
+one net payment remains, credit risk is relatively small.当浮动利率高于互换利率时，支付方固定利
+率的收益将为正值，固定利率支付方所承担的信用风险将增加。互换开始时，对双方的价值都是零，而在到
+期前，当只剩下一笔净付款时，信用风险相对较小。
+ 
+193.Consider a one-year barrier call option on a non-dividend-paying stock with a volatility of
+30.0% per annum when the stock's price is $25.00 and the option's strike price is $20.00. The
+risk-free rate is 3.0%. The price of a regular call (i.e., without the barrier) in this case is
+$6.32. This barrier option has a barrier at $18.00 such that, if it is a knock-in (aka, down-
+and-in) its price is only $0.22. Each of the following statements is true (or at least
+plausible!) EXCEPT which statement must be false?
+A.The corresponding knock-out (aka, down-and-in) must have a price of about $6.10
+B.If the barrier is increased to $22.00, then the price of this knock-in must be higher than
+$0.22
+C.If the barrier is increased to $22.00, then the price of the corresponding knock-out must be
+lower than $6.10
+D.If the barrier is increased to $28.00, then the price of this knock-in will be $6.32 and the
+price of the corresponding knock-out will be zero
+参考答案：D
+【莽学解析】When S = $25.00, K = $20.00 and H = $28.00, the up-and-in call option price is
+about $5.96 and the corresponding up-and-out call option price is $6.32 - $5.96 =$0.36.这道题实
+际上通过障碍线的变动，去分析期权的价值状态就可以，无需进行计算。答案中的向上敲入式看涨期权价格
+5.96实际上是通过计算得出来的（BSM模型的衍生），十分复杂，FRM考试中不考察此类计算。
+ 
+194.Your bank is an active player in the commodity market. The view of the economist of the
+bank is that inflation is expected to rise moderately in the near term and market volatility is
+expected to remain low. The traders are advised to undertake deals on the metals exchange to
+align your book to conform with the expectations of the economist of the bank. As risk manager,
+you are asked to monitor the positions of the traders to make sure that they have the exposures
+to inflation and market volatility sought by the bank. Which trader has taken an appropriate
+position among the traders you are monitoring?
+A.Trader A bought a call and a put, both with 90 days to expiration and with strike price equal
+to the existing spot level.
+B.Trader B bought a put option with a down-and-in knock in feature.
+C.Trader C bought a call option at the existing spot levels and sold a call at a higher strike
+price, both with 90 days to expiration.
+D.Trader D sold a call option and bought a put at the existing levels, both with 90 days to
+expiration.
+参考答案：C
+【莽学解析】Inflation is expected to rise moderately in the near term and market volatility is
+expected to remain low, stock price will increase moderately, so, choose bull spread.短期内通胀
+预期温和上升，市场波动预期保持低位，股价将温和上涨，因此，选择牛市价差。
+ 
+195.The price of a dividend-paying stock is $44.00 while the risk-free rate is 3.0%. Consider a
+European call option and a European put option with identical strike prices, K = $40.00, and
+identical times to expiration of nine months, T = 0.75 years. The call has a price of $8.95 and
+the put has a price of $5.36. What is the present value of the dividends expected during the
+life of the option?
+A.Zero
+B.$0.19
+C.$1.30
+D.$4.75
+参考答案：C
+【莽学解析】根据买卖权平价公式
+ 
+ 
+196.A butterfly spread involves positions in options with three difference strike prices. It
+can be created by buying a call option with a low strike of X1; buying a call option with a
+high strike X2; and selling two call options with a strike halfway between X1 and X2. What can
+be said about the upside and downside of the strategy?
+A.Both the upside and downside is unlimited.
+B.Both the upside and downside is limited.
+C.The upside is unlimited but the downside is limited.
+D.The upside is limited but the downside is unlimited.
+参考答案：B
+【莽学解析】The pay-off structure to this strategy leaves the upside and downside potential at
+the difference between the premium collected on the calls sold and the premium paid on the
+calls purchased.蝶式价差的特点是对价格上升和价格的损益都进行了限制。
+ 
+197.You want to choose at a particular date whether the option is a call or a put. What type of
+option should you buy?
+A.Chooser option
+B.Barrier option
+C.Binary option
+D.Asian option
+参考答案：A
+【莽学解析】A chooser option buyer chooses whether the option is a put option or a call option,
+after a certain period of time has elapsed.选择期权，指的在一开始建立期权合约的时候，并不知道它
+是看涨期权还是看跌期权，允许在合约期限内的某一天再去确认是看涨期权还是看跌期权。
+ 
+198.Of the following options, which one does not benefit from an increase in the stock price
+when the current stock price is $100 and the barrier has not yet been crossed:
+A.A down-and-out call with out barrier at $90 and strike at $110
+B.A down-and-in call with in barrier at $90 and strike at $110
+C.An up-and-in put with barrier at $110 and strike at $100
+D.An up-and-in call with barrier at $110 and strike at $100
+参考答案：B
+【莽学解析】A down-and-out call where the barrier has not been touched is still alive and hence
+benefits from an increase in S, so a. is incorrect. A down-and-in call only comes alive when
+the barrier is touched, so an increase in S brings it away from the barrier. This is not
+favorable, so b. is correct. An up-and-in put would benefit from an increase in S as this
+brings it closer to the barrier of $110, so c. is not correct. Finally, an up-and-in call would
+also benefit if S gets closer to the barrier.一个没有触及障碍线的down-and –out call仍然有效
+，因此可以从S的增加中获益，所以A是不正确的。只有当触碰到障碍时，down-and-in call才会激活，所以
+S的增加会使它远离障碍。这是不利的，所以b是正确的。up-and-in看跌期权将从S的增加中受益，因为这使
+它更接近110美元的障碍，所以c是不正确的。最后，如果S越靠近障碍，up-and-in看涨也会受益。
+ 
+199.The price of a non-dividend-paying stock is $20.00. The price of a one-year European call
+option on the stock with a strike price of $21.00 is $4.00. The price of a one-year European
+put option on the stock with a strike price of $21.00 is $5.00. The risk-free rate is 4.0%.
+What is the future net profit collected by the arbitrage trade, assuming no transaction costs?
+A.Zero
+B.$0.42
+C.$0.82
+D.$0.86
+参考答案：D
+【莽学解析】c＋Ke^(-rT)= 4＋21e^(-4%×1)=$24.17568 p＋S= 5＋20=$25.00; i.e., put-call parity is
+violated PV(profit) = $25 - $24.17568 = $0.8234, such that: FV(profit) = $0.8234×e^(4%×1) =
+$0.8570 In regard to (C), $0.82 is correct but for the present value of the future payoff. 根据
+买卖权平价公式： c＋Ke^(﹣rT)= 4 21e^(﹣4%×1)=$24.17568 p＋S= 5＋20=$25.00; 存在套利机会 套利
+利润现值：PV(profit) = $25﹣$24.17568 = $0.8234 套利利润终值：FV(profit) = $0.8234×e^(4%×1) =
+$0.8570
+ 
+200.Assume that the current price of a stock is $100. A call option on that stock with an
+exercise price of $97 costs $7. A call option on the stock with the same expiration and an
+exercise price of $103 costs $3. Using these options what is the expiration profit of a bear
+call spread if the stock price is equal to $110?
+A.$2
+B.$6
+C.-$2
+D.-$6
+参考答案：C
+【莽学解析】The trader of a bear call spread sells the call with an exercise price below the
+current stock price and buys the call option with an exercise price above the stock price.
+Therefore, for a stock price of $110 at expiration of the options, the buyer realizes a payoff
+of -$13 from his short position and a positive payoff of $7 from his long position for a net
+payoff of -$6. The revenue of the strategy is $4. Hence the profit is equal to -$2.空头熊市看涨
+期权价差交易者以低于当前股票价格的行权价卖出看涨期权，以高于股票价格的行权价买入看涨期权。因此
+，在期权到期时股票价格为110美元，买方从他的空头头寸获得- 13美元的收益，从他的多头头寸获得正的
+7美元收益，净收益为- 6美元。该策略的收益是4美元。因此利润等于- 2美元。
+ 
+201.A knock-in barrier option is harder to hedge when it is:
+A.in the money
+B.out of the money
+C.at the barrier and near maturity
+D.at the inception of the trade
+参考答案：C
+【莽学解析】Owing to their inherent discontinuities, both knock-in and knock-out barrier
+options are relatively difficult to hedge (and value) when the spot price is close to the
+barrier price and the contract is near maturity.当现货价格还没有碰到障碍价格，但即将碰到障碍价
+格的时候，尤其是期权即将到期时，是最难对冲的，因为此时期权可能仍然无效，也可能碰到障碍价格，变
+得有效。
+ 
+202.The price of an American call stock option is equal to an otherwise equivalent European
+call stock option at time t when: I The stock pays continuous dividends from t to option
+expiration T. II The interest rates follow a mean-reverting process between t and T. III The
+stock pays no dividends from t to option expiration T. IV Interest rates are non-stochastic
+between t and T.
+A.II and IV
+B.III only
+C.I and III
+D.None of the above, an American option is always worth more than a European option.
+参考答案：B
+【莽学解析】An American call option on a non-dividend-paying stock (or asset with no income)
+should never be exercised early. If the asset pays income, early exercise may occur, with a
+probability that increases with the size of the income payment.无红利支付的美式看涨期权不会提前
+行权，此时美式看涨与欧式看涨是一样的。
+ 
+203.An investor is decided to buy a call option with a strike price of $45 for $5 and buy a
+call option with a strike price of $55 for $1, simultaneously sells two call options with a
+strike price of $50 for $3, when the stock price turn to be $30, what is the profit or loss on
+the option strategy?
+A.-$1
+B.$0
+C.$1
+D.$2
+参考答案：B
+【莽学解析】Buy call: -5+(-1) = -6Sell call: 3+3=6Total profit: -6+6=0买看涨: -5 (-1) = -6 卖看
+涨: 3 3=6 总利润: -6 6=0
+ 
+ 204.Regarding American options, which of the following is most true?
+A.Early exercise of an American put on a non-dividend paying stock is never optimal.
+B.Early exercise of an American call on a non-dividend paying stock is never optimal.
+C.Early exercise is never optimal.
+D.Prior to exercise, the value of the American call is always equal to the European call.
+参考答案：B
+【莽学解析】An American call option on a non-dividend-paying stock should never be exercised
+early while an American put option on a non-dividend-paying stock may be exercised early.不分红
+股票的美式看涨期权不应该提前行使，而非分红股票的美式看跌期权可以提前行使。
+“out”意味着当价格向下移动到一个指定的障碍时，期权失效。
+
+205.A down-and-out call option is an option that:
+A.comes into existence when the underlying asset price falls to a designated barrier price.
+B.comes into existence when the underlying asset price rises to a designated barrier price.
+C.ceases to exist when the underlying asset price falls to a designated barrier price.
+D.ceases to exist when the underlying asset price rises to a designated barrier price.
+参考答案：C
+【莽学解析】This is the definition of a down-and-out call. “Out” signifies that the option
+ceases to exist when the price moves “down” to a specified barrier.这就是向下敲出的定义。
+
+ 
+206.Which two of the following four statements are correct about the early exercise of American
+options on non-dividend-paying stocks? I It is never optimal to exercise an American call
+option early. II It can be optimal to exercise an American put option early. III It can be
+optimal to exercise an American call option early. IV It is never optimal to exercise an
+American put option early.
+A.I and II
+B.I and IV
+C.II and III
+D.III and IV
+参考答案：A
+【莽学解析】If the stock does not pay a dividend, the value of the American call option alive
+is always higher than if exercised (basically because there is no dividend to capture).Hence,
+it never pays to exercise a call early. On the other hand, exercising an American put early may
+be rational because it is better to receive the strike price now than later, with positive
+interest rates.无红利支付的美式看涨期权不会提前行权；无红利支付的美式看跌期权提前行权可能是最优
+的。
+ 
+207.A six-month call option sells for $30, with a strike price of $120. If the stock price is
+$100 per share and the risk-free interest rate is 5%, what is the price of a 6-month put option
+with a strike price of $120?
+A.$39.20
+B.$44.53
+C.$46.28
+D.$47.04
+参考答案：D
+【莽学解析】We can use Put-Call parity formula which describes the relationship between the
+prices of puts and calls on the same events.
+ 
+ 
+208.According to Put-Call parity, which of the following is equivalent to buying a call option
+on a stock?
+A.Writing a put, selling the stock, and buying bonds (lending).
+B.Writing a put, buying the stock, and selling short bonds (borrowing).
+C.Buying a put, selling the stock, and buying bonds (lending).
+D.Buying a put, buying the stock, and selling short bonds (borrowing).
+参考答案：D
+【莽学解析】The payoff from buying a call option is the same as that of selling short bonds,
+buying the stock, and buying a put. You can see that by using put-call parity:
+ 
+ 
+209.Jeff is an arbitrage trader, and he wants to calculate the implied dividend yield on a
+stock while looking at the over-the-counter price of a 5-year put and call (both European-
+style) on that same stock. He has the following data: Initial stock price = USD 85 Strike price
+= USD 90 Continuous risk-free rate = 5% Underlying stock volatility = unknown Call price = USD
+10 Put price = USD 15 What is the continuous implied dividend yield of that stock?
+A.2.48%
+B.4.69%
+C.5.34%
+D.7.71%
+参考答案：C
+【莽学解析】We can use the Put-Call parity here to easily solve for the continuous dividend
+yield. We have
+ , Solving for q, we get 5.34%.
+ 
+210.The current price of stock ABC is USD 42 and the call option with a strike at USD 44 is
+trading at USD 3. Expiration is in one year. The put option with the same exercise price and
+same expiration date is priced at USD 2. Assume that the annual risk-free rate is 10% and that
+there is a risk-free bond paying the risk-free rate that can be shorted costlessly. There are
+no transaction costs. Which of the following trading strategies will result in arbitrage
+profits?
+A.Long position in both the call option and the stock, and short position in the put option and
+risk-free bond.
+B.Long position in both the call option and the put option, and short position in the stock and
+risk-free bond.
+C.Long position in both the call option and risk-free bond, and short position in the stock and
+the put option.
+D.Long position in both the put option and the risk-free bond, and short position in the stock
+and the call option.
+参考答案：C
+【莽学解析】The Put-Call parity relation is:
+Therefore, there is an arbitrage opportunity by taking a long position in call and buying the
+risk-free bond and going short on the stock and the put.
+ 
+211.How to create a bull spread?
+A.Buy a put with a strike price of X = 55, and sell a put with a strike price of 50.
+B.Buy a put with a strike price of X = 50, and sell a put with a strike price of 55.
+C.Buy a call with a premium of 5, and sell a call with a premium of 7.
+D.Buy a call with a strike price of X = 50, and sell a put with a strike price of 55.
+参考答案：B
+【莽学解析】A bull spread involves buying a put with a low strike price and selling another put
+with a high strike price or buying a call with a low strike price and selling another call with
+a high strike price.牛市价差包括买入一个执行价格低的看跌期权，卖出另一个执行价格高的看跌期权
+，或买入一个执行价格低的看涨期权，卖出另一个执行价格高的看涨期权。
+ 
+212.Given strictly positive interest rates, the best way to close out a long American call
+option position early (option written on a stock that pays no dividends) would be to:
+A.Exercise the call
+B.Sell the call
+C.Deliver the call
+D.None of the above
+参考答案：B
+【莽学解析】The lower bound on the price of an American call option is S-PV(X); the payoff from
+exercise prior to maturity is S-X, which is less than the lower bound on the price (assuming
+the risk-free rate is positive). Therefore an American option on non-dividend paying stock is
+always worth more "alive" than "dead", and it's never optimal to exercise it early.简单的理解就
+是这个人不想要这个美式期权了，无红利的美式看涨期权永远不会提前行权，所以不选A。如果持有至到期行
+权，获利S-X，更小。而卖掉这个美式期权就是把期权转移给他人，我可以获得现金流去投资别的资产。
+ 
+213.Which of the following describes a compound option?
+A.Buying a call option on another call option.
+B.Buying a call and put at the same strike price.
+C.Selling a call and put at the same strike price.
+D.Selling a forward contract on a put option.
+参考答案：A
+【莽学解析】Compound options are options on other options. Buying a call option on another call
+option allows the owner to determine whether he wishes to exercise the first option to own the
+second.复合期权，与普通期权不同，它的标的资产是期权。
+ 
+214.Consider a call option on a stock currently priced at $50 with a strike price of $55. Which
+of the following CANNOT be the price of the call option?
+A.$10
+B.$15
+C.$50
+D.$55
+参考答案：D
+【莽学解析】The upper bound on a European call option is the stock price, so it can’t be worth
+$55.欧洲看涨期权的上限是股票价格，所以它不可能值55美元。
+ 
+215.Consider a 1-year European call option with a strike price of $27.50 that is currently
+valued at $4.10 on a $25 stock. The 1-year risk-free rate is 6% compounded annually. Which of
+the following is closest to the value of the corresponding put option (assume continuous
+compounding)?
+A.$0.00
+B.$4.95
+C.$5.00
+D.$5.04
+参考答案：D
+【莽学解析】A 6% rate compounded annually is approximately equivalent to a 5.8269% rate
+(rounded to four decimal places) compounded continuously: ln (1＋0.06)=5.8269%Using Put-Call
+parity:
+ 
+216.A down-and-in call option is an option that:
+A.comes into existence when the underlying asset price rises to a designated barrier price.
+B.comes into existence when the underlying asset price falls to a designated barrier price.
+C.ceases to exist when the underlying asset price falls to a designated barrier price.
+D.ceases to exist when the underlying asset price rises to a designated barrier price.
+参考答案：B
+【莽学解析】This is the definition of a down-and-in call: “in” signifies that the option
+comes into existence when the price moves “down” to a specified barrier.这就是向下敲入式看涨
+期权的定义：in表示的是：当价格向下到一个指定的障碍时，期权就会生效。
+ 
+217.Assume that the current price of a stock is $100. A call option on that stock with an
+exercise price of $97 costs $7. A call option on the stock with the same expiration and an
+exercise price of $103 costs $3. Using these options what is the cost of entering into a long
+bull spread on this stock?
+A.$7
+B.$4
+C.$1
+D.$0
+参考答案：B
+【莽学解析】The buyer of a bull spread buys the call with an exercise price below the current
+stock price and sells the call option with an exercise price above the stock price. The cost of
+the strategy is the difference between the cost of buying the option with the lower exercise
+price and selling the option with the higher exercise price which is $7 - $3 = $4 to enter into
+this strategy.牛市价差的买家以低于当前股价的行权价买入看涨期权，以高于股价的行权价卖出看涨期权
+。该策略的成本是买入执行价格较低的期权的成本和卖出执行价格较高的期权，是7 - 3 = 4。
+ 
+218.A chooser option allows the owner to:
+A.choose the option\u2019s strike price.
+B.choose whether the option is a call or a put at a specified period of time.
+C.pay the minimum price over a period chosen by the owner.
+D.receive the intrinsic value either at expiration or at a time chosen by the owner.
+参考答案：B
+【莽学解析】Chooser options allow the owner to choose whether the option is a call or a put.选
+择期权允许所有者选择这个期权是看涨期权还是看跌期权。
+ 
+219.Which of the following regarding option strategies is (are) not correct? I A long strangle
+involves buying a call and a put with equal strike prices. II A short bull spread involves
+selling a call at lower strike price and buying another call at higher strike price. III
+Vertical spreads are formed by options with different maturities. IV A long butterfly spread is
+formed by buying two options at two different strike prices and selling another two options at
+the same strike price.
+A.I only
+B.I and III only
+C.I and II only
+D.III and IV only
+参考答案：B
+【莽学解析】●A long strangle involves buying a call and a put with different strike prices.
+Buying a call and a put with equal strike prices is a straddle. ●A long bull spread involves
+buying a call at lower strike price and selling a call at higher strike price. Hence, a short
+bull spread is the opposite, i.e. selling a call at lower strike price and buying a call at
+higher strike price. ●Vertical spreads correspond to different strike prices, not maturities.
+Horizontal spreads correspond to different maturities. ●A long butterfly spread is formed by
+buying two options at two different maturities and selling another two options at the same
+strike price.long strangle包括买入执行价格不同的看涨和看跌期权。以相同的执行价格买入看涨期权和
+看跌期权是一种long straddle。买入牛市价差包括以较低的执行价格买进看涨期权，以较高的执行价格卖出
+看涨期权。因此，卖出牛市价差正好相反，即以较低的执行价格卖出看涨期权，以较高的执行价格买入看涨
+期权。垂直价差对应的是不同的执行价格，而不是到期日。水平价差对应不同的到期期限。买入蝴蝶价差是
+通过买入两个不同期限的期权，然后以相同的执行价格（中间价）卖出两份期权。
+ 
+220.A covered call position is equivalent to:
+A.a long position in the stock and a long position in the call option
+B.a short put position
+C.a short position in the stock and a long position in the call option
+D.a short call position
+参考答案：B
+【莽学解析】A covered call position is a long position in the stock and a short position on the
+call option. The payoff to this position is equivalent to a short put position, in which both
+have eliminated the upside potential but still have the downside exposure.备兑看涨期权策略是卖
+出看涨期权并买入标的资产（股票），其回报相当于卖出看跌期权。两者都消除了上行风险，但仍有下行的
+风险敞口。
+ 
+221.Research and model projections indicate that a specific event is likely to move the CHF
+against the USD. While the direction of the move is highly uncertain, it is highly likely that
+magnitude of the move will be significant. Based on this information, which of the following
+strategies would provide the largest economic benefit?
+A.Long a call option on USD\/CHF and long a put option on USD\/CHF with the same strike price
+and expiration date.
+B.Long a call option on USD\/CHF and short a put option on USD\/CHF with the same strike price
+and expiration date.
+C.Short a call option on USD\/CHF and short a put option on USD\/CHF with the same strike price
+and expiration date.
+D.Short a call option on USD\/CHF and long a put option on USD\/CHF with the same strike price
+and expiration date.
+参考答案：A
+【莽学解析】While the direction of the move is highly uncertain, it is highly likely that
+magnitude of the move will be significant; we can see that we should take a trend trading. So,
+we buy a call option and buy a put option, this strategy calls straddle. 题目问 策略要提供最大
+化收益，并且不确定方向的。 short call option是损失无限，收益有限。 Long call option反之。
+PUToption也是一样。 因此买入看涨好额买入看跌构成的straddle是符合提干要求的。
+ 
+222.Which portfolio will create a bull spread?
+A.Buy a put with a strike price of 32 and buy a call with a strike price of 25.
+B.Buy a put with a strike price of 25 and sell a call with a strike price of 32.
+C.Buy a call with a strike price of 32 and sell a call with a strike price of 25.
+D.Buy a call with a strike price of 25 and sell a call with a strike price of 32.
+参考答案：D
+【莽学解析】A bull spread involves buying a put with a low strike price and selling another put
+with a high strike price or buying a call with a low strike price and selling another call with
+a high strike price.牛市价差策略的基本规则是买低(执行价)、卖高(执行价)。
+ 
+.The call option is cheap. Therefore buy the call and hedge it by selling the stock, for the
+upside. The benefit from selling the stock if goes down is offset by selling a put.A和B的收益取
+决于股票价格，因此不属于套利利润。 根据买卖权平价，c-p=3-2=$1 应该等于 现在不等说明存在套利机会
+223.The current price of stock ABC is $42 and the call option with a strike at $44 is trading
+at $3. Expiration is in one year. The corresponding put is priced at $2. Which of the following 
+trading strategies will result in arbitrage profits? Assume that the risk-free rate is 10% and
+that the risk-free bond can be shorted costlessly. There are no transaction costs.
+A.Long position in both the call option and the stock, and short position in the put option and 
+risk-free bond.
+B.Long position in both the call option and the put option, and short position in the stock and 
+risk-free bond.
+C.Long position in both the call option and the risk-free bond, and short position in the stock 
+and the put option.
+D.Long position in both the put option and the risk-free bond, and short position in the stock
+and the call option.
+参考答案：C
+【莽学解析】Answers A and B have payoffs that depend on the stock price and therefore cannot
+create arbitrage profits.Put-Call parity says that c-p=3-2=$1 should equal
+。因此，买低卖高，买入看涨期权卖出看跌期权（即买入：C-P）；卖出股票买入无风险债券。
+ 
+224.If the current rate is 0.6650 (1 AUD = 0.6650USD) and the risk-free rates for the USD and
+AUD are 1.0% and 4.5% respectively, what is the lower bound of a 5-month European put option on
+the AUD with a strike price of 0.6880?
+A.0.0135
+B.0.0245
+C.0.0325
+D.0.0455
+参考答案：C
+【莽学解析】这题把AUD，看成是苹果商品。把AUD的利率看成是现货的收益。经过这样的处理，这题就很简
+单了。 要求的是AUD的put option的下限，其实就是看put option的下限。把AUD的利率4.5%，看成是苹果商
+品的分红收益。就应该是Ke^(﹣rt)﹣Se^(﹣qt)。
+225.A risk manager is analyzing the option prices for a non-dividend-paying stock. How would
+the risk manager create a synthetic long European call option position on this stock using an
+appropriate zero-coupon risk-free bond and options having the same exercise price and exercise
+date?
+A.Buy a European put on the stock, buy the stock, and sell a zero-coupon risk-free bond.
+B.Buy a European put on the stock, sell the stock, and buy a zero-coupon risk-free bond.
+C.Sell a European put on the stock, buy the stock, and sell a zero-coupon risk-free bond.
+D.Sell a European put on the stock, sell the stock, and buy a zero-coupon risk-free bond.
+参考答案：A
+【莽学解析】
+The solution is as follows:
+ 根据买卖权平价公式：c＋PV(K)=p＋S，得c=p＋S-PV(K)，所以A选项正确。
+ 
+226.A butterfly spread can be created by buying a call option with a low strike of X1; buying a
+call option with a high strike X2 ; and selling two call options with a strike halfway between
+X1 and X2. Which of the following is about the upside and downside of the strategy?
+A.Both the upside and downside is limited.
+B.Both the upside and downside is unlimited.
+C.The upside is unlimited but the downside is limited.
+D.The upside is limited but the downside is unlimited.
+参考答案：A
+【莽学解析】The pay-off structure to this strategy leaves the upside and downside potential at
+the difference between the premium collected on the calls sold and the premium paid on the
+calls purchased.这种策略对收益和损失进行了限制
+ 
+227.Which of the following barrier put options is best described as a standard put option that
+ceases to exist if the underlying asset price hits a barrier level, which is set above the
+current stock value?
+A.Up-and-in put
+B.Up-and-out put
+C.Down-and-in put
+D.Down-and-out put
+参考答案：B
+【莽学解析】An up-and-out put is a standard put option that only ceases to exist if the
+underlying asset price hits a barrier level, which is set above the current stock value. The
+opposite situation would be an up-and-in put, which only comes into existence if the underlying
+asset price hits the barrier level.向上敲出看跌期权是一种标准看跌期权，只有当标的资产价格触及高
+于当前股票价值的障碍水平时才会失效。相反的情况是买入看跌期权，只有当标的资产价格触及障碍水平时
+才会出现这种情况。
+ 
+228.An investor buys a stock for $40 per share and simultaneously sells a call option on the
+stock with an exercise price of $42 for a premium of $3 per share. Ignoring dividends and
+transaction costs, which of the following amounts represents the maximum profit the holder of
+this covered call can earn if the position is held to expiration?
+A.$1
+B.$2
+C.$3
+D.$5
+参考答案：D
+【莽学解析】This is an out-of-the-money covered call. The stock can go up $2 to the strike
+price, and then the writer will get $3 for the premium. Thus, the maximum profit is $5.S-c组成
+covered call策略，当St≥K时，赚取最大收益，当St=42时，最大收益是3＋2=5
+ 
+229.Which option combination most closely simulates the economics of a short position in a
+futures contract?
+A.Payoff of a long call plus a short put
+B.Profit of a long call plus a short put
+C.Payoff of a long put plus short call
+D.Profit of long put plus short call
+参考答案：C
+【莽学解析】Payoff of the long put =max[0,K-S(t)] and payoff of short call =-max[0,S(t)-
+K]=min[K-S(t)], such that the combination payoff =K-S(t). In regard to D, please note: Profit =
+the payoff-initial investment [net premium] Sometime also profit = payoff - FV(initial
+investment)在使用构造组合的方法合成期货空头头寸时（建议直接画图），应使用payoff，而不是
+profit（由于期权费的存在，合成的效果不理想）。
+ 
+230.All else being equal, which of the following options would cost more than plain-vanilla
+options that are currently at-the-money?I.Lookback optionsII.Barrier optionsIII.Asian
+optionsIV.Chooser option
+A.I only
+B.I and IV
+C.II and III
+D.I, III, and IV
+参考答案：B
+【莽学解析】Lookback option: payoff depends on the maximum (call) or minimum (put) value of the
+underlying asset over the life of the option. Can be fixed or floating depending on the
+specification of a strike price.Chooser option: owner chooses whether option is call or put
+after initiation.和普通期权不同，回望期权的收益不是按照到期时标的资产价格和执行价格之间的关系来
+确认的，而是按照整个期权存续期间的最优价格来确认收益的。用过去的最大值或者最小值来确定。选择期
+权，指的在一开始建立期权合约的时候，并不知道它是看涨期权还是看跌期权，允许在合约期限内的某一天
+再去确认是看涨期权还是看跌期权。
+ 
+231.You are looking at two options on a non-dividend paying stock that are identical in all
+respects except one is a European put and the other is a European call option. If the assumed
+volatility of the stock price increases:
+A.The call will increase more than the put in value.
+B.The put will increase more than the call in value.
+C.The call will increase, but the put will decrease in value.
+D.The call and the put will increase equally.
+参考答案：D
+【莽学解析】In order for the Put-Call parity relationship to hold, the value of the call and
+the put must change equally. Since call and put values are both positively related to the
+underlying stock's price volatility, both options will increase in value. Another way to see
+this is to note that the vega of a European call and the vega of the comparable put are
+equal.为了保持买卖权平价关系，看涨期权和看跌期权的价值变化幅度必须一样。由于看涨期权和看跌期权
+的价值都与标的股票的价格波动呈正相关，因此这两种期权的价值都会增加。另一种方法是注意欧式看涨期
+权的Vega和一个可比较的看跌期权的Vega是相等的。
+ 
+232.Suppose you believe that Company A's stock price is going to decline from its current level
+of $82.50 sometime during the next 5 months. For $510.25 you could buy a 5-month put option
+giving you the right to sell 100 shares at a price of $83.00 per share. If you bought the put
+option contract for $510.25 and Company A's stock price actually dropped to $63.00, your profit
+net of the premium paid would be:
+A.$1,950.00
+B.$1,439.75
+C.$1,489.75
+D.$2,000.00
+参考答案：C
+【莽学解析】Payoff=(83-63)×100=2000; Profit=2000-510.25=1489.75损益=(83－63)×100=2000; 净收益
+=2000－510.25=1489.75
+ 
+233.The payoff on a calendar spread is most similar to which of the following option
+strategies?
+A.Bull spread
+B.Bear spread
+C.Long straddle
+D.Butterfly spread
+参考答案：D
+【莽学解析】A calendar spread is created by transacting in two options that have different
+expirations. Both options have the same strike price. The strategy sells the short-dated option
+and buys the long-dated option. The investor profits only if the stock remains in a narrow
+range, but losses are limited. Overall, the payoff is most similar to the butterfly spread.日历
+价差与蝶式价差的图形是相似的。
+ 
+234.Joe Brocato is currently following two stocks in the pharmaceutical industry: ABC and XYZ.
+He is bullish on ABC, but bearish on XYZ. ABC is currently priced at $53.60 and XYZ is
+currently priced at $9.80. He is considering an options strategy to capitalize on his
+expectations. Brocato gathers the following three months of data on put and call options for
+both stocks:
+In three months, assume ABC has increased in price by $1.00 while XYZ has dropped by $1.67.
+Which of the following strategies would have been the most profitable in three months?
+A.Short the ABC put option with the $45 strike price, and short the XYZ call option with the
+$7.50 strike price.
+B.Go long the ABC put option with the $45 strike price, and go long the XYZ call option with
+the $7.50 strike price.
+C.Go long the ABC call option with the $55 strike price, and go short the XYZ put option with
+the $10 strike price.
+D.Short the ABC call option with the $55 strike price, and go long the XYZ put option with the
+$10 strike price.
+参考答案：D
+【莽学解析】Shorting the ABC call with the $55 strike price will be out-of-the-money, thus, the
+profit will be the option premium ($1.10). Going long the) XYZ put option with the $10 strike
+price will be in-the-money, and the profit will be: 10 - 8.13 - 0.75 = 1.12. 假设ABC股票上升1元
+，XYZ股票下降1.67元，以下哪个策略获利做大。 A: short ABC put (45) and short XYZ call (7.5);
+profit=0.2＋2.5-(8.13-7.5)=2.07. B: long ABC put (45) and long XYZ call(7.5); profit=-0.2-
+2.5＋(8.13-7.5)=-2.07. C: long ABC call (55) and short XYZ put(10); profit=-1.1＋0.75-(10-
+8.13)=-2.22. D: short ABC call(55) and long XYZ put(10); profit= 1.1-0.75＋(10-8.13)= 2.22. D获
+利最大
+ 
+235.A six-month put option with a strike price of $14.00 has a price (option premium) of $2.00
+when the underlying stock price is $18.00. If a trader employs a protective put strategy (i.e.,
+with the OTM put option), what are, respectively, the maximum net profit (reward) and the
+maximum net loss (risk) possible? note: consistent with profit pattern charts, please disregard
+the time value of money.
+A.$14 (max net profit) and -$6 (max net loss)
+B.unlimited (max net profit) and -$6 (max net loss)
+C.unlimited (max net profit) and -$14 (max net loss)
+D.unlimited (max net profit) and unlimited (max net loss)
+参考答案：B
+【莽学解析】The upside is unlimited: the purchased put reduces the net profit by the premium,
+but the profit is still unlimited. On the downside, loss is -2 for the option premium paid plus
+-4 (14 - 18 = -4) equals capped downside of a loss of $6. The protective put is an insurance
+strategy; in exchange for forgoing upside (option premium paid) the loss is capped.保护性看跌期
+权类似于看涨期权的多头，这是一种保险策略。在价格下降时损失有限，在价格上升时获利无限。
+ 
+236.SCU stock is currently priced at $106 per share, and the risk-free interest rate is 3.25%.
+Assuming that SCU does not pay any dividends, what is the lower bound of an American put option
+on SCU that expires in three months and has an exercise price of $110?
+A.$0
+B.$0.48
+C.$3.11
+D.$4.00
+参考答案：D
+【莽学解析】The lower pricing bound of an American put on a non-dividend-paying stock is
+P≥max(X-S). In this case, the lower bound is P≥(110-106)=4.无红利支付的美式看跌期权价格下限是
+：max(X﹣S)=4
+ 
+ 237.The risk-free rate is 3.0% per annum while the current price of a non-dividend-paying stock 
+is $56.00. An underwater (OTM) European put option on the stock has a strike price of $42.00
+and maturity of one year; the value of this European put is $1.06. Which is nearest to the
+value of a European call option with the same strike price ($42.00; i.e., an in-the money call
+option) and one-year maturity?
+A.$7.49
+B.$14.00
+C.$16.30
+D.$28.28
+参考答案：C
+【莽学解析】根据买卖权评价公式去进行计算
+ 
+238.According to put-call parity, which of the following is equivalent to buying a put option
+on a stock?
+
+A.Buying a call option, selling the stock, and investing the proceeds at the risk-free rate.
+B.Selling a call option and buying the stock with funds borrowed at the risk-free rate.
+C.Buying a call option and buying the stock with funds borrowed at the risk-free rate.
+D.Selling a call option, selling the stock, and investing the proceeds at the risk-free rate.
+参考答案：A
+【莽学解析】根据买卖权评价公式，买看跌相当于买看涨，买债券（投资），卖标的资产。
+ 
+ 
+239.According to put-call parity, which one of the choices below is equivalent to writing a
+put?
+A.Buying a call, buying stock, and lending.
+B.Writing a call, buying stock, and lending.
+C.Writing a call, buying stock, and borrowing.
+D.Writing a call, selling stock, and borrowing.
+参考答案：C
+【莽学解析】p＋S=c＋PV(K)→﹣p=S﹣c﹣PV(K)
+ 
+ 
+240.Assume an investor enters into a volatility swap as the receive-realized and pay-fixed
+volatility. The investor’s position is most similar to which trading strategy:
+A.Covered call
+B.Bull spread
+C.Long straddle
+D.Short strangle
+参考答案：C
+【莽学解析】Long straddle because it is also long volatility. But it remains merely a
+similarity: the volatility swap has purer exposure to volatility.多头straddle也是赌波动上升。但
+这仅仅是一种相似之处，波动率互换对波动性的风险敞口更大。
+ 
+241.An investor sells a June 2008 call of ABC Limited with a strike price of USD 45 for USD 3
+and buys a June 2008 call of ABC Limited with a strike price of USD 40 for USD 5. What is the
+name of this strategy and the maximum profit and loss the investor could incur?
+A.Bear Spread, Maximum Loss USD 2, Maximum Profit USD 3
+B.Bull Spread, Maximum Loss Unlimited, Maximum Profit USD 3
+C.Bear Spread, Maximum Loss USD 2, Maximum Profit Unlimited
+D.Bull Spread, Maximum Loss USD 2, Maximum Profit USD 3
+参考答案：D
+【莽学解析】This is a bull spread strategy. The profit of the call with a strike price of
+ 
+ 
+242.A 1-year forward contract on a stock with a forward price of USD 100 is available for USD
+1.50. The table below lists the prices of some barrier option on the same stock with a maturity
+of 1 year and strike of USD 100. Assuming a continuously compounded risk-free rate of 5% per
+year what is the price of a European put option on the stock with a strike of USD 100.
+A.USD 2.00
+B.USD 4.90
+C.USD 5.11
+D.USD 6.61
+参考答案：C
+【莽学解析】●The sum of the price of up-and-in barrier call and up-and-out barrier call is the
+price of an otherwise the same European call. The price of the European call is therefore
+USD5.21+USD1.40=USD6.61. ●The Put-Call parity relation gives Call - put = Forward (with same
+strikes and maturities) ●Thus, 6.61-put=1.50. Thus put=6.61-1.50=5.11.障碍期权有一个特点，叫做
+敲入-敲出平价（In-out parity）。指的是如果把一个同样障碍价格敲入期权和一个同样障碍价格的敲出期
+权结合在一起，就可以构造出一个普通的期权。因此，上涨-敲入式看涨期权和上涨-敲出式看涨期权就可以
+构造出一个普通的看涨期权。然后根据买卖权评价公式求解欧式看跌期权价格。
+ 
+243.Long a call on a stock and short a call on the same stock with a higher strike price and
+same maturity is called:
+A.A bull spread
+B.A bear spread
+C.A calendar spread
+D.A butterfly spread
+参考答案：A
+【莽学解析】Buying a call and selling a call on the same stock but with a higher exercise price
+is bullish.牛市价差的基本策略是：同种期权，买入执行价格低的，卖出执行价格高的期权。
+ 
+244.American put option values increase as a result of increases in which of the following
+factors? I Volatility II Dividends III Stock Price IV Time to expiration
+A.I, II, and IV only
+B.I, III, and IV only
+C.II and IV only
+D.I and III only
+参考答案：A
+【莽学解析】American put option values decrease as stock prices increase.当股票价格上升，美式看
+跌期权下降。
+ 
+245.The current stock price of a share is USD 100 and the continuously compounding risk-free
+rate is 12% per year. The maximum possible prices for a 3-month European call option, American
+call option, European put option, and American put option, all with strike price of USD 90,
+are:
+A.100, 100, 87.34, 90
+B.100, 100, 90, 90
+C.97.04, 100, 90, 90
+D.97.04, 97.04, 87.34, 87.34
+参考答案：A
+【莽学解析】For European and American call options, the maximum possible price is equal to
+current stock price. The option price can never be higher than the stock. The stock price is
+thus the "upper bound". For a European Put, the upper bound is the present value of strike
+price, while for American put it is equal to the strike price.欧式和美式看涨期权的价格上限是股
+票价格，美式看跌期权价格上限是K，欧式看跌期权价格上限是PV(K)。
+ 
+246.What are the minimum values of an American-style and a European-style 3-month call option
+with a strike price of $80 on a non-dividend-paying stock trading at $86 if the risk-free rate
+is 3%? American European
+A.$6.00 $6.00
+B.$6.00 $5.96
+C.$6.59 $6.00
+D.$6.59 $6.59
+参考答案：D
+【莽学解析】The minimum value for a European-style call option, c_T is given by:
+An American style call option must be worth at least as much as an otherwise identical
+European-style call option and has the same minimum value.
+ 
+247.It may be attractive to exercise an American put option prior to expiration when the
+underlying stock price is:
+A.close to the strike price and risk-free rates are positive.
+B.above the strike price and risk-free rates are close to zero.
+C.close to the strike price and risk-free rates are close to zero.
+D.much lower than the exercise price and risk-free rates are positive.
+参考答案：D
+【莽学解析】It can be shown that American put options on non-dividend paying stocks may be
+exercised early if the underlying stock price is sufficiently low. The owner of the option
+would essentially receive the strike price, which is the maximum value of the option, and could
+reinvest the proceeds at the risk-free rate, which would generate a payoff received today as
+opposed to in the future.如果标的股票价格足够低，美式非分红股票的看跌期权可以在早期行使。期权持
+有者将获得执行价格，即期权的最大价值，并可以将收益以无风险利率进行再投资，这将产生今天收到的回
+报，而不是将来收到的回报。
+ 
+248.A short straddle comprises a trading combination of options that:
+A.sells a low strike call option and buys a higher strike call option.
+B.sells a put and call option at the same strike price.
+C.purchases a put and call option at the same strike price.
+D.purchases a low strike call option and sells a higher strike call option.
+参考答案：B
+【莽学解析】A short straddle is a situation in which both a call and a put with the same strike
+price are sold.Straddle空头是指卖出执行价格相同的看涨期权和看跌期权的情形
+ 
+249.A 1-year American put option with an exercise price of $40 will be worth $10.00 at maturity
+with a probability of 0.25 and $0.00 with a probability of 0.75. The current stock price is
+$36. The discount rate is 5%. The optimal strategy is to:
+A.Exercise the option because the payoff from exercise exceeds the present value of the
+expected future payoff.
+B.Not exercise the option because the payoff from exercise is less than the discounted present
+value of the future payoff.
+C.Exercise the option because it is currently at-the-money.
+D.Not exercise the option because it is out-of-the-money.
+参考答案：A
+【莽学解析】The payoff from exercising the option is the exercise price minus the current stock
+price: $40﹣$36=$4.The discounted value of the expected future payoff is:
+It is optimal to exercise the option early because it is worth more exercised ($4.00) than if
+not exercised ($2.38).
+ 
+250.A call option where early exercise is restricted to certain dates is an example of a(n):
+A.lookback option.
+B.Bermudan option.
+C.chooser option.
+D.Asian option.
+参考答案：B
+【莽学解析】A Bermudan option is an option in which early exercise is restricted to certain
+dates.百慕大期权（Bermudan option）。提前执行限定在某些特殊的时间，比如约定期权只能够在每个月
+15号，确定到底要不要提前行权。
+ 
+251.Which of the following has the same impact on both American call and put option prices?
+I.An increase in volatility. II.An increase in the stock price. III.An increase in the risk-
+free rate. IV.A decrease in time to expiration.
+A.I only.
+B.I and II.
+C.I and III.
+D.I and IV.
+参考答案：D
+【莽学解析】Increased volatility positively influences put and call option values, while a
+decrease in time to expiration will negatively influence call and put prices. Note that an
+increase in the stock price and an increase in the risk-free rate will cause the price of an
+American call to increase but will cause the price of an American put to decrease.波动性的增加
+会对看跌期权和看涨期权的价值产生积极影响，而到期时间的缩短会对看跌期权和看涨期权的价格产生消极
+影响。请注意，股票价格的上升和无风险利率的上升将导致美式看涨期权的价格上升，但将导致美式看跌期
+权的价格下降。
+ 
+252.A bear spread is an option strategy in which the option trader:
+A.Purchases a high strike call option and sells a lower strike call option.
+B.Sells a low strike call option and sells a higher strike put option.
+C.Purchases a low strike put option and sells a higher strike call option.
+D.Sells a low strike put option and buys a higher strike call option.
+参考答案：A
+【莽学解析】Bear spreads are those in which an option trader buys a high strike call option and
+sells a lower strike call.熊市价差的基本策略是：同种期权，买入执行价格高的，卖出执行价格低的。
+ 
+253.Which of the following is most true about American options?
+A.Early exercise is never optimal.
+B.Early exercise of an American call on a non-dividend paying stock is never optimal.
+C.Early exercise of an American put on a non-dividend paying stock is never optimal.
+D.Prior to exercise, the value of the American call is always equal to the European call.
+参考答案：B
+【莽学解析】An American call option on a non-dividend-paying stock should never be exercised
+early while an American put option on a non-dividend-paying stock may be exercised early.非派息
+股票的美式看涨期权不会提前行使，而非派息股票的美式看跌期权则存在提前行权的可能行的。
+ 
+254.Which of the following options is best described as follows: "A six month call option may
+only be exercised early on the first day of each month"?
+A.Bermudan option.
+B.American option.
+C.Chooser option.
+D.Binary option.
+参考答案：A
+【莽学解析】American options can be exercised at any time prior to expiration. If some of the
+available expiration periods are restricted, then it becomes a nonstandard option. Restricting
+early exercise to certain dates is known as a Bermudan option.Binary options generate
+discontinuous payoff profiles because they pay only one price at expiration if the asset value
+is above the strike price. Chooser options allow the owner, after a certain period of time has
+elapsed, to choose whether the option is a call or a put.美式期权可以在到期前的任何时候行使。如
+果某些可用的有效期限受到限制，那么它就成为一个非标准期权。将提前行权限制在一定的日期被称为百慕
+大选择。二元期权产生了不连续的收益曲线，因为如果资产价值高于执行价格，它们在到期时只支付一个价
+格。选择期权允许所有者在经过一段时间后选择该期权是看涨期权还是看跌期权。
+ 
+255.Which of the followingfactors’ increment will make the American put option values
+increase? I Volatility II Dividends III StockPrice IV Timeto expiration
+A.I and III only
+B.II and IV only
+C.I, II, and IV only
+D.I, III, and IV only
+参考答案：C
+【莽学解析】American put option values decrease as stock prices increase当股票价格上升，美式看
+跌期权价值下降。
+ 
+256.An American investor holds a portfolio of French stocks. The market value of the portfolio
+is €10 million, with a beta of 1.35 relative to the CAC index. In November, the spot value of
+the CAC index is 4,750. The exchange rate is USD 1.25/€. The dividend yield, euro interest
+rates, and dollar interest rates are all equal to 4%. Which of the following option strategies
+would be most appropriate to protect the portfolio against a decline of the euro that week?
+March Euro options (all prices in US dollars per €). Strike Call euro Put euro 1.25 0.018
+0.022
+A.Buy calls with a premium of USD 180,000
+B.Buy puts with a premium of USD 220,000
+C.Sell calls with a premium of USD 180,000
+D.Sell puts with a premium of USD 220,000
+参考答案：B
+【莽学解析】Buying puts would protect against a decline in the euro and the premium would be
+USD 0.022 × €10m = USD 220,000.其实问的就是对冲组合下降的风险应该用什么衍生品，期权费多少？首
+先排除AD选项，因为对冲方向做反了，B选项优于C，因为B是买入一个权利，我的自主性更大一些，C是卖出
+看涨期权，风险比较大。期权费为0.022×1000万= 22万美元。
+ 
+257.Which of the following will create a bull spread?
+A.Buy a put with a strike price of X = 50, and sell a put with a strike price of 55.
+B.Buy a put with a strike price of X = 55, and sell a put with a strike price of 50.
+C.Buy a call with a premium of 5, and sell a call with a premium of 7.
+D.Buy a call with a strike price of X = 50, and sell a put with a strike price of 55.
+参考答案：A
+【莽学解析】A bull spread involves buying a put with a low strike price and selling another put
+with a high strike price or buying a call with a low strike price and selling another call with
+a high strike price.牛市价差的基本策略是：同种期权，买入执行价格低的，卖出执行价格高的期权。
+ 
+258.Assume that the current price of a stock is $100. A call option on that stock with an
+exercise price of $97 costs $7. A call option on the stock with the same expiration and an
+exercise price of $103 costs $3. Using these options what is the profit for a long bull spread
+if the stock price at expiration of the options is equal to $110?
+A.$6
+B.-$2
+C.$0
+D.$2
+参考答案：D
+【莽学解析】The buyer of a bull spread buys the call with an exercise price below the current
+stock price and sells the call option with an exercise price above the stock price. Therefore,
+for a stock price of $110 at expiration of the options, he gets a payoff $13 from his long
+position and a payoff of -$7 from his short position for a net payoff of $6. The cost of the
+strategy is $4. Hence the profit is equal to $2.买看涨:4卖看跌:(30-27)-3 = 0利润总额:4
+ 
+259.Which of the following statements about options on futures is true?
+A.An American call is equal in value to a European call.
+B.An American put is equal in value to a European put.
+C.Put-Call parity holds for both American and European options.
+D.None of the above.
+参考答案：D
+【莽学解析】An American option can be exercised early. Therefore its value is not necessarily
+equal to the value of a comparable European option. Note that an American call option on a non-
+dividend-paying stock should never be exercised early, thus its value is equal to a comparable
+European call option. The early - exercise feature of American options makes the Put-Call
+parity not hold for it.美式期权由于提前行权，所以买卖权平价公式不适用。
+ 
+260.What is the lower pricing bound for a European call option with a strike price of 80 and
+one year until expiration? The price of the underlying asset is 90, and the 1-year interest
+rate is 5% per annum. Assume continuous compounding of interest.
+A.14.61
+B.13.90
+C.10.00
+D.5.90
+参考答案：B
+【莽学解析】The lower bound is the difference between the stock price and the present value of
+the strike price:
+ 
+ 
+261.A long position in a put option can be synthetically produced by:
+A.Long position in the underlying and a short position in a call.
+B.Short position in the underlying and a long position in a call.
+C.Long position in the underlying and a long position in a put.
+D.Short position in the underlying and a short position in a put.
+参考答案：B
+【莽学解析】A long put option has intrinsic value when the price of the underlying asset goes
+down. The payoff of a long put option is the same as the payoff of a short position in the
+underlying and a long position in the call. This synthetic alternative has value when the price
+of the underlying asset goes down. When the price of the underlying asset goes up, the call
+buyer will exercise and the call seller will need to liquidate the long position in the
+asset.这道题实际问的是使用构造组合的方法去构造买入看跌期权的头寸（通常不考虑成本），只需要将期
+权的执行价格与标的资产的盈亏平衡点设为一样，然后在画图就简单很多了。
+ 
+262.According to Put-Call parity, writing a put is like:
+A.Buying a call, buying stock, and lending.
+B.Writing a call, buying stock, and borrowing.
+C.Writing a call, buying stock, and lending.
+D.Writing a call, selling stock, and borrowing.
+参考答案：B
+【莽学解析】通过买卖权平价公式可得：
+ 
+ 
+263.A 3 month European call option on DEF stock with a strike price of $50 is trading for
+$2.25. The risk free rate is 10%. The current stock price of DEF stock is $48. Calculate the
+value of a corresponding put with the same strike and maturity.
+A.$2.00
+B.$2.25
+C.$3.02
+D.$3.57
+参考答案：C
+【莽学解析】Use the Put-Call parity relationship to find the value of the European put.
+ 
+ 
+264.An investor sells a June 2008 call of ABC Limited with a strike price of USD 45 for USD 3
+and buys a June 2008 call of ABC Limited with a strike price of USD 40 for USD 5. What is the
+name of this strategy and the maximum profit and loss the investor could incur?
+A.Bear Spread, Maximum Loss USD 2, Maximum Profit USD 3
+B.Bull Spread, Maximum Loss Unlimited, Maximum Profit USD 3
+C.Bear Spread, Maximum Loss USD 2, Maximum Profit Unlimited
+D.Bull Spread, Maximum Loss USD 2, Maximum Profit USD 3
+参考答案：D
+【莽学解析】This is a bull spread strategy. The profit of the call with a strike price of 45
+is: - Max(0, St - 45) + 3. The profit of the call with a strike price of 40 is Max(0, St - 40)
+- 5. The total profit is Max(0, St - 40) - Max(0, St - 45) - 2.St ≥ 45, total profit = 3. 40
+＜ St ＜ 45, total profit = St - 42. St ≤ 40, total profit = - 2. Therefore, maximum loss is
+$2, maximum profit is $3.操作1：卖看涨：3-max(0,st-45) 操作2：买看涨：max(st-40,0)-5 当ST＜40时
+，操作1：3；操作2：-5，因此最大损失2. 当ST≥45时，操作1：3-(st-45)；操作2：(st-40)-5，因此最大
+收益3。
+ 
+265.According to Put-Call parity, buying a put option on a stock is equivalent to:
+A.Buying a call option and buying the stock with funds borrowed at the risk-free rate.
+B.Selling a call option and buying the stock with funds borrowed at the risk-free rate.
+C.Buying a call option, selling the stock, and investing the proceeds at the risk-free rate.
+D.Selling a call option, selling the stock, and investing the proceeds at the risk-free rate.
+参考答案：C
+【莽学解析】通过买卖权平价公式可得：
+ 
+ 
+266.An option trader constructs the following position: buys 1 call with a strike price at
+X<sub>_1</sub>, buys 1 call with a strike price at X<sub>_3</sub> and sells 2 calls with a
+strike X<sub>_2</sub>. Where
+This strategy is referred to as a:
+A.Butterfly Spread
+B.Bull Spread
+C.Strap Spread
+D.Strip Spread
+参考答案：A
+【莽学解析】Buying a call at a low exercise price, buying another at a higher exercise price,
+and selling calls with exercise prices between the high and low is called a butterfly spread.蝶
+式价差的策略是：买入执行价格高的，买入执行价格低的，卖出两份中间价（执行价格）
+ 
+267.The payoff pattern of a PROTECTIVE PUT is most similar to the payoff pattern of:
+A.Long forward position
+B.Short forward position
+C.Long call option
+D.Short call option
+参考答案：C
+【莽学解析】A protective put (long the stock plus long a put option on the stock) essentially
+simulates a long call. In regard to (A), this is incorrect because the protective put has a
+very limited downside.保护性看跌期权类似于看涨期权的多头（从图形上看），这是一种保险策略。在价
+格下降时损失有限，在价格上升时获利无限。
+This is q = 1.99%. 
+
+268.An index currently stands at 1,500. European call and put options with a strike price of
+1,400 and time to maturity of six months have market prices of 154.00 and 34.25, respectively.
+The six-month risk-free rate is 5%. What is the implied dividend yield?
+A.2.01%
+B.1.99%
+C.2.05%
+D.1.96%
+参考答案：B
+【莽学解析】The implied dividend yield is the value of q that satisfies the put - call parity
+equation.It is the value of q that solves.
+
+ 
+269.A trader writes ten (10) naked put option contracts, with each contract being on 100
+shares. The strike price is $50.00 and the stock price is currently $55.00. The option price is
+$3.40. The time to maturity is six months and the implied volatility is 40.0%. What is the
+margin requirement?
+A.$3,400
+B.$5,500
+C.$7,300
+D.$9,400
+参考答案：D
+【莽学解析】The margin requirement is the greater of 1,000×[$3.40＋20%×$55.00 -MAX(0,55-50)]
+and 1,000×($3.40＋10%×$50.00); i.e., the greater of $9,400 and $8,400 Written naked put
+option：取较大值 1：100%期权卖出收益＋20%标的资产现价 - 期权虚值状态的部分
+=1,000×[$3.40＋20%×$55.00－MAX(0, 55－50)] =9,400 2：100%期权卖出收益加10%执行价格
+=1,000×($3.40＋10%×$50.00)=8,400
+ 
+ 270.Which of the following is the riskiest form of speculation using options contracts?
+A.Setting up a spread using call options
+B.Buying put options
+C.Writing naked call options
+D.Writing naked put options
+参考答案：C
+【莽学解析】Selling an option is riskier than a spread or buying an option. In the case of
+selling a naked put option, the maximum loss equals the strike price. In the case of selling a
+naked call, the loss potential is unlimited, so it is the riskiest of the choices provided.卖出
+期权比买入期权风险更大。在卖出裸看跌期权的情况下，最大损失等于执行价格。而在卖出裸看涨期权的情
+况下，损失是无限的，因此它是风险最大的。 
+
+271.A 2-year European call option has a market price of $50 with a strike price of $140. The
+underlying stock price is $100 with a two-year annualized interest rate of 5% and a dividend
+yield of 2% (annualized). What is closest to the market price of a two-year European put stock
+at $140?
+A.$77
+B.$10
+C.$90
+D.$81
+参考答案：D
+
+【莽学解析】本题解析如下：
+ 
+ 
+272.According to Put-Call parity, buying a call option on a stock is equivalent to:
+A.Writing a put, buying the stock, and selling short bonds (borrowing).
+B.Writing a put, selling the stock, and buying bonds (lending).
+C.Buying a put, selling the stock, and buying bonds (lending).
+D.Buying a put, buying the stock, and selling short bonds (borrowing).
+参考答案：D
+【莽学解析】The payoff from buying a call option is the same as that of selling short bonds,
+buying the stock, and buying a put. You can see that by using Put-Call parity:
+ 
+ 
+273.On the OTC market there are two options available on Microsoft stock: a European put with
+premium of USD 2.25 and an American call option with premium of USD 0.46. Both options have a
+strike price of USD 24 and an expiration date 3 months from now. Microsoft's stock price is
+currently at USD 22 and no dividend is due during the next 6 months. Assuming that there is no
+arbitrage opportunity, which of the following choices is closest to the level of the risk-free
+rate:
+A.0.25%
+B.1.76%
+C.3.52%
+D.Insufficient information to determine
+参考答案：C
+【莽学解析】Due to the fact that the American call option under consideration is on the stock
+which does not pay dividends, its value is equal to European call option with the same
+parameters. Thus, we can apply Put-Call parity to determine the level of interest rate.
+ 
+ 
+274.Consider a bullish spread option strategy of buying one call option with a $30 exercise
+price at a premium of $3 and writing a call option with a $40 exercise price at a premium of
+$1.50. If the price of the stock increases to $42 at expiration and the option is exercised on
+the expiration date, the net profit per share at expiration (ignoring transaction costs) will
+be:
+A.$8.50
+B.$9.00
+C.$9.50
+D.$12.50
+参考答案：A
+【莽学解析】The net profit of the call option with strike price of 30: Max(0,42-30)-3=9 The net
+profit of the call option with strike price of 40:-Max(0,42-40)+1.5=-0.5 The total net profit:
+9-0.5=8.5 买入执行价格为30的看涨期权净损益：Max(0, 42-30)-3=9 卖出执行价格为40的看涨期权净损益
+：-Max(0, 42-40) ＋1.5=-0.5 所以净损益：9-0.5=8.5
+ 
+275.Which one of the following four trading strategies limits the investor's upside potential
+and downside risk?
+A.A long position in a put combined with a long position in a stock.
+B.A short position in a put combined with a short position in a stock.
+C.Buying a call option on a stock with a certain strike price and selling a call option on the
+same stock with a higher strike price and the same expiration date.
+D.Buying a call and a put with the same strike price and expiration date.
+参考答案：C
+【莽学解析】Long position in a put combined with long position in a stock could limit only the
+downside risk.Short position in a put combined with short position in a stock could limit only
+the upside risk.Buying a call option on a stock with certain strike price and selling a call
+option on the same stock with a higher strike price and the same expiration date could limit
+both the upside and downside risk.Buying a call and put with the same strike price and
+expiration date could limit only the downside risk.这题考查的是一种可以在价格过高和过低的时候可
+以起到保护的作用的一种策略，A选项只能抑制价格过低带来的风险。B选项只能抑制价格过高的风险。C选项
+的策略既可以抑制价格过低的风险也能抑制价格过高的风险。D选项只能抑制价格过低的风险。
+ 
+276.A non-dividend-paying stock with a current price of $40.00 and a volatility of 30.0% per
+annum when the risk-free rate is 4.0%. Consider a one-year barrier option with a barrier, H
+=$43.00, and a strike price, K = $45.00. Please note that the corresponding regular (i.e.,
+without the barrier) put option price is $6.75. Which of the following instances of this
+barrier option has the LOWEST price?
+A.Knock-in call
+B.Knock-out call
+C.Knock-in put
+D.Knock-out put
+参考答案：B
+【莽学解析】Knock-out call has a price of zero; it will get knocked out at $43.00 before it
+reaches the strike price of $45.00. Each of the other barrier options here has at least some
+positive (non-zero) value.knock out call：障碍线是43，执行价是45，而现在股票价格是40，一旦高于
+43，这个期权就失效了，而且永远无法行权。所以这个期权就没有存在的意义。价值为0 而
+incall，input，都是在触及障碍线才会生效。所以价值至少为0. 而output：说明高于43失效。这证明在没
+有达到43时，是有效的。PUT可以以45行权，所以是存在价值的。
+ 
+277.Assume an underlying non-dividend-paying stock has a current price of $40.00 with
+volatility of 25.0% per annum while the risk-free rate is 4.0% per annum. The price of a six-
+month, at-the-money (maturity = 0.5 years, strike = $40.00) call option on the stock is $3.20
+where N(d1) = 0.580 and N(d2) = 0.510. Which is NEAREST to the price of a binary asset-or-
+nothing call option with the same strike price and maturity?
+A.$3.20
+B.$20.00
+C.$23.20
+D.$40.00
+参考答案：C
+【莽学解析】资产或空手看涨期权的价格为
+278.Consider the following call option with 6-months till expiry. The strike price is $50, the
+current stock price is $55 and the value of the option is $5. What does this imply about the
+level of 6-month interest rates?
+A.Interest rates are positively sloped around the 6-month period.
+B.Interest rates are negatively sloped around the 6-month period.
+C.Interest rates are at zero for the 6-month period.
+D.Cannot be determined from the information given.
+参考答案：C
+【莽学解析】If the call is currently trading at $5 and its intrinsic value is $5, then the time
+value of the call is $0, so the six-month interest rate must be zero.欧式看涨期权的价格下限为
+max(S0－Ke－rt,0)，代入题目中的已知条件，可以发现，只有当r为0时，才符合下限要求。
+ 
+279.Which type of option produces discontinuous payoff profiles, meaning that the payoff does
+not increase or decrease continuously with the underlying asset value?
+A.Chooser options
+B.Barrier options
+C.Binary options
+D.Lookback options
+参考答案：C
+【莽学解析】A. Incorrect. The payoff profile of a chooser option is continuous. B. Incorrect.
+The payoff profile of a barrier option is continuous. C. Correct. The binary option is the only
+one that producesdiscontinuous payoff profiles because it pays one price at the expiration
+ifthe asset value is above the strike price and nothing if the asset price isbelow the strike
+price. D. Incorrect. The payoff profile of a lookback option is continuous. A不正确的。一个选择
+期权的收益曲线是连续的。B不正确的。障碍期权的收益曲线是连续的。C正确。二元期权是唯一产生不连续
+收益的期权，因为如果资产价值高于执行价格，它在到期时支付一个价格，如果资产价格低于执行价格，则
+不支付任何价格。D不正确的。回望期权的收益是连续的。
+ 
+280.What is the lower bound for the price of a nine (9)-month American PUT option on a non-
+dividend-paying stock when the stock price is $14.00, the strike price is $20.00, and the risk-
+free interest rate is 4.0% per annum?
+A.zero (0)
+B.$5.22
+C.$5.41
+D.$6.00
+参考答案：D
+【莽学解析】For a European put, the lower bound is p ≥Ke^(-rT)-S, but For an American put, the
+lower bound is P≥ K-S. In this case, P ≥20-14=$6.00 欧式看跌期权价格下限：p ≥Ke^(﹣rT)﹣S,
+美式看跌期权价格下限：P≥ K﹣S， 所以P ≥20﹣14=$6.00.
+ 
+281.Consider the following option strategy of buying one at-the-money put with a strike price
+of $43 for $6, selling two puts with a strike price of $37 for $4 each and buying one put with
+a strike price of $32 for $1. If the stock price plummets to $19 at expiration, calculate the
+net profit/loss per share of the strategy.
+A.-2.00 per share
+B.Zero
+ 
+C.1.00 per share
+D.2.00 per share
+参考答案：D
+【莽学解析】1、The easiest thing to do is to find the net profit or loss for each position and
+then add them together, recognizing whether a position is short or long. 2.Net profit of the
+long $43 strike put position: Max(0,43-19)-6=18 3.Net profit of the short $37 strike puts
+position: -2×Max(0,37-19)+(2×4)=-28 4. Net profit of the long $32 strike put position:
+Max(0,32-19)-1=12 5. Total net profit is:18-28+12=2. 买入执行价格为43的看跌期权净损益：Max(0,
+43﹣19)﹣6=18 卖出两份执行价格37的看跌期权净损益：﹣2×Max(0, 37﹣19)＋(2×4)=﹣28 买入执行价格
+为32的看跌期权净损益：Max(0, 32﹣19)﹣1=12 净损益18﹣28＋12=2.

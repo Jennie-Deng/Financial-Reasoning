@@ -1,0 +1,2647 @@
+{
+"1": {
+  "question": {
+    "text": "The risk department at an investment firm has been asked to evaluate the impact of environmental, social, and governance (ESG) factors on some of its fund investments. In regard to climate change, the staff has determined that climate change does present a risk that is important, and possibly very large, but they cannot currently calculate the risk. Among the following four classic risks (which constitute part of the second building block in GARP risk management process: Analyze), which most accurately describes the firm’s orientation toward climate change?",
+    "image": "",
+    "Options": [
+      "A. Expected loss",
+      "B. Unexpected loss",
+      "C. Knightian uncertainty",
+      "D. Unknown unknown"
+    ]
+  },
+  "answer": "C",
+  "analysis": "The answer is Knightian uncertainty, because to the firm it is \"known unknown\". Knight distinguished between variability that cannot be quantified at all, which he called uncertainty, and \"true\" risk that can be quantified in terms of statistical science. Incalculable Knightian uncertainties can be very large and important. Nuclear war is a major threat to the world, but its chances of happening are impossible to estimate.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "Knightian uncertainty, risk management, ESG factors, climate change risk",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"2": {
+  "question": {
+    "text": "Which of the following is not a traditional credit risk mitigation approach used by banks?",
+    "image": "",
+    "Options": [
+      "A. Marking-to-market",
+      "B. Call feature",
+      "C. Exposure netting",
+      "D. Loan syndication"
+    ]
+  },
+  "answer": "B",
+  "analysis": "Marking-to-market, exposure netting, and loan syndication are all mechanisms that banks use to mitigate credit risk. They also might use a termination clause. A call feature could be used to protect an issuer from interest rate risk, but not credit risk.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "credit risk mitigation, financial risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"3": {
+  "question": {
+    "text": "Suppose three factors have been identified for the U.S. economy: the growth rate of industrial production (IP), the inflation rate (IR), and the excess return of 30-year Treasury bonds over T-bills (TB). IP is expected to be 4.0%, IR is expected to be 3.0%, and TB is expected to be 2.0%. A stock that is expected to provide a rate of return of 9.0% has a beta of 0.8 on IP, a beta of 0.6 on IR, and a beta of 0.5 on TB. If industrial production (IP) actually grows by 5.0%, the inflation rate (IR) turns out to be 2.0%, and the excess long-term Treasury bond (TB) is realized as 2.0%, what is the revised estimate of the expected rate of return on the stock?",
+    "image": "",
+    "Options": [
+      "A. 8.80%",
+      "B. 9.20%",
+      "C. 10.30%"
+      
+    ]
+  },
+  "answer": "B",
+  "analysis": "$9.0 \\%+[0.8 \\cdot(5.0 \\%-4.0 \\%)]+[0.6 \\cdot(2.0 \\%-3.0 \\%)]+[0.5 \\cdot(2.0 \\%-2.0 \\%)]=9.2 \\% $",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "beta, stock return, economic factors",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"5": {
+  "question": {
+    "text": "Each of the following is an assumption of the arbitrage pricing model (APM) EXCEPT for:",
+    "image": "",
+    "Options": [
+      "A. Homogeneous expectations",
+      "B. A security (stock) is linearly related to a set of indexes (factors)",
+      "C. Investors utilize a mean-variance framework",
+      "D. Error terms are uncorrelated"
+    ]
+  },
+  "answer": "C",
+  "analysis": "Arbitrage pricing theory is a new and different approach to determining asset prices. It is based on the law of one price: two items that are the same can’t sell at different prices. The strong assumptions made about utility theory in deriving the CAPM are not necessary. In fact, the APT description of equilibrium is more general than that provided by a CAPM-type model in that pricing can be affected by influences beyond simply means and variances. An assumption of homogeneous expectations is necessary. The assumption of investors utilizing a mean variance framework is replaced by an assumption of the process generating security returns. APT requires that the returns on any stock be linearly related to a set of indexes.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "arbitrage pricing theory, CAPM, mean-variance framework",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"6": {
+  "question": {
+    "text": "Which of the following statements regarding the responsibilities of the chief risk officer (CRO) is least accurate?",
+    "image": "",
+    "Options": [
+      "A. The CRO should provide the vision for the organization's risk management.",
+      "B. The CRO may have a solid line reporting to the CEO or a dotted line reporting to the CEO and the board.",
+      "C. In addition to providing overall leadership for risk, the CRO should communicate the organization's risk profile to stakeholders.",
+      "D. Although the CRO is responsible for top-level risk management, he is not responsible for the analytical or systems capabilities for risk management."
+    ]
+  },
+  "answer": "D",
+  "analysis": "While it is accurate that the CRO is responsible for top-level risk management, he is also responsible for the analytical or systems capabilities for risk management.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "CRO responsibilities, risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+
+"7": {
+  "question": {
+    "text": "Which of the following tasks regarding risk appetite would be reasonably performed by an organization’s Board of Directors? I. Develop the organization’s risk appetite statement. II. Determine if the risk appetite may cause risks in other areas of the organization.",
+    "image": "",
+    "Options": [
+      "A. I only",
+      "B. II only",
+      "C. Both I and II",
+      "D. Neither I nor II"
+    ]
+  },
+  "answer": "B",
+  "analysis": "Developing the organization’s risk appetite statement is the responsibility of management. It is the Board’s role to review and provide appropriate feedback on management’s work with regard to the risk appetite statement. Determining if the risk appetite may cause risks in other areas of the organization is consistent with the Board’s oversight role.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk appetite, Board of Directors, risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"8": {
+  "question": {
+    "text": "Which of the following statements regarding market, credit, and operational risk is correct?",
+    "image": "",
+    "Options": [
+      "A. People risk relates to the risk associated with incompetence and lack of suitable training of internal employees and/or external individuals.",
+      "B. Between two counterparties, presettlement risk is always higher than settlement risk.",
+      "C. Options are examples of financial instruments with non-directional risks.",
+      "D. Funding liquidity risk results from a large position size forcing transactions to influence the price of securities."
+    ]
+  },
+  "answer": "C",
+  "analysis": "People risk relates to the risk associated with fraud perpetrated by internal employees and/or external individuals. It does not relate to incompetence and lack of suitable training. Presettlement risk is lower than settlement risk because the former allows for offsetting of payments while the latter requires settlement of the full value of payments. Non-directional risks have non-linear exposures to changes in economic or financial variables which is clearly the case with options. Asset-liquidity risk (not funding liquidity risk) results from a large position size forcing transactions to influence the price of securities.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "market risk, credit risk, operational risk, people risk, presettlement risk",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"9": {
+  "question": {
+    "text": "Which of the following statements regarding the responsibilities of the chief risk officer (CRO) is least accurate?",
+    "image": "",
+    "Options": [
+      "A. The CRO should provide the vision for the organization’s risk management.",
+      "B. In addition to providing overall leadership for risk, the CRO should communicate the organization’s risk profile to stakeholders.",
+      "C. Although the CRO is responsible for top-level risk management, he is not responsible for the analytical or systems capabilities for risk management.",
+      "D. The CRO may have a solid line reporting to the CEO or a dotted line reporting to the CEO and the board."
+    ]
+  },
+  "answer": "C",
+  "analysis": "While it is accurate that the CRO is responsible for top-level risk management, he is also responsible for the analytical or systems capabilities for risk management.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "CRO responsibilities, risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"10": {
+  "question": {
+    "text": "From the perspective of a bank, which of the following is not an advantage of using a collateralized debt obligation (CDO) to transfer credit risk?",
+    "image": "",
+    "Options": [
+      "A. Bank profitability can be accelerated due to higher loan turnover.",
+      "B. Credit risk is effectively transferred to investors.",
+      "C. There will always be a market for CDO products.",
+      "D. A larger pool of potential borrowers will exist due to less concern for lending (underwriting) standards."
+    ]
+  },
+  "answer": "C",
+  "analysis": "Collateralized debt obligations transfer credit risk from banks to investors. This process enables banks to accelerate the loan origination cycle and therefore enjoy potentially higher profitability due to sourcing more loans than would otherwise be accessible. The pool of potential borrowers is increased because banks are less concerned with lending standards. However, when investors lose interest in CDO products due to higher-than-expected default rates, the loan origination cycle (for the bank) can be slowed with a large amount of credit trapped on their balance sheet.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "CDO, credit risk, loan origination",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"11": {
+  "question": {
+    "text": "Which of the following statements regarding risk and risk management is correct?",
+    "image": "",
+    "Options": [
+      "A. Risk management is more concerned with unexpected losses versus expected losses.",
+      "B. There is a relationship between the amount of risk taken and the size of the potential loss.",
+      "C. The final step of the risk management process involves developing a risk mitigation strategy.",
+      "D. If executed properly, the risk management process may allow for risk elimination within an economy."
+    ]
+  },
+  "answer": "A",
+  "analysis": "Risk management is more concerned with the variability of losses, especially ones that could rise to unexpectedly high levels or ones that suddenly occur that were not anticipated (unexpected losses).",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk management, unexpected losses, expected losses",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+
+"12": {
+  "question": {
+    "text": "Which of the following statements regarding risk appetite and risk tolerance is correct? I. Risk appetite directly impacts the allocation of resources. II. Risk tolerance is a measure of an organization’s ability to take risk.",
+    "image": "",
+    "Options": [
+      "A. I only",
+      "B. II only",
+      "C. Both I and II",
+      "D. Neither I nor II"
+    ]
+  },
+  "answer": "C",
+  "analysis": "Risk appetite directly impacts the allocation of resources. Risk tolerance is a measure of an organization’s willingness to take risk.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk appetite, risk tolerance",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"13": {
+  "question": {
+    "text": "Consider the following three well-diversified portfolios that exist in a single-factor economy:",
+    "image": "/foundation_of_risk_management/13_table.png",
+    "Options": [
+      "A. No, all three well-diversified portfolios plot on the security market line.",
+      "B. Yes, an arbitrage includes buying portfolio (A) and selling a combination of (B) and (C).",
+      "C. Yes, an arbitrage includes buying portfolio (B) and selling a combination of (A) and (C).",
+      "D. Yes, an arbitrage includes buying portfolio (C) and selling a combination of (A) and (B)."
+    ]
+  },
+  "answer": "C",
+  "analysis": "There is no arbitrage opportunity if all three well-diversified portfolios plot on the security market line (SML). This can be tested by calculating their respective Treynor ratios. Treynor(A) = (9.0% - 1.0%) / 1.60 = 0.050 Treynor(B) = (7.0% - 1.0%) / 1.10 = 0.0545 Treynor(C) = (4.0% - 1.0%) / 0.60 = 0.050 Our arbitrage is to buy the 'cheap' Portfolio B (with the higher Treynor) and sell the 'expensive' blend of Portfolios (A) and (C).",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "arbitrage opportunity, portfolio management, Treynor ratio",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"14": {
+  "question": {
+    "text": "Which component is NOT in the APT model?",
+    "image": "",
+    "Options": [
+      "A. Factor exposure",
+      "B. Factor return",
+      "C. Factor correlations",
+      "D. Specific (idiosyncratic) return"
+    ]
+  },
+  "answer": "C",
+  "analysis": "APT gives expected return (first moment) as a linear combination of factors in which correlation does not enter; rather, correlation impacts variance/volatility (second moment).",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "APT model, factor returns, idiosyncratic return",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"15": {
+  "question": {
+    "text": "Melody Li is a junior risk analyst who has recently prepared a report on the advantages and disadvantages of hedging risk exposures. An excerpt from her report contains four statements. Which of Li’s statements is correct?",
+    "image": "",
+    "Options": [
+      "A. Purchasing an insurance policy is an example of hedging.",
+      "B. In practice, hedging with derivatives is not likely to be a zero-sum game.",
+      "C. The existence of significant costs of financial distress and bankruptcy is considered within the assumption of perfect capital markets.",
+      "D. Hedging with derivatives is advantageous in the sense that there is often the ability to avoid numerous disclosure requirements compared with other financial instruments."
+    ]
+  },
+  "answer": "B",
+  "analysis": "The complexity of derivatives pricing means the pricing may not always be as accurate as possible so it will not always reflect all of the relevant risk factors. As a result, in practice, hedging with derivatives may not be a zero-sum game of transferring risk between periods or between participants. Choice A is not correct because hedging involves the use of financial derivatives and insuring involves the use of insurance policies; an insurance policy is not considered a financial instrument in the same sense as a derivatives instrument. Choice C is not correct because the existence of significant costs of financial distress and bankruptcy is contrary to the assumption of perfect capital markets. Choice D is not correct because hedging with derivatives will require disclosure, including some operational information that the firm may otherwise prefer to keep private.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "hedging, derivatives, financial distress, disclosure",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"16": {
+  "question": {
+    "text": "Which of the following statements regarding corporate risk governance is correct?",
+    "image": "",
+    "Options": [
+      "A. Management of the organization is ultimately responsible for risk oversight.",
+      "B. A risk committee is useful for enforcing the firm's risk governance principles.",
+      "C. Effective risk governance requires multiple levels of accountability and authority.",
+      "D. The point of risk governance is to minimize the amount of risk taken by the organization."
+    ]
+  },
+  "answer": "B",
+  "analysis": "The Board of Directors is ultimately responsible for risk oversight. Effective risk governance simply requires clear accountability, authority, and methods of communication; it is not necessary to have multiple levels. The point of risk governance is to consider the methods in which risk-taking is permitted, optimized, and monitored; it is not necessarily to minimize the amount of risk taken. The real point of risk governance is to increase the value of the organization from the perspective of the shareholders and/or stakeholders.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "corporate risk governance, risk oversight, risk committee",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+
+"17": {
+  "question": {
+    "text": "How is APT different from CAPM?",
+    "image": "",
+    "Options": [
+      "A. APT is a linear model.",
+      "B. APT is a factor model.",
+      "C. APT cannot use a market-related factor (CAPM beta is a market factor).",
+      "D. APT can use a small group of securities."
+    ]
+  },
+  "answer": "D",
+  "analysis": "Both are linear factor models. In regard to (C), APT can use market-related, macro, fundamental, firm-specific, and/or statistical factors. But (D) is a key difference: APT does not require that a market portfolio of all risky assets. Recall this requirement is a critical weakness of CAPM. The APT is marvelously flexible. We can concentrate on any desired group of stocks. Among N stocks, there will be an efficient frontier for portfolios made up of the N risky stocks.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "APT, CAPM, factor models",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"18": {
+  "question": {
+    "text": "The classic risk management process affirms the job of a risk manager to include four activities: identifying risks; analyzing and measuring risks; assessing the impact of risk events; managing risks. This process culminates in the series of decisions as to how to handle identified risks. Which of the following is (TRUE as) a common activity of the risk manager?",
+    "image": "",
+    "Options": [
+      "A. To either avoid or transfer each risk.",
+      "B. To quantify every risk in an exact way.",
+      "C. To eliminate each risk to the fullest extent possible.",
+      "D. To help identify where the firm should add risk."
+    ]
+  },
+  "answer": "D",
+  "analysis": "The risk management process culminates in a series of choices that both manage risk and help to define the identity and purpose of the firm.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk management, risk identification, risk management process",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+
+"19": {
+  "question": {
+    "text": "Each of the following is a responsibility of the board of directors EXCEPT which is not?",
+    "image": "",
+    "Options": [
+      "A. Assess the fundamental risks and rewards engendered in the firm’s business strategy.",
+      "B. Ascertain whether any major transaction undertaken by the firm is consistent with the authorized risk and associated business strategies.",
+      "C. Ensure each board member has day-to-day involvement in the firm’s risk-taking activities and can analyze the firm’s financial condition.",
+      "D. Assess whether the firm has put an effective risk management system in place that enables it to further its strategic objectives within the confines of its risk appetite."
+    ]
+  },
+  "answer": "C",
+  "analysis": "Board members cannot realistically have day-to-day involvement; also, the majority of boards do not require every board member to be able to analyze the firm’s financial condition. Board members have different expertise, experiences, and skills to bring. Of course, the board must have some members who can analyze the firm’s financial conditions, but in general, at least some board members will not possess this expertise but instead contribute other skills and experiences (e.g., industry experience, innovation contributions, strategic thinking, sales/marketing experience, networks/connections, leadership, and diversity).",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "board of directors, corporate governance, risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"20": {
+  "question": {
+    "text": "Which of the following is not a strength of the securitization process?",
+    "image": "",
+    "Options": [
+      "A. Enhances credit product access for low-quality borrowers.",
+      "B. Credit risk can be distributed to multiple market participants.",
+      "C. Enables a transparent four-step process.",
+      "D. Enables borrowers to lower their borrowing costs."
+    ]
+  },
+  "answer": "C",
+  "analysis": "The securitization process enhances loan access for low-quality borrowers. It also gives borrowers access to additional credit products at lower borrowing costs. Banks using an OTD model get higher fees for sourcing loans with higher interest rates. Investors get access to higher-yielding loan products as long as default rates are not an issue. The core of this process is to distribute credit risk to multiple market participants. The securitization process is not transparent.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "securitization, credit risk, financial products",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"21": {
+  "question": {
+    "text": "In a single-factor economy, each of the following portfolios (A, B, and C) is well-diversified:",
+    "image": "/foundation_of_risk_management/21_table.png",
+    "Options": [
+      "A. 13.3%",
+      "B. 16.3%",
+      "C. 18.5%",
+      "D. 21.0%"
+    ]
+  },
+  "answer": "D",
+  "analysis": "All three portfolios must lie on the same SML such that Portfolio C’s Treynor ratio must be the same as the others. Treynor(Portfolio A) = (12.0% - 3.0%) / 0.60 = 0.15 Treynor(Portfolio B) = (15.0% - 3.0%) / 0.80 = 0.15 Treynor(Portfolio C) = (R - 3.0%) / 1.20 = 0.15 We can get R = 21%, which means the return must be 21.0%.",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "portfolio management, arbitrage, Treynor ratio",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"22": {
+  "question": {
+    "text": "Allen Richards sits on the board of directors of a Canadian financial institution. Richards read the following statements in a presentation made to the board of directors by management on the institution’s risk culture: Statement 1: “As long as managers at business-line levels have the same risk appetite as the overall firm, the risk tolerance of the business-line employees is irrelevant.” Statement 2: “Hiring a chief risk officer will fix the risk culture problems we face at this institution.” Richards believes both of these statements are incorrect. Richards’s assessment is accurate with respect to",
+    "image": "",
+    "Options": [
+      "A. statement 1 only.",
+      "B. statement 2 only.",
+      "C. both statements.",
+      "D. neither statement."
+    ]
+  },
+  "answer": "C",
+  "analysis": "Richards is correct with respect to both statements in that both statements are incorrect. Risk culture must infuse the entire organization, not simply business-line managers. Hiring a chief risk officer might signal a change in culture but will not 'fix' all the risk culture problems. It might be perceived as window dressing or rebranding, with no real changes occurring with respect to the risk appetite and risk tolerances of the firm.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk culture, risk management, corporate governance",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+},
+"23": {
+  "question": {
+    "text": "An arbitrage pricing model (APT) characterizes excess security returns as a linear function of two indexes, I(1) and I(2). In this way, a security's excess return in percentage terms, ER(i), is given by: ER(i) = R(i) - Rf = a + b(1) * I(1) + b(2) * I(2), where b(i) is the factor sensitivity to the index, I(i). We observe three securities that fit the APT model, as follows: Security 1: ER(1) = a + 2.0 * I(1) + 3.0 * I(2) = 8.0, Security 2: ER(2) = a + 4.0 * I(1) + 2.5 * I(2) = 3.5, Security 3: ER(3) = a + 1.0 * I(1) - 2.0 * I(2) = -5.5.",
+    "image": "/foundation_of_risk_management/23_table.png",
+    "Options": [
+      "A. ER(i) = 1.0 + 2.5 * b(1) + 3.0 * b(2)",
+      "B. ER(i) = 2.0 + 1.5 * b(1) + 3.0 * b(2)",
+      "C. ER(i) = 3.0 + 1.0 * b(1) + 0.5 * b(2)",
+      "D. ER(i) = 4.0 - 3.0 * b(1) - 1.0 * b(2)"
+    ]
+  },
+  "answer": "B",
+  "analysis": "We have three variables and three equations: $$a + 2.0 \\cdot I(1) + 3.0 \\cdot I(2) = 8.0$$ $$a + 4.0 \\cdot I(1) + 2.5 \\cdot I(2) = 3.5$$ $$a + 1.0 \\cdot I(1) - 2.0 \\cdot I(2) = -5.5$$ Solving these equations, we get: $$I(1) = 1.5, I(2) = 3, a = 2.$$ So the model is: $$ER(i) = 2.0 + 1.5 \\cdot b(1) + 3.0 \\cdot b(2).$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "APT model, factor sensitivity, linear equations",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"24": {
+  "question": {
+    "text": "Tail risk techniques are dealt by:",
+    "image": "",
+    "Options": [
+      "A. Extreme Value Theory.",
+      "B. VaR Theory.",
+      "C. Probably of Default Theory.",
+      "D. Standard deviation."
+    ]
+  },
+  "answer": "A",
+  "analysis": "Extreme Value Theory deals with tail risk.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "tail risk, extreme value theory, VaR",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"25": {
+  "question": {
+    "text": "Your colleague Robert uses a two-factor model in order to estimate the volatility of a portfolio. He specifies the covariance matrix as follows:",
+    "image": "/foundation_of_risk_management/25_table.png",
+    "Options": [
+      "A. 16.44%",
+      "B. 18.60%",
+      "C. 21.15%",
+      "D. 25.30%"
+    ]
+  },
+  "answer": "D",
+  "analysis": "The portfolio's standard deviation can be calculated as: $$\\sigma_p = \\sqrt{(0.6^2 \\times 0.09 + 0.25^2 \\times 0.16 + 2 \\times 0.6 \\times 0.25 \\times 0.072)} = 25.3\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "portfolio volatility, covariance matrix, two-factor model",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"26": {
+  "question": {
+    "text": "Peter Parker, FRM, is identifying risk factors for the construction of his multifactor APT model. His colleague Barbara gives him the following four pieces of advice. Each of the following is a good or reasonable statement about a multifactor APT model EXCEPT which is not?",
+    "image": "",
+    "Options": [
+      "A. He should restrict himself to a limited number of systematic factors with considerable ability to explain security returns.",
+      "B. He should choose factors that are likely to be important as major sources of uncertainty; i.e., factors that concern investors sufficiently that they will demand meaningful risk premiums to bear exposure to those sources of risk.",
+      "C. He should exclude factors that produce negative factor risk premiums as they lack narrative credibility.",
+      "D. The model may retain a firm-specific (non-systemic) component, like the single-index model, which has an expected value of zero."
+    ]
+  },
+  "answer": "C",
+  "analysis": "One difference between a single- and multiple-factor economy is that a factor risk premium can be negative. For example, a security with a positive interest rate beta performs better when rates increase, and thus would hedge the value of a portfolio against interest rate risk. Investors might well accept a lower rate of return, that is, a negative risk premium, as the cost of this hedging attribute.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "APT model, systematic factors, factor risk premiums",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"27": {
+  "question": {
+    "text": "Sally Smith, FRM, is considering a switch in the theoretical basis of her risk model from a simple single-factor capital asset pricing model (CAPM) to a multi-factor arbitrage pricing theory (APT) model. To her manager, she claims the following differences between the two models. Each of her statements below is correct EXCEPT which is not?",
+    "image": "",
+    "Options": [
+      "A. Compared to only one specific factor (i.e., market index) in the simple CAPM, the APT model will be able to recognize multiple systematic risk factors.",
+      "B. While the CAPM requires a mean-variance efficient market portfolio and assumes normally distributed returns, APT requires neither of these assumptions.",
+      "C. Although APT does not require several of the restrictive assumptions of the CAPM, it is largely silent on where to look for priced sources of risk.",
+      "D. In contrast to the simple CAPM, the APT cannot include the market index as a common factor, as it can be extended over multiple periods."
+    ]
+  },
+  "answer": "D",
+  "analysis": "Both components are false: APT can include the market portfolio as a common factor; and APT can be extended over multiple periods in regard to A, B and C, as true.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "CAPM vs APT, systematic factors, market index",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"28": {
+  "question": {
+    "text": "Firms commonly incentivize their management to increase the firm's value by granting managers securities tied to the firm's stock. Some securities, however, can reduce managerial incentives to manage risk within the firm. Which is likely the best example of this type of security?",
+    "image": "",
+    "Options": [
+      "A. Deep in-the-money call option on the firm’s stock.",
+      "B. At-the-money call option on the firm’s stock.",
+      "C. Deep out-of-the-money call option on the firm’s stock.",
+      "D. Long position in the firm’s stock."
+    ]
+  },
+  "answer": "C",
+  "analysis": "Deep out-of-the-money calls have no value unless the firm value increases substantially, so providing deep out-of-the-money calls as an incentive could cause managers to take substantially higher risks and perform less hedging.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "managerial incentives, call options, risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"29": {
+  "question": {
+    "text": "Krista Skujins, FRM, is the CFO of a manufacturing firm. She is currently in the process of diversifying the firm's investment portfolio by varying the correlations and asset classes among securities. Diversification is best characterized as which of the following risk treatments?",
+    "image": "",
+    "Options": [
+      "A. Risk avoidance",
+      "B. Risk transfer",
+      "C. Risk retention",
+      "D. Risk reduction"
+    ]
+  },
+  "answer": "D",
+  "analysis": "Diversification is a risk reduction technique.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk management, diversification, risk reduction",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"30": {
+  "question": {
+    "text": "Which of the following is TRUE about the relationship between the CAPM and the arbitrage pricing model (APT)?",
+    "image": "",
+    "Options": [
+      "A. CAPM assumes that the market is the only source of covariance between returns.",
+      "B. If we employ a procedure (e.g., Roll and Ross) and identify more than one common factor, we can logically reject the CAPM.",
+      "C. Similar to the CAPM, in order to test the APT we need to identify a 'Market Portfolio' of all risky assets.",
+      "D. The APT solution with multiple factors appropriately priced is fully consistent with the form of the CAPM."
+    ]
+  },
+  "answer": "D",
+  "analysis": "The simplest case in which an APT model is consistent with the simple form of the CAPM is the case where the return-generating function is of the form: R(i) = alpha(i) + beta(i) * R + e(i). The APT solution with multiple factors appropriately priced is fully consistent with the form of the CAPM. We wish to stress this point. Employing the Roll and Ross procedure and finding that more than one common factor is significantly different from zero is not sufficient proof to reject any CAPM.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "CAPM, APT model, factor pricing",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"31": {
+  "question": {
+    "text": "In regard to limits policies, optimal risk governance requires the ability to link risk appetite and limits to specific business practices. Accordingly, appropriate limits need to be developed for each business as well as for the specific risks associated with the business (as well as for the entire portfolio of the enterprise). Most institutions set two types of limits, tier I and tier II limits. About these limits, which of the following is TRUE?",
+    "image": "",
+    "Options": [
+      "A. Firms should choose and either adopt tier I or tier II limits but not both simultaneously.",
+      "B. Tier I limit exceedances must be cleared or corrected immediately, while tier II exceedances are less urgent and can be cleared within a few days or a week.",
+      "C. Tier II limits are specific and often include an overall limit by asset class, an overall stress-test limit, and a maximum drawdown limit.",
+      "D. Tier I limits are more generalized and relate to areas of business activity as well as aggregated exposures categorized by credit rating, industry, maturity, region, and so on."
+    ]
+  },
+  "answer": "B",
+  "analysis": "Tier I limit exceedances must be cleared or corrected immediately, while tier II exceedances are less urgent and can be cleared within a few days or a week. Most institutions set two types of limits. Tier I limits are specific and often include an overall limit by asset class, an overall stress-test limit, and a maximum drawdown limit. Tier II limits are more generalized and relate to areas of business activity as well as aggregated exposures categorized by credit rating, industry, maturity, region, and so on.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk governance, tier I limits, tier II limits",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"32": {
+  "question": {
+    "text": "Jennifer Durant is evaluating the existing risk management system of Silverman Asset Management. She is asked to match the following events to the corresponding type of risk. Identify each numbered event as a market risk, credit risk, operational risk, or legal risk event.\nEvent 1: Insufficient training leads to misuse of order management system.\nEvent 2: Credit spreads widen following recent bankruptcies.\nEvent 3: Option writer does not have the resources required to honor a contract.\nEvent 4: Credit swaps with counterparty cannot be netted because they originated in multiple jurisdictions.",
+    "image": "",
+    "Options": [
+      "A. 1: legal risk, 2: credit risk, 3: operational risk, 4: credit risk",
+      "B. 1: operational risk, 2: credit risk, 3: operational risk, 4: legal risk",
+      "C. 1: operational risk, 2: market risk, 3: credit risk, 4: legal risk",
+      "D. 1: operational risk, 2: market risk, 3: operational risk, 4: legal risk"
+    ]
+  },
+  "answer": "C",
+  "analysis": "Insufficient training leads to misuse of order management system is an example of operational risk. Widening of credit spreads represents an increase in market risk. An option writer not honoring the obligation in a contract is a credit risk event. When a contract is originated in multiple jurisdictions leading to problems with enforceability, there is legal risk.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "market risk, credit risk, operational risk, legal risk",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"33": {
+  "question": {
+    "text": "Generally speaking, if the reward is high, the risk:",
+    "image": "",
+    "Options": [
+      "A. is low.",
+      "B. is high.",
+      "C. is constant.",
+      "D. cannot be determined."
+    ]
+  },
+  "answer": "B",
+  "analysis": "If the reward is high, the risk is high too.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk-reward relationship",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"34": {
+  "question": {
+    "text": "Two industry classifications: expected excess return is 8.0% for the chemical industry and 6.0% for all other industries. The factor forecasts are (top row): 2.0% for Growth, 2.5% for Bond, -1.5% for Size, and 0.0% for ROE. The CAPM excess market return is 6.0%. What is the APT forecast for AT&T?",
+    "image": "/foundation_of_risk_management/34_table.png",
+    "Options": [
+      "A. 4.80%",
+      "B. 5.35%",
+      "C. 6.00%",
+      "D. 6.25%"
+    ]
+  },
+  "answer": "B",
+  "analysis": "We can calculate the industry's contribution as: $$6\\% \\text{ industry} + (-0.20 \\times 2.0\\%) + (0.80 \\times 2.5\\%) + (1.5 \\times -1.5\\%) + (-0.60 \\times 0\\%) = 5.35\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "APT model, factor pricing, standardized exposures",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"35": {
+  "question": {
+    "text": "According to GARP, 'a recent trend among corporations is to use a board-approved risk appetite to guide management (and potentially) to inform investors.' Which of the following statements is TRUE about the firm’s risk appetite?",
+    "image": "",
+    "Options": [
+      "A. Risk appetite is the total amount of risk a firm can bear without becoming insolvent.",
+      "B. In practice, the risk appetite should be focused on a single thing: one broad, durable philosophical statement that avoids linkages to the firm’s day-to-day risk management operations because these are bound to change.",
+      "C. Although risk appetite has an upper bound (an upper trigger), it is similar to a one-sided confidence interval: there is no such thing as a lower bound (a lower trigger) for risk appetite given that less risk is better.",
+      "D. A risk appetite includes the mechanisms (e.g., detailed policy, business-specific risk statements, and a framework for risk limits) that link a top-level statement to the firm's day-to-day risk management operations."
+    ]
+  },
+  "answer": "D",
+  "analysis": "In regard to A, B and C, each is FALSE. Risk capacity is the total amount of risk a firm can bear without becoming insolvent. In practice, the risk appetite is two things, a top-level statement and the sum of the mechanisms linking this statement to the firm’s day-to-day operations. Risk appetite is bounded on the upside (below risk capacity) but also has a lower bound: the firm does not aspire to be risk-free.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk appetite, risk management, risk limits",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"36": {
+  "question": {
+    "text": "Suppose an analyst examines expected return for the Broad Band Company (BBC) based on a 2-factor model. Initially, the expected return for BBC equals 10%. The analyst identifies GDP and 10-year interest rates as the two factors for the factor model. Assume the following data is used:\n- GDP growth consensus forecast = 6%\n- Interest rate consensus forecast = 3%\n- GDP factor beta for BBC = 1.5\n- Interest rate factor beta for BBC = -1.0\nSuppose GDP ends up growing 5% and the 10-year interest rate ends up equaling 4%. Also assume that during the period, the Broad Band Company unexpectedly experiences a shortage of key inputs, causing its revenues to be less than originally expected. Consequently, the firm-specific return is -2% during the period. Using the 2-factor model with the revised data, which of the following expected returns for BBC is correct?",
+    "image": "",
+    "Options": [
+      "A. 1.5%",
+      "B. 3.5%",
+      "C. 5.5%",
+      "D. 6.5%"
+    ]
+  },
+  "answer": "C",
+  "analysis": "The calculation process is shown as follows: $$R_{BBC} = E(R_{BBC}) + \\beta_{BBC,GDP} F_{GDP} + \\beta_{BBC,IR} F_{IR} + e_{BBC}$$ $$R_{BBC} = 0.10 + 1.5(-0.01) - 1(0.01) - 0.02 = 0.055 = 5.5\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "factor model, GDP growth, interest rate, expected return",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"37": {
+  "question": {
+    "text": "Two industry classifications: expected excess return is 8.0% for the chemical industry and 6.0% for all other industries. The factor forecasts are (top row): 2.0% for Growth, 2.5% for Bond, -1.5% for Size, and 0.0% for ROE. The CAPM excess market return is 6.0%. What is the CAPM forecast for AT&T?",
+    "image": "/foundation_of_risk_management/37_table.png",
+    "Options": [
+      "A. 4.80%",
+      "B. 5.35%",
+      "C. 6.00%",
+      "D. 6.25%"
+    ]
+  },
+  "answer": "A",
+  "analysis": "$$0.8 \\text{ beta} \\times 6.0\\% \\text{ ERP} = 4.80\\% \\text{ excess return}$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "CAPM model, expected return, factor forecasts",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"40": {
+  "question": {
+    "text": "To hedge risk, the firm's toolbox includes derivatives such as swaps, futures, forwards, and options. About the use of derivatives to hedge, each of the following is true EXCEPT which is inaccurate?",
+    "image": "",
+    "Options": [
+      "A. Derivatives represent a decision to transfer (or mitigate) the risk when the firm either wants to retain or avoid the risk.",
+      "B. Because hedging can only mute the volatility of accrual-based earnings, hedging cannot increase (or even alter) the firm's cash flows and therefore cannot influence agency risks.",
+      "C. A large conglomerate (i.e., a firm with multiple business units operating in different industries/sectors) is more likely to create natural hedges than a small, focused firm.",
+      "D. Airlines can cross-hedge the cost of jet fuel with futures contracts on (crude or heating) oil, but if the commodity's price drops rapidly, unhedged airlines are likely to outperform their hedged competitors."
+    ]
+  },
+  "answer": "B",
+  "analysis": "Hedging can make sense for investors if it is used as a tool to increase the firm's cash flows (rather than to reduce equity investor risk). For example, firms may need to offer their customers a stable price over the next three years, which may be impossible without hedging a key cost input. If hedging like this increases customer demand, then equity investors are happy.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "hedging, derivatives, risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+
+"41": {
+  "question": {
+    "text": "There are many reasons why risk management increases shareholder wealth. Which of the following risk management policies is least likely to increase shareholder wealth?",
+    "image": "",
+    "Options": [
+      "A. Hedging strategies to lower the probability of financial distress and bankruptcy.",
+      "B. Risk management policies designed to reduce the probability of debt overhang.",
+      "C. Well-designed compensation structure for managers that sets incentives for managers to take appropriate risks.",
+      "D. Risk management policies to eliminate projects with high volatility."
+    ]
+  },
+  "answer": "D",
+  "analysis": "The first three are examples of where risk management can increase firm value. The last one is invalid because eliminating projects with high volatility may eliminate projects with extremely high payoffs.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk management, shareholder wealth, volatility",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"42": {
+  "question": {
+    "text": "The involvement of the board of directors is important within the context of a firm’s decision to hedge specific risk factors. Which of the following statements regarding the setting of risk appetite is correct?\nI. Risk appetite may be conveyed strictly in a qualitative manner.\nII. Debtholders and shareholders are both likely to desire minimizing the firm’s risk appetite.",
+    "image": "",
+    "Options": [
+      "A. I only.",
+      "B. II only.",
+      "C. Both I and II.",
+      "D. Neither I nor II."
+    ]
+  },
+  "answer": "A",
+  "analysis": "Risk appetite may be conveyed in a qualitative and/or quantitative manner, therefore, qualitative alone may be acceptable.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk appetite, hedging, board of directors",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"43": {
+  "question": {
+    "text": "A big part of a risk manager’s job is to identify her firm’s risk factors. Each of the following statements about risk factors is true EXCEPT which is false?",
+    "image": "",
+    "Options": [
+      "A. Two examples of primary risk factors include the return on a broad stock market index and the risk-free spot interest rate.",
+      "B. For any risk factors that are represented by categorical or discrete variables, the risk manager should seek to replace them with either interval, ratio, or continuous risk factor variables.",
+      "C. One of the risk manager’s key activities is to deconstruct primitive risk factors into the important loss drivers, the relationship of those loss drivers with each other, and the wider business environment.",
+      "D. Machine learning, as a subset of artificial intelligence, holds the potential to help risk managers identify the 'unknown unknowns'."
+    ]
+  },
+  "answer": "B",
+  "analysis": "Instead, many risk factors are characterized by categorical or discrete variables. In terms of option D, GARP writes, 'Across the risk industries, massive computing power can now help risk managers spot patterns and relationships in data more quickly. Unsupervised machine learning can help the risk manager identify the unknown unknowns through identifying clusters and correlations without specifying the area of interest in advance.'",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk factors, machine learning, artificial intelligence",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"44": {
+  "question": {
+    "text": "A key but new (recent) mechanism for risk governance is the risk advisory director. Which of the following BEST summarizes the function of a risk advisor director?",
+    "image": "",
+    "Options": [
+      "A. To ensure the accuracy of the bank’s financial and regulatory reporting, and the bank’s compliance with minimum or best-practice standards in other key activities; e.g., regulatory, legal, compliance, and risk management activities.",
+      "B. To improve the overall efficiency and effectiveness of the senior risk committees and the audit committee, as well as the independence and quality of risk oversight by the main board.",
+      "C. To be responsible for independently reviewing the identification, measurement, monitoring, and controlling of credit, market, and liquidity risks, including the adequacy of policy guidelines and systems.",
+      "D. To design and implement the incentive pay and compensation schemes for executives and staff."
+    ]
+  },
+  "answer": "B",
+  "analysis": "Not all board members will have the skills to determine the financial condition of a complex risk-taking corporation such as a bank (or an insurance company, or an energy company). This is especially likely if the selection of non-executives on the board is designed to include non-executives who come from outside the firm’s industry and are truly independent of the corporation. One approach is for the board to gain the support of a specialist risk advisory director—that is, a member of the board (not necessarily a voting member) who specializes in risk matters.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk governance, risk advisory director, board of directors",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"45": {
+  "question": {
+    "text": "John Diamond is evaluating the existing risk management system of Rome Asset Management and identified the following two risks. I. Rome Asset Management’s derivative pricing model consistently undervalues call options. II. Swaps with counterparties exceed counterparty credit limit. These two risks are most likely to be classified as:",
+    "image": "",
+    "Options": [
+      "A. Market risk",
+      "B. Credit risk",
+      "C. Liquidity risk",
+      "D. Operational risk"
+    ]
+  },
+  "answer": "D",
+  "analysis": "I is a model failure and II is an internal operational failure. These are types of operational risks.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "operational risk, model failure, internal failure",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"48": {
+  "question": {
+    "text": "Two industry classifications: expected excess return is 8.0% for the chemical industry and 6.0% for all other industries. The factor forecasts are (top row): 2.0% for Growth, 2.5% for Bond, -1.5% for Size, and 0.0% for ROE. The CAPM excess market return is 6.0%. What is the APT forecast for Dow?",
+    "image": "/foundation_of_risk_management/48_table.png",
+    "Options": [
+      "A. 3.80%",
+      "B. 4.60%",
+      "C. 6.60%",
+      "D. 7.40%"
+    ]
+  },
+  "answer": "A",
+  "analysis": "$$8\\% \\text{industry} + (-0.60 \\times 2.0\\%) + (-0.90 \\times 2.5\\%) + (0.5 \\times -1.5\\%) + (0.20 \\times 0\\%) = 3.80\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "APT model, factor pricing, standardized exposures",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"49": {
+  "question": {
+    "text": "Which of the following is TRUE about the bank’s audit function?",
+    "image": "",
+    "Options": [
+      "A. Internal audit is necessary because it is virtually impossible to rate (i.e., assign ratings to) the risk management function.",
+      "B. The firm’s operational risk management should report directly to the internal audit function.",
+      "C. Internal auditors are responsible for reviewing monitoring procedures, tracking the progress of risk management system upgrades, and affirming the efficacy of vetting processes.",
+      "D. The assistance of internal audit should not be required to the risk governance function: a properly designed risk governance function should be able to ascertain compliance alone."
+    ]
+  },
+  "answer": "C",
+  "analysis": "In regard to A, GARP recommends rating risk management practices: A risk management function can be rated. This rating may be used internally or by third parties. In regard to B, risk management must be independent, even from internal audit. In regard to D, internal audit is an essential complement to risk management.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "audit function, risk management, internal audit",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"50": {
+  "question": {
+    "text": "Which of the following statements regarding the role of the firm’s audit committee is most accurate?",
+    "image": "",
+    "Options": [
+      "A. The audit committee is meant to work dependently with management.",
+      "B. The audit committee may consist of some members of the management team.",
+      "C. The audit committee is only responsible for the accuracy of the financial statements.",
+      "D. At least one member of the audit committee must possess sufficient financial knowledge."
+    ]
+  },
+  "answer": "D",
+  "analysis": "The audit committee consists primarily of non-management members but there may be some management members (e.g., chief financial officer). At least one member must possess financial knowledge and expertise.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "audit committee, financial knowledge, management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"51": {
+  "question": {
+    "text": "Assume two portfolios, (A) and (B), are each well-diversified and the economy has only one factor. The expected return of portfolio (A) is 8.0% and its beta is 1.30. The expected return of portfolio (B) is 6.0% and its beta is 0.90. What is the implied risk-free rate?",
+    "image": "",
+    "Options": [
+      "A. 1.50%",
+      "B. 2.25%",
+      "C. 3.00%",
+      "D. 5.75%"
+    ]
+  },
+  "answer": "A",
+  "analysis": "Given two equations and two unknowns: $$8.0\\% = R(f) + (1.30 \\cdot RP)$$ $$6.0\\% = R(f) + (0.90 \\cdot RP)$$ Solving these equations, we get: $$R(f) = 1.50\\%$$ $$RP = 5.0\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "expected return, CAPM, risk-free rate",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"52": {
+  "question": {
+    "text": "Suppose that there are two independent economic factors, F1 and F2. The risk-free rate is 1.0%, and all stocks have independent firm-specific components with a standard deviation of 25%. The following are well-diversified portfolios; e.g., Portfolio (A) has a beta sensitivity to factor the first factor, β(F1), of 1.20 and an expected return of 13.0%.",
+    "image": "/foundation_of_risk_management/52_table.png",
+    "Options": [
+      "A. E[R(P)] = 1.0% + β(F1) × 6.0% − β(F2) × 4.0%",
+      "B. E[R(P)] = 1.0% + β(F1) × 5.0% + β(F2) × 2.0%",
+      "C. E[R(P)] = 1.0% + β(F1) × 9.0% + β(F2) × 3.0%",
+      "D. E[R(P)] = 1.0% + β(F1) × 12.0% + β(F2) × 8.0%"
+    ]
+  },
+  "answer": "D",
+  "analysis": "We need to solve for two equations with two unknowns: $$0.13 = 0.01 + 1.20 \\cdot RP(1) - 0.30 \\cdot RP(2)$$ $$0.05 = 0.01 + 0.60 \\cdot RP(1) - 0.40 \\cdot RP(2)$$ Solving the equations, we get: $$RP(1) = 0.12, \\quad RP(2) = 0.08$$ So the answer is: $$E[R(P)] = 1.0\\% + \\beta(F1) \\cdot 12.0\\% + \\beta(F2) \\cdot 8.0\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "multi-factor model, beta sensitivity, expected return",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"53": {
+  "question": {
+    "text": "Consider the following multi-factor (APT) model of security returns for a particular stock, along with actual-versus-expected rates of change in the three macro factors: If we include the 'surprises' in the macro factors, what is the expected rate of return for the stock?",
+    "image": "/foundation_of_risk_management/53_table.png",
+    "Options": [
+      "A. 5.30%",
+      "B. 7.30%",
+      "C. 8.40%",
+      "D. 9.90%"
+    ]
+  },
+  "answer": "C",
+  "analysis": "The expected return on this stock (if the market views the stock as fairly priced) is given by: $$E(r) = 2.0\\% + 1.20 \\cdot 2.0\\% + 0.50 \\cdot 4.0\\% + 0.30 \\cdot 3.0\\% = 7.30\\%$$ The expected return due to surprises in the macroeconomic factors is given by: $$(4.0\\% - 3.0\\%) \\cdot 1.20 + (5.0\\% - 4.0\\%) \\cdot 0.50 + (0.0\\% - 2.0\\%) \\cdot 0.30 = 1.20\\% + 0.50\\% - 0.60\\% = +1.10\\%$$ Revised expected return = 7.30\\% + 1.10\\% = 8.40\\%",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "APT model, expected return, macro factors",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"54": {
+  "question": {
+    "text": "Consider below the multifactor (APT) model of security returns for a particular stock. In addition to factor betas and risk premiums, two of the factors experience 'surprises.' Specifically, while interest rates change as expected, actual inflation is +2.0% (compared to expected +1.0%) and actual GDP growth is +1.5% (compared to expected +0.5%):",
+    "image": "/foundation_of_risk_management/54_table.png",
+    "Options": [
+      "A. 6.8%",
+      "B. 7.2%",
+      "C. 9.10%",
+      "D. 11.5%"
+    ]
+  },
+  "answer": "C",
+  "analysis": "The expected return is calculated as: $$E(r) = 2.0\\% + 0.80 \\cdot 2.0\\% - 0.50 \\cdot 1.0\\% + 1.30 \\cdot 3.0\\% = 7.00\\%$$ The unexpected return is: $$0.80 \\cdot (2.0\\% - 1.0\\%) - 0.50 \\cdot (1.0\\% - 1.0\\%) + 1.30 \\cdot (1.5\\% - 0.5\\%)$$ $$= 0.80\\% + 1.30\\% = 2.10\\%$$ The revised expected return is: $$7.00\\% + 2.10\\% = 9.10\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "APT model, expected return, factor surprises",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"55": {
+  "question": {
+    "text": "A growing regional bank has added a risk committee to its board. One of the first recommendations of the risk committee is that the bank should develop a risk appetite statement. What best represents a primary function of a risk appetite statement?",
+    "image": "",
+    "Options": [
+      "A. To quantify the level of variability for each risk metric that a firm is willing to accept.",
+      "B. To state specific new business opportunities that a firm is willing to pursue.",
+      "C. To assign risk management responsibilities to specific internal staff members.",
+      "D. To state a broad level of acceptable risk to guide the allocation of the firm’s resources."
+    ]
+  },
+  "answer": "D",
+  "analysis": "A risk appetite statement states a broad level of risk across the organization the firm is willing to accept in order to pursue value creation. The statement is typically broadly articulated and can be communicated across the organization, and helps to allocate resources to specific objectives at the firm.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "risk appetite statement, risk management",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"56": {
+  "question": {
+    "text": "Two industry classifications: expected excess return is 8.0% for the chemical industry and 6.0% for all other industries. The factor forecasts are (top row): 2.0% for Growth, 2.5% for Bond, -1.5% for Size, and 0.0% for ROE. The CAPM excess market return is 6.0%. What is the CAPM forecast for Dow?",
+    "image": "/foundation_of_risk_management/56_table.png",
+    "Options": [
+      "A. 3.80%",
+      "B. 4.60%",
+      "C. 6.60%",
+      "D. 7.40%"
+    ]
+  },
+  "answer": "C",
+  "analysis": "The CAPM forecast for Dow is calculated as: $$ 1.1 \\beta \\cdot 6.0\\% = 6.60\\% excess return.$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "CAPM, excess return, industry forecast",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"57": {
+  "question": {
+    "text": "Which of the following is least likely to be one of the inputs to a multifactor model?",
+    "image": "",
+    "Options": [
+      "A. The mean-variance efficient market portfolio",
+      "B. Factor betas",
+      "C. Deviation of factor values from their expected values",
+      "D. Firm-specific returns"
+    ]
+  },
+  "answer": "A",
+  "analysis": "The mean-variance efficient market portfolio is essential to the capital asset pricing model, but is not required in multifactor models.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "multifactor model, inputs, market portfolio",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"58": {
+  "question": {
+    "text": "An investor believes there are three important factors that determine the expected return for a common stock. The investor uses the following factor betas and factor risk premiums. If the risk-free rate is 3%, what is the expected return for this stock using the arbitrage pricing theory (APT) model?",
+    "image": "/foundation_of_risk_management/58_table.png",
+    "Options": [
+      "A. 5.35%",
+      "B. 8.35%",
+      "C. 9.50%",
+      "D. 10.37%"
+    ]
+  },
+  "answer": "B",
+  "analysis": "$$E(R) = 0.03 + 0.7\\cdot(0.015) + 1.2\\cdot(0.04) - 0.1\\cdot(0.05)\nE(R) = 0.03 + 0.0105 + 0.048 - 0.005 = 0.0835\\text{ or }8.35\\%.$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "APT model, factor beta, expected return",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"59": {
+  "question": {
+    "text": "On a graph of risk, measured by standard deviation, and expected return, the efficient frontier represents:",
+    "image": "",
+    "Options": [
+      "A. all portfolios plotted in the northeast quadrant that maximize return.",
+      "B. the set of portfolios that dominate all others as to risk and return.",
+      "C. all portfolios plotted to the left of the graph that maximize either risk or return.",
+      "D. the group of portfolios that have extreme values and therefore are efficient in their allocation."
+    ]
+  },
+  "answer": "B",
+  "analysis": "The efficient set is the set of portfolios that dominate all other portfolios as to risk and return. That is, they have highest expected return at each level of risk.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "efficient frontier, risk, return",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"60": {
+  "question": {
+    "text": "While the risk-free rate was 4.0%, a portfolio’s realized a return of 14.0% exactly matched the return of its benchmark, the market index, which also returned 14.0%. The portfolio’s covariance (of returns) with the market index was 0.01440 and the market’s volatility was 20.0%. What was the Jensen’s alpha of the portfolio?",
+    "image": "",
+    "Options": [
+      "A. -1.6%",
+      "B. Zero",
+      "C. 3.2%",
+      "D. 6.4%"
+    ]
+  },
+  "answer": "D",
+  "analysis": "$$Beta(P, M) = \\frac{\\text{Cov(P,M)}}{\\text{Var(M)}} = \\frac{0.01440}{0.20^2} = 0.36. \\text{Jensen’s alpha} = 14\\% - 4\\% - 0.36\\cdot(14\\%-4\\%) = 6.4\\%.$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "Jensen’s alpha, portfolio return, covariance",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"61": {
+  "question": {
+    "text": "A portfolio to the right of the market portfolio on the capital market line (CML) is created by:",
+    "image": "",
+    "Options": [
+      "A. holding more than 100% of the risky asset.",
+      "B. fully diversifying.",
+      "C. buying the risk-free asset.",
+      "D. holding both the risk-free asset and the market portfolio."
+    ]
+  },
+  "answer": "A",
+  "analysis": "Portfolios that lie to the right of the market portfolio on the capital market line are created by borrowing funds to own more than 100\\% of the market portfolio (M). Both the statement, 'holding both the risk-free asset and the market portfolio' and 'buying the risk-free asset' refer to portfolios that lie to the left of the market portfolio.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "CML, market portfolio, risky asset",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"62": {
+  "question": {
+    "text": "Suppose the S&P 500 has an expected annual return of 7.6% and volatility of 10.8%. Suppose the Atlantis Fund has an expected annual return of 8.3% and volatility of 8.8% and is benchmarked against the S&P 500. If the risk-free rate is 2.0% per year, what is the beta of the Atlantis Fund according to the Capital Asset Pricing Model?",
+    "image": "",
+    "Options": [
+      "A. 0.81",
+      "B. 0.89",
+      "C. 1.13",
+      "D. 1.23"
+    ]
+  },
+  "answer": "C",
+  "analysis": "Since the correlation or covariance between the Atlantis Fund and the S&P 500 is not known, CAPM must be used to back out the beta: $$\\overline{R_i} = R_f + \\beta_i \\times (\\overline{R_M} - R_f)$$ $$8.3\\% = 2.0\\% + \\beta_i \\times (7.6\\% - 2.0\\%)$$ Solving for $$\\beta_i$$: $$\\beta_i = \\frac{8.3\\% - 2.0\\%}{7.6\\% - 2.0\\%} = 1.13$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "CAPM, beta, expected return",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"63": {
+  "question": {
+    "text": "A portfolio contains only two assets. The first asset (a) has volatility of 9.0% and the second asset (b) has volatility of 16.0%. If the assets are uncorrelated, what is nearest to the weight in the first asset (a) in the minimum variance portfolio?",
+    "image": "/foundation of risk management/63_image.png",
+    "Options": [
+      "A. 43.75%",
+      "B. 56.25%",
+      "C. 75.90%",
+      "D. 100.0%"
+    ]
+  },
+  "answer": "C",
+  "analysis": "As the assets are uncorrelated, the portfolio variance is given by: $$\\sigma_P^2 = W_A^2 \\sigma_A^2 + W_B^2 \\sigma_B^2 = 0.09^2 W_A^2 + 0.16^2 (1 - W_A)^2$$ $$= 0.0337 W_A^2 - 0.0512 W_A + 0.0256$$ When $$W_A = \\frac{-0.0512}{2 \\times 0.0337} = 0.759644$$, $$\\sigma_P^2$$ will be the minimum.",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "minimum variance portfolio, volatility",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+}
+,
+"65": {
+  "question": {
+    "text": "XYZ Inc. has a beta of 1.15. If the expected return on the market is 12 percent, and the risk-free rate is 6 percent, what is the expected return for XYZ?",
+    "Options": [
+      "A. 10.15%",
+      "B. 12.90%",
+      "C. 11.69%",
+      "D. 14.00%"
+    ],
+    "image":"/foundation of risk management/65_image.png"
+  },
+  "answer": "B",
+"analysis": "The expected return is calculated using CAPM as: $$E(R_p) = R_f + \\beta (E(R_m) - R_f)$$ $$E(R_p) = 6\\% + 1.15 \\times (12\\% - 6\\%) = 12.9\\%$$",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "expected return, CAPM",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"66": {
+  "question": {
+    "text": "The ST Fund is a mutual fund that is benchmarked to the S&P 500 index. It contains equally weighted holdings of 10 stocks from the index, with an average annual portfolio return of 11% and a volatility of returns of 16%. Over the same time period, the average annual return on the S&P 500 has been 12%, with a volatility of returns of 9%. The annual risk-free rate is 3%. ST Fund’s portfolio manager is planning to diversify the fund by increasing its holdings to 100 stocks in the S&P 500, all equally weighted. Because of this change, ST Fund’s Sharpe ratio will most likely:",
+    "image": "/foundation of risk management/66_image.png",
+    "Options": [
+      "A. Decrease toward 0",
+      "B. Decrease toward 1",
+      "C. Increase toward 1",
+      "D. Increase above 1"
+    ]
+  },
+  "answer": "C",
+  "analysis": "The Sharpe ratio of ST Fund is: $$\\frac{11\\% - 3\\%}{16\\%} = 0.5$$ The Sharpe ratio of S&P 500 is: $$\\frac{12\\% - 3\\%}{9\\%} = 1$$ When ST Fund's portfolio manager is planning to diversify the fund by increasing its holdings to 100 stocks in the S&P 500, the ST Fund's Sharpe ratio will most likely increase to the Sharpe ratio of the S&P 500.",
+  "QA type": "math reasoning QA",
+  "knowledge topics": "Sharpe ratio, diversification",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text+image"
+},
+"67": {
+  "question": {
+            "text": "Which of the following statements about a stock’s beta is TRUE? A beta greater than one is:",
+          "image": "/foundation of risk management/66_image.png",
+            "Options": [
+                    "A. risky, while a beta less than one is risk-free.",
+                    "B. is riskier than the market, while a beta less than one is less risky than the market.",
+      "C. overvalued, while a beta less than one is undervalued.",
+      "D. undervalued, while a beta less than one is overvalued."
+    ]
+  },
+  "answer": "B",
+  "analysis": "Beta is a measure of the volatility of a stock. The overall market’s beta is one. A stock with higher systematic risk than the market will have a beta greater than one, while a stock that has a lower systematic risk will have a beta less than one.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "beta, market risk",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"68": {
+  "question": {
+    "text": "Assume the following information for stocks A and B. Standard deviation of returns on Stock A = 40%. Standard deviation of returns on Stock B = 50%. Expected return on Stock A = 18%. Expected return on Stock B = 23%. Correlation between returns of Stock A and Stock B = 0.10. The expected return and standard deviation of an equally weighted portfolio of stocks A and B are closest to:",
+     "image": "",
+    "Options": [
+      "A. Expected return 20.5%; Standard deviation 33.54%",
+      "B. Expected return 20.5%; Standard deviation 11.22%",
+      "C. Expected return 33.5%; Standard deviation 11.22%",
+      "D. Expected return 33.5%; Standard deviation 33.54%"
+    ]
+  },
+  "answer": "A",
+  "analysis": "The expected return of the portfolio is calculated as: $$E(R_P) = \\omega_A E(R_A) + \\omega_B E(R_B) = 0.50 \\times 0.18 + 0.50 \\times 0.23 = 20.5\\%$$ The portfolio standard deviation is calculated as: $$\\sigma_P = \\sqrt{(\\omega_A^2 \\sigma_A^2 + \\omega_B^2 \\sigma_B^2 + 2 \\omega_A \\omega_B \\rho_{AB} \\sigma_A \\sigma_B)}$$ $$= \\sqrt{(0.5^2 \\times 0.4^2 + 0.5^2 \\times 0.5^2 + 2 \\times 0.5 \\times 0.5 \\times 0.1 \\times 0.4 \\times 0.5)}$$ $$= 33.54\\%$$",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "portfolio, expected return, standard deviation",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+"69": {
+  "question": {
+    "text": "The market portfolio in Capital Market Theory is determined by:",
+    "image": "",
+    "Options": [
+      "A. A line tangent to the efficient frontier, drawn from any point on the expected return axis.",
+      "B. A straight line drawn to any efficient portfolio.",
+      "C. A line tangent to the efficient frontier, drawn from the risk-free rate of return.",
+      "D. The intersection of the efficient frontier and the investor's highest utility curve."
+    ]
+  },
+  "answer": "C",
+  "analysis": "\\text{The Capital Market Line is a straight line drawn from the risk-free rate of return (on the Y axis) through the market portfolio. The market portfolio is determined as where that straight line is exactly tangent to the efficient frontier. 市场投资组合是确定为其与效率前沿曲线相切的位置。}",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "market portfolio",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+
+},
+"70": {
+  "question": {
+    "text": "The intercept and slope of the capital market line are:",
+    "image": "",
+    "Options": [
+      "A. RM and [E(RP) − RF] / σM, respectively.",
+      "B. RF and [E(RP) − RF] / σM, respectively.",
+      "C. RM and [E(RP) − RF] / σM, respectively.",
+      "D. RF and [E(RM) − RF] / σM, respectively."
+    ]
+  },
+  "answer": "D",
+  "analysis": "The quotation of the CML is: $$E(R_p) = R_f + \\left[ \\frac{E(R_M) - R_f}{\\sigma_M} \\right] \\sigma_p$$ Thus, the intercept is $$R_f$$ and the slope is $$\\frac{E(R_M) - R_f}{\\sigma_M}$$.",
+  "QA type": "knowledge reasoning QA",
+  "knowledge topics": "capital market line",
+  "book label": "foundation of risk management",
+  "level of difficulty": "easy",
+  "question type": "text only"
+}
+,
+  "71": {
+    "question": {
+      "text": "An analyst at CAPM Research Inc. is projecting a return of 21% on portfolio A. The market risk premium is 11%, the volatility of the market portfolio is 14%, and the risk-free rate is 4.5%. Portfolio A has a beta of 1.5. According to the capital asset pricing model, which of the following statements is true?",
+      "image": "",
+      "Options": [
+        "A. The expected return of portfolio A is greater than the expected return of the market portfolio.",
+        "B. The expected return of portfolio A is less than the expected return of the market portfolio.",
+        "C. The return of Portfolio A has lower volatility than the market portfolio.",
+        "D. The expected return of portfolio A is equal to the expected return of the market portfolio."
+      ]
+    },
+    "answer": "A",
+    "analysis": "According to the CAPM, the required return of Portfolio A is: $$R_f + \\beta \\left[ E(R_M) - R_f \\right] = 4.5\\% + 1.5 \\times 11\\% = 21\\%$$ While the expected return on the market is: market risk = premium $$R_f = 11\\% + 4.5\\% = 15.5\\%$$ Therefore, the expected return of portfolio A is greater than the expected return of the market portfolio."
+,
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, portfolio return",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "72": {
+    "question": {
+      "text": "Given the following data, what is the correlation coefficient between the two stocks and the Beta of stock A? Standard deviation of returns of Stock A is 10.04%, Standard deviation of returns of Stock B is 2.05%, Standard deviation of the market is 3.01%. Covariance between the two stocks is 0.00109. Covariance between the market and stock A is 0.002.",
+      "image": "",
+      "Options": [
+        "A. Correlation Coefficient: 0.5296 Beta (stock A): 0.06",
+        "B. Correlation Coefficient: 0.6556 Beta (stock A): 2.21",
+        "C. Correlation Coefficient: 0.5296 Beta (stock A): 2.21",
+        "D. Correlation Coefficient: 0.6556 Beta (stock A): 0.06"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The correlation coefficient $$\\rho$$ is calculated as: $$\\rho = \\frac{\\text{Cov}(A, B)}{\\sigma_A \\sigma_B} = \\frac{0.00109}{10.04\\% \\times 2.05\\%} = 0.5296$$ The beta of asset A is calculated as: $$\\beta_A = \\frac{\\text{Cov}(A, M)}{\\sigma_M^2} = \\frac{0.002}{3.01\\%^2} = 2.21$$"
+,
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "correlation coefficient, beta",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "73": {
+    "question": {
+      "text": "Assume the expected return on stocks is 18% (represented by Z in the figure), and the expected return on bonds is 8% (represented by point Y on the graph). The graph shows the portfolio possibilities curve for stocks and bonds. The point on the graph that most likely represents a 90% allocation in stocks and a 10% allocation in bonds is portfolio:",
+      "image": "",
+      "Options": [
+        "A. W",
+        "B. X",
+        "C. Y",
+        "D. Z"
+      ]
+    },
+    "answer": "A",
+    "analysis": "Based on the allocation and expected returns, portfolio W represents a 90% allocation in stocks and a 10% allocation in bonds, as it is closest to the expected return for this combination.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "portfolio allocation, expected return",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+,
+  "74": {
+    "question": {
+      "text": "Roger is an analyst employing the capital asset pricing model (CAPM) to estimate the return of a portfolio. However, his colleague Sally makes four observations. Which of the following observations, if true, does NOT violate the assumption of CAPM?\nA. Sally proves that the portfolio securities' returns are heavy-tailed (leptokurtic).\nB. Sally observes that other investors have different views about the expected returns and variances of the portfolio securities.\nC. If Roger makes a purchase of a security in the portfolio, his purchase will NOT increase (or impact) the price of the security.\nD. Sally points out that Roger incurs transaction costs, cannot short sell, and cannot borrow at the risk-rate.",
+      "image": "",
+      "Options": [
+        "A. Sally proves that the portfolio securities' returns are heavy-tailed (leptokurtic).",
+        "B. Sally observes that other investors have different views about the expected returns and variances of the portfolio securities.",
+        "C. If Roger makes a purchase of a security in the portfolio, his purchase will NOT increase (or impact) the price of the security.",
+        "D. Sally points out that Roger incurs transaction costs, cannot short sell, and cannot borrow at the risk-rate."
+      ]
+    },
+    
+    "answer": "C",
+    "analysis": "In regard to A, standard CAPM utilizes the mean-variance framework such that only the first two moments are considered and returns are assumed multivariate normal. An individual cannot affect the price of a stock by his buying or selling action. This is analogous to the assumption of perfect competition. While no single investor can affect prices by an individual action, investors in total determine prices by their actions. In regard to B, homogenous expectations is arguably the key assumption that leads to equilibrium. In regard to D, transaction cost doesn’t exist in the assumptions of CAPM. Also, short sell and borrow at risk-free rate should be allowed.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM assumptions, market equilibrium",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "75": {
+    "question": {
+      "text": "According to the CAPM, over a single time period, investors seek to maximize their:\nA. wealth and are concerned about the tails of return distributions.\nB. wealth and are not concerned about the tails of return distributions.\nC. expected utility and are concerned about the tails of return distributions.\nD. expected utility and are not concerned about the tails of return distributions.",
+      "image": "",
+      "Options": [
+        "A. wealth and are concerned about the tails of return distributions.",
+        "B. wealth and are not concerned about the tails of return distributions.",
+        "C. expected utility and are concerned about the tails of return distributions.",
+        "D. expected utility and are not concerned about the tails of return distributions."
+      ]
+    },
+    "answer": "D",
+    "analysis": "CAPM assumes investors seek to maximize the expected utility of their wealth at the end of the period, and that when choosing their portfolios, investors only consider the first two moments of return distribution: the expected return and the variance. Hence, investors are not concerned with the tails of the return distribution.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, expected utility",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "76": {
+    "question": {
+      "text": "Assume the expected return on stocks is 18% (represented by Z in the figure), and the expected return on bonds is 8% (represented by point Y on the graph). The efficient frontier consists of the portfolios between and including:",
+      "image": "foundation of risk management/76_table.png",
+      "Options": [
+        "A. X and W",
+        "B. Y and Z",
+        "C. X and Z",
+        "D. Y and X"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The efficient frontier consists of portfolios that have the maximum expected return for any given level of risk (standard deviation or variance). The efficient frontier starts at the global minimum-variance portfolio and continues above it. Any portfolio below the efficient frontier is dominated by a portfolio on the efficient frontier. This is because efficient portfolios have higher expected returns for the same level of risk.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Efficient frontier, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  "77": {
+    "question": {
+      "text": "The market portfolio in the Capital Market Theory contains which types of investments?\nA. All stocks in existence.\nB. All stocks and bonds in existence.\nC. All risky and risk-free assets in existence.\nD. All risky assets in existence.",
+      "image": "",
+      "Options": [
+        "A. All stocks in existence.",
+        "B. All stocks and bonds in existence.",
+        "C. All risky and risk-free assets in existence.",
+        "D. All risky assets in existence."
+      ]
+    },
+    "answer": "D",
+    "analysis": "The market portfolio contains all risky assets in existence. It does not contain any risk-free assets.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Capital Market Theory, market portfolio",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+
+  "78": {
+    "question": {
+      "text": "CAPM assumptions: Which of the following is NOT an underlying assumption of the CAPM model?\nA. Investors only consider the first two moments of return distribution: the expected return and the variance\nB. All investors have the same forecast return, variance and covariance expectations for all assets\nC. All investors prefer to be fully invested in the market portfolio\nD. Markets are perfect: there are no taxes and no transaction costs. All assets are traded and are infinitely divisible",
+      "image": "",
+      "Options": [
+        "A. Investors only consider the first two moments of return distribution: the expected return and the variance",
+        "B. All investors have the same forecast return, variance and covariance expectations for all assets",
+        "C. All investors prefer to be fully invested in the market portfolio",
+        "D. Markets are perfect: there are no taxes and no transaction costs. All assets are traded and are infinitely divisible"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The market portfolio is the MOST EFFICIENT mix of risky assets but the CAPM does not restrict all investors to prefer a beta of 1.0.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM assumptions, market portfolio",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "79": {
+    "question": {
+      "text": "Which of the following statements is true?\nA. The nominal returns of U.S. Treasury bills are risk-free returns.\nB. Predicted variance is always greater than historical variance.\nC. When using historical data to determine expected return inputs into a mean-variance portfolio optimization model, the longest possible time frame is best.\nD. Treasury bill returns tend to be positively auto-correlated and this implies that T-bills are effectively a decreasingly risky asset as the investment time horizon grows.",
+      "image": "",
+      "Options": [
+        "A. The nominal returns of U.S. Treasury bills are risk-free returns.",
+        "B. Predicted variance is always greater than historical variance.",
+        "C. When using historical data to determine expected return inputs into a mean-variance portfolio optimization model, the longest possible time frame is best.",
+        "D. Treasury bill returns tend to be positively auto-correlated and this implies that T-bills are effectively a decreasingly risky asset as the investment time horizon grows."
+      ]
+    },
+    "answer": "B",
+    "analysis": "In regard to A, this is false due to inflation risk. In regard to C, this is false. Characteristics of security returns usually change over time. Thus, there is a trade-off between using a long time frame to improve the estimates and having potentially inaccurate estimates from the longer time period because the security characteristics have changed. In regard to D, the opposite: positive autocorrelation increases volatility (above the square root of time).",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Treasury bills, variance, mean-variance portfolio optimization",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "80": {
+    "question": {
+      "text": "Assume that you are only concerned with systematic risk. Which of the following would be the best measure to use to rank order funds with different betas based on their risk-return relationship with the market portfolio?\nA. Treynor ratio\nB. Sharpe ratio\nC. Jensen’s alpha\nD. Sortino ratio",
+      "image": "",
+      "Options": [
+        "A. Treynor ratio",
+        "B. Sharpe ratio",
+        "C. Jensen’s alpha",
+        "D. Sortino ratio"
+      ]
+    },
+    "answer": "A",
+"analysis": "Systematic risk of a portfolio is that risk which is inherent in the market and thus cannot be diversified away. In this situation you should seek a measure which ranks funds based on systematic risk only, which is reflected in the beta as defined below: $$\\beta_P = (\\rho_{PM} * \\sigma_P * \\sigma_M) / \\sigma_M^2$$ where $\\rho_{PM}$ is the correlation coefficient between the portfolio and the market, represents the standard deviation of the portfolio and $\\sigma_M$ represents the standard deviation of the market. In a well-diversified portfolio (where one is normally only concerned with systematic risk), it can be assumed that the correlation coefficient is close to 1, therefore beta can be approximated to an even simpler equation: $$T_P = \\frac{E(R_p) - R_f}{\\beta_P}$$ In either case, beta explains the volatility of the portfolio compared to the volatility of the market, which captures only systematic risk. The Treynor ratio is the correct ratio to use in this case. The formula is: which describes the difference between the expected return of the portfolio, $E(R_p)$ and the risk free rate $R_f$ divided by the portfolio beta $\\beta_P$. Therefore, it plots excess return over systematic risk."
+,
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "systematic risk, Treynor ratio, beta",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "81": {
+    "question": {
+      "text": "An analyst is evaluating the performance of a portfolio of Mexican equities that is benchmarked to the IPC Index. The analyst collects the information about the portfolio and the benchmark index shown in the table below:\n* Expected return on the portfolio 6.6%\n* Volatility of returns on the portfolio 13.1%\n* Expected return on the IPC Index 4.0%\n* Volatility of returns on the IPC Index 8.7%\n* Risk-free rate of return 1.5%\n* Beta of portfolio relative to IPC Index 1.4\n\nWhat is the Sharpe ratio for this portfolio?\nA. 0.036\nB. 0.047\nC. 0.389\nD. 0.504",
+      "image": "",
+      "Options": [
+        "A. 0.036",
+        "B. 0.047",
+        "C. 0.389",
+        "D. 0.504"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The Sharpe ratio for the portfolio is:  \n$$ \\frac{(6.6\\% - 1.5\\%)}{13.1\\%} = 0.389 $$"
+,
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Sharpe ratio, portfolio performance evaluation",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "83": {
+    "question": {
+      "text": "Assume the risk-free rate is 4% and the expected (overall) market return is 12% with 20% volatility. Our portfolio (P) has volatility of 30% and a correlation with the market of 0.4. According to CAPM, what is the portfolio’s expected return?\nA. 6.0%\nB. 8.8%\nC. 11.2%\nD. 12.0%",
+      "image": "",
+      "Options": [
+        "A. 6.0%",
+        "B. 8.8%",
+        "C. 11.2%",
+        "D. 12.0%"
+      ]
+    },
+    "answer": "B",
+    "analysis": "The portfolio's beta is calculated as:\n$$\\beta = \\frac{\\text{covariance}(P,M)}{\\text{variance}(M)} = 20\\% \\times 30\\% \\times 0.4 / 20\\%^2 = 0.6.$$ Using the CAPM formula, the expected return is:\n$$E(R_p) = R_f + \\beta \\times [E(R_M) - R_f] = 4\\% + 0.6 \\times (12\\% - 4\\%) = 8.8\\%.$$",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "CAPM, expected return",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "84": {
+    "question": {
+      "text": "For the past four years, the returns on a portfolio were 6%, 9%, 4%, and 12%. The corresponding returns of the benchmark were 7%, 10%, 4%, and 14%. The risk-free rate of return is 7%, and the mean squared deviation from the minimum return is 2.5. The portfolio’s Sortino ratio is closest to:\nA. 0.3000\nB. 0.4743\nC. 0.7000\nD. 1.1068",
+      "image": "",
+      "Options": [
+        "A. 0.3000",
+        "B. 0.4743",
+        "C. 0.7000",
+        "D. 1.1068"
+      ]
+    },
+    "answer": "B",
+"analysis": "The benchmark returns are not important here. The average of the portfolio returns is: \n$$\\frac{(6\\% + 9\\% + 4\\% + 12\\%)}{4} = 31\\% / 4 = 7.75\\%$$ \nSortino ratio: \n$$\\frac{(7.75\\% - 7\\%)}{\\sqrt{2.5}}$$ \nIf the minimum acceptable return is not provided, it is reasonable to use the risk-free rate instead."
+,
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Sortino ratio, portfolio performance",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "85": {
+    "question": {
+      "text": "A security’s systematic risk is proportional to:\nA. the covariance of its return with the return on the market portfolio.\nB. the standard deviation of its return.\nC. the variance of its return.\nD. its diversifiable risk.",
+      "image": "",
+      "Options": [
+        "A. the covariance of its return with the return on the market portfolio.",
+        "B. the standard deviation of its return.",
+        "C. the variance of its return.",
+        "D. its diversifiable risk."
+      ]
+    },
+    "answer": "A",
+    "analysis": "The measure of systematic risk is beta, and beta is proportional to the covariance of a security’s return with the return on the market portfolio. ",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "systematic risk, beta",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "86": {
+    "question": {
+      "text": "A portfolio is invested equally in two asset classes: bonds with expected return of 3.0% per annum and volatility of 18.0%; equities with expected return of 7.0% per annum and volatility of 26.0%. Their correlation is 0.40. If the portfolio re-allocates from equally weighting to 60% equities and 40% bonds, what is the net change to the portfolio’s expected return?\nA. No change to portfolio’s expected return\nB. Increase of 0.4%\nC. Increase of 0.8%\nD. Increase of 1.2%",
+      "image": "",
+      "Options": [
+        "A. No change to portfolio’s expected return",
+        "B. Increase of 0.4%",
+        "C. Increase of 0.8%",
+        "D. Increase of 1.2%"
+      ]
+    },
+    "answer": "B",
+    "analysis": "Before: 50%×3% + 50%×7% = 5.0%. After: 40%×3% + 60%×7% = 5.4%. Expected return increases by 0.4%. Note that neither volatilities nor correlation impacts expected return. 之前：50%×3% + 50%×7% = 5.0%。之后：40%×3% + 60%×7% = 5.4%。",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "portfolio rebalancing, expected return",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "87": {
+    "question": {
+      "text": "To describe the shape of the portfolio possibilities curve, which one of the following is best?\nA. The curve is strictly convex.\nB. The curve is strictly concave.\nC. The curve is convex above the minimum variance portfolio and concave below the minimum variance portfolio.\nD. The curve is concave above the minimum variance portfolio and convex below the minimum variance portfolio.",
+      "image": "",
+      "Options": [
+        "A. The curve is strictly convex.",
+        "B. The curve is strictly concave.",
+        "C. The curve is convex above the minimum variance portfolio and concave below the minimum variance portfolio.",
+        "D. The curve is concave above the minimum variance portfolio and convex below the minimum variance portfolio."
+      ]
+    },
+    "answer": "D",
+    "analysis": "The portfolio possibilities curve is concave above the minimum variance portfolio and convex below the minimum variance portfolio.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "portfolio theory, efficient frontier",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "88": {
+    "question": {
+      "text": "Portfolios that represent combinations of the risk-free asset and the market portfolio are plotted on the:\nA. utility curve\nB. capital asset pricing line\nC. capital market line\nD. characteristic line",
+      "image": "",
+      "Options": [
+        "A. utility curve",
+        "B. capital asset pricing line",
+        "C. capital market line",
+        "D. characteristic line"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The introduction of a risk-free asset changes the Markowitz efficient frontier into a straight line. This straight efficient frontier line is called the capital market line (CML). Investors at point Rf have 100 percent of their funds invested in the risk-free asset. Investors at point M have 100 percent of their funds invested in market portfolio M. Between Rf and M, investors hold both the risk-free asset and portfolio M. To the right of M, investors hold more than 100 percent of portfolio M. All investors have to do to get the risk and return combination that suits them is to simply vary the proportion of their investment in the risky portfolio M and the risk-free asset.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "capital market line, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "89": {
+    "question": {
+      "text": "You are analyzing a portfolio that has a Jensen’s alpha of 4.75% and an actual return of 14.2%. The risk-free rate is 4.25% and the equity risk premium is 6%. Based on the information provided, the beta of the portfolio is closest to:\nA. 0.77\nB. 0.87\nC. 0.97\nD. 1.07",
+      "image": "",
+      "Options": [
+        "A. 0.77",
+        "B. 0.87",
+        "C. 0.97",
+        "D. 1.07"
+      ]
+    },
+    "answer": "B",
+    "analysis": "Jensen’s alpha = actual return − expected return using CAPM. CAPM E(R) = risk-free rate + beta × (return on the market − risk-free rate). Use Jensen’s alpha of 4.75% and the actual return of 14.2%. The expected return from CAPM must be 14.2% − 4.75% = 9.45%. Use the value in the CAPM to find the beta of the portfolio. Expected return = risk-free rate + beta × equity risk premium. 9.45% = 4.25% + β × 6%, therefore β ≈ 0.87.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Jensen's alpha, CAPM, beta",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "90": {
+    "question": {
+      "text": "Which of the following statements about the security market line (SML) is least accurate?\nA. The market portfolio consists of all risky assets.\nB. Securities that plot above the SML are undervalued.\nC. The risk-free rate defines where the SML intersects the vertical axis.\nD. Securities that plot on the SML have no intrinsic value to the investor.",
+      "image": "",
+      "Options": [
+        "A. The market portfolio consists of all risky assets.",
+        "B. Securities that plot above the SML are undervalued.",
+        "C. The risk-free rate defines where the SML intersects the vertical axis.",
+        "D. Securities that plot on the SML have no intrinsic value to the investor."
+      ]
+    },
+    "answer": "D",
+    "analysis": "Securities that fall on the SML are properly priced. They have value to an investor in that they still earn a return.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "security market line, CAPM",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+
+  "91": {
+    "question": {
+      "text": "The market portfolio (M) contains the optimal allocation of only risky assets and no risky assets. Let the S1 be the Sharpe ratio of this market portfolio. There exists a risk-free asset. Initially, an investor is fully (100%) invested in M with a portfolio Sharpe ratio of S1. Subsequently, the investor borrows 30% at the risk-free rate, such that she is 130% invested in the market portfolio (M) where this leverage portfolio has a Sharpe ratio of S2. After the leverage (i.e., borrowing at the risk-free rate to invest +30% in M), is the investor still on the efficient frontier and how do the Sharpe ratios?\nA. No (no longer efficient), and S2 < S1.\nB. No, but S2 = S1.\nC. Yes (still efficient), but S2 < S1.\nD. Yes, and S2 = S1.",
+      "image": "",
+      "Options": [
+        "A. No (no longer efficient), and S2 < S1.",
+        "B. No, but S2 = S1.",
+        "C. Yes (still efficient), but S2 < S1.",
+        "D. Yes, and S2 = S1."
+      ]
+    },
+    "answer": "D",
+    "analysis": "The ability to borrow or lend morphs the concave/convex efficient frontier into the linear CML; i.e., the leveraged portfolio is efficient with higher risk and higher return. All portfolios on the CML have the same Sharpe ratio: the slope of the CML.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Sharpe ratio, efficient frontier, CML",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+,
+  "92": {
+    "question": {
+      "text": "Which of the following best describes the shape of the portfolio possibilities curve?\nA. The curve is strictly convex.\nB. The curve is strictly concave.\nC. The curve is concave above the minimum variance portfolio and convex below the minimum variance portfolio.\nD. The curve is convex above the minimum variance portfolio and concave below the minimum variance portfolio.",
+      "image": "",
+      "Options": [
+        "A. The curve is strictly convex.",
+        "B. The curve is strictly concave.",
+        "C. The curve is concave above the minimum variance portfolio and convex below the minimum variance portfolio.",
+        "D. The curve is convex above the minimum variance portfolio and concave below the minimum variance portfolio."
+      ]
+    },
+    "answer": "C",
+    "analysis": "The portfolio possibilities curve is concave above the minimum variance portfolio and convex below the minimum variance portfolio.",
+    "knowledge topics": "portfolio possibilities curve",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "93": {
+    "question": {
+      "text": "Assume the slope of the security market line (SML) is 0.060 while the risk-free rate is 2.0%. What is the Treynor measure of a security with an alpha of 2.40% and beta of 0.30?\nA. 0.140\nB. 0.280\nC. 0.560\nD. 1.120",
+      "image": "",
+      "Options": [
+        "A. 0.140",
+        "B. 0.280",
+        "C. 0.560",
+        "D. 1.120"
+      ]
+    },
+    "answer": "A",
+    "analysis": "The slope of the SML is the market's excess return such that the security's excess return is 0.060 x 0.30 + 2.40% = 4.20%. The security's Treynor measure is therefore 4.20%/0.30 = 0.140. The important thing to note here is that we are not using the SML formula to calculate the expected return for this security, as the Treynor measure requires the actual return.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Treynor measure, SML, beta",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "94": {
+    "question": {
+      "text": "Assume the expected return on stocks is 18% (represented by Z in the figure), and the expected return on bonds is 8% (represented by point Y on the graph). The efficient frontier consists of the portfolios between and including:",
+      "image": "foundation of risk management/94_portfolio_curve.png",
+      "Options": [
+        "A. X and W",
+        "B. Y and Z",
+        "C. X and Z",
+        "D. Y and X"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The efficient frontier consists of portfolios that have the maximum expected return for any given level of risk (standard deviation or variance). The efficient frontier starts at the global minimum-variance portfolio and continues above it. Any portfolio below the efficient frontier is dominated by a portfolio on the efficient frontier. This is because efficient portfolios have higher expected returns for the same level of risk. ",
+    "knowledge topics": "efficient frontier, portfolio possibilities",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text+image"
+  }
+  ,
+  
+  "95": {
+    "question": {
+      "text": "An investment advisor is analyzing the range of potential expected returns of a new fund designed to replicate the directional moves of the BSE Sensex Index but with twice the volatility of the index. The Sensex has an expected annual return of 12.3% and volatility of 19.0%, and the risk free rate is 2.5% per year. Assuming the correlation between the fund’s returns and that of the index is 1, what is the expected return of the fund using the capital asset pricing model?",
+      "image": "",
+      "Options": [
+        "A. 18.5%",
+        "B. 19.0%",
+        "C. 22.1%",
+        "D. 24.6%"
+      ]
+    },
+    "answer": "C",
+    "analysis": "If the CAPM holds, then Ri, which is maximized at the greatest possible beta value which implies a correlation of 1 between the fund’s return and the index return. Since the volatility of the fund is twice that of the index, a correlation of 1 implies a maximum beta  $\beta$  of 2. Therefore: $R_i(max) = 2.5\\% + 2(12.3\\% - 2.5\\%) = 22.1\\%$",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "CAPM, expected return",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+,
+  "96": {
+    "question": {
+      "text": "Which of the following inputs is least likely required for the Markowitz efficient frontier?\nA. The expected return of all securities.\nB. The covariation between all securities.\nC. The level of risk aversion in the market.\nD. The variance of all securities.",
+      "image": "",
+      "Options": [
+        "A. The expected return of all securities.",
+        "B. The covariation between all securities.",
+        "C. The level of risk aversion in the market.",
+        "D. The variance of all securities."
+      ]
+    },
+    "answer": "C",
+    "analysis": "The level of risk aversion in the market is not a required input. The model requires that investors know the expected return and variance of each security as well as the covariance between all securities.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Markowitz efficient frontier",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "98": {
+    "question": {
+      "text": "In regard to the combination of two assets in the mean-variance framework, each of the following is true EXCEPT:\nA. The lower (i.e., closer to -1.0) the correlation coefficient between assets, all other attributes held constant, the higher the payoff from diversification.\nB. The combinations of two assets can never have more risk than that found on a straight line connecting the two assets in expected return standard deviation space.\nC. The combinations of two assets, assuming no short selling, can never have less risk than the least risky asset in the portfolio.\nD. When two assets are combined in a portfolio, there always exists a simple expression for finding the minimum variance portfolio.",
+      "image": "",
+      "Options": [
+        "A. The lower (i.e., closer to -1.0) the correlation coefficient between assets, all other attributes held constant, the higher the payoff from diversification.",
+        "B. The combinations of two assets can never have more risk than that found on a straight line connecting the two assets in expected return standard deviation space.",
+        "C. The combinations of two assets, assuming no short selling, can never have less risk than the least risky asset in the portfolio.",
+        "D. When two assets are combined in a portfolio, there always exists a simple expression for finding the minimum variance portfolio."
+      ]
+    },
+    "answer": "C",
+    "analysis": "The combinations of two assets, assuming no short selling, can have less risk than the least risky asset in the portfolio. For example, if sigma(a) = 10% and sigma(b) = 20%, then any correlation less than 0.5 allows for portfolios with volatility less than 10%, without short selling; e.g., at rho = 0.1, the minimum variance portfolio occurs at 82.6% invested in asset (a) for a portfolio volatility of 9.28%.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "mean-variance framework, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text only"
+  }
+  ,
+  "99": {
+    "question": {
+      "text": "Which one of the following portfolios does not lie on the efficient frontier?",
+      "image": "foundation of risk management/99_table.png",
+      "Options": [
+        "A. A",
+        "B. B",
+        "C. C",
+        "D. D"
+      ]
+    },
+    "answer": "B",
+    "analysis": "Portfolio B has a lower expected return than Portfolio C with a higher standard deviation. Portfolios on the efficient frontier should have the highest possible return for a given level of risk (standard deviation), and Portfolio B does not satisfy this condition.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "efficient frontier, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text+image"
+  }
+  ,
+  "100": {
+    "question": {
+      "text": "An analyst has developed the following data for two companies: PNS Manufacturing (PNS) and ABC Travel (ABC). PNS has an expected return of 15 percent and a standard deviation of 18 percent. ABC has an expected return of 11 percent and a standard deviation of 17 percent. PNS's correlation with the market is 75 percent, while ABC's correlation with the market is 85 percent. If the market standard deviation is 22%, which of the following are the betas for PNS and ABC?",
+      "image": "foundation of risk management/100_table.png",
+      "Options": [
+        "A. Beta of PNS: 0.66 Beta of ABC: 0.61",
+        "B. Beta of PNS: 0.92 Beta of ABC: 1.10",
+        "C. Beta of PNS: 0.61 Beta of ABC: 0.66",
+        "D. Beta of PNS: 1.10 Beta of ABC: 0.92"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The formula for beta is β = (ρ * σ_asset) / σ_market. For PNS, with a correlation of 0.75, a standard deviation of 18%, and a market standard deviation of 22%, the beta is β_PNS = 0.75 * (18/22) = 0.61. For ABC, with a correlation of 0.85, a standard deviation of 17%, and a market standard deviation of 22%, the beta is β_ABC = 0.85 * (17/22) = 0.66.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "beta calculation, correlation, standard deviation",
+    "book label": "foundation of risk management",
+    "level of difficulty": "medium",
+    "question type": "text+image"
+  }
+  ,
+  "101": {
+    "question": {
+      "text": "There are two assets X and Y, which line is not likely the efficient frontier for X and Y?",
+      "image": "foundation of risk management/101_image.png",
+      "Options": [
+        "A. A",
+        "B. B",
+        "C. C",
+        "D. D"
+      ]
+    },
+    "answer": "D",
+    "analysis": "The efficient frontier is concave above the minimum variance portfolio. Line D is below the minimum variance frontier, which means it is not part of the efficient frontier.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "efficient frontier, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  "102": {
+    "question": {
+      "text": "According to CAPM, what is the expected return of diversifiable (idiosyncratic) risk?",
+      "image": "",
+      "Options": [
+        "A. Zero",
+        "B. Beta",
+        "C. Beta × Excess Market Return",
+        "D. Riskless rate + (Beta × Excess Market Return)"
+      ]
+    },
+    "answer": "A",
+    "analysis": "The CAPM is a SINGLE-FACTOR model that says expected return is a function of SYSTEMIC RISK (beta): in the diversified portfolio, unsystematic risk is eliminated and receives no compensation. The unsystematic risk, which is also called the diversifiable risk, is not rewarded by the market. In fact, it can be eliminated by constructing diversified portfolios. The correct measure of risk for an individual asset is therefore the beta, and its reward is called the risk premium.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, diversifiable risk, unsystematic risk",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "103": {
+    "question": {
+      "text": "Which of the following portfolios falls below the Markowitz efficient frontier?",
+      "image": "foundation of risk management/103_table.png",
+      "Options": [
+        "A. Portfolio A",
+        "B. Portfolio B",
+        "C. Portfolio C",
+        "D. Portfolio D"
+      ]
+    },
+    "answer": "B",
+    "analysis": "Portfolio B is inefficient (falls below the efficient frontier) because for the same risk level (8.7%), you could have portfolio C with a higher expected return (15.1% versus 14.2%). This makes portfolio B suboptimal for the given risk-return profile.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Markowitz efficient frontier, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  "104": {
+    "question": {
+      "text": "For an investor to move further up the Capital Market Line than the market portfolio, the investor must:",
+      "image": "",
+      "Options": [
+        "A. reduce the portfolio's risk below that of the market.",
+        "B. continue to invest only in common stocks.",
+        "C. borrow and invest in the market portfolio.",
+        "D. diversify the portfolio even more."
+      ]
+    },
+    "answer": "C",
+    "analysis": "Portfolios that lie to the right of the market portfolio on the capital market line ('up' the capital market line) are created by borrowing funds to own more than 100% of the market portfolio (M). The statement, 'diversify the portfolio even more' is incorrect because the market portfolio is fully diversified. Therefore, borrowing and leveraging is the correct action to move further up the line.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Capital Market Line, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "105": {
+    "question": {
+      "text": "Given a set of risky assets, a Markowitz efficient frontier:",
+      "image": "",
+      "Options": [
+        "A. can be calculated from the assets' expected returns and the correlations of returns for each pair of assets.",
+        "B. includes all portfolios that reduce the risk level compared to holding a single asset.",
+        "C. cannot be generated unless one of the assets has a beta of zero.",
+        "D. consists of the portfolios that provide the lowest risk for every level of expected return."
+      ]
+    },
+    "answer": "D",
+    "analysis": "The Markowitz efficient frontier is the set of possible portfolios that provide the highest return for each level of risk, or the lowest risk for each level of return. To generate an efficient frontier, we need to know the expected returns and standard deviations for each asset, as well as the returns correlations for each pair of assets.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Markowitz efficient frontier, portfolio theory",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "106": {
+    "question": {
+      "text": "Over the previous twelve (12) months, Analyst Robert regressed Portfolio (P) excess returns against the Benchmark (M) excess returns:",
+      "image": "foundation of risk management/106_image.png",
+      "Options": [
+        "A. 0.655",
+        "B. 0.728",
+        "C. 0.833",
+        "D. 0.950"
+      ]
+    },
+    "answer": "D",
+    "analysis": "Information ratio (IR) is calculated as alpha divided by the tracking error. The regression equation shows the intercept (alpha) is 0.0171 and the tracking error (SER) is 0.0180. Therefore, IR = 0.0171 / 0.0180 = 0.950.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "information ratio, tracking error, regression analysis",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  "107": {
+    "question": {
+      "text": "Consider the expected returns and standard deviations for the following portfolios:",
+      "image": "foundation of risk management/107_table.png",
+      "Options": [
+        "A. Portfolio 1",
+        "B. Portfolio 2",
+        "C. Portfolio 3",
+        "D. Portfolio 4"
+      ]
+    },
+    "answer": "A",
+    "analysis": "Portfolio 1 is not efficient because it has a lower expected return and higher risk than Portfolios 2, 3, and 4. The portfolio is not mean variance efficient due to its suboptimal risk-return profile.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "mean variance efficiency, portfolio analysis",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  "108": {
+    "question": {
+      "text": "Instead of residual-based information ratio (IR), it is also acceptable to compute information ratio (IR) based on active returns. The following table displays twelve (12) months of returns comparing a portfolio (P) to its benchmark (B); the final column shows the difference each month:",
+      "image": "foundation of risk management/108_table.png",
+      "Options": [
+        "A. 0.404",
+        "B. 0.651",
+        "C. 0.950",
+        "D. 1.237"
+      ]
+    },
+    "answer": "B",
+    "analysis": "The annualized ex post (active-based) information ratio is calculated as follows: IR = (0.0044 × 12) / (0.0234 × √12) = 0.65137.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "information ratio, active return, ex-post performance",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  "109": {
+    "question": {
+      "text": "Suppose that the correlation of the return of a portfolio with the return of its benchmark is 0.8, the volatility of the return of the portfolio is 5%, and the volatility of the return of the benchmark is 4%. What is the beta of the portfolio?",
+      "image": "foundation of risk management/109_equation.png",
+      "Options": [
+        "A. 1.00",
+        "B. 0.80",
+        "C. 0.64",
+        "D. -1.00"
+      ]
+    },
+    "answer": "A",
+    "analysis": "The following equation is used to calculate beta: $$\\beta = \\rho \\times \\frac{\\sigma_P}{\\sigma_B} = 0.8 \\times \\frac{0.05}{0.04} = 1.00$$",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "beta, portfolio risk, correlation",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  "110": {
+    "question": {
+      "text": "In a two-asset portfolio, reducing the correlation between the two assets moves the efficient frontier in which direction?\nA. The efficient frontier is stable unless return expectations change. If expectations change, the efficient frontier will extend to the upper right with little or no change in risk.\nB. The efficient frontier tends to move down and to the left, representing increased risk from negative correlation.\nC. The frontier extends to the left, or northwest quadrant representing a reduction in risk while maintaining or enhancing portfolio returns.\nD. The efficient frontier is stable unless the asset’s expected volatility changes. This depends on each asset’s standard deviation.",
+      "image": "",
+      "Options": [
+        "A. The efficient frontier is stable unless return expectations change. If expectations change, the efficient frontier will extend to the upper right with little or no change in risk.",
+        "B. The efficient frontier tends to move down and to the left, representing increased risk from negative correlation.",
+        "C. The frontier extends to the left, or northwest quadrant representing a reduction in risk while maintaining or enhancing portfolio returns.",
+        "D. The efficient frontier is stable unless the asset’s expected volatility changes. This depends on each asset’s standard deviation."
+      ]
+    },
+    "answer": "C",
+    "analysis": "Reducing correlation between the two assets results in the efficient frontier expanding to the left and possibly slightly upward. This reflects the influence of correlation on reducing portfolio risk.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "efficient frontier, portfolio correlation",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+
+  "111": {
+    "question": {
+      "text": "Which is best for RANKING portfolios with the same beta (within peer groups)?\nA. Treynor ratio.\nB. Sharpe ratio.\nC. Jensen’s alpha.\nD. None.",
+      "image": "",
+      "Options": [
+        "A. Treynor ratio.",
+        "B. Sharpe ratio.",
+        "C. Jensen’s alpha.",
+        "D. None."
+      ]
+    },
+    "answer": "C",
+    "analysis": "The Jensen alpha can be used to rank portfolios within peer groups. They group together portfolios that are managed in a similar manner, and that therefore have comparable levels of risk.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Jensen's alpha, portfolio ranking",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "112": {
+    "question": {
+      "text": "The beta of stock D is -0.5. If the expected return of Stock D is 8%, and the risk-free rate of return is 5%, what is the expected return of the market?",
+      "image": "foundation of risk management/112_equation.png",
+      "Options": [
+        "A. 3.0%",
+        "B. -1.0%",
+        "C. 3.5%",
+        "D. -4.0%"
+      ]
+    },
+    "answer": "B",
+    "analysis": "$$E(R_D) = R_f + \\beta [E(R_m) - R_f]$$ \n $$8\\% = 5\\% + (-0.5) \\times [E(R_m) - 5\\%]$$ \n $$E(R_m) = -1\\%$$",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "beta, expected market return",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  ,
+  
+  "113": {
+    "question": {
+      "text": "Which of the following statements regarding the Capital Asset Pricing Model is least accurate?\nA. It relies on the existence of a risk-free asset.\nB. It is useful for determining an appropriate discount rate.\nC. Its accuracy depends upon the accuracy of the beta estimates.\nD. It is when the security market line (SML) and capital market line (CML) converge.",
+      "image": "",
+      "Options": [
+        "A. It relies on the existence of a risk-free asset.",
+        "B. It is useful for determining an appropriate discount rate.",
+        "C. Its accuracy depends upon the accuracy of the beta estimates.",
+        "D. It is when the security market line (SML) and capital market line (CML) converge."
+      ]
+    },
+    "answer": "D",
+    "analysis": "The CML plots expected return versus standard deviation risk. The SML plots expected return versus beta risk. Therefore, they are lines that are plotted in different two-dimensional spaces and will not converge.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Capital Asset Pricing Model (CAPM), SML, CML",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+
+  "114": {
+    "question": {
+      "text": "A portfolio has a correlation of 0.40 with the overall market and produces a Sharpe ratio of 0.2. If the market’s volatility is 20%, what is the portfolio’s Treynor ratio?\nA. 4.0%\nB. 6.0%\nC. 10.0%\nD. Not enough information.",
+      "image": "",
+      "Options": [
+        "A. 4.0%",
+        "B. 6.0%",
+        "C. 10.0%",
+        "D. Not enough information."
+      ]
+    },
+    "answer": "C",
+    "analysis": "Treynor ratio = 0.2 × 20% / 0.4 = 10%. The Treynor ratio is calculated by multiplying the Sharpe ratio by the market's volatility and dividing by the portfolio's correlation with the market.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Treynor ratio, Sharpe ratio, portfolio correlation",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+
+  "115": {
+    "question": {
+      "text": "In the context of the CML, the market portfolio includes:\nA. 12-18 stocks needed to provide maximum diversification\nB. All existing risky assets\nC. Risky stocks and bonds only\nD. The risk-free asset",
+      "image": "",
+      "Options": [
+        "A. 12-18 stocks needed to provide maximum diversification",
+        "B. All existing risky assets",
+        "C. Risky stocks and bonds only",
+        "D. The risk-free asset"
+      ]
+    },
+    "answer": "B",
+    "analysis": "The market portfolio has to contain all the stocks, bonds, and risky assets in existence. Because this portfolio has all risky assets in it, it represents the ultimate or completely diversified portfolio.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "Capital Market Line (CML), market portfolio",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+,
+  "116": {
+    "question": {
+      "text": "Which of the following statements concerning the capital asset pricing model (CAPM) and the security market line (SML) is correct?\nA. Beta identifies the appropriate level of risk for which an investor should be compensated.\nB. Unsystematic risk is not diversifiable, so there is no reward for taking on such risk.\nC. Assets with equivalent betas will always earn different returns.\nD. The market risk premium is calculated by multiplying beta by the difference between the expected return on the market and the risk-free rate of return.",
+      "image": "",
+      "Options": [
+        "A. Beta identifies the appropriate level of risk for which an investor should be compensated.",
+        "B. Unsystematic risk is not diversifiable, so there is no reward for taking on such risk.",
+        "C. Assets with equivalent betas will always earn different returns.",
+        "D. The market risk premium is calculated by multiplying beta by the difference between the expected return on the market and the risk-free rate of return."
+      ]
+    },
+    "answer": "A",
+    "analysis": "Beta identifies the appropriate level of risk for which an investor should be compensated. Unsystematic risk is asset-specific and, therefore, a diversifiable risk. The market risk premium is calculated as the excess of the expected return on the market over the risk-free rate of return. Assets with equivalent betas should earn the same return because arbitrage will prevent assets with the same risk from earning different returns.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, SML, Beta",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+
+  "117": {
+    "question": {
+      "text": "A portfolio with a volatility of 30.0% has a Treynor measure of 0.080. The portfolio has a correlation of 0.50 with the market index which itself has a volatility of 20.0%. What is the portfolio’s Sharpe measure?\nA. 0.095\nB. 0.200\nC. 0.330\nD. 0.475",
+      "image": "",
+      "Options": [
+        "A. 0.095",
+        "B. 0.200",
+        "C. 0.330",
+        "D. 0.475"
+      ]
+    },
+    "answer": "B",
+   "analysis": "The calculations are as follows:  \n$$\\beta = 0.50 \\times \\frac{30\\%}{20\\%} = 0.750$$  \n$$\\text{TR} = \\frac{E(R_p) - R_f}{\\beta_p} = 0.08 \\Rightarrow E(R_p) - R_f = 0.75 \\times 0.08 = 0.06$$  \n$$\\text{SR} = \\frac{0.06}{30.0\\%} = 0.20$$"
+,
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Sharpe ratio, Treynor ratio, portfolio volatility",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "118": {
+    "question": {
+      "text": "During the most recent period, a Portfolio returned 10.3% when the Market return was only 8.0%. The risk-free rate was 2.0%. The Market’s return was 8.0% with volatility of 29.0%. Finally, the covariance between the portfolio and Market was 0.134560. Under the CAPM, did the portfolio outperform?\nA. No, Jensen’s alpha is -1.30%\nB. No, Jensen’s alpha is -0.50%\nC. Yes, Jensen’s alpha is +0.50%\nD. Yes, Jensen’s alpha is +1.30%",
+      "image": "",
+      "Options": [
+        "A. No, Jensen’s alpha is -1.30%",
+        "B. No, Jensen’s alpha is -0.50%",
+        "C. Yes, Jensen’s alpha is +0.50%",
+        "D. Yes, Jensen’s alpha is +1.30%"
+      ]
+    },
+    "answer": "A",
+ "analysis": "The market risk premium = 8% - 2% = 6%  \n$$\\beta(i, M) = \\frac{\\text{covariance}(i, M)}{\\text{variance}(M)} = \\frac{0.134560}{29\\%^2} = 1.60$$  \nUnder CAPM, $$E(R_i) = R_f + \\beta \\times [E(R_M) - R_f] = 2\\% + 1.60 \\times 6\\% = 11.60\\%$$  \nThe Jensen's alpha is 10.3\\% - 11.6\\% = -1.30\\%."
+,
+    "QA type": "math reasoning QA",
+    "knowledge topics": "CAPM, Jensen's Alpha, portfolio performance",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+
+  "119": {
+    "question": {
+      "text": "A security will produce only two cash flows: $100 at the end of the first year, and $100 at the end of the second year. The risk-free rate is 3.0% and the Market’s expected return is 8.0%. The security’s volatility is 24.0% and the Market’s volatility is 15.0%. The correlation (rho) between the security and the Market is 0.70. Under the capital asset pricing model (CAPM) with annual discounting, what is the present value of the security?\nA. $169.01\nB. $176.87\nC. $185.95\nD. $191.35",
+      "image": "",
+      "Options": [
+        "A. $169.01",
+        "B. $176.87",
+        "C. $185.95",
+        "D. $191.35"
+      ]
+    },
+    "answer": "B",
+"analysis": "$$\\beta(i, M) = \\frac{\\text{covariance}(i, M)}{\\text{variance}(M)} = 24\\% \\times 15\\% \\times 0.70 / 15\\%^2 = 1.12$$  \nCAPM: $$E(R_i) = R_f + \\beta \\times [E(R_M) - R_f] = 3\\% + 1.12 \\times (8\\% - 3\\%) = 8.60\\%$$  \nPV (annual compounding) = $$\\frac{100}{1.086} + \\frac{100}{1.086^2} = 176.87$$"
+,
+    "QA type": "math reasoning QA",
+    "knowledge topics": "CAPM, present value, discounting",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "120": {
+    "question": {
+      "text": "Jim manages a well-diversified portfolio containing forty stocks. The portfolio has a beta of 1.05. Jim is considering adding the stock of ABC Inc. to the portfolio, and would fund the purchase with cash already in the portfolio. ABC Inc. has a beta of 1.20, and is currently not part of the portfolio. Which statement about the resulting portfolio is TRUE?\nA. Systematic risk would increase, but the unsystematic risk would be unchanged.\nB. Systematic risk would decrease, but the unsystematic risk would be unchanged.\nC. Both systematic risk and unsystematic risk would be unchanged.\nD. Both systematic risk and unsystematic risk would increase.",
+      "image": "",
+      "Options": [
+        "A. Systematic risk would increase, but the unsystematic risk would be unchanged.",
+        "B. Systematic risk would decrease, but the unsystematic risk would be unchanged.",
+        "C. Both systematic risk and unsystematic risk would be unchanged.",
+        "D. Both systematic risk and unsystematic risk would increase."
+      ]
+    },
+    "answer": "A",
+    "analysis": "Since the portfolio is well diversified, the assumed level of unsystematic risk is zero. The addition of ABC Inc will increase the portfolio beta, and, hence, the level of systematic risk.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "systematic risk, unsystematic risk, diversification",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "121": {
+    "question": {
+      "text": "Consider the following already-annualized statistics for portfolio (P):\nRisk-free rate = 2.00%\nRealized portfolio (P) return (average) = 9.50%\nPortfolio (P) excess return = 9.50% - 2.00% = 7.50%\nStandard deviation of portfolio (P) returns = 14.70%\nMinimum acceptable return (MAR) = 6.00%\nDownside deviation of portfolio (P) returns = 5.60%\n\nWhich are nearest, respectively, to the Sharpe measure and Sortino ratio?\nA. 0.280 (Sharpe) and 0.100 (Sortino)\nB. 0.350 (Sharpe) and 0.433 (Sortino)\nC. 0.510 (Sharpe) and 0.625 (Sortino)\nD. 0.740 (Sharpe) and 1.290 (Sortino)",
+      "image": "",
+      "Options": [
+        "A. 0.280 (Sharpe) and 0.100 (Sortino)",
+        "B. 0.350 (Sharpe) and 0.433 (Sortino)",
+        "C. 0.510 (Sharpe) and 0.625 (Sortino)",
+        "D. 0.740 (Sharpe) and 1.290 (Sortino)"
+      ]
+    },
+    "answer": "C",
+    "analysis": "Sharpe ratio=0.0750/0.1470 = 0.51\nSortino Ratio=(9.50%-6.00%)/5.60%=0.6250\nSharpe Ratio = 0.510, Sortino Ratio = 0.625.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Sharpe ratio, Sortino ratio, portfolio performance",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "122": {
+    "question": {
+      "text": "All of the following are assumptions of the Capital Asset Pricing Model except:\nA. Each investor seeks to maximize the expected utility of wealth at the end of that investor’s horizon.\nB. Investors can borrow and lend at the same risk-free rate.\nC. Investors have the same expectations concerning returns.\nD. The time horizons of investors are normally distributed.",
+      "image": "",
+      "Options": [
+        "A. Each investor seeks to maximize the expected utility of wealth at the end of that investor’s horizon.",
+        "B. Investors can borrow and lend at the same risk-free rate.",
+        "C. Investors have the same expectations concerning returns.",
+        "D. The time horizons of investors are normally distributed."
+      ]
+    },
+    "answer": "D",
+    "analysis": "The CAPM assumes that investors all have the same horizon (as well as expectations). This means that the distribution of the horizons is not normal because normality implies a bell-shaped curve distribution, which would have a positive variance and, hence, dispersion. CAPM assumes a constant horizon and a normal distribution of expected returns.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM assumptions",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "123": {
+    "question": {
+      "text": "A portfolio is invested equally in two asset classes: 50% in bonds with expected return of 4.0% per annum and volatility of 20.0%; equities with expected return of 9.0% per annum and volatility of 32.0%. If the portfolio’s variance is 0.04520, what is the implied correlation (of returns) between bonds and equities?\nA. Zero\nB. 0.019\nC. 0.300\nD. 0.467",
+      "image": "",
+      "Options": [
+        "A. Zero",
+        "B. 0.019",
+        "C. 0.300",
+        "D. 0.467"
+      ]
+    },
+    "answer": "C",
+    "analysis": "The calculation process is as follows:\nThe variance formula for a portfolio of two assets is: Portfolio Variance = W1²σ1² + W2²σ2² + 2W1W2ρσ1σ2. Solving the equation for the given portfolio data provides a correlation coefficient (ρ) of 0.3.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "portfolio variance, correlation calculation",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "124": {
+    "question": {
+      "text": "In regard to the derivation of the capital asset pricing model (CAPM), each of the following is true EXCEPT for:\nA. All investors will hold combinations of only two portfolios: the Market portfolio (M) and a Riskless security. This is called the “two mutual fund theorem” because all investors would be satisfied with a market fund, plus the ability to lend or borrow a riskless security.\nB. All portfolios and risky assets must lie on the capital market line (CML).\nC. In equilibrium, the Market portfolio lies at the tangency point between the original efficient frontier of risky assets and a straight line passing through the riskless return.\nD. The security market line (SML) implies: the relationship between the expected return on any two assets can be related simply to their difference in Beta; the higher Beta is for any security, the higher must be its equilibrium return; and the relationship between Beta and expected return is linear.",
+      "image": "",
+      "Options": [
+        "A. All investors will hold combinations of only two portfolios: the Market portfolio (M) and a Riskless security.",
+        "B. All portfolios and risky assets must lie on the capital market line (CML).",
+        "C. In equilibrium, the Market portfolio lies at the tangency point between the original efficient frontier of risky assets and a straight line passing through the riskless return.",
+        "D. The security market line (SML) implies: the relationship between the expected return on any two assets can be related simply to their difference in Beta; the higher Beta is for any security, the higher must be its equilibrium return; and the relationship between Beta and expected return is linear."
+      ]
+    },
+    "answer": "B",
+    "analysis": "All investors will end up with portfolios somewhere along the capital market line, and all efficient portfolios would lie along the capital market line. However, not all securities or portfolios lie along the capital market line. In fact, from the derivation of the efficient frontier, we know that all portfolios of risky and riskless assets, except those that are efficient, lie below the capital market line.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, capital market line",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "125": {
+    "question": {
+      "text": "Which of the following is strictly true about the standard version of the capital asset pricing model (CAPM)?\nA. The security market line (SML) states that the expected return on any security is the riskless rate of interest plus the market price of risk times the amount of risk in the security or portfolio.\nB. If CAPM is valid, then the return of a high-beta should be higher than the return of a low-beta stock over the next calendar year, or for that matter, any given calendar year.\nC. All other things being equal, the security market line (SML) implies that higher nonsystematic (aka, idiosyncratic) risk will produce higher expected returns.\nD. While CAPM characterizes equilibrium in terms of rate of return, it cannot be similarly extended to prices.",
+      "image": "",
+      "Options": [
+        "A. The security market line (SML) states that the expected return on any security is the riskless rate of interest plus the market price of risk times the amount of risk in the security or portfolio.",
+        "B. If CAPM is valid, then the return of a high-beta should be higher than the return of a low-beta stock over the next calendar year, or for that matter, any given calendar year.",
+        "C. All other things being equal, the security market line (SML) implies that higher non-systematic (aka, idiosyncratic) risk will produce higher expected returns.",
+        "D. While CAPM characterizes equilibrium in terms of rate of return, it cannot be similarly extended to prices."
+      ]
+    },
+    "answer": "A",
+    "analysis": "B is false. Invariably, when a group of investors is first exposed to the CAPM, one or more investors will find a high-beta stock that last year produced a smaller return than low-beta stocks. The CAPM is an equilibrium relationship. High-beta stocks are expected to give a higher return than low-beta stocks because they are more risky. This does not mean that they will give a higher return over all intervals of time. In fact, if they always gave a higher return, they would be less risky, not more risky, than low-beta stocks. Rather, because they are more risky, they will sometimes produce lower returns. However, over long periods of time, they should on the average produce higher returns. C is false and it is important in the CAPM. One of the greatest insights that comes from this equation arises from what it states is unimportant in determining return. The risk of any stock could be divided into systematic and unsystematic risk. Beta was the index of systematic risk. This equation validates the conclusion that systematic risk is the only important ingredient in determining expected returns and that non-systematic risk plays no role.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, systematic risk, security market line",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "127": {
+    "question": {
+      "text": "Which of the following statements about systematic and unsystematic risk is least accurate?\nA. The unsystematic risk for a specific firm is similar to the unsystematic risk for other firms in the same industry.\nB. As an investor increases the number of stocks in a portfolio, the systematic risk will remain constant.\nC. Total risk equals market risk plus firm-specific risk.\nD. As compared to a less-diversified portfolio, a well-diversified portfolio has lower unsystematic risk.",
+      "image": "",
+      "Options": [
+        "A. The unsystematic risk for a specific firm is similar to the unsystematic risk for other firms in the same industry.",
+        "B. As an investor increases the number of stocks in a portfolio, the systematic risk will remain constant.",
+        "C. Total risk equals market risk plus firm-specific risk.",
+        "D. As compared to a less-diversified portfolio, a well-diversified portfolio has lower unsystematic risk."
+      ]
+    },
+    "answer": "A",
+    "analysis": "This statement should read, 'The unsystematic risk for a specific firm is not similar to the unsystematic risk for other firms in the same industry.' Thus, other terms for this risk are firm-specific, or unique, risk. Systematic risk is not diversifiable. As an investor increases the number of stocks in a portfolio the unsystematic risk will decrease at a decreasing rate. Total risk equals systematic (market) plus unsystematic (firm-specific) risk.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "systematic risk, unsystematic risk, portfolio diversification",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "128": {
+    "question": {
+      "text": "A portfolio, invested in two assets with equal weights, has a volatility of 11.18% when the covariance (and correlation) between the asset returns is zero. If the covariance increases from zero to 0.0160, while the weights and individual asset volatilities remain unchanged, what is the change to portfolio volatility?\nA. Increase by 3.14%.\nB. Increase by 6.29%.\nC. Increase by 12.65%.\nD. Not enough information.",
+      "image": "",
+      "Options": [
+        "A. Increase by 3.14%.",
+        "B. Increase by 6.29%.",
+        "C. Increase by 12.65%.",
+        "D. Not enough information."
+      ]
+    },
+    "answer": "A",
+    "analysis": "When the covariance increases from zero to 0.016, the change of the portfolio variance is 2 * W_A * W_B * Cov_AB = 2 * 50% * 50% * 0.016 = 0.008. The new variance of the portfolio is 11.18%^2 + 0.008 = 0.020499. So the change of volatility is sqrt(0.020499) − 11.18% = 3.1376%.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "portfolio volatility, covariance",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  
+,
+  "129": {
+    "question": {
+      "text": "The efficient frontier is defined by the set of portfolios that, for each volatility level, maximizes the expected return. According to the capital asset pricing model (CAPM), which of the following statements are correct with respect to the efficient frontier?\nI. The capital market line is the straight line connecting the risk-free asset with the zero beta minimum variance portfolio.\nII. The capital market line always has a positive slope and its steepness depends on the market risk premium and the volatility of the market portfolio.\nIII. The complete efficient frontier without a risk-free asset can be obtained by combining the minimum variance portfolio and the market portfolio.\nIV. The efficient frontier allows different individuals to have different portfolios of risky assets based upon their own risk aversion and forecast for asset returns.\nV. The efficient frontier assumes no transaction costs, no taxes, a common investment horizon for all investors, and that the return distribution has no skewness.",
+      "Options": [
+        "A. II, III and V",
+        "B. I, II and III",
+        "C. I, IV and V",
+        "D. II, III and IV"
+      ]
+    },
+    "answer": "A",
+    "analysis": "Within modern portfolio theory, the efficient frontier is a combination of assets that has the best possible expected level of return for its level of risk. The efficient frontier is the positively sloped portion of the opportunity set that offers the highest expected return for a given risk level. The efficient frontier is at the top of the feasible set of portfolio combinations. II, III and V are correct statements.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "efficient frontier, CAPM",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "130": {
+    "question": {
+      "text": "In order for CAPM to hold, markets must exhibit the STRONG form of efficiency: is it NOT enough that markets are weak- or semi-strong efficient. Which assumption is the key to achieving the strong form market efficiency that supports the CAPM conclusion?",
+      "Options": [
+        "A. Investors are risk averse",
+        "B. Investors only care about first two moments",
+        "C. All investors make the same forecasts concerning the assets",
+        "D. Markets are frictionless, without taxes and transaction costs, with infinitely divisible assets"
+      ]
+    },
+    "answer": "C",
+    "analysis": "Investor homogeneity is arguably the most important, and unrealistic assumption.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, market efficiency",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "131": {
+    "question": {
+      "text": "Which of the following statements about portfolio risk and diversification is least accurate?",
+      "Options": [
+        "A. Not all risk is diversifiable.",
+        "B. Unsystematic risk can be substantially reduced by diversification.",
+        "C. Systematic risk can be eliminated by holding securities in a well-diversified international stock portfolio.",
+        "D. None of the above."
+      ]
+    },
+    "answer": "C",
+    "analysis": "Systematic risk cannot be eliminated by diversification. Unsystematic risk can be reduced by diversification. Diversification benefits will occur any time security returns have less than perfect positive correlations.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "portfolio risk, diversification",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  }
+  ,
+  "132": {
+    "question": {
+      "text": "Which of the following is a DIFFERENCE between the capital asset pricing model (CAPM) and the capital market line (CML)?",
+      "Options": [
+        "A. The CML does not include the risk-free asset, but CAPM does.",
+        "B. CAPM is a special case of the CML, where the portfolio is diversified and efficient.",
+        "C. In CAPM, risk is systematic (beta) since it can apply to inefficient portfolios; but in CML, risk is total (volatility) since it only includes efficient portfolios.",
+        "D. CAPM assumes the portfolio is diversified and efficient, but CML allows for un-diversified and/or inefficient portfolios."
+      ]
+    },
+    "answer": "C",
+    "analysis": "In regard to B, the inverse is true: CML is a special case of SML (CAPM) where the portfolio is efficient and perfectly correlated to the market portfolio.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM, CML",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "133": {
+    "question": {
+      "text": "Portfolio A has an expected return of 8%, volatility of 20%, and beta of 0.5. Assume that the market has an expected return of 10% and volatility of 25%. Also assume a risk-free rate of 5%. What is Jensen’s alpha for portfolio A?",
+      "Options": [
+        "A. 0.5%",
+        "B. 1.0%",
+        "C. 10%",
+        "D. 15%"
+      ]
+    },
+    "answer": "A",
+ "analysis": "The Jensen measure of a portfolio, or Jensen's alpha, is computed as follows:  \n$$\\alpha_p = E(R_p) - R_f - \\beta \\times [E(R_M) - R_f] = 8\\% - 5\\% - 0.5 \\times (10\\% - 5\\%) = 0.5\\%$$"
+,
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Jensen’s alpha, portfolio management",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "134": {
+    "question": {
+      "text": "Assume the risk-free rate is 3.0% and the price of risk (excess market return) is 5.0%. A manager’s portfolio produces a return of 9.0% with 30% volatility and a CAPM beta of 0.8. What is the Sharpe ratio?",
+      "Options": [
+        "A. 0.0",
+        "B. 0.2",
+        "C. 0.4",
+        "D. 0.6"
+      ],
+      "image": null
+    },
+    "answer": "B",
+    "analysis": "Sharpe ratio = (9% - 3%) / 30% = 0.2 夏普比率为： (9% - 3%) / 30% = 0.2",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Sharpe ratio, CAPM",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "135": {
+    "question": {
+      "text": "There are both absolute risk (measured without reference to a benchmark) and relative risk (measured against a benchmark) measures of market risk. Which of the following is an absolute measure of market risk?",
+      "Options": [
+        "A. Tracking error",
+        "B. Volatility of total returns",
+        "C. Correlation with a benchmark portfolio",
+        "D. Deviations from a benchmark index"
+      ],
+      "image": null
+    },
+    "answer": "B",
+    "analysis": "Market risk is the risk of losses from movements in market prices. Absolute risk measures these changes in terms of the volatility of total returns. Absolute risk ",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "market risk, absolute risk",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "136": {
+    "question": {
+      "text": "Tim is evaluating 4 funds run by 4 independent managers relative to a benchmark portfolio that has an expected return of 7.4% and volatility of 14%. He is interested in investing in the fund with the highest information ratio that also meets the following conditions in his investment guidelines:\nI Expected residual return must be at least 2%\nII Residual risk relative to the benchmark portfolio must be less than 2.5%. Based on the following information which fund should he choose?",
+      "Options": [
+        "A. Fund A",
+        "B. Fund B",
+        "C. Fund C",
+        "D. Fund D"
+      ],
+      "image": "/foundation of risk management/136_table.png"
+    },
+    "answer": "D",
+    "analysis": "Both Fund B and D meet the requirements while Fund D has higher information ratio.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "information ratio, residual risk",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  },
+  "137": {
+    "question": {
+      "text": "James Tulsma, FRM, is analyzing a publicly traded firm and is using the company’s beta, the risk-free rate of return, and the expected return on the market to estimate the company’s required rate of return. He is somewhat concerned that the underlying assumptions of this technique are not realistic. Which of the following statements is an assumption of the capital asset pricing model (CAPM)?",
+      "image": " ",
+      "Options": [
+        "A. Investors minimize their expected utility of wealth at the end of the period.",
+        "B. Investors are risk-neutral.",
+        "C. Investors are only concerned with the mean and standard deviation of returns.",
+        "D. Assets are not divisible."
+      ]
+    },
+    "answer": "C",
+    "analysis": "The capital asset pricing model (CAPM) assumes the following: Investors desire to maximize their expected utility of wealth at the end of next period. Investors are risk averse. Investors are only concerned with the mean and standard deviation of returns. Assets are fully divisible.",
+    "QA type": "knowledge reasoning QA",
+    "knowledge topics": "CAPM",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text only"
+  },
+  "138": {
+    "question": {
+      "text": "You are evaluating the historical performance of four equity funds benchmarked to the BSE SENSEX Index, as shown in the table below:\nWhich fund has the highest information ratio?",
+      "Options": [
+        "A. Fund A",
+        "B. Fund B",
+        "C. Fund C",
+        "D. Fund D"
+      ],
+      "image": "/foundation of risk management/138_table.png"
+    },
+    "answer": "B",
+    "analysis": "IR = Average Excess Return / Tracking Error Fund B has the highest information ratio.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "information ratio, fund performance",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  },
+  "139": {
+    "question": {
+      "text": "Assume the market index return is 8.0% while the risk-free rate is 3.0%. A portfolio with a volatility of 12.0% has a Sharpe measure of 0.50 and a Treynor measure of 0.20. What is the portfolio's alpha?",
+      "Options": [
+        "A. -2.79%",
+        "B. 1.16%",
+        "C. 3.83%",
+        "D. 4.50%"
+      ],
+      "image": "/foundation of risk management/139_table.png"
+    },
+    "answer": "D",
+    "analysis": "The portfolio's excess return is calculated using Sharpe ratio × volatility = 0.50 × 12% = 6.0%. Its beta is calculated as excess return / Treynor ratio = 6.0% / 0.20 = 0.30. The portfolio's alpha is computed as portfolio's excess return - beta × market premium, yielding 6.0% - 0.30 × 5.0% = 4.5%.",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "Sharpe ratio, Treynor ratio, portfolio alpha",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  },
+  "140": {
+    "question": {
+      "text": "A portfolio has an expected return of 11.0% with volatility of 24.0%. The benchmark has an expected return of 5.0% with volatility of 15%. The expected returns correlation is 0.80. What is the expected (ex ante) information ratio (IR)?",
+      "Options": [
+        "A. 0.40",
+        "B. 0.55",
+        "C. 0.65",
+        "D. 0.80"
+      ],
+      "image": "/foundation of risk management/140_table.png"
+    },
+    "answer": "A",
+"analysis": "Tracking error = $$\\text{SQRT}(24\\%^2 \\times 15\\%^2 - 2 \\times 24\\% \\times 15\\% \\times 0.80) = 15.0\\%$$  \nInformation ratio = $$\\frac{E(R_P) - R(B)}{TE} = \\frac{(11\\% - 5\\%)}{15\\%} = 0.40$$"
+,
+    "QA type": "math reasoning QA",
+    "knowledge topics": "information ratio, tracking error",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  },
+  "141": {
+    "question": {
+      "text": "Given a beta of 1.10 and a risk-free rate of 5%, what is the expected rate of return assuming a 10% market return?",
+      "Options": [
+        "A. 15.5%",
+        "B. 21.5%",
+        "C. 5.5%",
+        "D. 10.5%"
+      ],
+      "image": null
+    },
+    "answer": "D",
+    "analysis": "The expected rate of return $E(R_P) = R_f + \\beta \\cdot (E(R_m) - R_f) = 5\\% + 1.10 \\cdot (10\\% - 5\\%) = 10.5\\%$\n",
+    "QA type": "math reasoning QA",
+    "knowledge topics": "beta, expected return, CAPM",
+    "book label": "foundation of risk management",
+    "level of difficulty": "easy",
+    "question type": "text+image"
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

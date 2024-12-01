@@ -1,0 +1,527 @@
+Economics
+共享题干题
+【题干】Hans Schmidt, CFA, is a portfolio manager with a boutique investment firm that
+specializes in sovereign credit analysis. Schmidt's supervisor asks him to develop estimates
+for GDP growth for three countries. Information on the three countries is provided in Exhibit
+1.
+After gathering additional data on the three countries, Schmidt shares his findings with
+colleague, Sean O'Leary. After reviewing the data, O'Leary notes the following
+observations:Observation 1:The stock market of Country A has appreciated considerably over the
+past several years. Also, the ratio of corporate profits to GDP for Country A has been trending
+upward over the past several years and is now well above its historical average.Observation
+2:The government of Country C is working hard to bridge the gap between its standard of living
+and that of developed countries. Currently, the rate of potential GDP growth in Country C is
+high.Schmidt knows that a large part of the analysis of sovereign credit is to develop a
+thorough understanding of what the potential GDP growth rate is for a particular country and
+the region in which the country is located. Schmidt is also doing research on Country D for a
+client of the firm. Selected economic facts on Country D are provided in Exhibit 2.
+Prior to wrapping up his research, Schmidt schedules a final meeting with O'Leary to see if he
+can provide any other pertinent information. O'Leary makes the following statements to
+Schmidt:Statement 1:Many countries that have the same population growth rate, savings rate, and
+production function will have growth rates that converge over time.Statement 2:Convergence
+between countries can occur more quickly if economies are open and there is free trade and
+international borrowing and lending; however, there is no permanent increase in the rate of
+growth in an economy from a more open trade policy.
+ 
+1.【单项选择题】Based upon Exhibit 1, the factor that would most likely have the greatest
+positive impact on the per capita GDP growth of Country A is:
+A.free trade.
+B.technology.
+C.saving and investment.
+参考答案：B
+【莽学解析】Country A is a developed country with a high level of capital per worker.
+Technological progress and/or more intensive use of existing technology can help developed
+countries increase productivity and thereby increase per capita GDP. Most developed countries
+have reasonably low trade barriers; thus, somewhat freer trade is likely to have only an
+incremental, and probably transitory, impact on per capita GDP growth. Also, since the country
+already has a high capital-to-labor ratio, increased saving/investment is unlikely to increase
+the growth rate substantially unless it embodies improved technology.
+ 
+2.【单项选择题】Based upon Observation 1, in the long run the ratio of profits to GDP in
+Country A is most likely to:
+A.remain near its current level.
+B.increase from its current level.
+C.decrease from its current level.
+参考答案：C
+【莽学解析】The ratio of profits to GDP for Country A has been trending upward over the past
+several years, and is now well above its historical average. The ratio of profits to GDP cannot
+rise forever. At some point stagnant labor income would make workers unwilling to work without
+an increase in wages and would also undermine demand, making further expansion of profit
+margins unsustainable. Thus, it is likely that the ratio of profits to GDP will decline in the
+long run toward its historical average.
+ 
+3.【单项选择题】Based upon Observation 2, Country C is most likely to have:
+A.relatively low real asset returns.
+B.a relatively low real interest rate.
+C.a relatively high real interest rate.
+参考答案：C
+【莽学解析】A high growth rate of potential GDP would cause real incomes to rise more rapidly
+and also translate into higher real interest rates and higher expected/required real asset
+returns. The real interest rate is essentially the real return that consumers/savers demand in
+exchange for postponing consumption. Faster growth in potential GDP means that consumers expect
+their real income to rise more rapidly. This implies that an extra unit of future
+income/consumption is less valuable than it would be if income were expected to grow more
+slowly. All else the same, the real interest rate will have to be relatively high in order to
+induce the savings required to fund required/desired capital accumulation.
+ 
+4.【单项选择题】Based upon Exhibit 2, the least likely reason for the current pace of GDP
+growth in Country D is:
+A.a persistently strong currency.
+B.strong manufacturing exports.
+C.strong natural resource exports.
+参考答案：B
+【莽学解析】Country D is a country with abundant resources and has developed the economic
+institutions necessary for growth, yet the country is experiencing slow economic growth. It is
+likely that Country D is experiencing the Dutch Disease, where currency appreciation driven by
+strong export demand for natural resources makes other segments of the economy, in particular
+manufacturing, globally uncompetitive. Strong manufacturing exports would indicate that Country
+D is globally competitive and likely to have adopted leading edge technology. Thus, it is
+unlikely that the slow growth reflects inability to maintain productivity growth. Similarly,
+strong exports would suggest adequate demand for its products. Thus, strong exports are
+unlikely to be the cause of slow growth.
+ 
+5.【单项选择题】The type of convergence described by O'Leary in Statement 1 is best described
+as:
+A.club convergence.
+B.absolute convergence.
+C.conditional convergence.
+参考答案：C
+【莽学解析】Conditional convergence means that convergence is conditional on the countries
+having the same savings rate, population growth rate, and production function. If these
+conditions hold, the neoclassical model implies convergence to the same level of per capita
+output as well as the same steady state growth rate.
+ 
+6.【单项选择题】Which of the following growth models is most consistent with O'Leary's
+Statement 2?
+A.Classical
+B.Endogenous
+C.Neoclassical
+参考答案：C
+【莽学解析】According to the neoclassical model, convergence should occur more quickly if
+economies are open and there is free trade and international borrowing and lending. Opening up
+the economy should increase the rate at which the capital-to-labor ratio converges among
+countries. However, in the neoclassical Solow model, after the reallocation of world savings,
+there is no permanent increase in the rate of growth in an economy. Both the developed and
+developing countries eventually grow at the same steady-state rate.
+ 
+【题干】Cate Stephenson is an analyst in the economics research division of an international
+securities firm. She is conducting research on the regulatory environment in certain European
+countries. Stephenson begins with an analysis of Genovia.Genovia has recently introduced a new
+accounting statute. In Genovia, there is an independent regulator - “Le regulateur.” Le
+regulateur is not a self-regulating organization (SRO). There is also an SRO –
+“L'organisation.” L'organisation is not an independent regulator.In her research report,
+Stephenson makes the following statements:Statement 1:Le regulateur has been given legal
+authority by the government to enforce the new statute.Statement 2:L'organisation issues
+administrative regulations related to the new statute using government funding.Statement
+3:L'organisation has member companies that accept the authorization of L'organisation to set
+and enforce rules and standards. Stephenson and her supervisor discuss the intended and
+unintended effects of implementing the new statute, and Stephenson makes two comments.Comment
+1:It is likely that some unintended consequences will be identified in regulatory filings prior
+to implementation of the new legislation.Comment 2:Indirect costs arise because of unintended
+consequences and may result in high unanticipated costs.Stephenson reads a report titled
+"International Trade;' which has three sections about Genovia's policies and regulations.The
+first section of the report discusses policies that legislators may implement to accomplish
+Genovia's objective of promoting free trade on industrial goods.The second section of the
+report covers corporate domicile. Stephenson learns that regulators in Genovia recently amended
+regulations to encourage foreign businesses to move their corporate domicile to Genovia.The
+third section of the report reviews the regulation of commerce. Genovia's goal is to establish
+an environment that encourages foreign businesses to increase trade with domestic businesses.
+Stephenson considers two features of Genovia's regulation of commerce.Feature 1:Recent court
+decisions have upheld financial liability and bankruptcy laws.Feature 2:A legal structure is in
+place governing contracts and each party's rights.Stephenson then reviews two initiatives by
+Genovia to improve domestic policies and regulations.The first initiative by Genovia is its
+passage of conflict of interest regulations. Regulators implement regulatory restrictions and
+regulatory mandates that apply to employees of securities firms. One of Stephenson's research
+colleagues writes reports on a company in which he owns shares.The second initiative by Genovia
+is to reduce pollution and promote renewable electricity generation. Two years ago, the
+government implemented taxes on fossil fuels and subsidies on hydropower and other renewables.
+Stephenson reviews the changes in sources of electricity production since the policies were
+introduced, shown in Exhibit 1.
+ 
+ 
+7.【单项选择题】Which of Stephenson's statements regarding Le regulateur and L'organisation is
+correct?
+A.Only Statement 1 is correct.
+B.Only Statement 2 is correct.
+C.Both Statement 1 and Statement 2 are correct.
+参考答案：A
+【莽学解析】Le regulateur, as an independent regulator but not an SRO, has legal authority from
+the Genovia government to regulate. Therefore, Le regulateur both enacts and enforces
+regulations related to the new accounting statue in Genovia.
+ 
+8.【单项选择题】Is Stephenson's Statement 3 correct?
+A.Yes
+B.No, because L'organisation is given the authority to enforce regulations by a government
+agency
+C.No, because pressure from its member companies prevents L'organisation from enforcing its
+rules and standards
+参考答案：A
+【莽学解析】L'organisation is an SRO but not an independent regulator, so it is a private
+entity that is not affiliated with Genovia's government. SRO's that are not independent
+regulators receive authority from their members who agree to comply with the organization's
+rules and standards and its enforcement of these.
+ 
+9.【单项选择题】Which of Stephenson's comment to her supervisor is most likely correct?
+A.Only Comment 1 is correct.
+B.Only Comment 2 is correct.
+C.Both Comment 1 and Comment 2 are correct.
+参考答案：C
+【莽学解析】Comment 1 is correct because regulatory filings, in response to proposed
+regulations, often identify at least some of the unintended consequences prior to the
+implementation of the regulation. Comment 2 is correct because the cost of unintended
+consequences, including both indirect costs and unanticipated implementation costs, can be
+high.
+ 
+10.【单项选择题】Which of the following policies would best address Genovia's objective of
+promoting free trade on industrial goods?
+A.Imposing tariffs on foreign-produced goods
+B.Allowing a floating currency
+C.Providing subsidies to domestic companies
+参考答案：B
+【莽学解析】A floating currency allows international trade in Genovia to be market-based.
+International disputes about whether a country is manipulating or fixing its currency price
+often center on issues related to conpetitiveness.
+ 
+11.【单项选择题】By amending regulations to encourage foreign businesses to change their
+corporate domicile, regulators are encouraging regulatory:
+A.capture.
+B.arbitrage.
+C.competition.
+参考答案：C
+【莽学解析】Regulatory competition describes actions by regulators to encourage behaviors.
+Regulators may compete to provide a regulatory environment designed to attract certain entities
+(regulatory competition). By amending regulations, Genovia's regulators seek to encourage
+foreign companies to change their corporate domicile.
+ 
+12.【单项选择题】Which feature discussed in the third section of "International Trade" will
+most likely help Genovia achieve its goal of encouraging foreign businesses to increase trade
+with domestic businesses?
+A.Only Feature 1
+B.Only Feature 2
+C.Both Feature 1 and Feature 2
+参考答案：C
+【莽学解析】Genovia needs unambiguous laws concerning financial liability and bankruptcy to
+encourage foreign businesses to enter into contracts, particularly those that are long term and
+may involve sunk costs. The court decisions help Genovia achieve its goal. Also, clearly
+defined rules governing contracts, their interpretation, and each party's legal rights under a
+contract are necessary. Thus, both features help Genovia achieve its goal.
+ 
+13.【单项选择题】Based on Exhibit 1, which government policy has been most effective in helping
+Genovia achieve its second initiative?
+A.Tax on fossil fuels
+B.Subsidy on hydropower
+C.Subsidy on other renewables
+参考答案：C
+【莽学解析】At the end of Year 2, the compound annual growth rate (CAGR) for each sector is
+calculated as follows: (Year 2/Year 0) 0.5 - 1Fossil fuels = (426/462)0.5 - 1 = -4%Hydropower =
+(273/186)0.5 - 1 = 21%Other renewables = (154/97)0.5 - 1 = 26%.The CAGR indicates that the 26%
+increase in production from the subsidy on other renewables has been more effective than the 4%
+decrease in production from the tax on fossil fuels or the 21% increase in production from the
+subsidy on hydropower. Thus, the subsidy on other renewables of 26% is the highest, indicating
+that this policy has been the most effective in helping Genovia achieve its second initiative.
+ 
+【题干】Ed Smith is a new trainee in the foreign exchange (FX) services department of a major
+global bank. Smith’s focus is to assist senior FX trader Feliz Mehmet, CFA. Mehmet mentions
+that an Indian corporate client exporting to the United Kingdom wants to estimate the potential
+hedging cost for a sale closing in one year. Smith is to determine the premium/discount for an
+annual (360-day) forward contract using the exchange rate data presented in Exhibit 1.
+Mehmet is also looking at two possible trades to determine their profit potential. The first
+trade involves a possible triangular arbitrage trade using the Swiss, US, and Brazilian
+currencies, to be executed based on a dealer’s bid/offer rate quote of 0.2355/0.2358 in
+CHF/BRL and the interbank spot rate quotes presented in Exhibit 2.
+Mehmet is also considering a carry trade involving the USD and the euro. He anticipates it will
+generate a higher return than buying a one-year domestic note at the current market quote due
+to low US interest rates and his predictions of exchange rates in one year. To help Mehmet
+assess the carry trade, Smith provides Mehmet with selected current market data and his one-
+year forecasts in Exhibit 3.
+Finally, Mehmet asks Smith to assist with a trade involving a US multinational customer
+operating in Europe and Japan. The customer is a very cost-conscious industrial company with an
+AA credit rating and strives to execute its currency trades at the most favorable bid–offer
+spread. Because its Japanese subsidiary is about to close on a major European acquisition in
+three business days, the client wants to lock in a trade involving the Japanese yen and the
+euro as early as possible the next morning, preferably by 8:05 a.m. New York time.
+At lunch, Smith and other FX trainees discuss how best to analyze currency market volatility
+from ongoing financial crises. The group agrees that a theoretical explanation of exchange rate
+movements, such as the framework of the international parity conditions, should be applicable
+across all trading environments. They note such analysis should enable traders to anticipate
+future spot exchange rates. But they disagree on which parity condition best predicts exchange
+rates, voicing several different assessments. Smith concludes the discussion on parity
+conditions by stating to the trainees,
+I believe that in the current environment both covered and uncovered interest rate parity
+conditions are in effect.
+ 
+14.【单项选择题】Based upon Exhibit 1, the forward premium (discount) for a 360-day INR/GBP
+forward contract is closest to:
+A.-1.546
+B.1.546
+C.1.576
+参考答案：C
+【莽学解析】The equation to calculate the forward premium (discount) is:
+S<sub>f/d</sub> is the spot rate with GBP the base currency or d, and INR the foreign currency
+or f. S<sub>f/d</sub> per Exhibit 1 is 79.5093, i<sub>f</sub> is equal to 7.52% and
+i<sub>d</sub> is equal to 5.43%. With GBP as the base currency (i.e. the “domestic” currency)
+in the INR/GBP quote, substituting in the relevant base currency values from Exhibit 1 yields
+the following:
+ 
+ 
+ 
+15.【单项选择题】Based on Exhibit 2, the most appropriate recommendation regarding the
+triangular arbitrage trade is to:
+A.decline the trade, no arbitrage profits are possible.
+B.execute the trade, buy BRL in the interbank market and sell it to the dealer.
+C.execute the trade, buy BRL from the dealer and sell it in the interbank market.
+参考答案：B
+【莽学解析】The dealer is posting a bid rate to buy BRL at a price that is too high. This
+overpricing is determined by calculating the interbank implied cross rate for the CHF/BRL using
+the intuitive equation-based approach:CHF/BRL = CHF/USD × (BRL/USD)–1, orCHF/BRL = CHF/USD ×
+USD/BRLInverting the BRL/USD given the quotes in Exhibit 2 determines the USD/BRL bid–offer
+rates of 0.23980/0.23982. (The bid of 0.23980 is the inverse of the BRL/USD offer, calculated
+as 1/4.1702; the offer of 0.23982 is the inverse of the BRL/USD bid, calculated as 1/4.1698.)
+Multiplying the CHF/USD and USD/BRL bid–offer rates then leads to the interbank implied
+CHF/BRL cross rate:
+Bid: 0.9799 × 0.23980 = 0.2349
+Offer: 0.9801 × 0.23982 = 0.23505
+Since the dealer is willing to buy BRL at 0.2355 but BRL can be purchased from the interbank
+market at 0.23505, there is an arbitrage opportunity to buy BRL in the interbank market and
+sell BRL to the dealer for a profit of 0.0045 CHF (0.2355 – 0.23505) per BRL transacted.
+ 
+ 
+16.【单项选择题】Based on Exhibit 3, the potential all-in USD return on the carry trade is
+closest to:
+A.0.83%.
+B.1.23%.
+C.1.63%.
+参考答案：A
+【莽学解析】The carry trade involves borrowing in a lower-yielding currency to invest in a
+higher-yielding
+one and netting any profit after allowing for borrowing costs and exchange rate movements. The
+relevant trade is to borrow USD and lend in euros. To calculate the all-in USD return from a
+one-year EUR Libor deposit, first determine the current and one-year-later USD/EUR exchange
+rates. Because one USD buys CAD 1.3200 today and one CAD buys EUR 0.6506 today, today’s
+EUR/USD rate is the product of these two numbers: 1.3200 × 0.6506 = 0.8588. The projected rate
+one year later is 1.3151 × 0.6567 = 0.8636. Accordingly, measured in dollars, the investment
+return for the unhedged EUR Libor deposit is equal to
+(1.3200 × 0.6506) × (1＋0.022) × [1/(1.3151 × 0.6567)] –1
+= 0.8588 × (1.022) × (1/0.8636) –1 = 1.01632 – 1 = 1.632%
+However, the borrowing costs must be charged against this gross return to fund the carry trade
+investment (one-year USD Libor was 0.80%). The net return on the carry trade is therefore
+1.632% – 0.80% = 0.832%.
+ 
+17.【单项选择题】The factor least likely to lead to a narrow bid/offer spread for the
+industrial company's needed currency trade is the:
+A.timing of its trade.
+B.company's credit rating.
+C.pair of currencies involved.
+参考答案：B
+【莽学解析】While credit ratings can affect spreads, the trade involves spot settlement (i.e.,
+two business days after the trade date), so the spread quoted to this highly rated (AA) firm is
+not likely to be much tighter than the spread that would be quoted to a somewhat lower-rated
+(but still high-quality) firm. The relationship between the bank and the client, the size of
+the trade, the time of day the trade is initiated, the currencies involved, and the level of
+market volatility are likely to be more significant factors in determining the spread for this
+trade.
+ 
+18.【单项选择题】If Smith's statement on parity conditions is correct, future spot exchange
+rates are most likely to be forecast by:
+A.current spot rates.
+B.forward exchange rates.
+C.inflation rate differentials.
+参考答案：B
+【莽学解析】By rearranging the terms of the equation defining covered interest rate parity, and
+assuming that uncovered interest rate parity is in effect, the forward exchange rate is equal
+to the expected future spot exchange rate,
+, with the expected percentage change in the spot rate equal to the interest rate differential.
+Thus, the forward exchange rate is an unbiased forecast of the future spot exchange rate.
+ 
+【题干】Connor Wagener, a student at the University of Canterbury in New Zealand, has been
+asked to prepare a presentation on foreign exchange rates for his International Business
+course. Wagener has a basic understanding of exchange rates, but would like a practitioner's
+perspective, and he has arranged an interview with currency trader Hannah McFadden. During the
+interview, Wagener asks McFadden:“Could you explain what drives exchange rates? I'm curious as
+to why our New Zealand dollar was affected by the European debt crisis in 2011 and what other
+factors impact it.”In response, McFadden begins with a general discussion of exchange rates.
+She notes that international parity conditions illustrate how exchange rates are linked to
+expected inflation, interest rate differences, and forward exchange rates as well as current
+and expected future spot rates. McFadden makes the following statement:Statement 1:
+“Fortunately, the international parity condition most relevant for FX carry trades does not
+always hold.”McFadden continues her discussion:“FX carry traders go long (i.e. buy) high-
+yield currencies and fund their position by shorting, that is borrowing in, low-yield
+currencies. Unfortunately, crashes in currency values can occur which create financial crises
+as traders unwind their positions. For example, in 2008, the New Zealand dollar was negatively
+impacted when highly leveraged carry trades were unwound. In addition to investors, consumers
+and business owners can also affect currency exchange rates through their impact on their
+country's balance of payments. For example, if New Zealand consumers purchase more goods from
+China than New Zealand businesses sell to China, New Zealand will run a trade account deficit
+with China.”McFadden further explains:Statement 2:“A trade surplus will tend to cause the
+currency of the country in surplus to appreciate while a deficit will cause currency
+depreciation. Exchange rate changes will result in immediate adjustments in the prices of
+traded goods as well as in the demand for imports and exports. These changes will immediately
+correct the trade imbalance.”McFadden next addresses the influence of monetary and fiscal
+policy on exchange rates:“Countries also exert significant influence on exchange rates through
+both the initial mix of their fiscal and monetary policies, and also by subsequent adjustments
+to those policies. Various models have been developed to identify how these policies affect
+exchange rates. The Mundell-Fleming model addresses how changes in both fiscal and monetary
+policies affect interest rates and ultimately exchange rates in the short-term.”McFadden
+describes monetary models by stating:Statement 3:“Monetary models of exchange rate
+determination focus on the effects of inflation, price level changes, and risk premium
+adjustments.”McFadden continues her discussion:“So far, we've touched on balance of payments
+and monetary policy. The portfolio-balance model addresses the impacts of sustained fiscal
+policy on exchange rates. I must take a client call, but will return shortly. In the meantime,
+here is some relevant literature on the models I mentioned along with a couple of questions for
+you to consider:Question 1:Assume an emerging market (EM) country has restrictive monetary and
+fiscal policies under low capital mobility conditions. Are these policies likely to lead to
+currency appreciation, currency depreciation, or to have no impact?Question 2:Assume a
+developed market (DM) country has an expansive fiscal policy under high capital mobility
+conditions. Why is its currency most likely to depreciate in the long-run under an integrated
+Mundell-Fleming and portfolio-balance approach?”Upon her return, Wagener and McFadden review
+the questions. McFadden notes that capital flows can have a significant impact on exchange
+rates and have contributed to currency crises in both EM and DM countries. She explains that
+central banks, like the Reserve Bank of New Zealand, use FX market intervention as a tool to
+manage exchange rates. McFadden states:Statement 4:“Some studies have found that EM central
+banks tend to be more effective in using exchange rate intervention than DM central banks,
+primarily because of one important factor.”McFadden continues her discussion:Statement 5:“I
+mentioned that capital inflows could cause a currency crisis, leaving fund managers with
+significant losses. In the period leading up to a currency crisis, I would predict that an
+affected country's:Prediction 1: foreign exchange reserves will increase.Prediction 2: broad
+money growth in nominal and real terms will increase.Prediction 3: real exchange rate will be
+substantially higher than its mean level during tranquil periods.After the interview, McFadden
+agrees to meet the following week to discuss more recent events on the New Zealand dollar.
+ 
+19.【单项选择题】The international parity condition McFadden is referring to in Statement 1 is:
+A.purchasing power parity.
+B.covered interest rate parity.
+C.uncovered interest rate parity.
+参考答案：C
+【莽学解析】The carry trade strategy is dependent upon the fact that uncovered interest rate
+parity does not hold in the short or medium term. If uncovered interest rate parity held, it
+would mean that investors would receive identical returns from either an unhedged foreign
+currency investment or a domestic currency investment because the appreciation/depreciation of
+the exchange rate would offset the yield differential. However, during periods of low
+volatility, evidence shows that high yield currencies do not depreciate enough and low yield
+currencies do not appreciate enough to offset the yield differential.
+ 
+20.【单项选择题】In Statement 2, McFadden is most likely failing to consider the:
+A.initial gap between the country's imports and exports.
+B.price elasticity of export demand versus import demand.
+C.lag in the response of import and export demand to price changes.
+参考答案：C
+【莽学解析】McFadden states that exchange rates will immediately correct the trade imbalance.
+She is describing the Flow Supply/Demand Channel, which assumes that trade imbalances will be
+corrected as the deficit country's currency depreciates, causing its exports to become more
+competitive and its imports to become more expensive. Studies indicate that there can be long
+lags between exchange rate changes, changes in the prices of traded goods and changes in the
+trade balance. In the short-run, exchange rates tend to be more responsive to investment and
+financing decisions.
+ 
+21.【单项选择题】The least appropriate factor used to describe the type of models mentioned in
+Statement 3 is:
+A.inflation.
+B.price level changes.
+C.risk premium adjustments.
+参考答案：C
+【莽学解析】Risk premiums are more closely associated with the portfolio-balance approach. The
+portfolio balance approach addresses the impact of a country's net foreign asset/liability
+position. Under the portfolio balance approach, investors are assumed to hold a diversified
+portfolio of assets including foreign and domestic bonds. Investors will hold a country's bonds
+as long as they are compensated appropriately. Compensation may come in the form of higher
+interest rates and/or higher risk premium.
+ 
+22.【单项选择题】The best response to Question 1 is that the policies will:
+A.have no impact.
+B.lead to currency appreciation.
+C.lead to currency depreciation.
+参考答案：B
+【莽学解析】The currency is likely to appreciate. The emerging market country has both a
+restrictive monetary policy and restrictive fiscal policy under conditions of low capital
+mobility. Low capital mobility indicates that interest rate changes induced by monetary and
+fiscal policy will not cause large changes in capital flows. Implementation of restrictive
+policies should result in an improvement in the trade balance, which will result in currency
+appreciation.
+ 
+23.【单项选择题】The most likely response to Question 2 is a(n):
+A.increase in the price level.
+B.decrease in risk premiums.
+C.increase in government debt.
+参考答案：C
+【莽学解析】Expansionary fiscal policies result in currency depreciation in the long run. Under
+a portfolio-balance approach, the assumption is that investors hold a mix of domestic and
+foreign assets including bonds. Fiscal stimulus policies result in budget deficits which are
+often financed by debt. As the debt level rises, investors become concerned as to how the on-
+going deficit will be financed. The country's central bank may need to create more money in
+order to purchase the debt which would cause the currency to depreciate. Or, the government
+could adopt a more restrictive fiscal policy, which would also depreciate the currency.
+ 
+24.【单项选择题】The factor that McFadden is most likely referring to in Statement 4 is:
+A.FX reserve levels.
+B.domestic demand.
+C.the level of capital flows.
+参考答案：A
+【莽学解析】EM countries are better able to influence their exchange rates because their
+reserve levels as a ratio to average daily FX turnover are generally much greater than those of
+DM countries. This means that EM central banks are in a better position to affect currency
+supply and demand than DM countries where the ratio is negligible. EM policymakers use their
+foreign exchange reserves as a kind of insurance to defend their currencies, as needed.
+ 
+25.【单项选择题】Which of McFadden's predictions in Statement 5 is least likely to be correct?
+A.Prediction 1
+B.Prediction 2
+C.Prediction 3
+参考答案：A
+【莽学解析】Prediction 1 is least likely to be correct. Foreign exchange reserves tend to
+decline precipitously, not increase, as a currency crisis approaches. Broad money growth in
+nominal and real terms tends to rise sharply in the two years leading up to a currency crisis,
+peaking around 18 months before a crisis hits. In the period leading up to a currency crisis,
+the real exchange rate is substantially higher than its mean level during tranquil periods.
+ 
+【题干】Tiu Asset Management (TAM), a hypothetical financial services firm, recently hired
+Jonna Yun. Yun is a member of TAM’s Global Equity portfolio team and is assigned the task of
+analyzing the effects of regulation on the financial services sector of a par-ticular country.
+In her first report to the team, Yun makes the following statements:Statement 1 The country’s
+regulator, a government agency, concerned about systemic risk, is calling for an accelerated
+adoption of central-ized derivatives settlement (as opposed to bilateral settlement between two
+counterparties)—a more stringent rule—ahead of other major countries that are considering a
+similar move.Statement 2 Regulators use various tools to intervene in the financial services
+sector.Statement 3 Regulations may bring benefits to the economy, but they may also have
+unanticipated costs.Statement 4 The country’s regulatory authorities are considering a regula-
+tion that is similar to Regulation Q in the United States, which imposed a ceiling on interest
+rates paid by banks for certain bank deposits.
+ 
+26.【单项选择题】What is the most likely basis for the concerns noted in Statement 1?
+A.Externalities
+B.Regulatory arbitrage
+C.Informational friction
+参考答案：B
+【莽学解析】Firms based in the country are likely to be concerned because of the earlier timing
+of the application of new (more stringent) regulations in the country than in other large
+countries. With more stringent regulations, some business may flow to less stringent regulatory
+environments or jurisdictions.
+ 
+27.【单项选择题】The tools least likely to be used by regulators to intervene in financial
+markets owing to informational frictions are:
+A.blackout periods.
+B.capital requirements.
+C.insider-trading restrictions.
+参考答案：A
+【莽学解析】Blackout periods are established by companies in response to concerns about insider
+trading. Thus, blackout periods are not a tool used by regulators to intervene in the financial
+services sector. Capital requirements are used by government regulators to reduce systemic risk
+and financial contagion. Insider-trading restrictions are used by regulators concerned about
+insiders using their greater knowledge to the disadvantage of others; insider-trading
+restrictions respond to informational frictions.
+ 
+28.【单项选择题】Which of the following is most likely an unanticipated effect of regulation?
+A.Hiring compliance lawyers
+B.Setting legal standards for contracts
+C.Establishing employers' rights and responsibilities
+参考答案：A
+【莽学解析】The hiring of more lawyers to deal with compliance is an example of an 'unintended'
+implementation cost. Establishing legal standards for contracts and employers' rights and
+responsibilities are objectives (intended consequences) of some regulation.
+ 
+29.【单项选择题】After Regulation Q was imposed, the demand for money market funds most likely:
+A.increased.
+B.decreased.
+C.remained unchanged.
+参考答案：A
+【莽学解析】Regulation Q set a ceiling on the interest rates paid by banks for various types of
+deposits, which resulted in investors' shifting funds to money market funds.

@@ -1,0 +1,1639 @@
+ID,tables,question_id,question,topic,ground_truth,python_solution
+1,"['|               |      Truck*     |     Land**    |\n|---------------|:---------------:|:-------------:|\n| Original cost |     $ 57,000    |    $ 18,000   |\n| Estimated life|     8 years     |               |\n|  Estimated salvage value at purchase |     $ 15,000    |               |\n| Depreciation method | Declining balance, 20% per year |               |\n| Current fair value of item |     $ 27,000    |    $ 21,000   |  \n\n\\* The last sale of a similar truck by the company occurred more than six months ago.  \n\\** The land is one of four identical parcels of land recently sold by the company.']",validation-0,A business chose to swap a truck that it had bought three years ago for a parcel of land owned by a different enterprise. The subsequent table outlines information pertinent to both assets: The profit and loss statement for the enterprise that relinquishes the truck is most likely going to reflect a loss of:,Accounting,-8184,"def solution():
+    truck_value = 57000
+    depreciation_rate = 0.20
+    years = 3
+    land_value = 21000
+    
+    truck_carrying_value = truck_value * ((1 - depreciation_rate)**years)
+    loss = land_value - truck_carrying_value
+    
+    return loss"
+2,[],validation-1,"Given that the spot exchange rate from the ""Kiwi"" (NZD) to sterling (GBP) is 2.0979, the Libor interest rate for the sterling is 1.6025%, and for the ""Kiwi"" it's 3.2875%, all being quoted on a 360-day year basis, what are the 180-day forward points (with a precision of four decimal places) in NZD/GBP?",Market Analysis & Economics,175,"def solution():
+    spot_rate = 2.0979
+    gbp_interest_rate = 1.6025/100
+    nzd_interest_rate = 3.2875/100
+    time_in_years = 180/360
+
+    gbp_investment = 1 * (1 + gbp_interest_rate * time_in_years)
+    nzd_investment = spot_rate * (1 + nzd_interest_rate * time_in_years)
+    
+    forward_rate = nzd_investment / gbp_investment
+    
+    forward_points = (forward_rate - spot_rate) * 10000
+
+    return int(forward_points)"
+3,['| Asset Class | Standard Deviation | Covariance with GIM | Integration with GIM | Sharpe Ratio |\n| ------------ | ------------------ | --------------------- | ------------------ | ------------- |\n| U.S. real estate | 14.0% | 0.0075 | 0.60 | n/a |\n| Global investable market | - | - | - | 0.36 |\n\nAdditional Information:  \n- Risk-free rate: 3.1%\n- Expected return for the GIM:  7.2%'],validation-2,"The CME Foundation, which is based in the United States, has requested their Chief Investment Officer, Pauline Cortez, to conduct an analysis on the advantages of incorporating U.S real estate equities as a fixed asset class. As part of this process, Cortez must establish the relevant risk factor to use in the international capital asset pricing model (ICAPM) in order to appropriately determine the risk premium and expected return for this potential asset class. She will be using selected data provided by GloboStats as shown in Exhibit 1. Given the information in Exhibit 1 and under the assumption of perfect markets, what would be the calculated beta for U.S. real estate equities?",Market Analysis & Economics,0.578,"def solution():
+    cov = 0.0075
+    RPM = (7.2/100) - (3.1/100)
+    sigmaM = RPM / 0.36
+    varM = sigmaM ** 2
+    beta = cov / varM
+    return beta"
+4,['| Maturity          | At Initiation    | Three Months  Later | At Maturity   |\n|-----------------  |----------------- |---------------------|---------------|\n| Spot (USD/EUR)    | 1.3935/1.3983    | 1.4106/1.4210       | 1.4189/1.4289 |\n| 3-month forward   | -8.1/-7.6        | -21.6/-21.0         |               |\n| 6-month forward   | -19.0/-18.3      |                     | -27.0/-26.2   |\n| USD Libor         | 1.266%           | 1.266%              | 1.266%        |\n| EUR Libor         | 1.814%           | 1.814%              | 1.814%        |'],validation-3,"Martinez took over a Spanish packaging firm. The Spanish venture involved Martinez purchasing 200,000 shares of a packaging firm at EUR90 per share. He resolved to fully secure the position with a six-month USD/EUR forward agreement. Given Exhibit 1, if the Spanish shares were sold after three months, what would have been the cash expenditure (in US dollars) necessary to terminate the forward agreement?",Asset Classes & Derivatives,489849,"def solution():
+    initial_position_eur = 200000 * 90
+    six_month_forward_rate = 1.3935 - 19 / 10000
+    three_month_forward_rate = 1.4210 - 21 / 10000
+    cash_outflow_at_settlement = initial_position_eur * (three_month_forward_rate - six_month_forward_rate)
+    dollar_libor_rate = 0.01266
+    cash_expenditure = cash_outflow_at_settlement / (1 + dollar_libor_rate * 90 / 360)
+    return int(cash_expenditure)"
+5,[],validation-4,"A financial risk assessor at a local financial institution is working out the yearly VaR of a collection of investment securities. The collection presently has a market worth of USD 3,700,000 with a daily fluctuation of 0.0004. Provided that there are 250 days of trading in a year and the daily returns on the collection are autonomous and adhere to the same usual distribution with a zero mean, what is the estimated 1-year VaR at the 95% assurance level?",Quantitative Analysis & Valuation,1924720.298,"def solution():
+    worth = 3700000
+    volatility = 0.0004
+    days = 250
+    Z = 1.645
+    daily_std_dev = (volatility)**0.5
+    annual_VaR = worth * (days**0.5) * daily_std_dev * Z
+    return annual_VaR"
+6,[],validation-5,"For the organizations evaluated, it is projected that 40% will face bankruptcy within one year: P(failure) = 0.40. Meanwhile, 55% of these organizations are expected to succeed: P(success) = 0.55. There's an 85% likelihood that an organization will succeed if it stays afloat for a year: P(success | survival) = 0.85. Using the total probability rule, we can calculate the probability of an organization succeeding even if it eventually goes bankrupt. Thus, P(success | failure) is approximately: An examiner establishes a set of standards for analyzing troubled credits. Organizations that fail to achieve a passing score are categorized as probable to face bankruptcy within the upcoming year. The examiner arrives at the following conclusions:",Quantitative Analysis & Valuation,0.1,"def solution():
+    non_survivor = 0.40
+    survivor = 1 - non_survivor
+    pass_test_for_survivor = 0.85
+    total_pass_test = 0.55
+
+    pass_test_for_non_survivor = (total_pass_test - pass_test_for_survivor * survivor) / non_survivor
+    return pass_test_for_non_survivor"
+7,['| Company | Market Share(%) |\n|---------|-----------------|\n| Zeta    | 35              |\n| Yusef   | 25              |\n| Xenon   | 20              |\n| Waters  | 10              |\n| Vlastos | 10              |'],validation-6,"What is the three-firm Herfindahl-Hirschmann Index for the sector, given that a researcher collected the following market share data for a sector made up of five firms?",Market Analysis & Economics,0.225,"def solution():
+    # three firms' market shares
+    firm1_share = 0.35
+    firm2_share = 0.25
+    firm3_share = 0.2
+    
+    # Herfindahl-Hirschmann Index
+    hhi = firm1_share**2 + firm2_share**2 + firm3_share**2
+    
+    return hhi"
+8,[],validation-7,"A two-year fixed-for-floating Libor swap stands at 1.00% and the two-year US Treasury bond yield is currently 0.63%. What is the difference in rates, also known as the swap spread?",Asset Classes & Derivatives,37,"def solution():
+    libor_swap = 1.00
+    us_treasury_bond_yield = 0.63
+    swap_spread = libor_swap - us_treasury_bond_yield
+    return swap_spread * 100  # Result in basis points"
+9,"['| Acquisition cost $ 600,000 | |\n|---|---|\n| Acquisition date 1 January 2013 | |\n| Expected residual value at time of acquisition $ 100,000 | |\n| The intangible asset is supposed to bring in profits for 5 years after acquisition. | |']",validation-8,"Using the straight-line method, what is the accumulated amortization cost at the end of 2016 for the relevant information about an intangible asset?",Accounting,400000,"def solution():
+    original_cost = 600000
+    residual_value = 100000
+    useful_life = 5
+    years_passed = 4
+    accumulated_amortization = ((original_cost - residual_value) / useful_life) * years_passed
+    return accumulated_amortization"
+10,[],validation-9,"Based on the regression function from 1972 to 2012, the average mean reversion was 77.5%. The correlation data over a prolonged period averages at 35%. In the case of the 30 by 30 NASDAQ correlation matrices, the correlation averaged at 27% in January 2014. Utilizing the basic s(t) - s(t-1) = alpha × [μ - s(t -1)] model, what is the correlated expectation for February 2014?",Risk Management,33.2,"def solution():
+    return 27.0 + 77.5 * (35.0 - 27.0) / 100"
+11,[],validation-10,"Superior Inc. anticipates paying dividends of $0.5 per share for the upcoming two years. Dividends are predicted to increase at a 6% growth rate after that. Given a 10% rate of return, what is the worth of Superior's common equity?",Asset Classes & Derivatives,11.818,"def solution():
+    D01=D02=0.5 
+    P02=0.5*(1.06)/(0.1-0.06)
+    V= (0.5)/1.1+(0.5+P02)/(1.1**2)
+    return V"
+12,[],validation-11,"As a dominant entity in the industry, Yahoo Corp. recently conducted a market analysis and discovered that the price elasticity of demand is 1.8. If the marginal cost is $30 and the average cost is $50, what is the most probable price?",Market Analysis & Economics,67.5,"def solution():
+    E = 1.8
+    MC = 30
+    price = MC / (1 - (1 / E))
+    return price"
+13,"['| Total revenue | $460,000 |\n|---------------|----------|\n| Value of buildings and machinery |  |\n| - At the beginning of the year | $320,000 |\n| - At the end of the year | $270,000 |\n| Cost of raw materials | $80,000 |\n| Wages paid during the year | $30,000 |\n| Normal profit for the year | $50,000 |']",validation-12,What is the annual economic profit for Chace's House Industry based on the collected data?,Market Analysis & Economics,250000,"def solution():
+    opportunity_costs = 80000 + 30000 + 50000
+    economic_depreciation = 320000 - 270000
+    total_revenue = 460000
+    economic_profit = total_revenue - opportunity_costs - economic_depreciation
+    return economic_profit"
+14,"['| For Year Ending 31 December | 2012 |\n| --------------------------- | ---- |\n| Revenues                   | $6,456 |\n| Earnings before interest,taxes, depreciation, and amortization (EBITDA) | 1,349 |\n| Depreciation expense | 243 |\n| Operating income     | 1,106 |\n| Interest expense     | 186 |\n| Pretax income        | 920 |\n| Income tax (32%)     | 294 |\n| Net income           | $626 |\n|                           |      |\n| Number of outstanding shares (millions) | 411 |\n| 2012 earnings per share     | $1.52 |\n| 2012 dividends paid (millions) | 148 |\n| 2012 dividends per share    | 0.36 |\n| 2012 fixed capital investment (millions) | 535 |\n|                           |      |\n| Cost of equity           | 12.0% |\n| Weighted average cost of capital (WACC) | 9.0% |'
+ ""| Assets                      | 2012  | 2011  |\n|-----------------------------|-------|-------|\n| Cash and cash equivalents   | $32   | $21   |\n| Accounts receivable         | 413   | 417   |\n| Inventories                 | 709   | 638   |\n| Other current assets        | 136   | 123   |\n| **Total current assets**    | $1,290| $1,199|\n|                             |       |       |\n| Current liabilities         | $2,783| $2,678|\n| Long-term debt              | 2,249 | 2,449 |\n| Common stockholders' equity | 1,072 | 594   |\n| **Total liabilities and stockholders' equity**| $6,104| $5,721|""]",validation-13,"According to Exhibits 1 and 2, what is the FCFF ($ millions) of the Johnson Company for the fiscal year ending on December 31, 2012?",Asset Classes & Derivatives,485.561,"def solution():
+    NI = 626
+    NCC = 243
+    Int = 186
+    Tax_rate = 294/920 
+    FCInv = 535
+    WCInvNet = -25
+    FCFF = NI + NCC + Int*(1 - Tax_rate) - FCInv - WCInvNet
+    return FCFF"
+15,"['| | C$ |\n| --- | --- |\n| Carrying value of equipment (net book value) | 500,000 |\n| Undiscounted expected future cash flows | 550,000 |\n| Present value of expected future cash flows | 450,000 |\n| Fair Value | 480,000 |\n| Costs to sell | 50,000 |\n| Value in use | 440,000 |']",validation-14,"What is the impairment loss (in C$) for the printing equipment of a Canadian corporation that prepares its financial statements according to IFRS and has seen a decrease in product demand, as of 31 December 2010?",Accounting,60000,"def solution():
+    fair_value = 480000
+    cost_to_sell = 50000
+    value_in_use = 440000
+    carrying_value = 500000
+
+    recoverable_amount = max(fair_value - cost_to_sell, value_in_use)
+    impairment_loss = carrying_value - recoverable_amount
+    return impairment_loss"
+16,['| Coupon rate            | 3%                   |\n|------------------------|---------------------|\n| Interest paid          | Semiannually        |\n| Mature time            | 3 years             |\n| Required rate of return| 5%                  |\n| Par value of the bond  | 100                 |'],validation-15,"The following information pertains to a bond, what will be the bond's price?",Asset Classes & Derivatives,94.492,"def solution():
+
+    N = 2 * 3
+    I_Y = 5 / 2
+    PMT = 3 / 2
+    FV = 100
+
+    PV = 0
+
+    for i in range(1, N + 1):
+        PV += PMT / ((1 + I_Y/100) ** i)
+    PV += FV / ((1 + I_Y/100) ** N)
+
+    return PV"
+17,[],validation-16,"In 2009, Shine Kids Ltd., which started its operations in October of that year, bought 10,000 units of a toy at a cost of ₤10 per unit in October. The toy was a hit in October. Expecting a surge in December sales, Shine purchased an additional 5,000 units in November at a cost of ₤11 per unit. During 2009, Shine sold 12,000 units at a rate of ₤15 per unit. What is Shine's cost of goods sold for 2009 using the first in, first out (FIFO) method?",Accounting,122000,"def solution():
+    October_units = 10000
+    November_units = 2000
+    October_unit_cost = 10
+    November_unit_cost = 11
+    cost_of_goods_sold = (October_units * October_unit_cost) + (November_units * November_unit_cost)
+    return cost_of_goods_sold"
+18,['| Scenario              | Probability of scenario (%) | Portfolio return | Probability of return (%) |\n|-----------------------|-----------------------------|------------------|---------------------------|\n| good economic situation | 70                          | 20%             | 50                        |\n| good economic situation | 70                          | 10%             | 50                        |\n| bad economic situation  | 30                          | 5%              | 60                        |\n| bad economic situation  | 30                          | -10%            | 40                        |'],validation-17,"What is the anticipated portfolio return made by an investment company analyst named Maud, under two scenarios of portfolio returns in various economic conditions?",Quantitative Analysis & Valuation,0.102,"def solution():
+    good_economic_situation_return = 0.2*0.5 + 0.1*0.5
+    bad_economic_situation_return = 0.05*0.6 + -0.1*0.4
+    general_expected_return = 0.7*good_economic_situation_return + 0.3*bad_economic_situation_return
+    return general_expected_return"
+19,[],validation-18,"Suppose a US enterprise employs LIFO for its stock accounting. At the start of 2017, the balance sheet shows inventory at $200,000, with a LIFO reserve of $30,000. By the close of 2017, the inventory stands at $250,000, with a LIFO reserve of $40,000. With a tax rate of 30%, what would the inventory be at the end of 2017 after converting from LIFO to FIFO?",Accounting,290000,"def solution():
+    LIFO_inventory = 250000
+    LIFO_reserve = 40000
+    FIFO_inventory = LIFO_inventory + LIFO_reserve
+    return FIFO_inventory"
+20,[],validation-19,"What is the cost per 100 of par value for a zero-coupon bond with a maturity of 15 years, given a yearly market discount rate of 4.5% and assuming yearly compound interest?",Asset Classes & Derivatives,51.672,"def solution():
+    r = 0.045
+    n = 15
+    fv = 100
+    pv = fv / ((1 + r) ** n)
+    return pv"
+21,[],validation-20,"A company noted a gain on redemption of $100,000 with a carrying value of $950,000, and a face value of $1 million. Kindly compute the call price:",Accounting,85,"def solution():
+    carrying_value = 950000
+    gain_on_redemption = 100000
+    call_price = carrying_value - gain_on_redemption
+    return call_price/10000.0"
+22,['| Ratio   | Spot rate |\n|---------|-----------|\n| USD/EUR | 1.3860    |\n| EUR/CAD | 0.6125    |\n| USD/GBP | 1.4208    |'],validation-21,"Based on the provided document, we have three spot rate ratios between USD and other currencies. Which option is most precise for the spot EUR/GBP cross-rate?",Market Analysis & Economics,1.025,"def solution():
+    USD_EUR = 1.3860
+    USD_GBP = 1.4208
+    EUR_GBP = (1 / USD_EUR) * USD_GBP
+    return EUR_GBP"
+23,['|Maturity   | Par Rate | Spot rate |\n|---|---|---|\n| One-Year  | 2.50%  | 2.50%  |\n| Two-Year  | 2.99%  | 3.00%  |\n| Three-Year  | 3.48%  | 3.50%  |\n| Four-Year  | 3.95%  | 4.00%  |\n| Five-Year  | 4.37%  |   |'],validation-22,"Based on Exhibit 1, what is the five-year spot rate for Steve, a bond trader at a financial institution? Keep in mind that par and spot rates are derived from annual-coupon sovereign bonds.",Asset Classes & Derivatives,4.453,"def solution():
+    # given spot rates and swap rate
+    spot_rates = [0.025, 0.03, 0.035, 0.04]
+    swap_rate = 0.0437
+
+    # calculate the sum of discounted swap rate payments 
+    sum_discounted_payments = sum([swap_rate / ((1 + rate) ** i) for i, rate in enumerate(spot_rates, start=1)])
+
+    # calculate the 5-year spot rate solving the formula above for S5
+    S5 = ((1 + swap_rate) / (1 - sum_discounted_payments))**(1/5) - 1
+
+    # return S5 in percentage
+    return S5 * 100"
+24,[],validation-23,"A risk manager specializing in market risk is looking to determine the cost of a 2-year zero-coupon bond. The current 1-year interest rate is 8.0%. There's a chance of 50% that the 1-year interest rate will reach 10.0% after one year and an equal probability of its falling to 6.0% in the same period. Suppose the yearly risk premium for duration risk is 40 bps, and the bond faces a value of EUR 1,000. What should be the zero-coupon bond's valuation?",Risk Management,851.313,"def solution():
+    bond_face_value = 1000
+    risk_free_rate = 0.08
+    risk_premium = 0.004
+    up_interest_rate = 0.10
+    down_interest_rate = 0.06
+    probability_up = 0.5
+    probability_down = 0.5
+
+    up_price_date1 = bond_face_value / (1 + up_interest_rate + risk_premium)
+    down_price_date1 = bond_face_value / (1 + down_interest_rate + risk_premium)
+
+    expected_price_date1 = probability_up * up_price_date1 + probability_down * down_price_date1
+    zero_coupon_bond_price = expected_price_date1 / (1 + risk_free_rate + risk_premium)
+    
+    return zero_coupon_bond_price"
+25,['| Sample Size | Sample Mean | Sample Standard Deviation |\n|-------------|-------------|--------------------------|\n| A 25        | 200         | 45                       |\n| B 18        | 185         | 60                       |'],validation-24,"Assuming that the variances of the underlying populations are equal, independent samples taken from normally distributed groups display the following features: The combined estimation of the common variance is 2,678.05. What is the suitable t-test statistic to verify the assumption that the average of the two populations are the same?",Quantitative Analysis & Valuation,0.938,"def solution():
+    return (200 - 185) / (2678.05 / 25 + 2678.05 / 18)**0.5"
+26,"['| Income Statement          | Balance Sheet Changes                         |     |\n|---------------------------|-----------------------------------------------|-----|\n| Revenue                   | $56,800  Decrease in accounts receivable $1,324 |     |\n| Cost of goods sold        | $27,264  Decrease in inventory               | 501 |\n| Other operating expense   | $562 Increase in prepaid expense             | 6   |\n| Depreciation expense      | $2,500 Increase in accounts payable          | 1,063 |']",validation-25,The following data is gleaned from the financial statements of Sugarfall Corporation. How much cash did Sugarfall Corp. pay to its suppliers?,Accounting,25700,"def solution():
+    cost_of_goods_sold = 27264
+    decrease_in_inventory = 501
+    increase_in_accounts_payable = 1063
+    cash_paid_to_suppliers = cost_of_goods_sold - decrease_in_inventory - increase_in_accounts_payable
+    return cash_paid_to_suppliers"
+27,[],validation-26,"What is the compensation expense for 2011 resulting from the executive stock options provided by the firm in 2011? The firm gave its senior managers 20,000 options on its common stocks on January 1, 2011. The options have a lock-in period of 4 years and lapse after 5 years of being given. The option price on the day they were granted was $2.5 per option. The average option price for the whole year was $2.8 per option. The fair value of the company's stocks on the grant day, January 1, 2011, was $15 per share.",Accounting,12500,"def solution():
+    options = 20000
+    option_price = 2.5
+    vesting_period = 4
+
+    compensation_expense_2011 = options * option_price / vesting_period
+
+    return compensation_expense_2011"
+28,[],validation-27,"If a security has a yearly adjusted period of 7.020 and an annual convexity of 65.180 and its return to maturity falls by 25 basis points, what is the anticipated percentage change in price?",Asset Classes & Derivatives,1.775,"def solution():
+    ann_mod_dur = 7.020
+    ann_converxity = 65.180
+    delta_yield = -0.0025
+
+    price_change = (-ann_mod_dur * delta_yield) + (0.5 * ann_converxity * (delta_yield ** 2))
+    return price_change * 100  # convert to percentage"
+29,[],validation-28,What is the intrinsic value of preferred stock when the non-exchangeable and non-refundable preferred shares launched by the U.S. life assurance group are 5.80 percent at a par value of $30? The identical issue has a return rate of 5 percent.,Asset Classes & Derivatives,34.8,"def solution(): 
+    # Expected annual dividend equals to 5.8% × $30
+    dividend = (5.8 / 100) * 30 
+
+    # Value of preferred stock is dividend / 0.05 
+    stock_value = dividend / 0.05 
+
+    return stock_value"
+30,[],validation-29,Assume that the initial value is 400 and the risk-free rate stands at 5%. The asset offers a continuous dividend of 3%. Determine the forward price for a forward contract of 6 months:,Market Analysis & Economics,404.02,"def solution():
+    import math
+    F0 = 400 * math.exp((0.05 - 0.03) * 0.5)
+    return F0"
+31,[],validation-30,"In the last 36 months, the standard deviation for the monthly returns of an investment portfolio has been 4.9%. To evaluate an assertion that the investment strategy for this portfolio yields a standard deviation of monthly returns below 5.0%, what is the test statistic's value?",Quantitative Analysis & Valuation,33.614,"def solution():
+    n = 36
+    s = 0.049
+    sigma = 0.05
+    chi_square_statistic = ((n - 1) * s**2) / sigma**2
+    return chi_square_statistic"
+32,"[""|                                           |                    |  2008   |                   |  2007   |\n|-------------------------------------------|--------------------|---------|-------------------|---------|\n| **As of 31 December**                     |                    |         |                   |         |\n| **Assets**                                |                    |         |                   |         |\n| Current assets                            |                    |         |                   |         |\n| Cash and cash equivalents                 |                    |   $372  |                   |  $315   |\n| Accounts receivable                       |                    |   $770  |                   |  $711   |\n| Inventories                               |                    |   $846  |                   |  $780   |\n| Total current assets                      |                    |  $1,988 |                   |  $1,806 |\n| Gross fixed assets                        |   $4,275           |         |   $3,752          |         |\n| Less: Accumulated depreciation            |   $1,176           |  $3,099 |   $906            |  $2,846 |\n| **Total assets**                          |                    |  $5,087 |                   |  $4,652 |\n| **Liabilities and shareholders' equity**  |                    |         |                   |         |\n| Current liabilities                       |                    |         |                   |         |\n| Accounts payable                          |                    |  $476   |                   |  $443   |\n| Accrued taxes and expenses                |                    |  $149   |                   |  $114   |\n| Notes payable                             |                    |  $465   |                   |  $450   |\n| Total current liabilities                 |                    |  $1,090 |                   |  $1,007 |\n| Long-term debt                            |                    |  $1,575 |                   |  $1,515 |\n| Common stock                              |                    |  $525   |                   |  $525   |\n| Retained earnings                         |                    |  $1,897 |                   |  $1,605 |\n| **Total liabilities and shareholders' equity** |              |  $5,087 |                   |  $4,652 |""
+ '|   |   |\n|---|---|\n| Total revenues | $3,323 |\n| Cost  of goods  sold | 1,287 |\n| Selling, general, and administrative expenses | 858 |\n| Earnings before interest, taxes, depreciation, and amortization (EBITDA) | 1,178 |\n| Depreciation expense | 270 |\n| Operating income | 908 |\n| Interest expense | 195 |\n| Pretax income | 713 |\n| Income tax (at 32 percent) | 228 |\n| Net income | $485 |']",validation-31,"Using the 2007 and 2008 financial reports for Holt Corporation, which are presented in Exhibits 1 and 2 and in line with US GAAP, what is Holt's 2008 FCFE (in millions) as Jake Thompson is preparing a presentation to analyze the valuation of this company and Emerald Corp's common stock using a FCFE model? Thompson also plans to do a value estimate for Emerald through a dividend discount model for potential recommendations to his firm.",Asset Classes & Derivatives,250,"def solution():
+    NI = 485
+    NCC = 270
+    FCInv = 4275 - 3752
+    WCInv = (770-711) + (846-780) - (476-443) - (149-114)
+    Net_borrowing = (465-450) + (1575-1515)
+    FCFE = NI + NCC - FCInv - WCInv + Net_borrowing
+    return FCFE"
+33,['| Items                        | Times |\n| ------------------------     | ----- |\n| net profit margin            | 20%   |\n| retention rate               | 60%   |\n| asset turnover               | 0.8   |\n| financial leverage multiplier| 1.5   |'],validation-32,What is the sustainable growth rate?,Accounting,0.144,"def solution():
+    ROE = 0.2 * 0.8 * 1.5
+    sustainable_growth_rate = 0.6 * ROE
+    return sustainable_growth_rate"
+34,['| Ratio | Spot rate |\n|-------|-----------|\n| CNY/HKD | 0.8422 |\n| CNY/ZAR | 0.9149 |\n| CNY/SEK | 1.0218 |'],validation-33,What is the immediate ZAR/HKD exchange rate given by a broker?,Market Analysis & Economics,0.921,"def solution():
+    CNY_ZAR = 0.9149
+    CNY_HKD = 0.8422
+    ZAR_HKD = (1/CNY_ZAR) * CNY_HKD
+    return ZAR_HKD"
+35,[],validation-34,What weight will be applied to a four-day-old return when forecasting the conditional variance using a RiskMetrics EWMA model with a decay factor λ = 0.95 on a daily basis?,Quantitative Analysis & Valuation,0.043,"def solution():
+    decay_factor = 0.95
+    weight_of_last_day = (1 - decay_factor)
+    weight_four_days_ago = weight_of_last_day * pow(decay_factor, 3)
+    return weight_four_days_ago"
+36,[],validation-35,"After putting $180,000 in an investment today with an interest rate of 10% that compounds on a daily basis, what will the worth of the investment be after 2 years for a shareholder?",Quantitative Analysis & Valuation,219846,"def solution():
+    principal = 180000
+    rate = 10 / 100
+    time = 2
+    n = 365
+
+    amount = principal * (1 + rate / n) ** (n * time)
+    
+    return int(amount)"
+37,['|   Date   |  Transaction |           Units           |    Unit cost    |\n|:--------:|:------------:|:-------------------------:|:---------------:|\n| June 1   |   Inventory  |          20 units @      |    $5.00/unit   |\n| June 12  |   Purchased  |          70 units @      |    $5.20/unit   |\n| June 16  |     Sold     |   50 units @ $6.00/unit  |                 |\n| June 26  |   Purchased  |   35 units @ $5.5/unit   |                 |\n| June 29  |     Sold     |   40 units @ $6.50/unit  |                 |'],validation-36,"The inventory account of a company experienced the following transactions in June: Under the periodic FIFO inventory costing, what was the gross profit for June?",Accounting,96,"def solution():
+    sales = (50 * 6) + (40 * 6.5)
+    COGS = (20 * 5) + (70 * 5.2)
+    gross_profit = sales - COGS
+    return gross_profit"
+38,[],validation-37,"A medium-sized American utilities firm requires a return rate of 10%. Johnson and his colleagues predict that, due to a recent reorganization, the firm probably won't distribute dividends for the following three years. However, they anticipate that ABC will start paying an annual dividend of US$1.72 for each share starting from the fourth year onwards. After this, the dividend is predicted to experience a perpetual growth of 4%, though the present price suggests a growth rate of 6% for the identical timeframe. If Johnson's team employs the dividend discount model, what would be the current inherent value of Company ABC stock?",Asset Classes & Derivatives,21.538,"def solution():
+    D4 = 1.72
+    r = 0.10
+    g = 0.04
+    P3 = D4/(r-g)
+    V0 = P3 / ((1+r)**3)
+    return V0"
+39,[],validation-38,"Assuming a payout ratio of 50% and a growth rate of 10%, and a return rate of 15%, what is the leading price-to-earnings (P/E) ratio for Tiger Corporation?",Asset Classes & Derivatives,10,"def solution():
+    divident_payout_ratio = 0.5
+    k = 0.15
+    g = 0.1
+    P_E = divident_payout_ratio / (k - g)
+    return P_E"
+40,[],validation-39,"What is the present value (PV) of an investment that provides €300 yearly for five years, starting from this very moment, when discounted at an annual rate of 4%?",Quantitative Analysis & Valuation,1388,"def solution():
+    A = 300
+    r = 0.04
+    N = 5
+    PV = A*((1-(1/((1+r)**N)))/r)*(1+r)
+    return int(PV)"
+41,[],validation-40,"A company recently noted a $15,000 loss from selling equipment used in its production process. If the initial price of the equipment was $100,000 and the accumulated depreciation at the time of sale was $60,000, what sum did the company gain from the sale?",Accounting,25000,"def solution():
+    loss = 15000
+    initial_price = 100000
+    accumulated_depreciation = 60000
+    carrying_value = initial_price - accumulated_depreciation
+    proceeds = carrying_value - loss
+    return proceeds"
+42,[],validation-41,A business has total liabilities amounting to £35 million and total shareholders' equity of £55 million. What percentage do total liabilities constitute on a vertical common-size balance sheet?,Accounting,38.889,"def solution():
+    total_liabilities = 35
+    total_equity = 55
+    total_assets = total_liabilities + total_equity
+
+    return (total_liabilities / total_assets) * 100"
+43,[],validation-42,"If the Smith company recently paid a dividend of $2, with a required rate of return of 14% per annum and an expected constant growth rate of 8% per year for the dividend, what would the inherent value be for Smith's shares?",Asset Classes & Derivatives,36,"def solution():
+    D0 = 2
+    g = 0.08
+    r = 0.14
+    D1 = D0 * (1 + g)
+    P0 = D1 / (r - g)
+    return P0"
+44,['| PV0      | PV+      | PV_      | △Curve | △Yield |\n|----------|----------|----------|--------|--------|\n| 99.41172 | 99.32213 | 99.50132 | 3 bps  | 1bp    |'],validation-43,"Taking into account the details for a conventional fixed-rate bond with no options where PV0 signifies the original bond price, PV+ denotes the bond's price when the yield to maturity is raised, PV_ indicates the new price of the bond when yield to maturity is reduced, ∆Curve shows the modification in the benchmark yield curve, and ∆Yield explains the alteration in the yield to maturity, what can you estimate as the bond's approximate convexity?",Asset Classes & Derivatives,10.059,"def solution():
+    PV_minus = 99.50132
+    PV_plus = 99.32213
+    PV0 = 99.41172
+    delta_yield = 0.0001
+
+    ApproxConvexity = ((PV_minus + PV_plus) - 2 * PV0) / ((delta_yield) ** 2 * PV0)
+    
+    return ApproxConvexity"
+45,['|                | Portfolio return | Benchmark return | Portfolio weight | Benchmark weight |\n|----------------|------------------|------------------|------------------|------------------|\n| Domestic       | 25%              | 15%              | 50               | 35               |\n| Bond           | 9%               | 5%               | 30               | 35               |\n| International  | 15%              | 18%              | 20               | 30               |'],validation-44,"According to the given table, can you compute the value added from the choice of security?",Portfolio Management & Strategy,5.6,"def solution():
+    Wp = 1 # Weight of the portfolio
+    Rp = 6.6 # Return of the portfolio
+    RB = 1 # Return of the benchmark
+
+    # Value added from the choice of security
+    security_selection = Wp*(Rp-RB)
+    
+    return security_selection"
+46,[],validation-45,A dealer has listed a three-month forward exchange rate in CAD/USD at 1.0123. This same dealer also provides a 6.8% quote for 3-month forward points as a percentage. What is the spot rate for CAD/USD?,Market Analysis & Economics,0.948,"def solution():
+    forward_rate = 1.0123
+    forward_points_as_percentage = 0.068
+
+    spot_rate = forward_rate / (1 + forward_points_as_percentage)
+
+    return spot_rate"
+47,"['|                                         | Year Ending | December 31 |\n|-----------------------------------------|-------------|-------------|\n|                                         | 2011        | 2010        |\n| Rental income                           | 339,009     | 296,777     |\n| Other property income                   | 6,112       | 4,033       |\n| Total income                            | 345,121     | 300,810     |\n| Property operating expenses             | 19,195      | 14,273      |\n| Property taxes                          | 3,610       | 3,327       |\n| Total property expenses                 | 22,805      | 17,600      |\n| Net operating income                    | 322,316     | 283,210     |\n| Other income (gains on sale of properties) | 2,162     | 1,003       |\n| General and administrative expenses     | 21,865      | 19,899      |\n| Depreciation and amortization           | 90,409      | 78,583      |\n| Net interest expenses                   | 70,017      | 56,404      |\n| Net income                              | 142,187     | 129,327     |\n| Weighted average shares outstanding     | 121,944     | 121,863     |\n| Earnings per share                      | 1.17        | 1.06        |\n| Dividend per share                      | 0.93        | 0.85        |\n| Price/FFO, based upon year-end stock price | 11.5x    | 12.7x       |']",validation-46,"According to Exhibit 1, what was the share price of Baldwin at the end of 2011?",Asset Classes & Derivatives,21.731,"def solution():
+    accounting_net_income = 142187
+    depreciation_charges = 90409
+    gains_on_sale = 2162
+    shares_outstanding = 121944
+    price_FFO = 11.5
+    FFO_per_share = (accounting_net_income + depreciation_charges - gains_on_sale) / shares_outstanding
+    share_price = FFO_per_share * price_FFO
+    return share_price"
+48,[],validation-47,"A researcher is studying a collection composed of 1,000 secondary quality loans and 600 top quality loans. From the secondary quality loans, 200 are delayed in their payments. From the top quality loans, 48 are delayed in their payments. If the researcher arbitrarily picks a loan from the collection and it is presently delayed in its payments, what are the odds that it is a secondary quality loan?",Quantitative Analysis & Valuation,0.806,"def solution():
+    total_loans = 1000 + 600
+    total_late = 200 + 48
+    late_subprime = 200
+
+    probability_late = total_late / total_loans
+    probability_late_and_subprime = late_subprime / total_loans
+    probability_subprime_given_late = probability_late_and_subprime / probability_late
+
+    return probability_subprime_given_late"
+49,[],validation-48,"A researcher is tasked with determining the VaR of a long position in a put option on the shares of Large Pharmaceuticals Corp. The shares are currently priced at USD 26.00, with a daily volatility rate of 1.5%, and the option is at-the-money with a delta of -0.5. What would be the 1-day 95% VaR of the option position, if calculated via the delta-normal method?",Quantitative Analysis & Valuation,0.321,"def solution():
+    delta = -0.5
+    rate = 0.015
+    price = 26
+    U = 1.645
+    sd = abs(delta) * (rate * price)
+    VaR = sd * U
+    return VaR"
+50,"['| Net income                                      | $55,000 |\n|-------------------------------------------------|---------|\n| Depreciation                                    | $60,000 |\n| Taxes paid                                      | $25,000 |\n| Interest paid                                   | $5,000  |\n| Dividends paid                                  | $10,000 |\n| Cash received from sale of company building     | $40,000 |\n| Issuance of preferred stock                     | $45,000 |\n| Repurchase of common stock                      | $20,000 |\n| Purchase of machinery                           | $20,000 |\n| Issuance of bonds                               | $40,000 |\n| Debt retired through issuance of common stock   | $45,000 |\n| Paid off long-term bank borrowings              | $10,000 |\n| Profit on sale of building                      | $15,000 |']",validation-49,Assuming the cash flow from financing activities according to U.S. GAAP is:,Accounting,45000,"def solution():
+    issuance_of_preferred_stock = 45000
+    issuance_of_bonds = 40000
+    principal_payments_on_bank_borrowings = 10000
+    repurchase_of_common_stock = 20000
+    dividends_paid = 10000
+
+    CFF = issuance_of_preferred_stock + issuance_of_bonds - principal_payments_on_bank_borrowings - repurchase_of_common_stock - dividends_paid
+
+    return CFF"
+51,[],validation-50,"What's the price of a bond with a face value of $1000, a coupon rate of 5%, and an annual-pay period of 3 years, assuming the spot rates are 3.6% for the first year, 3.7% for the second year, and 3.8% for the third year?",Asset Classes & Derivatives,1033.61,"def solution():
+    bond_value = 50 / 1.036 + 50 / (1.037 ** 2) + 1050 / (1.038 ** 3)
+    return bond_value"
+52,"['|                                      |        |\n|--------------------------------------|--------|\n| ABC LA retirement plan information 2018 |        |\n| Current service costs                | 470    |\n| Past service costs                   | 0      |\n| Employer contributions               | 1,200  |\n| Benefit obligation at beginning of year | 45,000 |\n| Benefit obligation at end of year      | 48,395 |\n| Plan assets at beginning of year       | 40,800 |\n| Plan assets at end of year             | 44,300 |\n| Actuarial loss                         | 350    |\n| Actual return on plan assets           | 3,100  |\n| Discount rate on plan liabilities      | 7.5%   |\n| Expected rate of return on plan assets | 8.2%   |']",validation-51,"XYZ NY, a home decor shopping enterprise, provides its employees with a defined benefit pension plan. The related data is as follows: The payment given out during the year is:",Accounting,-800,"def solution():
+    plan_assets_end = 44300
+    plan_assets_begin = 40800
+    employer_contributions = 1200
+    actual_return_assets = 3100
+    benefit_paid = plan_assets_end - (plan_assets_begin + employer_contributions + actual_return_assets)
+    return benefit_paid"
+53,[],validation-52,"What is the percentage of return that is below $100,000 if an investment analyst detects that the market's fund returns are normally distributed with an average of $160,000 and a standard deviation of $30,000?",Quantitative Analysis & Valuation,2.275,"def solution():
+    from scipy.stats import norm
+    mean = 160000
+    standard_deviation = 30000
+    z = (100000 - mean) / standard_deviation
+    # Return probability in percentage
+    return (1 - norm.cdf(-z))*100"
+54,[],validation-53,"What is the maximum leverage ratio linked with a position financed by a 65% minimum margin requirement, if the brokerage firm XYZ has set it?",Asset Classes & Derivatives,1.538,"def solution():
+    equity = 65
+    position = 100
+    leverage_ratio = position/equity
+    return leverage_ratio"
+55,[],validation-54,"During a high season for tourism, the need for bottled water can be depicted as: Qbw=30-2Pb (Qbw is the amount of bottled water; Pb is the price of bottled water). If bottled water costs 5, what will the price elasticity of demand be?",Market Analysis & Economics,-0.5,"def solution():
+    Q = 30 - 2*5
+    P = 5
+    elasticity = -2 * (P/Q)
+    return elasticity"
+56,[],validation-55,"A business plans to issue new ordinary shares with flotation costs of 5.0% per share. They anticipate a dividend of $0.32 the following year and foresee a dividend growth rate of 10% indefinitely. Assuming the shares are released at a price of $14.69, what is the firm's cost (%) of external equity?",Corporate & Securities Issuance,12.293,"def solution():
+    D1 = 0.32
+    P0 = 14.69
+    f = 0.05
+    g = 0.1
+    cost_of_external_equity = ((D1/(P0*(1-f)))+g)*100
+    return cost_of_external_equity"
+57,[],validation-56,"Robinson is considering adding a new ETF investment to the portfolio. He intends to hold the ETF for nine months. Excluding the effect of compounding, what is the anticipated overall holding period cost of the nine-month investment in the ETF, given that the ETF has these trading expenses and management charges: Annual management fee of 0.32%, Round-trip trading fees of 0.20%, and a Bid–offer spread of 0.10% on buy and sell, as Robinson requests Jones to calculate?",Portfolio Management & Strategy,0.54,"def solution():
+    annual_management_fee = 0.32
+    round_trip_trading_fees = 0.20
+    bid_offer_spread = 0.10
+    holding_period = 9 / 12
+
+    total_expected_holding_period_cost = (holding_period * annual_management_fee) + round_trip_trading_fees + bid_offer_spread
+    return total_expected_holding_period_cost"
+58,[],validation-57,"An investment firm implements a ""2 and 20"" fee arrangement, the current value of assets is $515, the management fee is determined by the value of assets at end of the year, a 5% hurdle rate is established prior to the collection of the incentive fee, and the present high-water mark is $540. After a period of one year, the value of the investment firm is $602.5. What is the investor's net return?",Asset Classes & Derivatives,13.272,"def solution():
+    AUM_end_of_year = 602.5
+    high_water_mark = 540
+    management_fee_rate = 0.02
+    previous_assets_value = 515
+    incentive_fee_rate = 0.2
+    hurdle_rate = 0.05
+    
+    management_fee = AUM_end_of_year * management_fee_rate
+    incentive_fee = (AUM_end_of_year - high_water_mark * (1 + hurdle_rate)) * incentive_fee_rate
+    total_fee = management_fee + incentive_fee
+    net_return = (AUM_end_of_year - total_fee) / previous_assets_value - 1
+    return net_return * 100  # it's usually more intuitive to express return rate in percentage."
+59,"['| Shares of common stock | 1,000,000 |\n|:----------------------:|:---------:|\n| Net income for the year | $1,500,000 |\n| Par value of convertible bonds with a 4% coupon rate | $10,000,000 |\n| Par value of cumulative preferred stock with a 7% dividend rate | $2,000,000 |\n| Tax rate | 30% |']",validation-58,"Assuming the application of U.S. GAAP unless specified differently, an analyst collected data from a corporation as follows: The bonds were released at par value and are convertible into 300,000 ordinary shares. All securities have been in circulation for the complete year. What is the diluted earnings per share for this corporation?",Accounting,1.262,"def solution():
+    # given data
+    net_income = 1500000
+    preferred_stock_dividends = 140000
+    outstanding_shares = 1000000
+    bond_interest = 400000
+    bond_conversion_shares = 300000
+
+    # calculate amount available for common shareholders
+    amount_for_common_shareholders = net_income - preferred_stock_dividends
+
+    # calculate the interest add back to net income
+    add_back_to_income = bond_interest * 0.7  # tax rate is 30%, hence considering 70%
+
+    # calculate diluted earnings
+    diluted_earnings = amount_for_common_shareholders + add_back_to_income
+
+    # calculate diluted EPS
+    diluted_eps = diluted_earnings / (outstanding_shares + bond_conversion_shares)
+
+    return diluted_eps"
+60,[],validation-59,"A year-long investment of 10,000 ordinary stocks from a corporation yielded a return of 15.5%. Just before selling the stocks at $24 each, the investor obtained a dividend of $2,500. What was the cost per stock that the investor initially paid a year ago?",Portfolio Management & Strategy,20.996,"def solution():
+    initial_investment = 10000
+    return_rate = 15.5/100
+    stock_price_per_share = 24
+    dividend = 2500
+    
+    total_investment = initial_investment * (1 + return_rate)
+
+    total_earnings = (stock_price_per_share * initial_investment) + dividend
+
+    initial_price_per_share = total_earnings / total_investment
+    
+    return initial_price_per_share"
+61,[],validation-60,"Smith demonstrates to Harmonica the total return of a recent transaction performed by the Zenith Fund. Smith explains that the Zenith Fund entered a fully collateralized long position in nearby soybean futures contracts at the quoted futures price of 865.0 (US cents/bushel). Three months afterward, the whole futures position was rolled when the short-term futures price was 877.0 and the long-term futures price was 883.0. What is the Zenith Fund’s three-month total return on the soybean futures transaction, factoring in that the collateral earned an annualized rate of 0.60% during the three-month period between when the initial long position was established and the rolling of the contract?",Asset Classes & Derivatives,0.853,"def solution():
+    previous_price = 865.0
+    current_price_short_term = 877.0
+    current_price_long_term = 883.0
+    collateral_rate = 0.60
+    months = 3
+    
+    # Calculating each return
+    price_return = (current_price_short_term - previous_price) / previous_price
+    roll_return = (current_price_short_term - current_price_long_term) / current_price_short_term
+    collateral_return = (months/12) * (collateral_rate/100)
+    
+    # Calculating total return
+    total_return = price_return + roll_return + collateral_return
+    
+    return total_return * 100"
+62,[],validation-61,"If an evaluator gathers the following DCF specifications to estimate the worth of a real estate with constant rate of increase in income and value through DCF technique: The initial capitalization rate is 5.5%, the ending capitalization rate is 6%, and the discount rate is 7.25%. What is the growth rate of the property in question?",Asset Classes & Derivatives,1.75,"def solution():
+    discount_rate = 7.25
+    capitalization_rate = 5.5
+    
+    growth_rate = discount_rate - capitalization_rate
+    return growth_rate"
+63,"['|                           |                  |\n|---------------------------|------------------|\n|Cost of the equipment      |$5,000,000        |\n|Estimated residual value   |$500,000          |\n|Expected useful life       |9 years           |\n|Total productive capacity  |950,000 units     |\n|Production in FY2015       |150,000 units     |\n|Expected production for the next 8 years |100,000 units each year|']",validation-62,"Utilizing the units-of-production approach, what would be the depreciation expense in the initial year for a machine purchased in Jan. 2015, as per the corresponding data provided?",Accounting,710526.316,"def solution():
+    purchase_price = 5000000
+    salvage_value = 500000
+    total_units = 950000
+    units_produced = 150000
+
+    depreciation_expense = (purchase_price - salvage_value) * (units_produced / total_units)
+    return depreciation_expense"
+64,"['| Income Statement (in US$ million, except per share data) | 2017 Year End |\n|-----------------------------------------------------|-------------|\n| Total rental income                                 | 450         |\n| Total property expenses                             | 228         |\n| Net operating income                                | 222         |\n| Other expenses (losses on sale of properties)       | 22          |\n| General and administrative expenses                 | 28          |\n| Depreciation and amortization                       | 45          |\n| Net interest expenses                               | 35          |\n| Net income                                          | 92          |\n| Weighted average shares outstanding (million)       | 118         |\n| Earnings per share                                  | 0.78        |\n| Price/FFO, based upon year-end stock price          | 13x         |']",validation-63,"A specialist compiled the financial information for a Real Estate Investment Trust. Using the income statement, what was the Real Estate Investment Trust's share price at the end of 2017 according to the Price / FFO multiple?",Asset Classes & Derivatives,17.517,"def solution():
+    multiple = 13
+    net_income = 92
+    depreciation_and_amortization = 45
+    loss_from_property_disposal = 22
+    shares_outstanding = 118
+    FFO = net_income + depreciation_and_amortization + loss_from_property_disposal
+    FFO_per_share = FFO / shares_outstanding
+    stock_price = multiple * FFO_per_share
+    return stock_price"
+65,[],validation-64,"Omega Petroleum Corp. is a monopolistic entity experiencing extremely high entry barriers. Its marginal cost is $40 and its average cost is $70. After recent market research, the price elasticity of demand was discovered to be 1.5. What price is the corporation likely to set?",Market Analysis & Economics,120,"def solution():
+    MC = 40
+    ED = 1.5
+    P = MC / (1 - 1/ED)
+    return P"
+66,[],validation-65,A two-year floating-rate bond pays 6-month LPR plus 80 basis points. The bond is valued at 97 for every 100 of face value. The present 6-month LPR is 1.00%. Presume a 30/360 day count standard and equally divided periods. What is the discount margin for the bond in basis points (bps)?,Asset Classes & Derivatives,236,"def solution():
+    PV = 97
+    Index = 0.01
+    QM = 0.0080
+    FV = 100
+    m = 2
+    r = 0.0168
+    DM = (r * 2 - Index)
+    return DM * 10000"
+67,['| Variable           | Coefficient (bj) | Standard Error | t-Statistic |\n|--------------------|------------------|----------------|-------------|\n| Intercept          | 0.0477           | 0.0019         | 25.11       |\n| Underwriter rank   | 0.0150           | 0.0049         | 3.06        |\n| Pre-offer          | 0.4350           | 0.0202         | 21.53       |\n| price adjustment   |                  |                |             |\n| Offer size         | -0.0009          | 0.0011         | -0.82       |\n| Fraction retained  | 0.0500           | 0.0260         | 1.92        |'],validation-66,"According to previous studies, Smith has chosen the following independent variables to forecast the initial returns of an IPO: Underwriter rank = 1–10, with 10 being the highest rank; Pre-offer price adjustment (Represented as a decimal) = (Offer price – Initial filing price)/Initial filing price; Offer size ($ millions) = Shares sold x Offer price; Fraction retained (Represented as a decimal) = Portion of total company shares kept by insiders Smith's Regression Results Dependent Variable: IPO Initial Return (Represented in Decimal Form, i.e., 1% = 0.01) The forthcoming IPO has these characteristics: underwriter rank = 6; pre-offer price adjustment = 0.04; offer size = $40 million; fraction retained = 0.70. Based on Smith’s regression analysis, what is the anticipated initial return for the forthcoming IPO?",Quantitative Analysis & Valuation,0.154,"def solution():
+    underwriter_rank = 6
+    pre_offer_price_adjustment = 0.04
+    offer_size = 40 
+    fraction_retained = 0.70
+
+    IR = 0.0477 + (0.0150 * underwriter_rank) + (0.435 * pre_offer_price_adjustment) - (0.0009 * offer_size) + (0.05 * fraction_retained)
+    return IR"
+68,[],validation-67,"Without accounting for the compound effects, what is the projected total cost for the holding period when investing in the ETF for nine months, given that the ETF has these trading costs and management fees: an annual management fee of 0.40%, round-trip trading commissions of 0.55%, and a bid-offer spread of 0.20% on buying and selling?",Portfolio Management & Strategy,1.05,"def solution():
+    annual_management_fee = 0.40
+    round_trip_commission = 0.55
+    bid_offer_spread = 0.20
+    holding_period = 9 / 12
+    total_cost_percentage = (holding_period * annual_management_fee) + round_trip_commission + bid_offer_spread
+    return total_cost_percentage"
+69,['| Year | Return(%) |\n|------|-----------|\n| 2008 | 14        |\n| 2009 | -10       |\n| 2010 | -2        |'],validation-68,"What is the holding period return for the three-year timeframe, given the following annual rates of return for a mutual fund as reported by a researcher?",Portfolio Management & Strategy,0.005,"def solution():
+    return (1+0.14)*(1-0.10)*(1-0.02)-1"
+70,['| Account Item | Amount($ trillions) |\n|---------------|---------------------|\n| Consumption | 20.0 |\n| Capital consumption allowance | 1.9 |\n| Government spending | 4.2 |\n| Imports | 2.2 |\n| Gross private domestic investment | 6.0 |\n| Exports | 1.8 |'],validation-69,"What is the gross domestic product for country B in 2015, according to the provided data?",Market Analysis & Economics,29.8,"def solution():
+    Consumption = 20
+    Gross_private_domestic_investment = 6
+    Government_Spending = 4.2
+    Exports = 1.8
+    Imports = 2.2
+    GDP = Consumption + Gross_private_domestic_investment + Government_Spending + Exports - Imports
+    return GDP"
+71,['|                   | Stock 1 | Stock 2 |\n|-------------------|---------|---------|\n| Expected return   | 7%      | 10%     |\n| Standard deviation| 12%     | 25%     |\n| Portfolio weights | 0.30    | 0.70    |\n| Correlation       | 0.20    | 0.20    |'],validation-70,A portfolio consisting of two shares has the following properties: What is the standard deviation of the returns from this portfolio?,Quantitative Analysis & Valuation,0.186,"def solution():
+    # weights 
+    w1 = 0.3
+    w2 = 0.7
+
+    # standard deviations 
+    sigma1 = 12
+    sigma2 = 25
+
+    # correlation coefficient 
+    rho = 0.2
+
+    # covariance 
+    Cov = rho * sigma1 * sigma2
+    
+    # portfolio variance 
+    variance = (w1**2 * sigma1**2) + (w2**2 * sigma2**2) + (2*w1*w2*Cov)
+    
+    # portfolio standard deviation 
+    std_dev = variance**0.5
+
+    # converting back to percentage 
+    std_dev_percent = std_dev / 100.0
+    
+    return std_dev_percent"
+72,"['| TMT Intangibles Valuation Data | |\n| --- | --- |\n| Working capital balance | $ 22,000,000 |\n| Fair value of fixed assets | $ 57,000,000 |\n| Normalized income to the company | $89,000,000 |\n| Required return on working capital | 6% |\n| Required return on fixed assets | 9% |\n| Required return on intangible assets | 25% |\n| Future growth rate | 7% |']",validation-71,"The Senior VP of RN fund requests Samuel to estimate the value of intangibles for XYZ Corp. Samuel observes that XYZ Corp's intangibles primarily comprise patents and other intangible assets. Consequently, Samuel forecasts the following data for the next year. Applying the excess earnings method, what is the value of the intangibles?",Asset Classes & Derivatives,458.611,"def solution():
+    working_capital_return = 0.06*22000000
+    fixed_assets_return = 0.09*57000000
+    intangible_assets_return = 89000000 - working_capital_return - fixed_assets_return
+    intangible_assets_value = intangible_assets_return / (0.25 - 0.07)
+    return intangible_assets_value/1000000"
+73,"['|                                            | In Millions ($) |\n|--------------------------------------------|----------------:|\n| Credit sales                               |          40,000 |\n| Cost of goods sold                         |          30,000 |\n| Accounts receivable                        |           3,000 |\n| Inventory-Beginning balance                |           1,500 |\n| Inventory- Ending balance                  |           2,000 |\n| Accounts payable                           |           4,000 |']",validation-72,"Considering the provided financial statement information, what is the cash conversion cycle (net operating cycle) of this specific business?",Corporate & Securities Issuance,0.798,"def solution():
+    inventory_days = ((2000 + 1500)/2)/(30000/365)
+    receivables_days = 3000/(40000/365)
+    operating_cycle = inventory_days + receivables_days
+    purchases = 30000 + 2000 - 1500
+    payables_days = 4000/(purchases/365)
+    net_operating_cycle = operating_cycle - payables_days
+    return net_operating_cycle"
+74,[],validation-73,"In 2013, the U.S.-based tech firm Johnson Enterprises, adhering to U.S. GAAP, invested $5 million in research and $3 million in the creation of a financial software. The company aimed to possess the software copyright for 20 years, with a salvage value of $10,000. What would be the book value of the software copyright at the close of 2014?",Accounting,0,"def solution():
+    research_cost = 5e6
+    development_cost = 3e6
+    total_cost = research_cost + development_cost
+    book_value = total_cost - total_cost
+    return book_value"
+75,[],validation-74,"For a discrete uniform distribution with outcomes for M as: [7, 8, 9, 10], what is the variance of this distribution?",Quantitative Analysis & Valuation,1.25,"def solution():
+    M = [7, 8, 9, 10]
+    expected_value = sum(M) / len(M)
+    variance = sum((x - expected_value) ** 2 for x in M) / len(M)
+    return variance"
+76,[],validation-75,"In 2017, ABC Corporation had sales of $600,000 and an average accounts receivables of $50,000. What was the 2017 receivables collection period for this company?",Accounting,30.417,"def solution():
+    revenue = 600000
+    avg_account_receivable = 50000
+    receivables_turnover = revenue / avg_account_receivable
+    receivables_collection_period = 365 / receivables_turnover
+    return receivables_collection_period"
+77,[],validation-76,When a trader buys an annual coupon bond with a 6% coupon rate and exactly 20 years left until it reaches maturity at a price that's equivalent to par value. The trader's investment duration is eight years. The approximate modified duration of the bond is 11.470 years. What is the duration gap at the moment of procurement?,Asset Classes & Derivatives,4.158,"def solution():
+    modified_duration = 11.470
+    yield_to_maturity = 0.06
+    investment_horizon = 8
+    macaulay_duration = modified_duration * (1 + yield_to_maturity)
+    duration_gap = macaulay_duration - investment_horizon
+    return duration_gap"
+78,"['| | | Initial | | Risk- | Contract Price | | |\n|---|---|---|---|---|---|---|---|\n| Price Return | | Roll Return | Collateral Required | Free Rate | Position Size | Current | Longer Term |\n| 4% | | 1.50% | 20% | 1% | $1,500,000 | $750 | $500 |']",validation-77,What is the overall return for the hedge position of Platte River Foods?,Asset Classes & Derivatives,5.7,"def solution():
+    price_return = 4.0
+    roll_return = 1.5
+    collateral_return = 0.2
+    total_return = price_return + roll_return + collateral_return
+    return total_return"
+79,"['|                    |      |\n|--------------------|------|\n| ABC LA retirement plan information 2018  |      |\n| Current service costs    |  320 |\n| Past service costs   |  150 |\n| Employer contributions  |  1,200 |\n| Benefit obligation at beginning of year |  45,000 |\n| Benefit obligation at end of year   |  48,395 |\n| Plan assets at beginning of year   |  40,800 |\n| Plan assets at end of year |  44,300 |\n| Actuarial loss   |  350 |\n| Actual return on plan assets   |  3,100 |\n| Discount rate on plan liabilities   |  7.5% |\n| Expected rate of return on plan assets   |  8.2% |']",validation-78,"XYZ NY, a home decor purchasing firm, provides a defined benefit pension scheme for its workers. With reference to the details provided in the subsequent table, presuming that there are no write-offs of past service expenses or actuarial losses and if the actuarial loss is disregarded, can you figure out the recurrent pension expenses which would be presented in I/S as per US GAAP?",Accounting,360.65,"def solution():
+    current_service_cost = 320
+    interest_expense = (45000 + 150) * 0.075
+    expected_return = 40800 * 0.082
+    periodic_pension_cost = current_service_cost + interest_expense - expected_return
+    return periodic_pension_cost"
+80,[],validation-79,"What is the per unit marginal revenue attributed to marketing 250 units instead of 200 units, based on the assessment of the marketing leader from a manufacturer of niche equipment from Switzerland that posits a total income of CHF500,000 from 200 units and CHF600,000 from selling 250 units?",Market Analysis & Economics,2000,"def solution():
+    delta_TR = 600000 - 500000
+    delta_Q = 250 - 200
+    MR = delta_TR / delta_Q
+    return MR"
+81,['| Maturity         | At Initiation | Three Months Later | At Maturity |\n|------------------|--------------|---------------------|------------|\n| Spot (USD/EUR)   | 1.3935/1.3983 | 1.4106/1.4210      | 1.4189/1.4289 |\n| 3-month forward  | -8.1/-7.6      | -21.6/-21.0           |          |\n| 6-month forward  | -19.0/-18.3   | -27.0/-26.2           |          |\n| USD Libor       | 1.266%        | 1.266%               | 1.266%   |\n| EUR Libor       | 1.814%        | 1.814%               | 1.814%   |'],validation-80,"Bradley took over a Spanish packaging firm. The Spanish venture included Bradley purchasing 200,000 shares at a rate of EUR90 each from a packaging company. He elected to entirely hedge the position with a six month USD/EUR forward contract. Further details of the euro hedge at the beginning and three months later are displayed in Exhibit 1. Using the information in Exhibit 1, if the Spanish shares were sold after three months, what is the mark-to-market value (in US dollars) that the manager would report?",Asset Classes & Derivatives,-489849.626,"def solution():
+    num_shares = 200000
+    price_per_share_eur = 90
+    total_value_eur = num_shares * price_per_share_eur
+    
+    init_forward_rate = 1.3935 - 19/10000
+    settling_forward_rate = 1.4210 - 21/10000
+    
+    diff_rate = init_forward_rate - settling_forward_rate
+    
+    notional_value_usd = diff_rate * total_value_eur
+    
+    libor = 1.266 / 100
+    investment_period = 90
+    
+    mark_to_market_usd = notional_value_usd / (1 + libor * investment_period / 360)
+    
+    return mark_to_market_usd"
+82,[],validation-81,"The existing yearly spot rates are presented as follows: 1 year at 2%, 2 years at 2.5%, 3 years at 3.5%, and 4 years at 5.5%. Can you tell me the forward rate for two years starting from two years from now?",Asset Classes & Derivatives,8.588,"def solution():
+    # Given Spot rates
+    s1, s2, s3, s4 = 0.02, 0.025, 0.035, 0.055
+
+    # Formula for two years forward rate
+    forward_rate = (((1 + s4)**4 / (1 + s2)**2) ** (1/2)) - 1
+    
+    # Convert to percentage
+    forward_rate *= 100
+
+    return forward_rate"
+83,['| Time-to- Maturity | Spot Rates |\n| --- | --- |\n| 1 year | 8.0% |\n| 2 years | 9.0% |\n| 3 years | 9.5% |'],validation-82,"Assuming the same series of spot rates, what is the cost of a 3-year bond that provides an annual interest payment at a 10% coupon rate?",Asset Classes & Derivatives,101.458,"def solution():
+    Z1, Z2, Z3, PMT, FV = 0.08, 0.09, 0.095, 10, 100
+    PV1 = PMT / (1 + Z1)
+    PV2 = PMT / (1 + Z2)**2
+    PV3 = (PMT + FV) / (1 + Z3)**3
+    PV = PV1 + PV2 + PV3
+    return PV"
+84,[],validation-83,"The unit contribution margin for an item is $20. A business's fixed production costs up to 300,000 units amounts to $500,000. At which production levels (in units) is the degree of operating leverage (DOL) likely to be the least?",Corporate & Securities Issuance,300000,"def solution():
+    contribution_margin = 20
+    fixed_costs = 500000
+    production_levels = [100000, 200000, 300000]
+    DOLs = []
+
+    for quantity in production_levels:
+        DOL = quantity * contribution_margin / (quantity * contribution_margin - fixed_costs)
+        DOLs.append(DOL)
+
+    minimum_DOL = min(DOLs)
+
+    for i in range(len(DOLs)):
+        if DOLs[i] == minimum_DOL:
+            return production_levels[i]"
+85,[],validation-84,"If the periodic inventory system and FIFO method were utilized, in 2013, Corporation Z commenced operations and acquired 2,000 units of inventory, each unit purchased at $50 and sold at $70, with only 1500 units actually sold. In 2014, it acquired another 1,000 units, each unit was purchased at $60 and sold at $75, however only 500 units were sold. What is the ending inventory balance for Corporation Z in 2014?",Accounting,60000,"def solution():
+    inventory_in_2014 = 1000
+    cost_per_unit_in_2014 = 60
+    ending_inventory_balance = inventory_in_2014 * cost_per_unit_in_2014
+    return ending_inventory_balance"
+86,[],validation-85,"Johnson's second investment recommendation is to acquire a futures contract for a 10-year Treasury note. The base 2%, semi-annual 10-year Treasury note has a dirty price of 104.17. There have been 30 days since the last coupon payment of the 10-year Treasury note. The futures contract will terminate in 90 days. The quoted price for the futures contract is 129. The current yearly risk-free rate for three months stands at 1.65%. The conversion factor is 0.7025. Smith asks Johnson to compute the quoted futures contract price equilibrium using the carry arbitrage model. What is the equilibrium quoted 10-year Treasury note futures contract price?",Asset Classes & Derivatives,148.294,"def solution():
+    B0 = 104.00
+    AI0 = 0.17
+    AIT = (120/180 * 0.02/2)
+    FVCI = 0
+    CF = 0.7025
+    Ft = (B0 + AI0 + AIT) / (1 - FVCI)
+    F_eq = Ft / CF
+    return F_eq"
+87,['| Par Value | Bond Price | Coupon | Modified Duration | Effective Duration | Convexity |\n| --------- | ---------- | ------ | ----------------- | ------------------ | --------- |\n| $25million | 105 | 8% | 7.9 | 8 | 122 |\n| $25million | 100 | 7% | 8.5 | 8.5 | 154 |\n| $20million | 95 | 5% | 6.3 | 2 | 87 |\n| $30million | 87 | 0% | 10.2 | 10.2 | 32 |'],validation-86,"According to the table providing necessary details about four bonds in an investment collection, what is the price value of a basis point for this collection?",Quantitative Analysis & Valuation,72672,"def solution():
+    bond_weights = [0.25, 0.25, 0.2, 0.3]
+    bond_prices = [105, 100, 95, 87]
+    bond_durations = [8, 8.5, 2, 10.2]
+
+    portfolio_price = sum([bond_weights[i] * bond_prices[i] for i in range(len(bond_weights))])
+   
+    portfolio_duration = sum([bond_weights[i] * bond_prices[i] * bond_durations[i] for i in range(len(bond_weights))]) / portfolio_price
+
+    price_value_basis_point = portfolio_duration * 0.0001 * portfolio_price * 1000000
+
+    return price_value_basis_point"
+88,[],validation-87,"Firm XYZ has an outstanding zero-coupon bond with 1 year left until it matures. The bond, which is the company's only debt, has a face value of USD 2,000,000 and a recovery rate of 0% in the event of a default. It is currently trading at 75% of its face value. If we assume that the excess spread solely reflects credit risk and the continuously-compounded risk-free rate is 3% yearly, and using risk-neutral binomial tree methodology, what is the approximately risk-neutral 1-year probability of default for Firm XYZ?",Risk Management,22.716,"def solution():
+    from math import exp
+    face_value = 2000000
+    bond_price = 0.75 * face_value
+    risk_free_rate = 0.03
+    expected_payoff = bond_price * exp(risk_free_rate)
+
+    PD = 1 - (expected_payoff / face_value)
+    
+    return PD * 100"
+89,['| Number of shares outstanding | 10 million   |\n|-----------------------------|--------------|\n| Earnings per share          | $2.00        |\n| P/E                         | 20           |\n| Book value per share        | $30          |'],validation-88,"What will be the subsequent book value per share if the corporation buys back 1 million shares at the current market rate, based on the data collected by the researcher about the corporation?",Corporate & Securities Issuance,28.889,"def solution():
+    market_price_per_share = 40
+    shares_to_buy_back = 1e6
+    equity_reduction = market_price_per_share * shares_to_buy_back
+    book_value_equity_before_buyback = 300e6
+    book_value_equity_after_buyback = book_value_equity_before_buyback - equity_reduction
+    no_of_shares_after_buyback = 9e6
+    book_value_per_share_after_buyback = book_value_equity_after_buyback / no_of_shares_after_buyback
+    return book_value_per_share_after_buyback"
+90,[],validation-89,"Recently, Mr. Lee purchased a property in Shanghai and made a down payment of ¥ 5,000,000. He took out a loan for the remaining balance of ¥5,000,000 from the bank which he will repay monthly over a period of 10 years. Given that the yearly discount rate is 5.8%, what will the initial mortgage repayment be at the end of this month?",Quantitative Analysis & Valuation,55009.405,"def solution():
+    N = 10 * 12
+    I_Y = 5.8 / 12 / 100
+    PV = 5000000
+    FV = 0
+    PMT = -PV * (I_Y * ((1 + I_Y)**N)) / ((1+I_Y)**N - 1)
+    return abs(PMT)"
+91,[],validation-90,"An organization released a floating-rate note that has a coupon rate equivalent to the three-month MRR + 65 basis points. The interest payments are scheduled for 31 March, 30 June, 30 September, and 31 December. The three-month MRR for 31 March and 30 June stand at 1.55% and 1.35% respectively. What is the coupon rate for the interest remittance done on 30 June?",Asset Classes & Derivatives,2.2,"def solution():
+    MRR_March  = 1.55
+    basis_points = 0.65
+    coupon_rate_June = MRR_March + basis_points
+    return coupon_rate_June"
+92,['| Security | Security Weight(%) | Expected Standard Deviation(%) |\n|----------|-------------------|-------------------------------|\n| 1        | 30                | 20                            |\n| 2        | 70                | 12                            |'],validation-91,What would be the expected standard deviation of the portfolio constructed by a fund manager if the correlation of returns between the two securities is 0.40?,Portfolio Management & Strategy,12.119,"def solution():
+    w1 = 0.3
+    w2 = 0.7
+    sigma1 = 20 / 100    # converting the percentage to a decimal
+    sigma2 = 12 / 100    # converting the percentage to a decimal
+    rho12 = 0.40         # correlation of returns between two securities
+
+    sigma_port = ((w1 ** 2 * sigma1 ** 2) + (w2 ** 2 * sigma2 ** 2) + (2 * w1 * w2 * rho12 * sigma1 * sigma2)) ** 0.5
+
+    return sigma_port * 100    # converting the decimal to a percentage"
+93,['| Years to maturity | Present Value Factor |\n|-------------------|----------------------|\n| 0.25              | 0.997506             |\n| 0.5               | 0.992556             |\n| 0.75              | 0.985222             |\n| 1                 | 0.975610             |'],validation-92,"Three months ago, a supervisor initiated a receive-fixed and pay-equity swap. The annualized fixed interest is 3% and the equity index was at 100 at the time of the swap. The expiry of the swap is one year with a quarterly reset, and the nominal amount is valued at $100 million. The present spot rates are as stated: At what equity index level would this equity swap value stand at zero?",Asset Classes & Derivatives,100.754,"def solution():
+    fixed_rate = 0.03
+    nominal_amount = 100000000
+    current_spot_rates = [0.997506, 0.992556, 0.985222]
+    number_of_days = 90
+    denominator = 360
+
+    value_fixed_leg = fixed_rate * (number_of_days / denominator) * nominal_amount * sum(current_spot_rates) + (nominal_amount * current_spot_rates[-1])
+
+    equity_index_price = value_fixed_leg / nominal_amount * 100
+    return equity_index_price"
+94,["| Market value of debt | $10 million |\n|----------------------|-------------|\n| Market capitalization| $45 million |\n| Cash and short-term investments | $2.5 million |\n| EBITDA | $15 million |\n| Firm's marginal tax rate | 40% |"],validation-93,"A financier looking to calculate the enterprise value multiple (EV/EBITDA) of a business has collected the relevant information, what is the business's EV/EBITDA multiple?",Asset Classes & Derivatives,3.5,"def solution():
+    market_value_common_preferred_stock = 45
+    market_value_debt = 10
+    cash_short_term_investments = 2.5
+    EBITDA = 15
+    enterprise_value = market_value_common_preferred_stock + market_value_debt - cash_short_term_investments
+    EV_EBITDA = enterprise_value / EBITDA
+    return EV_EBITDA"
+95,[],validation-94,"What is the present value (PV) of $5,000 that will be received three years from now, applying a 5% discount rate, compounded monthly?",Quantitative Analysis & Valuation,4304.881,"def solution():
+    FV = 5000
+    r = 0.05
+    m = 12
+    N = 3
+    PV = FV * (1 + r/m) ** (-m*N)
+    return PV"
+96,"['| Currency Pair (Price/Base) | Bid    | Offer  | Midpoint |\n|----------------------------|--------|--------|----------|\n| JPY/GBP                    | 187.39 | 187.43 | 187.41   |\n| MXN/USD                    | 17.147 | 17.330 | 17.239   |\n| GBP/EUR                    | 0.7342 | 0.7344 | 0.7343   |\n| USD/EUR                    | 1.1572 | 1.1576 | 1.1574   |\n| USD/GBP                    | 1.5762 | 1.5766 | 1.5764   |'
+ '|          |                        |\n|----------|------------------------|\n|Exhibit 2. GBP/EUR Forward Rates||\n| Maturity   | Forward Points  |\n| One month  | 4.40/4.55       |\n| Three months| 14.0/15.0      |\n| Six months  | 29.0/30.0       |\n|          | the GBP 90- day Libor = 0.5800%|']",validation-95,"The chief financial officer of a manufacturing firm based in the UK, Susan Sullivan, gathers the exchange rates from Dealer B as given in Exhibit 1. The company will receive EUR 5,000,000 from a different client in three months. Half a year ago, the firm traded EUR 5,000,000 for GBP using a forward contract of nine months at an inclusive price of GBP/EUR 0.7400. Considering Exhibits 1 and 2, what would be the mark-to-market gain for Sullivan's forward position if the position is marked to the market by gathering the GBP/EUR forward rates displayed in Exhibit 2?",Market Analysis & Economics,20470.382,"def solution():
+    spot_rate = 0.7344
+    forward_points = 15/10000
+    three_month_forward_rate = spot_rate + forward_points
+    contract_rate = 0.7400
+    eur_amount = 5000000
+    libor_rate = 58/100
+
+    net_cash_flow = eur_amount * (contract_rate - three_month_forward_rate)
+    mark_to_market_gain = net_cash_flow / ((1 + libor_rate/100)**(3/12))
+
+    return mark_to_market_gain"
+97,"['| Property subsector          | REIT A Office | REIT B Storage | REIT C Health Care |\n|-----------------------------|---------------|----------------|--------------------|\n| Estimated 12 months cash net operating income (NOI) | $ 350,000    | $ 267,000        | $ 425,000            |\n| Funds from operations (FFO)   | $ 316,965    | $ 290,612        | $ 368,007            |\n| Cash and equivalents         | $ 308,700    | $ 230,850        | $ 341,000            |\n| Accounts receivable         | $ 205,800    | $ 282,150        | $ 279,000            |\n| Debt and other liabilities   | $ 2,014,000  | $ 2,013,500    | $ 2,010,000          |\n| Non-cash rents             | $ 25,991     | $ 24,702        | $ 29,808             |\n| Recurring maintenance-type capital  expenditures | $ 63,769     | $ 60,852        | $ 80,961             |\n| Shares  outstanding        | 56,100       | 67,900          | 72,300              |'
+ '| REIT Dividend Forecasts and Average Price Multiples | REIT A   | REIT B   | REIT C   |\n|---------------------------------------------------------------|----------|----------|----------|\n| Expected annual dividend next year                            | $3.80    | $2.25    | $4.00    |\n| Dividend growth rate in years 2 and 3                         | 4.00%    | 5.00%    | 4.50%    |\n| Dividend growth rate (after year 3 into perpetuity)           | 3.50%    | 4.50%    | 4.00%    |\n| Assumed cap rate                                              | 7.00%    | 6.25%    | 6.50%    |\n| Property subsector average P/FFO multiple                     | 14.4x    | 13.5x    | 15.1x    |\n| Property subsector average P/AFFO multiple                    | 18.3x    | 17.1x    | 18.9x    |']",validation-96,"What is the share value of REIT B using valuation Method 4, according to Exhibits 1 and 2?",Asset Classes & Derivatives,74.115,"def solution():
+    FFO = 316965
+    non_cash_rents = 25991
+    recurring_maintenance_capex = 63769
+    shares_outstanding = 56100
+    P_AFFO_multiple = 18.3
+
+    AFFO = FFO - non_cash_rents - recurring_maintenance_capex
+    AFFO_per_share = AFFO / shares_outstanding
+    share_value = AFFO_per_share * P_AFFO_multiple
+
+    return share_value"
+98,[],validation-97,"Firms A and B start the year with the same book value of equity and identical tax rate. They have identical operations throughout the year and record all operations similarly except for one. Both firms purchase a printer worth £300,000 with a three-year useful life and no salvage value on 1st January of the new year. Firm A capitalizes the printer and it undergoes straight-line depreciation, while Firm B expenses the printer. The following year-end data is collected for Firm A. Based on this information, what would Firm B’s return on equity be using year-end equity with the ending shareholders’ equity being £10,000,000, a tax rate of 25%, £0.00 in dividends, and a net income of £750,000?",Accounting,6.091,"def solution():
+    A_net_income = 750000
+    A_equity = 10000000
+    B_net_income = A_net_income - 150000 # B company has larger expense, hence the lower net income
+    B_equity = A_equity - 150000 # B company has lower net income, hence the lower equity
+    B_ROE = B_net_income / B_equity
+    return B_ROE * 100"
+99,[],validation-98,"As an arbitrage trader, Bob wishes to determine the continuous implied dividend yield of a stock. He is studying the over-the-counter price of a five-year European put and call on this particular stock. The data he has includes: S = $85, K = $90, r = 5%, c = $10, p = $15. What would be the implied dividend yield of the stock?",Market Analysis & Economics,5.337,"def solution():
+    import math
+    
+    S = 85  # The stock is currently trading at
+    K = 90  # The strike price of the option
+    r = 5/100  # Interest rate
+    c = 10  # Price of a call option
+    p = 15  # Price of a put option
+    tau = 5  # time to maturity (in years)
+
+    S_tau = c - p + K * math.exp(-r * tau)  # From put-call parity
+    y = -1/tau * math.log(S_tau / S)  # Dividend yield
+
+    return y*100  # convert it to percentage and return"
+100,[],validation-99,"The Novartis Company noted a notable rise in its profitability, which led to a material increase in its credit score. Consequently, the market demanded a 100 basis point tighter spread to Gilts on Novartis's 8-year bond. In case the bond's altered duration is 6.0 and its convexity is 55.0, what would be the effect of this change on the return?",Asset Classes & Derivatives,6.275,"def solution():
+    modified_duration = 6.0
+    delta_spread = -0.01
+    convexity = 55.0
+
+    return_impact = -(modified_duration * delta_spread) + 0.5 * convexity * (delta_spread**2)
+    return return_impact*100"
+101,['| Time-to-Maturity | Spot Rate |\n|------------------|-----------|\n| 1 year           | 4.86%     |\n| 2 years          | 4.95%     |\n| 3 years          | 5.65%     |'],validation-100,"A company debt security provides a coupon rate of 5% and only has 3 years left until it matures. The interest is given yearly. The benchmark spot curve currently lists a series of rates. Right now, the bond is trading at a Z-spread of 234 basis points. What's the bond's worth?",Asset Classes & Derivatives,92.383,"def solution():
+    PMT = 5
+    FV = 100
+    S1 = 0.0486
+    S2 = 0.0495
+    S3 = 0.0565
+    Z = 0.0234
+
+    PV1 = PMT / ((1 + S1 + Z)**1)
+    PV2 = PMT / ((1 + S2 + Z)**2)
+    PV3 = (PMT + FV) / ((1 + S3 + Z)**3)
+
+    return PV1 + PV2 + PV3"
+102,[],validation-101,"What is the expected return for XYZ Company if its stock has a beta of 0.65, the risk-free rate of return is 3% and the expected market return is 9%?",Portfolio Management & Strategy,0.069,"def solution():
+    beta = 0.65
+    risk_free_rate = 0.03
+    expected_market_return = 0.09
+
+    expected_return = risk_free_rate + beta * (expected_market_return - risk_free_rate)
+    return expected_return"
+103,[],validation-102,A researcher collects the following data on a bond: Roughly modified duration 10.3829 and roughly modified convexity 141.217. What is the projected percentage price alteration for the bond should the yield to maturity fall by 50 bps?,Asset Classes & Derivatives,5.368,"def solution():
+    MD = 10.3829
+    Convexity = 141.217
+    Delta_Yield= -0.005
+    Percentage_change_in_bond_price = ((-MD*Delta_Yield)+(0.5*Convexity*(Delta_Yield)**2))  
+    return Percentage_change_in_bond_price*100"
+104,[],validation-103,"Currently, Serene Vacation Corp has 1.2 million common shares of stock outstanding with a beta of 2.2. They also have $10 million face value of bonds with five years left to maturity and an 8% coupon with semiannual payments, priced to yield 13.65%. If Serene issues up to $2.5 million of new bonds, they will be priced at par and will have a yield of 13.65%; but if they issue bonds beyond $2.5 million, the entire issuance is expected to yield 16%. Serene has found out it can issue new common stock at $10 a share. The current risk-free interest rate is 3%, and the expected market return is 10%. Serene's marginal tax rate is 30%. If Serene secures $7.5 million of new funding while keeping the same debt-to-equity ratio, what will its weighted average cost of capital be?",Corporate & Securities Issuance,15.52,"def solution():
+    FV = 10000000
+    PMT = 400000
+    N = 10
+    I_YR = 6.825/100
+    PV = FV / ((1 + I_YR)**N)
+    Equity = 1.2 * 1000000 * 10
+    to_be_raised = 7.5 * 1000000
+    bonds = to_be_raised * 0.4
+    rd = 0.16
+    t = 0.3
+    re = 0.03 + 2.2 * (0.10 - 0.03)
+    rdnt = rd * (1 - t)
+    WACC = 0.4 * rdnt + 0.6 * re
+    return WACC*100"
+105,['| Time-to-Maturity | Spot rates |\n|-----------------|------------|\n| 1-year            | 7%             |\n| 2-year            | 8%             |\n| 3-year            | 9%             |'],validation-104,"The time-to-maturity for Bond D is 3 years and it has a coupon rate of 8%. The annual payments of interest can be seen. Given the depicted spot rates, what would be the price of Bond D using these spot rates?",Asset Classes & Derivatives,97.731,"def solution():
+    PMT = 8
+    Par = 100
+    S1 = 0.07
+    S2 = 0.08
+    S3 = 0.09
+    PV = PMT/(1+S1) + PMT/((1+S2)**2) + (PMT+Par)/((1+S3)**3)
+    return PV"
+106,"['|                          | Golden | Frost |\n|--------------------------|--------|-------|\n| Revenue                  | 380    | 460   |\n| Cost of goods sold       | (320)  | (210) |\n| Administrative expenses  | (110)  | (65)  |\n| Depreciation & amortization expense | (106)  | (85)  |\n| Interest expense         | (36)  | (18)   |\n| Income before            | 308    | 82    |\n| Income tax expense       | (125)  | (29)  |\n| Net income               | 183    | 53    |'
+ '|                             | Golden | Frost |\n|-----------------------------|--------|-------|\n| Cash                        | 80     | 60    |\n| Account receivable          | 110    | 90    |\n| Inventory                   | 210    | 130   |\n| Total current assets        | 400    | 280   |\n| PP&E                        | 1220   | 770   |\n| Investment in Frost         | 360    | N/A   |\n| Total assets                | 1,980  | 1,050 |\n| Current liabilities         | 130    | 95    |\n| Long-term debt              | 520    | 390   |\n| Total liabilities           | 650    | 485   |\n| Common stock                | 810    | 500   |\n| Retained earnings           | 520    | 65    |\n| Total equity                | 1,330  | 565   |']",validation-105,"Working at the Equity investment company, Jessica, a CFA, noted that Clearwater Primary School had spent ¥360 million to acquire a 50 percent stake in Snowflake Early Learning Center on 31 December 2018. The surplus of the acquisition cost over the net assets' fair value of Snowflake was due to previously unregistered licenses. These licenses were estimated to possess an economic lifespan of five years. The value of Snowflake's assets and liabilities, excluding licenses, were equivalent to their documented book value. Clearwater and Snowflake's summarized income statements for the year ending 31 December 2018, and Balance Sheet are presented in the subsequent table: Assuming that both companies' 2019 figures mirror those of 2018 and Clearwater has command over Snowflake, what would be Clearwater’s consolidated depreciation and amortization expense for 2019?",Accounting,222,"def solution():
+    unrecorded_licenses_value = 155
+    lifetime_of_unrecorded_licenses = 5
+    depreciation_of_unrecorded_licenses = unrecorded_licenses_value / lifetime_of_unrecorded_licenses
+    depreciation_and_amortization_of_Clearwater = 106
+    depreciation_and_amortization_of_Snowflake = 85
+    consolidated_depreciation_and_amortization = depreciation_and_amortization_of_Clearwater + depreciation_and_amortization_of_Snowflake + depreciation_of_unrecorded_licenses
+    return consolidated_depreciation_and_amortization"
+107,['|                  | Value  |\n|------------------|--------|\n| Initial Value    | 87.1876|\n| 2-year shift for 1bp    | 87.3212|\n| 5-year shift for 1bp    | 87.2545|\n| 10-year shift for 1bp   | 87.1454|\n| 30-year shift for 1bp   | 87.3454|'],validation-106,The table below provides details about a zero-coupon bond. What is the key rate '01 for a shift of 10 years?,Quantitative Analysis & Valuation,0.042,"def solution():
+    ten_year_shift_for_1_bp = 87.1454
+    initial_value = 87.1876
+    key_rate_01_for_10_year_shift = -(ten_year_shift_for_1_bp - initial_value)
+    return key_rate_01_for_10_year_shift"
+108,[],validation-107,"A financial expert predicts that 20% of high-risk bonds will go bankrupt. When he uses a bankruptcy prediction model, he finds that 70% of these bonds will be deemed as ""good"", suggesting a lower risk of failure. Of the bonds that went bankrupt, only 50% were rated as ""good"". Use Bayes' formula to estimate the likelihood of going bankrupt bearing a ""good"" rating. (Hint, let P(A) be the likelihood of bankruptcy, P(B) be the probability of a ""good"" rating, P(B | A) be the probability of a ""good"" rating given bankruptcy, and P(A | B) be the likelihood of bankruptcy given a ""good"" rating.)",Quantitative Analysis & Valuation,0.143,"def solution():
+    P_A = 0.20 # probability of failure
+    P_B = 0.70 # probability of a ""good"" rating
+    P_B_A = 0.50 # probability of a ""good"" rating given failure
+
+    P_A_B = (P_B_A * P_A) / P_B # probability of failure given a ""good"" rating
+
+    return P_A_B"
+109,[],validation-108,"If a customer needs £100,000 a year from now and the declared yearly rate is 2.50% compounded on a weekly basis, what amount should be deposited today?",Quantitative Analysis & Valuation,97531,"def solution():
+    FV = 100000
+    r = 0.025
+    m = 52
+    N = 1
+    PV = FV * (1 + r/m) ** (-m*N)
+    return int(PV)"
+110,"['|      | 31 December 2017 | 31 December 2016 |\n|------|------------------|------------------|\n| EPS  | $1.03            | $0.89            |\n| Core EPS* | $1.31       | $1.01            |'
+ '\n|                                                                                               |\n|------------------------------------------------------------------------------------------------|\n| Core EPS is a non-GAAP measure that excludes acquisition charges of                           |\n| $0.18 and $0.12 in 2017 and 2016, respectively, as well as $0.10 in 2017                      |\n| related to the settlement of a lawsuit.                                                       |\n']",validation-109,"Based on Exhibit 1 and Zhang's beliefs about recurring costs, what is the trailing P/E she calculated for Cratt Ltd?",Asset Classes & Derivatives,10.009,"def solution():
+    stock_price = 11.31
+    recurring_eps = 1.03 + 0.10
+    trailing_pe = stock_price / recurring_eps
+    return trailing_pe"
+111,"['\n|   |   | 2018 |   | 2017 |\n|---|---|------|---|------|\n|   |   |      |   |      |\n| Assets  |   |      |   |      |\n| Current assets |   |      |   |      |\n| Accounts receivable |   | 800  |   | 750  |\n| Inventories |   | 850  |   | 720  |\n| Gross fixed assets |   | 5000 |   | 4250 |\n| Accounts payable |   | $400  |   | $300 |\n| Accrued taxes and expenses  |  | 120  |   | 90  |\n| Notes payable  |  | 550  |   | 500  |\n| Long-term debt  |  | 1,500  |   | 1,400  |\n| Income Statement for the Year Ended 31 December 2018 |   |      |   |      |\n| EBITDA  |  |    |   | 2000 |\n| Depreciation expense  |   |    |   | 400 |\n| EBIT  |  |    |   | 1600 |\n| Interest expense  |  |    |   | 350 |\n| Pretax income  |  |    |   | 1250 |\n| Income tax (at 30 percent)  |  |    |   | 375 |\n| Net income  |   |    |   | $875 |\n']",validation-110,"Given the 2017 and 2018 financial reports provided by the firm, how does Jacques assess the Free Cash Flow to Equity (FCFE) of PZ Inc. for 2018, measured in millions?",Asset Classes & Derivatives,625,"def solution():
+    NI = 875 
+    NCC = 400 
+    FCInv = 750 
+    WCInv = 50 
+    Net_borrowing = 150 
+
+    FCFE = NI + NCC - FCInv - WCInv + Net_borrowing
+    return FCFE"
+112,[],validation-111,"The investment manager, Allen, recently took on a new client named Peter. Peter has two primary assets: human capital ($1,200,000) and financial capital ($600,000). He wishes for his total portfolio to have a 30% allocation to stocks. Assuming that human capital is considered to be 25% similar to stocks, what should be the appropriate equity allocation for Peter's financial capital?",Accounting,240000,"def solution():
+    human_capital = 1200000
+    financial_capital = 600000
+    stock_allocation_goal = 0.3
+    human_capital_stock_pct = 0.25
+
+    total_portfolio = human_capital + financial_capital
+    target_stock_percentage = total_portfolio * stock_allocation_goal
+
+    human_capital_stock_alloc = human_capital * human_capital_stock_pct
+
+    financial_capital_stock_alloc = target_stock_percentage - human_capital_stock_alloc
+
+    return financial_capital_stock_alloc"
+113,['| ($ thousands)             |       | 2014 | 2013 |\n|---------------------------|-------|------|------|\n| Sales                     |       | 2125 | 2003 |\n| End of year inventories (LIFO) |       | 312  | 280  |\n| LIFO reserve              |       | 82   | 64   |\n| Net profit margin         |       | 4.9% | 4.0% |'],validation-112,"If a corporation switches from last-in, first-out (LIFO) to first-in, first-out (FIFO), how much higher would the net income (in $ thousands) for 2014 be, considering that the corporate tax rate for the current and all previous years has been 30% according to the data collected by a data analyst?",Accounting,12.6,"def solution():
+    net_profit_margin = 0.049
+    sales = 2125
+    tax_rate = 0.3
+    lifo_reserve_2014 = 82
+    lifo_reserve_2013 = 64
+
+    net_income_lifo = net_profit_margin * sales
+    change_in_lifo_reserve = lifo_reserve_2014 - lifo_reserve_2013
+    net_income_fifo = net_income_lifo + change_in_lifo_reserve * (1 - tax_rate)
+
+    increase_in_net_income = net_income_fifo - net_income_lifo
+
+    return increase_in_net_income"
+114,[],validation-113,"If the 1-year spot rate is 1.02%, the 2-year spot rate is 1.65% and the 3-year spot rate stands at 2.15%, how would you compute the 1-year implied forward rate two years in the future?",Asset Classes & Derivatives,3.157,"def solution():
+    S2 = 1.65 / 100
+    S3 = 2.15 / 100
+    f21 = ((1+S3)**3 / (1+S2)**2) - 1
+    return f21 * 100"
+115,[],validation-114,"Based on the BSM model, what is the value of the put option for company XYZ's stock, currently trading at $48.6? Presume that the volatility is 30%, the continuously compounded risk-free rate stands at 0.3%, we assume X is equal to 45, T equals 0.25, N(d1) is 0.6352 and N(d2) is 0.5486.",Asset Classes & Derivatives,2.568,"def solution():
+    import math
+    X = 45 # Strike Price
+    S = 48.6 # Stock Price
+    T = 0.25 # Time to maturity in years
+    r = 0.003 # Risk-free interest rate
+    Nd1 = 0.6352 # Value of cumulative standard normal distribution at d1
+    Nd2 = 0.5486 # Value of cumulative standard normal distribution at d2
+    Nd1_neg = 1 - Nd1 
+    Nd2_neg = 1 - Nd2 
+    
+    put_option_price = math.exp(-r * T) * X * Nd2_neg - S * Nd1_neg
+    
+    return put_option_price"
+116,['| Observation | 1  | 2   | 3 | 4   | 5  | 6  | 7  | 8 | 9 | 10  |\n|-------------|----|-----|---|-----|----|----|----|---|---|-----|\n| Value       | -3 | -11 | 3 | -18 | 18 | 20 | -6 | 9 | 2 | -16 |'],validation-115,What is the sample standard deviation from the following 10 measurements taken from a roughly normal group?,Quantitative Analysis & Valuation,13.181,"def solution():
+    import math
+    measurements = [-3, -11, 3, -18, 18, 20, -6, 9, 2, -16]
+    mean = sum(measurements) / len(measurements)
+    variance = sum((xi - mean) ** 2 for xi in measurements) / (len(measurements) - 1)
+    return math.sqrt(variance)"
+117,['| Stock | Portfolio Weight (%) | Benchmark Weight (%) | 2016 Return (%) |\n|-------|---------------------|----------------------|-----------------|\n| 1     | 30                  | 24                   | 14              |\n| 2     | 30                  | 20                   | 15              |\n| 3     | 20                  | 20                   | 12              |\n| 4     | 10                  | 18                   | 8               |\n| 5     | 10                  | 18                   | 10              |'],validation-116,"The reference weights and yields for each of the five stocks in the Olympia index are presented below. The Kurok Fund employs the Olympia Index as its benchmark, and the fund's portfolio weights are also outlined in the chart. What is the value added (active return) for the Kurok Fund?",Portfolio Management & Strategy,0.009,"def solution():
+    portfolio_weights = [0.30, 0.30, 0.20, 0.10, 0.10]
+    portfolio_returns = [14, 15, 12, 8, 10]
+    benchmark_weights = [0.24, 0.20, 0.20, 0.18, 0.18]
+    benchmark_returns = [14, 15, 12, 8, 10]
+
+    portfolio_return = sum([weight * return_val for weight, return_val in zip(portfolio_weights, portfolio_returns)])
+    benchmark_return = sum([weight * return_val for weight, return_val in zip(benchmark_weights, benchmark_returns)])
+
+    active_return = portfolio_return - benchmark_return
+    
+    return active_return/100"
+118,[],validation-117,"An MBS made up of four distinct mortgage pools: $1 million of mortgages maturing in 30 days, $2 million of mortgages maturing in 90 days, $3 million of mortgages maturing in 180 days, and $4 million of mortgages maturing in 360 days, is owned by XYZ Inc. Could you calculate the weighted average maturity (WAM) for this MBS?",Risk Management,219,"def solution():
+    maturity_values = [30, 90, 180, 360] # in days
+    weights = [1, 2, 3, 4] # in million dollars
+    total_maturity = sum([maturity_values[i] * weights[i] for i in range(len(maturity_values))])
+    total_weight = sum(weights)
+    return total_maturity / total_weight"
+119,['| Date         |November 2010   |         | December 2010  |         |\n| -------------|:--------------:| -------:|:--------------:| -------:|\n| Goods        |Quantity        |Price    |Quantity        |Price    |\n| Sugar        |70kg            |C0.90/kg |120kg           |£1.00/kg |\n| Cotton       |60kg            |E0.60/kg |50kg            |€0.80/kg |'],validation-118,What is the value of the Paasche index for the consumption basket shown in Exhibit 1 for December?,Market Analysis & Economics,115.942,"def solution():
+    numerator = (120 * 1) + (50 * 0.8)
+    denominator = (120 * 0.9) + (50 * 0.6)
+    paasche_index = (numerator/denominator) * 100
+    return paasche_index"
+120,[],validation-119,"Smith is a tax consultant who offers tax education advice to individual clients. One of Smith's clients is Sarah. Sarah wants Smith to examine Mutual Fund X, which has an embedded gain of 10% of the closing portfolio value. Sarah requests Smith to compute a post-liquidation return for the last three-year period. Mutual Fund X showed after-tax returns of 9.0% in the first year, 5% in the second year, and 8% in the third year, and capital gains are taxed at a 25% rate. What is the annualized after-tax post-liquidation return worked out by Smith?",Accounting,6.418,"def solution():
+    # Given
+    returns = [0.09, 0.05, 0.08] # After-tax returns for the three years
+    tax_rate = 0.25 # Capital gains tax rate
+    embedded_gain = 0.10 # Embedded gain of the portfolio
+
+    # Calculate the final after-tax portfolio value
+    portfolio_value = 1
+    for r in returns:
+        portfolio_value *= (1 + r)
+
+    # Account for the unrealized capital gains
+    portfolio_value *= (1 - embedded_gain * tax_rate)
+
+    # Annualize the after-tax post-liquidation return
+    annualized_return = (portfolio_value ** (1 / len(returns))) - 1
+
+    return annualized_return*100 # Converting decimal return to percentage"
+121,[],validation-120,"Assuming the going rate for the base asset at present is $50, with the risk-free rate being 4%, and the contract ends in three months. If the current value of the advantages is $5, and the current value of the disadvantages is $6. What would be the forward price?",Asset Classes & Derivatives,51.503,"def solution():
+    T = 3 / 12
+    s0 = 50
+    r = 0.04
+    q1 = 5
+    q2 = 6
+    
+    forward_price = s0 * ((1+r)**T) - ((q1 - q2) * ((1+r)**T))
+    
+    return forward_price"
+122,[],validation-121,"Currently, the Chinese Yuan is valued at 1.1757 in terms of the Hong Kong Dollar, and the Australian Dollar is valued at 5.0765 in terms of the Chinese Yuan. What is the cross rate for the Hong Kong Dollar to the Australian Dollar?",Market Analysis & Economics,5.968,"def solution():
+    HKD_CNY = 1.1757
+    CNY_AUD = 5.0765
+    HKD_AUD = HKD_CNY * CNY_AUD
+    return HKD_AUD"
+123,[],validation-122,"What's the cost of the annuity that has a YTM of 5.5% and pays out $100,000 annually for 40 years?",Quantitative Analysis & Valuation,1604612.469,"def solution():
+    N = 40
+    PMT = 100000
+    I_Y = 5.5 / 100
+    
+    PV = PMT * ((1 - (1 + I_Y) ** -N) / I_Y)
+    
+    return PV"
+124,['| Security | Security Weight(%) | Expected Standard Deviation(%) |\n|----------|-------------------|--------------------------------|\n| 1        | 40                | 30                             |\n| 2        | 60                | 15                             |'],validation-123,"What is the anticipated standard deviation for the following portfolio, assuming a correlation of 0.25 between the two securities?",Portfolio Management & Strategy,16.703,"def solution():
+    w1 = 0.4
+    w2 = 0.6
+    sigma1 = 0.3
+    sigma2 = 0.15
+    rho = 0.25
+    sigma_port = ((w1**2 * sigma1**2) + (w2**2 * sigma2**2) + (2*w1*w2*sigma1*sigma2*rho))**0.5
+    return sigma_port*100"
+125,[],validation-124,"Given that an artwork was created and sold in 2015 for $1000, and the creation process cost $300. When computing GDP using the sum-of-value-added approach, what is the value of the final step in creating the artwork?",Market Analysis & Economics,700,"def solution():
+    cost_of_artwork = 1000
+    cost_of_creation = 300
+    final_value = cost_of_artwork - cost_of_creation
+    return final_value"
+126,[],validation-125,What is the effective annual rate if the yearly rate for the stock market is 14.31% and it's compounded quarterly?,Quantitative Analysis & Valuation,15.096,"def solution():
+    annual_rate = 0.1431
+    compounding_frequency = 4
+
+    ear = (1 + (annual_rate / compounding_frequency))**compounding_frequency - 1
+
+    return ear*100.0"
+127,['| 10-Year Historical | Current | Capital Market Expectations |\n|---|---|---|\n| Average government bond yield: 2.8% | 10-year government bond yield:2.3% | |\n| Average annual equity return: 4.6% | Year-over-year equity return:-9.4% | |\n| Average annual inflation rate: 2.3% | Year-over-year inflation rate:2.1% | Expected annual inflation: 2.3% |\n| Equity market P/E (beginning of period): 15x | Current equity market P/E: 14.5x | Expected equity market P/E: 14.0x |\n| Average annual dividend income return: 2.6% | | Expected annual income return: 2.4% |\n| Average annual real earnings growth: 6.0% | | Expected annual real earnings growth: 5.0% |'],validation-126,"An investor from Australia currently manages an equity portfolio valued at A$240 million. He is contemplating adjusting the portfolio based on an evaluation of the risk and return possibilities confronting the Australian economy. The table below contains data pertaining to the Australian investment markets and the economic situation: Using the data in the table, determine the anticipated annual equity return using the Grinold–Kroner model (the number of outstanding shares is presumed to remain unchanged).",Market Analysis & Economics,0.063,"def solution():
+    annual_income_return = 2.4 / 100
+    expected_annual_real_earning_growth = 5.0 / 100
+    expected_inflation_rate = 2.3 / 100
+    expected_nominal_earning_growth_return = expected_annual_real_earning_growth + expected_inflation_rate
+    expected_repricing_return = (14 - 14.5) / 14.5 
+    return annual_income_return + expected_nominal_earning_growth_return + expected_repricing_return"
+128,[],validation-127,"The variances of shares X and shares Y are 0.25 and 0.64 respectively, and the correlation between these two securities is 0.09. What is the covariance of the returns?",Quantitative Analysis & Valuation,0.036,"def solution():
+    variance_X = 0.25
+    variance_Y = 0.64
+    correlation = 0.09
+    
+    covariance = correlation * (variance_X**0.5) * (variance_Y**0.5)
+    return covariance"
+129,[],validation-128,The effective annual return on an investment is 9%. What would be the return on a bond-equivalent basis?,Asset Classes & Derivatives,0.088,"def solution():
+    EAR = 0.09
+    BEY = (pow((1 + EAR), 0.5) - 1) * 2
+    return BEY"
+130,[],validation-129,"In 2016, Emily purchased a machine for $50,000 and its useful life is ten years. It has a residual value of $5,000. What is the depreciation of this machine in 2016 using the double-declining balance method?",Accounting,10000,"def solution():
+    cost_of_machine = 50000
+    useful_life = 10
+    residual_value = 5000
+    depreciation = cost_of_machine * (2/useful_life)
+    return depreciation"
+131,[],validation-130,"If the exchange rate for the Euro (EUR) in London stands at GBP/EUR 0.8878, what would probably be the exchange rate for the British pound (GBP) in Frankfurt (EUR/GBP)?",Market Analysis & Economics,1.126,"def solution():
+    gbp_eur = 0.8878
+    eur_gbp = 1 / gbp_eur
+    return eur_gbp"
+132,[],validation-131,"If we assume an existing market risk-free rate of 4% annually, and the yield on the Corporation B bond is 6% annually, what is the inferred probability of default based on the current bond interest rate, presuming the market is fairly priced, and the recovery rate on the corporation's bonds is 70%?",Risk Management,6.667,"def solution():
+    risk_free_rate = 0.04
+    yield_corp_B_bond = 0.06
+    recovery_rate = 0.7
+
+    credit_spread = yield_corp_B_bond - risk_free_rate
+    LGD = 1 - recovery_rate
+    default_probability = credit_spread / LGD
+
+    return default_probability * 100"
+133,[],validation-132,"Analyst Johnson is determining the RAROC of a commercial loan portfolio for Company P. He has gathered the following details: The primary borrowing is $1.3 billion. The predicted pre-tax profit from the loan portfolio is 7%. The estimated direct annual operation cost is around $6 million. The loan portfolio is backed by $1.3 billion of consumer deposits and the interest rate is at 5%. Johnson is also predicting that the expected yearly loss on the portfolio is 0.3% of the principal. On top of this, Johnson estimates the unexpected loss on the principal amount could be as high as 8%. Further, Johnson takes into consideration that the risk-free rate is 1.5% and the effective tax rate is 25%. Finally, Johnson presumes there will not be any transfer pricing issues. Based off the definition of RAROC, what would Johnson's prediction about RAROC be?",Risk Management,12.736,"def solution():
+    principal = 1300000000
+    predicted_pre_tax_profit_rate = 7/100
+    operation_cost = 6000000
+    interest_rate = 5/100
+    expected_loss_rate = 0.3/100
+    unexpected_loss_rate = 8/100
+    risk_free_rate = 1.5/100
+    tax_rate = 25/100
+    
+    unexpected_loss = principal * unexpected_loss_rate
+    economic_capital = unexpected_loss
+    return_on_economic_capital = economic_capital * risk_free_rate
+    
+    expected_revenue = principal * predicted_pre_tax_profit_rate
+    interest_expense = principal * interest_rate
+    expected_loss = principal * expected_loss_rate
+    
+    RAROC = ((expected_revenue - operation_cost - expected_loss - interest_expense + return_on_economic_capital ) * (1-tax_rate)) / economic_capital
+    
+    return RAROC * 100"
+134,[],validation-133,"An insurance firm projects that next year, 40% of clients with only a car insurance plan will renew it, and 70% of clients with only a house insurance plan will do the same. The firm also projects that 80% of clients with both a car and a house insurance plan will renew at least one of these plans next year. According to the firm's records, 70% of clients have a car insurance plan, 50% have a house insurance plan, and 20% have both types of plans. Based on these estimates by the firm, what is the percentage of clients that will renew at least one plan next year?",Quantitative Analysis & Valuation,57,"def solution():
+    PAH = 0.20
+    PAHc = 0.70 - PAH
+    AcH = 0.50 - PAH
+    res = 0.40 * PAHc + 0.70 * AcH + 0.80 * PAH
+    return res * 100"
+135,[],validation-134,"The following spot and forward rates are provided: Present 1-year spot rate is 6%. The one-year forward rate one year from now is 8%. The one-year forward rate two years from now is 10%. What is the worth of a 3-year, 10% annually paid, bond with a par value of $1000?",Asset Classes & Derivatives,1055,"def solution():
+    bond_value = 100 / (1.06) + 100 / ((1.06) * (1.08)) + 1100 / ((1.06) * (1.08) * (1.1))
+    return int(bond_value)"
+136,[],validation-135,"If Allison, a CFA, was revising her company's estimates for US equity returns and thought that over time the growth of the US labor input would be 0.9% per year and labor productivity would increase by 1.5%, inflation would stand at 2.1%, the dividend yield would be 2.25%, and the P/E growth would be nonexistent, what was probably her benchmark forecast for continuously compounded long-term US equity returns?",Market Analysis & Economics,0.068,"def solution():
+    growth_of_labor_input = 0.9
+    labor_productivity_increase = 1.5
+    inflation = 2.1
+    dividend_yield = 2.25
+    
+    baseline_projection = growth_of_labor_input + labor_productivity_increase + inflation + dividend_yield
+
+    return baseline_projection/100"
+137,[],validation-136,"If an $100 million retirement fund has 80% in equity with a beta of 1.2, how many stock index futures would need to be purchased to change the allocation to 60% in equity? This assumes a stock index value of 1,200, a multiplier of $250, and a beta of 0.95.",Asset Classes & Derivatives,84,"def solution():
+    target_equity = 0.60
+    initial_equity = 0.80
+    portfolio_value = 100000000
+    futures_value = 1200 * 250
+    beta_stock = 1.2
+    beta_future = 0.95
+    delta_equity = (target_equity - initial_equity) * portfolio_value
+    delta_beta = (0 - beta_stock)/beta_future
+    futures_contracts = delta_beta * (delta_equity/futures_value)
+    return int(futures_contracts)"
+138,['| Security | Expected Standard Deviation(%) | Beta |\n|----------|-------------------------------|------|\n| Security 1 | 25 | 1.50 |\n| Security 2 | 15 | 1.40 |\n| Security 3 | 20 | 1.60 |'],validation-137,"According to the analyst's data within the context of the capital asset pricing model, if the anticipated return for Share B is 11.4% and the risk-free rate is 3%, what is the projected return for the market?",Portfolio Management & Strategy,9,"def solution():
+    risk_free_rate = 3.0
+    expected_return_share_b = 11.4
+    beta = 1.4
+    market_risk_premium = (expected_return_share_b - risk_free_rate) / beta
+    return risk_free_rate + market_risk_premium"
+139,"['| Purchase price | $32,500 |\n| -------------- | ------- |\n| Freight and insurance | $2,100 |\n| Installation  | $800 |\n| Testing | $500 |\n| Training staff on maintaining machine | $1000 |']",validation-138,What should be the total cost reported on the balance sheet for the scientific equipment that Corporation BMT bought for its product development?,Accounting,35900,"def solution():
+    equipment_cost = 32500
+    delivery_cost = 2100 
+    installation_cost = 800
+    testing_cost = 500
+    total_cost = equipment_cost + delivery_cost + installation_cost + testing_cost
+    return total_cost"
+140,[],validation-139,"According to the financial information of a PE fund named XZY Corporation with a carried interest rate of 20%, and which has a total pledged capital of $100 million. At the end of the last year, the total paid-in capital was $90 million while $30 million was the total distributions given to LPs. The value of year-end NAV, both before and after distributions, stood at $160 million and $130 million respectively. Their projected NAV before any distributions for the next year is $250 million. What is their forecasted carried interest for the next year?",Asset Classes & Derivatives,18,"def solution():
+    committed_capital = 100
+    nav_before_distribution = 250
+    nav_before_distribution_prev = 160
+    carried_interest_rate = 20 / 100
+    if nav_before_distribution > committed_capital:
+        carried_interest = (nav_before_distribution - nav_before_distribution_prev) * carried_interest_rate
+        return carried_interest
+    else:
+        return 0"
+141,[],validation-140,"What will be the worth of $75,000 invested now for six years at an annual interest rate of 7% compounded quarterly?",Quantitative Analysis & Valuation,113733,"def solution():
+    PV = 75000
+    r = 0.07
+    N = 6
+    m = 4
+
+    FV = PV * (1 + r/m)**(m*N)
+    
+    return int(FV) # rounding down intentionally as per the requirements."
+142,"['| Original Values and Estimates (millions) | Accounting Purposes | Tax Purposes |\n| ---------------------------------------- | ------------------- | ------------ |\n| Acquisition cost in 2011                | £8,000              | £8,000       |\n| Depreciation, straight line              | 20 years            | 8 years      |\n| Accumulated depreciation, end of 2013   | £1,200              | £3,000       |\n| Net balance, end of 2013                | £6,800              | £5,000       |\n| **Re-estimated Values and Estimates, Start of 2014** |               |              |\n| Revaluation balance, start of 2014      | £10,000             | Not applicable |\n| New estimated life                      | 20 years            |              |']",validation-141,"Based on the information given in the chart, what is the deferred tax liability (in millions) at the end of 2014 for a firm that has newly appraised a depreciable asset, predicting its remaining lifespan will be an additional 20 years? The tax rate for all the years is 30% and note that tax laws do not recognize the asset's revaluation.",Accounting,690,"def solution():
+    tax_rate = 0.30
+    tax_base = 4000
+    carrying_amount = 6300
+    deferred_tax_liability = tax_rate * (carrying_amount - tax_base)
+    return deferred_tax_liability"
+143,['| Probability | Sales ($ millions) |\n|-------------|--------------------|\n| 0.05        | 70                 |\n| 0.70        | 40                 |\n| 0.25        | 25                 |'],validation-142,"What is the standard deviation of sales for an organization, given its probability distribution?",Quantitative Analysis & Valuation,9.808,"def solution():
+    # defining probabilities and sales
+    prob = [0.05, 0.70, 0.25]
+    sales = [70, 40, 25]
+
+    # calculating expected sales
+    expected_sales = sum(p*s for p, s in zip(prob, sales))
+
+    # calculating variance
+    variance = sum(p*((s - expected_sales) ** 2) for p, s in zip(prob, sales))
+
+    # computing the standard deviation
+    std_dev = variance ** 0.5
+
+    return std_dev"
+144,[],validation-143,"XYZ SF, a home decor retailing corporation, provides its workers with a defined benefit retirement plan. The company's contributions stand at 1,200. The PBO at the start of the year was 45,000 and by the end of the year, it was 43,500. The plan's assets were valued at 40,800 at the start and 39,650 at the end of the year. Can you compute the overall recurring pension cost utilizing this provided data?",Accounting,850,"def solution():
+    ending_funded_status = 39650 - 43500
+    beginning_funded_status = 40800 - 45000
+    company_contribution = 1200
+    tppc = ending_funded_status - beginning_funded_status - company_contribution
+    return abs(tppc)"
+145,['| Year | Investment | Return |\n|------|------------|--------|\n| 1    | $500       | 12%    |\n| 2    | $600       | 5%     |\n| 3    | $1000      | 1%     |'],validation-144,"John oversees a fund, with the returns for the first three years displayed below: What will be the holding period return?",Portfolio Management & Strategy,18.776,"def solution():
+    HPR = (1.12 * 1.05 * 1.01) - 1
+    return HPR * 100"
+146,[],validation-145,"Taking into account the provided data, what number of shares should be applied when figuring out the business' diluted EPS? The business had 60,000 common shares out in the open all through the year and also had 5,000 outstanding warrants throughout the entire year, each can be converted into share at $25 per share. The stock's price at the end of year was $30, and the average stock price for the year of the business was $20.",Accounting,60000,"def solution():
+    common_shares = 60000
+    warrants = 5000
+    exercise_price = 25
+    avg_price = 20
+
+    if avg_price < exercise_price:
+        return common_shares
+    else:
+        return common_shares + warrants
+    return common_shares"
+147,[],validation-146,"Louis is working on the valuation for XY Corporation, a producer and supplier of red wine that recently purchased a large bottling firm to expand its product range. This purchase will greatly influence XY's future outcomes. Knowing that XY projected EPS and Current share price are $2 and $40 respectively, what would be the most suitable price-to-earnings ratio to apply in the valuation of XY?",Asset Classes & Derivatives,20,"def solution():
+    current_price = 40
+    projected_EPS = 2
+    PE_ratio = current_price / projected_EPS
+    return PE_ratio"
+148,['| 1 Year | 3 Years | 5 Years | Since Inception |\n|--------|---------|---------|-----------------|\n| 5.3%   | 6.2%    | 4.7%    | 4.4%            |'],validation-147,"Given the following performance figures for a substitute investment. Presume the highest drawdown risk remains consistent at 10.2% per time period. Also assume the mean drawdown risk remains constant at 6.8% per time period. Based on this information, What does the Calmar ratio turn out to be?",Asset Classes & Derivatives,0.608,"def solution():
+    average_compounded_return = 6.2
+    maximum_drawdown = 10.2
+    calmar_ratio = average_compounded_return / maximum_drawdown
+    return calmar_ratio"
+149,['| Trade | Trade Price | Prevailing Bid | Prevailing Offer |\n|-------|-------------|----------------|------------------|\n| 1     | 41.50       | 41.45          | 41.50            |\n| 2     | 41.75       | 41.73          | 41.75            |'],validation-148,"Bloomfield informs Smith that he observed 500 shares of BYYP stock being traded every 20 minutes for a duration of an hour. He also tells Smith that he saw a similar trading pattern in the stock during the previous trading day. Bloomfield instructs Smith to place an order to buy BYYP stock, assuming that a trader is looking for liquidity and is executing a large purchase order by dividing it into smaller parts. Based on Exhibit 1, what is the average effective spread of the BYYP transactions?",Portfolio Management & Strategy,0.035,"def solution():
+    trade1_price = 41.50
+    trade1_midpoint = 41.475
+    trade2_price = 41.75
+    trade2_midpoint = 41.74
+    
+    effective_spread_trade1 = 2 * (trade1_price - trade1_midpoint)
+    effective_spread_trade2 = 2 * (trade2_price - trade2_midpoint)
+    
+    average_effective_spread = (effective_spread_trade1 + effective_spread_trade2) / 2
+    
+    return average_effective_spread"
+150,[],validation-149,"If a never-ending preferred share starts its initial three-monthly payout of $2.00 in five quarters, and the annual rate of yield needed is 6% compounding every quarter, what is the current value of the share?",Quantitative Analysis & Valuation,125,"def solution():
+    A = 2.0
+    r = 0.06 / 4
+    N = 4
+    FV = A / r
+    PV = FV / ((1 + r) ** N)
+    return int(PV)"
+151,[],validation-150,"If Corporation B purchases a license for $6,500, intending to utilize it for four years but expecting to gain benefits from it for only three years and applying the straight-line amortization method, what would be the accumulated amortization at the conclusion of Year 2?",Accounting,4333.333,"def solution():
+    license_cost = 6500
+    useful_years = 3
+    year = 2
+    annual_amortization = license_cost / useful_years
+    accumulated_amortization = annual_amortization * year
+    return accumulated_amortization"
+152,[],validation-151,"A buyer is thinking about acquiring a common share that comes with a $2.00 yearly dividend. The dividend is predicted to increase at a pace of 4 percent every year. If the buyer’s necessary return rate is 7 percent, what would be the inherent worth of the share?",Asset Classes & Derivatives,69.333,"def solution():
+    D0 = 2.00
+    g = 0.04
+    r = 0.07
+    D1 = D0 * (1 + g)
+    V0 = D1 / (r - g)
+    return V0"
+153,['| Company   | Sales(in millions of€) |\n|-----------|-----------------------|\n| Ajiwo     | 500                   |\n| Bdfhyj    | 350                   |\n| Cegfd     | 270                   |\n| Ddgh      | 200                   |\n| Ebned     | 150                   |\n| All others| 40                    |'],validation-152,"In the previous quarter, we noted the market share data of various businesses as follows: Based on this information, what is the concentration ratio of the four firms?",Market Analysis & Economics,87.417,"def solution():
+    total_market_share = 500 + 350 + 270 + 200 + 150 + 40
+    top_4_firms_share = 500 + 350 + 270 + 200
+    concentration_ratio = top_4_firms_share / total_market_share
+    return concentration_ratio * 100"
+154,"['|   | Forecasted Balance Sheet Data for Ll at 31 December 2018 |\n|---|--------------------------------------------------------|\n| Cash | 120 |\n| Accounts receivable | 30 |\n| Inventory | 450 |\n| Fixed assets | 800 |\n| Total assets | 1,400 |\n| Liabilities | 320 |\n| Common stock | 780 |\n| Retained earning | 300 |'
+ '|                               | Exchange rates ($/€) |\n|-------------------------------|----------------------|\n| when fixed assets were acquired | 1.55                 |\n| 31 December 2018               | 1.77                 |\n| 2018 average                    | 1.68                 |']",validation-153,"The KY corporation is a company based in the US with US GAAP. It also has two subsidiaries in Europe: ZX financial service and CO financial consultant. Simon, CFA, has put together a forecast for KY's 2018 financial statement: Simon predicts that ZX financial service will have 3,500 in sales and 1,500 in cost of sales in 2018. If KY decides to employ the current rate method to translate the results of subsidiary ZX into US dollars, could you calculate the gross profit margin for 2018?",Accounting,0.571,"def solution():
+    sales = 3500
+    cost_of_sales = 1500
+
+    gross_profit = sales - cost_of_sales
+    gross_profit_margin = gross_profit / sales
+    
+    return gross_profit_margin"
+155,['|             | $ thousands |\n|-------------|-------------|\n| Purchase of securities for trading purposes | 240 |\n| Proceeds from the sale of trading securities | 300 |\n| Proceeds from issuance of bonds | 500 |\n| Purchase of 30% of the shares of an affiliated company | 275 |'],validation-154,"Considering the events recorded in 2014, what was the net cash flow from investing activities for the firm, as shown on the 2014 cash flow statement (in thousands)?",Accounting,-275,"def solution():
+    purchase_affiliated_company = -275000
+    net_cash_flow = purchase_affiliated_company
+    return net_cash_flow/1000"
+156,['\n|              | Market continues to rise |      |      | Market unchanges |      |      | Market continues to decline |      |      |\n|--------------|--------------------------|------|------|------------------|------|------|------------------------------|------|------|\n| stock price  | $25                      | $45  | $60  | $25              | $45  | $60  | $25                          | $45  | $60  |\n| probability  | 5%                       | 65%  | 30%  | 35%              | 55%  | 9%   | 62%                          | 38%  | 0%   |\n'],validation-155,"Given the details about stock market fluctuations, with a 38% chance of it going up, a 46% chance of it staying the same, and a 16% chance of it falling, what is the likelihood that the stock's value will be at $45?",Quantitative Analysis & Valuation,56.54,"def solution():
+    probability_up = 0.38 * 0.65
+    probability_same = 0.46 * 0.56
+    probability_down = 0.16 * 0.38
+    total_probability = probability_up + probability_same + probability_down
+    return total_probability * 100"
+157,[],validation-156,"In a repurchase agreement, Company X sells a bond with a face value of $10 million to Company Y on August 1, with an invoice price of $11 million for a 20-day period. Concurrently, Company X consents to reacquire the $10 million worth bond at a price equal to the initial invoice price plus an interest calculated at a repo rate of 20%. Based on the provided details, what is the repurchase cost?",Risk Management,11.122,"def solution():
+    face_value = 10  # face value of the bond in million
+    invoice_price = 11  # invoice price of the bond in million
+    repo_rate = 20 / 100  # repo rate
+    time_period = 20  # time period in days
+
+    repurchase_cost = invoice_price * (1 + repo_rate * time_period / 360)  # calculation of repurchase cost
+    return repurchase_cost  # return repurchase cost"
+158,['| Balances as of Year Ended 31 December | 2016 | 2017 |\n| --- | --- | --- |\n| Retained earnings | 110 | 125 |\n| Accounts receivable | 45 | 48 |\n| Inventory | 24 | 20 |\n| Accounts payable | 30 | 33 |'],validation-157,Business B announced and distributed cash dividends worth $8 million and an impairment expense of $12 million in 2017. They categorized the dividend payment as a financing activity. What is the value of Business B's operating cash flow for 2017 (in $ millions)?,Accounting,39,"def solution():
+    REB = 0
+    NI = 23
+    Div = 0
+    REE = 0
+    impairment = 12
+    AR_change = (48-45)
+    Inv_change = (20-24)
+    AP_change = (33-30)
+    CFO = NI + impairment - AR_change - Inv_change + AP_change
+    return CFO"
+159,[],validation-158,"Suppose the number of defective vehicles adheres to the Possion distribution. Also, suppose that 5% of the vehicles arriving at the production line are defective. Then, if you randomly pick 5 vehicles on the production line, what's the likelihood that one is defective?",Quantitative Analysis & Valuation,0.195,"def solution():
+    import math
+    n = 5
+    p = 0.05
+    lambda_ = n * p
+    k = 1
+    probability = ((lambda_ ** k) * math.exp(-lambda_)) / math.factorial(k)
+    return probability"
+160,[],validation-159,"What is the projected price value of a basis point for a bond that provides a 3% coupon rate with yearly coupons, has nine years until maturity, a yield-to-maturity of 5%, and is valued at 85.784357 per 100 of par value?",Asset Classes & Derivatives,0.065,"def solution():
+    coupon_rate = 3
+    maturity_years = 9
+    yield_to_maturity = 5
+    bond_value = 85.784357
+
+    PV_minus = sum([coupon_rate/(1 + (yield_to_maturity - 0.01)/100)**i for i in range(1, maturity_years+1)])
+    PV_minus += 100/(1 + (yield_to_maturity - 0.01)/100)**maturity_years
+
+    PV_plus = sum([coupon_rate/(1 + (yield_to_maturity + 0.01)/100)**i for i in range(1, maturity_years+1)])
+    PV_plus += 100/(1 + (yield_to_maturity + 0.01)/100)**maturity_years
+
+    PVBP = (PV_minus - PV_plus) / 2
+
+    return PVBP"
+161,[],validation-160,"Suppose a community has an established average of 1,000. Imagine that 1,600 samples are randomly selected (with replacement) from this community. The average of these observed samples turns out to be 998.7, and their standard deviation is 100. What is the standard error of the sample mean?",Quantitative Analysis & Valuation,2.5,"def solution():
+    sample_std_dev = 100
+    n = 1600
+    std_error = sample_std_dev / (n ** 0.5)
+    return std_error"
+162,[],validation-161,"The Smith family has an investment portfolio that is comprised of $500,000 in stocks and $330,000 in fixed income products. The Smiths also own a house valued at $350,000, with $175,000 still owed on the mortgage. The total present value of their earnings before they retire is estimated to be $980,000, and the future expected consumption is projected to be worth $870,000 at present. The Smiths have plans to cover their children's college tuition costs amounting to $150,000 at present value. They also wish to establish a family foundation in 25 years, projected to be worth $600,000 at present. Using the information provided, prepare an economic balance sheet for the Smith family. Determine their economic net worth.",Portfolio Management & Strategy,365000,"def solution():
+    equity = 500000
+    fixed_income = 330000
+    residence = 350000
+    pre_retirement_earnings = 980000
+
+    mortgage_debt = 175000
+    consumption = 870000
+    tuition_fee = 150000
+    foundation = 600000
+
+    total_economic_assets = equity + fixed_income + residence + pre_retirement_earnings
+    total_economic_liabilities = mortgage_debt + consumption + tuition_fee + foundation
+    economic_net_worth = total_economic_assets - total_economic_liabilities
+    return economic_net_worth"
+163,[],validation-162,"The products were sold to clients by XYZ Corporation on 30 June 2006 for an overall cost of €10,000. The sale conditions stipulate that the payment must be finalized within 30 days. The goods had a cost value of €8,000. What is the probable net shift in XYZ Corporation's total assets on 30 June 2006 due to this sale?",Accounting,2000,"def solution():
+    sales_price = 10000
+    cost_price = 8000
+    net_increase_assets = sales_price - cost_price
+    return net_increase_assets"
+164,[],validation-163,"Assuming a tax rate of 35%, if a business is 60% financed by debt and has an equity beta of 1.4, what would be the asset beta of that business?",Corporate & Securities Issuance,0.709,"def solution():
+    tax_rate = 0.35
+    debt_ratio = 0.60
+    equity_beta = 1.4
+    debt_to_equity_ratio = debt_ratio/(1 - debt_ratio)
+    asset_beta = equity_beta / (1 + ((1 - tax_rate)*debt_to_equity_ratio))
+    return asset_beta"
+165,[],validation-164,"A retirement fund worth $100 million currently consists of 80% shares and 20% bonds. The beta of the shares section is 1.2, with the term of the bonds part being 5.0. How many stock index futures need to be purchased in order to shift the distribution to 60% shares and 40% bonds? Refer to the additional data: The value of the stock index stands at 1,200, the multiplier is $250, and the beta equals 0.95. The cost of a bond futures agreement is $105,300, which carries an underlying adjusted duration of 6.5.",Asset Classes & Derivatives,-84,"def solution():
+    current_value = 100000000
+    current_shares_value = 0.8 * current_value
+    target_shares_value = 0.6 * current_value
+    shares_value_to_be_shifted = current_shares_value - target_shares_value
+    beta_shares = 1.2
+    beta_stock_index = 0.95
+    stock_index_value = 1200
+    contract_price = 250
+    number_of_contracts = (0-beta_shares/beta_stock_index)*(shares_value_to_be_shifted/(stock_index_value * contract_price))
+    return int(number_of_contracts)"
+166,[],validation-165,"Assuming a 30% marginal tax rate and an additional 5% risk premium for shares as opposed to bonds, what is the cost of equity using the bond-yield-plus-risk-premium method for a 20-year, $1,000 non-callable bond with 8% annual coupons that is presently valued at $1,105.94?",Corporate & Securities Issuance,12,"def solution():
+    # Define constants
+    risk_premium = 5
+    yield_to_maturity = 7
+
+    # Calculate cost of equity
+    cost_of_equity = yield_to_maturity + risk_premium
+    return cost_of_equity"
+167,"['|          | March 31, 20X7 Share Price | March 31, 20X7 Number of Shares Outstanding (thousands) | April 30, 20X7 Share Price | April 30, 20X7 Number of Shares Outstanding (thousands) |\n|----------|---------------------------|-----------------------------------------------------|----------------------------|--------------------------------------------------------|\n| Stock X  | $15                       | 100                                                 | $20                        | 100                                                    |\n| Stock Y  | $20                       | 1,000                                               | $30                        | 1,000                                                  |\n| Stock Z  | $30                       | 2,000                                               | $25                        | 2,000                                                  |']",validation-166,"Compute the equal-weighted index value for these three shares, assuming the starting index value is 121.",Asset Classes & Derivatives,147.889,"def solution():
+    starting_index = 121
+    shares = [(20/15-1), (30/20-1), (25/30-1)]
+    average_share = sum(shares) / len(shares)
+    new_index = starting_index * (1 + average_share)
+    return new_index"
+168,[],validation-167,"Lillian, who is the portfolio manager for BC pension, has recently been considering the inclusion of QX Corp. (New York Stock Exchange:  QX) to her portfolio. After a thorough analysis of the company and its competitors, she is of the opinion that the company will witness exceptional growth for the next 4 years followed by normal growth. Therefore, she concludes that a two-stage DDM is the most suitable for assessing the stock's value. In 2017, the total dividends QX Corp. paid was $0.22. She anticipates a growth rate of 12 percent for the upcoming 4 years and 6 percent thereafter. The required return is projected to be 9 percent. What would be the terminal value of the stock according to this method?",Asset Classes & Derivatives,12.231,"def solution():
+    D_0 = 0.22
+    g_short_term = 0.12
+    g_long_term = 0.06
+    r = 0.09
+    n = 4
+
+    D_n = D_0 * ((1 + g_short_term) ** n)
+    P_n = D_n * (1 + g_long_term) / (r - g_long_term)
+    
+    return P_n"
+169,[],validation-168,"A bond is presently priced at 98.722 for every 100 of face value. If the yield-to-maturity (YTM) of this bond increases by 10 basis points, the complete price of the bond is forecasted to descend to 98.669. If the bond's YTM diminishes by 10 basis points, the total price of the bond is projected to ascend to 98.782. Can you determine the approximate convexity of this bond?",Asset Classes & Derivatives,70.906,"def solution():
+    PV_minus = 98.782
+    PV_plus = 98.669
+    PV_0 = 98.722
+    delta_yield = 0.001
+    approx_convexity = (PV_minus + PV_plus - 2*PV_0) / (delta_yield**2 * PV_0)
+    return approx_convexity"
+170,[],validation-169,"In light of the recent economic slump that negatively impacted the cyclical petrochemical industry, what would be the most fitting price-to-sales ratio for PetroChem Co, a publicly listed European petrochemical engineering company that Jacques is analyzing, if their net sales per share and current share price are $35 and $56 respectively?",Asset Classes & Derivatives,1.6,"def solution():
+    net_sales_per_share = 35
+    current_share_price = 56
+    price_to_sales_ratio = current_share_price / net_sales_per_share
+    return price_to_sales_ratio"
+171,"['|                   | Current Year | Previous Year |\n|-------------------|--------------|---------------|\n| Sales             | $12,000      | $10,000       |\n| Cost of goods sold| $9,000       | $7,500        |\n| Inventory         | $1,200       | $1,000        |\n| Accounts payable  | $600         | $600          |']",validation-170,"Given the same data for a different business and assuming a 365-day year, what is the corporation's days of payables for the current year?",Corporate & Securities Issuance,23.818,"def solution():
+    total_payables = 1000000  # assume
+    cost_of_goods_sold = 15324675  # assume
+
+    days_of_payables = (total_payables / cost_of_goods_sold) * 365
+    return days_of_payables"
+172,[],validation-171,"What is the percent of contribution to VaR from Asset A in a portfolio, that comprises of two assets: A and B, where Asset A's value is $5,000,000 with a marginal VaR of 0.0452 and Asset B's value is $3,000,000 with a marginal VaR of 0.0332?",Portfolio Management & Strategy,69.41,"def solution():
+    asset_A_value = 5000000
+    asset_B_value = 3000000
+    asset_A_MVaR = 0.0452
+    asset_B_MVaR = 0.0332
+    component_VaR_A = asset_A_value * asset_A_MVaR
+    component_VaR_B = asset_B_value * asset_B_MVaR
+    portfolio_VaR = component_VaR_A + component_VaR_B
+    percent_of_contribution_to_VaR_A = component_VaR_A / portfolio_VaR
+    return percent_of_contribution_to_VaR_A * 100"
+173,[],validation-172,"An investment manager has a collection of options on XYZ, a stock that doesn't pay dividends. The collection consists of 5,000 deep in-the-money call options on XYZ and 20,000 deep out-of-the-money call options on XYZ. The portfolio also holds 10,000 future contracts on XYZ. Currently, XYZ is trading at USD 52. Given that there are 252 trading days annually, the volatility of XYZ is 12% per year, and each of the option and future contracts represents one share of XYZ, what is the 1-day 99% VaR of the portfolio?",Risk Management,13714.668,"def solution():
+    position_delta = 1*5000 + 0*20000 + 1*10000
+    price_per_share = 52
+    volatility = 0.12
+    confidence_level = 2.326
+    trading_days = 252
+
+    var = confidence_level * price_per_share * position_delta * volatility * (1/trading_days)**0.5
+
+    return var"
+174,[],validation-173,"The defined contribution pension plan of Redwood Inc. has periodic contributions of $6 million, service costs of $0.8 million, and an actuarial gain of $2.5 million. What is the total of the pension expense?",Accounting,6,"def solution():
+    contributions = 6
+    service_costs = 0.8
+    gain = 2.5
+    # In a defined contribution pension plan, the pension expense is equal to the contributions made by the company
+    pension_expense = contributions  
+    return pension_expense"
+175,['| Securities and Interest Rates | Expected Yield (%) |\n| --- | --- |\n| 10-yearUS Treasury securities | 3.8 |\n| Short-term real rate | 2 |\n| Long-term real rate | 2.3 |\n| 10-year AA corporate bond yield | 4.4 |\n\n| Type of Premium | Premium (%) |\n| --- | --- |\n| Inflation premium | 0.8 |\n| Illiquidity premium | 0.9 |\n| Equity risk premium | 8.4 |'],validation-174,"In her role as an analyst for REDD, Xiaomei Zhu focuses on the consumer credit sector. Zhu and her team collected data in 2012 to ascertain the projected return for this sector, as depicted in Exhibit 1. After evaluating various strategies, Zhu and her team chose to apply the bond-yield-plus-risk-premium method. Considering the information in Exhibit 1 and the technique employed by Zhu's team, what was the predicted return for the consumer credit industry in 2012?",Market Analysis & Economics,12.2,"def solution():
+    government_bond_yield = 3.8
+    equity_risk_premium = 8.4
+    expected_return = government_bond_yield + equity_risk_premium
+    return expected_return"
+176,['| Year | ROE   |\n|------|-------|\n| 2013 | 12.00%|\n| 2014 | 13.10%|\n| 2015 | 10.55%|\n| 2016 | 11.20%|\n| 2017 | 12.05%|'],validation-175,"The small securities company's research department director, Brian, is in charge of a team that includes 2 junior analysts using the relative value approach to determine a company's worth. Brian informed the 2 junior analysts that using the earnings from the latest 4 quarters may not accurately reflect cyclical companies' long-term earning potential. Therefore, they may find significantly different P/E ratios even though the company's business outlook remains the same. Brian suggested using normalized EPS to solve this issue. Having gathered information about the company throughout the most recent complete cycle, the 2 junior analysts found that the company's balance sheet reveals total assets worth 2100 million and total liabilities of 1200 million. The value of the preferred equity is $120 million, and there are 32 million common shares outstanding. Given this information, what is the company's normalized EPS?",Asset Classes & Derivatives,2.871,"def solution():
+    total_assets = 2100
+    total_liabilities = 1200
+    preferred_equity = 120
+    common_shares = 32
+    roe_values = [12.00, 13.10, 10.55, 11.20, 12.05]
+
+    average_roe = sum(roe_values) / len(roe_values)
+    total_shareholder_equity = total_assets - total_liabilities
+    common_equity_value = total_shareholder_equity - preferred_equity
+    bvps = common_equity_value / common_shares
+    normalized_eps = (average_roe / 100) * bvps
+
+    return normalized_eps"
+177,"['| Trade # | Time     | Trade Price | Trade Size | Bid Price | Ask Price |\n|---------|----------|-------------|------------|-----------|-----------|\n| 1       | 9.45 a.m.| $25.20      | 1,200      | $25.17    | $25.20    |\n| 2       | 9.55 a.m.| $25.22      | 1,300      | $25.19    | $25.22    |\n| 3       | 11.30 a.m.| $25.27     | 2,500      | $25.22    | $25.26    |']",validation-176,"Based on Exhibit 1, what is the average effective spread of the three trades when Smith talks about a market buy order for 5,000 shares of a thinly traded stock?",Portfolio Management & Strategy,0.04,"def solution():
+    # trades prices
+    trade_prices = [25.20, 25.22, 25.27]
+    # bid and ask prices for each trade
+    bid_ask_prices = [(25.20, 25.17), (25.22, 25.19), (25.26, 25.22)]
+    
+    # calculate the effective spread for each trade
+    effective_spreads = [2 * (trade_price - ((ask + bid) / 2)) for trade_price, (ask, bid) in zip(trade_prices, bid_ask_prices)]
+    
+    # calculate the average effective spread
+    average_effective_spread = sum(effective_spreads) / len(effective_spreads)
+    
+    return average_effective_spread"
+178,[],validation-177,"If a two-year fixed-for-floating MRR swap is at 1.00%, and the yield of the two-year US Treasury bond is 0.63%, what would be the swap spread?",Asset Classes & Derivatives,0.37,"def solution():
+    mrr_swap = 1.00
+    treasury_yield = 0.63
+    swap_spread = mrr_swap - treasury_yield
+    return swap_spread"
+179,"['| Current risk-free rate | 3.00% |\n|------------------------|-------|\n| Beta of the T REIT     | 1.1   |\n| Market risk premium    | 5.00% |\n| Expected dividend per share, 1 year from today | $1.13 |\n| Expected dividend per share, 2 years from today| $1.22 |\n| Long-term growth rate in dividends, starting in year 3 | 5.00% |']",validation-178,An expert has compiled the major forecasts and assumptions for a J REIT. What is the inherent worth of the J REIT per share utilizing the two-step dividend discount model?,Asset Classes & Derivatives,33.168,"def solution():
+    discount_rate = 0.085
+    dividend_y1 = 1.13
+    dividend_y2 = 1.22
+    growth_rate = 0.05
+
+    stock_price = (dividend_y1 / (1+discount_rate)) + (dividend_y2 / ((1+discount_rate)**2)) + ((dividend_y2*(1+growth_rate))/(discount_rate-growth_rate))/((1+discount_rate)**2)
+    return stock_price"
+180,['| Sentence # | Actual Sentiment | Target p-Value |\n|------------|------------------|----------------|\n| 1          | 1                | 0.75           |\n| 2          | 0                | 0.45           |\n| 3          | 1                | 0.64           |\n| 4          | 1                | 0.81           |\n| 5          | 0                | 0.43           |\n| 6          | 1                | 0.78           |\n| 7          | 0                | 0.59           |\n| 8          | 1                | 0.60           |\n| 9          | 0                | 0.67           |\n| 10         | 0                | 0.54           |'],validation-179,"Azarov has requested Bector to implement the ML model on the test dataset for Dataset XYZ, considering a threshold p-value of 0.65. Exhibit 1 includes a specimen of outcomes from the test dataset corpus. Given the data in Exhibit 1, what is the accuracy computation for the test set sample of Dataset XYZ?",Quantitative Analysis & Valuation,0.7,"def solution():
+    TP = 3
+    TN = 4
+    FP = 1
+    FN = 2
+    accuracy = (TP + TN)/(TP + FP + TN + FN)
+    return accuracy"
+181,[],validation-180,"The collection of investments includes two zero-coupon bonds, each priced at $10. The initial bond possesses a modified duration of a year, while the second bond carries a modified duration of nine years. With an even yield curve and a consistent yield of 5%, all alterations of the yield curve result in equal shifts. Given that the daily instability of the yield equals 1%, can you best estimate the daily value at risk (VAR) for the collection of investments at the 95% certainty level?",Quantitative Analysis & Valuation,1.65,"def solution():
+    dollar_duration = 1*10 + 9*10
+    daily_var = dollar_duration * 0.01 * 1.65
+    return daily_var"
+182,[],validation-181,"For an investment of USD100 that produces after-tax cash flows of USD40 in the first year, USD80 in the second year, and USD120 in the third year, given a required rate of return of 20%, what would be the Net Present Value?",Corporate & Securities Issuance,58.333,"def solution():
+    cash_flows = [-100, 40, 80, 120]
+    rate_of_return = 0.20
+    NPV = 0
+    for t in range(len(cash_flows)):
+        NPV += cash_flows[t] / ((1+rate_of_return) ** t)
+    return NPV"
+183,"['| | |\n|---|---|\n|Face value|£50 million|\n|Coupon rate, paid annually|4%|\n|Time to maturity|10 years (31 December 2033)|\n|Issue price (per £100)|£92.28|']",validation-182,"If a corporation issues a bond with specific features on January 1, 2014, and the market interest rate for its bonds stands at 5%, what would be its interest cost ( in millions) for the year 2014 under International Financial Reporting Standards (IFRS)?",Accounting,2.307,"def solution():
+    liability_value = 0.9228 * 50
+    market_rate = 0.05
+    interest_expense = liability_value * market_rate
+    return interest_expense"
+184,[],validation-183,"At present, James has $750,000 in cash and short-term investment. He then consults with his portfolio manager Simmons regarding his investment holdings. As per the assessment, James' human capital is estimated at $1.2 million, out of which 30% appears to be similar to equity. Simmons concludes that a total target allocation of 45% equity is suitable for James. To reach the desired equity allocation for total economic wealth, what should be the financial capital equity allocation for James?",Accounting,69,"def solution():
+    human_capital = 1200000
+    financial_capital = 750000
+    target_equity_allocation = 0.45
+
+    total_economic_wealth = human_capital + financial_capital
+    target_equity_allocation_value = total_economic_wealth * target_equity_allocation
+    human_capital_equity_allocation = human_capital * 0.30
+    financial_capital_equity_allocation = target_equity_allocation_value - human_capital_equity_allocation
+    financial_capital_equity_allocation_percentage = financial_capital_equity_allocation / financial_capital
+    
+    return financial_capital_equity_allocation_percentage * 100"
+185,[],validation-184,"Because of considerable growth prospects, Firm B has put a halt to its dividends for the earliest four years. The executives assert that during the fifth year, they will distribute a dividend of $2.5 for each share. After that, the dividend is predicted to expand at a 5% annual rate indefinitely. A 12% return rate is needed. What is the intrinsic value of Firm B's stock?",Asset Classes & Derivatives,22.697,"def solution():
+    D5 = 2.5
+    r = 0.12
+    g = 0.05
+
+    P4 = D5 / (r - g)
+    V0 = P4 / (1 + r)**4
+
+    return V0"
+186,[],validation-185,"If ABC Corporation releases three-year bonds dated 1 January 2015 that have a face value of $5,000,000, how are they most likely reported as bonds payable when issued, considering the market interest rate for bonds of similar risk and term is 3% and the bonds yield an annual rate of 2.5% on 31 December?",Accounting,4929284.716,"def solution():
+    FV = 5000000 # Face Value of Bond
+    I_M = 0.03 # Market Interest Rate
+    I_B = 0.025 # Bond Yield Rate
+    N = 3 # Period of Bond in Years
+    PMT = FV * I_B # Annual Payments
+    PV = 0 # Present Value of Bond
+    
+    # Compute for Present value
+    for i in range(1, N+1):
+        PV += PMT/(1+I_M)**i # Compute Present Value based on Discount Factor Formula
+    PV += FV/(1+I_M)**N # Add the Face Value discounted back to today at Market Rate
+    
+    return PV"
+187,[],validation-186,"A financial expert is requested to calculate the VaR for a stake in Mega Healthcare Solutions Ltd. The firm's shares go for USD 26.00, with a daily volatility standing at 1.5%. Utilizing the delta-normal approach, what is the VaR at the 95% confidence level for a long position in an at-the-money put on this share with a delta of -0.5 spanning a 1-day holding period?",Quantitative Analysis & Valuation,0.321,"def solution():
+    delta = 0.5
+    z_score = 1.645
+    volatility = 0.015
+    share_price = 26.0
+
+    Var = abs(delta) * z_score * volatility * share_price
+    return Var"
+188,['| Year | Return(%) |\n|------|----------|\n| 2009 | 20       |\n| 2010 | -30      |\n| 2011 | 15       |'],validation-187,What is the yearly geometric mean return of this investment over a three-year period?,Portfolio Management & Strategy,-0.011,"def solution():
+    return ((1 + 0.2) * (1 - 0.3) * (1 + 0.15))**(1/3) - 1"
+189,[],validation-188,"Can you determine the expected return on a stock using the Capital Asset Pricing Model, with a beta value of 0.6, given a risk-free rate of 8%, and a market return of 15%?",Portfolio Management & Strategy,12.2,"def solution():
+    Rf = 8
+    Beta = 0.6
+    Market_return = 15
+    expected_return = Rf + Beta * (Market_return - Rf)
+    return expected_return"
+190,[],validation-189,"Assuming the neutral real policy rate is set at 2.25%, the desired inflation rate is 2%, and projected growth is approximately 2.5%. If growth is predicted to be 3.5% and inflation is anticipated to reach 3%, what would be the nominal policy rate based on the Taylor rule?",Market Analysis & Economics,6.25,"def solution():
+    neutral_real_policy_rate = 2.25
+    desired_inflation_rate = 2
+    projected_growth = 2.5
+    predicted_growth = 3.5
+    anticipated_inflation = 3
+
+    nominal_policy_rate = neutral_real_policy_rate + anticipated_inflation + 0.5 * (predicted_growth - projected_growth) + 0.5 * (anticipated_inflation - desired_inflation_rate)
+
+    return nominal_policy_rate"
+191,['| Expected inflation | 1.9% |\n|---|---|\n| Expected growth in the P/E | -1.2% |\n| Expected income component | 1.8% |\n| Expected growth in real earnings per share | 2.7% |\n| Expected change in shares outstanding | 0.0% |\n| Current three-month government bond yield | 0.96% |\n| Long-term geometric average return of market equity index | 9.96% |\n| Long-term geometric average return of short-term government bond | 3.15% |'],validation-190,What is the forecaster's projected forward-looking ERP for a market using the Grinold-Kroner model based on the same details?,Corporate & Securities Issuance,424,"def solution():
+    ERP = (1.8 - 1.2 + (1.9 + 2.7 + 0.0)) - 0.96
+    ERP_percentage = ERP * 100
+    return ERP_percentage"
+192,['|        |             | Actual Training   |           |\n|--------|-------------|:-----------------:|----------:|\n|        |             | Results           |           |\n|        |             | Class "1"         | Class "0" |\n| Predicted Results | Class "1" | TP=182           | FP=52     |\n|                    | Class "0" | FN=31            | TN=96     |'],validation-191,"Once happy with the ultimate set of attributes, Williams chooses and operates a model on the training set that categorizes the text as either having positive sentiment (Class “1” or negative sentiment (Class “0”). He then appraises its performance by implementing error analysis. Based on Exhibit 1, what is the accuracy metric of the model in the ensuing confusion matrix?",Quantitative Analysis & Valuation,77.008,"def solution():
+    TP = 182
+    TN = 96
+    FP = 52
+    FN = 31
+
+    Accuracy = (TP + TN) / (TP + FP + TN + FN)
+    return Accuracy * 100"
+193,[],validation-192,"In a sports competition involving 15 participants, prizes of $100, $50, and $10 will be given to the top performers. In how many different ways can this be done?",Quantitative Analysis & Valuation,2730,"def solution():
+    import math
+    return math.factorial(15)/(math.factorial(15-3))"
+194,[],validation-193,"Assuming that a broker holds an option stance in crude oil exhibiting a delta of 100000 barrels and a gamma of -50000 barrels per dollar price shift, compute the VaR for this stance utilizing the delta-gamma approach, under the presumption that the maximum crude oil price shift is $2.00 per barrel.",Risk Management,-300000,"def solution():
+    Delta = 100000
+    Gamma = -50000
+    VAR_ds = 2
+
+    VAR_df = Delta * -VAR_ds + (1 / 2) * Gamma * VAR_ds ** 2
+    return VAR_df"
+195,[],validation-194,"If a stock's present cost is $25 each, you plan to invest your $10,000 and also loan an additional $10,000 from your financial adviser to put $20,000 in the shares. If the preservation margin is 30 percent, what would be the initial price that will trigger a margin call?",Asset Classes & Derivatives,17.857,"def solution():
+    initial_stock_price = 25
+    initial_equity = initial_stock_price * 0.5
+    preservation_margin = 0.30
+    P = initial_equity / (1 - preservation_margin)
+    return P"
+196,[],validation-195,"What is the overall fee that Circle has garnered in the current year, considering $288 million in assets under management (AUM) from the end of the previous year, a 2% management fee (based on year-end AUM), a 20% incentive fee calculated after subtracting the management fee using a 5% soft hurdle rate and a high-water mark of $357 million, and the fund yield for the current year being 25%?",Asset Classes & Derivatives,7.2,"def solution():
+    prior_year_end_AUM = 288
+    fund_return = 0.25
+    management_fee_percentage = 2/100
+    
+    end_of_year_AUM = prior_year_end_AUM * (1 + fund_return)
+    management_fee = end_of_year_AUM * management_fee_percentage
+    
+    return management_fee"
+197,[],validation-196,"Imagine a portfolio that contains two components. The first component, Component X, makes up 25% of the portfolio and possesses a standard deviation of 17.9%. The second component, Component Y, makes up the rest of the portfolio at 75% and has a standard deviation of 6.2%. If the correlation between these two components is 0.5, what would the portfolio's standard deviation be?",Portfolio Management & Strategy,7.903,"def solution():
+    import math
+    weight_X = 0.25
+    weight_Y = 0.75
+    standard_deviation_X = 0.179
+    standard_deviation_Y = 0.062
+    correlation_XY = 0.5
+
+    portfolio_variance = (weight_X**2 * standard_deviation_X**2) + (weight_Y**2 * standard_deviation_Y**2) + (2 * weight_X * weight_Y * correlation_XY * standard_deviation_X * standard_deviation_Y)
+    portfolio_standard_deviation = math.sqrt(portfolio_variance)
+
+    return portfolio_standard_deviation*100"
+198,[],validation-197,"If an investment company starts the year with a value of $160 million and follows a ""2 and 20"" fee scheme, the management fee depends on the end-of-year asset value. With a soft hurdle rate of 10% net of management fee for calculating the incentive fee, and a prior high-water mark of $198 million, how much is the total fees collected if the assets increase by 25% in the coming year?",Asset Classes & Derivatives,4,"def solution():
+    initial_aum = 160
+    growth_rate = 0.25
+    management_fee_rate = 0.02
+    soft_hurdle_rate = 0.10
+    high_water_mark = 198
+    
+    end_year_aum = initial_aum * (1 + growth_rate)
+    
+    management_fee = end_year_aum * management_fee_rate
+    
+    net_year_end = end_year_aum - management_fee
+    
+    if net_year_end < high_water_mark:
+        total_fees = management_fee
+
+    return total_fees"
+199,"['|     | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 |\n| --- | ---    | ---    | ---    | ---    | ---    | ---    |\n| NOI  | $2,775,840 | $2,859,119 | $2,944,889 | $3,033,235 | $3,124,232 | $3,217,959 |\n| DCF Assumptions |    |   |   |   |    |    |\n| Investment Hold Period |    |   | 5 years |   |    |    |\n| Going-in Cap Rate |     |   |  5.25% |   |    |    |\n| Terminal Cap Rate |    |   |  6.00% |   |    |    |\n| Discount Rate |     |   |  7.25% |   |    |    |\n| Income/Value Growth |    |   |  Constant |   |    |    |\n| Rate |     |   |   |   |    |    |']",validation-198,"What is the growth rate of Real Estate #1, according to Exhibit 1?",Asset Classes & Derivatives,2,"def solution():
+    discount_rate = 7.25
+    going_in_cap_rate = 5.25
+    growth_rate = discount_rate - going_in_cap_rate
+    return growth_rate"
+200,[],validation-199,"Compute the standard deviation of the investment portfolio using the following figures: the percentage weight of asset X is 30%, the weight of asset Y is 70%, the standard deviation for asset X is 25%, that for asset Y is 10%, and their correlation coefficient is 0.8.",Portfolio Management & Strategy,0.138,"def solution():
+    weight_X = 0.30
+    standard_deviation_X = 0.25
+    weight_Y = 0.70
+    standard_deviation_Y = 0.10
+    correlation_coefficient = 0.8
+
+    variance = weight_X**2 * standard_deviation_X**2 + weight_Y**2 * standard_deviation_Y**2 + 2 * weight_X * weight_Y * standard_deviation_X * standard_deviation_Y * correlation_coefficient
+
+    return variance**0.5"

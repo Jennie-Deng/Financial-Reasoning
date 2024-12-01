@@ -1,0 +1,1930 @@
+
+1.Which of the following institutions will on average have the greatest need for liquidity?
+A.Banks.
+B.Investment companies.
+C.Non-life insurance companies.
+参考答案：A
+【莽学解析】： A is correct. The excess reserves invested by banks need to be relatively
+liquid. Although investment companies and non-life insurance companies have high liquidity
+needs, the liquidity need for banks is on average the greatest. ： 本题问，以下哪个机构对于流动
+性的需求最大？ 流动性需求指的是对于将手里资产变现速度的需求。银行流动性需求在三个选项中是最高的
+，因为银行与民生息息相关，需要预留一部分存款用于存款人的兑付。而且存款人提款需求难以预计。因此
+本题选择A。
+ 
+2.The sum of an asset’s systematic variance and its nonsystematic variance of returns is equal
+to the asset’s:
+A.beta.
+B.total risk.
+C.total variance.
+参考答案：C
+【莽学解析】： C is correct. The sum of systematic variance and nonsystematic variance equals
+the total variance of the asset. References to total risk as the sum of systematic risk and
+nonsystematic risk refer to variance, not to risk. ： 资产的系统方差与非系统方差之和等于资产的
+什么？ C是正确的。系统方差和非系统方差之和等于资产的总方差。
+ 
+3.The correlation between assets in a two-asset portfolio increases during a market decline. If
+there is no change in the proportion of each asset held in the portfolio or the expected
+standard deviation of the individual assets, the volatility of the portfolio is most likely to:
+A.increase.
+B.decrease.
+C.remain the same.
+参考答案：A
+【莽学解析】： A is correct. Higher correlations will produce less diversification benefits
+provided that the other components of the portfolio standard deviation do not change (i.e., the
+weights and standard deviations of the individual assets). ： 在市场状况变差时，两个资产之间的
+相关系数上升。如果组合中资产占比和资产方差没有发生变化，组合的波动性会如何变化？ 本题选择A。组
+合的波动性即组合的方差。当资产之间相关系数上升时，组合的方差会变大。
+ 
+4.With respect to trading costs, liquidity is least likely to impact the:
+A.stock price.
+B.bid–ask spreads.
+C.brokerage commissions.
+参考答案：C
+【莽学解析】： C is correct. Brokerage commissions are negotiated with the brokerage firm. A
+security’s liquidity impacts the operational efficiency of trading costs. Specifically,
+liquidity impacts the bid–ask spread and can impact the stock price (if the ability to sell
+the stock is impaired by the uncertainty associated with being able to sell the stock). ： 流动
+性最不可能影响到以下哪一项？ 本题选择C。佣金是证券公司根据投资金额按比例收取，而非根据流动性的
+好坏收取。 流动性的好坏会影响到交易成本，所以会影响到股票价格；流动性越好，则流动性风险越小，买
+卖息差越小。
+ 
+5.With respect to the capital asset pricing model, which of the following values of beta for an
+asset is most likely to have an expected return for the asset that is less than the risk-free
+rate?
+A.-0.5
+B.0.0
+C.0.5
+参考答案：A
+【莽学解析】： A is correct. If an asset’s beta is negative, the required return will be less
+than the risk-free rate in the CAPM. When combined with a positive market return, the asset
+reduces the risk of the overall portfolio, which makes the asset very valuable. Insurance is an
+example of a negative beta asset. ： 在资本资产定价模型中，下列哪个资产的β值最有可能使该资产的
+预期回报率低于无风险利率？ 正确的是A。市场收益率一般大于无风险收益率。根据CAPM公式，如果资产的
+β系数为负，那么所需的回报率将低于CAPM中的无风险利率。
+ 
+6.With respect to return-generating models, the intercept term of the market model is the
+asset’s estimated:
+A.beta.
+B.alpha.
+C.variance.
+参考答案：B
+【莽学解析】： B is correct. In the market model, Ri = αi + βi*Rm + ei, the intercept, αi,
+and slope coefficient, βi, are estimated using historical security and market returns. ： 根据
+收益率模型，市场模型的截距是什么？ 本题选择B。市场模型是一个单因素模型，它的截距为α。
+ 
+7.With respect to return-generating models, which of the following statements is most accurate?
+Return-generating models are used to directly estimate the:
+A.expected return of a security.
+B.weights of securities in a portfolio.
+C.parameters of the capital market line.
+参考答案：A
+【莽学解析】： A is correct. In the market model, Ri = αi + βi*Rm + ei, the intercept, αi,
+and slope coefficient, βi, are estimated using historical security and market returns. These
+parameter estimates then are used to predict firm-specific returns that a security may earn in
+a future period. ： 根据收益率模型，以下哪个表述是正确的？收益率模型用于估计： 本题选择A。收益
+率模型用于预测某公司的证券在未来一段时间内可能获得的回报。
+ 
+8.Which of the following forms of pooled investments is subject to the least amount of
+regulation?
+A.Hedge funds.
+B.Exchange traded funds.
+C.Closed-end mutual funds.
+参考答案：A
+【莽学解析】： A is correct. Hedge funds are currently exempt from the reporting requirements
+of a typical public investment company. ： 以下哪一类集合式投资监管比较松？ 本题选择A。对冲基金
+目前免于向公众披露自己的业绩。美国证券会对于对冲基金的监管更加宽松。
+ 
+9.Evidence of risk aversion is best illustrated by a risk–return relationship that is:
+A.negative.
+B.neutral.
+C.positive.
+参考答案：C
+【莽学解析】： C is correct. Historical data over long periods of time indicate that there
+exists a positive risk–return relationship, which is a reflection of an investor’s risk
+aversion. ： 风险厌恶程度可以由风险和收益之间什么样的关系表示？ 本题选择C。对于风险厌恶者而言
+，承担更多风险需要获得更多收益的补偿。所以是正关系。
+ 
+10.With respect to risk-averse investors, a risk-free asset will generate a numerical utility
+that is:
+A.the same for all individuals.
+B.positive for risk-averse investors.
+C.equal to zero for risk seeking investors.
+参考答案：A
+【莽学解析】： A is correct. A risk-free asset has a variance of zero and is not dependent on
+whether the investor is risk neutral, risk seeking or risk averse. That is, given that the
+utility function of an investment is expressed as U=E(R)-1/2Aσ^2, where A is the measure of
+risk aversion, then the sign of A is irrelevant if the variance is zero (like that of a risk-
+free asset) ： 对于厌恶风险投资者而言，无风险资产产生的效用如何？ 本题选择A选项，由于无风险资产
+风险为0，此时投资效用取决于收益率。所以对所有投资者来说，效用一致。
+ 
+11.An analyst observes the following annual rates of return for a hedge fund:
+The hedge fund’s annual geometric mean return is closest to:
+A.0.52%.
+B.1.02%.
+C.2.67%.
+参考答案：A
+【莽学解析】： A is correct. [(1 + 0.22)(1 - 0.25)(1 + 0.11)]^(1/3) - 1 = 1.0157^(1/3) - 1 =
+0.0052 = 0.52% ： 本题要求几何平均收益率，选择A，[(1 0.22)(1 - 0.25)(1 0.11)]^(1/3) – 1=0.52%
+ 
+12.Analysts who have estimated returns of an asset to be greater than the expected returns
+generated by the capital asset pricing model should consider the asset to be:
+A.overvalued.
+B.undervalued.
+C.properly valued.
+参考答案：B
+【莽学解析】： B is correct. If the estimated return of an asset is above the SML (the expected
+return), the asset has a lower level of risk relative to the amount of expected return and
+would be a good choice for investment (i.e., undervalued). ： 若分析师对某项资产的预计收益大于
+资本资产定价模型所产生的预期收益，则应将该资产视为？ 正确的是B。分析师分析的收益率偏高，则折现
+后股价偏低，所以资产被低估。
+ 
+13.Which of the following statements is least accurate? The efficient frontier is the set of
+all attainable risky assets with the:
+A.highest expected return for a given level of risk.
+B.lowest amount of risk for a given level of return.
+C.highest expected return relative to the risk-free rate.
+参考答案：C
+【莽学解析】： C is correct. The efficient frontier does not account for the risk-free rate.
+The efficient frontier is the set of all attainable risky assets with the highest expected
+return for a given level of risk or the lowest amount of risk for a given level of return. ：
+本题问以下哪个说法最不正确。有效前沿是由什么样的风险资产组成的？ 本题选择C。有效前沿上所有风险
+资产具备两个特性：1）给定相同风险，收益率最大；2）给定相同收益，风险最小。不符合这两个特性的只
+有C选项。
+ 
+14.The graph of the capital asset pricing model is the:
+A.capital market line.
+B.security market line.
+C.security characteristic line.
+参考答案：B
+【莽学解析】： B is correct. The security market line (SML) is a graphical representation of
+the capital asset pricing model, with beta risk on the x-axis and expected return on the y-
+axis. ： CAPM模型的图像是什么？ 正确的是B。CAPM图像是证券市场线SML，横轴为系统性风险β。
+ 
+15.With respect to capital market theory, the optimal risky portfolio:
+A.is the market portfolio.
+B.has the highest expected return.
+C.has the lowest expected variance.
+参考答案：A
+【莽学解析】： A is correct. The optimal risky portfolio is the market portfolio. Capital
+market theory assumes that investors have homogeneous expectations, which means that all
+investors analyze securities in the same way and are rational. That is, investors use the same
+probability distributions, use the same inputs for future cash flows, and arrive at the same
+valuations. Because their valuations of all assets are identical, all investors will invest in
+the same optimal risky portfolio (i.e., the market portfolio). ： 根据资本市场理论，最优风险投
+资组合是什么？ A是正确的。最优风险投资组合是市场投资组合。资本市场理论假设投资者具有同质化的预
+期，这意味着所有投资者分析证券的方式都是相同的，都是理性的。也就是说，投资者使用相同的概率分布
+，对未来现金流有着一直的预期，并得到相同的估值。由于所有资产的估值都是相同的，所以所有投资者都
+将投资于相同的最优风险投资组合（即，市场组合）。
+ 
+16.The slope of the security characteristic line is an asset’s:
+A.beta.
+B.excess return.
+C.risk premium.
+参考答案：A
+【莽学解析】： A is correct. The security characteristic line is a plot of the excess return of
+the security on the excess return of the market. In such a graph, Jensen’s alpha is the
+intercept and the beta is the slope. ： 证券特征线的斜率是什么？ A是正确的。证券特征线是证券超
+额收益和市场超额收益做回归得到的。斜率为β。
+ 
+17.Which of the following pooled investments is most likely characterized by a few large
+investments?
+A.Hedge funds.
+B.Buyout funds.
+C.Venture capital funds.
+参考答案：B
+【莽学解析】： B is correct. Buyout funds or private equity firms make only a few large
+investments in private companies with the intent of selling the restructured companies in three
+to five years. Venture capital funds also have a short time horizon; however, these funds
+consist of many small investments in companies with the expectation that only a few will have a
+large payoff (and that most will fail). ： 下列哪种集合投资最有可能具备少量的大型投资？ 本题选
+择B选项。并购基金只对私人公司进行少量大规模投资，目的是在3至5年内出售重组后的公司。风险投资基金
+的投资期限也很短，然而，这些基金包括许多对公司的小额投资，只有其中的少数几个会有大回报（大多数
+会失败）。
+ 
+18.With respect to the pricing of risk in capital market theory, which of the following
+statements is most accurate?
+A.All risk is priced.
+B.Systematic risk is priced.
+C.Nonsystematic risk is priced.
+参考答案：B
+【莽学解析】： B is correct. Only systematic risk is priced. Investors do not receive any
+return for accepting nonsystematic or diversifiable risk. ： 关于资本市场理论中的风险定价，下列
+哪个表述最准确？ B是正确的。只有系统性风险才会被定价。投资者不会因为接受了非系统性或可分散风险
+而获得任何回报。
+ 
+19.With respect to capital market theory, which of the following statements best describes the
+effect of the homogeneity assumption? Because all investors have the same economic expectations
+of future cash flows for all assets, investors will invest in:
+A.the same optimal risky portfolio.
+B.the Standard and Poor’s 500 Index.
+C.assets with the same amount of risk.
+参考答案：A
+【莽学解析】： A is correct. The homogeneity assumption refers to all investors having the same
+economic expectation of future cash flows. If all investors have the same expectations, then
+all investors should invest in the same optimal risky portfolio, therefore implying the
+existence of only one optimal portfolio (i.e., the market portfolio). ： 关于资本市场理论，下列
+哪个表述最能描述同质性假设的影响？由于所有投资者对所有资产的未来现金流都有相同的预期，投资者将
+投资于： A是正确的。同质性假设是指所有投资者对未来现金流具有相同的经济预期。如果所有的投资者都
+有相同的期望，那么所有的投资者都应该投资于相同的最优风险投资组合。
+ 
+20.Highly risk-averse investors will most likely invest the majority of their wealth in:
+A.risky assets.
+B.risk-free assets.
+C.the optimal risky portfolio.
+参考答案：B
+【莽学解析】： B is correct. Although the optimal risky portfolio is the market portfolio,
+highly risk-averse investors choose to invest most of their wealth in the risk-free asset. ：
+高度厌恶风险的投资者很可能将大部分财富投资于什么？ B是正确的。高度厌恶风险的投资者会选择将大部
+分财富投资于无风险资产。
+ 
+21.The set of portfolios on the minimum-variance frontier that dominates all sets of portfolios
+below the global minimum-variance portfolio is the:
+A.capital allocation line.
+B.Markowitz efficient frontier.
+C.set of optimal risky portfolios.
+参考答案：B
+【莽学解析】: B is correct. The Markowitz efficient frontier has higher rates of return for a
+given level of risk. With respect to the minimum-variance portfolio, the Markowitz efficient
+frontier is the set of portfolios above the global minimum-variance portfolio that dominates
+the portfolios below the global minimum-variance portfolio. 这题题干中问的是：在最小方差前沿上
+比全球最小方差组合下面的点要好的点构成了什么线？1. 最小方差前沿上的点是给定收益，风险最小的点。
+2. 全球最小方差组合是最小方差前沿上最左边的点，以全球最小方差组合为界限，可以把最小方差前沿分为
+上半部分和下半部分。所以，在全球最小方差组合下方的点（below）其实是最小方差前沿下半部分的组合。
+最小方差前沿下半部分的组合都是给定横坐标（风险），纵坐标（收益）更小的组合。所以最小方差前沿下
+半部分的点都没有上半部分的点好。那么，在全球最小方差组合上面的点（也就是最小方差前沿上半部分的
+组合），就构成了有效前沿。
+ 
+22.With respect to return-generating models, the slope term of the market model is an estimate
+of the asset’s:
+A.total risk.
+B.systematic risk.
+C.nonsystematic risk.
+参考答案：B
+【莽学解析】： B is correct. In the market model, Ri = αi + βiRm + ei, the slope coefficient,
+βi, is an estimate of the asset’s systematic or market risk. ： 根据收益率模型，市场模型的斜
+率是什么？ 本题选择B。市场模型的斜率是β，表示的是系统性风险。
+ 
+23.A portfolio manager creates the following portfolio:
+If the correlation of returns between the two securities is 0.40, the expected standard
+deviation of the portfolio is closest to:
+A.10.7%.
+B.11.3%.
+C.12.1%.
+参考答案：C
+【莽学解析】C is correct.
+ 如果两个资产收益率之间的相关系数是0.4，投资组合的标准差等于多少。 本题选择C，利用两个资产做组
+合的方差/标准差的公式。
+ 
+ 
+24.Which of the following events is most likely an example of nonsystematic risk?
+A.A decline in interest rates.
+B.The resignation of chief executive officer.
+C.An increase in the value of the US dollar.
+参考答案：B
+【莽学解析】： B is correct. Nonsystematic risk is specific to a firm, whereas systematic risk
+affects the entire economy. ： 以下哪个事件最有可能是非系统性风险的例子？ B是正确的。非系统风险
+是企业特有的，如高管离职。而系统风险则影响整个经济。
+ 
+25.Which of the following institutional investors will most likely have the longest time
+horizon?
+A.Defined benefit plan.
+B.University endowment.
+C.Life insurance company.
+参考答案：B
+【莽学解析】： B is correct. Most foundations and endowments are established with the intent of
+having perpetual lives. Although defined benefit plans and life insurance companies have
+portfolios with a long time horizon, they are not perpetual. ： 以下哪一个机构类投资者投资期限
+（time horizon）最久？ 本题选择B选项。大多数基金会都是为了拥有永恒的存续期而设立的。虽然养老金
+计划和人寿保险公司的投资组合期限也较长，但它们不是永久性的。
+ 
+26.Relative to portfolios on the CML, any portfolio that plots above the CML is considered:
+A.inferior.
+B.inefficient.
+C.unachievable.
+参考答案：C
+【莽学解析】C is correct. Theoretically, any point above the CML is not achievable and any
+point below the CML is dominated by and inferior to any point on the CML. 相对于CML中的投资组合
+，任何位于CML上方的投资组合都被认为是： C是正确的。在CML上方的任何点（表示投资组合）都是不可能
+实现的（unachievable无法投资），而在CML下方的任何点（表示投资组合）都不如CML上的点优秀。
+ 
+27.Which of the following institutional investors is most likely to manage investments in
+mutual funds?
+A.Insurance companies.
+B.Investment companies.
+C.University endowments.
+参考答案：B
+【莽学解析】： B is correct. Investment companies manage investments in mutual funds. Although
+endowments and insurance companies may own mutual funds, they do not issue or redeem shares of
+mutual funds. ： 以下哪一类机构类投资者最有可能管理共同基金？ 本题选择B，管理共同基金的机构类投
+资者被称为投资公司。
+ 
+28.A defined benefit plan with a large number of retirees is likely to have a high need for
+A.income.
+B.liquidity.
+C.insurance.
+参考答案：A
+【莽学解析】：A is correct. Income is necessary to meet the cash flow obligation to retirees.
+Although defined benefit plans have a need for income, the need for liquidity typically is
+quite low. A retiree may need life insurance; however, a defined benefit plan does not need
+insurance. ： 一个确定收益型的养老基金，有着较多的退休员工，哪一方面的需求会比较高？ 本题选择
+A。企业必须支付退休员工养老金，对于这一块现金流的需求被称为income need。流动性需求指的是对于不
+确定的、金额较大的现金流的需求，而养老金计划支付款项可以实现估计，它对于流动性的需求通常很低
+，所以B不对； 退休人员虽然可能需要人寿保险，然而，养老金计划不需要配备保险，所以C不对。
+ 
+29.With respect to the mean–variance portfolio theory, the capital allocation line, CAL, is
+the combination of the risk-free asset and a portfolio of all:
+A.risky assets.
+B.equity securities.
+C.feasible investments.
+参考答案：A
+【莽学解析】： A is correct. The CAL is the combination of the risk-free asset with zero risk
+and the portfolio of all risky assets that provides for the set of feasible investments.
+Allowing for borrowing at the risk-free rate and investing in the portfolio of all risky assets
+provides for attainable portfolios that dominate risky assets below the CAL. ： 本题问资产配置
+线是由无风险资产和什么样的资产构成的？ 本题选择A。资产配置线由无风险资产和风险资产构成。
+ 
+30.Which of the following types of risk is most likely avoided by forming a diversified
+portfolio?
+A.Total risk.
+B.Systematic risk.
+C.Nonsystematic risk.
+参考答案：C
+【莽学解析】： C is correct. Investors are capable of avoiding nonsystematic risk by forming a
+portfolio of assets that are not highly correlated with one another, thereby reducing total
+risk and being exposed only to systematic risk. ： 下列哪一种风险最有可能通过多样化的投资组合来
+避免? C是正确的。投资者能够通过做组合分散非系统性风险从而降低总风险。
+ 
+31.A portfolio manager creates the following portfolio:
+If the covariance of returns between the two securities is -0.0240, the expected standard
+deviation of the portfolio is closest to:
+A.2.4%.
+B.7.5%.
+C.9.2%.
+参考答案：A
+【莽学解析】A is correct.
+ 如果两个资产收益率之间的协方差是-0.024，组合的标准差等于多少。 本题选择A，求解利用的是两个资产
+做组合的方差/标准差的公式。
+ 
+ 
+32.Compared to the timing of payouts for life insurance companies. The timing of payouts for
+property and casualty insurers is unpredictable ("lumpy") Therefore, in general, property and
+casualty insurers have:
+A.greater liquidity needs than life insurance companies.
+B.a higher return objective than life insurance companies.
+C.lower liquidity needs than life insurance companies.
+参考答案：A
+【莽学解析】The unpredictable nature of property and casualty (P&C) claims forces P&C insurers
+to allocate a substantial proportion of their investments into liquid, short maturity assets.
+This need for liquidity also forces P&C companies to accept investments with relatively low
+expected returns. Liquidity is of less concern to life insurance companies given the greater
+predictability of life insurance payouts.
+ 
+33.A portfolio on the capital market line with returns greater than the returns on the market
+portfolio represents a(n):
+A.lending portfolio.
+B.borrowing portfolio.
+C.unachievable portfolio.
+参考答案：B
+【莽学解析】： B is correct. As one moves further to the right of point M on the capital market
+line, an increasing amount of borrowed money is being invested in the market portfolio. This
+means that there is negative investment in the risk-free asset, which is referred to as a
+leveraged position in the risky portfolio. ： 收益大于市场投资组合收益的投资组合代表着什么？
+B是正确的。当投资组合移动到资本市场线M点的右边，越来越多借来的钱被投资到市场组合中。这意味着无
+风险资产权重为负值，投资人借债投资。
+ 
+34.Which of the following performance measures is most appropriate for an investor who is not
+fully diversified?
+A.M-squared.
+B.Treynor ratio.
+C.Jensen’s alpha.
+参考答案：A
+【莽学解析】： a is the correct. M-squared adjusts for risk using standard deviation (i.e.,
+total risk). ： 下列哪项表现指标最适用于没有完全分散风险的投资者？ 正确的是A。M-squared站在总风
+险的角度，总风险包含非系统性风险，表示风险没有得到完全分散。
+ 
+35.With respect to the capital asset pricing model, the primary determinant of expected return
+of an individual asset is the:
+A.asset’s beta.
+B.market risk premium.
+C.asset’s standard deviation.
+参考答案：A
+【莽学解析】： A is correct. The CAPM shows that the primary determinant of expected return for
+an individual asset is its beta, or how well the asset correlates with the market. ： 对于资本
+资产定价模型，单个资产的预期收益的主要决定因素是？ 正确的是A。资本资产定价模型表明，决定一项资
+产预期回报率的主要因素是β，即该资产与市场的关联度。
+ 
+36.A fund receives investments at the beginning of each year and generates returns as shown in
+the table.
+Which return measure over the three-year period is negative?
+A.Geometric mean return
+B.Time-weighted rate of return
+C.Money-weighted rate of return
+参考答案：C
+【莽学解析】C is correct. The money-weighted rate of return considers both the timing and
+amounts of investments into the fund. To calculate the money-weighted rate of return, tabulate
+the annual returns and investment amounts to determine the cash flows.
+CF0 = –$1,000, CF1 = –$2,850, CF2 = –$40,440, CF3 = $43,200Each cash inflow or outflow
+occurs at the end of each year. Thus, CF0 refers to the cash flow at the end of Year 0 or
+beginning of Year 1, and CF3 refers to the cash flow at end of Year 3 or beginning of Year 4.
+Because cash flows are being discounted to the present—that is, end of Year 0 or beginning of
+Year 1—the period of discounting CF0 is zero whereas the period of discounting for CF3 is 3
+years. Solving for r,
+results in a value of r = –2.22%Note that B is incorrect because the time-weighted rate of
+return (TWR) of the fund is the same as the geometric mean return of the fund and is thus
+positive:
+ 本题问哪个收益率计算出的值为负数。 本题选择C。 本题几何平均收益率和TWRR计算结果相同，因为投资
+期间以年为单位，都是[(1＋15%)(1＋14%)(1-4%)]^(1/3)-1=7.97% 2）计算MWRR需要先列出各期现金流。 ●
+CF0=-1000，因为期初投资了1000元。 ● CF1=-2850，因为第一年年末本息和为1000(1＋15%)=1150，第二年
+年初资产金额达到4000，说明第二年年初追加了(4000-1150)元投资，即2850元流出。 ● CF2=-40440，因为
+第二年年末本息和为4000(1＋14%)=4560，第三年年初资产金额达到45000，说明第三年年初追加了(45000-
+4560)元投资，即40440元流出。 ● CF3=43200，因为第三年年末本息和为45000(1-4%)=43200 接下来利用金
+融计算器，算出IRR=-2.22%，即MWRR=-2.22%。
+ 
+ 
+37.Three equity fund managers have performance records summarized in the following table:
+Given a risk-free rate of return of 2.60%, which manager performed best based on the Sharpe
+ratio?
+A.Manager 1
+B.Manager 2
+C.Manager 3
+参考答案：C
+【莽学解析】C is correct. The Sharpe ratio is the mean excess portfolio return per unit of
+risk, where a higher Sharpe ratio indicates better performance:
+ 假设无风险回报率为2.60%，根据夏普比率，哪位基金经理表现最佳？ 正确的是C。根据夏普比率公式
+，manager3的夏普比率最高，该指标代表承担一单位总风险可获得的超额收益。所以他业绩表现最佳。
+ 
+ 
+38.Compared to the efficient frontier of risky assets, the dominant capital allocation line has
+higher rates of return for levels of risk greater than the optimal risky portfolio because of
+the investor’s ability to:
+A.lend at the risk-free rate.
+B.borrow at the risk-free rate.
+C.purchase the risk-free asset.
+参考答案：B
+【莽学解析】： B is correct. The CAL dominates the efficient frontier at all points except for
+the optimal risky portfolio. The ability of the investor to purchase additional amounts of the
+optimal risky portfolio by borrowing (i.e., buying on margin) at the risk-free rate makes
+higher rates of return for levels of risk greater than the optimal risky asset possible. ： 与
+风险资产组成的有效前沿相比，最优的资本配置线在风险水平高于最优风险投资组合的情况下具有更高的回
+报率，因为投资者有什么样的能力？ 本题选择B。除了最优风险投资组合外，CAL在所有点上都支配着有效前
+沿。投资者通过借贷可以投资更多的最优风险投资组合来获得更高的收益。
+ 
+39.With respect to capital market theory, which of the following assumptions allows for the
+existence of the market portfolio? All investors:
+A.are price takers.
+B.have homogeneous expectations.
+C.plan for the same, single holding period.
+参考答案：B
+【莽学解析】： B is correct. The homogeneous expectations assumption means that all investors
+analyze securities in the same way and are rational. That is, they use the same probability
+distributions, use the same inputs for future cash flows, and arrive at the same valuations.
+Because their valuation of all assets is identical, they will generate the same optimal risky
+portfolio, which is the market portfolio. ： 关于资本市场理论，下列哪个假设使得市场组合的存在
+？所有投资者： B是正确的。同质预期假设是指所有投资者以相同的方式分析证券，是理性的。即他们使用
+相同的概率分布，对未来现金流有着相同的预期，并得到相同的估值。因为投资者对所有资产的估值是相同
+的，所以会产生相同的最优风险投资组合，即市场投资组合。
+ 
+40.Two individual investors with different levels of risk aversion will have optimal portfolios
+that are:
+A.below the capital allocation line.
+B.on the capital allocation line.
+C.above the capital allocation line.
+参考答案：B
+【莽学解析】： B is correct. The CAL represents the set of all feasible investments. Each
+investor’s indifference curve determines the optimal combination of the risk-free asset and
+the portfolio of all risky assets, which must lie on the CAL. ： 如果两个投资者的风险厌恶程度不
+同，他们的最优投资组合会如何？ 本题选择B，所有投资者的最优投资组合都应当在资产配置线当中，只不
+过不同的投资者的最优投资组合在资产配置线中的位置不同。
+ 
+41.Which of the following performance measures does not require the measure to be compared to
+another value?
+A.Sharpe ratio.
+B.Treynor ratio.
+C.Jensen’s alpha.
+参考答案：C
+【莽学解析】： C is correct. The sign of Jensen’s alpha indicates whether or not the portfolio
+has outperformed the market. If alpha is positive, the portfolio has outperformed the market;
+if alpha is negative, the portfolio has underperformed the market. ： 下列哪项指标不需要与另一
+个值比较？ C是正确的。Jensen ‘alpha的符号表示投资组合是否跑赢市场。如果为正，则投资组合的表现
+优于市场；如果为负，则投资组合的表现不如市场。
+ 
+42.With respect to capital market theory, the average beta of all assets in the market is:
+A.less than 1.0.
+B.equal to 1.0.
+C.greater than 1.0.
+参考答案：B
+【莽学解析】： B is correct. The average beta of all assets in the market, by definition, is
+equal to 1.0. ： 根据资本市场理论，市场中所有资产的平均β值为？ B是对的。市场中所有资产平均β体
+现的是市场整体系统性风险状况，所以为1。
+ 
+43.Returns on asset classes are best described as being a function of:
+A.the failure of arbitrage.
+B.exposure to the idiosyncratic risks of those asset classes.
+C.exposure to sets of systematic factors relevant to those asset classes.
+参考答案：C
+【莽学解析】： C is correct. Strategic asset allocation depends on several principles. As
+stated in the reading, “One principle is that a portfolio’s systematic risk accounts for most
+of its change in value over the long run.” A second principle is that, “the returns to groups
+of like assets… predictably reflect exposures to certain sets of systematic factors.” This
+latter principle establishes that returns on asset classes primarily reflect the systematic
+risks of the classes. ： 资产大类的回报率可以用哪个选项表述？ C是正确的。资产大类的收益率主要反
+映了这些类别的系统性风险，因为只有系统性风险应当获得收益率的补偿。
+ 
+44.With respect to capital market theory, which of the following asset characteristics is least
+likely to impact the variance of an investor’s equally weighted portfolio?
+A.Return on the asset.
+B.Standard deviation of the asset.
+C.Covariances of the asset with the other assets in the portfolio.
+参考答案：A
+【莽学解析】： A is correct. The asset’s returns are not used to calculate the portfolio’s
+variance [only the assets’ weights, standard deviations (or variances), and covariances (or
+correlations) are used]. ： 本题问以下哪个选项最不可能影响到投资组合的方差？ 本题选择A。投资组
+合的方差受到两方面影响，一个是资产自身收益率的方差；一个是资产收益率之间的协方差。
+ 
+45.An investor performs the following transactions on the shares of a firm. ● At t = 0, she
+purchases a share for $1,000. ● At t = 1, she receives a dividend of $25 and then purchases
+three additional shares for $1,055 each. ● At t = 2, she receives a total dividend of $100 and
+then sells the four shares for $1,100 each. The money-weighted rate of return is closest to:
+A.4.5%.
+B.6.9%.
+C.7.3%.
+参考答案：B
+【莽学解析】： B is correct. Computation of the money-weighted return, r, requires finding the
+discount rate that sums the present value of cash flows to zero. The first step is to group net
+cash flows by time. For this example, we have -$1,000 for the t = 0 net cash flow, -$3,140 = -
+$3,165 + $25 for the t = 1 net cash flow, and $4,500 = $4,400 + $100 for the t = 2 net cash
+flowSolving for r,results in a value of r = 6.91%。 ： 一名投资者进行了以下交易，在期初花1000元
+买了一份股票； 在t1时间点，收到了25元股利，并以每股1055元的价格又买了三份股票。 在t2时间点，总
+共收到100元股利，以1100元价格卖出4份股票。 求该投资的货币加权收益率。 本题选择B。 ● CF0=-
+1000，期初流出了1000元。 ● CF1=-3140，在第一年末花了1055*3元，又获得了25元，-1055*3 25=-3140。
+● CF2=4500，期末卖股票获得4400，还要加上100元股利。 利用金融计算器求解，得IRR=6.91%，即MWRR。
+ 
+46.With respect to utility theory, the most risk-averse investor will have an indifference
+curve with the:
+A.most convexity.
+B.smallest intercept value.
+C.greatest slope coefficient.
+参考答案：C
+【莽学解析】： C is correct. The most risk-averse investor has the indifference curve with the
+greatest slope. ： 根据效用理论，厌恶风险的投资者的无差异曲线会如何？ 本题选择C选项。越厌恶风险
+，无差异曲线的越陡峭、倾斜程度越大。 本题不选A，凸性（convexity）是金融中一个术语，反映的是债券
+价格对利率变化的敏感程度。
+ 
+47.With respect to the portfolio management process, the rebalancing of a portfolio’s
+composition is most likely to occur in the:
+A.planning step.
+B.feedback step.
+C.execution step.
+参考答案：B
+【莽学解析】： B is correct. Portfolio monitoring and rebalancing occurs in the feedback step
+of the portfolio management process. ： 根据投资组合管理流程，对投资组合的再平衡最可能发生在哪
+一个步骤中？ 本题选择B。再平衡属于反馈步骤。
+ 
+48.An investor evaluating the returns of three recently formed exchange-traded funds gathers
+the following information:
+The ETF with the highest annualized rate of return is:
+A.ETF 1.
+B.ETF 2.
+C.ETF 3.
+参考答案：B
+【莽学解析】： B is correct. The annualized rate of return for ETF 2 is 12.05% =
+(1.0110)^(52/5) -1, which is greater than the annualized rate of ETF 1, 11.93% =
+(1.0461)^(365/146) - 1, and ETF 3, 11.32% = (1.1435)^(12/15) - 1. Despite having the lowest
+value for the periodic rate, ETF 2 has the highest annualized rate of return because of the
+reinvestment rate assumption and the compounding of the periodic rate. ： 本题问年化收益率最高
+的ETF是哪一个？ 本题选择B。 ETF1: (1＋4.61%)^(365/146)-1=11.93%，一年有356天 ETF2:
+(1＋1.1%)^(52/5)-1=12.05%，一年有52周 ETF3: (1＋14.35%)^(12/15)-1=11.32%，一年有12月
+ 
+49.With respect to the portfolio management process, the asset allocation is determined in the:
+A.planning step.
+B.feedback step.
+C.execution step.
+参考答案：C
+【莽学解析】： C is correct. The client’s objectives and constraints are established in the
+investment policy statement and are used to determine the client’s target asset allocation,
+which occurs in the execution step of the portfolio management process. ： 根据投资组合管理流程
+，资产配置属于哪一个步骤？ 本题选择C。资产配置属于执行步骤。
+ 
+50.The dominant capital allocation line is the combination of the risk-free asset and the:
+A.optimal risky portfolio.
+B.levered portfolio of risky assets.
+C.global minimum-variance portfolio.
+参考答案：A
+【莽学解析】： A is correct. The use of leverage and the combination of a risk-free asset and
+the optimal risky asset will dominate the efficient frontier of risky assets (the Markowitz
+efficient frontier). ： 最优的资产配置线由无风险资产和什么组成的？ 本题选择A。最优的资产配置线
+由无风险资产和最优风险投资组合构成。
+ 
+51.With respect to the formation of portfolios, which of the following statements is most
+accurate?
+A.Portfolios affect risk less than returns.
+B.Portfolios affect risk more than returns.
+C.Portfolios affect risk and returns equally.
+参考答案：B
+【莽学解析】： B is correct. As illustrated in the reading, portfolios reduce risk more than
+they increase returns. ： 本题问，在构建组合管理的时候，以下哪个说法正确。 组合管理的目的在于分
+散风险，其对风险的影响多过对收益的影响。因此本题选择B选项。
+ 
+52.With respect to capital market theory, correctly priced individual assets can be plotted on
+the:
+A.capital market line.
+B.security market line.
+C.capital allocation line.
+参考答案：B
+【莽学解析】： B is correct. The security market line applies to any security, efficient or
+not. The CAL and the CML use the total risk of the asset (or portfolio of assets) rather than
+its systematic risk, which is the only risk that is priced. ： 正确定价的资产应当出现在哪里？
+正确的是B。SML站在系统性风险角度，用于为资产定价，而CAL和CML站在总风险角度，用于配置资产。
+ 
+53.The portfolio on the minimum-variance frontier with the lowest standard deviation is:
+A.unattainable.
+B.the optimal risky portfolio.
+C.the global minimum-variance portfolio.
+参考答案：C
+【莽学解析】: C is correct. The global minimum-variance portfolio is the portfolio on the
+minimum-variance frontier with the lowest standard deviation. Although the portfolio is
+attainable, when the risk-free asset is considered, the global minimum-variance portfolio is
+not the optimal risky portfolio. ： 最小方差前沿上标准差最小的投资组合被称为什么？ 本题选择C。
+最小方差前沿上标准差最小的投资组合位于图像的最左侧，被称为全球最小方差投资组合。
+ 
+54.The planning step of the portfolio management process is least likely to include an
+assessment of the client’s
+A.securities.
+B.constraints.
+C.risk tolerance.
+参考答案：A
+【莽学解析】： A is correct. Securities are analyzed in the execution step. In the planning
+step, a client’s objectives and constraints are used to develop the investment policy
+statement. ： 投资组合管理流程的计划步骤当中，最不可能对客户的哪一方面进行评估？ 本题选择A。计
+划步骤当中会对客户的投资目标和限制进行评估。对于具体资产的分析发生在执行步骤。
+ 
+55.Which of the following statements most accurately defines the market portfolio in capital
+market theory? The market portfolio consists of all:
+A.risky assets.
+B.tradable assets.
+C.investable assets.
+参考答案：A
+【莽学解析】: A is correct. The market includes all risky assets, or anything that has value;
+however, not all assets are tradable, and not all tradable assets are investable. ： 在资本市场
+理论中，下列哪个表述最准确地定义了市场投资组合？市场组合包括： A是正确的。市场投资组合由风险资
+产构成。
+ 
+56.With respect to an equally-weighted portfolio made up of a large number of assets, which of
+the following contributes the most to the volatility of the portfolio?
+A.Average variance of the individual assets.
+B.Standard deviation of the individual assets.
+C.Average covariance between all pairs of assets.
+参考答案：C
+【莽学解析】C is correct. The co-movement measures between the assets increases (i.e.,
+covariance and correlation) as the number of assets in the equally weighted portfolio
+increases. The contribution of each individual asset’s variance (or standard deviation) to the
+portfolio’s volatility decreases as the number of assets in the equally weighted portfolio
+increases. The following equation for the variance of an equally weighted portfolio illustrates
+these points:
+ 本题问：对于一个由多个资产构成的投资组合来说，以下哪个选项对它的波动性贡献最大？本题选择C。组
+合的波动性和组合的方差有关。组合的方差由资产本身收益率的方差和资产收益率之间的协方差两块构成。
+如果有n个资产，那么就有n个个体资产的方差和标准差，所以选项A和B的个数都是n。但是从n个资产中任意
+选择2个资产，就能得到一个协方差，所以协方差的个数是nC2个，由于协防差个数更多，所以对于组合方差
+的贡献更大。
+ 
+ 
+57.As the number of assets in an equally-weighted portfolio increases, the contribution of each
+individual asset’s variance to the volatility of the portfolio:
+A.increases.
+B.decreases.
+C.remains the same.
+参考答案：B
+【莽学解析】B is correct. The contribution of each individual asset’s variance (or standard
+deviation) to the portfolio’s volatility decreases as the number of assets in the equally
+weighted portfolio increases. The contribution of the co-movement measures between the assets
+increases (i.e., covariance and correlation) as the number of assets in the equally weighted
+portfolio increases. The following equation for the variance of an equally weighted portfolio
+illustrates these points:
+ 当投资组合中的资产数量增多，资产收益率的方差对于组合的波动性的贡献会如何变化？ 本题选择B。组合
+的波动性可以理解为组合的方差。组合的方差由资产本身收益率的方差和资产收益率之间的协方差两块构成
+。其中，资产收益率的协方差对于组合方差的贡献更大，因为其个数更多。当组合中资产数量增多时，协方
+差的个数增长得更为迅速，对组合方差的贡献度上升；相比之下，方差的贡献程度就会下降。
+ 
+ 
+58.Portfolio managers who are maximizing risk-adjusted returns will seek to invest more in
+securities with:
+A.lower values of Jensen’s alpha.
+B.values of Jensen’s alpha equal to 0.
+C.higher values of Jensen’s alpha.
+参考答案：C
+【莽学解析】： C is correct. Since managers are concerned with maximizing risk-adjusted
+returns, securities with a higher value of Jensen’s alpha, αi, should have a higher weight.
+： 追求收益最大化的投资组合经理会更多投资于什么资产？ 正确的是C。如果Jensen’s alpha越高，表示
+可以获得更高的超额收益。
+ 
+59.With respect to capital market theory, an investor’s optimal portfolio is the combination
+of a risk-free asset and a risky asset with the highest:
+A.expected return.
+B.indifference curve.
+C.capital allocation line slope.
+参考答案：B
+【莽学解析】： B is correct. Investors will have different optimal portfolios depending on
+their indifference curves. The optimal portfolio for each investor is the one with highest
+utility; that is, where the CAL is tangent to the individual investor’s highest possible
+indifference curve. ： 根据资本市场理论，投资者的最优投资组合是无风险资产和什么最高的风险资产的
+组合？ B是正确的。根据无差异曲线，投资者会有不同的最优投资组合。每个投资者的最优投资组合是效用
+最高的投资组合。CAL与个人投资者最高的无差异曲线相切。
+ 
+60.With respect to an investor’s utility function expressed as: , which of the following
+values for the measure for risk aversion has the least amount of risk aversion?
+A.-4.
+B.0.
+C.4.
+参考答案：A
+【莽学解析】： A is correct. A negative value in the given utility function indicates that the
+investor is a risk seeker. ： 根据投资者效用函数，以下哪一个数值表示的风险厌恶程度最小？ 本题选
+择A。风险厌恶程度用字母A表示，A值越小表示风险厌恶程度越低。
+ 
+61.At the beginning of Year 1, a fund has $10 million under management; it earns a return of
+14% for the year. The fund attracts another $100 million at the start of Year 2 and earns a
+return of 8% for that year. The money-weighted rate of return is most likely:
+A.less than the time-weighted rate of return.
+B.the same as the time-weighted rate of return.
+C.greater than the time-weighted rate of return.
+参考答案：A
+【莽学解析】A is correct. Computation of the money-weighted return, r, requires finding the
+discount rate that sums the present value of cash flows to zero. Because most of the investment
+came during Year 2, the measure will be biased toward the performance of Year 2. The cash flows
+are as follows:CF0 = -10,CF1 = -100,CF2 = 120.31The terminal value is determined by summing the
+investment returns for each period [(10 × 1.14 × 1.08) (100 × 1.08)]
+results in a value of r = 8.53% The time-weighted return of the fund is [(1.14)(1.08)]^(1/2)-1=
+10.96%. 第一年年初，基金池中有1000万元资产，当年收益率是14%；第二年年初基金池中多了1亿元资产
+，收益率是8%，MWRR和TWRR哪一个更大？ 本题选择A选项，MWRR受到现金流影响，而TWRR不会。第二年收益
+率更低，在收益率更低的时候追加了投资，会使得MWRR被拉低。 计算： 1. MWRR计算：现金流如下： CF0 =
+－10 CF1 = －100 CF2 = 120.31 CF2的计算方法： 第一年年初的10个million按14%和8%利滚利，滚两期
+(10× 1.14 × 1.08) =12.312 million 第二年年初的100million只考虑后一期的8%(100 × 1.08)=108
+million 两者相加=120.31 输入金融计算器： CF0 = －10 CF1 = －100；F01=1 CF2 = ＋120.31;F02=1 CPT
+IRR=8.53%，因为每个小区间就是1年，所以：MWRR= 8.53% 2. TWRR计算 TWRR=[(1.14)*(1.08)]^(1/2)-
+1=10.96%.
+ 
+62.With respect to the capital asset pricing model, the market risk premium is:
+A.less than the excess market return.
+B.equal to the excess market return.
+C.greater than the excess market return.
+参考答案：B
+【莽学解析】： B is correct. In the CAPM, the market risk premium is the difference between the
+return on the market and the risk-free rate, which is the same as the return in excess of the
+market return. ： 关于资本资产定价模型，市场风险溢价为？ B是正确的。在资本资产定价模型中，市场
+风险溢价是市场收益率与无风险收益率之差，等于市场超额收益。
+ 
+63.Which of the following return calculating methods is best for evaluating the annualized
+returns of a buy-and-hold strategy of an investor who has made annual deposits to an account
+for each of the last five years?
+A.Geometric mean return.
+B.Arithmetic mean return.
+C.Money-weighted return.
+参考答案：A
+【莽学解析】： A is correct. The geometric mean return compounds the returns instead of the
+amount invested. 本题问： 一名投资者每年向账户中存入一笔钱，哪一个收益率可以反映买入并持有的策
+略的业绩？本题选择A，1. 由于衡量的是基金经理过去的业绩，所以应该用MWRR或者TWRR，而不是算数平均
+值。因为算数平均值一般是估计未来的收益率。2. 由于投资者每年向账户中存入一笔钱，所以存钱的行为是
+投资者自己决定的，而非基金经理。由于基金经理不能自由选择现金流的时机，所以衡量业绩时应该剔除这
+部分现金流影响，应该用TWRR，而不是MWRR.
+ 
+64.With respect to the capital market line, a portfolio on the CML with returns less than the
+returns on the market portfolio represents a(n):
+A.lending portfolio.
+B.borrowing portfolio.
+C.unachievable portfolio.
+参考答案：A
+【莽学解析】： A is correct. The combinations of the risk-free asset and the market portfolio
+on the CML where returns are less than the returns on the market portfolio are termed
+‘lending’ portfolios. ： 资本市场线CML当中的投资组合的收益小于市场投资组合的收益，表示？ A是
+正确的。无风险资产与CML当中的市场投资组合构成的组合，若回报率低于市场投资组合的回报率，表示有一
+部分财富投资了无风险资产，相当于把钱借给了国家或者银行。
+ 
+65.A triangle chart pattern that indicates a consolidation period and has bullish trading
+implications would most likely be classified as a(n):
+A.ascending triangle.
+B.descending triangle.
+C.symmetrical triangle.
+参考答案：A
+【莽学解析】Answer: A. A is correct. In the ascending triangle pattern, irrespective of where
+the ascending triangle is identified, it should be considered as a consolidation with bullish
+implications. A正确。 在上升趋势三角形模式中，无论升势三角形位于何处，都应将其视为具有看涨含义
+的盘整（consolidation）模式。
+ 
+66.Which of the following is the correct sequence of events for risk governance and management
+that focuses on the entire enterprise? Establishing:
+A.risk tolerance, then risk budgeting, and then risk exposures.
+B.risk exposures, then risk tolerance, and then risk budgeting.
+C.risk budgeting, then risk exposures, and then risk tolerance.
+参考答案：A
+【莽学解析】： A is correct. In establishing a risk management system, determining risk
+tolerance must happen before specific risks can be accepted or reduced. Risk tolerance defines
+the appetite for risk. Risk budgeting determine how or where the risk is taken and quantifies
+the tolerable risk by specific metrics. Risk exposures can then be measured and compared
+against the acceptable risk. ： 以下哪一个是风险治理的正确顺序？ A正确。在建立风险管理体系时
+，必须先确定风险承受能力，然后才能选择去接受或降低特定的风险。所以确立风险承受能力应当放在最前
+面。
+ 
+67.In constructing a chart, using a logarithmic scale on the vertical axis is likely to be most
+useful for which of the following applications?
+A.The price of gold for the past 100 years.
+B.The share price of a company over the past month.
+C.Yields on 10-year US Treasuries for the past 5 years.
+参考答案：A
+【莽学解析】： A is correct. The price of gold in nominal dollars was several orders of
+magnitude cheaper 100 years ago than it is today (roughly US$20 then versus US$1,100 today).
+Such a wide range of prices lends itself well to being graphically displayed on a logarithmic
+scale. 这题问什么时候纵坐标会调整成取对数的情况？ log取对数会降低数量级，比如说10000取对数就变
+成5了，这个时候数据的离散程度会减少，方便研究。这种方法适用于数量级比较大的数据。 过去100年的金
+价，本身离散程度很大，通过取对数可以降低离散程度，方便研究。 选A
+ 
+68.A chart constructed with a single data point per time interval is a:
+A.bar chart.
+B.line chart.
+C.candlestick chart.
+参考答案：B
+【莽学解析】B is correct. A line chart has one data point per time interval, with price on the
+vertical axis and unit of time on the horizontal axis. B正确。 折线图每个时间间隔有一个数据点
+（价格），纵轴是价格，横轴是时间。A 和C不对，因为Bar chart和candlestick chart在每个时间间隔有多
+余一个数据点（价格），例如蜡烛图的一个时间点，有开盘价、收盘价、最高价和最低价。
+ 
+69.Which of the following is a continuation pattern?
+A.Triangle.
+B.Triple top.
+C.Head and shoulders.
+参考答案：A
+【莽学解析】： A is correct. Triangles are one of several continuation patterns. ： 哪一个是盘
+整趋势？ A正确。三角形是众多盘整形态中的其中一种，是一种持续形态。而B和C表示的是反转趋势。
+ 
+70.Which of the following is one of cognitive errors?
+A.Overconfidence bias.
+B.Loss aversion bias.
+C.Framing bias.
+参考答案：C
+【莽学解析】Framing bias is one of Cognitive errors. Overconfidence bias and Loss aversion bias
+are emotional biases.
+ 
+71.An inverse head and shoulders acts as a reversal pattern for a preceding:
+A.uptrend.
+B.downtrend.
+C.consolidation.
+参考答案：B
+【莽学解析】Answer: B. B is correct. An inverse head and shoulders is a reversal pattern for a
+downtrend that preceded the formation of the pattern. An inverse head and shoulders is also
+referred to as a head and shoulders bottom and signals a potential reversal from the preceding
+downtrend to an uptrend. An inverse head and shoulders is the opposite of a head and shoulders
+pattern that signals a reversal from a preceding uptrend to a downtrend.B正确。翻转头肩顶的模式
+形成之前，趋势是下降的。“An inverse head and shoulders”也被称为“head and shoulders
+bottom”，表示从原先下降趋势转为上升趋势。“An inverse head and shoulders”是“a head and
+shoulders pattern”反面，表示从原先上升趋势转为下降趋势。
+ 
+72.Risk governance:
+A.aligns risk management activities with the goals of the overall enterprise.
+B.defines the qualitative assessment and evaluation of potential sources of risk in an
+organization.
+C.delegates responsibility for risk management to all levels of the organization’s hierarchy.
+参考答案：A
+【莽学解析】： A is correct. Risk governance is the top-down process that defines risk
+tolerance, provides risk oversight and guidance to align risk with enterprise goals. ： 风险管
+理的过程： A是正确的。 风险治理是自上而下的过程，它定义风险容忍度，提供风险监督和指导，使风险水
+平与企业的目标保持一致。B意为定义风险来源，C意为在组织架构各个层级中委派职责。B、C两个选项表述
+较为片面，因而不选。
+ 
+73.All of the following are reasons that the historical outperformance of value stocks versus
+growth stocks may not be anomalous except:
+A.Abnormal returns represent compensation for risk exposures, such as the heightened risk of
+value stocks to suffer distress during downturns.
+B.Companies with strong historical growth rates are viewed as good investments, with higher
+expected returns than risk characteristics merit.
+C.The deviation disappears by incorporating a three-factor asset pricing model.
+参考答案：B
+【莽学解析】Answer: B. B is correct. This choice describes the halo effect, which does offer a
+behavioral explanation for the poor performance of growth stocks versus value stocks. Growth
+stocks are mispriced relative to their risk characteristics, because FMPs focusing on just a
+few properties, such as a high historical revenue growth rate, while neglecting other
+characteristics. B描述了光环效应，B提供了一种行为金融学解释：“相对于价值型股票，成长型股票表现
+不好”。根据股票风险特征定价，成长型股票定价有可能是错误的，因为金融市场参与者只关注股票的少数
+几个属性特征，如历史高收入增长率，而忽略了其他特征。 C不正确，因为更换模型，可能得到不一样的模
+型解释，这并不能解释价值股优于成长股这个现象。 A不属于市场异常的表现，因为市场上有风险，不为零
+的超额收益是补偿风险的，而不是异常回报。
+ 
+74.One principle of technical analysis is that a security’s price::
+A.tends to move in a random fashion.
+B.moves in patterns that tend to reoccur.
+C.does not reflect all known factor information relating to the security.
+参考答案：B
+【莽学解析】Answer: B. B is correct. According to technical analysts, market psychology leads
+to repetition of price movements. Because investor behavior repeats itself, price movement
+patterns can be charted out, allowing technicians to recognize patterns.B正确。根据技术分析师的
+说法，市场（投资者）心理导致价格反复波动。因为投资者的行为会自我重复，所以可以绘制出价格运动模
+式，技术人员能够识别这种价格波动的模式。
+ 
+75.Which of the following statements on fintech’s use of data as part of risk analysis is
+correct?
+A.Stress testing requires precise inputs and excludes qualitative data.
+B.Machine learning ensures that traditional and alternative data are fully segregated.
+C.For real-time risk monitoring, data may be aggregated for reporting and used as model inputs.
+参考答案：C
+【莽学解析】： C is correct. There is increasing interest in monitoring risk in real-time. To
+do so, relevant data must be taken by a firm, mapped to known risks, and identified while
+moving within the firm. Data may be aggregated for reporting pur?poses or used as inputs to
+risk models. ： 哪个表述关于金融科技在风险分析中的运用是正确的？ C是正确的。人们对实时监控风险
+越来越感兴趣。要做到这一点，企业必须获取相关数据，将其映射到已知风险，并在企业内部获得识别。数
+据可以被汇总以供报告，也可以作为风险模型的输入。 A不对，因为压力测试并不排除定量的数据； B不对
+，因为机器学习并不确保传统型和非传统性数据充分分割。
+ 
+76.All of the following are reasons that an apparent deviation from the efficient market
+hypothesis might not be anomalous except:
+A.The abnormal returns represent compensation for exposure to risk.
+B.Changing the asset pricing model makes the deviation to disappear.
+C.The deviation is well known or documented.
+参考答案：C
+【莽学解析】C is correct. Bubbles and crashes are well-known and well-documented phenomena yet
+represent market anomalies. C正确。 以下哪一个选项是明显偏离有效市场假说的异常现象：泡沫和崩盘
+（波动）是众所周知和有据可查的现象，代表着市场的异常现象。 首先明确什么是“市场异常”，它指的是
+：对有效市场假说的偏离，市场上可以观察到，有持续存在的异常回报率（不等于零的异常回报），并且我
+们是可以预判异常回报的大小。Market anomalies are apparent deviations from the efficient market
+hypothesis, identified by persistent abnormal returns that differ from zero and are predictable
+in direction.All of the following are reasons that an apparent deviation from the efficient
+market hypothesis might not be anomalous except:题目问，以下ABC哪一个是市场异常的表现？A The
+abnormal returns represent compensation for exposure to risk.A不属于市场异常的表现，因为市场上
+有风险，不为零的超额收益是补偿风险的，而不是异常回报。B Changing the asset pricing model makes
+the deviation to disappear.B不属于市场异常的表现。因为我们有很多模型来分析资产收益率，例如一级
+组合中学习的单因子模型market model （Ri=αi＋βiRm＋ei），我们在找资产收益和市场组合收益之间的
+关系，如果ei不为零，说明有异常收益，有这个模型解释不了的收益。但是，将market model 换成
+multifactor models多因子模型，之前ei可能消失，被更多的风险因子解释。C The deviation is well
+known or documented.C正确，deviation可以被记录下来，例如crash 和 bubbles市场泡沫，市场存在异常
+回报。
+ 
+77.Text Analytics is appropriate for application to:
+A.economic trend analysis.
+B.large, structured datasets.
+C.public but not private information.
+参考答案：A
+【莽学解析】： A is correct. Through the Text Analytics application of natural language
+processing (NLP), models using NLP analysis may incorporate non-traditional information to
+evaluate what people are saying—via their preferences, opinions, likes, or dislikes—in the
+attempt to identify trends and short-term indicators about a company, a stock, or an economic
+event that might have a bearing on future performance. ： 文本分析适用于？ A正确。文本分析整合
+非传统数据来分析人们的语言，并能够分析趋势及公司的短期表现。 B不对，因为文本分析使用非结构化数
+据。 C不对，文本分析也可用于私人信息。
+ 
+78.Consider the pairwise correlations of monthly returns of the following asset classes:
+Based solely on the information in the above table, which equity asset class is most sharply
+distinguished from US equities?
+A.Brazilian equities.
+B.European equities.
+C.East Asian equities.
+参考答案：A
+【莽学解析】： A is correct. The correlation between US equities and Brazilian equities is
+0.76. The correlations between US equities and East Asian equities and the correlation between
+US equities and European equities both exceed 0.76. Lower correlations indicate a greater
+degree of separation between asset classes. Therefore, using solely the data given in the
+table, returns on Brazilian equities are most sharply distinguished from returns on US
+equities. ： 表中列出的是资产月收益率之间的相关系数。哪一种资产类别与美国股票最明显不同？ A是正
+确的。美国股市与巴西股市的关联度为0.76。美国股市与东亚股市、美国股市与欧洲股市的相关系数均超过
+0.76。相关性越低，表明资产类别之间的差异程度越高。因此，仅从表中给出的数据来看，巴西股市回报率
+与美国股市回报率的差异最为明显。
+ 
+79.A benefit of risk budgeting is that it:
+A.considers risk tradeoffs.
+B.establishes a firm’s risk tolerance.
+C.reduces uncertainty facing the firm.
+参考答案：A
+【莽学解析】： A is correct. The process of risk budgeting forces the firm to consider risk
+tradeoffs. As a result, the firm should choose to invest where the return per unit of risk is
+the highest. ： 风险预算的一项好处是： A是正确的。风险预算的过程迫使企业权衡风险和收益。因此
+，公司应该选择在单位风险带来收益最高的时候投资。
+ 
+80.Exhibit 2 depicts XYZ Co. ordinary shares, traded on the London Stock Exchange, in British
+pence.
+Based on Exhibit 2, Barclays appears to show resistance at a level nearest to:
+A.50p.
+B.275p.
+C.390p.
+参考答案：C
+【莽学解析】C is correct.As shown in the following chart, Barclays shares traded up to 390p on
+three occasions, each several weeks apart, and declined thereafter each time.
+ 根据图表，巴克莱银行的股价阻力位在什么价位？ C正确。巴克莱股价曾三次高达390便士，每次都相隔几
+周，此后每次都有所下跌。
+ 
+ 
+81.A technical analyst following a bottom-up investing approach focusing on momentum and
+breakout strategies should favor long positions in stocks with:
+A.shorter consolidation periods.
+B.high Bollinger Band readings.
+C.low volatility prior to an upside breakout.
+参考答案：C
+【莽学解析】C is correct. Securities that break out from low-volatility conditions are likely
+to experience high volatility, and high volatility in the direction of an existing trend will
+usually help the trend pick up momentum. Breakouts from consolidation periods in an uptrend or
+entering an uptrend are usually followed by a continuation of the existing trend.C正确。打破低
+波动性情况的证券，可能会经历更高波动情况，在现有趋势方向上的高波动性通常会帮助趋势加快势头。突
+破盘整期，金融上升趋势之后，通常会延续现有趋势。
+ 
+82.Which of the following typical topics in an investment policy statement (IPS) is most
+closely linked to the client’s “distinctive needs”?
+A.Procedures.
+B.Investment Guidelines.
+C.Statement of Duties and Responsibilities.
+参考答案：B
+【莽学解析】： B is correct. According to the reading, “The sections of an IPS that are most
+closely linked to the client’s distinctive needs are those dealing with investment objectives
+and constraints.” Investment Guidelines “[provide] information about how policy may be
+executed, including investment constraints.” Procedures “[detail] the steps to be taken to
+keep the IPS current and the procedures to follow to respond to various contingencies.”
+Statement of Duties and Responsibilities “detail[s] the duties and responsibilities of the
+client, the custodian of the client’s assets, the investment managers, and so forth.” ： 在投
+资规划策略书中，哪一项与客户特别的需求最相关？ B是正确的。客户的特别需求属于投资限制，而投资指
+引会包含投资限制。
+ 
+83.Status quo bias is least similar to which of the following behavioral biases?
+A.Endowment
+B.Regret aversion
+C.Confirmation
+参考答案：C
+【莽学解析】C is correct. Both endowment bias and regret-aversion bias often result in
+indecision or inertia—a typical outcome of status quo bias, in which people prefer to not make
+changes even when changes are warranted. C正确。 “禀赋偏误”和“后悔厌恶偏差”通常都会导致优柔
+寡断或惰性，这是“维持现状偏差”的典型结果，此时人们宁愿不做出改变，即使这个改变是必要的。
+ 
+84.Which of the following best describes activities that are supported by a risk management
+infrastructure?
+A.Risk tolerance, budgeting, and reporting
+B.Risk tolerance, measurement, and monitoring
+C.Risk identification, measurement, and monitoring
+参考答案：C
+【莽学解析】： C is correct. Risk infrastructure refers to the people and systems required to
+track risk exposures and perform most of the quantitative risk analysis to allow an assessment
+of the organization’s risk profile. The risk management infrastructure identifies, measures,
+and monitors risks (among other things). ： 下列哪一项最好地描述了风险管理基础架构涉及到的事项
+？ C是正确的。风险基础设施是指跟踪风险敞口和执行定量风险分析以评估组织风险概况所需的人员和系统
+。
+ 
+85.In analyzing a price chart, high or increasing volume most likely indicates which of the
+following?
+A.Predicts a reversal in the price trend.
+B.Predicts that a trendless period will follow.
+C.Confirms a rising or declining trend in prices.
+参考答案：C
+【莽学解析】： C is correct. Rising volume shows conviction by many market participants, which
+is likely to lead to a continuation of the trend. ： 在分析价格图表时，交易量较高或出现增长最有
+可能因为？ C是正确的。成交量上升意味着市场中的投资者认可当前的趋势，所以会进一步加强当前价格的
+趋势，这可能导致价格变动趋势延续下去。
+ 
+86.A downtrend line is constructed by drawing a line connecting:
+A.the lows of the price chart.
+B.the highs of the price chart.
+C.the highest high to the lowest low of the price chart.
+参考答案：B
+【莽学解析】： B is correct. A downtrend line is constructed by drawing a line connecting the
+highs of the price chart. ： 下降趋势线是如何得到的： B正确。下降趋势线是通过连接价格趋势的最高
+点得到的。
+ 
+87.The halo effect, which may be evident in FMP’s assessments of a company with a history of
+high revenue growth, is a form of which behavioral bias?
+A.Endowment
+B.Representativeness
+C.Regret aversion
+参考答案：B
+【莽学解析】B is correct. Representativeness refers to the tendency to adopt a view or forecast
+based on individual information or a small sample, as well to use simple classifications. The
+halo effect is an example of representativeness, because FMPs extend an overall favorable
+evaluation to an investment (e.g., a “good company”) based on one or few characteristics
+(e.g., a “visionary CEO”). B正确。代表性偏差是指：倾向基于个体信息，或者小样本的观点或预测
+，以及使用简单分类方式（做投资决策）。光环效应是代表性偏差的一个例子，因为金融市场参与者基于一
+个或几个特征（如“有远见的CEO”），将有利信息推断出一个投资决策（如“有远见的CEO”代表了“好公
+司”）。 A不对，A指的是“禀赋偏差：人们一旦拥有一项资产时，就会觉得其价值更高。” C不对，C指的
+是“后悔厌恶偏差：人倾向于不做决策，以避免自己后悔。”
+ 
+88.Tactical asset allocation is best described as:
+A.attempts to exploit arbitrage possibilities among asset classes.
+B.the decision to deliberately deviate from the policy portfolio.
+C.selecting asset classes with the desired exposures to sources of systematic risk in an
+investment portfolio.
+参考答案：B
+【莽学解析】： B is correct. Tactical asset allocation allows actual asset allocation to
+deviate from that of the strategic asset allocation (policy portfolio) of the IPS. Tactical
+asset allocation attempts to take advantage of temporary dislocations from the market
+conditions and assumptions that drove the policy portfolio decision. ： 哪一个表述关于战术资产
+配置是最正确的？ B是正确的。战术资产配置允许实际资产配置短暂地偏离战略资产配置，以在短期中获得
+更多收益。
+ 
+89.An example of a non-financial risk is:
+A.market risk.
+B.liquidity risk.
+C.settlement risk.
+参考答案：C
+【莽学解析】： C is correct. Settlement risk is related to default risk, but deals with the
+timing of payments rather than the risk of default. ： 哪一项属于非金融风险？ 正确的是C。结算风
+险是银行在结算过程中，因人员失误或违反有关结算规定造成损失的一种风险，与结算的时间相关，属于非
+金融风险。 结算清偿的风险和违约风险相关，并且是在违约时间之前发生的。清偿风险是“支付的时间”引
+起的，而不是违约风险引起的清偿风险。例如，A和B签订了合约（在未来3个月末时间点，A以1千万元，买
+B的1万张日本国债），合约到期AB双方都期望对方按照合约执行。A公司在A国，B公司在B过，AB两国的时区
+（交易时间）不一样。当到期日来临，A转账1千万，由于时区原因，B收到了A的钱，但是B此时宣告破产无法
+交割1万张债券，此时A收不回1千万（除非B走完破产流程后有资金处理A的事情）。此时A没有按时收到债券
+的事情，就是清偿风险，但清偿风险不是违约风险引起的。
+ 
+90.Which of the following statement is most likely correct?
+A.In the use of machine learning (ML), some techniques are termed “black box” due to data
+biases.
+B.Human judgment is not needed in the use of machine learning (ML) because algorithms
+continuously learn from data.
+C.When applying machine learning (ML), training data can be learned too precisely, resulting in
+inaccurate predictions when used with different datasets.
+参考答案：C
+【莽学解析】When the ML model learns the input and target dataset too precisely, overfitting
+occurs. Noise could be treated as as true parameters. A is not correct. Data biases are not the
+reason for “black box”. B is not correct. Human judgment is needed in the use of ML. In
+practice, expert human judgment has a role in using clustering algorithms.
+ 
+91.A Bollinger Band “squeeze” occurs when volatility:
+A.falls to low levels as the Bollinger Band widens.
+B.falls to low levels as the Bollinger Band narrows.
+C.rises to high levels as the Bollinger Band narrows.
+参考答案：B
+【莽学解析】A Bollinger Band “”occurs when volatility falls to a very low level, as evidenced
+by the narrowingbands.布林带“挤压squeeze”，发生在波动性降至低水平时，如较窄的布林带。
+ 
+92.Exhibit 1 depicts ABC Co., Ltd., ordinary shares, traded on the Shenzhen Stock Exchange, for
+the months of November through September in renminbi (RMB).
+Based on Exhibit 1, the uptrend was most likely broken at a price level nearest to:
+A.7 RMB.
+B.8.5 RMB.
+C.10 RMB.
+参考答案：B
+【莽学解析】B is correct. It is demonstrated in the following chart:
+ 上涨趋势最可能在什么价位被破坏？ B正确。趋势破坏的位置，应该是上涨趋势线终止的位置。上涨趋势线
+是连接每一次波动的最低点，如图中黑色实线。uptrend要求每一次波动的最低点都比上一次高，而这个趋势
+在85的位置终止。85后面，最低点的连线是有高有低的，所以在85的地方就是broken的部分了，和最高点
+100是没有关系的。
+ 
+ 
+93.In the use of machine learning (ML):
+A.some techniques are termed “black box” due to data biases.
+B.human judgment is not needed because algorithms continuously learn from data.
+C.training data can be learned too precisely, resulting in inaccurate predictions when used
+with different datasets.
+参考答案：C
+【莽学解析】： C is correct. Overfitting occurs when the ML model learns the input and target
+dataset too precisely. In this case, the model has been “over trained” on the data and is
+treating noise in the data as true parameters. An ML model that has been overfitted is not able
+to accurately predict outcomes using a different dataset and may be too complex. ： 哪一个关于
+机器学习的说法是正确的？ C是对的。当机器学习模型过于精确地学习输入和目标数据集时，就会发生过度
+拟合。在这种情况下，模型对数据进行了“过度训练”，并将数据中的噪声作为真实参数处理。过度拟合的
+模型无法准确预测使用不同数据集的结果，而且可能过于复杂。 A不对，因为黑箱并非由于数据偏误，而是
+机器学习分析过程中的弊端； B不对，因为机器学习依然需要人工的干预。
+ 
+94.Effective risk governance in an enterprise provides guidance on all of the following except:
+A.unacceptable risks.
+B.worst losses that may be tolerated.
+C.specific methods to mitigate risk for each subsidiary in the enterprise.
+参考答案：C
+【莽学解析】： C is correct. Risk governance is not about specifying methods to mitigate risk
+at the business line level. Rather, it is about establishing an appropriate level of risk for
+the entire enterprise. Specifics of dealing with risk fall under risk management and the risk
+infrastructure framework. 以下哪一项不属于有效的风险治理？ 题目问的是错误的方法。B是正确的，所
+以不选。因为企业在风险治理的过程中，要考虑极端情况发生时的最大损失。风险治理是高管做的事情，一
+般不考虑具体方法，只看损失或企业整体风险承受力这些大问题。而C是具体管理的方法，所以不属于risk
+governance风险治理的范畴。
+ 
+95.Momentum, can be partly explained by the following behavioral biases except:
+A.availability.
+B.home bias.
+C.regret.
+参考答案：B
+【莽学解析】Answer: B. B is correct. Home bias refers to FMPs preferentially investing in
+domestic securities, likely reflecting perceived relative informational advantages, a greater
+feeling of comfort with the access to company executives that proximity brings (either personal
+or through a local brokerage), or a psychological desire to invest in a local community.
+Momentum, on the other hand, has been documented in a range of markets around the world, in a
+time-dependent manner, and reflects some FMPs’ availability bias, manifested as a belief that
+stocks will continue to rise because recently they have only risen, as well as regret aversion
+by those who invest in past winners because they regret not investing in them in the past. 题目
+问的是：不能解释Momentum市场动量现象的选项是？ B不可以解释。Home Bias是指金融市场参与者
+（FMP）优先投资于国内证券，可能是因为接收到了具有相对优势的信息，例如，更容易了解国内目标公司高
+管，这样带来更大的投资舒适感。 Momentum指的是世界各个市场记录下的“动量特征”，它反映了金融市场
+参与者的可获得性偏差（availability bias），例如，因为获得了最近这些股票只上涨（没有下跌）的信息
+，认为股票将继续上涨，所以A不正确。 C不正确，C指的是厌恶后悔偏差，是指“做了某件事情（投资了历
+史表现好的资产），（资产现在表现不好）后悔了，倾向于采取行动（但实际没有将这个资产卖掉）”。
+ 
+96.Why is technical analysis especially useful in the analysis of commodities and currencies?
+A.Valuation models cannot be used to determine fundamental intrinsic value for these
+securities.
+B.Government regulators are more likely to intervene in these markets.
+C.These types of securities display clearer trends than equities and bonds do.
+参考答案：A
+【莽学解析】： A is correct. Commodities and currencies do not have underlying financial
+statements or an income stream; thus, fundamental analysis is useless in determining
+theoretical values for them or whether they are over- or undervalued. ： 为什么技术分析在大宗商
+品和外汇分析中很有用？ A正确。大宗商品和汇率没有相关的财务报表或现金流。此时，基本面分析估值模
+型难以发挥作用。
+ 
+97.To profit from a head and shoulders formation, a technician often sets a price target below
+the neckline price by an increment equal to the:
+A.head minus neckline.
+B.head minus top of right shoulder.
+C.top of right shoulder minus neckline.
+参考答案：A
+【莽学解析】Answer: A.A is correct. When attempting to profit from a head and shoulders
+formation, a technician will often use the price difference between the head and neckline to
+set a price target below the neckline. The price target is therefore set as follows: Price
+target = Neckline – (Head – Neckline). A正确。 试图从头肩顶模型中获利时，分析师通常会利用头部
+和颈线之间的价格差来设定颈线以下的价格目标。因此，价格目标设置如下：价格目标=颈线–（头部-颈线
+）。
+98.Which of the following is a reversal pattern?
+A.Pennant.
+B.Rectangle.
+C.Double bottom.
+参考答案：C
+【莽学解析】： C is correct. It is one of several reversal patterns. ： 以下哪一个是反转趋势？
+C正确。双重底指的是股价在一定时间中连续两次下跌至相近的地点，是反转趋势。而A和B是盘整趋势。
+ 
+99.Which of the following is least likely to be placed in the appendices to an investment
+policy statement (IPS)?
+A.Rebalancing Policy.
+B.Strategic Asset Allocation.
+C.Statement of Duties and Responsibilities.
+参考答案：C
+【莽学解析】： C is correct. The major components of an IPS are listed in Section 2.2 of the
+reading. Strategic Asset Allocation (also known as the policy portfolio) and Rebalancing Policy
+are often included as appendices to the IPS. The Statement of Duties and Responsibilities,
+however, is an integral part of the IPS and is unlikely to be placed in an appendix. ： 以下哪
+一项最不可能被包含在投资规划策略书的附录中？ 正确的是C。投资策略规划书（IPS）的附录中包含再平衡
+和资产配置方针。而职责说明是IPS中另一块内容，不属于附录部分。
+ 
+100.A trader observes that the 50-day moving average for the S&P 500 Index recently crossed
+below its long-term 200-day moving average. This situation is referred to as a:
+A.death cross.
+B.golden cross.
+C.Bollinger Band.
+参考答案：A
+【莽学解析】Answer: A. A is correct. A widely followed moving average crossover signal is the
+one that takes place between the 50-day moving average and the 200-day moving average. When the
+short-term (50-day) moving average crosses below the long-term (200-day) moving average, it is
+called a death cross and is a bearish signal. A正确。 交叉信号（发生在50天移动平均线和200天移动
+平均线之间）被广受关注。当短期（50天）移动平均线低于长期（200天）移动平均线时，它被称为死亡交叉
+线，是熊市信号。
+ 
+101.An investment policy statement that includes a return objective of outperforming the FTSE
+100 by 120 basis points is best characterized as having a(n):
+A.relative return objective.
+B.absolute return objective.
+C.arbitrage-based return objective.
+参考答案：A
+【莽学解析】： A is correct. Because the return objective specifies a target return relative to
+the FTSE 100 Index, the objective is best described as a relative return objective. ： 若投资规
+划策略书中的投资目标是超出FTSE 100（富时指数）120基点，这是什么样的收益率目标？ 正确的是A。由于
+目标有可比对象，是相对的收益率目标。
+ 
+102.Drawbacks of technical analysis include which of the following?
+A.It identifies changes in trends only after the fact.
+B.Deviations from intrinsic value can persist for long periods.
+C.It usually requires detailed knowledge of the financial instrument under analysis.
+参考答案：A
+【莽学解析】： A is correct. Trends generally must be in place for some time before they are
+recognizable. Thus, sometime may be needed for a change in trend to be identified. ： 以下哪一
+项是技术分析的缺点？ A正确。一般来说，趋势必须存在一段时间才能被识别出来。因此，可能需要一段时
+间来确定趋势的变化。
+ 
+103.Intermarket analysis focuses on the:
+A.valuation drivers of intermarket asset price relationships.
+B.bottom-up economic fundamentals of intermarket relationships.
+C.identification of inflection points in intermarket relationships using relative strength
+indicators.
+参考答案：C
+【莽学解析】Answer: C. C is correct. Intermarket analysis is a field within technical analysis
+that combines analysis of major categories of securities, industries, benchmarks, and
+geographies to identify intermarket relationships, trends, and possible inflections in a trend.
+To identify these intermarket relationships and trends, a commonly used tool is relative
+strength analysis, which charts the ratio of the price of two assets. C正确。 市场间分析是技术
+分析中的一个领域，它主要结合了对证券、行业、基准和地理位置的分析，以确定市场间关系、趋势和趋势
+中可能发生的变化。为了识别这些市场间的关系和趋势，一个常用的工具是相对强度分析，它绘制了图（两
+种资产的价格比率）表示。
+ 
+104.If the 5-day moving average for AZB Company crossed over its 60-day moving average from
+underneath, it would be considered a:
+A.bullish indicator.
+B.bearish indicator.
+C.new level of resistance.
+参考答案：A
+【莽学解析】Answer: A. A is correct. When the short-term moving average crosses above the long-
+term moving average, it can be viewed as a bullish buy signal. For example, a 5-day short-term
+moving average (a proxy for short-term momentum) breaking up through a 60-day longer-term
+moving average (an indicator of intermediate trend) can be used as a buy signal. A正确。 当短期
+移动平均线超过长期移动平均线时，可以将其视为“看涨买入”信号。例如，当5天短期移动平均线（短期势
+头趋势的代表）突破了60天长期移动平均线（长期势头趋势的指标）时，这个信息可以用作买入信号。
+ 
+105.Relative strength analysis typically compares the performance of an asset with that of a
+benchmark or other security using a:
+A.bar chart that reflects the two assets’ price history.
+B.line chart that reflects the ratio of the two assets’ prices.
+C.candlestick chart that reflects ratios measuring the magnitude of each asset’s up days
+versus down days.
+参考答案：B
+【莽学解析】Answer: B. B is correct. In relative strength analysis, the analyst typically
+prepares a line chart of the ratio of the two assets’ prices, with the asset under analysis as
+the numerator and with the benchmark or other security as the denominator. With this single
+line chart, the analyst can readily visualize relative performance. B正确。 在相对强度分析中
+，分析师通常准备两种资产价格比率的折线图，以两类资产中的一个资产为分子，以基准（或者其他）证券
+为分母。有了这张单线图，分析员可以很容易地看到相对业绩表现。
+ 
+106.Which of the following is generally true of the head and shoulders pattern?
+A.Volume is important in interpreting the data.
+B.The neckline, once breached, becomes a support level.
+C.Head and shoulders patterns are generally followed by an uptrend in the security’s price.
+参考答案：A
+【莽学解析】： A is correct. Volume is necessary to confirm the various market rallies and
+reversals during the formation of the head and shoulders pattern. ： 哪一个关于头肩顶的说法是正
+确的？ A正确。成交量是确认头肩顶趋势时必须的。 B不对，因为对于头肩顶而言，颈线突破后，变成了阻
+力位； C不对，头肩顶趋势通常伴随着价格下跌的趋势。
+ 
+107.Which of the following chart patterns signals the end of an uptrend in price?
+A.Bearish rectangle
+B.Head and shoulders
+C.Symmetrical triangle
+参考答案：B
+【莽学解析】B is correct. A head and shoulders pattern is a reversal pattern that signals the
+end of an uptrend in price. Once a head and shoulders pattern has been formed, the expectation
+is that the price will decline through the neckline price of the formation. B是正确的。 头肩顶
+是一种反转模式，表示价格上升趋势的结束。一旦形成头肩顶模式，预计价格将从颈线下降。
+ 
+108.The advice “Don’t confuse brains with a bull market” is aimed at mitigatingwhich of the
+following behavioral biases?
+A.Self-control
+B.Conservatism
+C.Overconfidence
+参考答案：C
+【莽学解析】C is correct. This advice is specifically aimed at reducing self-attributionbias,a
+form of overconfidence bias. This bias may result in FMPs taking credit forinvestment success,
+as well as assigning responsibility to others for investmentfailures, when in reality the
+investment results reflect exogenous market forces. C正确。 这一建议特别旨在减少自我归因偏差
+，属于“过度自信偏差”的一种形式。这种偏见可能导致金融市场参与者将投资成功原因归于自己，以及将
+投资失败的责任分配给他人，而实际上投资结果反映了外部（exogenous）市场力量。
+ 
+109.Exhibit 3 depicts DGF Company common shares, traded on the New York Stock Exchange, for
+five years in US dollars.
+Exhibit 3 illustrates most clearly which type of pattern?
+A.Triangle.
+B.Triple top.
+C.Head and shoulders.
+参考答案：C
+【莽学解析】C is correct. The left shoulder formed at around US$18.50, the head formed at
+around US$20.50, and the second shoulder formed at around US$19.
+ 图中表示的是哪一种趋势？ C正确。左肩形成于18.50美元左右，头部形成于20.50美元左右，第二个肩形成
+于19美元左右。
+ 
+ 
+110.Liquidity risk is most associated with:
+A.the probability of default.
+B.a widening bid–ask spread.
+C.a poorly functioning market.
+参考答案：B
+【莽学解析】： B is correct. Liquidity risk is also called transaction cost risk. When the
+bid–ask spread widens, purchase and sale transactions become increasingly costly. The risk
+arises from the uncertainty of the spread. ： 流动性风险与哪一项最相关？ B是正确的。流动性风险
+又称交易成本风险。当买卖价差扩大时，买卖交易的成本就变得越来越高。风险来自于利差的不确定性。
+ 
+111.The section of the investment policy statement (IPS) that provides information about how
+policy may be executed, including investment constraints, is best described as the:
+A.Investment Objectives.
+B.Investment Guidelines.
+C.Statement of Duties and Responsibilities.
+参考答案：B
+【莽学解析】： B is correct. The major components of an IPS are listed in Section 2.2 of the
+reading. Investment Guidelines are described as the section that provides information about how
+policy may be executed, including investment constraints. Statement of Duties and
+Responsibilities “detail[s] the duties and responsibilities of the client, the custodian of
+the client’s assets, the investment managers, and so forth.” Investment Objectives is “a
+section explaining the client’s objectives in investing.” ： 投资规划策略书中的哪一个部分是关
+于投资策略如何执行的，包括投资限制？ 是正确的。投资指引部分是关于投资如何被执行，其中会包含投资
+中的限制。
+ 
+112.The “change in polarity” principle states which of the following?
+A.Once an uptrend is broken, it becomes a downtrend.
+B.Once a resistance level is breached, it becomes a support level.
+C.The short-term moving average has crossed over the longer-term moving average.
+参考答案：B
+【莽学解析】： B is correct. ： 什么叫做价位的改变？ B正确。如果股价持续下跌突破支撑位，原有支
+撑位变成新的阻力位；而当股价持续上涨突破阻力位，原有阻力位变成新的支撑位。
+ 
+113.A fully formed head and shoulders pattern is most likely an indicator to:
+A.buy.
+B.sell.%
+C.hold.
+参考答案：B
+【莽学解析】Answer: B. B is correct. A head and shoulders formation is a sell indicator that
+signals a reversal of a preceding uptrend. Once the head and shoulders pattern forms, the
+expectation is that the price will decline through the neckline price, setting the stage for a
+downtrend phase. B正确。 头肩顶模型是一个卖出指标，表示原先上升趋势将要反转。一旦头肩顶模型形成
+，预期价格将从颈线下跌，为下跌趋势阶段奠定基础。
+ 
+114.In an inverted head and shoulders pattern, if the neckline is at €100, the shoulders at
+€90, and the head at €75, the price target is closest to which of the following?
+A.€50.
+B.€110.
+C.€125.
+参考答案：C
+【莽学解析】： C is correct. Target = Neckline + (Neckline - Head): €100 + (€100 - €75) =
+€125 ： 在头肩底模式中，如果颈部价格是100，肩部价格是90，头部价格是75，股票下跌的目标价位是多
+少？ C正确。根据头肩顶和头肩底目标价位计算公式，目标价格=颈部价格 （颈部价格-头部价格）=125。
+115.Which of the following statements regarding technical support and resistance is correct?
+A.A breached support level becomes a new level of resistance.
+B.Support is a price range where selling activity is sufficient to stop a rise in price.
+C.Resistance is a price range where buying activity is sufficient to stop a decline in price.
+参考答案：A
+【莽学解析】Answer: A. A is correct. In the ascending triangle pattern, irrespective of where
+the ascending triangle is identified, it should be considered as a consolidation with bullish
+implications. A正确。 在上升趋势三角形模式中，无论升势三角形位于何处，都应将其视为具有看涨含义
+的盘整（consolidation）模式。
+ 
+116.Which of the following risks is best described as a financial risk?
+A.Credit
+B.Solvency
+C.Operational
+参考答案：A
+【莽学解析】： A is correct. A financial risk originates from the financial markets. Credit
+risk is one of three financial risks identified in the reading: Credit risk is the chance of
+loss due to an outside party defaulting on an obligation. Solvency risk depends at least in
+part on factors internal to the organization and operational risk is an internal risk arising
+from the people and processes within the organization. ： 哪一项属于金融风险？ A正确。金融风险
+源于金融市场。信用风险是原版书介绍的三种金融风险之一：信用风险是由于外部违约而造成损失的可能性
+。偿付能力风险部分取决于组织内部的因素，因自身经营不善以至于无法偿还欠款。操作风险是由组织内部
+的人员和过程引起的内部风险。
+ 
+117.Investment managers incentivized or accountable for short-term performance by current and
+prospective clients is a potentially rational explanation for which of the following?
+A.Home bias
+B.Bubbles
+C.Value stocks outperforming growth stocks
+参考答案：B
+【莽学解析】Answer: B. B is correct. Investment managers’ incentives—or perhaps more
+accurately, their perception of their incentives—for short-term performance were named as
+considerations in the technology and real estate bubbles. Not participating in the bubble
+presented certain FMPs with commercial or career risk. B正确。 题目问：以下哪项可以合理解释：因
+短期业绩的原因，投资经理会被当前、潜在的客户激励或者问责？ 更准确地说，对于市场泡沫和房地产泡沫
+的产生，有“投资经理受到短期业绩激励或问责”这个因素。在泡沫产生的过程中，可能有基金经理已经发
+现了泡沫，可是，如果不继续参与投资，退出市场的话，这个选择会给投资经理带来商业或职业风险，意味
+着其他人都在泡沫中赚钱，为什么你这个基金经理不干了，急流勇退？所以有的基金经理考虑到自己的短期
+前途，更大可能性会在泡沫中维持投资，也就加剧了经济危机和泡沫。 A不对，A指的是“投资的资产中，绝
+大多数是本国的投资品” C不对，C指的是“value型公司的return要大于growth型公司”
+ 
+118.The timing of payouts for property and casualty insurers is unpredictable (“lumpy”) in
+comparison with the timing of payouts for life insurance companies. Therefore, in general,
+property and casualty insurers have:
+A.lower liquidity needs than life insurance companies.
+B.greater liquidity needs than life insurance companies.
+C.a higher return objective than life insurance companies.
+参考答案：B
+【莽学解析】： B is correct. The unpredictable nature of property and casualty (P&C) claims
+forces P&insurers to allocate a substantial proportion of their investments into liquid, short
+maturity assets. This need for liquidity also forces P&companies to accept investments with
+relatively low expected returns. Liquidity is of less concern to life insurance companies given
+the greater predictability of life insurance payouts. ： 与人寿保险公司的赔付时间相比，财产保险
+公司和意外险公司的赔付时间更加不可预测的(“波动的”)。因此，一般而言，财产险和意外险的保险公司
+： B是正确的。财产和意外损失险索赔的不可预测性迫使财产和意外损失险保险公司将其相当比例的投资配
+置为流动性强、期限短的资产。这种对流动性的需求也迫使财产意外险公司接受预期回报率相对较低的投资
+。由于寿险赔付的可预见性更强，因此寿险公司对流动性的需求相比之下较少。
+ 
+119.Which of the following is best characterized as a relative risk objective?
+A.Value at risk for the fund will not exceed US$3 million.
+B.The fund will not underperform the DAX by more than 250 basis points.
+C.The fund will not lose more than €2.5 million in the coming 12-month period.
+参考答案：B
+【莽学解析】： B is correct. The reference to the DAX marks this response as a relative risk
+objective. Value at risk establishes a minimum value of loss expected during a specified time
+period at a given level of probability. A statement of maximum allowed absolute loss (€2.5
+million) is an absolute risk objective. ： 下列哪一项是相对风险目标的最佳描述？ B是正确的，因为
+将德国DAX指数作为可比对象。另外两个选项描述的都是绝对风险目标。
+ 
+120.Once an enterprise’s risk tolerance is determined, the role of risk management is to:
+A.analyze risk drivers.
+B.align risk exposures with risk appetite.
+C.identify the extent to which the enterprise is willing to fail in meeting its objectives.
+参考答案：B
+【莽学解析】： B is correct. When risk tolerance has been determined, the risk framework should
+be geared toward measuring, managing, and complying with the risk tolerance, or aligning risk
+exposure with risk tolerance. The risk tolerance decision begins by looking at what shortfalls
+within an organization would cause it to fail to achieve some critical goals and what are the
+organization’s risk drivers. Once an enterprise’s risk tolerance is determined, the role of
+risk management is to: 当一家企业的风险承受力已经确定时，风险管理应该 A analyse risk drivers.
+分析风险驱动 B align risk exposures with risk appetite. 将“要面临的风险敞口”和"风险偏好风险承
+受度"相匹配。 C identify the extent to which the enterprise is willing to fail in meeting its
+objectives. 确定企业在多大程度上愿意达标失败。
+ 
+121.In a candlestick chart, a shaded candlestick body indicates that the opening price was:
+A.equal to the closing price.
+B.lower than the closing price.
+C.higher than the closing price.
+参考答案：C
+【莽学解析】Answer: C. C is correct. A shaded candlestick body indicates that the price of the
+security closed down from its opening price, whereas a clear body indicates that the price
+closed up from its opening price. Thus, a shaded candlestick body indicates that the opening
+price was higher than the closing price. C正确。 在蜡烛图中，带阴影的蜡烛身体表示证券价格从开盘
+价高于收盘价，价格总体下跌，而透明的蜡烛身体表示价格从开盘价低于收盘价，价格总体上涨。于是C正确
+。
+ 
+122.A technical analyst following a bottom-upinvesting approach focusing onmomentum and
+breakout strategies should favor long positions in stocks with:
+A.shorter consolidation periods.
+B.high Bollinger Band readings.
+C.low volatility prior to an upside breakout.
+参考答案：C
+【莽学解析】C is correct. Securities that break out from low-volatilityconditions are likelyto
+experience high volatility, and high volatility in the direction of an existingtrend will
+usually help the trend pick up momentum. Breakouts from consolidationperiods in an uptrend or
+entering an uptrend are usually followed by acontinuation of the existing trend.
+ 
+123.Risk assessment questionnaires for investment management clients are most useful in
+measuring:
+A.value at risk.
+B.ability to take risk.
+C.willingness to take risk.
+参考答案：C
+【莽学解析】： C is correct. Risk attitude is a subjective factor and measuring risk attitude
+is difficult. Oftentimes, investment managers use psychometric questionnaires, such as those
+developed by Grable and Joo (2004), to assess a client’s willingness to take risk. ： 风险评估
+调查问卷在衡量客户什么时最为有用？ C是正确的。风险态度是一个主观因素，对风险态度的测量是困难的
+。通常，投资经理使用心理测量问卷来评估客户承担风险的意愿。
+ 
+124.The process of risk management includes:
+A.minimizing risk.
+B.maximizing returns.
+C.defining and measuring risks being taken.
+参考答案：C
+【莽学解析】： C is correct. Risks need to be defined and measured so as to be consistent with
+the organization’s chosen level of risk tolerance and target for returns or other outcomes. ：
+风险管理的过程包括： C是正确的。风险管理目的不在于单方面的风险最小化或是收益最大化。风险需要被
+定义和测量，以便与组织所选择的风险承受水平和收益等目标保持一致。
+ 
+125.Which of the following individual behavioral biases is most strongly associated with market
+bubbles?
+A.Overconfidence
+B.Representativeness
+C.Framing
+参考答案：A
+【莽学解析】A is correct.The overconfidence and excessive trading that contribute to a bubble
+are linked to self-attribution bias, a form of overconfidence. In a rising market, sales of
+stocks from a portfolio will typically be profitable, even if winners are being sold too soon,
+and FMPs will attribute profits and strong performance to their investment acumen and
+subsequently underestimate risks. A正确。 过度自信和过度交易为市场泡沫的产生做出了贡献。过度自
+信和过度交易与自我归因（一种过度自信的表现形式）有关。在一个上涨的市场中，售出投资组合中的股票
+通常是获利的，即使赢家（有收益的投资者）售出太早，金融市场参与者也会将获利和强劲表现归因于他们
+的投资敏锐度，从而低估风险。 题目需要选择一个最优选，而A比B更合适。B代表性偏差有两个特点，一个
+是忽略基本概率，另一个是忽略样本规模较小，有以偏概全的意思。题目问的是造成市场泡沫的原因，和B的
+关系并不如A直接。
+ 
+126.After interviewing a client in order to prepare a written investment policy statement
+(IPS), you have established the following: ●The client has earnings that have exceeded
+€120,000 (pre-tax) each year for the past five years. ●She has no dependents. ●The client’s
+subsistence needs are approximately €45,000 per year. ●The client states that she feels
+uncomfortable with her lack of understanding of securities markets. ●All of the client’s
+current savings are invested in short-term securities guaranteed by an agency of her national
+government. ●The client’s responses to a standard risk assessment questionnaire suggest she
+has low risk tolerance. The client is best described as having a:
+A.low ability to take risk, but a high willingness to take risk.
+B.high ability to take risk, but a low willingness to take risk.
+C.high ability to take risk and a high willingness to take risk.
+参考答案：B
+【莽学解析】： B is correct. On the one hand, the client has a stable, high income and no
+dependents. On the other hand, she exhibits above average risk aversion. Her ability to take
+risk is high, but her willingness to take risk is low. ： 某客户有以下状况： ●在过去5年里每年
+的收入超过12万欧元（税前）。 ●她独自生活。 客户的生活费用大约是每年45000欧元。 ●这位客户表示
+，自己对证券市场缺乏了解，因而感到不适。 ●客户目前的所有储蓄都投资于政府下属机构担保的短期证券
+。 以下哪个选项对客户情况的表述是正确的？ B是正确的。一方面，客户有稳定的高收入，没有家属依赖于
+她。另一方面，她表现出高于平均水平的风险厌恶情绪。她承担风险的能力很高，但她承担风险的意愿很低
+。
+ 
+127.A benefit of distributed ledger technology (DLT) favoring its use by the investment
+industry is its:
+A.scalability of underlying systems.
+B.ease of integration with existing systems.
+C.streamlining of current post-trade processes.
+参考答案：C
+【莽学解析】： C is correct. DLT has the potential to streamline the existing, often complex
+and labor intensive post-trade processes in securities markets by providing close to real-time
+trade verification, reconciliation, and settlement, thereby reducing related complexity, time,
+and costs. ： 分布式账本技术（DLT）的一个好处是？ C是正确的。DLT通过提供接近实时的交易验证、核
+对和结算，有可能简化证券市场现有的、复杂的、劳动密集型的交易流程，从而降低相关的复杂性、时间和
+成本。 A和B不对，因为分布式账本技术推翻了传统的交易系统，不是对已有系统的延展和集成。
+ 
+128.Under-diversifiedportfolios are not a potential implication of which of the
+followingbehavioral biases?
+A.Representativeness.
+B.Illusion of control.
+C.Confirmation
+参考答案：A
+【莽学解析】A is correct. Under-diversifiedportfolios are a consequence of both illusionof
+control and confirmation biases. Researchers have found that some investorsprefer to invest in
+companies that they feel they have control over, suchas the companies they work for, leading
+them to hold concentrated positions.Confirmation bias may lead to FMPs ignoring negative news,
+paying attentiononly to information confirming that a company is a good investment, whichmay
+result in large positions. Representativeness bias is not typically associatedwith under-
+diversifiedportfolios. A正确。 分散化不足的投资组合可以由控制幻觉和确认性偏差导致。研究人员发现
+，一些投资者更喜欢投资于自认为可以控制的公司，比如他们工作的公司，这导致他们持有较为集中投资头
+寸。确认性偏差可能导致金融市场参与者忽略负面信息，只关注那些“可以确认此公司是良好投资”的信息
+，这可能导致较为集中的投资头寸。代表性偏差通常与分散化不足的投资组合无关。
+ 
+129.A “healthy correction” chart pattern:
+A.is classified as a type of reversal pattern.
+B.does not change long-term price trends since supply and demand remain in balance.
+C.is formed when the price reaches a low, rebounds, and then sells off back to the first low
+level.
+参考答案：B
+【莽学解析】Answer: B. B is correct. With a “healthy correction,” a type of continuation
+pattern, the long- term price trend does not change as supply and demand remains in balance
+while ownership transitions from one investor group to another. B正确。 “healthy
+correction”是一种持续模式，意味着长期价格趋势不会改变，因为供求保持平衡（所有权从一个投资者群
+体转移到另一个投资者群体）。
+ 
+130.A technical analyst who observes a downtrending security break out of a consolidation range
+on the downside will most likely predict that the downtrend will:
+A.resume.
+B.reverse trend with an upside breakout.
+C.retrace back to the consolidation range.
+参考答案：A
+【莽学解析】Answer: A. A is correct. When a previously downtrending price breaks out of its
+consolidation range on the downside, it suggests that the price will enter a new downtrend
+phase. A正确。 当先前下跌的价格在下跌时突破其价格平稳（consolidation）范围，这表明价格将进入新
+的下跌阶段（resume继续下跌）。
+ 
+131.Which of the following is not a momentum oscillator?
+A.MACD.
+B.Stochastic oscillator.
+C.Bollinger Bands.
+参考答案：C
+【莽学解析】： C is correct. Bollinger Bands are price-based indicators, not momentum
+oscillators, which are constructed so that they oscillate between a high and a low or around 0
+or 100. ： 哪一个不是振荡指标？ C正确。布林带是基于价格的指标，不是振荡指标。振荡指标往往使用到
+变动率，在0到100之间波动。
+132.A daily bar chart provides:
+A.a logarithmically scaled horizontal axis.
+B.a horizontal axis that represents changes in price.
+C.high and low prices during the day and the day’s opening and closing prices.
+参考答案：C
+【莽学解析】： C is correct. The top and bottom of the bars indicate the highs and lows for the
+day; the line on the left indicates the opening price and the line on the right indicates the
+closing price. ： 每日柱状图会如何？ C正确。 柱状图的顶部和底部表示当天的最高点和最低点；柱状图
+左边的线表示开盘价，右边的线表示收盘价。柱状图纵轴是股票价格，横轴是时间，而且未经过对数处理
+，所以A和B不对。
+ 
+133.Which strategy would best mitigate or prevent endowment bias?
+A.Actively seeking out information that challenges existing beliefs
+B.When new information is presented, asking “How does this information change my forecast?”
+C.Asking “Would you buy this security today at the current price?”
+参考答案：C
+【莽学解析】Cis correct. Endowment bias refers to people attributing additional,
+unwarrantedvalue to things they possess versus things they do not. This bias is evident inFMPs
+that systematically and materially overvalue securities in their portfolioversus securities not
+in their portfolio. The question “Would you buy thissecurity today at the current price?”
+turns the investor’s attention toassessing the reasonableness of the current price as a buy
+price rather thansolely as a selling price. C正确。 “禀赋偏误”指的是人们将额外的、无根据的价
+值赋予（归因）于他们拥有的东西，而不是他们没有的东西。这种偏见在金融市场参与者中很明显，金融市
+场参与者他们系统性地、实质性地高估了他们自己投资组合中的证券，而低估了他们自己投资组合中没有的
+证券。“你今天会以当前市场价格购买这些证券吗？”这一问题将投资者的注意力转向评估“合理性”：当
+前价格作为买入价格而不是仅仅作为卖出价格的合理性。
+ 
+134.Technical analysis is a form of security analysis that:
+A.assesses past price action to project future prices.
+B.requires in-depth knowledge of financial instruments.
+C.is ineffective when evaluating long-term price movements.
+参考答案：A
+【莽学解析】Answer: A.A is correct. The underlying logic of technical analysis is that past
+price action can be useful to anticipate and project potential future prices with charts and
+other technical tools.A正确。技术分析的基本逻辑是：“通过图表和其他技术工具，过去的价格（行为
+）可以预测潜在的未来（资产）价格。”
+ 
+135.If a company has a one-day 5% Value at Risk of $1 million, this means:
+A.5% of the time the firm is expected to lose at least $1 million in one day.
+B.95% of the time the firm is expected to lose at least $1 million in one day.
+C.5% of the time the firm is expected to lose no more than $1 million in one day.
+参考答案：A
+【莽学解析】： A is correct. The VaR measure indicates the probability of a loss of at least a
+certain level in a time period. ： 如果一家公司一天当中5%的在险价值是100万美元，意味着？ 正确的
+是A。Var表示的是一段时间中小概率下至少发生多少亏损。
+136.The "change in polarity" principle states which of the following?
+A.Once an uptrend is broken, it becomes a downtrend.
+B.Once a resistance level is breached, it becomes a support level.
+C.The short-term moving average has crossed over the longer-term moving average.
+参考答案：B
+【莽学解析】The "change in polarity" principle states that once a resistance level is breached,
+it becomes a support level. “极性变化”原理指出，阻力位和支撑位是可以互相转化的。 一旦阻力位被
+打破，它就成为一个新的支撑位。 一旦支撑位被打破，它就成为一个新的阻力位。
+ 
+137.In defining asset classes as part of the strategic asset allocation decision, pairwise
+correlations within asset classes should generally be:
+A.equal to correlations among asset classes.
+B.lower than correlations among asset classes.
+C.higher than correlations among asset classes.
+参考答案：C
+【莽学解析】： C is correct. As the reading states, “an asset class should contain homogeneous
+assets… paired correlations of securities would be high within an asset class, but should be
+lower versus securities in other asset classes.” 在定义资产类别时，资产大类中资产之间的相关系
+数通常：C是正确的。资产大类中资产之间的相关系数比资产大类之间的相关系数更高。 翻译：当我们做战
+略资产配置决策时，需要确定（投资的资产属于什么）资产类别，那么对比“同一资产类别中的两两资产
+”和“不同资产类别中的两两资产”他们的相关系数，此时“同一资产类别中的两两资产”相关系数更高~
+ 
+138.A client who is a director of a publicly listed corporation is required by law to refrain
+from trading that company’s stock at certain points of the year when disclosure of financial
+results are pending. In preparing a written investment policy statement (IPS) for this client,
+this restriction on trading:
+A.is irrelevant to the IPS.
+B.should be included in the IPS.
+C.makes it illegal for the portfolio manager to work with this client.
+参考答案：B
+【莽学解析】： B is correct. When a client has a restriction in trading, such as this
+obligation to refrain from trading, the IPS “should note this constraint so that the portfolio
+manager does not inadvertently trade the stock on the client’s behalf.” ： 有法律规定，身为上
+市公司董事的客户，在一年中的某些时候，不得买卖该公司的股票，因为该公司的财务业绩尚未公布。在为
+该客户编制投资规划策略书时，对交易的限制： 正确的是B，对交易的限制应列入IPS，这样投资组合经理就
+不会无意中代表客户交易股票。
+ 
+139.Which of the following is not an assumption of technical analysis?
+A.Security markets are efficient.
+B.The security under analysis is freely traded.
+C.Market trends and patterns tend to repeat themselves.
+参考答案：A
+【莽学解析】： A is correct. Technical analysis works because markets are not efficient and
+rational and because human beings tend to behave similarly in similar circumstances. The result
+is market trends and patterns that repeat themselves and are somewhat predictable. ： 以下哪一
+个不是技术分析的假设？ A正确。技术分析之所以有效，是因为市场缺乏效率和理性，而且人类在相似的环
+境中往往会有相似的行为。其结果是市场趋势和模式不断重复，并且在一定程度上是可以预测的。
+ 
+140.In providing investment services, robo-advisers are most likely to:
+A.rely on their cost effectiveness to pursue active strategies.
+B.offer fairly conservative advice as easily accessible guidance.
+C.be free from regulation when acting as fully-automated wealth managers.
+参考答案：B
+【莽学解析】： B is correct. Research suggests that robo-advisers tend to offer fairly
+conservative advice, providing a cost-effective and easily accessible form of financial
+guidance to underserved populations. ： 在提供投资服务时，智能投顾最有可能： B是正确的。智能投
+顾目前提供的投资建议比较保守，为普通群众提供着服务。
+ 
+141.A characteristic of Big Data is that:
+A.one of its traditional sources is business processes.
+B.it involves formats with diverse types of structures.
+C.real-time communication of it is uncommon due to vast content.
+参考答案：B
+【莽学解析】： B is correct. Big Data is collected from many different sources and is in a
+variety of formats, including structured data (e.g., SQL tables or CSV files), semi-structured
+data (e.g., HTML code), and unstructured data (e.g., video messages). ： 大数据有着怎样的特点？
+B正确。大数据有着多种来源和数据结构。 A不对，因为业务流程产生的数据是非传统数据； C不对，因为实
+时沟通已经很普遍。
+ 
+142.A factor associated with the widespread adoption of algorithmic trading is increased:
+A.market efficiency.
+B.average trade sizes.
+C.trading destinations.
+参考答案：C
+【莽学解析】： C is correct. Global financial markets have undergone substantial change as
+markets have fragmented into multiple trading destinations consisting of elec?tronic exchanges,
+alternative trading systems, and so-called dark pools. In such an environment, when markets are
+continuously reflecting real-time infor?mation and continuously changing conditions,
+algorithmic trading has been viewed as an important tool. ： 引起算法交易的广泛运用的一个相关因
+素是？ C是正确的。全球金融市场经历了巨大的变化，市场被分割成多个交易场所，包括电子交易所、另类
+交易系统和所谓的暗池交易（场外交易的一种）。在这样的环境中，当市场不断反映实时信息和不断变化的
+条件时，算法交易被视为一个重要的工具。
+ 
+143.A linear price scale is:
+A.inappropriate for a candlestick chart.
+B.better suited for analysis of short-term price movements.
+C.constructed with equal vertical distances corresponding to an equal percentage price change.
+参考答案：B
+【莽学解析】Answer: B.B is correct. A linearly scaled (rather than a logarithmically scaled)
+chart is better suited for analysis of short-term price movements. A linear scale plots price
+against a vertical axis with an equal distance between prices, whereas with a logarithmic
+scale, equal vertical distances correspond to an equal percentage change. The difference
+between a logarithmic price chart and an arithmetic (linear) price chart can be small when
+analyzing a chart in the short term. However, major differences are apparent when analyzing
+longer-term charts (more than two years of price data). B正确。 线性比例（而不是对数比例）图表
+更适合分析短期价格变动。线性标度表示价格与纵轴之间的距离相等，而对数标度表示相同的垂直距离对应
+相等的百分比变化。在分析短期价格波动图表时，对数比例图和算术（线性比例）图之间的差异可能很小。
+然而，在分析长期图表（两年以上的价格数据）时，价格上的主要差异是显而易见的。
+ 
+144.A firm’s risk management committee would be expected to do all of the following except:
+A.approving the governing body’s proposed risk policies.
+B.deliberating the governing body’s risk policies at the operational level.
+C.providing top decision-makers with a forum for considering risk management issues.
+参考答案：A
+【莽学解析】： A is correct. The risk management committee is a part of the risk governance
+structure at the operational level—as such, it does not approve the governing body’s
+policies. ： 本题问：一个公司的风险管理委员会应该做以下所有的事情，除了什么？ 正确的是A。这里关
+键词是approving，也就是说风险管理委员会是董事会下属机构。董事会是最上层结构，负责批准对应事项。
+但是风险管理委员会没有所谓的“批准”的权利，只有运营的权利。所以approval是董事会的职责，但是不
+是委员会的职责。
+ 
+145.In the 1980s, Japan was viewed by many FMPs as the model economy. Although its growth began
+to decelerate sharply by 1990, it was not until the mid to late 1990s that FMPs’ GDP forecasts
+were consistently achieved. By taking several years to adapt their forecasts to the lower
+growth environment, FMPs exhibited which behavioral bias?
+A.Mental accounting
+B.Overconfidence
+C.Conservatism
+参考答案：C
+【莽学解析】C is correct. Conservatism bias results in maintain or only slowly updating views
+and forecasts despite the presence of new information. FMPs in the 1990s were reluctant to
+update forecasts, despite materially different new information for several years. C正确。 “保
+守性偏见”会导致“在出现新信息的情况下保持不变或缓慢更新预测（现有信息）”。20世纪90年代的金融
+市场参与者不愿意更新预测（现有信息），尽管几年来预测信息和新的信息存在重大差异。 题目：20世纪
+80年代，许多FMP（financial market participants）市场参与者将日本视为一个模范经济体。尽管日本的
+增长从1990年开始急剧减速，但直到1990年代中后期，FMPs的GDP预测和市场实际情况保持一致（were
+consistently achieved）。FMP花了几年的时间，来接受一个事实：预测的信息和增长环境不符，请问
+FMPs的表现属于哪种行为偏差？
+ 
+146.Which factor should most affect a company’s ability to tolerate risk?
+A.A stable market environment
+B.The beliefs of the individual board members
+C.The ability to dynamically respond to adverse events
+参考答案：C
+【莽学解析】： C is correct. If a company has the ability to adapt quickly to adverse events
+may allow for a higher risk tolerance. There are other factors, such as beliefs of board
+members and a stable market environment, which may but should not affect risk tolerance. ： 哪
+个因素最会影响到企业承受风险的能力？ C是正确的。如果一个公司有能力迅速适应不利的事件，则可能具
+备着更高的风险容忍能力。A是外在环境，而非企业自身能力；B是董事会的信念，属于主观范畴，而非能力
+。
+ 
+147.In preparing an investment policy statement, which of the following is most difficult to
+quantify?
+A.Time horizon.
+B.Ability to accept risk.
+C.Willingness to accept risk.
+参考答案：C
+【莽学解析】： C is correct. Measuring willingness to take risk (risk tolerance, risk aversion)
+is an exercise in applied psychology. Instruments attempting to measure risk attitudes exist,
+but they are clearly less objective than measurements of ability to take risk. Ability to take
+risk is based on relatively objective traits such as expected income, time horizon, and
+existing wealth relative to liabilities. ： 在编制投资规划策略书时，以下哪一项最难量化？ C是正
+确的。衡量承担风险的意愿与心理学相关。试图衡量风险态度的工具是存在的，但它们显然不如衡量承担风
+险的能力那么客观。承担风险的能力是基于相对客观的特征，如预期收入、投资期限和与负债相关的现有财
+富。
+ 
+148.Risk budgeting includes all of the following except:
+A.determining the target return.
+B.quantifying tolerable risk by specific metrics.
+C.allocating a portfolio by some risk characteristics of the investments.
+参考答案：A
+【莽学解析】： A is correct. Risk budgeting does not include determining the target return.
+Risk budgeting quantifies and allocates the tolerable risk by specific metrics. ： 风险预算不包
+括以下哪项？ A是正确的。风险预算不包括确定收益目标。风险预算通过特定的度量来量化和分配可容忍的
+风险。
+ 
+149.Bollinger Bands are constructed by plotting:
+A.a MACD line and a signal line.
+B.a moving-average line with an uptrend line above and downtrend line below.
+C.a moving-average line with upper and lower lines that are at a set number of standard
+deviations apart.
+参考答案：C
+【莽学解析】： C is correct. Bollinger Bands consist of a moving average and a higher line
+representing the moving average plus a set number of standard deviations from average price
+(for the same number of periods as used to calculate the moving average) and a lower line that
+is a moving average minus the same number of standard deviations. ： 布林带是如何绘制的？ C正确
+。布林带由两条移动平均线构成，上限等于股票均价加上一定量的标准差，下限等于股票均价减去一定量的
+标准差。
+ 
+150.A candlestick chart is similar to a bar chart except that the candlestick chart:
+A.represents upward movements in price with X’s.
+B.also graphically shows the range of the period’s highs and lows.
+C.has a body that is light or dark depending on whether the security closed higher or lower
+than its open.
+参考答案：C
+【莽学解析】： C is correct. Dark and light shading is a unique feature of candlestick charts.
+： 蜡烛图与柱状图相似，除了？ C正确。若蜡烛图为阴线（实心），表示下跌；为阳线（空心），表示上涨
+。
+ 
+151.Jun Park, CFA, works at a hedge fund. Most of Park’s colleagues are also CFA
+charterholders. At an event with recent university graduates, Park comments, “Most CFA
+charterholders work at hedge funds.” Park’s remark exhibits which behavioral bias?
+A.Availability
+B.Conservatism
+C.Framing
+参考答案：A
+【莽学解析】A is correct. Park is extrapolating his observation based on a narrow range of
+experience (working at a hedge fund that employs many CFA charterholders) to the entire
+population of CFA charterholders. Using a narrow range of experience is a form of availability
+bias. A正确。 Jun Park是基于一个小范围的经验（Jun park在一家雇佣了许多CFA持证人的HF对冲基金工作
+）来推断全体CFA持证人情况。使用小范围的经验属于一种可得性偏见。 补充： Availability bias.
+People take a heuristic approach to estimating the probability of an outcome based on how
+easily the outcome comes to mind.可得性偏差：人往往会想到那些最容易想起来的事情。题眼：顾客购买
+了经常在电视上做广告(advertising)的基金。例如，最先推荐给客户的东西，可能是最先想到的东西。
+ 
+152.A written investment policy statement (IPS) is most likely to succeed if:
+A.it is created by a software program to assure consistent quality.
+B.it is a collaborative effort of the client and the portfolio manager.
+C.it reflects the investment philosophy of the portfolio manager.
+参考答案：B
+【莽学解析】： B is correct. A written IPS, to be successful, must incorporate a full
+understanding of the client’s situation and requirements. As stated in the reading, “The IPS
+will be developed following a fact finding discussion with the client.” ： IPS在什么情况下最有
+可能成功？ B是正确的。想要实现投资规划策略书（IPS）中制定的目标，需要对客户情况和需求进行充分理
+解。并且需要投资组合经理和客户双方的协作与沟通。
+ 
+153.When a security is not trending, it is considered to be in a:
+A.breakout.
+B.retracement.
+C.consolidation.
+参考答案：C
+【莽学解析】Answer: C. C is correct. In technical analysis, when a security is not trending, it
+is considered to be in consolidation. A consolidation phase is characterized by a fairly narrow
+trading range in which the price moves sideways (indicative of relative supply/demand balance)
+without much upward or downward movement. The key to technical analysis is the ability to
+differentiate between a consolidation and a trend phase. C正确。 在技术分析中，当证券没有（表现
+出）趋势时，它被认为处于“价格平稳（consolidation）”状态。整合阶段的特点是交易范围相当狭窄，价
+格横向移动（表明供需相对地平衡）没有明显的上升或下降。技术分析的关键是能够区分整合和趋势阶段。

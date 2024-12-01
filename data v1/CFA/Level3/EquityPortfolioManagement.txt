@@ -1,0 +1,661 @@
+Equity Portfolio Management
+共享题干题
+【题干】Ayanna Chen is a portfolio manager at Aycrig Fund, where she supervises assistant
+portfolio manager Mordechai Garcia. Aycrig Fund invests money for high-net-worth and
+institutional investors. Chen asks Garcia to analyze certain information relating to Aycrig
+Fund's three sub-managers, Managers A, B, and C.Manager A has $250 million in assets under
+management (AUM), an active risk of 5%, an information coefficient of 0.15, and a transfer
+coefficient of 0.40. Manager A's portfolio has a 2.5% expected active return this year.Chen
+directs Garcia to determine the maximum position size that Manager A can hold in shares of
+Pasliant Corporation, which has a market capitalization of $3.0 billion, an index weight of
+0.20%, and an average daily trading volume (ADV) of 1% of its market capitalization.Manager A
+has the following position size policy constraints:
+■Allocation: No investment in any security may represent more than 3% of total AUM.
+■Liquidity: No position size may represent more than 10% of the dollar value of the security's
+ADV.
+■Index weight: The maximum position weight must be less than or equal to 10 times the
+security's weight in the index.Manager B holds a highly diversified portfolio that has balanced
+exposures to rewarded risk factors, high active share, and a relatively low active risk
+target.Selected data on Manager C's portfolio, which contains three assets, is presented in
+Exhibit 1.
+Chen considers adding a fourth sub-manager and evaluates three managers' portfolios, Portfolios
+X, Y, and Z. The managers for Portfolios X, Y, and Z all have similar costs, fees, and alpha
+skills, and their factor exposures align with both Aycrig's and investors' expectations and
+constraints. The portfolio factor exposures, risk contributions, and risk characteristics are
+presented in Exhibits 2 and 3.
+ 
+Chen and Garcia next discuss characteristics of long–short and long-only investing. Garcia
+makes the following statements about investing with long–short and long-only managers:
+Statement 1: A long–short portfolio allows for a gross exposure of 100%.
+Statement 2: A long-only portfolio generally allows for greater investment capacity than other
+approaches, particularly when using strategies that focus on large-cap stocks.
+Chen and Garcia then turn their attention to portfolio management approaches. Chen prefers an
+approach that emphasizes security-specific factors, engages in factor timing, and typically
+leads to portfolios that are generally more concentrated than those built using a systematic
+approach.
+ 
+1.【单项选择题】The number of truly independent decisions Manager A would need to make in order
+to earn her expected active portfolio return this year is closest to:
+A.8
+B.11
+C.69
+参考答案：C
+【莽学解析】
+ 
+ 
+ 
+2.【单项选择题】Which of the following position size policy constraints is the most restrictive
+in setting Manager A’s maximum position size in shares of Pasliant Corporation?
+A.Liquidity
+B.Allocation
+C.Index weight
+参考答案：A
+【莽学解析】A is correct. The maximum position size in shares of Pasliant Corporation (PC) is
+determined by the constraint with the lowest dollar amount. The maximum position size for PC
+under each constraint is calculated as follows:Liquidity ConstraintDollar value of PC traded
+daily = PC market cap × Average daily trading volumeDollar value of PC traded daily = $3
+billion × 1.0% = $30 millionLiquidity constraint = Dollar value of PC traded daily ×
+Liquidity % thresholdLiquidity constraint = $30 million × 10% = $3 millionAllocation
+ConstraintAllocation constraint = AUM × Maximum position size thresholdAllocation constraint =
+$250 million × 3.0% = $7.5 millionIndex Weight ConstraintIndex weight constraint = AUM ×
+(Index weight × 10)Index weight constraint = $250 million × (0.20% × 10) = $5.0 millionThe
+liquidity constraint of $3.0 million is less than both the $5.0 million index weight constraint
+and the $7.5 million allocation constraint. Therefore, the maximum allowable position size that
+Manager A may take in PC is $3.0 million.
+ 
+3.【单项选择题】Manager B's portfolio is most likely consistent with the characteristics of a:
+A.pure indexer.
+B.sector rotator.
+C.multi-factor manager.
+参考答案：C
+【莽学解析】C is correct. Most multi-factor products are diversified across factors and
+securities and typically have high active share but have reasonably low active risk (tracking
+error), often in the range of 3%. Most multi-factor products have a low concentration among
+securities in order to achieve a balanced exposure to risk factors and minimize idiosyncratic
+risks. Manager B holds a highly diversified portfolio that has balanced exposures to rewarded
+risk factors, a high active share, and a relatively low target active risk—consistent with the
+characteristics of a multi-factor manager.
+ 
+4.【单项选择题】Based on Exhibit 1, the contribution of Asset 2 to Manager C's portfolio
+variance is closest to
+A.0.0025.
+B.0.0056.
+C.0.0088.
+参考答案：B
+【莽学解析】
+ 
+5.【单项选择题】Based on Exhibits 2 and 3, which portfolio best exhibits the risk
+characteristics of a well-constructed portfolio?
+A.Portfolio X
+B.Portfolio Y
+C.Portfolio Z
+参考答案：A
+【莽学解析】A is correct. Well-constructed portfolios should have low idiosyncratic
+(unexplained) risk relative to total risk. Portfolio Y exhibits extremely high unexplained risk
+relative to total risk, and Portfolios X and Z have low unexplained risk relative to total
+risk. Therefore, Portfolio Y may be eliminated.Portfolios X and Z have comparable factor
+exposures. In comparing portfolios with comparable factor exposures, the portfolio with lower
+absolute volatility and lower active risk will likely be preferred, assuming similar costs.
+Portfolio X has lower absolute volatility and lower active risk than Portfolio Z, although both
+have similar costs.Finally, for managers with similar costs, fees, and alpha skills, if two
+products have similar active and absolute risks, the portfolio having a higher active share is
+preferred. Portfolio X has lower absolute volatility, lower active risk, and higher active
+share than Portfolio Z. As a result, Portfolio X best exhibits the risk characteristics of a
+well-constructed portfolio.
+ 
+6.【单项选择题】Which of Garcia's statements regarding investing with long–short and long-only
+managers is correct?
+A.Only Statement 1
+B.Only Statement 2
+C.Both Statement 1 and Statement 2
+参考答案：C
+【莽学解析】C is correct. Both Statement 1 and Statement 2 are correct.Statement 1 is correct
+because, similar to a long-only portfolio, a long–short portfolio can be structured to have a
+gross exposure of 100%. Gross exposure of the portfolio is calculated as the sum of the long
+positions and the absolute value of the short positions, expressed as percentages of the
+portfolio’s capital.Gross exposure = Long positions |Short positions|Gross exposure long-only
+portfolio = 100% (Long positions) 0% (Short positions) = 100%Gross exposure long–short
+portfolio = 50% (Long positions) |–50%| (Short positions) = 100%Statement 2 is correct because
+long-only investing generally offers greater investment capacity than other approaches,
+particularly when using strategies that focus on large-cap stocks. For large institutional
+investors such as pension plans, there are no effective capacity constraints in terms of the
+total market cap available for long-only investing.
+ 
+7.【单项选择题】Chen's preferred portfolio management approach would be best described as:
+A.top down.
+B.systematic.
+C.discretionary.
+参考答案：C
+【莽学解析】C is correct. Chen prefers an approach that emphasizes security-specific factors,
+engages in factor timing, and typically leads to portfolios that are generally more
+concentrated than those built using a systematic approach.
+ 
+【题干】Three years ago, the Albright Investment Management Company (Albright) added four new
+funds—the Barboa Fund, the Caribou Fund, the DoGood Fund, and the Elmer Fund—to its existing
+fund offering. Albright’s new funds are described in Exhibit 1.
+Hans Smith, an Albright portfolio manager, makes the following notes after examining these
+funds:
+Note 1: The fee on the Caribou Fund is a 15% share of any capital appreciation above a 7%
+threshold and the use of a high-water mark.
+Note 2: The DoGood Fund invests in Fleeker Corporation stock, which is rated high in the ESG
+space, and Fleeker’s pension fund has a significant investment in the DoGood Fund. This
+dynamic has the potential for a conflict of interest on the part of Fleeker Corporation but not
+for the DoGood Fund.
+Note 3: The DoGood Fund’s portfolio manager has written policies stating that the fund does
+not engage in shareholder activism. Therefore, the DoGood Fund may be a free-rider on the
+activism by these shareholders.
+Note 4: Of the four funds, the Elmer Fund is most likely to appeal to investors who want to
+minimize fees and believe that the market is efficient.
+Note 5: Adding investment-grade bonds to the Elmer Fund will decrease the portfolio’s short-
+term risk.
+Smith discusses means of enhancing income for the three funds with the junior analyst, Kolton
+Frey, including engaging in securities lending or writing covered calls. Frey tells Smith the
+following:
+Statement 1: Securities lending would increase income through reinvestment of the cash
+collateral but would require the fund to miss out on dividend income from the lent securities.
+Statement 2: Writing covered calls would generate income, but doing so would limit the upside
+share price appreciation for the underlying shares.
+ 
+8.【单项选择题】The Barboa Fund can be best described as a fund segmented by:
+A.size/style.
+B.geography.
+C.economic activity.
+参考答案：C
+【莽学解析】C is correct. The Barboa Fund invests solely in the equity of companies in the oil
+production and transportation industries in many countries. The fund’s description is
+consistent with the production-oriented approach, which groups companies that manufacture
+similar products or use similar inputs in their manufacturing processes.A is incorrect because
+the fund description does not mention the firms’ size or style (i.e., value, growth, or
+blend). Size is typically measured by market capitalization and often categorized as large cap,
+mid-cap, or small cap. Style is typically classified as value, growth, or a blend of value and
+growth. In addition, style is often determined through a “scoring” system that incorporates
+multiple metrics or ratios, such as price-to-book ratios, price-to-earnings ratios, earnings
+growth, dividend yield, and book value growth. These metrics are then typically “scored”
+individually for each company, assigned certain weights, and then aggregated.B is incorrect
+because the fund is invested across many countries, which indicates that the fund is not
+segmented by geography. Segmentation by geography is typically based upon the stage of
+countries’ macroeconomic development and wealth. Common geographic categories are developed
+markets, emerging markets, and frontier markets.
+ 
+9.【单项选择题】The Caribou Fund is most likely classified as a:
+A.large-cap value fund.
+B.small-cap value fund.
+C.small-cap growth fund.
+参考答案：C
+【莽学解析】C is correct because the fund focuses on new funds that are generally classified as
+small firms, and the fund has a style classified as aggressive. A widely used approach to
+segment the equity universe incorporates two factors: size and style. Size is typically
+measured by market capitalization and often categorized as large cap, mid-cap, or small cap.
+Style is typically classified as value, growth, or a blend of value and growth.
+ 
+10.【单项选择题】The DoGood Fund’s approach to the aerospace and defense industry is best
+described as:
+A.positive screening.
+B.negative screening.
+C.thematic investing.
+参考答案：B
+【莽学解析】B is correct. The DoGood fund excludes companies based on specified activities
+(e.g., aerospace and defense), which is a process of negative screening. Negative or
+exclusionary screening refers to the practice of excluding certain sectors or companies that
+deviate from accepted standards in areas such as human rights or environmental concernsA is
+incorrect because positive screening attempts to identify companies or sectors that score most
+favorably regarding ESG-related risks and/or opportunities. The restrictions on investing
+indicates that a negative screen is established.C is incorrect because thematic investing
+focuses on investing in companies within a specific sector or following a specific theme, such
+as energy efficiency or climate change. The DoGood Fund’s investment universe includes all
+companies and sectors that have favorable ESG (no specific sectors or screens) but with
+specific exclusions.
+ 
+11.【单项选择题】The Elmer fund’s management strategy is:
+A.active.
+B.passive.
+C.blended.
+参考答案：B
+【莽学解析】B is correct. The fund is managed assuming that the market is efficient, and
+investments are selected to mimic an index. Compared with active strategies, passive strategies
+generally have lower turnover and generate a higher percentage of long-term gains. An index
+fund that replicates its benchmark can have minimal rebalancing.
+ 
+12.【单项选择题】Based on Note 1, the fee on the Caribou Fund is best described as a:
+A.performance fee.
+B.management fee.
+C.administrative fee.
+参考答案：A
+【莽学解析】A is correct. Performance fees serve as an incentive for portfolio managers to
+achieve or outperform return objectives, to the benefit of both the manager and investors.
+Several performance fee structures exist, although performance fees tend to be “upward
+only”—that is, fees are earned by the manager when performance objectives are met, but fund
+investors are not reimbursed when performance is negative. Performance fees could be reduced
+following a period of poor performance, however. Fee calculations also reflect high-water
+marks. As described in Note 1, the fee for the Caribou Fund is a 15% share of any capital
+appreciation above a 7% threshold, with the use of a high-water mark, and is therefore a
+performance fee.B is incorrect because management fees include direct costs of research (such
+as remuneration and expenses for investment analysts and portfolio managers) and the direct
+costs of portfolio management (e.g., software, trade processing costs, and compliance).
+Management fees are typically determined as a percentage of the funds under management.C is
+incorrect because administrative fees include the processing of corporate actions such as
+rights issues and optional stock dividends, the measurement of performance and risk of a
+portfolio, and voting at company meetings. Generally, these functions are provided by an
+investment management firm itself and are included as part of the management fee.
+ 
+13.【单项选择题】Which of the following notes about the DoGood Fund is correct?
+A.Only Note 2
+B.Only Note 3
+C.Both Note 2 and Note 3
+参考答案：B
+【莽学解析】B is correct because the fund becomes a free-rider if it allows other shareholders
+to engage in actions that benefit the fund, and therefore Note 3 is correct. In theory, some
+investors could benefit from the shareholder engagement of others under the so-called “free
+rider problem.” Specifically, assume that a portfolio manager using an active strategy
+actively engages with a company to improve its operations and was successful in increasing the
+company’s stock price. The manager’s actions in this case improved the value of his portfolio
+and also benefitted other investors that own the same stock in their portfolios. Those
+investors that did not participate in shareholder engagement benefit from improved performance
+but without the costs necessary for engagement.Note 2 is incorrect because a conflict of
+interest arises on the part of the DoGood Fund if it owns shares of a company that invests in
+the fund. Conflicts of interest can result for a company. For example, a portfolio manager
+could engage with a company that also happens to be an investor in the manager’s portfolio. In
+such a situation, a portfolio manager may be unduly influenced to support the company’s
+management so as not to jeopardize the company’s investment mandate with the portfolio
+manager.
+ 
+14.【单项选择题】Which of the notes regarding the Elmer Fund is correct?
+A.Only Note 4
+B.Only Note 5
+C.Both Note 4 and Note 5
+参考答案：A
+【莽学解析】A is correct. For passively managed portfolios, management fees are typically low
+because of lower direct costs of research and portfolio management relative to actively managed
+portfolios. Therefore, Note 4 is correct. Note 5 is incorrect because the predictability of
+correlations is uncertain.
+ 
+15.【单项选择题】Which of Frey’s statements about securities lending and covered call writing
+is correct?
+A.Only Statement 1
+B.Only Statement 2
+C.Both Statement 1 and Statement 2
+参考答案：B
+【莽学解析】B is correct. Writing covered calls also generates additional income for an equity
+portfolio, but doing so limits the upside from share price appreciation of the underlying
+shares. Therefore, Statement 2 is correct. A is incorrect because dividends on loaned stock are
+“manufactured” by the stock borrower for the stock lender—that is, the stock borrower
+ensures that the stock lender is compensated for any dividends that the lender would have
+received had the stock not been loaned. Therefore, Statement 1 is incorrect. Frey is incorrect
+in stating that the funds would miss out on dividend income on lent securities.
+ 
+【题干】Jack Dewey is managing partner of DC&H, an investment management firm, and Supriya
+Sardar is an equity analyst with the firm. Dewey recently took over management of the firm’s
+Purity Fund. He is developing a fundamental active investment process for managing this fund
+that emphasizes financial strength and demonstrated profitability of portfolio companies. At
+his previous employer, Dewey managed a fund for which his investment process involved taking
+active exposures in sectors based on the macroeconomic environment and demographic trends.Dewey
+and Sardar meet to discuss developing a fundamental active investment process for the Purity
+Fund. They start by defining the investment universe and market opportunity for the fund, and
+then they pre-screen the universe to obtain a manageable set of securities for further, more
+detailed analysis. Next, Dewey notes that industry and competitive analysis of the list of
+securities must be performed. He then asks Sardar to recommend the next step in development of
+the fundamental active management process.During the next few months, Dewey rebalances the
+Purity Fund to reflect his fundamental active investment process. Dewey and Sardar meet again
+to discuss potential new investment opportunities for the fund. Sardar recommends the purchase
+of AZ Industrial, which she believes is trading below its intrinsic value, despite its high
+price-to-book value (P/B) relative to the industry average.Dewey asks Sardar to perform a
+bottom-up style analysis of the Purity Fund based on the aggregation of attributes from
+individual stocks in the portfolio. Dewey plans to include the results of this style analysis
+in a profile he is preparing for the fund.
+ 
+16.【单项选择题】In managing the fund at his previous employer, Dewey's investment process can
+be best described as:
+A.an activist strategy.
+B.a top-down strategy.
+C.a bottom-up strategy.
+参考答案：B
+【莽学解析】At his previous firm, Dewey managed a fund for which his investment process
+involved taking active exposures in sectors based on the macroeconomic environment and
+demographic trends. An investment process that begins at a top, or macro level, is a top-down
+strategy. Top-down portfolio strategies study variables affecting many companies or whole
+sectors, such as the macroeconomic environment, demographic trends, and government policies.
+This approach differs from bottom-up strategies, which focus on individual company variables in
+making investment decisions. It also differs from activist strategies, which take stakes in
+listed companies and advocate changes for the purpose of producing a gain on the investment.
+ 
+17.【单项选择题】Sardar's recommendation for the next step should be to:
+A.review results from back-testing the strategy.
+B.make recommendations for rebalancing the portfolio.
+C.forecast companies' performances and convert those forecasts into valuations.
+参考答案：C
+【莽学解析】The steps to developing a fundamental active investment process are as follows:1
+Define the investment universe and the market opportunity—the perceived opportunity to earn a
+positive risk-adjusted return to active investing, net of costs—in accordance with the
+investment mandate. The market opportunity is also known as the investment thesis.2 Prescreen
+the investment universe to obtain a manageable set of securities for further, more detailed
+analysis.3 Understand the industry and business for this screened set by performing industry
+and competitive analysis and analyzing financial reports.4 Forecast company performance, most
+commonly in terms of cash flows or earnings.5 Convert forecasts to valuations and identify ex
+ante profitable investments.6 Construct a portfolio of these investments with the desired risk
+profile.7 Rebalance the portfolio with buy and sell disciplines.So, Sardar should recommend
+that the next step in the development of the fundamental active management process be
+forecasting companies' performances and converting those forecasts into valuations.
+ 
+18.【单项选择题】Based upon Dewey's chosen investment process for the management of the Purity
+Fund, rebalancing of the fund will most likely occur:
+A.at regular intervals.
+B.in response to changes in company-specific information.
+C.in response to updated output from optimization models.
+参考答案：B
+【莽学解析】Managers using an active fundamental investment process, like Dewey's, usually
+monitor the portfolio's holdings continuously and may rebalance at any time. In contrast,
+portfolios using a quantitative approach are usually rebalanced at regular intervals, such as
+monthly or quarterly, or in response to updated output from optimization models. A is incorrect
+because portfolios using a quantitative (not fundamental) active approach are usually
+rebalanced at regular intervals, such as monthly or quarterly. C is incorrect because
+construction of a quantitative portfolio (not a fundamental portfolio) typically involves using
+a portfolio optimizer, which controls for risk at the portfolio level in arriving at individual
+stock weights and leads to rebalancing decisions.
+ 
+19.【单项选择题】Which investment approach is the most likely basis for Sardar's buy
+recommendation for AZ Industrial?
+A.Relative value
+B.High-quality value
+C.Deep-value investing
+参考答案：B
+【莽学解析】Dewey has developed a fundamental active investment process for the Purity Fund
+that emphasizes financial strength and demonstrated profitability. High-quality value investors
+focus on companies' intrinsic values that are supported by attractive valuation metrics, with
+an emphasis on financial strength and demonstrated profitability. In their view, investors
+sometimes behave irrationally, making stocks trade at prices very different from intrinsic
+value based on company fundamentals. A is incorrect because investors who pursue a relative
+value strategy evaluate companies by comparing their value indicators (e.g., P/E or P/B
+multiples) with the average valuation of companies in the same industry sector, in an effort to
+identify stocks that offer value relative to their sector peers. AZ Industrial is trading at a
+high P/B relative to the industry average, which is contrary to relative value and suggests
+that the relative value approach was not the basis for Sardar's buy recommendation. C is
+incorrect because a deep-value investing approach focuses on undervalued companies that are
+available at extremely low valuation relative to their assets. Such companies are often those
+in financial distress, which is not reflective of financial strength or demonstrated
+profitability. Therefore, Sardar's buy recommendation was not based on a deep-value investing
+orientation.
+ 
+20.【单项选择题】The analysis performed by Sardar on the Purity Fund can be best described as
+being based on:
+A.a holdings-based approach.
+B.manager self-identification.
+C.a returns-based style analysis.
+参考答案：A
+【莽学解析】Dewey asks Sardar to perform a bottom-up style analysis of the Purity Fund based on
+the aggregation of attributes from individual stocks in the portfolio, which describes a
+holdings-based approach to style analysis. The overall equity investment style is an
+aggregation of attributes from individual stocks in the portfolio, weighted by their positions.
+ 
+【题干】The Mackenzie Education Foundation funds educational projects in a four-state region of
+the United States. Because of the investment portfolio’s poor benchmark-relative returns, the
+foundation’s board of directors hired a consultant, Stacy McMahon, to analyze performance and
+provide recommendations.McMahon meets with Autumn Laubach, the foundation’s executive
+director, to review the existing asset allocation strategy. Laubach believes the portfolio’s
+underperformance is attributable to the equity holdings, which are allocated 55% to a US large-
+capitalization index fund, 30% to an actively managed US small-cap fund, and 15% to an actively
+managed developed international fund.Laubach states that the board is interested in following a
+passive approach for some or all of the equity allocation. In addition, the board is open to
+approaches that could generate returns in excess of the benchmark for part of the equity
+allocation. McMahon suggests that the board consider following a passive factor-based momentum
+strategy for the allocation to international stocks.McMahon observes that the benchmark used
+for the US large-cap equity component is a price-weighted index containing 150 stocks. The
+benchmark’s Herfindahl–Hirschman Index (HHI) is 0.0286.McMahon performs a sector attribution
+analysis based on Exhibit 1 to explain the large-cap portfolio’s underperformance relative to
+the benchmark.
+The board decides to consider adding a mid-cap manager. McMahon presents candidates for the
+mid-cap portfolio. Exhibit 2 provides fees and cash holdings for three portfolios and an index
+fund.
+ 
+ 
+21.【单项选择题】Compared with broad-market-cap weighting, the international equity strategy
+suggested by McMahon is most likely to:
+A.concentrate risk exposure.
+B.be based on the efficient market hypothesis.
+C.overweight stocks that recently experienced large price decreases.
+参考答案：A
+【莽学解析】A is correct. Compared with broad-market-cap weighting, passive factor-based
+strategies tend to concentrate risk exposure, leaving investors vulnerable during periods when
+the risk factor (e.g., momentum) is out of favor.
+ 
+22.【单项选择题】The international strategy suggested by McMahon is most likely characterized
+as:
+A.risk based.
+B.return oriented.
+C.diversification oriented.
+参考答案：B
+【莽学解析】B is correct. McMahon suggests that the foundation follow a passive factor-based
+momentum strategy, which is generally defined by the amount of a stock’s excess price return
+relative to the market during a specified period. Factor-based momentum strategies are
+classified as return oriented.
+ 
+23.【单项选择题】The initial benchmark used for the US large-cap allocation:
+A.is unaffected by stocks splits.
+B.is essentially a liquidity-weighted index.
+C.holds the same number of shares in each component stock.
+参考答案：C
+【莽学解析】C is correct. The initial benchmark used for the US large-cap allocation is a
+price-weighted index. In a price-weighted index, the weight of each stock is its price per
+share divided by the sum of all the share prices in the index. As a result, a price-weighted
+index can be interpreted as a portfolio composed of one share of each constituent security.
+ 
+24.【单项选择题】Based on its HHI, the initial US large-cap benchmark most likely has:
+A.a concentration level of 4.29.
+B.an effective number of stocks of approximately 35.
+C.individual stocks held in approximately equal weights.
+参考答案：B
+【莽学解析】
+ 
+ 
+Using the HHI, one can estimate the effective number of stocks, held in equal weights, that
+would mimic the concentration level of the respective index. The effective number of stocks for
+a portfolio is calculated as the reciprocal of the HHI. The HHI is 0.0286; the reciprocal
+(1/0.0286) is 34.97. Therefore, the effective number of stocks to mimic the US large-cap
+benchmark is approximately 35.
+ 
+25.【单项选择题】Using a sector attribution analysis based on Exhibit 1, which US large-cap
+sector is the primary contributor to the portfolio’s underperformance relative to the
+benchmark?
+A.Utilities
+B.Consumer staples
+C.Information technology
+参考答案：C
+【莽学解析】
+ 
+ 
+Based on this analysis, the US large-cap portfolio’s information technology sector is the
+primary contributor to the portfolio’s disappointing equity returns because it provided the
+largest negative differential relative to the benchmark, with a differential of –0.04%.
+Although the information technology sector had a positive return, this sector was underweighted
+relative to the benchmark, resulting in a negative contribution to the portfolio’s returns.
+ 
+26.【单项选择题】Based on Exhibit 2, which portfolio will most likely have the lowest tracking
+error?
+A.Portfolio 1
+B.Portfolio 2
+C.Portfolio 3
+参考答案：C
+【莽学解析】C is correct. Of the three portfolios, Portfolio 3 has the lowest cash holding and
+the lowest fees. As a result, Portfolio 3 has the potential for the lowest tracking error
+compared with the other proposed portfolios.
+ 
+【题干】James Leonard is a fund-of-funds manager with Future Generation, a large sovereign
+fund. He is considering whether to pursue more in-depth due diligence processes with three
+large-cap long-only funds proposed by his analysts. Although the funds emphasize different
+financial metrics and use different implementation methodologies, they operate in the same
+market segment and are evaluated against the same benchmark. The analysts prepared a short
+description of each fund, presented in Exhibit 1.Exhibit 1. Description of Each Candidate
+FundFurlings: Furlings Investment Partners combines sector views and security selection. The
+firm’s head manager uses several industry and economic indicators identified from his own
+experience during the last two decades, as well as his personal views on market flow dynamics,
+to determine how to position the fund on a sector basis. Sector deviations from the benchmark
+of 10% or more are common and are usually maintained for 12 to 24 months. At the same time,
+sector managers at Furlings use their expertise in dissecting financial statements and their
+understanding of the corporate branding and competitive landscape within sectors to build
+equally weighted baskets of securities within sectors. Each basket contains their 7 to 10
+highest-conviction securities, favoring firms that have good governance, strong growth
+potential, competitive advantages such as branding, and attractive relative valuations. The
+Furlings master fund holds approximately 90 securities.Asgard: Asgard Investment Partners is a
+very large asset manager. It believes in investing in firms that have a strong business model
+and governance, reasonable valuations, solid capital structures with limited financial
+leverage, and above-average expected earnings growth for the next three years. Although the
+Asgard master fund invests in fewer than 125 securities, each sector analyst builds financial
+models that track as many as 50 firms. To support them in their task, analysts benefit from
+software developed by the Asgard research and technology group that provides access to detailed
+market and accounting information on 5,000 global firms, allowing for the calculation of many
+valuation and growth metrics and precise modeling of sources of cash-flow strengths and
+weaknesses within each business. Asgard analysts can also use the application to back-test
+strategies and build their own models to rank securities’ attractiveness according to their
+preferred characteristics. Security allocation is determined by a management team but depends
+heavily on a quantitative risk model developed by Asgard. Asgard has a low portfolio
+turnover.Tokra: Tokra Capital uses a factor-based strategy to rank securities from most
+attractive to least attractive. Each security is scored based on three metrics: price to book
+value (P/B), 12-month increase in stock price, and return on assets. Tokra’s managers have a
+strong risk management background. Their objective is to maximize their exposure to the most
+attractive securities using a total scoring approach subject to limiting single-security
+concentration below 2%, sector deviations below 3%, active risk below 4%, and annual turnover
+less than 40%, while having a market beta close to 1. The master fund holds approximately 400
+positions out of a possible universe of more than 2,000 securities evaluated.
+When Leonard’s analysts met with Asgard, they inquired whether its managers engage in activist
+investing because Asgard’s portfolio frequently holds significant positions, because of their
+large asset size, and because of their emphasis on strong governance and their ability to model
+sources of cash-flow strengths and weaknesses within each business. The manager indicated that
+Asgard engages with companies from a long-term shareholder’s perspective, which is consistent
+with the firm’s low portfolio turnover, and uses its voice, and its vote, on matters that can
+influence companies’ long-term value.Leonard wants to confirm that each manager’s portfolios
+are consistent with its declared style. To this end, Exhibit 2 presents key financial
+information associated with each manager’s portfolio and also with the index that all three
+managers use.
+ 
+ 
+27.【单项选择题】Which fund manager’s investing approach is most consistent with fundamental
+management?
+A.Furlings
+B.Asgard
+C.Tokra
+参考答案：A
+【莽学解析】A is correct. Furlings combines a top-down and bottom-up approach, but in both
+cases, the allocation process is significantly determined according to the managers’
+discretion and judgement. There is a strong emphasis on understanding financial reporting, and
+the sector managers focus on a relatively small number for firms. They also extend their
+analysis to other areas associated with fundamental management, such as valuation, competitive
+advantages, and governance. Finally, Furlings’s top-down process depends largely on the views
+and experience of its head manager.B is incorrect. Asgard has many of the attributes associated
+with a fundamental manager. It invests in a relatively small number of securities and focuses
+on the companies’ business model, valuations, and future growth prospects. Because of the
+scope of the securities coverage by each manager, however, Asgard depends heavily on technology
+and tools to support screening and ranking of securities attractiveness. Each manager can use
+his judgement to build his own quantitative models. Furthermore, the allocation process,
+although overlaid by a management team, also depends heavily on technology. Asgard has
+characteristics of both fundamental and quantitative managers.C is incorrect. Tokra exhibits
+the characteristics of a quantitative manager. The firm uses quantitative metrics to rank
+securities based on valuation, profitability, and momentum criteria and uses portfolio
+optimization to determine the final allocation. Tokra holds many positions typical of
+quantitative approaches.
+ 
+28.【单项选择题】Which of the following statements about the approaches and styles of either
+Furlings, Asgard, or Tokra is incorrect?
+A.Furlings is a top-down sector rotator with a value orientation within sectors.
+B.Asgard is a bottom-up manager with a GARP (growth at a reasonable price) style.
+C.Tokra is a factor-based manager using value, growth, and profitability metrics.
+参考答案：C
+【莽学解析】C is an incorrect statement. Although Tokra is a factor manager, and although it
+uses a value proxy such as P/B and a profitability proxy such as return on assets, it does not
+use a growth proxy such as earnings growth over the last 12 or 36 months but rather a price
+momentum proxy.A is a correct statement. Furlings is a top-down manager. It makes significant
+sector bets based on industry and economic indicators derived from the head manager’s
+experience, and it does select its securities within sectors while considering relative
+valuation.B is a correct statement. Asgard favors securities that have reasonable valuations
+and above-average growth prospects. It has a bottom-up approach and builds its portfolio
+starting at the security level.
+ 
+29.【单项选择题】Which manager is most likely to get caught in a value trap?
+A.Furlings
+B.Asgard
+C.Tokra
+参考答案：C
+【莽学解析】C is the correct answer. A value trap occurs when a stock that appears to have an
+attractive valuation because of a low P/E and/or P/B multiple (or other relevant value proxies)
+appears cheap only because of its worsening growth prospects. Although a pitfall such as value
+trap is more common in fundamental investing, a quantitative process that relies on historical
+information and does not integrate future expectations about cash flows or profitability may be
+unable to detect a value trap.A is an incorrect answer. Although Furlings is a top-down
+manager, its sector portfolios are built through investing in a small number of high-conviction
+securities after its analysts have dissected the financial statements and analyzed the
+competitive landscape and growth prospects. Managers at Furlings are more likely than managers
+at Tokra to be aware of the significant deteriorating prospects of a security they are
+considering for investment.B is an incorrect answer. One of Asgard’s investment criteria is
+identifying firms that have good potential cash flow growth over the next three years. The firm
+has access to database and support tools, allowing its analysts to evaluate many potential
+growth metrics. Managers at Asgard are more likely than managers at Tokra to be aware of the
+significant deteriorating prospects of a security they are considering for investment.
+ 
+30.【单项选择题】Which activist investing tactic is Asgard least likely to use?
+A.Engaging with management by writing letters to management, calling for and explaining
+suggested changes, and participating in management discussions with analysts or meeting the
+management team privately
+B.Launching legal proceedings against existing management for breach of fiduciary duties
+C.Proposing restructuring of the balance sheet to better utilize capital and potentially
+initiate share buybacks or increase dividends
+参考答案：B
+【莽学解析】B is the correct answer. Asgard invests in firms that have strong business models
+and good governance. Also, it approaches investing as a long-term investor looking to use its
+voice to improve the company’s asset management. Asgard is unlikely to use an aggressive
+posturing or to invest or stay invested in companies with weak governance or where managers may
+be in breach of fiduciary duties.A is an incorrect answer. Engaging in positive conversations
+with management of companies with which Asgard has invested reflects a use of its voice to
+improve these companies’ long-term value.C is an incorrect answer. Because Asgard is strong at
+modeling sources of cash flows and is known for investing in companies with a strong capital
+structure, it would be consistent for Asgard to propose ways to optimize the capital structure
+and shareholders’ compensation.
+ 
+31.【单项选择题】Based on the information provided in Exhibits 1 and 2, which manager’s
+portfolio characteristics is most likely at odds with its declared style?
+A.Furlings
+B.Asgard
+C.Tokra
+参考答案：C
+【莽学解析】C is the correct answer. Tokra indicates that it emphasizes three metrics: P/B, 12-
+month price momentum, and return on assets. Although the portfolio consists of securities that
+have stronger momentum than those of the index on average, and although the ratio of net income
+to assets is also favorable, the average P/B is somehow higher than that of the index. Although
+this scenario could normally be explained by an emphasis on specific sectors with a higher P/B
+than other sectors, the low level of sector deviation tolerated within the strategy weakens
+that explanation. This should be explored with Tokra’s managers.A is an incorrect answer.
+Furlings is a top-down sector rotator with a value orientation within sectors. The lower P/B
+and P/E and higher net income over assets are consistent with a relative value orientation.
+Because Furlings can take significant positions in specific sectors, however, there could be
+other circumstances in which the portfolio would have a higher P/B and/or P/E and or a lower
+net income /assets than the index if the fund were to emphasize sectors having such
+characteristics. Yet, this would not necessarily imply that the firm does not favor the most
+attractive relative valuations within sectors.B is an incorrect answer. Asgard invests in firms
+that offer reasonable valuations and above-average expected cash flow growth during the next
+three years. The data, such as P/B and average expected three-year profit growth, are
+consistent with its declared style. Again, it is not necessarily inconsistent to emphasize
+these aspects while investing in a portfolio that has a lower dividend yield, slightly higher
+P/E, and lower price momentum.
+ 
+32.【单项选择题】Leonard is looking at the style classification from Asgard as reported by
+Morningstar and Thomson Reuters Lipper. He is surprised to find that Asgard is classified as a
+blend fund by Morningstar and a value fund by Lipper. Which of the following statements is
+correct?
+A.Although the Morningstar methodology classifies securities as either value, growth, or core,
+the Lipper methodology assumes a stock can have the characteristics of many styles. This
+approach can result in a different classification for the same portfolio.
+B.The Lipper methodology can only lead to a value or growth classification. It does not offer a
+core/blend component.
+C.The Morningstar methodology classifies securities as either value, growth, or core by looking
+at the difference between their respective growth and value scores. It is possible that the
+Asgard funds hold a balanced exposure to both value and growth and/or core stocks.
+参考答案：C
+【莽学解析】C is a correct answer. Morningstar calculates a score for value and growth on a
+scale of 0 to 100 using five proxy measures for each. The value score is subtracted from the
+growth score. A strongly positive net score leads to a growth classification, and a strongly
+negative score leads to a value classification. A score relatively close to zero indicates a
+core classification. To achieve a blend classification, the portfolio must have a balanced
+exposure to stocks classified as value and growth, a dominant exposure to stocks classified as
+core, or a combination of both.A is an incorrect answer. Both Morningstar and Lipper classify
+individual stocks in a specific style category. Neither assumes a security can belong to
+several styles in specific proportion. B is an incorrect answer. The Lipper methodology does
+have a core classification. It sums the Z-score of six portfolio characteristics over several
+years to determine an overall Z-score that determines either a value, core, or growth
+classification.
