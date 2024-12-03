@@ -250,7 +250,7 @@ ID,error type,Model,Error
 16,Inconsistent reasoning error.,Gemini_Pro1,Incomplete calculation 
 132,Incomplete Incomplete question.,Gemini_Pro1,Incomplete question
 147,Incomplete Incomplete question.,Gemini_Pro1,Incomplete question
-166,"The error type is ""Incomplete calculation  error.""",Gemini_Pro1,Incomplete calculation 
+166,The error type is "Incomplete calculation  error.",Gemini_Pro1,Incomplete calculation 
 170,Incomplete Incomplete question.,Gemini_Pro1,Incomplete question
 196,Incomplete Incomplete question.,Gemini_Pro1,Incomplete question
 213,Incomplete Incomplete question.,Gemini_Pro1,Incomplete question
@@ -510,7 +510,7 @@ ID,error type,Model,Error
 1203,Incomplete Incomplete question.,llama,Incomplete question
 1206,Incomplete Incomplete question.,llama,Incomplete question
 1209,Incomplete Incomplete question.,llama,Incomplete question
-1214,"The error type is ""Other error"".",llama,Other error
+1214,The error type is "Other error".,llama,Other error
 1215,Incomplete Incomplete question.,llama,Incomplete question
 1220,Incomplete options.,llama,No correct option
 1223,Incomplete Incomplete question.,llama,Incomplete question
@@ -585,7 +585,7 @@ ID,error type,Model,Error
 1432,Incomplete Incomplete question.,llama,Incomplete question
 1433,Incomplete options.,llama,No correct option
 1437,Incomplete Incomplete question.,llama,Incomplete question
-1438,"The error type is ""Other error error type.""",llama,Other error
+1438,The error type is "Other error error type.",llama,Other error
 1439,Incomplete calculation  error.,llama,Incomplete calculation 
 1440,Incomplete Incomplete question.,llama,Incomplete question
 1442,Other error error type.,llama,Other error
@@ -619,13 +619,13 @@ ID,error type,Model,Error
 1515,Incomplete Incomplete question.,llama,Incomplete question
 1516,Incomplete Incomplete question.,llama,Incomplete question
 1517,Incomplete calculation  error.,llama,Incomplete calculation 
-1520,"The error type is ""option"".",llama,No correct option
+1520,The error type is "option".,llama,No correct option
 1521,Incomplete Incomplete question.,llama,Incomplete question
 1522,Other error error type.,llama,Other error
 1523,Incomplete Incomplete question.,llama,Incomplete question
 1525,Incomplete Incomplete question.,llama,Incomplete question
 1526,Incomplete Incomplete question.,llama,Incomplete question
-1527,"The error type is ""reasoning/content error.""",llama,Incomplete calculation 
+1527,The error type is "reasoning/content error.",llama,Incomplete calculation 
 1530,Other error error type.,llama,Other error
 1532,Incomplete calculation  error.,llama,Incomplete calculation 
 1534,Incomplete Incomplete question.,llama,Incomplete question
@@ -639,7 +639,7 @@ ID,error type,Model,Error
 1552,Incomplete Incomplete question.,llama,Incomplete question
 1554,Incomplete Incomplete question.,llama,Incomplete question
 1555,Incomplete options,llama,No correct option
-1562,"The error type is ""option.""",llama,No correct option
+1562,The error type is "option.",llama,No correct option
 1563,Incomplete Incomplete question.,llama,Incomplete question
 1564,Incomplete Incomplete question.,llama,Incomplete question
 1566,Incomplete Incomplete question.,llama,Incomplete question
@@ -654,7 +654,7 @@ ID,error type,Model,Error
 1593,Incomplete Incomplete question.,llama,Incomplete question
 1596,Other error error type.,llama,Other error
 1598,Other error error type.,llama,Other error
-1602,"The error type is ""incomplete Incomplete question.""",llama,Incomplete question
+1602,The error type is "incomplete Incomplete question.",llama,Incomplete question
 1606,Other error error type.,llama,Other error
 1607,Incomplete Incomplete question.,llama,Incomplete question
 1612,Other error error type.,llama,Other error
@@ -679,7 +679,7 @@ ID,error type,Model,Error
 1662,Other error error type.,llama,Other error
 1664,Other error error type.,llama,Other error
 1669,Incomplete Incomplete question,llama,Incomplete question
-1674,"The error type is ""Other error error type.""",llama,Other error
+1674,The error type is "Other error error type.",llama,Other error
 1675,Incomplete Incomplete question.,llama,Incomplete question
 1679,Other error error type.,llama,Other error
 1681,Incomplete Incomplete question.,llama,Incomplete question
@@ -854,7 +854,7 @@ ID,error type,Model,Error
 2135,Incomplete Incomplete question.,llama,Incomplete question
 2139,Incomplete Incomplete question.,llama,Incomplete question
 2144,Incomplete Incomplete question.,llama,Incomplete question
-2146,"The error type is ""incomplete Incomplete question.""",llama,Incomplete question
+2146,The error type is "incomplete Incomplete question.",llama,Incomplete question
 2152,Incomplete Incomplete question.,llama,Incomplete question
 2160,Incomplete Incomplete question.,llama,Incomplete question
 2162,Incomplete Incomplete question.,llama,Incomplete question
@@ -1009,7 +1009,7 @@ ID,error type,Model,Error
 2622,Incomplete Incomplete question.,llama,Incomplete question
 2623,Incomplete Incomplete question.,llama,Incomplete question
 2631,Incomplete Incomplete question.,llama,Incomplete question
-2632,"The error type is ""Incomplete Incomplete question.""",llama,Incomplete calculation 
+2632,The error type is "Incomplete Incomplete question.",llama,Incomplete calculation 
 2636,Incomplete Incomplete question.,llama,Incomplete question
 2638,Incomplete Incomplete question.,llama,Incomplete question
 2647,Incomplete Incomplete options.,llama,No correct option
@@ -1085,7 +1085,7 @@ ID,error type,Model,Error
 2865,Incomplete Incomplete question.,llama,Incomplete question
 2866,Incomplete Incomplete question.,llama,Incomplete question
 2872,Incomplete Incomplete question.,llama,Incomplete question
-2876,"The error type is: ""incomplete option.""",llama,No correct option
+2876,The error type is: "incomplete option.",llama,No correct option
 2879,Incomplete Incomplete question,llama,Incomplete question
 2882,Other error error type.,llama,Other error
 2891,Incomplete Incomplete question.,llama,Incomplete question
@@ -1140,7 +1140,7 @@ ID,error type,Model,Error
 3095,Incomplete Incomplete question.,llama,Incomplete question
 3096,Incomplete option.,llama,No correct option
 3098,Incomplete Incomplete question.,llama,Incomplete question
-3103,"The error type is ""Other error error type"".",llama,Other error
+3103,The error type is "Other error error type".,llama,Other error
 3104,Incomplete Incomplete question.,llama,Incomplete question
 3106,Incomplete Incomplete question.,llama,Incomplete question
 3107,Other error error type.,llama,Other error
@@ -1261,7 +1261,7 @@ ID,error type,Model,Error
 3484,Other error error type: Incomplete calculation  error,llama,Other error
 3485,Other error error type.,llama,Other error
 3487,Option error type.,llama,Incomplete calculation 
-3491,"The error type is ""Other error error type.""",llama,Other error
+3491,The error type is "Other error error type.",llama,Other error
 3496,Logic/Error in Incomplete calculation ,llama,Incomplete calculation 
 3498,Incomplete Incomplete question.,llama,Incomplete question
 3499,Incomplete Incomplete question.,llama,Incomplete question
@@ -1279,7 +1279,7 @@ ID,error type,Model,Error
 3529,Incomplete Incomplete question.,llama,Incomplete question
 3530,Incomplete Incomplete question.,llama,Incomplete question
 3532,Incomplete Incomplete question.,llama,Incomplete question
-3536,"The error type is ""Incomplete calculation  error.""",llama,Incomplete calculation 
+3536,The error type is "Incomplete calculation  error.",llama,Incomplete calculation 
 3539,Incomplete Incomplete question.,llama,Incomplete question
 3546,Incomplete calculation  error.,llama,Incomplete calculation 
 3547,Incomplete Incomplete question.,llama,Incomplete question
@@ -1460,11 +1460,11 @@ ID,error type,Model,Error
 846,Incomplete Incomplete question.,llama,Incomplete question
 850,Incomplete Incomplete question.,llama,Incomplete question
 854,Incomplete Incomplete question.,llama,Incomplete question
-857,"The error type is ""incomplete Incomplete question.""",llama,Incomplete question
+857,The error type is "incomplete Incomplete question.",llama,Incomplete question
 858,Incomplete options.,llama,No correct option
 859,Incomplete Incomplete question.,llama,Incomplete question
 860,Incomplete Incomplete question.,llama,Incomplete question
-863,"The error type is ""incomplete Incomplete question.""",llama,Incomplete question
+863,The error type is "incomplete Incomplete question.",llama,Incomplete question
 865,Incomplete Incomplete question.,llama,Incomplete question
 866,Incomplete Incomplete question.,llama,Incomplete question
 871,Incomplete Incomplete question.,llama,Incomplete question
@@ -1501,14 +1501,14 @@ ID,error type,Model,Error
 960,Incomplete Incomplete question.,llama,Incomplete question
 968,Incomplete Incomplete question.,llama,Incomplete question
 970,Incomplete Incomplete question.,llama,Incomplete question
-971,"The error type is ""Other error error type"" (misinterpretation of financial formula).",llama,Other error
+971,The error type is "Other error error type" (misinterpretation of financial formula).,llama,Other error
 976,Other error error type.,llama,Other error
 979,Incomplete Incomplete question.,llama,Incomplete question
 980,Incomplete Incomplete question.,llama,Incomplete question
 981,Incomplete Incomplete question.,llama,Incomplete question
 988,Incomplete Incomplete question,llama,Incomplete question
 989,Incomplete Incomplete question.,llama,Incomplete question
-991,"The error type is ""Incomplete calculation .""",llama,Incomplete calculation 
+991,The error type is "Incomplete calculation .",llama,Incomplete calculation 
 992,Incomplete calculation  error,llama,Incomplete calculation 
 996,Reasoning error.,llama,Incomplete calculation 
 997,Incomplete Incomplete question.,llama,Incomplete question
@@ -1588,7 +1588,7 @@ ID,error type,Model,Error
 1114,Incomplete Incomplete question.,qwen,Incomplete question
 2019,Incomplete Incomplete question.,qwen,Incomplete question
 2505,Inconsistent reasoning error.,qwen,Incomplete calculation 
-2820,"The error type is ""incomplete Incomplete question.""",qwen,Incomplete question
+2820,The error type is "incomplete Incomplete question.",qwen,Incomplete question
 3044,Other error error type.,qwen,Other error
 3231,Incomplete Incomplete question.,qwen,Incomplete question
 3719,Incomplete Incomplete question.,qwen,Incomplete question
@@ -1628,7 +1628,7 @@ ID,error type,Model,Error
 242,Incomplete Incomplete question.,Llava,Incomplete question
 252,Incomplete No correct option.,Llava,No correct option
 254,Incomplete Incomplete question.,Llava,Incomplete question
-272,"The error type is ""Other error error type.""",Llava,Other error
+272,The error type is "Other error error type.",Llava,Other error
 292,Incomplete Incomplete question.,Llava,Incomplete question
 324,Other error error type (Incomplete calculation  error).,Llava,Incomplete calculation 
 329,Incomplete calculation  error.,Llava,Incomplete calculation 
@@ -1780,7 +1780,7 @@ ID,error type,Model,Error
 1227,Incomplete Incomplete question.,Llava,Incomplete question
 1229,Incomplete Incomplete question.,Llava,Incomplete question
 1231,Incomplete Incomplete question.,Llava,Incomplete question
-1233,"The error type is ""incomplete Incomplete question.""",Llava,Incomplete question
+1233,The error type is "incomplete Incomplete question.",Llava,Incomplete question
 1237,Incomplete statement.,Llava,Incomplete calculation 
 1242,Incomplete No correct options.,Llava,No correct option
 1246,Incomplete content error.,Llava,Incomplete calculation 
@@ -1862,7 +1862,7 @@ ID,error type,Model,Error
 1881,Logical error.,Llava,Incomplete calculation 
 1888,Other error error type.,Llava,Other error
 1895,Other error error type.,Llava,Other error
-1901,"The error type is ""Other error.""",Llava,Other error
+1901,The error type is "Other error.",Llava,Other error
 1903,Incomplete Incomplete question.,Llava,Incomplete question
 1921,Incomplete No correct options.,Llava,No correct option
 1950,Incomplete Incomplete question.,Llava,Incomplete question
@@ -1930,8 +1930,8 @@ ID,error type,Model,Error
 2202,Incomplete Incomplete question.,Llava,Incomplete question
 2214,Incomplete Incomplete question.,Llava,Incomplete question
 2217,Other error error type (Incomplete calculation  error).,Llava,Incomplete calculation 
-2218,"The error type is ""Image problem.""",Llava,Image problem
-2231,"The error type is ""incomplete Incomplete question"".",Llava,Incomplete question
+2218,The error type is "Image problem.",Llava,Image problem
+2231,The error type is "incomplete Incomplete question".,Llava,Incomplete question
 2237,Incomplete Incomplete question.,Llava,Incomplete question
 2238,Incomplete Image problem information.,Llava,Image problem
 2249,Incomplete Incomplete question.,Llava,Incomplete question
@@ -1944,7 +1944,7 @@ ID,error type,Model,Error
 2281,Other error error type.,Llava,Other error
 2286,Incomplete calculation  error.,Llava,Incomplete calculation 
 2290,Incomplete reasoning error.,Llava,Incomplete calculation 
-2293,"The error type is ""reasoning error.""",Llava,Incomplete calculation 
+2293,The error type is "reasoning error.",Llava,Incomplete calculation 
 2298,Incomplete Incomplete question,Llava,Incomplete question
 2308,Incomplete Incomplete question.,Llava,Incomplete question
 2309,Incomplete Incomplete question.,Llava,Incomplete question
@@ -2027,7 +2027,7 @@ ID,error type,Model,Error
 2771,Incomplete Incomplete question.,Llava,Incomplete question
 2772,Other error error type.,Llava,Other error
 2775,Incomplete Incomplete question.,Llava,Incomplete question
-2776,"The error type is ""incomplete Incomplete question.""",Llava,Incomplete question
+2776,The error type is "incomplete Incomplete question.",Llava,Incomplete question
 2778,Incomplete Incomplete question,Llava,Incomplete question
 2783,Incomplete Incomplete question.,Llava,Incomplete question
 2785,Incomplete calculation  error.,Llava,Incomplete calculation 
@@ -2138,7 +2138,7 @@ ID,error type,Model,Error
 3601,Incomplete Incomplete question.,Llava,Incomplete question
 3608,Incomplete No correct options.,Llava,No correct option
 3610,Incomplete calculation  error,Llava,Incomplete calculation 
-3623,"The error type is ""Other error error type.""",Llava,Other error
+3623,The error type is "Other error error type.",Llava,Other error
 3635,Incomplete Incomplete question.,Llava,Incomplete question
 3673,Incomplete Incomplete question,Llava,Incomplete question
 3681,Incomplete calculation  error.,Llava,Incomplete calculation 
@@ -2215,7 +2215,7 @@ ID,error type,Model,Error
 149,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 150,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 153,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-156,"The error type is ""incomplete Incomplete question.""",Llama_3.2_vision,Incomplete question
+156,The error type is "incomplete Incomplete question.",Llama_3.2_vision,Incomplete question
 157,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 158,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 159,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2267,7 +2267,7 @@ ID,error type,Model,Error
 239,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 240,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 241,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-242,"The error type is ""incomplete"".",Llama_3.2_vision,Incomplete calculation 
+242,The error type is "incomplete".,Llama_3.2_vision,Incomplete calculation 
 248,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 251,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 254,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2314,7 +2314,7 @@ ID,error type,Model,Error
 367,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 369,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 370,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-371,"The error type is ""Other error.""",Llama_3.2_vision,Other error
+371,The error type is "Other error.",Llama_3.2_vision,Other error
 373,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 374,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 378,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2611,10 +2611,10 @@ ID,error type,Model,Error
 988,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 990,Incomplete Incomplete question,Llama_3.2_vision,Incomplete question
 992,Inconsistent Incomplete calculation  results.,Llama_3.2_vision,Incomplete calculation 
-998,"The error type is ""incomplete Incomplete question.""",Llama_3.2_vision,Incomplete question
+998,The error type is "incomplete Incomplete question.",Llama_3.2_vision,Incomplete question
 1000,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1005,Incomplete Incomplete question or content error.,Llama_3.2_vision,Incomplete question
-1007,"The error type is ""Other error error type.""",Llama_3.2_vision,Other error
+1007,The error type is "Other error error type.",Llama_3.2_vision,Other error
 1008,Incomplete No correct option,Llama_3.2_vision,No correct option
 1015,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1018,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2636,7 +2636,7 @@ ID,error type,Model,Error
 1053,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1054,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1056,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1061,"The error type is ""incomplete Incomplete question.""",Llama_3.2_vision,Incomplete question
+1061,The error type is "incomplete Incomplete question.",Llama_3.2_vision,Incomplete question
 1064,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1067,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1068,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2754,7 +2754,7 @@ ID,error type,Model,Error
 1275,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1280,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1288,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1290,"The error type is ""incomplete Incomplete question"".",Llama_3.2_vision,Incomplete question
+1290,The error type is "incomplete Incomplete question".,Llama_3.2_vision,Incomplete question
 1291,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1292,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1294,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2863,7 +2863,7 @@ ID,error type,Model,Error
 1511,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1512,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1513,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1514,"The error type is ""incomplete Incomplete question.""",Llama_3.2_vision,Incomplete question
+1514,The error type is "incomplete Incomplete question.",Llama_3.2_vision,Incomplete question
 1515,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1516,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1517,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2896,7 +2896,7 @@ ID,error type,Model,Error
 1555,Incomplete Incomplete question,Llama_3.2_vision,Incomplete question
 1556,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1558,Incomplete Incomplete question,Llama_3.2_vision,Incomplete question
-1560,"The error type is ""Other error error type"".",Llama_3.2_vision,Other error
+1560,The error type is "Other error error type".,Llama_3.2_vision,Other error
 1563,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1564,Incomplete Incomplete question,Llama_3.2_vision,Incomplete question
 1566,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -2947,7 +2947,7 @@ ID,error type,Model,Error
 1669,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1670,Other error: Incorrect formula/application error.,Llama_3.2_vision,Other error
 1674,Incomplete calculation  error,Llama_3.2_vision,Incomplete calculation 
-1675,"The error type is ""Other error error type.""",Llama_3.2_vision,Other error
+1675,The error type is "Other error error type.",Llama_3.2_vision,Other error
 1677,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1680,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1681,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -3004,7 +3004,7 @@ ID,error type,Model,Error
 1799,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1800,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1801,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1803,"The error type is ""Other error error type.""",Llama_3.2_vision,Other error
+1803,The error type is "Other error error type.",Llama_3.2_vision,Other error
 1806,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1807,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1810,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -3045,7 +3045,7 @@ ID,error type,Model,Error
 1886,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1888,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1889,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1890,"The error type is ""Other error error type.""",Llama_3.2_vision,Other error
+1890,The error type is "Other error error type.",Llama_3.2_vision,Other error
 1892,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1893,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1894,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -3056,13 +3056,13 @@ ID,error type,Model,Error
 1901,The error type is content error.,Llama_3.2_vision,Incomplete calculation 
 1903,Other error error type.,Llama_3.2_vision,Other error
 1904,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1905,"The error type is ""incomplete Incomplete question.""",Llama_3.2_vision,Incomplete question
+1905,The error type is "incomplete Incomplete question.",Llama_3.2_vision,Incomplete question
 1906,Incomplete calculation  error.,Llama_3.2_vision,Incomplete calculation 
-1907,"The error type is ""incomplete Incomplete question.""",Llama_3.2_vision,Incomplete question
+1907,The error type is "incomplete Incomplete question.",Llama_3.2_vision,Incomplete question
 1908,Reasoning error,Llama_3.2_vision,Incomplete calculation 
 1910,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1911,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1912,"The error type is ""reasoning error.""",Llama_3.2_vision,Incomplete calculation 
+1912,The error type is "reasoning error.",Llama_3.2_vision,Incomplete calculation 
 1913,Other error error type.,Llama_3.2_vision,Other error
 1914,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1916,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
@@ -3085,7 +3085,7 @@ ID,error type,Model,Error
 1960,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1962,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1964,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
-1966,"The error type is ""Incomplete calculation "".",Llama_3.2_vision,Incomplete calculation 
+1966,The error type is "Incomplete calculation ".,Llama_3.2_vision,Incomplete calculation 
 1967,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1968,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question
 1970,Incomplete Incomplete question.,Llama_3.2_vision,Incomplete question

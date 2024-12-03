@@ -1,0 +1,1132 @@
+,0
+question_15,"The image shows a simple timeline or payment schedule represented by a horizontal line.
+
+**Layout and Structure:**
+
+A horizontal line extends across the image.  A short vertical line drops down from the left end of the horizontal line.  Above the horizontal line, five instances of ""£230.97"" are evenly spaced. Below the short vertical line at the left end, ""£1,000"" is positioned. Upward arrows point from the horizontal line to each ""£230.97"". A downward arrow points from the left end of the horizontal line to the ""£1,000"".
+
+
+**Text and Instructions:**
+
+* ""£230.97"" (appears five times)
+* ""£1,000""
+
+**Data Summary:**
+
+The image likely represents five payments of £230.97 each. The £1,000 likely represents an initial investment or loan amount.
+
+
+**Labels and Symbols:**
+
+* Upward arrows indicating payments or returns.
+* Downward arrow indicating initial outlay.
+* ""£"" symbol represents British Pounds.
+
+
+**Tables and Data:**
+
+There are no tables in the image, only the financial figures presented as described above.
+"
+question_17,"The image presents a simple table displaying spot rates for different time-to-maturity periods.
+
+**Table:**
+
+| Time-to-Maturity | Spot Rates |
+|---|---|
+| 1 year | 8.0% |
+| 2 years | 9.0% |
+| 3 years | 9.5% |
+
+
+**Data Summary:**
+
+The table shows the spot rates for one-year, two-year, and three-year maturities. The spot rate increases with maturity, from 8.0% for a one-year maturity to 9.0% for a two-year maturity and 9.5% for a three-year maturity.
+
+**Layout and Structure:**
+
+The table has two columns: ""Time-to-Maturity"" and ""Spot Rates"".  The ""Time-to-Maturity"" column lists the maturity periods in years. The ""Spot Rates"" column lists the corresponding spot rate for each maturity, expressed as a percentage. There are horizontal lines separating the header row from the data rows and the table from the surrounding text. There are three hyphens above the table's header row, likely indicating a page break or section separation in the original document. No other text or elements are visible in the image.
+"
+question_63,"The image presents a table with information about two bonds.
+
+**Layout and Structure:**
+
+The table has three columns and three rows (including the header row). The table is enclosed within horizontal lines at the top and bottom, and a line separating the header from the data rows.
+
+**Table and Data:**
+
+| Bond | Coupon Rate | Time-to-Maturity | Price |
+|---|---|---|---|
+| UK Government Benchmark Bond | 2% | 3 years | 100.25 |
+| UK Corporate Bond | 5% | 3 years | 100.65 |
+
+**Columns:**
+
+* **Bond:** This column lists the name of the bond.
+* **Coupon Rate:** This column indicates the annual coupon rate of the bond, expressed as a percentage.
+* **Time-to-Maturity:** This column specifies the remaining time until the bond matures, measured in years.
+* **Price:** This column shows the current price of the bond, presumably per 100 of face value.
+
+
+**Data Summary:**
+
+The table compares a UK Government Benchmark Bond with a UK Corporate Bond. Both bonds have a 3-year time-to-maturity. The UK Government Bond has a lower coupon rate (2%) and a slightly lower price (100.25) compared to the UK Corporate Bond, which has a 5% coupon rate and a price of 100.65. This suggests the corporate bond is considered riskier, hence the higher coupon rate and slightly higher price (possibly influenced by market factors).
+"
+question_76,"The image presents a simple table displaying spot rates for different time-to-maturity periods.
+
+**Table:**
+
+| Time-to-Maturity | Spot Rates |
+|---|---|
+| 1 year | 3% |
+| 2 years | 4% |
+
+**Data Summary:**
+
+The table shows that the spot rate for a 1-year maturity is 3%, and the spot rate for a 2-year maturity is 4%.
+
+**Layout and Structure:**
+
+The image consists of a two-column table.  The left column header is ""Time-to-Maturity"" and the right column header is ""Spot Rates."" There are two rows of data beneath the headers.  Horizontal lines separate the header row from the data rows and the bottom data row from the rest of the image. No additional labels, symbols, or formatting are present.
+"
+question_79,"The image presents a table with data on floating rate notes.
+
+**Layout and Structure:** The image consists of a single table with three columns and four rows.  There are horizontal lines separating the header row from the data rows, and at the top and bottom of the table.
+
+**Table and Data:**
+
+| Floating Rate Note | Quoted Margin | Discount Margin |
+|---|---|---|
+| X | 0.40% | 0.32% |
+| Y | 0.45% | 0.45% |
+| Z | 0.55% | 0.72% |
+
+* **Floating Rate Note:** This column identifies different floating rate notes, labeled 'X', 'Y', and 'Z'.
+* **Quoted Margin:** This column displays the quoted margin for each note, expressed as a percentage.
+* **Discount Margin:** This column shows the discount margin for each note, also expressed as a percentage.
+
+
+**Data Summary:** The table provides a comparison of quoted and discount margins for three different floating rate notes.  Note Y has identical quoted and discount margins.  Note X has a lower quoted margin than Note Y and Note Z and a lower discount margin than the other two. Note Z has the highest quoted and discount margins.
+
+**Labels and Symbols:** No special labels, symbols, or formatting (bold, italic) are used beyond the column headers and percentage signs.
+"
+question_88,"The image presents a simple table with two columns detailing bond classes and their par values.
+
+**Table:**
+
+| Bond Class | Par Value (€ millions) |
+|---|---|
+| A (senior) | 200 |
+| B (subordinated) | 20 |
+| C (subordinated) | 5 |
+
+**Column Descriptions:**
+
+* **Bond Class:** Identifies the different classes of bonds.  Additional information in parentheses clarifies the seniority or subordination status of each bond class.
+* **Par Value (€ millions):** Shows the par value of each bond class in millions of Euros.
+
+**Layout and Structure:**
+
+The image consists of a simple table with two columns and four rows. The top row contains the headers for each column. The remaining rows list the bond classes and their corresponding par values.  Horizontal lines separate the header row from the data rows and also mark the end of the table.
+
+**Data Summary:**
+
+The table shows that the bond issue has three classes (A, B, and C), totaling €225 million in par value.  Bond class A is senior, holding the largest share with €200 million.  Bond classes B and C are both subordinated, with par values of €20 million and €5 million respectively.
+"
+question_125,"The image presents a table with information on three different bonds.
+
+**Table Headers:** Bond, Maturity, Market Value, Price, Coupon, Yield-to-Maturity, Modified Duration
+
+**Table Data:**
+
+| Bond | Maturity | Market Value | Price | Coupon | Yield-to-Maturity | Modified Duration |
+|---|---|---|---|---|---|---|
+| A | 6 years | 170,000 | 85.0000 | 2.00% | 4.95% | 5.42 |
+| B | 10 years | 120,000 | 80.0000 | 2.40% | 4.99% | 8.44 |
+| C | 15 years | 100,000 | 100.0000 | 5.00% | 5.00% | 10.38 |
+
+
+**Column Descriptions:**
+
+* **Bond:**  Identifies each bond with a letter (A, B, C).
+* **Maturity:** The time until the bond's principal is repaid.
+* **Market Value:** The current market value of the bond.
+* **Price:** The price of the bond, possibly represented as a percentage of par value (e.g., 85.0000 could mean 85% of par value).
+* **Coupon:** The annual interest rate paid on the bond.
+* **Yield-to-Maturity:** The total return an investor can expect if they hold the bond until maturity.
+* **Modified Duration:** A measure of the bond's price sensitivity to changes in interest rates.
+
+**Layout and Structure:** The table is presented in a standard format with rows and columns. The headers are at the top of each column.  
+
+**Data Summary:**  The table provides a comparison of three bonds with different maturities, coupons, and market characteristics.  No explicit conclusions or recommendations are provided in the image.  It simply presents data on the bonds.
+"
+question_128,"The image presents a simple table showing the relationship between interest rate assumptions and the present value of liabilities.
+
+**Table:**
+
+| Interest Rate Assumption | Present Value of Liabilities |
+|---|---|
+| 6% | CAD 510.1 million |
+| 7% | CAD 455.4 million |
+| 8% | CAD 373.6 million |
+
+
+**Data Summary:**
+
+The table demonstrates the inverse relationship between interest rates and the present value of liabilities. As the interest rate assumption increases, the present value of liabilities decreases.
+
+
+**Layout and Structure:**
+
+The table has two columns: ""Interest Rate Assumption"" and ""Present Value of Liabilities.""  There are three rows of data, each corresponding to a different interest rate assumption (6%, 7%, and 8%).  The values in the ""Present Value of Liabilities"" column are expressed in Canadian dollars (CAD) and millions.  The table is enclosed within horizontal lines above and below the header row and below the final data row.
+"
+question_300,"The image presents a line graph illustrating the relationship between expected exposure and time.
+
+**Layout and Structure:**
+
+The graph is positioned within a standard Cartesian coordinate system, with the x-axis representing ""Time"" and the y-axis representing ""Expected Exposure"". Both axes have arrowheads indicating positive direction.  The line graph originates at the bottom left corner, rises to a peak, and then descends to the x-axis.
+
+**Line Graph:**
+
+The line graph is formed by connecting a series of diamond-shaped data points.  The line initially rises steeply, then curves to form a rounded peak, and finally declines at a relatively steep rate towards the end.
+
+**Horizontal Dashed Line:**
+
+A horizontal dashed line extends across the graph from the y-axis, intersecting the y-axis at a point corresponding roughly to 1/3 of the maximum height reached by the line graph. This line appears to represent a threshold or baseline level of expected exposure. A question mark is placed above the rightward extension of this dashed line, suggesting uncertainty about future levels.
+
+**Labels and Symbols:**
+
+* **X-axis Label:** ""Time""
+* **Y-axis Label:** ""Expected Exposure""
+* **Data Points:** Diamond shapes
+* **Question Mark:** Located above the rightward extension of the dashed line.
+
+
+**Data Summary:**
+
+The graph depicts a trend where expected exposure increases over time, reaches a maximum level, and then decreases. The question mark at the end of the dashed line indicates uncertainty about the future level of expected exposure, especially in relation to the baseline indicated by the dashed line. No specific numerical data is provided. The graph focuses on visualizing the general trend of expected exposure over time.
+"
+question_736,"The image presents a scatter plot graph depicting the relationship between a portfolio's (P) excess monthly returns and a benchmark's (M) excess return.
+
+**Title:** Portfolio(P) excess monthly returns regressed against Benchmark(M) excess return
+
+**Graph:**
+
+* **X-axis:** Benchmark(M) excess return, ranging from -4.00% to 8.00% in increments of 2.00%.
+* **Y-axis:** Portfolio(P) excess return, the scale is implied by the data points and the linear regression line.
+* **Data Points:**  Several blue diamond-shaped data points are scattered across the graph, representing the paired excess returns of the portfolio and the benchmark for different periods (presumably months).
+* **Regression Line:** A red line is plotted across the scatter plot, representing the linear regression of the portfolio's excess return on the benchmark's excess return.
+
+**Regression Equation & R-squared:**
+
+Below the graph, the following information is provided:
+
+* **P = 1.5231 * M + 0.0180:** This is the equation of the regression line, where P represents the portfolio's excess return and M represents the benchmark's excess return. The slope (beta) is 1.5231 and the intercept (alpha) is 0.0180.
+* **R² = 0.6804:**  This is the R-squared value, indicating that approximately 68.04% of the variation in the portfolio's excess return can be explained by the variation in the benchmark's excess return.
+
+**Layout:** The title is placed above the graph. The x and y-axis labels are along the horizontal and vertical axes, respectively. The regression equation and R-squared value are displayed below the graph.
+
+**Data Summary:** The graph and the accompanying statistics suggest a positive correlation between the portfolio's and the benchmark's excess returns. The beta of 1.5231 indicates that for every 1% increase in the benchmark's excess return, the portfolio's excess return is expected to increase by 1.5231%. The relatively high R-squared value suggests a moderately strong linear relationship between the two variables.
+"
+question_738,"The image presents a single line of a mathematical equation.
+
+**Equation:**
+
+E(r<sub>i</sub>) = r<sub>f</sub> + β<sub>i,MKT</sub>E(r<sub>m</sub> - r<sub>f</sub>) + β<sub>i,SMB</sub>E(SMB) + β<sub>i,HML</sub>E(HML)
+
+
+**Description of Elements:**
+
+* **E(r<sub>i</sub>):** Expected return of asset i.
+* **r<sub>f</sub>:** Risk-free rate of return.
+* **β<sub>i,MKT</sub>:** Beta of asset i with respect to the market portfolio (MKT).
+* **E(r<sub>m</sub> - r<sub>f</sub>):** Expected market risk premium (the difference between the expected return of the market portfolio and the risk-free rate).
+* **β<sub>i,SMB</sub>:** Beta of asset i with respect to the size factor (SMB, Small Minus Big).  This factor represents the difference in returns between small and large market capitalization stocks.
+* **E(SMB):** Expected return of the size factor.
+* **β<sub>i,HML</sub>:** Beta of asset i with respect to the value factor (HML, High Minus Low).  This factor represents the difference in returns between high book-to-market (value) stocks and low book-to-market (growth) stocks.
+* **E(HML):** Expected return of the value factor.
+
+**Layout and Structure:**
+
+The equation is presented as a single line of text, with no special formatting or symbols other than standard mathematical notation for variables, expected values (E), and betas (β).
+
+
+**Summary:**
+
+The equation represents a multi-factor model, likely the Fama-French three-factor model, used to estimate the expected return of an asset (r<sub>i</sub>).  It suggests that the expected return is determined by:
+
+1. The risk-free rate (r<sub>f</sub>).
+2. The market risk premium, scaled by the asset's market beta (β<sub>i,MKT</sub>).
+3. The size premium, scaled by the asset's size beta (β<sub>i,SMB</sub>).
+4. The value premium, scaled by the asset's value beta (β<sub>i,HML</sub>).
+"
+question_740,"The image presents a table comparing the performance of four different funds (A, B, C, and D) against a market index. The table has three rows and five columns. Each cell contains a numerical value followed by a superscript arrow pointing upwards.
+
+**Headers:**
+
+* **Column 1:**  (Empty, implied label for the metrics in subsequent rows)
+* **Column 2:** Fund A
+* **Column 3:** Fund B
+* **Column 4:** Fund C
+* **Column 5:** Fund D
+* **Column 6:** Market Index
+
+
+**Rows and Data:**
+
+* **Row 1: Return**
+    * Fund A: 8.25%
+    * Fund B: 7.21%
+    * Fund C: 9.44%
+    * Fund D: 10.12%
+    * Market Index: 8.6%
+
+* **Row 2: Beta**
+    * Fund A: 0.91
+    * Fund B: 0.84
+    * Fund C: 1.02
+    * Fund D: 1.34
+    * Market Index: 1.00
+
+* **Row 3: Standard Deviation**
+    * Fund A: 3.24%
+    * Fund B: 3.88%
+    * Fund C: 3.66%
+    * Fund D: 3.28%
+    * Market Index: 3.55%
+
+
+**Labels and Symbols:**
+
+All numerical data points are followed by a superscript upward arrow (→). The arrow suggests an increase, which likely implies these values represent growth or improvements compared to a previous period.
+
+
+
+**Data Summary:**
+
+Fund D had the highest return (10.12%) but also the highest beta (1.34), indicating higher risk.  Fund A had the lowest beta (0.91) suggesting it is the least volatile compared to the market.  Fund B had the lowest return (7.21%). Fund A also had the lowest standard deviation (3.24%), indicating it experienced the smallest fluctuations in its returns. Fund B had the highest standard deviation (3.88%).
+
+
+**Layout and Structure:**
+
+The table is presented in a standard grid format with clear rows and"
+question_761,"The image presents a table with financial data for four different funds.
+
+**Layout and Structure:** The table has four rows and four columns, enclosed within a simple border.
+
+**Headers:** The headers for the four columns are: ""Fund,"" ""Annual Rate of Return,"" ""Beta,"" and ""Volatility.""
+
+**Rows and Data:**  Each row represents a different fund, with data provided in the subsequent columns.
+
+* **ABC:** Annual Rate of Return: 15%, Beta: 1.25, Volatility: 20%
+* **RST:** Annual Rate of Return: 18%, Beta: 1.00, Volatility: 25%
+* **JKL:** Annual Rate of Return: 25%, Beta: 1.20, Volatility: 15%
+* **XYZ:** Annual Rate of Return: 11%, Beta: 1.36, Volatility: 9%
+
+**Data Summary:** The table provides a comparison of four funds based on their annual rate of return, beta (a measure of a stock's volatility in relation to the overall market), and volatility (a statistical measure of the dispersion of returns for a given security or market index).  JKL has the highest return but a moderate beta and the lowest volatility of the group excluding XYZ. XYZ has the lowest volatility and return with the highest Beta. RST has the second-highest return,  the lowest beta, but the highest volatility (excluding JKL). ABC falls somewhere in the middle in terms of performance and risk.
+
+
+**Labels and Symbols:** All values in the ""Annual Rate of Return"" and ""Volatility"" columns are represented as percentages. Beta is represented as a decimal number. There are no special notations or symbols used. No text is bolded or italicized.
+"
+question_775,"The image presents a single mathematical equation.
+
+**Text and Instructions:**
+
+r<sub>t+1</sub> = α<sub>t</sub> + β<sub>SPY,t</sub> SPY<sub>t+1</sub> + β<sub>SPYV,t</sub> SPYV<sub>t+1</sub> + β<sub>SPYG,t</sub> SPYG<sub>t+1</sub> + ε<sub>t+1</sub>
+
+
+**Labels and Symbols:**
+
+* r<sub>t+1</sub>: Likely represents a return at time t+1.
+* α<sub>t</sub>:  Likely represents an intercept or constant term at time t.
+* β<sub>SPY,t</sub>, β<sub>SPYV,t</sub>, β<sub>SPYG,t</sub>:  Likely represent coefficients (betas) for different variables at time t.  The subscripts indicate which variable the beta corresponds to.
+* SPY<sub>t+1</sub>, SPYV<sub>t+1</sub>, SPYG<sub>t+1</sub>: Likely represent the values of different variables (presumably stock indices or ETFs based on their ticker-like names) at time t+1.  The subscripts specify the time period.
+* ε<sub>t+1</sub>: Likely represents an error term at time t+1.
+* Subscripts ""t"" and ""t+1"" refer to different time periods, where t+1 is one period after t.
+
+
+**Layout and Structure:**
+
+The equation is presented on a single line.
+
+
+**Data Summary:**
+
+The equation appears to be a linear regression model.  It models the return (r<sub>t+1</sub>) as a linear combination of the values of three variables (SPY, SPYV, and SPYG) at time t+1, weighted by their respective coefficients (betas) from the previous time period (t), plus a constant term (α<sub>t</sub>) and an error term (ε<sub>t+1</sub>). This suggests the model aims to predict future returns based on current values of predictor variables and their established relationships.
+"
+question_1412,"The image presents a graph illustrating the relationship between the nominal interest rate and the quantity of money, showcasing the interaction of money demand (MD) and money supply (MS).
+
+**Layout and Structure:**
+
+The graph is a standard 2D plot with the nominal interest rate on the vertical (y) axis and the quantity of money on the horizontal (x) axis.  Both axes have arrows indicating the positive direction.
+
+* **MD Curve:** A downward-sloping curve labeled ""MD"" represents the money demand. This curve starts high on the vertical axis and gradually flattens as it extends towards the right along the horizontal axis.
+
+* **MS Curve:**  A vertical straight line labeled ""MS"" represents the money supply.
+
+* **Intersection:** The MD and MS curves intersect at a point corresponding to an interest rate I₀ and a quantity of money M₀.
+
+* **Dashed Lines:** Dashed lines extend horizontally and vertically from the intersection point (I₀, M₀) to the axes.  Additional points M₁ and I₁, as well as M₂ and I₂, are marked with dashed lines forming rectangles to illustrate changes in either money supply or money demand. I₁, I₀, and I₂ are marked on the vertical axis with I₁ being the highest, followed by I₀, and then I₂ being the lowest. Similarly, M₁, M₀, and M₂ are marked on the horizontal axis with M₁ being the lowest, followed by M₀, and then M₂ being the highest.  The labels M₁, M₂, and M₀ are written in red with a wavy underline. The labels I₁, I₂, and I₀ are similarly styled in red with a wavy underline.
+
+
+
+**Data Summary:**
+
+The graph demonstrates how the equilibrium interest rate is determined by the intersection of money demand and money supply. No explicit conclusions or recommendations are stated within the image itself.  However, it visually depicts how changes in either the money supply or money demand would shift the equilibrium interest rate and quantity of money. For example, a decrease in the quantity of money from M₀ to M₁ would cause an increase in the nominal interest rate from I₀ to I₁. Conversely, an increase in the quantity of money from M₀ to M₂ would lead to a decrease in the nominal interest rate from I₀ to I₂.
+
+
+**Labels and Symbols:**
+
+* ""MD"" - Money Demand
+* ""MS"" - Money Supply"
+question_1959,"The image illustrates the initiation of a repo trade between two counterparties.
+
+**Layout and Structure:**
+
+The image consists of two colored boxes representing the counterparties, connected by two arrows indicating the flow of assets.  A horizontal bar above the boxes provides a title for the transaction.
+
+**Text and Instructions:**
+
+* The top horizontal bar contains the text ""Initiation of Repo Trade"".
+* The left light green box is labeled ""Counterparty A"".
+* The right light blue box is labeled ""Counterparty B"".
+* The top arrow pointing from Counterparty A to Counterparty B is labeled ""Securities"".
+* The bottom arrow pointing from Counterparty B to Counterparty A is labeled ""Cash"".
+
+
+**Data Summary:**
+
+The image visually depicts the basic mechanism of a repo trade at its initiation: Counterparty A provides securities to Counterparty B, and in exchange, Counterparty B provides cash to Counterparty A.  No specific financial metrics or numerical data are presented.
+
+**Labels and Symbols:**
+
+* The arrows represent the direction of the transfer of assets. The gray color of the arrows and the black text labels clearly indicate the exchanged assets.
+* The colored boxes distinguish the two parties involved in the transaction.
+
+
+**Tables and Data:**
+
+There are no tables or numerical data presented in the image.  It is a purely visual representation of the flow of assets at the start of a repo trade.
+"
+question_1973,"The image presents two tables side-by-side, one for Assets and one for Liabilities and Equity.  The ""Assets"" table has a light green header, while the ""Liabilities"" table has a light tan/peach header.
+
+**Assets Table:**
+
+* **Column 1:** Asset Type
+* **Column 2:** Value ($)
+
+| Asset Type | Value ($) |
+|---|---|
+| Bonds | $30.0 |
+| Loans | $70.0 |
+
+
+**Liabilities and Equity Table:**
+
+* **Column 1:** Liability/Equity Type
+* **Column 2:** Value ($)
+
+| Liability/Equity Type | Value ($) |
+|---|---|
+| Deposits | $30.0 |
+| Bonds | $50.0 |
+| Equity | $20.0 |
+
+**Layout and Structure:** The two tables are presented horizontally adjacent to each other. The headers are single words (""Assets"" and ""Liabilities"") within colored rectangular boxes.  Below the headers, the table entries are listed in rows, with the item description in the first column and the corresponding dollar value in the second.
+
+**Data Summary:** The Assets table shows a total of $100.0 ($30.0 in Bonds and $70.0 in Loans). The Liabilities and Equity table also shows a total of $100.0 ($30.0 in Deposits, $50.0 in Bonds, and $20.0 in Equity).  This demonstrates a balanced balance sheet where Assets = Liabilities + Equity.
+"
+question_2119,"The image presents a table detailing regulatory capital figures, expressed in USD millions.  The table has two columns, the first describing the capital component and the second providing the corresponding value.
+
+**Table Data:**
+
+| Regulatory Capital Component | USD Millions |
+|---|---|
+| Total Common Equity Tier 1 Capital | 108 |
+| Additional Tier 1 Capital | 28 |
+| Prior to regulatory adjustments | 34 |
+| Regulatory adjustments | 6 |
+| Total Tier 1 Capital | 136 |
+| Tier 2 Capital | 36 |
+| Prior to regulatory adjustments | 45 |
+| Regulatory adjustments | 9 |
+| Total Capital | 172 |
+| Total Average Exposure | 3678 |
+
+
+**Data Summary:**
+
+The table breaks down regulatory capital into different tiers and shows the adjustments made. Key figures include:
+
+* **Total Common Equity Tier 1 Capital:** 108 USD million
+* **Additional Tier 1 Capital:** 28 USD million (34 before adjustments, reduced by 6 due to regulatory adjustments)
+* **Total Tier 1 Capital:** 136 USD million (sum of Common Equity Tier 1 and Additional Tier 1)
+* **Tier 2 Capital:** 36 USD million (45 before adjustments, reduced by 9 due to regulatory adjustments)
+* **Total Capital:** 172 USD million (sum of Tier 1 and Tier 2 Capital)
+* **Total Average Exposure:** 3678 USD million
+
+
+**Layout and Structure:**
+
+The table is simple and straightforward, with the title ""REGULATORY CAPITAL"" at the top left and ""USD MILLIONS"" at the top right. The data is presented in rows, with each row representing a specific capital component or adjustment.  There are no special notations or symbols used besides the units (USD Millions).
+"
+question_2136,"The image shows a simple comparison of the sovereign debt holdings of two banks, Bank A and Bank B, categorized by OECD and non-OECD membership.
+
+**Bank A:**
+
+* 25% OECD sovereign debt
+* 75% non-OECD sovereign debt
+
+**Bank B:**
+
+* 50% OECD sovereign debt
+* 50% non-OECD sovereign debt
+
+
+**Layout and Structure:**
+
+The image presents the information in a plain text format.  ""Bank A"" is positioned to the left, followed by the breakdown of its debt holdings. ""Bank B"" is positioned to the right with its corresponding breakdown. There are no tables, charts or other visual elements.  The text is arranged in a clear and simple manner.
+
+
+**Data Summary:**
+
+Bank A holds a larger proportion of its sovereign debt in non-OECD countries, while Bank B has an equal split between OECD and non-OECD sovereign debt.
+"
+question_2143,"The image presents financial risk metrics related to Value at Risk (VaR).  It's structured as a list with associated values, arranged in two columns.
+
+**Column 1 (Description)** | **Column 2 (Value)**
+---|---
+VaR (95%, 1-day) of last trading day | USD 40,000
+Average VaR (95%, 1-day) for last 60 trading days | USD 25,000
+Multiplication Factor | 2
+
+
+**Data Summary:**
+
+The image provides the following VaR data:
+
+* **VaR (95%, 1-day) of the last trading day:** USD 40,000.  This means there is a 5% chance of losses exceeding $40,000 in a single trading day.
+* **Average VaR (95%, 1-day) for the last 60 trading days:** USD 25,000.  This is the average VaR over the previous 60 trading days.
+* **Multiplication Factor:** 2.  This factor is likely used to scale the average VaR to adjust for potential increases in risk.
+
+
+**Layout and Structure:**
+
+The information is presented in a simple two-column list format.  The first column provides descriptions of the metrics, while the second column lists their corresponding values. The currency (USD) is explicitly stated for the VaR amounts. No other special formatting (bold, italics, etc.) is used.
+"
+question_2238,"The image presents a Portfolio Possibilities Curve for stocks and bonds. It is a 2D graph with the expected return of the portfolio (E(Rp)) plotted on the vertical axis and the standard deviation of the portfolio (σp) on the horizontal axis.
+
+**Layout and Structure:**
+
+The graph has a title at the top: ""Portfolio Possibilities Curve: Stocks and Bonds"". The vertical axis is labeled ""E(Rp)"" and marked at intervals of 4% from 0% to 20%.  The horizontal axis is labeled ""σp"" and marked at 10% and 20%. A curved line represents the efficient frontier of portfolio possibilities.
+
+**Points on the Curve:**
+
+Three points are marked on the curve with corresponding labels:
+
+* **X:** Located on the curve at approximately 8% E(Rp).
+* **Y:** Located below and to the right of X, at approximately 8% σp.
+* **Z:** Located near the top end of the curve, right of X and Y.
+* **W:** Located on the curve between Y and Z, approximately at the level of 16% for E(Rp).
+
+
+**Data Summary:**
+
+The graph visually represents the relationship between risk (standard deviation) and return for a portfolio of stocks and bonds.  The curve itself shows the set of portfolios that offer the highest expected return for a given level of risk, or the lowest risk for a given expected return. Points X, Y, Z, and W represent different portfolio allocations with varying levels of risk and return. The curve bows out, indicating that diversification between stocks and bonds can lead to higher returns for a given level of risk compared to holding only stocks or only bonds (which would likely be located near points X and Y respectively).  Point Z likely represents a higher proportion of stocks, while W represents an intermediary combination. No specific data values are given for σp associated with each point, only approximate locations on the graph.
+"
+question_2264,"The image depicts a graph within a quadrant of a coordinate system, likely illustrating a relationship between two variables.
+
+**Layout and Structure:**
+
+The graph occupies the upper-right quadrant of the coordinate system. The horizontal axis is labeled ""σ"" with a rightward arrow indicating the positive direction. The vertical axis is labeled ""μ"" with an upward arrow indicating the positive direction.  Four curved lines, resembling elongated and slightly overlapping leaf shapes, connect two points: one labeled ""Y"" on the vertical axis and another labeled ""X"" in the upper-right portion of the graph area.  The curves are labeled ""A"", ""B"", ""C"", and ""D"" respectively.
+
+**Labels and Symbols:**
+
+* X and Y are points on the graph.
+* The labels A, B, C, and D represent different curves on the graph.
+*  Each of the labels (μ, σ, A, B, C, D, X, and Y) has a tiny upward arrow as a subscript, though the significance of this is not clear from the image alone.
+
+
+**Data Summary:**
+
+The image does not contain any explicit data in table form or numerical values. It presents a visual relationship between the variables represented by the axes, likely suggesting a non-linear correlation. The four curves (A, B, C, and D) connecting points X and Y likely illustrate different relationships or variations within this correlation.
+
+
+**Text and Instructions:**  The text consists of the axis labels (μ and σ) and the labels for the curves and points (A, B, C, D, X, Y).  There are no explicit instructions.
+
+**Tables and Data:**  There are no tables or numerical data presented in the image.
+"
+question_2269,"The image presents a scatter plot visualizing the relationship between a portfolio's (P) excess monthly returns and a benchmark's (M) excess returns.
+
+**Title:** Portfolio (P) excess monthly returns regressed against benchmark (M) excess returns
+
+**X-axis:** Benchmark (M) Excess Returns, ranging from -10% to 15% in 5% increments.
+
+**Y-axis:** Portfolio (P) Excess Returns, ranging from -10% to 15% in 5% increments.
+
+**Plot Data:**  The plot displays several blue circular data points, seemingly representing individual monthly return observations.  A dotted green line, representing the regression line, is plotted through the data, indicating a positive correlation between the portfolio and benchmark returns. The blue data points are larger where there are multiple, overlapping data points. It appears that there are multiple data points clustered around some x-axis values.
+
+**Regression Equation:**  Below the plot, the following equation is presented: y = 0.8195x + 0.0171. This represents the linear regression model fitted to the data.
+
+**R-squared Value:** Below the regression equation, the R-squared value is given as R² = 0.8995. This indicates that approximately 89.95% of the variance in the portfolio's excess returns can be explained by the benchmark's excess returns.
+
+**Layout and Structure:** The title is placed above the scatter plot.  The x and y axes are labeled clearly.  The regression equation and R-squared value are displayed beneath the plot, centered horizontally. The chart has a light gray grid in the background, with darker gray lines at the 0% marks of both axes. The blue data points appear to have a light drop shadow.
+
+
+**Data Summary:** The high R-squared value suggests a strong positive correlation between the portfolio and the benchmark returns.  The slope of the regression line (0.8195) suggests that for every 1% increase in the benchmark's excess return, the portfolio's excess return increases by approximately 0.82%. The intercept of 0.0171 suggests that even when the benchmark has zero excess return, the portfolio is expected to have an excess return of approximately 0.0171%.
+"
+question_2298,"The image presents a table comparing the performance of four different funds (A, B, C, and D) based on four metrics: Expected Return, Volatility, Residual Risk, and Information Ratio.  All percentage values are followed by a superscript ""²"" and a ""+"" symbol.
+
+Here's a breakdown of the table's contents:
+
+| Fund | Expected Return | Volatility | Residual Risk | Information Ratio |
+|---|---|---|---|---|
+| A | 9.3% | 15.3% |  | 0.8 |
+| B |  | 16.4% | 2.4% | 0.9 |
+| C |  | 15.8% | 1.5% | 1.3 |
+| D | 9.4% |  | 1.8% |  |
+
+
+**Data Summary:**
+
+The table provides a comparison of four funds across key performance indicators. Fund C stands out with the highest Information Ratio (1.3) and lowest Residual Risk (1.5%). Fund B has the highest Volatility (16.4%), while Fund A and D have similar Expected Returns (9.3% and 9.4% respectively).  There are some missing data points in the table, specifically the Expected Return for Funds B and C, the Residual Risk for Fund A, the Volatility for Fund D, and the Information Ratio for Fund D.
+
+**Layout and Structure:**
+
+The table is a simple grid with four rows (one for each fund and a header row) and four columns (one for each metric). The table headers are: ""Fund"", ""Expected Return"", ""Volatility"", ""Residual Risk"", and ""Information Ratio"".  Each cell contains either a numerical value represented as a percentage or is empty.  There aren't any specific visual cues like bolding or italics used in the table.
+"
+question_2375,"The image depicts a simple line graph illustrating a step function.
+
+**Layout and Structure:**
+
+The graph features a vertical y-axis and a horizontal x-axis. There are no numerical labels or markings on either axis.
+
+**Line Graph:**
+
+The graph starts at the origin (0,0) and remains horizontal along the x-axis for a certain distance. Then, it rises diagonally in a straight line, forming an increasing slope.  Upon reaching a certain y-value, the line becomes horizontal again, extending to the right edge of the graph.  There is a small, faintly visible dot below the horizontal section of the line to the right of the upward sloping section.  It's likely an artifact of the image creation process and not a meaningful data point on the graph itself.
+
+**Text and Instructions, Tables and Data, Labels and Symbols, Data Summary:**
+
+There is no discernible text, tables, data labels, symbols, or summary information within the image other than the plotted line graph itself.  It simply represents a visual depiction of a step function.
+"
+question_2392,"The image presents a scatter plot illustrating the relationship between a portfolio manager's working experience (in years) and portfolio return (in percent).
+
+**Layout and Structure:**
+
+The image is a scatter plot with a line of best fit. The x-axis represents ""Portfolio Manager's Working Experience (Years)"" ranging from 0 to 12. The y-axis represents ""Portfolio Return (%)"" ranging from 0 to 50. Several data points (represented as blue circles) are scattered across the graph, and a straight line representing the linear regression model is drawn through the data.  The equation of the line and the R-squared value are displayed above the plot.
+
+
+**Data points:** While precise coordinates are not provided, the scatter plot visualizes the relationship with individual data points showing different portfolio returns at various levels of experience. The points generally trend upwards, suggesting a positive correlation.
+
+**Text and Instructions:**
+
+* **Y = 2.7127x + 5.8222:** This is the equation of the line of best fit, where Y represents the predicted portfolio return and x represents the portfolio manager's working experience in years.
+* **R² = 0.8324:**  This is the coefficient of determination (R-squared), which indicates that approximately 83.24% of the variance in portfolio return can be explained by the portfolio manager's working experience.
+
+
+**Data Summary:**
+
+The chart suggests a positive correlation between a portfolio manager's years of experience and the portfolio return. The linear regression model indicates that, on average, for every additional year of experience, the portfolio return increases by approximately 2.71 percentage points. The high R-squared value of 0.8324 suggests a strong fit of the model to the data, meaning that the years of experience are a good predictor of portfolio return within the scope of this dataset.
+"
+question_2406,"The image presents four histograms, arranged in a 2x2 grid. Each histogram displays the distribution of a variable, presumably representing financial data.  The histograms are all blue and plotted against a white background with grid lines.
+
+**Top Left Histogram (BDEVL):**
+
+* **Title:** BDEVL
+* **X-axis:** Ranges from approximately -0.12 to 0.06.
+* **Y-axis:** Ranges from 0 to 30.
+* **Distribution:**  The data appears roughly normally distributed, centered around 0.
+
+**Top Right Histogram (BNZLL):**
+
+* **Title:** BNZLL
+* **X-axis:** Ranges from approximately -0.04 to 0.03.
+* **Y-axis:** Ranges from 0 to 20.
+* **Distribution:** The data appears roughly normally distributed, centered around 0.
+
+
+**Bottom Left Histogram (HLL):**
+
+* **Title:** HLL
+* **X-axis:** Ranges from approximately -0.06 to 0.05. The x-axis label ""-0.025...0.000""  is truncated due to the image cropping.
+* **Y-axis:** Ranges from 0 to 20.
+* **Distribution:** The data appears roughly normally distributed, centered just right of 0.
+
+
+**Bottom Right Histogram (HLMAL):**
+
+* **Title:** HLMAL
+* **X-axis:** Ranges from approximately -0.075 to 0.03.
+* **Y-axis:** Ranges from 0 to 20.
+* **Distribution:** The data appears roughly normally distributed, centered around 0.
+
+
+**General Observations:**
+
+* All histograms show distributions centered near zero.
+* The x-axis scales differ slightly between histograms.
+*  The histograms all use approximately the same y-axis scaling, allowing for easy visual comparison of the relative frequency distributions.
+* The histograms are presented without any further descriptive text or labels other than the titles. No key insights or conclusions are explicitly stated.
+"
+question_2433,"The image depicts a branching diagram illustrating a financial projection over two years.  It resembles a binomial tree, often used in finance to model possible outcomes.
+
+**Layout and Structure:**
+
+The diagram starts with a single box labeled ""Today"" at the bottom, which branches into two boxes labeled ""1 year,"" which in turn each branch into two more boxes labeled ""2 years."" Arrows connect the boxes, indicating the progression of time. Each box contains financial figures.  Below the ""Today,"" ""1 year,"" and ""2 years"" labels are filled-in gray rectangles.
+
+**Text and Data:**
+
+* **Today:**
+    * $?
+    * 4.5749%
+* **1 Year (Upper Branch):**
+    * $?
+    * $?
+    * 7.1826%
+* **1 Year (Lower Branch):**
+    * $?
+    * $?
+    * 5.3210%
+* **2 Years (Top Branch):**
+    * $100.000
+    * $12.0
+* **2 Years (Middle Branch):**
+    * $100.000
+    * $12.0
+* **2 Years (Bottom Branch):**
+    * $100.000
+    * $12.0
+
+
+**Data Summary:**
+
+The diagram likely represents a financial instrument or investment where $100,000 and $12.0 (the units are unspecified but likely represent dollars for the larger figure and possibly another unit, interest rate perhaps, for the smaller) are consistent outcomes after two years regardless of the path taken. The percentages and dollar amounts marked with ""$?"" are unknown values likely representing intermediate calculations or projections. The percentages might be interest rates or rates of return. The initial amount of the investment (Today) is not specified, but a percentage (4.5749%) is associated with it.  Subsequent years also have percentages associated with the different possible states (7.1826% and 5.3210% for the first year), suggesting some variable rate or return.
+
+
+**Labels and Symbols:**
+
+The ""$"" symbol indicates monetary values. The ""%"" symbol denotes percentages.  The arrows indicate the progression of time and the branching of possible outcomes. The gray rectangles below the time labels provide"
+question_2449,"The image depicts a branching diagram, possibly representing probabilities or proportions, structured like a sideways, elongated diamond.  It begins with a central node labeled ""4%"" and branches outwards symmetrically.
+
+Here's a breakdown of each branch:
+
+* **Upper Branch:**
+    * From the ""4%"" node, a line extends diagonally upwards and to the right, labeled ""50%"".
+    * This line then splits into two branches:
+        * One extends further upwards and to the right, labeled ""50%"", ending at a node labeled ""5%"".
+        * The other extends downwards and to the right, labeled ""50%"", ending at a node labeled ""3%"".
+
+* **Lower Branch:**
+    * From the ""4%"" node, a line extends diagonally downwards and to the right, labeled ""50%"".
+    * This line then splits into two branches:
+        * One extends further downwards and to the right, labeled ""50%"", ending at a node labeled ""1%"".
+        * The other extends upwards and to the right, labeled ""50%"", ending at a node labeled ""3%"".
+
+* **Left Branches (mirroring the right side):**
+    * A line extends from the ""4%"" node diagonally upwards and to the left, labeled ""50%"". It connects to a node labeled ""3%"".
+    * A line extends from the ""4%"" node diagonally downwards and to the left, labeled ""50%"". It connects to a node labeled ""2%"".
+
+
+Layout and Structure:
+
+The diagram is centrally placed. The lines and percentage labels are simple and unadorned.  There are no other elements besides the lines, percentages, and connecting nodes. There are no tables, titles, or explanatory text. The diagram appears designed to represent a probability tree or some similar distribution.
+"
+question_3022,"The image presents a simple binomial interest rate model over two months, labeled ""Model 1: Normally Distributed Rates, Zero Drift.""
+
+**Text and Instructions:**
+
+* Title: ""Model 1: Normally Distributed Rates, Zero Drift""
+* Formula: dr = σdw
+* Initial rate: R₀ = 4%
+* Month labels: ""Month 1"", ""Month 2""
+
+**Diagram Structure and Data:**
+
+The image depicts a branching structure representing potential interest rate changes over two months.  Starting at R₀ = 4%, the rate can either increase or decrease in each month. Arrows connect the rates between months.
+
+* **Month 1:** From the initial rate of 4%, two branches extend:
+    * Upward branch to 4.52%
+    * Downward branch to 3.48%
+
+* **Month 2:**  From each of the Month 1 rates, two further branches extend:
+    * From 4.52%:
+        * Upward branch to ""?"" (unknown value)
+        * Downward branch to 4%
+    * From 3.48%:
+        * Upward branch to 4%
+        * Downward branch to 2.961%
+
+**Data Summary:**
+
+The model shows possible rate changes over two months assuming a normal distribution and zero drift. The unknown value (""?"") indicates that the model doesn't explicitly provide the upper bound rate after two consecutive increases.  It illustrates the basic branching nature of a binomial interest rate model.
+
+**Layout and Structure:**
+
+The title is at the top. The formula ""dr = σdw"" is below the title. The initial rate (R₀ = 4%) is to the left of the diagram. The diagram is centered, with ""Month 1"" rates under the first branch level and ""Month 2"" rates under the second branch level. Arrows indicate the direction of rate change from one month to the next.
+"
+question_3023,"The image depicts a binomial interest rate tree model, specifically the Ho-Lee Model with time-dependent drift.
+
+**Title:** Ho-Lee Model: Time-Dependent Drift
+
+**Formula:** dr = λₜdt + σdω  (Where: dr represents the change in the interest rate, λₜ represents the time-dependent drift, dt is a small change in time, σ is the volatility, and dω is a Wiener process increment)
+
+**Initial Rate:** R₀ = 4%
+
+The tree structure illustrates possible interest rate paths over two months.
+
+**Month 1:**
+
+* From the initial rate of 4%, the rate can either increase to 4.661% or decrease to 3.506%.  Two arrows originate from R₀ and point to these values.
+
+**Month 2:**
+
+* From 4.661% (Month 1), the rate can further increase to 5.305% or decrease to 4.150%. Two arrows originate from 4.661% and point to these values.
+* From 3.506% (Month 1), the rate can increase to 4.150% or decrease to an unknown value represented by a question mark (""?""). Two arrows originate from 3.506% and point to 4.150% and ""?"".
+
+**Layout:** The title and formula are at the top. The binomial tree structure is below, with the initial rate (R₀) on the left, the possible rates for Month 1 in the middle, and the possible rates for Month 2 on the right. Arrows connect the nodes, indicating the possible paths of the interest rate.  ""Month 1"" and ""Month 2"" labels are positioned above their respective columns of rate values.
+
+
+**Data Summary:** The image demonstrates the evolution of interest rates over two months based on the Ho-Lee model, showing an initial rate and the possible upward or downward movements in subsequent months. It highlights the concept of a time-dependent drift (λₜ) influencing the rate changes.  The question mark at the end indicates one potential future rate has yet to be calculated or determined.
+"
+question_3024,"The image depicts a simple binomial interest rate model over two months, labeled ""Model 2: Normally Distributed Rates but Incorporating Annual Drift"".
+
+At the top, the formula  `dr = λdt + σdω` is presented.
+
+Below the title, there's a small branching diagram.  It starts with an initial rate, `R₀ = 3%`. This branches out to two possible rates for Month 1: `3.619%` and `2.464%`.
+
+Each of the Month 1 rates further branches to two possible rates for Month 2. From `3.619%`, the branches are `4.238%` and `3.083%`. From `2.464%`, the branches go to `3.083%` and a question mark `?`, indicating an unknown or yet-to-be-calculated value.  Each branch is represented by a right-pointing arrow leading to the rate value.
+
+The layout consists of the title and formula at the top, with the branching diagram centered below.  ""Month 1"" is positioned above the first set of branches, and ""Month 2"" above the second. The initial rate, R₀, is to the left of the first branch.  There are no tables present, only the illustrated binomial tree structure.
+"
+question_3032,"The image depicts a simple binomial tree diagram, likely representing possible outcomes and their probabilities.  It shows potential percentage changes, possibly returns on an investment or interest rates, over two periods.
+
+**Layout and Structure:**
+
+The diagram starts with a value of 6% on the left. It then branches out in two directions, representing two possible outcomes in the first period. Each branch is labeled with a probability of 50%.  The two outcomes at the end of the first period are 7% (upper branch) and 5% (lower branch).
+
+From both the 7% and 5% values, the diagram branches out again, each with two more possible outcomes in the second period, also with probabilities of 50% on each branch.
+
+The final outcomes, from top to bottom, at the end of the second period are 8%, 6%, 6%, and 4%.
+
+**Text and Instructions:**
+
+There are no explicit instructions or introductory text.  The diagram uses percentages to represent potential outcomes.
+
+**Labels and Symbols:**
+
+* Percentages (e.g., 6%, 7%, 5%, 8%, 4%): Represent the potential outcome values at each node of the tree.
+* 50%: Represents the probability of each branch.
+* Arrows: Indicate the direction of the possible outcomes from one period to the next.
+
+**Data Summary:**
+
+The diagram shows four possible outcomes after two periods, starting from an initial value (likely a percentage return or interest rate) of 6%.  Each outcome has a probability implied by the tree. For example, the probability of reaching 8% is 50% * 50% = 25%.  The possible outcomes and their implied probabilities are:
+
+* 8%: 25% (0.5 * 0.5)
+* 6%: 50% (0.5 * 0.5 + 0.5 * 0.5)
+* 4%: 25% (0.5 * 0.5)
+
+**Tables and Data:**
+
+While not presented as a formal table, the tree structure itself represents data organized by period and outcome.  It could be conceptually represented as a table with columns for period, outcome value, and probability.  However, the image itself does not contain a traditional table.
+"
+question_3044,"The image displays a binomial interest rate tree illustrating the Vasicek Model with a mean-reverting drift over two months.
+
+**Title:** Vasicek Model (Mean-Reverting Drift)
+
+**Structure:** The image shows a branching structure representing possible interest rate changes over two months.  It starts with an initial interest rate and then branches out to show possible up and down movements in subsequent months.  Dashed lines connect the nodes.
+
+**Initial Value:**  R₀ = 8%
+
+**Month 1:**
+
+* **Upward Movement:**  8.3274%
+* **Downward Movement:** 7.1726%
+
+**Month 2:**
+
+* From 8.3274%:
+    * **Upward Movement:** R<sub>uu</sub>
+    * **Downward Movement:** R<sub>ud</sub>
+* From 7.1726%:
+    * **Upward Movement:** R<sub>ud</sub> (Note: This appears to be a possible typo, as it's the same label as the downward movement from the upper branch. It might intend to represent R<sub>du</sub>.)
+    * **Downward Movement:** R<sub>dd</sub>
+
+**Layout:**
+
+The title ""Vasicek Model (Mean-Reverting Drift)"" appears at the top.  A horizontal line separates the title from the tree diagram. ""Month 1"" and ""Month 2"" labels are centered above their respective columns of interest rates/variables. The tree structure branches out from left to right, with the initial rate R₀ on the left, followed by Month 1 rates and then Month 2 rates/variables.
+
+
+**Data Summary:** The image illustrates how interest rates can evolve over two months using the Vasicek model, which incorporates a mean-reverting drift. Specific values are given for the starting rate and the rates at the end of Month 1.  However, the values for Month 2 are only represented by variables (R<sub>uu</sub>, R<sub>ud</sub>, R<sub>dd</sub>), suggesting that these values need to be calculated using the Vasicek model parameters.
+"
+question_3108,"The image is a simple line graph depicting the relationship between an unnamed variable on the x-axis and Implied Volatility on the y-axis.
+
+* **Layout and Structure:** The graph features a standard Cartesian plane with an x-axis and a y-axis. The x-axis has an arrow pointing to the right, indicating increasing values. The y-axis has an arrow pointing upward, indicating increasing Implied Volatility. A single curved line represents the relationship between the two variables. A vertical line intersects the x-axis at the value ""30"".
+
+* **Text and Instructions:** The y-axis is labeled ""Implied Volatility,"" written vertically from bottom to top. The x-axis has a single label ""30"" below the vertical line intersecting it.  There are no other textual instructions or labels.
+
+* **Tables and Data:**  There are no tables or explicit data points presented in the image. The information is conveyed through the shape of the curve.
+
+* **Labels and Symbols:** No specific symbols are used other than the standard arrows for the axes and the numerical label ""30"".
+
+* **Data Summary:** The graph shows a generally decreasing trend of Implied Volatility as the unnamed x-axis variable increases.  The curve is steeper initially, indicating a more rapid decrease in Implied Volatility at lower values of the x-axis variable. The rate of decrease slows down as the x-axis variable increases. The vertical line at ""30"" on the x-axis highlights a specific point on the curve, suggesting this value might hold particular significance in the context where the graph is used.  No specific units are provided for either axis.
+"
+question_3120,"The image presents a table showing asset allocation and returns.
+
+**Table Headers:**
+
+* **Asset Class:**  Lists the type of asset.
+* **Asset Allocation (%)**:  Shows the percentage allocated to each asset class.
+* **Asset Class Return (%)**: Shows the percentage return for each asset class.
+
+**Table Data:**
+
+| Asset Class | Asset Allocation (%) | Asset Class Return (%) |
+|---|---|---|
+| Large-cap US equities | 20.0 | 8.0 |
+| Small-cap US equities | 40.0 | 12.0 |
+| Emerging market equities | 25.0 | -3.0 |
+| High-yield bonds | 15.0 | 4.0 |
+
+
+**Layout and Structure:**
+
+The table is simple and straightforward.  The ""Asset Class"" column lists the different investment types, while the ""Asset Allocation (%)"" and ""Asset Class Return (%)"" columns display the corresponding percentage values.  The table has a clean, horizontal layout with clear column headers.
+
+
+**Data Summary:**
+
+The table shows the allocation and return of a portfolio across four asset classes. Small-cap US equities have the highest allocation (40%) and the highest return (12%). Emerging market equities experienced a negative return (-3%), despite having a significant allocation (25%). Large-cap US equities and high-yield bonds had positive returns, with allocations of 20% and 15%, respectively.
+"
+question_3121,"The image presents a table titled ""Portfolio's Deviations from Benchmark Return, 2003–2014"".  The values are shown as percentages (%).
+
+The table data is organized as follows:
+
+| Year | Deviation (%) | Year | Deviation (%) |
+|---|---|---|---|
+| Year 1 | 2.48 | Year 7 | -9.19 |
+| Year 2 | -2.59 | Year 8 | -5.11 |
+| Year 3 | 9.47 | Year 9 | 1.33 |
+| Year 4 | -0.55 | Year 10 | 6.84 |
+| Year 5 | -1.69 | Year 11 | 3.04 |
+| Year 6 | -0.89 | Year 12 | 4.72 |
+
+The table shows the portfolio's performance relative to a benchmark return for each year from 2003 to 2014.  A positive value indicates the portfolio outperformed the benchmark, while a negative value indicates underperformance.  There's no additional summary or key insights provided beyond the data itself. The layout is a simple table with two columns of year labels and two columns of corresponding percentage deviations.
+"
+question_3152,"The image presents a single horizontal box plot displaying a distribution of data.  The box plot is teal.
+
+**Layout and Structure:**
+
+The box plot is centered on the image. To the left is a vertical axis with tick marks and labels ranging from 40 to 180, incrementing by 20.  
+
+**Box Plot Values:**
+
+* **Minimum:** 51.51 (represented by the end of the lower whisker)
+* **Lower Quartile (Q1):** 79.74  (represented by the lower edge of the box)
+* **Median (Q2):** 100.49 (represented by the horizontal line inside the box)
+* **Upper Quartile (Q3):** 114.25 (represented by the upper edge of the box)
+* **Maximum:** 154.45 (represented by the end of the upper whisker)
+
+**Data Summary:**
+
+The box plot visually represents the distribution of a dataset. The box itself contains the middle 50% of the data (values between the lower and upper quartiles). The whiskers extend to the minimum and maximum values within a calculated range based on the interquartile range (IQR, the difference between Q3 and Q1). The median line shows the central value of the dataset.  No additional key insights or conclusions are provided in the image.
+"
+question_3153,"The image depicts a horizontal timeline or number line representing a period of 20 units, likely years.
+
+**Layout and Structure:**
+
+The timeline is a single horizontal line with vertical tick marks at regular intervals.  Numbers are placed above the tick marks, indicating the time period.
+
+**Text and Numbers:**
+
+The numbers ""0"", ""1"", ""2"", ""3"", ""4"", ""5"", and ""20"" appear above the corresponding tick marks on the timeline.  Three dots (""..."") are placed between the ""5"" and ""20"" marks, indicating the intervening periods are omitted for brevity.  Below the ""5"" mark is the text ""PV₅"". Below the ""20"" mark is ""$50,000"".
+
+**Data Summary:**
+
+The timeline seems to represent a financial concept, possibly related to present value (PV). The ""PV₅"" likely indicates the present value at the 5th period. The ""$50,000"" at period 20 likely represents a future value or cash flow at that time. The image suggests a scenario where a future value of $50,000 at period 20 and its present value at period 5 are being considered. No other information or calculations are present.
+"
+question_3163,"The image presents a histogram illustrating the frequency distribution of return interval midpoints, expressed as percentages.
+
+**Layout and Structure:**
+
+The image consists of a histogram with a superimposed frequency polygon. The x-axis represents the ""Return Interval Midpoint (%)"" and the y-axis represents the ""Frequency.""
+
+**Data:**
+
+The histogram displays the following data:
+
+* **Return Interval Midpoint (%)  | Frequency**
+* -5 | 3
+* -3 | 8
+* -1 | 11
+* 1  | 20
+* 3  | 6
+
+The frequency polygon connects the midpoints of the top of each bar in the histogram.
+
+
+**Labels and Symbols:**
+
+* ""Frequency"" is the label for the y-axis.
+* ""Return Interval Midpoint (%)"" is the label for the x-axis.
+* Teal/green bars represent the frequency for each return interval midpoint.
+* A dark blue line forms the frequency polygon.
+
+**Data Summary:**
+
+The histogram shows that a return interval midpoint of 1% has the highest frequency (20). The distribution appears roughly bell-shaped, though slightly skewed to the right, with frequencies decreasing as the return interval midpoint moves away from 1% in either direction.
+"
+question_3178,"The image presents a table displaying the absolute frequency of return intervals.  The table has two columns:
+
+**Column 1: Return Interval (%)**  This column lists ranges of return percentages.
+
+**Column 2: Absolute Frequency** This column shows the number of times a return fell within the corresponding interval.
+
+Here's the data within the table:
+
+| Return Interval (%) | Absolute Frequency |
+|-------------------|-------------------|
+| -10.0 to -7.0    | 3                 |
+| -7.0 to -4.0     | 7                 |
+| -4.0 to -1.0     | 10                |
+| -1.0 to +2.0     | 12                |
+| +2.0 to +5.0     | 23                |
+| +5.0 to +8.0     | 5                 |
+
+
+The table is enclosed within a simple rectangular border.  There are no other labels, symbols, or formatting details besides the column headers and the numerical data.  No key insights or conclusions are explicitly stated.  The layout is straightforward, with the title of each column centered above the respective data.
+"
+question_3181,"The image presents a table titled ""Annual Portfolio Returns (%)"" showing the yearly returns for three different portfolios.
+
+**Table Data:**
+
+| Portfolio | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
+|---|---|---|---|---|---|
+| Portfolio P | -3.0 | 4.0 | 5.0 | 3.0 | 7.0 |
+| Portfolio Q | *Redacted* | -3.0 | 6.0 | 4.0 | 8.0 |
+| Portfolio R | 1.0 | -1.0 | 4.0 | 4.0 | 3.0 |
+
+* The cell for Portfolio Q, Year 1, is redacted with a gray box.
+
+**Layout and Structure:**
+
+The table has a simple structure. The title ""Annual Portfolio Returns (%)"" is centered above the table.  The rows represent different portfolios (P, Q, and R), and the columns represent the year (Year 1 through Year 5).  The values in the table represent the percentage return for each portfolio in each year.
+
+
+**Data Summary:**
+
+The table shows the annual returns for three different investment portfolios over a five-year period. The returns fluctuate from year to year and vary significantly between the different portfolios.  Some years show negative returns (indicated by a minus sign), while others show positive returns.  The data for Portfolio Q in Year 1 is not available (redacted).
+"
+question_3186,"The image presents a box plot depicting a data distribution.  It is oriented vertically, with the Y-axis running from 40 to 180 in increments of 20.
+
+The box plot itself is teal in color. Key values are marked with horizontal lines and labeled to the right of the plot:
+
+* **Upper Whisker:** Extends to 154.45
+* **Upper Quartile (Q3 or 75th percentile):** 114.25
+* **Median (50th percentile):** 100.49
+* **Lower Quartile (Q1 or 25th percentile):** 79.74
+* **Lower Whisker:** Extends to 51.51
+
+The ""box"" portion of the plot spans from the lower quartile (79.74) to the upper quartile (114.25). The thicker line within the box represents the median (100.49). The ""whiskers"" extend from the box to the minimum (51.51) and maximum (154.45) values within a calculated range based on the interquartile range (IQR).  There are no outliers indicated in this box plot.
+
+
+The layout consists of the box plot positioned centrally, with the y-axis to its left and the value labels to its right.  No other elements or text are present in the image. The image provides a visual summary of the distribution of an unspecified dataset, highlighting key statistical measures like median, quartiles, and range.
+"
+question_3188,"The image presents a simple table showing the purchase price of a security over four years.
+
+**Table Structure:**
+
+The table has two columns and four rows, plus a header row.
+
+* **Column 1:** Year (Year 1, Year 2, Year 3, Year 4)
+* **Column 2:** Purchase Price of Security (€)
+
+**Table Data:**
+
+| Year    | Purchase Price of Security (€) |
+|---------|------------------------------|
+| Year 1  | 62.00                         |
+| Year 2  | 76.00                         |
+| Year 3  | 84.00                         |
+| Year 4  | 90.00                         |
+
+**Data Summary:**
+
+The table shows a general upward trend in the purchase price of the security over the four-year period. The price increases each year.
+
+**Layout and Structure:**
+
+The table is simple and straightforward, with the title ""Purchase Price of Security (€)"" centered above the table.  The years are listed in the left column, and the corresponding prices are in the right column.  The data is presented clearly and is easy to read. There are no special notations, symbols, or formatting.
+"
+question_3190,"The image presents a table showing percentage values across ten years. The table has two columns and five rows, with years 1-5 in the first column and years 6-10 in the second.
+
+Here's the data in the table:
+
+| Year | Percentage |
+|---|---|
+| Year 1 | 15.25% |
+| Year 2 | 10.02% |
+| Year 3 | 20.65% |
+| Year 4 | 9.57% |
+| Year 5 | -40.33% |
+| Year 6 | 30.79% |
+| Year 7 | 12.34% |
+| Year 8 | -5.02% |
+| Year 9 | 16.54% |
+| Year 10 | 27.37% |
+
+
+There are no additional labels, symbols, or formatting details. The table simply presents the percentage values for each year. No specific insights or conclusions are provided within the image. The layout is a simple two-column table.
+"
+question_3191,"The image presents a simple table showing end-of-year deposits over a four-year period.
+
+**Table:**
+
+| Year | End of Year Deposits ($) |
+|---|---|
+| 1 | 4,000 |
+| 2 | 8,000 |
+| 3 | 7,000 |
+| 4 | 10,000 |
+
+**Columns:**
+
+* **Year:** Represents the year of the deposit.
+* **End of Year Deposits ($):** Represents the amount of money deposited at the end of each corresponding year, in US dollars.
+
+**Layout and Structure:**
+
+The table is straightforward, with two columns and five rows (including the header row).  Horizontal lines separate the header from the data and the table from any surrounding content. There are no additional labels, symbols, or formatting.
+
+**Data Summary:**
+
+The table shows a fluctuating deposit pattern over the four years. Deposits doubled from year 1 to year 2, decreased in year 3, and then increased again in year 4 to the highest amount. The total deposits over the four years sum up to $29,000.  No additional insights or conclusions are explicitly stated in the image.
+"
+question_3235,"The image presents a simple table comparing the mean return and standard deviation of stocks and bonds.
+
+**Table:**
+
+|                | Stocks | Bonds |
+|----------------|--------|-------|
+| Mean Return     | 10%    | 2%    |
+| Standard Deviation | 15%    | 5%    |
+
+**Data Summary:**
+
+The table shows that stocks have a higher mean return (10%) compared to bonds (2%). However, stocks also have a higher standard deviation (15%) than bonds (5%), indicating higher volatility or risk.
+
+**Layout and Structure:**
+
+The table has two columns: ""Stocks"" and ""Bonds"".  There are two rows of data, labeled ""Mean Return"" and ""Standard Deviation"". The table is enclosed by horizontal lines at the top, separating the headers, between each row, and at the bottom.  There is no additional text or other elements besides the table.
+"
+question_3408,"The image consists of a simple, vertical list of six items, each preceded by a filled black circle bullet point.  The items are:
+
+* High-quality liquid assets
+* Required amount of stable funding
+* Cash outflows over the next 30 days
+* Net cash outflows over the next 30 days
+* Available amount of stable funding
+* High-quality liquid assets in each major currency
+
+
+There are no tables, data, or symbols other than the bullet points.  The text is plain, without bolding, italics, or other special formatting. The list appears to outline key factors related to financial liquidity and funding requirements.  No specific insights or conclusions are provided.
+"
