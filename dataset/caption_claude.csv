@@ -1,12 +1,12 @@
-,0
-question_15,"The image contains a simple visual representation depicting a series of five identical values labeled as ""£230.97"". These values are arranged horizontally in a row, seemingly representing repeated or ongoing occurrences of the same amount.
+id,,0
+15,question_15,"The image contains a simple visual representation depicting a series of five identical values labeled as ""£230.97"". These values are arranged horizontally in a row, seemingly representing repeated or ongoing occurrences of the same amount.
 
 Underneath the row of £230.97 values, there is a single number ""£1,000"" with upward-pointing arrows connecting it to each of the £230.97 values above.
 
 The layout suggests a straightforward comparison or relationship between the recurring £230.97 amount and the baseline £1,000 value. However, the image does not provide any additional context, labels, or explanatory text to clarify the specific meaning or interpretation of this numerical data representation.
 
 Without further information, I can only objectively describe the visible elements present in the image - the values, their arrangement, and the visual connections implied by the arrows. I cannot make assumptions or provide analysis about the underlying data or its financial implications."
-question_17,"The image contains two tables titled ""Time-to-Maturity"" and ""Spot Rates"", respectively.
+17,question_17,"The image contains two tables titled ""Time-to-Maturity"" and ""Spot Rates"", respectively.
 
 Time-to-Maturity table:
 This table has a single column with three rows listing different time periods:
@@ -21,7 +21,7 @@ This table also has a single column with three rows showing corresponding values
 9.5%
 
 The layout is simple, with the two tables placed side-by-side on a single row. There is no additional text, labels, or symbols present besides the table titles and data values themselves."
-question_63,"The image contains a table with information about two bonds: a UK Government Benchmark Bond and a UK Corporate Bond. The table has four columns:
+63,question_63,"The image contains a table with information about two bonds: a UK Government Benchmark Bond and a UK Corporate Bond. The table has four columns:
 
 1. Bond: This column lists the names of the two bonds.
 2. Coupon Rate: This column shows the annual coupon rates for each bond, which are 2% for the UK Government Benchmark Bond and 5% for the UK Corporate Bond.
@@ -29,7 +29,7 @@ question_63,"The image contains a table with information about two bonds: a UK G
 4. Price: This column displays the current price of each bond, with the UK Government Benchmark Bond priced at 100.25 and the UK Corporate Bond priced at 100.65.
 
 The table is presented in a simple, tabular format with rows for each bond and columns for the different bond characteristics. There is no additional text, labels, or symbols beyond the column headers and the data values themselves."
-question_76,"The image contains two centered tables displaying financial data related to time-to-maturity and spot rates. There is no additional text or explanatory information provided.
+76,question_76,"The image contains two centered tables displaying financial data related to time-to-maturity and spot rates. There is no additional text or explanatory information provided.
 
 The table on the left is titled ""Time-to-Maturity"" and contains two rows with the following data:
 
@@ -42,7 +42,7 @@ The table on the right is titled ""Spot Rates"" and contains two corresponding r
 4%
 
 The layout presents the two tables side-by-side, clearly linking the time-to-maturity values with their associated spot rates. No further labels, symbols, or formatting details are included in the image beyond the simple tabular structure."
-question_79,"The image contains a table with three columns and three rows of data. The columns are labeled ""Floating Rate Note"", ""Quoted Margin"", and ""Discount Margin"".
+79,question_79,"The image contains a table with three columns and three rows of data. The columns are labeled ""Floating Rate Note"", ""Quoted Margin"", and ""Discount Margin"".
 
 In the ""Floating Rate Note"" column, the values are ""X"", ""Y"", and ""Z"".
 
@@ -51,7 +51,7 @@ In the ""Quoted Margin"" column, the corresponding values are ""0.40%"", ""0.45%
 In the ""Discount Margin"" column, the values are ""0.32%"", ""0.45%"", and ""0.72%"".
 
 There is no additional text, labels, or symbols present in the image besides the table and column headers. The layout is a simple table with three columns and three rows of data."
-question_88,"The image contains a table with two columns: ""Bond Class"" and ""Par Value (€ millions)"". The table provides information about different bond classes and their corresponding par values.
+88,question_88,"The image contains a table with two columns: ""Bond Class"" and ""Par Value (€ millions)"". The table provides information about different bond classes and their corresponding par values.
 
 The first row shows the ""A (senior)"" bond class with a par value of €200 million.
 
@@ -60,7 +60,7 @@ The second row shows the ""B (subordinated)"" bond class with a par value of €
 The third row shows the ""C (subordinated)"" bond class with a par value of €5 million.
 
 The table does not include any additional text, labels, or symbols beyond the column headers and row values. The layout is simple, with the table presented in a clean and organized format against a plain background."
-question_125,"The provided image contains a table with information about different bonds. The table has six columns with the following headers:
+125,question_125,"The provided image contains a table with information about different bonds. The table has six columns with the following headers:
 
 Bond, Maturity, Market Value, Price, Coupon, Yield-to-Maturity, and Modified Duration.
 
@@ -94,7 +94,7 @@ Yield-to-Maturity: 5.00%
 Modified Duration: 10.38
 
 The table does not contain any additional text, labels, or symbols beyond the data presented in the rows and columns. The layout is a simple tabular structure with the headers at the top and the three bond entries listed below."
-question_128,"The image contains two columns. The left column is titled ""Interest Rate Assumption"" and lists three different interest rate values: 6%, 7%, and 8%.
+128,question_128,"The image contains two columns. The left column is titled ""Interest Rate Assumption"" and lists three different interest rate values: 6%, 7%, and 8%.
 
 The right column is titled ""Present Value of Liabilities"" and displays three corresponding present value amounts in Canadian dollars (CAD) for each interest rate assumption:
 
@@ -105,7 +105,7 @@ When the interest rate is assumed to be 8%, the present value of liabilities is 
 The data is presented in a simple tabular format with two columns and three rows, excluding the header row. There are no additional labels, symbols, or formatting details beyond the column titles and numerical values.
 
 The layout is straightforward, with the two columns neatly aligned and the information clearly organized. No additional text, instructions, or summary insights are provided in the image."
-question_300,"The image appears to be a simple graph or chart without any text, tables, or numerical data. The graph depicts a curved line plotted over two labeled axes: ""Expected exposure"" on the vertical axis and ""Time"" on the horizontal axis.
+300,question_300,"The image appears to be a simple graph or chart without any text, tables, or numerical data. The graph depicts a curved line plotted over two labeled axes: ""Expected exposure"" on the vertical axis and ""Time"" on the horizontal axis.
 
 The line on the graph starts at a low point on the left, rises sharply upward in an arcing curve, reaching a peak near the center, and then descends in another arcing curve towards the right side of the graph. The descending curve ends with a question mark, suggesting uncertainty about the future trajectory.
 
@@ -114,7 +114,7 @@ The overall shape of the line resembles a bell curve or normal distribution patt
 The graph does not provide any specific numerical values or data points, but its visual representation suggests a pattern or trend that could potentially represent various real-world phenomena, such as the lifecycle of a product, the progression of a disease, or the adoption of a technology over time.
 
 Without additional context or explanatory information, the graph's meaning and the exact variable being represented remain ambiguous."
-question_736,"The image displays a scatter plot showing the relationship between a Portfolio's (P) excess monthly returns and a Benchmark's (M) excess return. The plot does not contain any visible text or introductory information.
+736,question_736,"The image displays a scatter plot showing the relationship between a Portfolio's (P) excess monthly returns and a Benchmark's (M) excess return. The plot does not contain any visible text or introductory information.
 
 The horizontal axis represents the Benchmark's excess return, ranging from -4.00% to 8.00%. The vertical axis represents the Portfolio's excess return, but no scale or values are provided.
 
@@ -125,7 +125,7 @@ The equation for the regression line is provided below the plot: P = 1.5231*M + 
 Additionally, the R-squared value (R² = 0.6804) is given, indicating that approximately 68.04% of the variation in the Portfolio's excess returns can be explained by the Benchmark's excess returns using this linear model.
 
 The layout is simple, with the scatter plot and regression line taking up most of the space, accompanied by the title at the top, the axes labels, and the regression equation and R-squared value at the bottom."
-question_738,"The provided image displays a mathematical formula or equation. There is no introductory text, tables, or additional labels present. The equation appears to be written using various symbols and variables.
+738,question_738,"The provided image displays a mathematical formula or equation. There is no introductory text, tables, or additional labels present. The equation appears to be written using various symbols and variables.
 
 The equation is:
 
@@ -141,7 +141,7 @@ E(SMB) and E(HML) seem to be expected premiums for size (SMB) and value (HML) fa
 The equation appears to be modeling the expected return as a linear combination of a risk-free rate, market risk premium, and premiums related to size and value factors, weighted by their respective coefficients or betas.
 
 Without additional context, it's difficult to provide more specific insights into the equation's purpose or the financial concepts it represents. However, the layout presents the complete equation clearly, with variables and terms neatly organized."
-question_740,"The image presents a table containing performance metrics for four different funds (Fund A, Fund B, Fund C, and Fund D) compared to a Market Index. The table is structured with rows representing different metrics and columns for each fund and the Market Index.
+740,question_740,"The image presents a table containing performance metrics for four different funds (Fund A, Fund B, Fund C, and Fund D) compared to a Market Index. The table is structured with rows representing different metrics and columns for each fund and the Market Index.
 
 Text and Instructions: There is no visible text providing instructions or introductory information beyond the table headers.
 
@@ -158,7 +158,7 @@ Labels and Symbols: There are no additional labels or symbols beyond the column 
 Data Summary: The table presents the returns, betas, and standard deviations for the four funds and the Market Index. Fund D has the highest return at 10.12% but also the highest beta at 1.34, indicating higher risk. Fund C has the second-highest return at 9.44% and a beta of 1.02, close to the Market Index beta of 1.00.
 
 Layout and Structure: The table is presented in a simple grid format, with rows for each metric and columns for the funds and Market Index. The text is formatted consistently, with no additional formatting or emphasis."
-question_761,"The image contains a table with four columns and five rows. The columns are labeled ""Fund"", ""Annual Rate of Return"", ""Beta"", and ""Volatility"".
+761,question_761,"The image contains a table with four columns and five rows. The columns are labeled ""Fund"", ""Annual Rate of Return"", ""Beta"", and ""Volatility"".
 
 The first column lists the fund names: ABC, RST, JKL, and XYZ.
 
@@ -181,7 +181,7 @@ JKL: 15%
 XYZ: 9%
 
 The table is presented in a structured grid format, with each cell containing a single data point. There are no additional labels or symbols beyond the column headers and cell values."
-question_775,"The image contains a mathematical equation or formula written using mathematical symbols and subscripts. The equation appears to be:
+775,question_775,"The image contains a mathematical equation or formula written using mathematical symbols and subscripts. The equation appears to be:
 
 r_{t+1} = α_t + β_{SPY,t} SPY_{t+1} + β_{SPY,t} SPY_{t+1} + β_{SPYG,t} SPYG_{t+1} + ε_{t+1}
 
@@ -195,7 +195,7 @@ The subscripts t and t+1 denote the current and next time periods, respectively
 This appears to be a linear regression model equation, where the variable r at the next time step is expressed as a linear combination of the current values of α, SPY, SPY, and SPYG, each multiplied by their respective coefficients β, plus an error term ε.
 
 The equation does not provide any additional context or description about what the variables represent or what kind of data/system it is modeling. However, it suggests a quantitative analysis or prediction model involving multiple factors or data streams."
-question_1412,"The provided image is a graph that illustrates the relationship between the nominal interest rate and the quantity of money. The x-axis is labeled ""Quantity of money"" with points marked as M1, M0, and M2, where M0 is in the middle. The y-axis is labeled ""Nominal rate of interest"" without any numerical values.
+1412,question_1412,"The provided image is a graph that illustrates the relationship between the nominal interest rate and the quantity of money. The x-axis is labeled ""Quantity of money"" with points marked as M1, M0, and M2, where M0 is in the middle. The y-axis is labeled ""Nominal rate of interest"" without any numerical values.
 
 The graph depicts a downward-sloping curve, indicating an inverse relationship between the nominal interest rate and the quantity of money. Three points on the curve are labeled: Ic, I0, and Is.
 
@@ -204,7 +204,7 @@ At the point labeled Is, the curve has its highest nominal interest rate, corres
 The graph does not contain any text or instructions, tables, or numerical data. It is a basic visual representation of the relationship between the nominal interest rate and the quantity of money, with no additional labels, symbols, or formatting details beyond what is described above.
 
 The layout is a simple x-y coordinate plane with the curve plotted and key points labeled. The overall structure conveys the general concept of the inverse relationship between the nominal interest rate and the quantity of money, without providing specific numerical values or quantitative details."
-question_1959,"The image depicts a simple diagram illustrating the initiation of a repo (repurchase agreement) trade between two counterparties, Counterparty A and Counterparty B.
+1959,question_1959,"The image depicts a simple diagram illustrating the initiation of a repo (repurchase agreement) trade between two counterparties, Counterparty A and Counterparty B.
 
 Text and Instructions: The title at the top reads ""Initiation of Repo Trade"".
 
@@ -218,7 +218,7 @@ The arrows indicate the following exchanges:
 2. An arrow pointing from Counterparty B to Counterparty A is labeled ""Cash"", indicating that cash is transferred from Counterparty B to Counterparty A.
 
 The diagram does not provide any additional text, tables, data, labels, or symbols beyond the elements described above. It is a simple visual representation of the initiation phase of a repo trade, where one counterparty provides securities in exchange for cash from the other counterparty."
-question_1973,"The image displays a simple balance sheet for what appears to be a financial institution or company. The layout is divided into two main sections: Assets on the left, and Liabilities on the right.
+1973,question_1973,"The image displays a simple balance sheet for what appears to be a financial institution or company. The layout is divided into two main sections: Assets on the left, and Liabilities on the right.
 
 Text and Instructions: There is no introductory or explanatory text provided.
 
@@ -240,7 +240,7 @@ Labels and Symbols: There are no additional labels or symbols used beyond the it
 Data Summary: The image does not provide any explicit insights or conclusions. However, based on the balance sheet data, we can infer that the total assets ($100.0) equal the total liabilities plus equity ($100.0), adhering to the fundamental accounting equation: Assets = Liabilities + Equity.
 
 Layout and Structure: The image has a minimalistic layout with the ""Assets"" and ""Liabilities"" sections clearly separated and labeled at the top. Each line item is listed vertically under the respective section, with the corresponding dollar values aligned to the right."
-question_2119,"The provided image contains a table titled ""Regulatory Capital"" with two columns: one listing various capital components and elements, and the other displaying the corresponding values in USD millions.
+2119,question_2119,"The provided image contains a table titled ""Regulatory Capital"" with two columns: one listing various capital components and elements, and the other displaying the corresponding values in USD millions.
 
 Text and Instructions: There is no additional text or instructions beyond the table title.
 
@@ -266,7 +266,7 @@ Labels and Symbols: The table does not contain any additional labels or symbols 
 Data Summary: The table presents the breakdown of various regulatory capital components, including Common Equity Tier 1 Capital, Additional Tier 1 Capital, Tier 2 Capital, and their respective adjustments. The Total Capital and Total Average Exposure are also provided.
 
 Layout and Structure: The image has a simple layout, displaying a single table with two columns and ten rows. The table is well-organized, with capital components listed in the left column and their corresponding values in USD millions shown in the right column."
-question_2136,"The provided image contains two sections, labeled ""Bank A"" and ""Bank B"", showing the composition of sovereign debt holdings for each bank. There is no additional text or explanatory information present.
+2136,question_2136,"The provided image contains two sections, labeled ""Bank A"" and ""Bank B"", showing the composition of sovereign debt holdings for each bank. There is no additional text or explanatory information present.
 
 Bank A:
 - 25% of the sovereign debt holdings are from OECD (Organisation for Economic Co-operation and Development) countries.
@@ -279,7 +279,7 @@ Bank B:
 The image does not contain any tables, labels, symbols, or formatting details beyond the percentages mentioned above. It solely presents the breakdown of sovereign debt holdings between OECD and non-OECD countries for two different banks (Bank A and Bank B).
 
 The layout is simple, with the information for each bank presented side by side on a single line. There are no additional insights, conclusions, or recommendations provided within the image."
-question_2143,"The provided image contains the following text and data elements:
+2143,question_2143,"The provided image contains the following text and data elements:
 
 Text and Instructions:
 The text at the top reads ""VaR (95%, 1-day) of last trading day"" and ""USD 40,000"".
@@ -297,7 +297,7 @@ The image appears to provide two key financial risk metrics related to Value at 
 
 Layout and Structure:
 The image has a simple layout with the text and data presented in a vertically arranged format. There are no additional visual elements, tables, or graphics."
-question_2238,"The image displays a graph titled ""Portfolio Possibilities Curve: Stocks and Bonds"". The graph plots the expected return E(Rp) on the vertical axis against the portfolio risk represented by σp on the horizontal axis.
+2238,question_2238,"The image displays a graph titled ""Portfolio Possibilities Curve: Stocks and Bonds"". The graph plots the expected return E(Rp) on the vertical axis against the portfolio risk represented by σp on the horizontal axis.
 
 Text and Instructions: The title at the top reads ""Portfolio Possibilities Curve: Stocks and Bonds"".
 
@@ -310,7 +310,7 @@ Data Summary: The curved line represents the set of possible portfolio combinati
 Layout and Structure: The image displays a single graph with labeled axes and a curved line plotted with four labeled points. There is no other text or additional elements present in the image.
 
 The graph illustrates the efficient frontier concept in modern portfolio theory, showing the risk-return trade-off for portfolios constructed from stocks and bonds. By adjusting the allocation between these two asset classes, investors can achieve different combinations of expected return and risk along the curved line."
-question_2264,"The provided image appears to be a graph or diagram without any text or tables. However, it contains various labeled points and curves that seem to represent some mathematical or scientific concept. Here is a detailed description of the image:
+2264,question_2264,"The provided image appears to be a graph or diagram without any text or tables. However, it contains various labeled points and curves that seem to represent some mathematical or scientific concept. Here is a detailed description of the image:
 
 The image consists of an X-Y coordinate plane with the x-axis labeled as ""σ"" (the Greek letter sigma) and the y-axis labeled as ""μ"" (the Greek letter mu).
 
@@ -331,7 +331,7 @@ Another straight line passes through point X, labeled ""X"" with a subscript ""�
 The image does not contain any text, tables, or additional symbols beyond the labeled points and lines described above.
 
 The layout and structure suggest that this image is likely a conceptual or mathematical diagram, potentially representing some kind of relationship or function involving the labeled points and curves. However, without further context or explanation, it is difficult to ascertain the specific meaning or interpretation of the diagram."
-question_2269,"The image displays a scatter plot showing the relationship between a portfolio's excess monthly returns (P) and a benchmark's excess returns (M). The chart is titled ""Portfolio (P) excess monthly returns regressed against benchmark (M) excess returns.""
+2269,question_2269,"The image displays a scatter plot showing the relationship between a portfolio's excess monthly returns (P) and a benchmark's excess returns (M). The chart is titled ""Portfolio (P) excess monthly returns regressed against benchmark (M) excess returns.""
 
 Text and Instructions: There is no additional text or instructions provided beyond the title.
 
@@ -342,7 +342,7 @@ Labels and Symbols: The chart includes a regression line equation: ""y = 0.8195x
 Data Summary: The chart does not explicitly state any key insights or conclusions, but the linear relationship between the portfolio's and benchmark's excess returns can be observed from the data points and the regression line. The positive slope of the regression line suggests that the portfolio's excess returns tend to increase as the benchmark's excess returns increase.
 
 Layout and Structure: The chart is a standard scatter plot with labeled axes and a regression line equation. The data points are colored blue and green, but there is no legend or explanation provided for the color coding. The chart occupies the central portion of the image, with the title positioned at the top."
-question_2298,"The provided image contains a table with 4 rows (including the header row) and 5 columns. The columns are labeled as ""Fund"", ""Expected Return"", ""Volatility"", ""Residual Risk"", and ""Information Ratio"".
+2298,question_2298,"The provided image contains a table with 4 rows (including the header row) and 5 columns. The columns are labeled as ""Fund"", ""Expected Return"", ""Volatility"", ""Residual Risk"", and ""Information Ratio"".
 
 The first row contains the column headers.
 
@@ -368,8 +368,8 @@ Residual Risk: 1.8%
 The table uses special notation with superscript dots (·) to indicate missing values in some of the cells.
 
 The layout of the image is simple, with a single table occupying the majority of the space. There is no additional text, labels, or symbols beyond the table itself."
-question_2375,"The provided image does not contain any text, tables, data, labels, or symbols. It is a very simple line drawing that appears to depict a 90-degree angle or corner shape. The image consists of two straight line segments meeting at a perpendicular angle, forming the appearance of a basic geometric corner or angle shape against a blank white background. There are no other visual elements or content present in this minimalistic image."
-question_2392,"The image displays a scatter plot with a linear regression line showing the relationship between a portfolio manager's working experience (in years, on the x-axis) and their portfolio return (percentage, on the y-axis).
+2375,question_2375,"The provided image does not contain any text, tables, data, labels, or symbols. It is a very simple line drawing that appears to depict a 90-degree angle or corner shape. The image consists of two straight line segments meeting at a perpendicular angle, forming the appearance of a basic geometric corner or angle shape against a blank white background. There are no other visual elements or content present in this minimalistic image."
+2392,question_2392,"The image displays a scatter plot with a linear regression line showing the relationship between a portfolio manager's working experience (in years, on the x-axis) and their portfolio return (percentage, on the y-axis).
 
 The data points are represented by blue dots scattered around the regression line. The regression line equation is displayed as: Y = 2.7127x + 5.8222, with an R-squared value of 0.8324, indicating a relatively strong positive correlation between the two variables.
 
@@ -378,7 +378,7 @@ The x-axis is labeled ""Portfolio Manager's Working Experience (Years)"" and ran
 There is no additional text or explanatory information provided in the image besides the axis labels and the regression line equation with the R-squared value.
 
 The layout is a simple scatter plot with a regression line, axes labels, and the equation displayed neatly within the plot area. There are no additional symbols, labels, or formatting details present in the image."
-question_2406,"The provided image contains four histograms or bar charts, each displaying the distribution of data points along the horizontal axis. The charts are labeled as ""BDEVL"", ""BNZLL"", ""HL"", and ""HLMAL"" in the top-left corner of each subplot.
+2406,question_2406,"The provided image contains four histograms or bar charts, each displaying the distribution of data points along the horizontal axis. The charts are labeled as ""BDEVL"", ""BNZLL"", ""HL"", and ""HLMAL"" in the top-left corner of each subplot.
 
 There is no textual introduction or explanatory information provided.
 
@@ -397,7 +397,7 @@ No key insights, conclusions, or financial metrics are stated explicitly in the 
 The layout consists of four subplots arranged in a 2x2 grid, with each subplot containing a histogram or bar chart. The subplots are evenly spaced and aligned, giving the image a clean and organized appearance.
 
 Overall, the image presents four histograms or distributions of data points without providing context or explanatory information about the variables being plotted or the source of the data."
-question_2433,"The image contains a diagram illustrating the growth of an investment or savings amount over a period of 3 years, including the present day (""Today""), 1 year from now (""1 year""), and 2 years from now (""2 years"").
+2433,question_2433,"The image contains a diagram illustrating the growth of an investment or savings amount over a period of 3 years, including the present day (""Today""), 1 year from now (""1 year""), and 2 years from now (""2 years"").
 
 The diagram is structured as a flowchart, with rectangular boxes representing the investment amount at different time periods, and percentages indicating the annual growth rate between those periods.
 
@@ -431,7 +431,7 @@ The image appears to be demonstrating the growth of an initial investment of $7 
 
 Layout and Structure:
 The image is structured as a horizontal flowchart, with the initial investment amount on the left, followed by the growth rates and final amounts arranged in a chronological sequence from left to right."
-question_2449,"The provided image does not contain any text, tables, or data. It is a simple diagram consisting of lines and percentages arranged in a parallelogram shape.
+2449,question_2449,"The provided image does not contain any text, tables, or data. It is a simple diagram consisting of lines and percentages arranged in a parallelogram shape.
 
 The diagram appears to depict a distribution or representation of percentages, with the following values displayed:
 
@@ -447,7 +447,7 @@ The diagram appears to depict a distribution or representation of percentages, w
 The layout is a parallelogram or diamond shape, with the percentage values placed at the vertices and along the sides. The values appear to be related or add up in some way, but without additional context, it is difficult to determine the precise meaning or purpose of this diagram.
 
 There are no other labels, symbols, or formatting details present beyond the percentage values themselves. The image is a simple, minimalist diagram without any accompanying text or explanations."
-question_3022,"The image displays an illustration titled ""Model 1: Normally Distributed Rates, Zero Drift"". It depicts a model or scenario with interest rates or some form of rates over two time periods, Month 1 and Month 2.
+3022,question_3022,"The image displays an illustration titled ""Model 1: Normally Distributed Rates, Zero Drift"". It depicts a model or scenario with interest rates or some form of rates over two time periods, Month 1 and Month 2.
 
 Text and Instructions:
 The equation ""dr = σdw"" is shown, which likely represents the rate dynamics or stochastic process governing the rate changes.
@@ -473,7 +473,7 @@ The image does not provide any explicit insights or conclusions. However, it app
 
 Layout and Structure:
 The image has a simple layout with the title at the top, followed by the equation. The main content is the diagram displaying the rates for Month 1 and Month 2, arranged horizontally. The rates are connected with arrows, indicating their relationships or transitions between the two time periods."
-question_3023,"The image depicts the Ho-Lee model for time-dependent drift, represented by the equation dr = λtdt + σdω.
+3023,question_3023,"The image depicts the Ho-Lee model for time-dependent drift, represented by the equation dr = λtdt + σdω.
 
 Text and Instructions:
 The title at the top reads ""Ho-Lee Model: Time-Dependent Drift"".
@@ -499,7 +499,7 @@ The image illustrates the concept of time-dependent drift in the Ho-Lee model, w
 
 Layout and Structure:
 The image is structured vertically, with the title at the top, followed by the equation, and then the visual representation of the drift rates for two months. The arrows and percentage values are arranged in a diverging pattern, with the initial value (R0 = 4%) in the center."
-question_3024,"The image presents ""Model 2: Normally Distributed Rates but Incorporating Annual Drift"" and displays an equation and a visual representation of the model over two months.
+3024,question_3024,"The image presents ""Model 2: Normally Distributed Rates but Incorporating Annual Drift"" and displays an equation and a visual representation of the model over two months.
 
 Text and Instructions:
 The equation ""dr = λdt + σdw"" is shown, where dr represents the rate, λ represents the drift parameter, dt represents the time increment, σ represents the volatility parameter, and dw represents the Wiener process.
@@ -525,7 +525,7 @@ The image illustrates the concept of ""Normally Distributed Rates but Incorporat
 
 Layout and Structure:
 The image has a simple layout with the title ""Model 2: Normally Distributed Rates but Incorporating Annual Drift"" at the top, followed by the equation. The visual representation of the model is displayed below, with arrows and percentages arranged horizontally for Month 1 and Month 2. The layout effectively communicates the concept of rate changes over time, with higher and lower values compared to the starting point."
-question_3032,"The provided image appears to be a diagram or visual representation without any textual information or tables. The diagram consists of several angled lines or arrows with percentage values annotated along each line segment.
+3032,question_3032,"The provided image appears to be a diagram or visual representation without any textual information or tables. The diagram consists of several angled lines or arrows with percentage values annotated along each line segment.
 
 The layout is structured in a triangular or pyramidal shape, with percentages radiating outward from a central point. At the top vertex, the percentage value of 8% is shown, which branches down into two lines with values of 50% each.
 
@@ -536,7 +536,7 @@ The bottom level of the pyramid consists of three line segments, with values of 
 The diagram does not contain any additional labels, symbols, or formatting details beyond the percentage values annotated along the line segments.
 
 Without any accompanying text or explanation, it is difficult to infer the specific meaning or context behind this percentage-based pyramid structure. However, the layout suggests a hierarchical or branching representation, potentially depicting probabilities, distribution, or some form of decision-making process."
-question_3044,"The image depicts a diagram titled ""Vasicek Model (Mean-Reverting Drift)"". It illustrates the concept of mean reversion in interest rates using arrows and percentage values across two time periods, Month 1 and Month 2.
+3044,question_3044,"The image depicts a diagram titled ""Vasicek Model (Mean-Reverting Drift)"". It illustrates the concept of mean reversion in interest rates using arrows and percentage values across two time periods, Month 1 and Month 2.
 
 Text and Instructions: There is no additional text or instructions provided beyond the title of the diagram.
 
@@ -553,7 +553,7 @@ Labels and Symbols:
 Data Summary: The diagram illustrates the concept of mean reversion in interest rates using the Vasicek model. It shows that if the initial interest rate is 8%, it can either move upward to 8.3274% or downward to 7.1726% in Month 1. In Month 2, the interest rate can continue in the same direction (upward or downward) or revert towards the mean, represented by the arrows pointing to R_uu, R_ud, and R_dd.
 
 Layout and Structure: The diagram is structured with the title at the top, followed by two columns labeled ""Month 1"" and ""Month 2"". The arrows and percentage values are placed within these columns, illustrating the potential movements of interest rates over the two time periods. The labels for the interest rate scenarios (R_uu, R_ud, and R_dd) are positioned at the end of the corresponding arrows in Month 2."
-question_3108,"The image displays a simple graph with two axes - an implied volatility axis on the vertical direction and a value of 30 on the horizontal axis.
+3108,question_3108,"The image displays a simple graph with two axes - an implied volatility axis on the vertical direction and a value of 30 on the horizontal axis.
 
 The implied volatility curve is represented by a downward sloping line that starts high on the vertical axis and gradually decreases towards the right side of the graph, crossing the horizontal axis at the value 30.
 
@@ -562,7 +562,7 @@ After the point where the curve intersects the horizontal axis at 30, there is a
 The overall shape of the graph resembles a volatility smile or smirk pattern, commonly seen in options pricing models, where implied volatility varies based on the strike price or moneyness of the options.
 
 However, there is no additional text, data tables, or explicit labels provided in the image to further explain the specific context or meaning behind the displayed curve and values."
-question_3120,"The image contains a table with three columns: ""Asset Class"", ""Asset Allocation (%)"", and ""Asset Class Return (%)"". There is no introductory text or explanatory information provided.
+3120,question_3120,"The image contains a table with three columns: ""Asset Class"", ""Asset Allocation (%)"", and ""Asset Class Return (%)"". There is no introductory text or explanatory information provided.
 
 The table has four rows of data:
 
@@ -576,7 +576,7 @@ The ""Asset Allocation (%)"" column shows the percentage allocated to each asset
 There are no additional labels, symbols, or formatting details beyond the table structure and column headers.
 
 The layout is a simple table with three columns and four rows of data, presented in a structured format."
-question_3121,"The image displays a table titled ""Portfolio's Deviations from Benchmark Return, 2003-2014 (%)"". The table has two columns, with the left column listing years from ""Year 1"" to ""Year 12"", and the right column showing corresponding numerical values, presumably representing the portfolio's deviation from the benchmark return for each year, expressed as percentages.
+3121,question_3121,"The image displays a table titled ""Portfolio's Deviations from Benchmark Return, 2003-2014 (%)"". The table has two columns, with the left column listing years from ""Year 1"" to ""Year 12"", and the right column showing corresponding numerical values, presumably representing the portfolio's deviation from the benchmark return for each year, expressed as percentages.
 
 The data is organized as follows:
 
@@ -596,7 +596,7 @@ Year 12: 4.72%
 The table does not provide any additional labels, symbols, or formatting details beyond the year labels and percentage values. The layout is simple, with the title at the top, followed by the two-column table displaying the year labels and corresponding deviation values.
 
 No specific key insights or conclusions are stated in the image itself, as it only presents the raw data without any accompanying analysis or commentary."
-question_3152,"The provided image appears to be a bar graph depicting some numerical data. There is no text or introductory information visible, so I will focus on describing the graphical elements.
+3152,question_3152,"The provided image appears to be a bar graph depicting some numerical data. There is no text or introductory information visible, so I will focus on describing the graphical elements.
 
 The graph has a vertical axis ranging from 0 to 180, with increments of 20. The horizontal axis is not labeled, but it appears to represent different categories or data points.
 
@@ -616,7 +616,7 @@ Without any textual context or explanations, it is difficult to summarize key in
 The layout of the image is simple, with the bar graph taking up the majority of the space. There is no other text or additional elements present.
 
 Overall, the image presents a bar graph with four bars and a horizontal line, displaying numerical values without any accompanying labels or explanations."
-question_3153,"The provided image appears to be a simple line scale or number line. There is no introductory text or explanatory information visible.
+3153,question_3153,"The provided image appears to be a simple line scale or number line. There is no introductory text or explanatory information visible.
 
 The line scale runs from 0 to 20, with evenly spaced markings representing the integer values in between.
 
@@ -627,7 +627,7 @@ There are no tables, columns, rows, labels (other than the ""PV₄"" label), or 
 The image does not provide any additional insights, conclusions, or financial metrics beyond representing what seems to be a present value (PV) of $50,000 at year 4 on the number line scale.
 
 The layout is very simple, with just the number line spanning from left to right, and the ""PV₄ $50,000"" label placed at the far right end of the scale."
-question_3163,"The image appears to be a graph or histogram displaying frequency data related to return intervals or percentages. Here is a detailed description of the contents:
+3163,question_3163,"The image appears to be a graph or histogram displaying frequency data related to return intervals or percentages. Here is a detailed description of the contents:
 
 Text and Instructions: There is no introductory text or explanatory information provided. The x-axis is labeled ""Return Interval Midpoint (%)"", and the y-axis is labeled ""Frequency"".
 
@@ -640,7 +640,7 @@ Data Summary: The histogram shows a distribution or spread of frequencies across
 Layout and Structure: The image has a simple layout with a single histogram or bar chart occupying the central area. The x-axis is displayed horizontally at the bottom, and the y-axis is displayed vertically on the left side. The bars are rendered in a green color, with heights representing the frequencies for each return interval midpoint.
 
 Overall, the image presents a visual representation of frequency data associated with different return interval midpoints, likely related to some financial or investment analysis, but no additional context or interpretation is provided within the image itself."
-question_3178,"The image displays a table with two columns: ""Return Interval (%)"" and ""Absolute Frequency"". The table contains the following data:
+3178,question_3178,"The image displays a table with two columns: ""Return Interval (%)"" and ""Absolute Frequency"". The table contains the following data:
 
 Return Interval (%):
 -10.0 to -7.0
@@ -663,7 +663,7 @@ The ""Return Interval (%)"" column lists ranges of percentage values, while the 
 The table is structured with the return intervals listed in the left column and the absolute frequencies aligned in the right column. No additional text, labels, or symbols are present in the image.
 
 The layout is simple, with the table taking up the entire image space. No other elements or visual aids are included."
-question_3181,"The image displays a table titled ""Annual Portfolio Returns (%)"". The table has four rows (including the header row) and six columns.
+3181,question_3181,"The image displays a table titled ""Annual Portfolio Returns (%)"". The table has four rows (including the header row) and six columns.
 
 Text and Instructions: There is no additional text or instructions provided beyond the table title.
 
@@ -681,7 +681,7 @@ Labels and Symbols: There are no additional labels or symbols beyond the table h
 Data Summary: The table presents annual portfolio returns (in percentages) for three different portfolios (P, Q, and R) over a period of five years. No further insights or conclusions are provided.
 
 Layout and Structure: The image consists solely of the table, with the title centered at the top and the rows of data following below. There are no other visual elements or formatting details."
-question_3186,"The image depicts a bar graph without any explanatory text or labels. The y-axis on the left side ranges from 0 to 180, but no units are provided. There are four bars/columns in the graph.
+3186,question_3186,"The image depicts a bar graph without any explanatory text or labels. The y-axis on the left side ranges from 0 to 180, but no units are provided. There are four bars/columns in the graph.
 
 The first bar from the left is green and extends to a value of 114.25.
 The second bar from the left is also green and lower, extending to 100.49.
@@ -689,7 +689,7 @@ The third bar from the left is shorter, extending to 79.74, and appears to be a 
 The fourth and final bar on the right is the tallest, reaching 154.45.
 
 No other text, symbols, or formatting details are present in the image beyond the simple bar graph structure. The image does not provide any context or explanations for the values represented by the bars."
-question_3188,"The image contains a table titled ""Purchase Price of Security (€)"". The table has two columns, but no explicit headers are provided. The left column lists ""Year 1"" through ""Year 4"", while the right column displays corresponding numerical values, presumably representing the purchase price of a security in euros for each year.
+3188,question_3188,"The image contains a table titled ""Purchase Price of Security (€)"". The table has two columns, but no explicit headers are provided. The left column lists ""Year 1"" through ""Year 4"", while the right column displays corresponding numerical values, presumably representing the purchase price of a security in euros for each year.
 
 The data is structured as follows:
 
@@ -701,7 +701,7 @@ Year 4: 90.00
 The table is presented in a simple format, with the years listed vertically in the left column and the associated purchase prices aligned in the right column. No additional text, labels, or symbols are included in the image besides the table title and the content within the table cells.
 
 The layout is straightforward, consisting of a single table with four rows of data. There are no other visual elements or supplementary information provided in the image."
-question_3190,"The provided image displays a table containing percentage values across 10 years or periods. There are no text instructions, labels, or additional symbols present. The table has two columns, with the left column listing ""Year 1"" through ""Year 10"" and the right column displaying the corresponding percentage values.
+3190,question_3190,"The provided image displays a table containing percentage values across 10 years or periods. There are no text instructions, labels, or additional symbols present. The table has two columns, with the left column listing ""Year 1"" through ""Year 10"" and the right column displaying the corresponding percentage values.
 
 The data is organized as follows:
 
@@ -719,7 +719,7 @@ Year 10: 27.37%
 The layout is a simple two-column table with the years listed on the left and the corresponding percentage values on the right.
 
 No additional text, summary, or conclusions are provided within the image itself. The data appears to represent some kind of yearly metric or performance measure, but without further context, it is difficult to determine the exact meaning or interpret any potential insights."
-question_3191,"The provided image displays a table titled ""End of Year Deposits ($)"". The table has two columns: ""Year"" and the corresponding dollar values for ""End of Year Deposits ($)"".
+3191,question_3191,"The provided image displays a table titled ""End of Year Deposits ($)"". The table has two columns: ""Year"" and the corresponding dollar values for ""End of Year Deposits ($)"".
 
 The table contains the following data:
 
@@ -732,14 +732,14 @@ Year | End of Year Deposits ($)
 The ""Year"" column lists the years sequentially from 1 to 4, without any additional text or labels. The ""End of Year Deposits ($)"" column presents the dollar amounts for each corresponding year, formatted with commas separating thousands.
 
 The layout is simple, with the table headers at the top and the data rows listed below in a clean, structured format. There is no additional text, symbols, or formatting beyond the table itself within the provided image."
-question_3235,"The image contains a simple table with two columns: ""Stocks"" and ""Bonds"". There are two rows in the table.
+3235,question_3235,"The image contains a simple table with two columns: ""Stocks"" and ""Bonds"". There are two rows in the table.
 
 The first row displays ""Mean Return"" with values of 10% for Stocks and 2% for Bonds.
 
 The second row shows ""Standard Deviation"" with values of 15% for Stocks and 5% for Bonds.
 
 There is no additional text, labels, or symbols present in the image besides the table headers and values. The layout is straightforward, with the table positioned centrally."
-question_3408,"The image displays a bulleted list with seven items related to liquidity and funding requirements. The items are:
+3408,question_3408,"The image displays a bulleted list with seven items related to liquidity and funding requirements. The items are:
 
 1. High-quality liquid assets
 2. Required amount of stable funding  
