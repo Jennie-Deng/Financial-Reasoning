@@ -1,5 +1,23 @@
 [
     {
+        "ID": 9999,
+        "Model Answer": "C",
+        "Model Reasoning": NaN,
+        "Feedback": "text",
+        "shared_description": "text",
+        "description": "text",
+        "Share Context": NaN,
+        "Share Image": NaN,
+        "Question Text": NaN,
+        "Image": NaN,
+        "Options": NaN,
+        "Answer": NaN,
+        "Explanation": NaN,
+        "General Topics": NaN,
+        "QA Type": NaN,
+        "Level of Difficulty": NaN
+    },
+    {
         "ID": 4,
         "Model Answer": "A",
         "Model Reasoning": "Let's solve this step by step:\n\n1) Looking at Exhibit 1, we need to analyze Country Z's predicted economic conditions:\n   * Country Z is a developing market\n   * The exhibit shows Country Z is in a Recovery phase\n\n2) During a recovery phase, typically:\n   * Economic growth begins to pick up\n   * Business confidence improves\n   * Investment opportunities increase\n   * Asset prices start to rise\n\n3) In recovery phases:\n   * Investors tend to seek higher returns\n   * Risk appetite increases\n   * Cyclical assets (like commodities, industrial stocks) become more attractive\n   * Monetary policy is usually still accommodative\n\n4) The options provided:\n   * A: Cyclical assets attract investors\n   * B: Monetary policy becomes restrictive\n   * C: The yield curve steepens substantially\n\n5) Given that Country Z is in recovery:\n   * Monetary policy typically remains supportive, not restrictive\n   * While yield curves may steepen, it's not the most immediate effect\n   * Cyclical assets becoming more attractive is the most typical immediate market effect\n\nTherefore, the correct option is 【A】",
